@@ -174,6 +174,30 @@ nav .in{grid-template-columns:repeat(4,1fr)}
 .price small{font:500 14px var(--body);color:var(--muted)}
 a.primary{text-align:center;text-decoration:none;display:block}
 .gate .primary,.gate a.primary{align-self:stretch}
+/* Plans pop-up + promo */
+.probtn{font:700 12px var(--body);border:0;border-radius:999px;padding:5px 11px;cursor:pointer;white-space:nowrap;color:#fff;background:linear-gradient(90deg,var(--accent),var(--med))}
+@media (max-width:480px){#upd{display:none}}
+.sheet.plans{max-width:560px}
+.plans h2{text-wrap:balance}
+.plangrid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+@media (max-width:520px){.plangrid{grid-template-columns:1fr}}
+.plan{border:1px solid var(--line);border-radius:14px;padding:14px;display:flex;flex-direction:column;gap:10px;min-width:0}
+.plan.pro{border:2px solid transparent;background:linear-gradient(var(--surface),var(--surface)) padding-box,linear-gradient(135deg,var(--accent),var(--med)) border-box;position:relative}
+.plan.pro .tagline{position:absolute;top:-11px;right:12px;font:700 10px var(--body);letter-spacing:.08em;text-transform:uppercase;background:var(--med);color:#fff;padding:3px 8px;border-radius:999px}
+.plan h3{margin:0;font-family:var(--display);font-weight:800;font-size:18px}
+.plan .price{font-size:26px}
+.plan ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:7px;font-size:14px}
+.plan li{display:flex;gap:8px;align-items:flex-start}
+.plan li::before{content:"✓";color:var(--up);font-weight:800;flex:none}
+.plan li.lock::before{content:"✕";color:var(--muted)}
+.plan li.lock{color:var(--muted)}
+.plan .primary,.plan .ghost,.plan a.primary{margin-top:auto}
+.fine{font-size:12px;color:var(--muted);margin:0;text-align:center}
+.promo{display:flex;align-items:center;gap:12px;border-radius:14px;padding:12px 14px;margin-bottom:14px;color:var(--fg);border:1px solid transparent;background:linear-gradient(var(--surface),var(--surface)) padding-box,linear-gradient(135deg,var(--accent),var(--med)) border-box;cursor:pointer;width:100%;text-align:left;font:inherit;animation:rise .4s ease-out both}
+.promo .ic{font-size:22px;flex:none}
+.promo b{display:block;font-size:14px}
+.promo span{font-size:12px;color:var(--muted)}
+.promo .go{margin-left:auto;font:700 13px var(--body);color:var(--accent);white-space:nowrap}
 /* Motion */
 @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
 @keyframes pop{from{opacity:0;transform:scale(.94)}to{opacity:1;transform:none}}
@@ -211,7 +235,7 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
   <header class="pad">
     <div class="brand">
       <h1 class="logo">News<span>Trade</span></h1>
-      <div class="right"><span class="sample" id="upd">Updated</span><button class="tzbtn" id="tzbtn" aria-label="Change time zone"></button><button class="acct" id="acctbtn" hidden>Sign in</button></div>
+      <div class="right"><span class="sample" id="upd">Updated</span><button class="tzbtn" id="tzbtn" aria-label="Change time zone"></button><button class="probtn" id="probtn" hidden>★ Premium</button><button class="acct" id="acctbtn" hidden>Sign in</button></div>
     </div>
     <div class="chips" id="chips" role="group" aria-label="Market"></div>
   </header>
@@ -286,6 +310,16 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
       <p class="msg" id="jmsg" role="status"></p>
       <button class="primary" id="jsave" type="submit">Save trade</button>
     </form>
+  </div>
+
+  <div class="overlay" id="planssheet" hidden role="dialog" aria-modal="true" aria-labelledby="plansh">
+    <div class="sheet tall plans">
+      <button type="button" class="close" id="plansclose" aria-label="Close">×</button>
+      <h2 id="plansh">Get more from NewsTrade</h2>
+      <p>Every market in one app, free. Add a free account to keep your setup everywhere, or go Premium to track your trading.</p>
+      <div class="plangrid" id="plangrid"></div>
+      <p class="fine">Prices in US dollars. Cancel Premium any time. Payments handled securely by Dodo Payments.</p>
+    </div>
   </div>
 
   <div class="overlay" id="evsheet" hidden role="dialog" aria-modal="true" aria-labelledby="evh">
@@ -410,6 +444,7 @@ function calendar(){
   const list=myOnly?mine:all;
   const now=Date.now(), nxt=list.find(e=>e.at>now&&e.imp==="high")||list.find(e=>e.at>now);
   let html=`<div class="seg" role="group" aria-label="Which events"><button id="seg-all" data-seg="all" aria-pressed="${!myOnly}">All events</button><button id="seg-mine" data-seg="mine" aria-pressed="${myOnly}">My events (${mine.length})</button></div>`;
+  html+=promoHTML();
   html+=nxt?`<div class="next"><div><small>Next ${nxt.imp==="high"?"high-impact ":""}event</small><b>${nxt.tag} · ${nxt.name}</b></div><div class="count" id="count" data-at="${+nxt.at}"></div></div>`:"";
   let day="";
   list.forEach((e,i)=>{
@@ -470,7 +505,7 @@ const amsg=(t,cls="")=>{const m=$("#amsg");m.textContent=t;m.className="msg "+cl
 function setMode(m){mode=m;$("#tab-in").setAttribute("aria-selected",m==="in");$("#tab-up").setAttribute("aria-selected",m==="up");
   $("#namewrap").hidden=m!=="up";$("#asubmit").textContent=m==="in"?"Sign in":"Create account";$("#aforgot").hidden=m!=="in";
   $("#apass").autocomplete=m==="in"?"current-password":"new-password";amsg("")}
-function acctLabel(){const b=$("#acctbtn");if(!sb){b.hidden=true;return}b.hidden=false;
+function acctLabel(){const b=$("#acctbtn");proBtn();if(!sb){b.hidden=true;return}b.hidden=false;
   if(me){const n=(me.user_metadata?.name||me.email||"?").trim();b.textContent=n.split(" ")[0].slice(0,12);b.classList.add("on")}
   else{b.textContent="Sign in";b.classList.remove("on")}}
 async function pullPrefs(){const d=me?.user_metadata||{};
@@ -491,7 +526,9 @@ async function loadSub(){if(!sb||!me){sub=null;premium=false;return}
   const was=premium;
   premium=!!sub&&(["active","on_trial","past_due"].includes(sub.status)||(sub.status==="cancelled"&&new Date(sub.ends_at)>new Date()));
   if(premium&&!was){jrows=null;jstate="idle"}
-  planBox();journal()}
+  planBox();journal();proBtn();calendar();
+  if(!$("#planssheet").hidden)plansGrid();
+  if(wantPremium){wantPremium=false;if(!premium)openPlans()}}
 let subLoaded=false;
 function checkoutLink(){if(!CHECKOUT_URL||!me)return"";
   const u=new URL(CHECKOUT_URL);u.searchParams.set("quantity","1");
@@ -511,6 +548,32 @@ function planBox(){const el=$("#planbox");if(!el)return;
   else el.innerHTML=`<div class="row"><span class="badge">Free plan</span><span class="price">$5<small> / month</small></span></div><p style="margin:0">Premium adds the trade journal and email alerts before your starred events.</p>${upgradeBtn()}`;
   const opt=$("#emailopt");opt.disabled=!premium;if(!premium)opt.checked=false}
 document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible"&&me)loadSub()});
+
+// PLANS POP-UP: Free account vs Premium
+let wantPremium=false;
+function plansGrid(){
+  const free=["Calendar, prices and news for every market","Watchlist and My events saved on every device","Your time zone and market filter remembered","Join the discussion on every event"];
+  const pro=["Everything in the free account","Trade journal with your win rate and total profit worked out","Email alerts 30 minutes before your starred events"];
+  let freeCta,proCta;
+  if(!me){freeCta=`<button class="ghost" data-signup>Create free account</button>`;proCta=`<button class="primary" data-signup-pro>Start Premium · $5/month</button>`}
+  else if(premium){freeCta=`<p class="fine">Included in your plan</p>`;proCta=`<p class="fine" style="color:var(--up);font-weight:700">You're Premium. Thank you!</p>`}
+  else{freeCta=`<p class="fine">✓ Your current plan</p>`;proCta=upgradeBtn("Go Premium · $5/month")}
+  $("#plangrid").innerHTML=`<div class="plan"><h3>Free account</h3><div class="price">$0</div><ul>${free.map(f=>`<li>${f}</li>`).join("")}<li class="lock">Trade journal</li><li class="lock">Email alerts</li></ul>${freeCta}</div>
+    <div class="plan pro"><span class="tagline">Most popular</span><h3>Premium</h3><div class="price">$5<small> / month</small></div><ul>${pro.map(f=>`<li>${f}</li>`).join("")}</ul>${proCta}</div>`}
+function anyOverlayOpen(){return [...document.querySelectorAll(".overlay")].some(o=>!o.hidden)}
+function openPlans(){plansGrid();["#evsheet","#mesheet","#authsheet"].forEach(s=>$(s).hidden=true);$("#planssheet").hidden=false;store.set("nt-plans-seen",Date.now())}
+function proBtn(){const b=$("#probtn");if(b)b.hidden=!sb||premium||(me&&!subLoaded)}
+function promoHTML(){if(!sb||premium||(me&&!subLoaded))return"";
+  return `<button class="promo" data-plans><span class="ic">★</span><div><b>${me?"Unlock your trade journal":"Keep your watchlist on every device"}</b><span>${me?"Premium adds the journal and email alerts for $5/month.":"Free account in 30 seconds · Premium from $5/month"}</span></div><span class="go">See plans →</span></button>`}
+$("#plansclose").addEventListener("click",()=>$("#planssheet").hidden=true);
+$("#probtn").addEventListener("click",openPlans);
+// Show the plans pop-up once to visitors who aren't Premium: after 25 seconds, at most every 3 days.
+const openedAt=Date.now();
+setInterval(()=>{
+  if(!sb||premium||(me&&!subLoaded)||!tz||anyOverlayOpen())return;
+  if(Date.now()-openedAt<25000)return;
+  if(Date.now()-(+store.get("nt-plans-seen",0))<3*864e5)return;
+  openPlans()},5000);
 
 // EVENT DISCUSSION (Supabase table "comments": anyone reads, members post and delete their own)
 let ccount={}, curEv=null, cRows=[];
@@ -655,8 +718,10 @@ document.addEventListener("click",e=>{
   const evr=e.target.closest(".ev[data-ev]"); if(evr){openEvent(evr.dataset.ev);return}
   const sg=e.target.closest("[data-seg]"); if(sg){myOnly=sg.dataset.seg==="mine";store.set("nt-myonly",myOnly);pushPrefs();calendar();return}
   const st=e.target.closest(".star"); if(st){const s=st.dataset.sym;watch.has(s)?watch.delete(s):watch.add(s);store.set("nt-watch",[...watch]);pushPrefs();markets();return}
-  if(e.target.closest("[data-signin]")){$("#evsheet").hidden=true;setMode("in");$("#authsheet").hidden=false;$("#aemail").focus();return}
-  if(e.target.closest("[data-signup]")){$("#evsheet").hidden=true;setMode("up");$("#authsheet").hidden=false;$("#aname").focus();return}
+  if(e.target.closest("[data-plans]")){openPlans();return}
+  if(e.target.closest("[data-signup-pro]")){wantPremium=true;$("#planssheet").hidden=true;setMode("up");$("#authsheet").hidden=false;$("#aname").focus();return}
+  if(e.target.closest("[data-signin]")){$("#evsheet").hidden=true;$("#planssheet").hidden=true;setMode("in");$("#authsheet").hidden=false;$("#aemail").focus();return}
+  if(e.target.closest("[data-signup]")){$("#evsheet").hidden=true;$("#planssheet").hidden=true;setMode("up");$("#authsheet").hidden=false;$("#aname").focus();return}
   if(e.target.closest("[data-addtrade]")){openTrade();return}
   const del=e.target.closest("[data-del]"); if(del){
     if(!del.classList.contains("confirm")){del.classList.add("confirm");del.textContent="Tap again to delete";setTimeout(()=>{if(del.isConnected){del.classList.remove("confirm");del.textContent="Delete"}},3000);return}
