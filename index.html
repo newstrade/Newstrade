@@ -102,6 +102,18 @@ nav button svg{width:22px;height:22px;stroke:currentColor;fill:none;stroke-width
 nav button[aria-selected="true"]{color:var(--accent)}
 .app{-webkit-user-select:none;user-select:none;-webkit-touch-callout:none}
 .sheet input{-webkit-user-select:text;user-select:text}
+.acct{font:700 12px var(--body);background:var(--accent);color:#fff;border:0;border-radius:999px;padding:5px 12px;cursor:pointer;white-space:nowrap}
+.acct.on{background:var(--accent-soft);color:var(--accent)}
+.tabs2{display:grid;grid-template-columns:1fr 1fr;background:var(--bg);border-radius:10px;padding:3px}
+.tabs2 button{font:600 14px var(--body);border:0;background:none;color:var(--muted);padding:8px;border-radius:8px;cursor:pointer}
+.tabs2 button[aria-selected="true"]{background:var(--surface);color:var(--fg);box-shadow:0 1px 3px rgba(0,0,0,.12)}
+.sheet label{font-size:13px;font-weight:600;display:flex;flex-direction:column;gap:5px}
+.msg{font-size:13px;margin:0;min-height:1em}
+.msg.err{color:var(--down)} .msg.ok{color:var(--up)}
+.link{background:none;border:0;color:var(--accent);font:600 13px var(--body);cursor:pointer;padding:0;align-self:flex-start}
+.ghost{font:600 14px var(--body);background:none;border:1px solid var(--line);color:var(--fg);border-radius:12px;padding:11px;cursor:pointer}
+.close{position:absolute;top:12px;right:14px;background:none;border:0;font-size:22px;color:var(--muted);cursor:pointer;line-height:1}
+.sheet{position:relative}
 .copy{font-size:12px;color:var(--muted);text-align:center;margin-top:22px}
 /* Motion */
 @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
@@ -140,7 +152,7 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
   <header class="pad">
     <div class="brand">
       <h1 class="logo">News<span>Trade</span></h1>
-      <div class="right"><span class="sample" id="upd">Updated</span><button class="tzbtn" id="tzbtn" aria-label="Change time zone"></button></div>
+      <div class="right"><span class="sample" id="upd">Updated</span><button class="tzbtn" id="tzbtn" aria-label="Change time zone"></button><button class="acct" id="acctbtn" hidden>Sign in</button></div>
     </div>
     <div class="chips" id="chips" role="group" aria-label="Market"></div>
   </header>
@@ -164,6 +176,34 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
     </div>
   </div>
 
+  <div class="overlay" id="authsheet" hidden role="dialog" aria-modal="true" aria-labelledby="authh">
+    <form class="sheet" id="authform" novalidate>
+      <button type="button" class="close" id="authclose" aria-label="Close">×</button>
+      <h2 id="authh">Your NewsTrade account</h2>
+      <p>Save your time zone and alerts, and use them on any device.</p>
+      <div class="tabs2" role="tablist">
+        <button type="button" id="tab-in" role="tab" aria-selected="true">Sign in</button>
+        <button type="button" id="tab-up" role="tab" aria-selected="false">Create account</button>
+      </div>
+      <label id="namewrap" hidden>Name<input id="aname" type="text" autocomplete="name" placeholder="Your name"></label>
+      <label>Email<input id="aemail" type="email" autocomplete="email" placeholder="you@example.com" required></label>
+      <label>Password<input id="apass" type="password" autocomplete="current-password" placeholder="At least 8 characters" minlength="8" required></label>
+      <p class="msg" id="amsg" role="status"></p>
+      <button class="primary" id="asubmit" type="submit">Sign in</button>
+      <button type="button" class="link" id="aforgot">Forgot password?</button>
+    </form>
+  </div>
+
+  <div class="overlay" id="mesheet" hidden role="dialog" aria-modal="true" aria-labelledby="meh">
+    <div class="sheet">
+      <button type="button" class="close" id="meclose" aria-label="Close">×</button>
+      <h2 id="meh">Hi there</h2>
+      <p id="meemail"></p>
+      <p>Your time zone and alerts are saved to your account.</p>
+      <button class="ghost" id="signout">Sign out</button>
+    </div>
+  </div>
+
   <nav class="pad"><div class="in" role="tablist">
     <button id="t-calendar" role="tab" aria-selected="true" data-view="calendar"><svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>Calendar</button>
     <button id="t-markets" role="tab" aria-selected="false" data-view="markets"><svg viewBox="0 0 24 24"><path d="M3 17l5-5 4 4 8-9"/><path d="M15 7h5v5"/></svg>Markets</button>
@@ -171,6 +211,7 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
   </div></nav>
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js"></script>
 <script>
 const MARKETS=["All","Forex","Crypto","Stocks","Commodities"];
 let market="All", view="calendar";
@@ -301,15 +342,63 @@ function render(){chips();tzLabel();$("#upd").textContent="Updated "+fmtDT(UPDAT
 $("#tzbtn").addEventListener("click",openTz);
 $("#tzsearch").addEventListener("input",e=>fillZones(e.target.value));
 $("#tzlist").addEventListener("change",showNow);
-$("#tzsave").addEventListener("click",()=>{const z=$("#tzlist").value;if(!z)return;tz=z;store.set("nt-tz",z);$("#tzsheet").hidden=true;render()});
+$("#tzsave").addEventListener("click",()=>{const z=$("#tzlist").value;if(!z)return;tz=z;store.set("nt-tz",z);$("#tzsheet").hidden=true;render();pushPrefs()});
 if(!tz)openTz();
+// ACCOUNTS (Supabase). Fill these two values from Supabase → Project Settings → API.
+const SUPABASE_URL="";
+const SUPABASE_KEY="";
+let sb=null, me=null, mode="in";
+const amsg=(t,cls="")=>{const m=$("#amsg");m.textContent=t;m.className="msg "+cls};
+function setMode(m){mode=m;$("#tab-in").setAttribute("aria-selected",m==="in");$("#tab-up").setAttribute("aria-selected",m==="up");
+  $("#namewrap").hidden=m!=="up";$("#asubmit").textContent=m==="in"?"Sign in":"Create account";$("#aforgot").hidden=m!=="in";
+  $("#apass").autocomplete=m==="in"?"current-password":"new-password";amsg("")}
+function acctLabel(){const b=$("#acctbtn");if(!sb){b.hidden=true;return}b.hidden=false;
+  if(me){const n=(me.user_metadata?.name||me.email||"?").trim();b.textContent=n.split(" ")[0].slice(0,12);b.classList.add("on")}
+  else{b.textContent="Sign in";b.classList.remove("on")}}
+async function pullPrefs(){const d=me?.user_metadata||{};
+  if(d.tz){tz=d.tz;store.set("nt-tz",tz);$("#tzsheet").hidden=true}
+  if(Array.isArray(d.alerts)){d.alerts.forEach(a=>alerts.add(a));store.set("nt-alerts",[...alerts])}
+  render();pushPrefs()}
+let pushT;function pushPrefs(){if(!sb||!me)return;clearTimeout(pushT);pushT=setTimeout(()=>sb.auth.updateUser({data:{tz:tz||detected,alerts:[...alerts]}}).catch(()=>{}),600)}
+async function initAuth(){
+  if(!SUPABASE_URL||!SUPABASE_KEY||!window.supabase)return;
+  sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY);
+  const {data}=await sb.auth.getSession();me=data.session?.user||null;acctLabel();if(me)pullPrefs();
+  sb.auth.onAuthStateChange((ev,s)=>{const was=me;me=s?.user||null;acctLabel();if(me&&!was)pullPrefs()});
+}
+$("#acctbtn").addEventListener("click",()=>{if(me){$("#meh").textContent="Hi "+(me.user_metadata?.name||"there");$("#meemail").textContent="Signed in as "+me.email;$("#mesheet").hidden=false}else{setMode("in");$("#authsheet").hidden=false;$("#aemail").focus()}});
+$("#authclose").addEventListener("click",()=>$("#authsheet").hidden=true);
+$("#meclose").addEventListener("click",()=>$("#mesheet").hidden=true);
+$("#tab-in").addEventListener("click",()=>setMode("in"));
+$("#tab-up").addEventListener("click",()=>setMode("up"));
+$("#signout").addEventListener("click",async()=>{await sb.auth.signOut();$("#mesheet").hidden=true});
+$("#aforgot").addEventListener("click",async()=>{const email=$("#aemail").value.trim();
+  if(!email){amsg("Type your email above first, then tap Forgot password.","err");return}
+  const {error}=await sb.auth.resetPasswordForEmail(email,{redirectTo:location.origin+location.pathname});
+  amsg(error?error.message:"Check your email for a link to reset your password.",error?"err":"ok")});
+$("#authform").addEventListener("submit",async e=>{e.preventDefault();
+  const email=$("#aemail").value.trim(),pass=$("#apass").value,name=$("#aname").value.trim();
+  if(!/^\S+@\S+\.\S+$/.test(email)){amsg("Enter a valid email address.","err");return}
+  if(pass.length<8){amsg("Password needs at least 8 characters.","err");return}
+  const btn=$("#asubmit");btn.disabled=true;amsg(mode==="in"?"Signing in…":"Creating your account…");
+  try{
+    if(mode==="in"){const {error}=await sb.auth.signInWithPassword({email,password:pass});
+      if(error)amsg(error.message==="Invalid login credentials"?"Wrong email or password.":error.message,"err");
+      else{amsg("");$("#authsheet").hidden=true}}
+    else{const {data,error}=await sb.auth.signUp({email,password:pass,options:{data:{name,tz:tz||detected,alerts:[...alerts]},emailRedirectTo:location.origin+location.pathname}});
+      if(error)amsg(error.message,"err");
+      else if(!data.session)amsg("Almost done! Check your email and tap the link to confirm your account.","ok");
+      else{amsg("");$("#authsheet").hidden=true}}
+  }catch(err){amsg("Couldn't reach the server. Check your connection and try again.","err")}
+  btn.disabled=false});
+initAuth();
 document.addEventListener("contextmenu",e=>{if(!e.target.closest("input"))e.preventDefault()});
 document.addEventListener("copy",e=>{if(!e.target.closest||!e.target.closest("input"))e.preventDefault()});
 document.addEventListener("dragstart",e=>e.preventDefault());
 
 document.addEventListener("click",e=>{
   const c=e.target.closest(".chip"); if(c){market=c.dataset.m;render();return}
-  const b=e.target.closest(".bell"); if(b){const id=b.dataset.id;alerts.has(id)?alerts.delete(id):alerts.add(id);store.set("nt-alerts",[...alerts]);calendar();return}
+  const b=e.target.closest(".bell"); if(b){const id=b.dataset.id;alerts.has(id)?alerts.delete(id):alerts.add(id);store.set("nt-alerts",[...alerts]);pushPrefs();calendar();return}
   const t=e.target.closest("nav button"); if(t){view=t.dataset.view;
     document.querySelectorAll("nav button").forEach(x=>x.setAttribute("aria-selected",x===t));
     ["calendar","markets","news"].forEach(v=>$("#v-"+v).hidden=v!==view);scrollTo(0,0)}
