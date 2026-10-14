@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T22:43:31.474Z",
+ "updated": "2026-10-14T23:39:02.578Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,65 +232,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1172,
-   "ch": -0.28,
-   "asof": "2026-10-14T22:43:29.000Z"
+   "p": 1.1187,
+   "ch": 0.27,
+   "asof": "2026-10-14T23:38:25.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3202,
-   "ch": -0.37,
-   "asof": "2026-10-14T22:43:29.000Z"
+   "p": 1.3219,
+   "ch": 0.22,
+   "asof": "2026-10-14T23:38:25.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.085,
-   "ch": -0.15,
-   "asof": "2026-10-14T22:43:30.000Z"
+   "p": 158.062,
+   "ch": -0.14,
+   "asof": "2026-10-14T23:39:02.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6976,
-   "ch": -0.1,
-   "asof": "2026-10-14T22:43:29.000Z"
+   "p": 0.6979,
+   "ch": 0.07,
+   "asof": "2026-10-14T23:37:25.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4228,
-   "ch": 0.08,
-   "asof": "2026-10-14T22:43:30.000Z"
+   "p": 1.4217,
+   "ch": -0.11,
+   "asof": "2026-10-14T23:39:02.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.834,
-   "ch": 0.19,
-   "asof": "2026-10-14T22:43:30.000Z"
+   "p": 0.8328,
+   "ch": -0.18,
+   "asof": "2026-10-14T23:38:59.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81350.01,
-   "ch": -2.1,
-   "asof": "2026-10-14T22:43:29.000Z"
+   "p": 81487.79,
+   "ch": -1.93,
+   "asof": "2026-10-14T23:38:56.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2407.49,
-   "ch": -3.55,
-   "asof": "2026-10-14T22:43:28.000Z"
+   "p": 2416.9,
+   "ch": -3.18,
+   "asof": "2026-10-14T23:38:50.000Z"
   },
   {
    "s": "S&P 500",
@@ -320,17 +320,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4128.3,
-   "ch": 0.5,
-   "asof": "2026-10-14T22:33:31.000Z"
+   "p": 4123.5,
+   "ch": 0.38,
+   "asof": "2026-10-14T23:29:02.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 95.04,
-   "ch": -0.05,
-   "asof": "2026-10-14T22:33:05.000Z"
+   "p": 94.85,
+   "ch": -0.25,
+   "asof": "2026-10-14T23:28:57.000Z"
   }
  ],
  "news": [
@@ -379,16 +379,16 @@
   [
    "Commodities",
    "med",
-   "Opinion | War-Caused Oil Price Spikes Don’t Help the U.S. Economy",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVFRkc2tRMEc4Q1VidVJ5Z0RXcVctMWtVdXN0X1FQVk9MVUlJR1g0V0Q5dXVSbjdjaG1RMTQ2bldRNUFGVkJuLTl5Z3F2STNza3BaX2g1UmFVT0xKTUIzMUtMNmVXbUNSS1lWMDVIanBKMGw5WEY5OEE1QVYwYWVTaHhOM3A5VUJRUnpBOUFOUFFOU3hS?oc=5"
+   "US Crude Oil Inventories See Massive Drop Off",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcG1aeUFSVTFiVzZzbUZuM0t2ajk5TVNFOVFVMjFGdFF0N1Y2VDh5OVFGOVhtWnc2dTYzLUl2Tm1tY2FnWDFQWEJGQ0ZqVThWUENubEwzOEhpQ2k4OTFRLTdraWluYWxvVEFEdWFDQzJPV05mcXVMZzM5aG5mcjZJWDVMNWJSa1hmczFsbWE0M3h4b3JOM084TzJicS1SU1VqRVZN0gGoAUFVX3lxTE8tb2dnNE1rcHZuX3RRNUExM0F4YjVQcDlVS0t4bjBOaUN5S2c1Y0NyNlU1b2F3elBMWmc0ZGotU3lYR3JwZGF3ZjJ4MWE1RnhXdEFaeDdydlZLbF9YcWFSQjhOMVpBdU1UdkNPV0kwLUdWd3pINHZ2cnBnR01FUGwwT01VYnZRT1Jiek43cmUtTUFQV2tOdDYtTUFGamlQVzByQ3RXUjZDQw?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "US Crude Oil Inventories See Massive Drop Off",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcG1aeUFSVTFiVzZzbUZuM0t2ajk5TVNFOVFVMjFGdFF0N1Y2VDh5OVFGOVhtWnc2dTYzLUl2Tm1tY2FnWDFQWEJGQ0ZqVThWUENubEwzOEhpQ2k4OTFRLTdraWluYWxvVEFEdWFDQzJPV05mcXVMZzM5aG5mcjZJWDVMNWJSa1hmczFsbWE0M3h4b3JOM084TzJicS1SU1VqRVZN0gGoAUFVX3lxTE8tb2dnNE1rcHZuX3RRNUExM0F4YjVQcDlVS0t4bjBOaUN5S2c1Y0NyNlU1b2F3elBMWmc0ZGotU3lYR3JwZGF3ZjJ4MWE1RnhXdEFaeDdydlZLbF9YcWFSQjhOMVpBdU1UdkNPV0kwLUdWd3pINHZ2cnBnR01FUGwwT01VYnZRT1Jiek43cmUtTUFQV2tOdDYtTUFGamlQVzByQ3RXUjZDQw?oc=5"
+   "Opinion | War-Caused Oil Price Spikes Don’t Help the U.S. Economy",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVFRkc2tRMEc4Q1VidVJ5Z0RXcVctMWtVdXN0X1FQVk9MVUlJR1g0V0Q5dXVSbjdjaG1RMTQ2bldRNUFGVkJuLTl5Z3F2STNza3BaX2g1UmFVT0xKTUIzMUtMNmVXbUNSS1lWMDVIanBKMGw5WEY5OEE1QVYwYWVTaHhOM3A5VUJRUnpBOUFOUFFOU3hS?oc=5"
   ]
  ]
 }
