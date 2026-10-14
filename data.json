@@ -1,0 +1,394 @@
+{
+ "updated": "2026-10-14T09:28:00.000Z",
+ "events": [
+  {
+   "iso": "2026-10-13T22:10:00-04:00",
+   "tag": "EUR",
+   "imp": "med",
+   "name": "ECB President Lagarde Speaks",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-14T01:30:00-04:00",
+   "tag": "GBP",
+   "imp": "med",
+   "name": "BOE Gov Bailey Speaks",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-14T02:05:00-04:00",
+   "tag": "CAD",
+   "imp": "med",
+   "name": "BOC Gov Macklem Speaks",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-14T04:30:00-04:00",
+   "tag": "EUR",
+   "imp": "med",
+   "name": "ECB President Lagarde Speaks",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-14T06:15:00-04:00",
+   "tag": "EUR",
+   "imp": "med",
+   "name": "EU Economic Summit",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-14T08:30:00-04:00",
+   "tag": "USD",
+   "imp": "high",
+   "name": "Core CPI m/m",
+   "fc": "0.2%",
+   "prev": "0.3%",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-14T08:30:00-04:00",
+   "tag": "USD",
+   "imp": "high",
+   "name": "Core CPI y/y",
+   "fc": "2.5%",
+   "prev": "2.4%",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-14T08:30:00-04:00",
+   "tag": "USD",
+   "imp": "high",
+   "name": "CPI m/m",
+   "fc": "0.6%",
+   "prev": "0.4%",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-14T08:30:00-04:00",
+   "tag": "USD",
+   "imp": "high",
+   "name": "CPI y/y",
+   "fc": "3.6%",
+   "prev": "3.4%",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-14T20:30:00-04:00",
+   "tag": "AUD",
+   "imp": "high",
+   "name": "Employment Change",
+   "fc": "19.6K",
+   "prev": "39.5K",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-14T20:30:00-04:00",
+   "tag": "AUD",
+   "imp": "high",
+   "name": "Unemployment Rate",
+   "fc": "4.6%",
+   "prev": "4.6%",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-15T00:30:00-04:00",
+   "tag": "CHF",
+   "imp": "med",
+   "name": "SNB Chairman Schlegel Speaks",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-15T02:00:00-04:00",
+   "tag": "GBP",
+   "imp": "high",
+   "name": "GDP m/m",
+   "fc": "-0.1%",
+   "prev": "0.4%",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-15T03:30:00-04:00",
+   "tag": "GBP",
+   "imp": "med",
+   "name": "BOE Gov Bailey Speaks",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-15T06:15:00-04:00",
+   "tag": "EUR",
+   "imp": "med",
+   "name": "EU Economic Summit",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-15T08:30:00-04:00",
+   "tag": "USD",
+   "imp": "high",
+   "name": "Core PPI m/m",
+   "fc": "0.3%",
+   "prev": "0.2%",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-15T08:30:00-04:00",
+   "tag": "USD",
+   "imp": "high",
+   "name": "Core Retail Sales m/m",
+   "fc": "0.6%",
+   "prev": "1.4%",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-15T08:30:00-04:00",
+   "tag": "USD",
+   "imp": "high",
+   "name": "PPI m/m",
+   "fc": "0.6%",
+   "prev": "0.4%",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-15T08:30:00-04:00",
+   "tag": "USD",
+   "imp": "high",
+   "name": "Retail Sales m/m",
+   "fc": "0.3%",
+   "prev": "1.2%",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-15T08:30:00-04:00",
+   "tag": "USD",
+   "imp": "med",
+   "name": "Philly Fed Manufacturing Index",
+   "fc": "28.2",
+   "prev": "37.8",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-15T08:30:00-04:00",
+   "tag": "USD",
+   "imp": "med",
+   "name": "Unemployment Claims",
+   "fc": "199K",
+   "prev": "197K",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-15T22:00:00-04:00",
+   "tag": "GBP",
+   "imp": "high",
+   "name": "BOE Gov Bailey Speaks",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-15T23:30:00-04:00",
+   "tag": "USD",
+   "imp": "high",
+   "name": "Fed Chairman Warsh Speaks",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-16T00:15:00-04:00",
+   "tag": "CAD",
+   "imp": "med",
+   "name": "BOC Gov Macklem Speaks",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-17T02:45:00-04:00",
+   "tag": "GBP",
+   "imp": "med",
+   "name": "BOE Gov Bailey Speaks",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  }
+ ],
+ "instruments": [
+  {
+   "s": "EUR/USD",
+   "m": "Forex",
+   "d": 4,
+   "p": 1.118806010225887,
+   "ch": null,
+   "asof": "ECB, Oct 13"
+  },
+  {
+   "s": "GBP/USD",
+   "m": "Forex",
+   "d": 4,
+   "p": 1.3246436708525406,
+   "ch": null,
+   "asof": "ECB, Oct 13"
+  },
+  {
+   "s": "USD/JPY",
+   "m": "Forex",
+   "d": 2,
+   "p": 158.12,
+   "ch": null,
+   "asof": "ECB, Oct 13"
+  },
+  {
+   "s": "AUD/USD",
+   "m": "Forex",
+   "d": 4,
+   "p": 0.6977880120019538,
+   "ch": null,
+   "asof": "ECB, Oct 13"
+  },
+  {
+   "s": "USD/CAD",
+   "m": "Forex",
+   "d": 4,
+   "p": 1.4241,
+   "ch": null,
+   "asof": "ECB, Oct 13"
+  },
+  {
+   "s": "USD/CHF",
+   "m": "Forex",
+   "d": 4,
+   "p": 0.83232,
+   "ch": null,
+   "asof": "ECB, Oct 13"
+  },
+  {
+   "s": "Bitcoin",
+   "m": "Crypto",
+   "d": 0,
+   "p": 83172.7,
+   "ch": 1.61,
+   "asof": "2026-10-14T00:00:00.000Z"
+  },
+  {
+   "s": "Ethereum",
+   "m": "Crypto",
+   "d": 2,
+   "p": 2497.63,
+   "ch": 2.06,
+   "asof": "2026-10-14T00:00:00.000Z"
+  },
+  {
+   "s": "S&P 500",
+   "m": "Stocks",
+   "d": 2,
+   "p": 7805.45,
+   "ch": -0.02,
+   "asof": "2026-10-13T20:00:00.000Z"
+  },
+  {
+   "s": "Nasdaq",
+   "m": "Stocks",
+   "d": 2,
+   "p": 27204.38,
+   "ch": -0.15,
+   "asof": "2026-10-13T20:00:00.000Z"
+  },
+  {
+   "s": "Dow Jones",
+   "m": "Stocks",
+   "d": 2,
+   "p": 51670.1,
+   "ch": -0.35,
+   "asof": "2026-10-13T20:00:00.000Z"
+  },
+  {
+   "s": "Gold",
+   "m": "Commodities",
+   "d": 2,
+   "p": 4173.6,
+   "ch": -0.09,
+   "asof": "2026-10-14T08:40:00.000Z"
+  },
+  {
+   "s": "WTI Oil",
+   "m": "Commodities",
+   "d": 2,
+   "p": 94.14,
+   "ch": 0,
+   "asof": "2026-10-14T08:40:00.000Z"
+  }
+ ],
+ "news": [
+  [
+   "Forex",
+   "high",
+   "Markets brace for September US inflation data; a hot print could put an October Fed hike back on the table",
+   "Yahoo Finance",
+   "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html"
+  ],
+  [
+   "Forex",
+   "med",
+   "Dollar index eases to about 102.1 while the 10-year Treasury yield sits near 5.2% before CPI",
+   "The Crypto Times",
+   "https://www.cryptotimes.io/2026/10/14/us-cpi-live-inflation-data-bitcoin-price-fed-rate-discussion/"
+  ],
+  [
+   "Stocks",
+   "med",
+   "US index futures inch up as earnings season gets going; Nasdaq-100 roughly flat after Tuesday's dip",
+   "Yahoo Finance",
+   "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html"
+  ],
+  [
+   "Stocks",
+   "med",
+   "Chip selling cools in South Korea; ASML and TSMC results this week seen as a test of AI demand",
+   "Yahoo Finance",
+   "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html"
+  ],
+  [
+   "Commodities",
+   "high",
+   "Brent holds above $105 as attacks on Saudi energy sites keep Middle East supply fears alive",
+   "Yahoo Finance",
+   "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Gold steadies after two down days as a Fed official hints at one more hike this year",
+   "Yahoo Finance",
+   "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html"
+  ],
+  [
+   "Crypto",
+   "med",
+   "Bitcoin hovers near $83.4K ahead of CPI; analysts say a soft core reading could extend the recovery",
+   "The Crypto Times",
+   "https://www.cryptotimes.io/2026/10/14/us-cpi-live-inflation-data-bitcoin-price-fed-rate-discussion/"
+  ],
+  [
+   "Crypto",
+   "low",
+   "Strive adds to its treasury, now reportedly holding about 32.8K BTC; Sberbank cleared to offer crypto trading",
+   "KuCoin",
+   "https://kucoin.com/news/articles/crypto-daily-market-report-october-14-2026"
+  ]
+ ]
+}

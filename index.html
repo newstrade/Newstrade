@@ -247,7 +247,7 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
   </header>
 
   <main class="pad">
-    <div class="delay" role="note"><b>Prices are not live.</b> <span id="delaytxt">NewsTrade refreshes every 3 hours, so prices can be up to 3 hours old. Check your broker before you trade.</span></div>
+    <div class="delay" role="note"><b>Prices are not live.</b> <span id="delaytxt">NewsTrade refreshes every hour, so prices can be up to an hour old. Check your broker before you trade.</span></div>
     <section id="v-calendar"></section>
     <section id="v-markets" hidden></section>
     <section id="v-news" hidden></section>
@@ -365,11 +365,11 @@ let watch=new Set(store.get("nt-watch",[]));
 let myOnly=!!store.get("nt-myonly",false);
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 
-// DATA START — the scheduled refresh replaces everything between DATA START and DATA END.
-const UPDATED_AT=new Date("2026-10-14T12:28:00+03:00");
+// DATA START — fallback data shown until the live data.json loads (data.json is refreshed hourly by GitHub Actions).
+let UPDATED_AT=new Date("2026-10-14T12:28:00+03:00");
 // Real economic calendar for the week of Oct 12, 2026 (times in New York time, shown in the viewer's local time).
 const E=(dt,tag,imp,name,fc,prev,act="")=>({at:new Date(`2026-10-${dt}:00-04:00`),m:"Forex",tag,imp,name,act,fc,prev,id:dt+tag+name});
-const events=[
+let events=[
  E("13T22:10","EUR","med","ECB President Lagarde Speaks","",""),
  E("14T01:30","GBP","med","BOE Gov Bailey Speaks","",""),
  E("14T02:05","CAD","med","BOC Gov Macklem Speaks","",""),
@@ -397,7 +397,7 @@ const events=[
  E("17T02:45","GBP","med","BOE Gov Bailey Speaks","","")
 ];
 // Real prices: forex = ECB reference rates (Oct 13); crypto = Oct 14 00:00 UTC; stocks = Oct 13 close, New York; commodities = Oct 14 pre-market futures, New York.
-const instruments=[
+let instruments=[
  ["EUR/USD","Forex",1/0.89381,4,null,"ECB, Oct 13"],["GBP/USD","Forex",1/0.75492,4,null,"ECB, Oct 13"],
  ["USD/JPY","Forex",158.12,2,null,"ECB, Oct 13"],["AUD/USD","Forex",1/1.4331,4,null,"ECB, Oct 13"],
  ["USD/CAD","Forex",1.4241,4,null,"ECB, Oct 13"],["USD/CHF","Forex",0.83232,4,null,"ECB, Oct 13"],
@@ -406,7 +406,7 @@ const instruments=[
  ["Dow Jones","Stocks",51670.10,2,-0.35,new Date("2026-10-13T16:00:00-04:00")],
  ["Gold","Commodities",4173.60,2,-0.09,new Date("2026-10-14T04:40:00-04:00")],["WTI Oil","Commodities",94.14,2,0.00,new Date("2026-10-14T04:40:00-04:00")]
 ].map(([s,m,p,d,ch,asof])=>({s,m,p,d,ch,asof}));
-const news=[
+let news=[
  ["Forex","high","Markets brace for September US inflation data; a hot print could put an October Fed hike back on the table","Yahoo Finance","https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html"],
  ["Forex","med","Dollar index eases to about 102.1 while the 10-year Treasury yield sits near 5.2% before CPI","The Crypto Times","https://www.cryptotimes.io/2026/10/14/us-cpi-live-inflation-data-bitcoin-price-fed-rate-discussion/"],
  ["Stocks","med","US index futures inch up as earnings season gets going; Nasdaq-100 roughly flat after Tuesday's dip","Yahoo Finance","https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html"],
@@ -497,7 +497,7 @@ function newsView(){
 }
 function ago(){const m=Math.round((Date.now()-UPDATED_AT)/60000);return m<60?m+" min ago":Math.round(m/60)+" h ago"}
 function render(){chips();tzLabel();$("#upd").textContent="Updated "+fmtDT(UPDATED_AT);
-  $("#delaytxt").textContent=`Last refresh ${ago()}. NewsTrade refreshes every 3 hours, so prices can be up to 3 hours old. Check your broker before you trade.`;calendar();markets();newsView();journal()}
+  $("#delaytxt").textContent=`Last refresh ${ago()}. NewsTrade refreshes every hour, so prices can be up to an hour old. Check your broker before you trade.`;calendar();markets();newsView();journal()}
 $("#tzbtn").addEventListener("click",openTz);
 $("#tzsearch").addEventListener("input",e=>fillZones(e.target.value));
 $("#tzlist").addEventListener("change",showNow);
@@ -738,6 +738,20 @@ document.addEventListener("click",e=>{
     ["calendar","markets","news","journal"].forEach(v=>$("#v-"+v).hidden=v!==view);scrollTo(0,0)}
 });
 setInterval(tickCount,1000);
+// LIVE DATA: data.json is refreshed hourly by GitHub Actions; load it on open and every 10 minutes.
+const DATA_URL="https://raw.githubusercontent.com/newstrade/Newstrade/main/data.json";
+async function loadLive(){try{
+  const r=await fetch(DATA_URL+"?t="+Math.floor(Date.now()/60000),{cache:"no-store"});if(!r.ok)return;
+  const d=await r.json();
+  if(Array.isArray(d.events)&&d.events.length)events=d.events.map(e=>({at:new Date(e.iso),m:"Forex",tag:e.tag,imp:e.imp,name:e.name,act:e.act||"",fc:e.fc||"",prev:e.prev||"",id:String(e.iso).slice(8,16)+e.tag+e.name}));
+  if(Array.isArray(d.instruments)&&d.instruments.length)instruments=d.instruments.filter(x=>x&&isFinite(+x.p)).map(x=>({s:x.s,m:x.m,p:+x.p,d:x.d??2,ch:x.ch==null?null:+x.ch,asof:/^\d{4}-/.test(x.asof||"")?new Date(x.asof):(x.asof||"")}));
+  if(Array.isArray(d.news)&&d.news.length)news=d.news.filter(n=>Array.isArray(n)&&/^https:\/\//.test(n[4]||""));
+  if(d.updated)UPDATED_AT=new Date(d.updated);
+  render();if(sb)loadCounts();
+}catch(e){}}
+loadLive();setInterval(loadLive,10*60e3);
+document.addEventListener("visibilitychange",()=>{if(!document.hidden)loadLive()});
+
 // ANIMATED BACKGROUND: candlesticks and two price lines drift left like a live chart.
 (function(){
   const cv=document.getElementById("bgfx");if(!cv||!cv.getContext)return;const g=cv.getContext("2d");
