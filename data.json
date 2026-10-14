@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T20:44:18.850Z",
+ "updated": "2026-10-14T21:44:54.706Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,25 +232,25 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1158,
-   "ch": -0.4,
-   "asof": "2026-10-14T20:43:27.000Z"
+   "p": 1.1157,
+   "ch": -0.41,
+   "asof": "2026-10-14T21:44:28.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3189,
-   "ch": -0.47,
-   "asof": "2026-10-14T20:43:27.000Z"
+   "p": 1.3188,
+   "ch": -0.48,
+   "asof": "2026-10-14T21:44:28.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.306,
-   "ch": -0.01,
-   "asof": "2026-10-14T20:44:17.000Z"
+   "p": 158.289,
+   "ch": -0.02,
+   "asof": "2026-10-14T21:44:54.000Z"
   },
   {
    "s": "AUD/USD",
@@ -258,39 +258,39 @@
    "d": 4,
    "p": 0.6974,
    "ch": -0.13,
-   "asof": "2026-10-14T20:43:27.000Z"
+   "asof": "2026-10-14T21:43:28.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4237,
-   "ch": 0.14,
-   "asof": "2026-10-14T20:44:18.000Z"
+   "p": 1.4234,
+   "ch": 0.12,
+   "asof": "2026-10-14T21:44:56.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8349,
-   "ch": 0.3,
-   "asof": "2026-10-14T20:44:17.000Z"
+   "p": 0.8342,
+   "ch": 0.22,
+   "asof": "2026-10-14T21:44:55.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81683.84,
-   "ch": -1.7,
-   "asof": "2026-10-14T20:44:13.000Z"
+   "p": 81721.37,
+   "ch": -1.65,
+   "asof": "2026-10-14T21:44:50.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2418.51,
-   "ch": -3.11,
-   "asof": "2026-10-14T20:44:12.000Z"
+   "p": 2420.76,
+   "ch": -3.02,
+   "asof": "2026-10-14T21:44:51.000Z"
   },
   {
    "s": "S&P 500",
@@ -306,7 +306,7 @@
    "d": 2,
    "p": 26692.87,
    "ch": -1.88,
-   "asof": "2026-10-14T20:44:12.000Z"
+   "asof": "2026-10-14T21:15:59.000Z"
   },
   {
    "s": "Dow Jones",
@@ -320,33 +320,33 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4121.1,
-   "ch": -1.35,
-   "asof": "2026-10-14T20:33:49.000Z"
+   "p": 4127.3,
+   "ch": -1.2,
+   "asof": "2026-10-14T20:59:57.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 95.03,
-   "ch": 0.95,
-   "asof": "2026-10-14T20:34:14.000Z"
+   "p": 95.17,
+   "ch": 1.09,
+   "asof": "2026-10-14T20:59:57.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "UK stocks close higher as weaker sterling boosts export-heavy sectors",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbDdJMzUyQUJmRWNjZE90U1VrZXFaZmcteUNLVUZjUHlNN25DdW4teGlXeDNvTUk4YU5FRm1yMlhxVkU1ekRhMlJPaHJwZGNNQXIyVUJoc25SMHhIOUVWTVA0aFZLU3Y4YzJyZDdRd282UFpLYm5MTkZ0Q19QQ1hLX0ZGRmxuNWJuTV8tMC1MeDNQUkdiVG1vcmViaTJSS052SmVtVno2OTNmU0J1RUxhNDdXSFphaXNGVVVnOUtCV2c0UQ?oc=5"
+   "Rupee Jumps After India Central Bank Unveils Currency-Defense Measures",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiugFBVV95cUxObjRfQjhMOXN6M3FfdUtlSWFzaFVpU1JuNjVDdkdTTzJlNkQzRHpfQUdrLW5oNHN0b1c1WXBxWnlRZzRDTXlkT3cwVDdnYVBpR2JoemZXV0toVGZBWmpCeEg0MktXWHFLNGZRdk83NkZzNGw4Y3BrdDdhaEx5Wk5pbGRrQ0JwcmhyWldqUU5tSEwwY0dVcDBrcUxoSmxoeDNFWXo3LXpBcTQxbVVYVGZxVFRJaDlFSmowWGc?oc=5"
   ],
   [
    "Forex",
-   "high",
-   "Dollar Strengthens on Hot Inflation Data, Higher Treasury Yields",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbEx1Q0FoZmpVSGRtUnE4U2hYRGtNeHpEanFrRUM4UFZRUC10NUh5WmZyUWQ3SUJjTUEzb19YR1JFUXZXQ2pnYlpRbk5fWGVJUEdKZUxTQ1UwRXFmSkhpRy1QOGZGb0d2YlhiTlRMSjlwSGI5c2RDeXZTaDFDbGR3Qm1LdktxaHRzeFZRMElqLVRqZ2hrd0w4NjhwbXJKY3lVNUVodUs0RHB1a2dJLUc2Nw?oc=5"
+   "med",
+   "UK stocks close higher as weaker sterling boosts export-heavy sectors",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbDdJMzUyQUJmRWNjZE90U1VrZXFaZmcteUNLVUZjUHlNN25DdW4teGlXeDNvTUk4YU5FRm1yMlhxVkU1ekRhMlJPaHJwZGNNQXIyVUJoc25SMHhIOUVWTVA0aFZLU3Y4YzJyZDdRd282UFpLYm5MTkZ0Q19QQ1hLX0ZGRmxuNWJuTV8tMC1MeDNQUkdiVG1vcmViaTJSS052SmVtVno2OTNmU0J1RUxhNDdXSFphaXNGVVVnOUtCV2c0UQ?oc=5"
   ],
   [
    "Crypto",
@@ -358,9 +358,9 @@
   [
    "Crypto",
    "med",
-   "Why Is Bitmine Immersion Technologies (BMNR) Rethinking Its Ethereum Accumulation Streak?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNjVtUEo1MlhPN19ubGZ1dENoYWpuZTB4WlIyTDlOM1NnOE5kb1BGZUViTU9WSkYtd0NOWTJ1QnBJU3pXamZncU1oc1EwN2ZxaXpRYlVtRms1ZWZFZnNhS1dpQk9OdzE5c0sxRlVSVENqZGF5SWtCV091N1NyQ040Y3V6c0xOaXBNeVFPUVo1MUt6YThBeEJBTDlWeGZPNE5UME9aX1BZOA?oc=5"
+   "Crypto Industry Complains of Unfair Treatment in German Tax Plan",
+   "Bloomberg Tax",
+   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTHNob04wcHBxTTRBaUxWRzNKQ2JiQWhQUDRaNUJON0RhS1dnT1ZEZUZ4Z1RfYUV1eFk1UUIyTk5YSzh1aUhUa282Z3AyLW5ZMVFJdjJHSTdwYXotWHhuYnhtWk9SeVhNS0tsVXc2UlBrWmpVTWprQVIzZWQtSTBzeW1NNWxZS3VJanJvVGtmVDR1STRFRFdHZ2xCdkRJUmZVTEdvYTFZUndlM3ZSZTM4ZjJoa0tEZlo0dHlzQ2drR09EWkk?oc=5"
   ],
   [
    "Stocks",
@@ -372,9 +372,9 @@
   [
    "Stocks",
    "high",
-   "Stock Market Midday, Oct. 14: Hot Inflation Weighs on Markets, CoreWeave Plummets 15%",
-   "The Motley Fool",
-   "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUnI3V1NoOHBFMENtMGhjVlJsUm1qNEpxNlpyMXBhV0pXN3VmSUVRZXI0dWQxUHdLWDc4Nm9hUUtCZmZfbktDSXBMZ2NaSl9xcXNXOFdTVk4xSFA3cWNLOVNFNVhmYmtYMWF4ZXFZUVVOSWpPS09Ram1oa016R05vQmYwQ3lKTHczYnVsa3NYS3ZBSGpEVWJsSm5jZVpfSUpQR0dpMU9TTkhVRjItYkVjS29IU2JHV1FoWS1RdnVvbE1qQmV4akhaUlhXN2h2dEd4TVlndXRMazY?oc=5"
+   "Update: Nasdaq, S&P 500 Fall for Third Straight Session Following Hot CPI Data",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSjVyQjlsLXdGenFyZmtaN21SbjlHSGx2NXRqM0JoODE0NEdjRzFsdG1CUVJaYkFRNWJuM1d4S0RfWlBPVGJOSUxPYzc4SGY1c1VOam1MaVg1SVVJZ0RHcXZTTElvaXpDSVc2ckM5QlhEMlFQbVBVazdjaUEtYkE3UHRXajlIOGN4V0ZpaFhseHFFQQ?oc=5"
   ],
   [
    "Commodities",
@@ -386,7 +386,7 @@
   [
    "Commodities",
    "med",
-   "Current price of oil as of October 14, 2026",
+   "Current price of oil as of Oct. 14, 2026",
    "Fortune",
    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JcHVBNWl0R1ZQVnc2RWd3WXJ1ajU2bTVWMlI0NWJWVENhdExuRUtVU29FRElCS2RCbmx1UERubklpMkpHYlhBTVIyUm8tN1Vuc3N1a2lHc0p3TEs3eC1UYXBB?oc=5"
   ]
