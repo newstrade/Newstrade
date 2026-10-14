@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T17:45:26.796Z",
+ "updated": "2026-10-14T17:53:47.923Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,105 +232,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1143,
-   "ch": -0.54,
-   "asof": "2026-10-14T17:44:28.000Z"
+   "p": 1.114,
+   "ch": -0.56,
+   "asof": "2026-10-14T17:53:28.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.317,
-   "ch": -0.61,
-   "asof": "2026-10-14T17:44:28.000Z"
+   "p": 1.3167,
+   "ch": -0.63,
+   "asof": "2026-10-14T17:53:28.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.583,
-   "ch": 0.17,
-   "asof": "2026-10-14T17:45:26.000Z"
+   "p": 158.611,
+   "ch": 0.19,
+   "asof": "2026-10-14T17:53:47.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6966,
-   "ch": -0.24,
-   "asof": "2026-10-14T17:43:28.000Z"
+   "p": 0.6963,
+   "ch": -0.29,
+   "asof": "2026-10-14T17:53:28.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4251,
-   "ch": 0.24,
-   "asof": "2026-10-14T17:45:26.000Z"
+   "p": 1.4256,
+   "ch": 0.27,
+   "asof": "2026-10-14T17:53:47.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8361,
-   "ch": 0.44,
-   "asof": "2026-10-14T17:45:27.000Z"
+   "p": 0.8364,
+   "ch": 0.48,
+   "asof": "2026-10-14T17:53:47.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81677.14,
-   "ch": -1.7,
-   "asof": "2026-10-14T17:45:21.000Z"
+   "p": 81486.89,
+   "ch": -1.93,
+   "asof": "2026-10-14T17:53:43.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2434.08,
-   "ch": -2.49,
-   "asof": "2026-10-14T17:45:26.000Z"
+   "p": 2426.14,
+   "ch": -2.81,
+   "asof": "2026-10-14T17:53:44.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7708.59,
-   "ch": -1.24,
-   "asof": "2026-10-14T17:45:27.000Z"
+   "p": 7702.62,
+   "ch": -1.32,
+   "asof": "2026-10-14T17:53:48.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 26687.355,
-   "ch": -1.9,
-   "asof": "2026-10-14T17:45:25.000Z"
+   "p": 26668.016,
+   "ch": -1.97,
+   "asof": "2026-10-14T17:53:44.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 51454.1,
-   "ch": -0.42,
-   "asof": "2026-10-14T17:45:27.000Z"
+   "p": 51433.72,
+   "ch": -0.46,
+   "asof": "2026-10-14T17:53:48.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4107.9,
-   "ch": -1.66,
-   "asof": "2026-10-14T17:35:25.000Z"
+   "p": 4108.3,
+   "ch": -1.65,
+   "asof": "2026-10-14T17:43:46.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 95.8,
-   "ch": 1.76,
-   "asof": "2026-10-14T17:35:18.000Z"
+   "p": 95.82,
+   "ch": 1.78,
+   "asof": "2026-10-14T17:43:38.000Z"
   }
  ],
  "news": [
@@ -351,16 +351,23 @@
   [
    "Crypto",
    "med",
-   "Current price of Bitcoin for October 14, 2026",
-   "Fortune",
-   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DclVqdHhFejMzc2tKdy1zbmpyVXppeHZLN2JMQXNjcWoxRzg3ZUh1U0x6VWRDeXFLMTNWZnEzLVo3SmlIUEpmWVNsR1FURF9TT0RBcV82RWpnQ2d2aVVVNDNOSUljXzg?oc=5"
+   "Bitcoin Just Posted Its Best Q3 Since 2017. If History Is Any Guide, Here's What Comes Next for Bitcoin.",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcjhjTV9ockFhQklPWVNWckd5SXFGSTY2c3pDN0ZEall1azdVVWRSZFk0bkVhQ0JqUGd2MjI2NFdjaVQ5VWtnZ1RGMHhmZk9iWTNDT2VQQnBxWGxFTXJGc2tNQW5odndTOHNoTm1GbGcwc0RaQlF1YUhoTHNNQUVPODlDaWdmU0hkZHM4cG9oX3RheTJwclBZ?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin Just Posted Its Best Q3 Since 2017. If History Is Any Guide, Here's What Comes Next for Bitcoin.",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcjhjTV9ockFhQklPWVNWckd5SXFGSTY2c3pDN0ZEall1azdVVWRSZFk0bkVhQ0JqUGd2MjI2NFdjaVQ5VWtnZ1RGMHhmZk9iWTNDT2VQQnBxWGxFTXJGc2tNQW5odndTOHNoTm1GbGcwc0RaQlF1YUhoTHNNQUVPODlDaWdmU0hkZHM4cG9oX3RheTJwclBZ?oc=5"
+   "Crypto Industry Complains of Unfair Treatment in German Tax Plan",
+   "Bloomberg Tax",
+   "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN2xFTTlZZU5HNHc0QVNJM0hLYkw5cGNfSUpLUi1qajFzMjljVmIxMFlwWTZTVkVoX01JbDBxQkhXTGNfM0JsZy1FWXo5NzhwdG9NMjNua2QzWl9fQmpZNUZWVkJuMkdCMElwYVhIWXhlNTVFY1k0Uy1PRGdTVTJfZjhaZkl1MlNlbS1mWXR3WUtrUmV5NllPN0ZudHhhX3hadEExVU43WnFlbGRKd3p2X2VZMGs2QQ?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
+   "Exclusive | Netflix Eliminates About 1,000 Jobs in Biggest Cuts Since 2022",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbzByckpzbzdQSlowdE1Lb3drNkFxMDIwTFJLT19wLVlMRXV4N1cxX0phU2psVlBCc2lrbWQ0RmF5SlBzSjh2Mko1SzFPTWY0clZPV3Z2TmlsdTd1cE9CSmxQVzVIdGNTblFjb0xvSkRkY0JfZzdlQ1NfY2gzNllOdng2Zy04blNuU0hVYl9SM0pROFcxZUtYTFNhQmRRSU4ySlQwY2ZoZUNfQQ?oc=5"
   ],
   [
    "Stocks",
@@ -368,13 +375,6 @@
    "Wall St tumbles as hot CPI boosts rate-hike bets; banks, AI stocks weigh",
    "Reuters",
    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5"
-  ],
-  [
-   "Stocks",
-   "high",
-   "Hot Inflation Puts the Stock Market’s Autumn Rally to the Test",
-   "Barron's",
-   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUXAxQVIzbUt1VUEweUtTc29naFRpeFg0YkJtRWpvbTVQUW1yMEp0UU10NmV1R2ZSbE5qSndaV0VwNEdONlVVVkRraUxmT1NlclNBcnJ4SUJYUEZ2emJIQkp1dVFOQlIyNU5JRVJwMFJrSnJKemlzOURjcHpXdmxnUzFJWUNtbENKM1BEa2x6YjN0UQ?oc=5"
   ],
   [
    "Commodities",
