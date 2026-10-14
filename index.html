@@ -1,0 +1,322 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="NewsTrade: economic calendar, prices and market news for forex, crypto, stocks and commodities in one place.">
+<style>:root{color-scheme:light;padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bottom)}body{margin:0;font:14px system-ui,sans-serif}img{max-width:100%}[hidden]{display:none!important}</style>
+<title>NewsTrade</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Manrope:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: one-column mobile app — sticky header with market filter, bottom tab bar, scrolling list in between */
+:root{
+  --bg:#f3f4f8; --surface:#ffffff; --line:#e1e4ee; --fg:#141a2e; --muted:#5f6680;
+  --accent:#2f4bd8; --accent-soft:#e6eafd;
+  --up:#0f8a5f; --down:#d1343f;
+  --high:#d1343f; --med:#e8812a; --low:#c9a20e;
+  --display:"Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --body:"Manrope", "Segoe UI", system-ui, sans-serif;
+  --mono:"JetBrains Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0d1120; --surface:#151b2f; --line:#252d47; --fg:#e8ebf5; --muted:#99a0bb;
+  --accent:#7d93ff; --accent-soft:#1f2850; --up:#3ccf93; --down:#ff6b74;
+  --high:#ff5c66; --med:#ff9d4d; --low:#e5c33a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0d1120; --surface:#151b2f; --line:#252d47; --fg:#e8ebf5; --muted:#99a0bb;
+  --accent:#7d93ff; --accent-soft:#1f2850; --up:#3ccf93; --down:#ff6b74;
+  --high:#ff5c66; --med:#ff9d4d; --low:#e5c33a; color-scheme:dark}
+
+html,body{height:100%}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.45}
+.app{max-width:640px;margin:0 auto;min-height:100%;display:flex;flex-direction:column}
+.pad{padding-left:max(16px, env(safe-area-inset-left, 0px));padding-right:max(16px, env(safe-area-inset-right, 0px))}
+
+header{position:sticky;top:env(safe-area-inset-top, 0px);z-index:5;background:var(--bg);padding-block:14px 10px;border-bottom:1px solid var(--line)}
+.brand{display:flex;align-items:baseline;justify-content:space-between;gap:12px}
+.logo{font-family:var(--display);font-weight:800;font-size:26px;letter-spacing:-.02em;margin:0}
+.logo span{color:var(--accent)}
+.sample{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:2px 8px}
+.chips{display:flex;gap:8px;overflow-x:auto;margin-top:12px;scrollbar-width:none}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:none;font:600 13px var(--body);border:1px solid var(--line);background:var(--surface);color:var(--fg);padding:7px 14px;border-radius:999px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+main{flex:1;padding-block:14px 96px}
+.next{background:var(--accent-soft);border-radius:14px;padding:14px 16px;display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:18px}
+.next small{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.next b{font-weight:700}
+.count{font-family:var(--mono);font-size:20px;color:var(--accent);font-variant-numeric:tabular-nums;white-space:nowrap}
+
+h2.day{font-family:var(--display);font-weight:600;font-size:15px;margin:18px 0 6px;color:var(--muted)}
+.list{background:var(--surface);border:1px solid var(--line);border-radius:14px;overflow:hidden}
+.ev{display:grid;grid-template-columns:52px 1fr auto;gap:4px 10px;padding:12px 14px;border-top:1px solid var(--line);align-items:center}
+.ev:first-child{border-top:0}
+.time{font-family:var(--mono);font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}
+.title{min-width:0;font-weight:600;display:flex;align-items:center;gap:8px}
+.title span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.dot{flex:none;width:8px;height:8px;border-radius:50%}
+.dot.high{background:var(--high)} .dot.med{background:var(--med)} .dot.low{background:var(--low)}
+.tag{flex:none;font:600 11px var(--mono);padding:2px 6px;border-radius:6px;background:var(--bg);color:var(--muted)}
+.bell{background:none;border:0;cursor:pointer;color:var(--muted);font-size:17px;padding:4px;line-height:1}
+.bell[aria-pressed="true"]{color:var(--accent)}
+.nums{grid-column:2 / 4;display:flex;gap:16px;font-size:12px;color:var(--muted)}
+.nums b{font-family:var(--mono);font-weight:500;color:var(--fg);font-variant-numeric:tabular-nums}
+.nums b.up{color:var(--up)} .nums b.down{color:var(--down)}
+.legend{display:flex;gap:14px;font-size:12px;color:var(--muted);margin-top:14px;flex-wrap:wrap}
+.legend span{display:flex;align-items:center;gap:6px}
+
+.mk{display:grid;grid-template-columns:1fr auto 104px;gap:10px;padding:12px 14px;border-top:1px solid var(--line);align-items:center}
+.mk:first-child{border-top:0}
+.mk .sym{font-weight:700} .mk .cls{font-size:12px;color:var(--muted)}
+.mk svg{width:84px;height:30px}
+.px{text-align:right;font-family:var(--mono);font-variant-numeric:tabular-nums}
+.px small{display:block;font-size:12px}
+.up{color:var(--up)} .down{color:var(--down)}
+
+.news{padding:14px;border-top:1px solid var(--line);display:flex;flex-direction:column;gap:6px}
+.news:first-child{border-top:0}
+.news .meta{display:flex;gap:8px;align-items:center;font-size:12px;color:var(--muted);flex-wrap:wrap}
+.news h3{margin:0;font-size:15px;font-weight:600;line-height:1.35;text-wrap:balance}
+.empty{padding:22px;text-align:center;color:var(--muted)}
+.delay{border:1px solid var(--med);border-radius:12px;padding:10px 14px;font-size:13px;margin-bottom:14px;color:var(--fg)}
+.delay b{color:var(--med)}
+.tzbtn{font:600 12px var(--body);background:var(--surface);color:var(--fg);border:1px solid var(--line);border-radius:999px;padding:4px 10px;cursor:pointer;max-width:46vw;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.right{display:flex;gap:8px;align-items:center;min-width:0}
+.overlay{position:fixed;inset:0;z-index:20;background:rgba(10,14,30,.55);display:flex;align-items:center;justify-content:center;padding:20px max(16px, env(safe-area-inset-right, 0px)) 20px max(16px, env(safe-area-inset-left, 0px))}
+.sheet{background:var(--surface);color:var(--fg);border-radius:18px;padding:22px;width:100%;max-width:420px;display:flex;flex-direction:column;gap:12px}
+.sheet h2{font-family:var(--display);font-weight:800;font-size:22px;margin:0}
+.sheet p{margin:0;color:var(--muted)}
+.sheet input,.sheet select{font:500 15px var(--body);padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--bg);color:var(--fg);width:100%;box-sizing:border-box}
+.sheet select{height:180px}
+.primary{font:700 15px var(--body);background:var(--accent);color:#fff;border:0;border-radius:12px;padding:12px;cursor:pointer}
+.now{font-family:var(--mono);font-size:13px;color:var(--muted)}
+
+nav{position:fixed;left:0;right:0;bottom:0;z-index:6;background:var(--surface);border-top:1px solid var(--line);padding-bottom:env(safe-area-inset-bottom, 0px)}
+nav .in{max-width:640px;margin:0 auto;display:grid;grid-template-columns:repeat(3,1fr)}
+nav button{background:none;border:0;font:600 12px var(--body);color:var(--muted);padding:10px 0 12px;cursor:pointer;display:flex;flex-direction:column;align-items:center;gap:3px}
+nav button svg{width:22px;height:22px;stroke:currentColor;fill:none;stroke-width:1.8}
+nav button[aria-selected="true"]{color:var(--accent)}
+.app{-webkit-user-select:none;user-select:none;-webkit-touch-callout:none}
+.sheet input{-webkit-user-select:text;user-select:text}
+.copy{font-size:12px;color:var(--muted);text-align:center;margin-top:22px}
+/* Motion */
+@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@keyframes pop{from{opacity:0;transform:scale(.94)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes ping{0%{box-shadow:0 0 0 0 color-mix(in srgb,var(--high) 60%,transparent)}100%{box-shadow:0 0 0 8px transparent}}
+@keyframes shine{0%{background-position:-200% 0}100%{background-position:200% 0}}
+@keyframes flash{0%{color:var(--accent);transform:scale(1.06)}100%{transform:none}}
+.logo{animation:rise .5s ease-out both}
+.logo span{background:linear-gradient(90deg,var(--accent) 40%,var(--med) 50%,var(--accent) 60%);background-size:200% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:shine 4s ease-in-out 1s infinite}
+.chip{transition:transform .15s,background .2s,color .2s,border-color .2s}
+.chip:active{transform:scale(.93)}
+.list > *{animation:rise .4s ease-out both;animation-delay:calc(var(--i,0) * 35ms)}
+h2.day,.next,.delay{animation:rise .4s ease-out both}
+section:not([hidden]){animation:fade .25s ease-out}
+.next{position:relative;overflow:hidden}
+.next::after{content:"";position:absolute;inset:0;background:linear-gradient(110deg,transparent 30%,color-mix(in srgb,var(--surface) 55%,transparent) 50%,transparent 70%);background-size:250% 100%;animation:shine 3.5s linear infinite;pointer-events:none}
+.ev.soon .dot.high{animation:ping 1.4s ease-out infinite}
+.count.tick{animation:flash .35s ease-out}
+.ev,.mk,.news{transition:background .15s}
+.ev:hover,.mk:hover,.news:hover{background:var(--accent-soft)}
+.bell{transition:transform .2s}
+.bell:active{transform:scale(1.4) rotate(-15deg)}
+nav button{transition:color .2s,transform .2s}
+nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
+.overlay:not([hidden]){animation:fade .2s ease-out}
+.overlay:not([hidden]) .sheet{animation:pop .3s cubic-bezier(.2,.9,.3,1.2)}
+.primary{transition:transform .15s,filter .15s}
+.primary:active{transform:scale(.97)}.primary:hover{filter:brightness(1.1)}
+@media (prefers-reduced-motion: reduce){*,*::after{transition:none!important;animation:none!important}}
+</style>
+</head>
+<body>
+
+<div class="app">
+  <header class="pad">
+    <div class="brand">
+      <h1 class="logo">News<span>Trade</span></h1>
+      <div class="right"><span class="sample" id="upd">Updated</span><button class="tzbtn" id="tzbtn" aria-label="Change time zone"></button></div>
+    </div>
+    <div class="chips" id="chips" role="group" aria-label="Market"></div>
+  </header>
+
+  <main class="pad">
+    <div class="delay" role="note"><b>Prices are not live.</b> <span id="delaytxt">NewsTrade refreshes every 3 hours, so prices can be up to 3 hours old. Check your broker before you trade.</span></div>
+    <section id="v-calendar"></section>
+    <section id="v-markets" hidden></section>
+    <section id="v-news" hidden></section>
+    <p class="copy">© 2026 NewsTrade. All rights reserved. Copying or redistributing this app or its design is not permitted.</p>
+  </main>
+
+  <div class="overlay" id="tzsheet" hidden role="dialog" aria-modal="true" aria-labelledby="tzh">
+    <div class="sheet">
+      <h2 id="tzh">Welcome to NewsTrade</h2>
+      <p>Choose your time zone. Every event and price time will show in it.</p>
+      <input id="tzsearch" type="search" placeholder="Search a city, e.g. Nairobi, London, New York" autocomplete="off">
+      <select id="tzlist" size="7" aria-label="Time zone"></select>
+      <div class="now" id="tznow"></div>
+      <button class="primary" id="tzsave">Use this time zone</button>
+    </div>
+  </div>
+
+  <nav class="pad"><div class="in" role="tablist">
+    <button id="t-calendar" role="tab" aria-selected="true" data-view="calendar"><svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>Calendar</button>
+    <button id="t-markets" role="tab" aria-selected="false" data-view="markets"><svg viewBox="0 0 24 24"><path d="M3 17l5-5 4 4 8-9"/><path d="M15 7h5v5"/></svg>Markets</button>
+    <button id="t-news" role="tab" aria-selected="false" data-view="news"><svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M7 9h10M7 13h10M7 17h6"/></svg>News</button>
+  </div></nav>
+</div>
+
+<script>
+const MARKETS=["All","Forex","Crypto","Stocks","Commodities"];
+let market="All", view="calendar";
+const store={get(k,d){try{return JSON.parse(localStorage.getItem(k))??d}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+let alerts=new Set(store.get("nt-alerts",[]));
+
+// DATA START — the scheduled refresh replaces everything between DATA START and DATA END.
+const UPDATED_AT=new Date("2026-10-14T10:25:00+03:00");
+// Real economic calendar for the week of Oct 12, 2026 (times in New York time, shown in the viewer's local time).
+const E=(dt,tag,imp,name,fc,prev)=>({at:new Date(`2026-10-${dt}:00-04:00`),m:"Forex",tag,imp,name,act:"",fc,prev,id:dt+tag+name});
+const events=[
+ E("13T22:10","EUR","med","ECB President Lagarde Speaks","",""),
+ E("14T01:30","GBP","med","BOE Gov Bailey Speaks","",""),
+ E("14T02:05","CAD","med","BOC Gov Macklem Speaks","",""),
+ E("14T04:30","EUR","med","ECB President Lagarde Speaks","",""),
+ E("14T06:15","EUR","med","EU Economic Summit","",""),
+ E("14T08:30","USD","high","Core CPI m/m","0.2%","0.3%"),
+ E("14T08:30","USD","high","Core CPI y/y","2.5%","2.4%"),
+ E("14T08:30","USD","high","CPI m/m","0.6%","0.4%"),
+ E("14T08:30","USD","high","CPI y/y","3.6%","3.4%"),
+ E("14T20:30","AUD","high","Employment Change","19.6K","39.5K"),
+ E("14T20:30","AUD","high","Unemployment Rate","4.6%","4.6%"),
+ E("15T00:30","CHF","med","SNB Chairman Schlegel Speaks","",""),
+ E("15T02:00","GBP","high","GDP m/m","-0.1%","0.4%"),
+ E("15T03:30","GBP","med","BOE Gov Bailey Speaks","",""),
+ E("15T06:15","EUR","med","EU Economic Summit","",""),
+ E("15T08:30","USD","high","Core PPI m/m","0.3%","0.2%"),
+ E("15T08:30","USD","high","Core Retail Sales m/m","0.6%","1.4%"),
+ E("15T08:30","USD","high","PPI m/m","0.6%","0.4%"),
+ E("15T08:30","USD","high","Retail Sales m/m","0.3%","1.2%"),
+ E("15T08:30","USD","med","Philly Fed Manufacturing Index","28.2","37.8"),
+ E("15T08:30","USD","med","Unemployment Claims","199K","197K"),
+ E("15T22:00","GBP","high","BOE Gov Bailey Speaks","",""),
+ E("15T23:30","USD","high","Fed Chairman Warsh Speaks","",""),
+ E("16T00:15","CAD","med","BOC Gov Macklem Speaks","",""),
+ E("17T02:45","GBP","med","BOE Gov Bailey Speaks","","")
+];
+// Real prices: forex = ECB reference rates (Oct 13 close); crypto = Oct 14 00:00 UTC; stocks & commodities = Oct 13 morning, New York.
+const instruments=[
+ ["EUR/USD","Forex",1/0.89381,4,null,"ECB, Oct 13"],["GBP/USD","Forex",1/0.75492,4,null,"ECB, Oct 13"],
+ ["USD/JPY","Forex",158.12,2,null,"ECB, Oct 13"],["AUD/USD","Forex",1/1.4331,4,null,"ECB, Oct 13"],
+ ["USD/CAD","Forex",1.4241,4,null,"ECB, Oct 13"],["USD/CHF","Forex",0.83232,4,null,"ECB, Oct 13"],
+ ["Bitcoin","Crypto",83172.70,0,1.61,new Date("2026-10-14T00:00:00Z")],["Ethereum","Crypto",2497.63,2,2.06,new Date("2026-10-14T00:00:00Z")],
+ ["S&P 500","Stocks",7807.24,2,-0.06,new Date("2026-10-13T09:17:00-04:00")],["Nasdaq","Stocks",27245.90,2,-0.44,new Date("2026-10-13T09:17:00-04:00")],
+ ["Dow Jones","Stocks",51850.55,2,0.38,new Date("2026-10-13T09:17:00-04:00")],
+ ["Gold","Commodities",4208.10,2,0.43,new Date("2026-10-13T09:17:00-04:00")],["WTI Oil","Commodities",92.51,2,-1.30,new Date("2026-10-13T09:17:00-04:00")]
+].map(([s,m,p,d,ch,asof])=>({s,m,p,d,ch,asof}));
+const news=[
+ ["Forex","high","US inflation report due today; markets look for clues on the Fed's next move","Schwab","https://www.schwab.com/learn/story/stock-market-update-open"],
+ ["Crypto","med","Bitcoin rebounds from about $81K toward $84K but stalls below resistance","KuCoin","https://kucoin.com/news/articles/crypto-daily-market-report-october-14-2026"],
+ ["Crypto","med","Short liquidations hit $58M as BTC holds $83.5K ahead of US CPI","The Crypto Times","https://cryptotimes.io/2026/10/14/bitcoin-ethereum-short-liquidations-hit-58m-as-btc-holds-83-5k-ahead-of-us-cpi"],
+ ["Stocks","high","Mixed bank results: JPMorgan and Wells Fargo miss, Goldman and Citi beat","Schwab","https://www.schwab.com/learn/story/stock-market-update-open"],
+ ["Stocks","med","Memory chip makers slide on worries about Chinese competition; Micron down almost 4%","Schwab","https://www.schwab.com/learn/story/stock-market-update-open"],
+ ["Crypto","low","Ledger warns some wallets from one distributor were tampered with","KuCoin","https://kucoin.com/news/articles/crypto-daily-market-report-october-14-2026"],
+ ["Stocks","med","30-year mortgage rate reaches 7.4%, highest since late 2023","Schwab","https://www.schwab.com/learn/story/stock-market-update-open"]
+];
+// DATA END
+
+const $=s=>document.querySelector(s);
+let detected="UTC";try{detected=Intl.DateTimeFormat().resolvedOptions().timeZone||"UTC"}catch(e){}
+let tz=store.get("nt-tz",null);
+const fmtT=d=>d.toLocaleTimeString([], {hour:"2-digit",minute:"2-digit",hour12:false,timeZone:tz||detected});
+const fmtD=d=>d.toLocaleDateString([], {weekday:"long",day:"numeric",month:"short",timeZone:tz||detected});
+const fmtDT=d=>d.toLocaleString([], {day:"numeric",month:"short",hour:"2-digit",minute:"2-digit",hour12:false,timeZone:tz||detected});
+const city=z=>z.split("/").pop().replace(/_/g," ");
+let zones;try{zones=Intl.supportedValuesOf("timeZone")}catch(e){zones=["Africa/Nairobi","Africa/Lagos","Africa/Johannesburg","Africa/Cairo","Europe/London","Europe/Berlin","America/New_York","America/Chicago","America/Los_Angeles","Asia/Dubai","Asia/Kolkata","Asia/Singapore","Asia/Tokyo","Australia/Sydney","UTC"]}
+if(!zones.includes("UTC"))zones.push("UTC");
+const offset=z=>{try{return new Intl.DateTimeFormat("en",{timeZone:z,timeZoneName:"shortOffset"}).formatToParts(new Date()).find(p=>p.type==="timeZoneName").value}catch(e){return""}};
+function fillZones(q=""){
+  const sel=$("#tzlist"),cur=sel.value||tz||detected;q=q.toLowerCase().trim();
+  const list=zones.filter(z=>!q||z.toLowerCase().replace(/_/g," ").includes(q));
+  sel.innerHTML=list.map(z=>`<option value="${z}"${z===cur?" selected":""}>${city(z)} — ${z.split("/")[0]} (${offset(z)})</option>`).join("");
+  if(!sel.value&&list.length)sel.selectedIndex=0;showNow();
+}
+function showNow(){const z=$("#tzlist").value;$("#tznow").textContent=z?"Time there now: "+new Date().toLocaleTimeString([], {hour:"2-digit",minute:"2-digit",hour12:false,timeZone:z}):"No match. Try another city."}
+function openTz(){$("#tzsheet").hidden=false;$("#tzsearch").value="";fillZones();$("#tzsearch").focus()}
+function tzLabel(){$("#tzbtn").textContent="🕒 "+city(tz||detected)+" "+offset(tz||detected)}
+const match=m=>market==="All"||m===market;
+
+function chips(){
+  $("#chips").innerHTML=MARKETS.map(m=>`<button class="chip" id="c-${m}" aria-pressed="${m===market}" data-m="${m}">${m}</button>`).join("");
+}
+function cmpCls(a,f){const x=parseFloat(a),y=parseFloat(f);if(isNaN(x)||isNaN(y))return"";return x>y?"up":x<y?"down":""}
+
+function calendar(){
+  const list=events.filter(e=>match(e.m)).sort((a,b)=>a.at-b.at);
+  const now=Date.now(), nxt=list.find(e=>e.at>now&&e.imp==="high")||list.find(e=>e.at>now);
+  let html=nxt?`<div class="next"><div><small>Next ${nxt.imp==="high"?"high-impact ":""}event</small><b>${nxt.tag} · ${nxt.name}</b></div><div class="count" id="count" data-at="${+nxt.at}"></div></div>`:"";
+  let day="";
+  list.forEach((e,i)=>{
+    const d=fmtD(e.at);
+    if(d!==day){html+=(day?"</div>":"")+`<h2 class="day">${d}</h2><div class="list">`;day=d}
+    const on=alerts.has(e.id);
+    const soon=e.at>now&&e.at-now<6*3600e3;
+    html+=`<div class="ev${soon?" soon":""}" style="--i:${i%12}"><div class="time">${fmtT(e.at)}</div>
+      <div class="title"><i class="dot ${e.imp}" title="${e.imp} impact"></i><em class="tag">${e.tag}</em><span>${e.name}</span></div>
+      <button class="bell" data-id="${e.id}" aria-pressed="${on}" aria-label="Alert for ${e.name}">${on?"●":"○"}</button>
+      <div class="nums"><span>Actual <b class="${cmpCls(e.act,e.fc)}">${e.act||"—"}</b></span><span>Forecast <b>${e.fc||"—"}</b></span><span>Previous <b>${e.prev||"—"}</b></span></div></div>`;
+  });
+  html+=list.length?"</div>":`<div class="list"><div class="empty">No ${market.toLowerCase()} events connected yet. The calendar currently covers economic releases.</div></div>`;
+  html+=`<div class="legend"><span><i class="dot high"></i>High impact</span><span><i class="dot med"></i>Medium</span><span><i class="dot low"></i>Low</span><span>○ Tap to set an alert</span></div>`;
+  $("#v-calendar").innerHTML=html; tickCount();
+}
+function tickCount(){
+  const c=$("#count"); if(!c)return;
+  let s=Math.max(0,Math.floor((+c.dataset.at-Date.now())/1000));
+  const d=Math.floor(s/86400);s%=86400;const h=Math.floor(s/3600);s%=3600;const m=Math.floor(s/60);s%=60;
+  c.textContent=(d?d+"d ":"")+[h,m,s].map(n=>String(n).padStart(2,"0")).join(":");
+  if(s===0){c.classList.remove("tick");void c.offsetWidth;c.classList.add("tick")}
+}
+function markets(){
+  const list=instruments.filter(x=>match(x.m));
+  $("#v-markets").innerHTML=`<div class="list">`+list.map((x,i)=>{
+    const up=(x.ch??0)>=0;
+    const ch=x.ch==null?`<small style="color:var(--muted)">daily close</small>`:`<small class="${up?"up":"down"}">${up?"+":""}${x.ch.toFixed(2)}%</small>`;
+    return `<div class="mk" style="--i:${i}"><div><div class="sym">${x.s}</div><div class="cls">${x.m}</div></div><div class="cls">${typeof x.asof==="string"?x.asof:fmtDT(x.asof)}</div>
+      <div class="px">${x.p.toLocaleString(undefined,{minimumFractionDigits:x.d,maximumFractionDigits:x.d})}${ch}</div></div>`}).join("")+`</div>
+      <p class="cls" style="margin-top:12px">Prices are a snapshot, not a live feed. Times are shown in ${city(tz||detected)} time.</p>`;
+}
+function newsView(){
+  const list=news.filter(n=>match(n[0]));
+  $("#v-news").innerHTML=`<div class="list">`+(list.length?list.map(([m,imp,h,src,url],i)=>
+    `<article class="news" style="--i:${i}"><div class="meta"><i class="dot ${imp}"></i><span>${m}</span><span>·</span><a href="${url}" target="_blank" rel="noopener" style="color:var(--accent)">${src}</a></div><h3>${h}</h3></article>`).join(""):`<div class="empty">No news for ${market}.</div>`)+`</div>`;
+}
+function ago(){const m=Math.round((Date.now()-UPDATED_AT)/60000);return m<60?m+" min ago":Math.round(m/60)+" h ago"}
+function render(){chips();tzLabel();$("#upd").textContent="Updated "+fmtDT(UPDATED_AT);
+  $("#delaytxt").textContent=`Last refresh ${ago()}. NewsTrade refreshes every 3 hours, so prices can be up to 3 hours old. Check your broker before you trade.`;calendar();markets();newsView()}
+$("#tzbtn").addEventListener("click",openTz);
+$("#tzsearch").addEventListener("input",e=>fillZones(e.target.value));
+$("#tzlist").addEventListener("change",showNow);
+$("#tzsave").addEventListener("click",()=>{const z=$("#tzlist").value;if(!z)return;tz=z;store.set("nt-tz",z);$("#tzsheet").hidden=true;render()});
+if(!tz)openTz();
+document.addEventListener("contextmenu",e=>{if(!e.target.closest("input"))e.preventDefault()});
+document.addEventListener("copy",e=>{if(!e.target.closest||!e.target.closest("input"))e.preventDefault()});
+document.addEventListener("dragstart",e=>e.preventDefault());
+
+document.addEventListener("click",e=>{
+  const c=e.target.closest(".chip"); if(c){market=c.dataset.m;render();return}
+  const b=e.target.closest(".bell"); if(b){const id=b.dataset.id;alerts.has(id)?alerts.delete(id):alerts.add(id);store.set("nt-alerts",[...alerts]);calendar();return}
+  const t=e.target.closest("nav button"); if(t){view=t.dataset.view;
+    document.querySelectorAll("nav button").forEach(x=>x.setAttribute("aria-selected",x===t));
+    ["calendar","markets","news"].forEach(v=>$("#v-"+v).hidden=v!==view);scrollTo(0,0)}
+});
+setInterval(tickCount,1000);
+render();
+</script>
+
+</body>
+</html>
