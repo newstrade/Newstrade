@@ -149,6 +149,22 @@ nav .in{grid-template-columns:repeat(4,1fr)}
 .row2{display:grid;grid-template-columns:1fr 1fr;gap:10px}
 .sheet.tall{max-height:88vh;overflow-y:auto}
 .sheet select.short{height:auto}
+.ev{cursor:pointer}
+.cc{font-size:12px;color:var(--accent);font-weight:600;margin-left:auto}
+.evmeta{display:flex;gap:8px;align-items:center;font-size:13px;color:var(--muted);flex-wrap:wrap;padding-right:28px}
+.sheet h3.ch{font-family:var(--display);font-weight:600;font-size:16px;margin:6px 0 0}
+.evnums{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.evnums div{background:var(--bg);border-radius:10px;padding:8px 10px;font-size:12px;color:var(--muted)}
+.evnums b{display:block;font-family:var(--mono);font-weight:500;font-size:15px;color:var(--fg)}
+.cmt{border-top:1px solid var(--line);padding:10px 0;display:flex;flex-direction:column;gap:3px}
+.cmt:first-child{border-top:0}
+.cmt .who{font-size:12px;color:var(--muted);display:flex;gap:8px;align-items:center}
+.cmt .who b{color:var(--fg)}
+.cmt p{margin:0;color:var(--fg)!important;white-space:pre-wrap;overflow-wrap:anywhere}
+.cmt .jdel{margin-left:auto}
+#clist .empty{padding:12px 0;text-align:left}
+.toggle{display:flex!important;flex-direction:row!important;align-items:center;gap:10px;font-weight:600;font-size:14px!important}
+.toggle input{width:20px;height:20px;accent-color:var(--accent);flex:none}
 /* Motion */
 @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
 @keyframes pop{from{opacity:0;transform:scale(.94)}to{opacity:1;transform:none}}
@@ -235,6 +251,8 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
       <h2 id="meh">Hi there</h2>
       <p id="meemail"></p>
       <p>Your time zone, alerts, watchlist, market filter and trade journal are saved to your account.</p>
+      <label class="toggle"><input type="checkbox" id="emailopt"> Email me 30 minutes before my starred events</label>
+      <p class="msg" id="emailmsg"></p>
       <button class="ghost" id="signout">Sign out</button>
     </div>
   </div>
@@ -258,6 +276,24 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
       <p class="msg" id="jmsg" role="status"></p>
       <button class="primary" id="jsave" type="submit">Save trade</button>
     </form>
+  </div>
+
+  <div class="overlay" id="evsheet" hidden role="dialog" aria-modal="true" aria-labelledby="evh">
+    <div class="sheet tall">
+      <button type="button" class="close" id="evclose" aria-label="Close">×</button>
+      <div class="evmeta" id="evmeta"></div>
+      <h2 id="evh"></h2>
+      <div class="evnums" id="evnums"></div>
+      <button type="button" class="ghost" id="evbell"></button>
+      <h3 class="ch">Discussion</h3>
+      <div id="clist"></div>
+      <form id="cform" hidden novalidate style="display:flex;flex-direction:column;gap:8px">
+        <textarea id="cbody" maxlength="500" placeholder="What do you expect from this release?" aria-label="Your comment"></textarea>
+        <p class="msg" id="cmsg" role="status"></p>
+        <button class="primary" id="cpost" type="submit">Post comment</button>
+      </form>
+      <p class="hint" id="cgate" hidden><button data-signin>Sign in</button> or <button data-signup>create a free account</button> to join the discussion.</p>
+    </div>
   </div>
 
   <nav class="pad"><div class="in" role="tablist">
@@ -370,10 +406,10 @@ function calendar(){
     if(d!==day){html+=(day?"</div>":"")+`<h2 class="day">${d}</h2><div class="list">`;day=d}
     const on=alerts.has(e.id);
     const soon=e.at>now&&e.at-now<6*3600e3;
-    html+=`<div class="ev${soon?" soon":""}" style="--i:${i%12}"><div class="time">${fmtT(e.at)}</div>
+    html+=`<div class="ev${soon?" soon":""}" data-ev="${esc(e.id)}" role="button" tabindex="0" aria-label="${esc(e.name)} details and discussion" style="--i:${i%12}"><div class="time">${fmtT(e.at)}</div>
       <div class="title"><i class="dot ${e.imp}" title="${e.imp} impact"></i><em class="tag">${e.tag}</em><span>${e.name}</span></div>
       <button class="bell" data-id="${e.id}" aria-pressed="${on}" aria-label="Alert for ${e.name}">${on?"●":"○"}</button>
-      <div class="nums"><span>Actual <b class="${cmpCls(e.act,e.fc)}">${e.act||"—"}</b></span><span>Forecast <b>${e.fc||"—"}</b></span><span>Previous <b>${e.prev||"—"}</b></span></div></div>`;
+      <div class="nums"><span>Actual <b class="${cmpCls(e.act,e.fc)}">${e.act||"—"}</b></span><span>Forecast <b>${e.fc||"—"}</b></span><span>Previous <b>${e.prev||"—"}</b></span>${ccount[e.id]?`<span class="cc">💬 ${ccount[e.id]}</span>`:""}</div></div>`;
   });
   html+=list.length?"</div>":`<div class="list"><div class="empty">${myOnly?"No starred events yet. Tap ○ next to any event to add it to My events.":`No ${market.toLowerCase()} events connected yet. The calendar currently covers economic releases.`}</div></div>`;
   html+=`<div class="legend"><span><i class="dot high"></i>High impact</span><span><i class="dot med"></i>Medium</span><span><i class="dot low"></i>Low</span><span>○ Tap to add to My events</span></div>`;
@@ -432,8 +468,55 @@ async function pullPrefs(){const d=me?.user_metadata||{};
   if(Array.isArray(d.watch)){d.watch.forEach(a=>watch.add(a));store.set("nt-watch",[...watch])}
   if(MARKETS.includes(d.market)){market=d.market;store.set("nt-market",market)}
   if(typeof d.myOnly==="boolean"){myOnly=d.myOnly;store.set("nt-myonly",myOnly)}
-  jrows=null;render();pushPrefs()}
+  jrows=null;render();pushPrefs();syncAlerts()}
 let pushT;function pushPrefs(){if(!sb||!me)return;clearTimeout(pushT);pushT=setTimeout(()=>sb.auth.updateUser({data:{tz:tz||detected,alerts:[...alerts],watch:[...watch],market,myOnly}}).catch(()=>{}),600)}
+
+// EVENT DISCUSSION (Supabase table "comments": anyone reads, members post and delete their own)
+let ccount={}, curEv=null, cRows=[];
+const agoT=t=>{const m=Math.max(0,Math.round((Date.now()-new Date(t))/60000));return m<1?"just now":m<60?m+" min ago":m<1440?Math.round(m/60)+" h ago":Math.round(m/1440)+" d ago"};
+async function loadCounts(){if(!sb)return;
+  const {data,error}=await sb.from("comments").select("event_id").in("event_id",events.map(e=>e.id)).limit(5000);
+  if(error)return;ccount={};data.forEach(r=>ccount[r.event_id]=(ccount[r.event_id]||0)+1);calendar()}
+function evBell(){const on=alerts.has(curEv.id);$("#evbell").textContent=on?"● In My events (tap to remove)":"○ Add to My events";$("#evbell").setAttribute("aria-pressed",on)}
+function openEvent(id){const e=events.find(x=>x.id===id);if(!e)return;curEv=e;
+  $("#evmeta").innerHTML=`<i class="dot ${e.imp}"></i><span>${e.imp==="high"?"High":e.imp==="med"?"Medium":"Low"} impact</span><span>·</span><em class="tag">${esc(e.tag)}</em><span>${esc(fmtD(e.at))}, ${esc(fmtT(e.at))}</span>`;
+  $("#evh").textContent=e.name;
+  $("#evnums").innerHTML=`<div>Actual<b class="${cmpCls(e.act,e.fc)}">${esc(e.act||"—")}</b></div><div>Forecast<b>${esc(e.fc||"—")}</b></div><div>Previous<b>${esc(e.prev||"—")}</b></div>`;
+  evBell();$("#cmsg").textContent="";$("#cbody").value="";
+  $("#cform").hidden=!(sb&&me);$("#cgate").hidden=!!(sb&&me)||!sb;
+  $("#evsheet").hidden=false;loadComments()}
+async function loadComments(){const el=$("#clist");
+  if(!sb){el.innerHTML=`<div class="empty">Discussion isn't available right now.</div>`;return}
+  el.innerHTML=`<div class="empty">Loading comments…</div>`;const id=curEv.id;
+  const {data,error}=await sb.from("comments").select("id,user_id,name,body,created_at").eq("event_id",id).order("created_at",{ascending:true}).limit(200);
+  if(!curEv||curEv.id!==id)return;
+  if(error){el.innerHTML=`<div class="empty">${/relation|schema cache|does not exist/i.test(error.message)?"Discussion isn't switched on yet.":"Couldn't load comments."}</div>`;return}
+  cRows=data;ccount[id]=data.length;renderComments()}
+function renderComments(){$("#clist").innerHTML=cRows.length?cRows.map(c=>`<div class="cmt"><div class="who"><b>${esc(c.name||"Trader")}</b><span>${agoT(c.created_at)}</span>${me&&c.user_id===me.id?`<button class="jdel" data-cdel="${esc(c.id)}">Delete</button>`:""}</div><p>${esc(c.body)}</p></div>`).join(""):`<div class="empty">No comments yet. Be the first to share your view.</div>`}
+$("#evclose").addEventListener("click",()=>{$("#evsheet").hidden=true;curEv=null;calendar()});
+$("#evbell").addEventListener("click",()=>{toggleAlert(curEv);evBell()});
+$("#cform").addEventListener("submit",async e=>{e.preventDefault();
+  const body=$("#cbody").value.trim(),m=$("#cmsg");
+  if(!body){m.textContent="Write something first.";m.className="msg err";return}
+  const btn=$("#cpost");btn.disabled=true;m.textContent="Posting…";m.className="msg";
+  const {data,error}=await sb.from("comments").insert({event_id:curEv.id,body:body.slice(0,500)}).select("id,user_id,name,body,created_at").single();
+  btn.disabled=false;
+  if(error){m.textContent=/slow down/i.test(error.message)?"You're posting too fast. Wait a minute and try again.":/relation|schema cache|does not exist/i.test(error.message)?"Discussion isn't switched on yet.":"Couldn't post: "+error.message;m.className="msg err";return}
+  m.textContent="";$("#cbody").value="";cRows.push(data);ccount[curEv.id]=cRows.length;renderComments()});
+
+// EMAIL ALERTS (Supabase table "event_alerts"; a database job emails members 30 min before starred events)
+function toggleAlert(e){if(!e)return;const id=e.id;
+  if(alerts.has(id)){alerts.delete(id);if(sb&&me)sb.from("event_alerts").delete().eq("user_id",me.id).eq("event_id",id).then(()=>{})}
+  else{alerts.add(id);if(sb&&me&&e.at>Date.now())sb.from("event_alerts").upsert({user_id:me.id,event_id:id,title:(e.tag+" "+e.name).slice(0,160),at:e.at.toISOString()},{onConflict:"user_id,event_id",ignoreDuplicates:true}).then(()=>{})}
+  store.set("nt-alerts",[...alerts]);pushPrefs()}
+function syncAlerts(){if(!sb||!me)return;
+  const rows=events.filter(e=>alerts.has(e.id)&&e.at>Date.now()).map(e=>({user_id:me.id,event_id:e.id,title:(e.tag+" "+e.name).slice(0,160),at:e.at.toISOString()}));
+  if(rows.length)sb.from("event_alerts").upsert(rows,{onConflict:"user_id,event_id",ignoreDuplicates:true}).then(()=>{})}
+$("#emailopt").addEventListener("change",async e=>{const on=e.target.checked,m=$("#emailmsg");m.textContent="Saving…";m.className="msg";
+  const {error}=await sb.auth.updateUser({data:{emailAlerts:on}});
+  if(error){e.target.checked=!on;m.textContent="Couldn't save. Try again.";m.className="msg err";return}
+  if(on)syncAlerts();
+  m.textContent=on?"Done. Star events with ○ and we'll email "+me.email+" 30 minutes before each one.":"Email alerts are off.";m.className="msg ok"});
 
 // TRADE JOURNAL (Supabase table "journal", each user sees only their own rows)
 let jrows=null, jstate="idle", jerr="";
@@ -482,10 +565,10 @@ async function initAuth(){
   if(!SUPABASE_URL||!SUPABASE_KEY||!window.supabase)return;
   sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY);
   const {data}=await sb.auth.getSession();me=data.session?.user||null;acctLabel();if(me)pullPrefs();
-  render();
+  render();loadCounts();
   sb.auth.onAuthStateChange((ev,s)=>{const was=me;me=s?.user||null;acctLabel();if(me&&!was)pullPrefs();if(!me&&was){jrows=null;jstate="idle";render()}});
 }
-$("#acctbtn").addEventListener("click",()=>{if(me){$("#meh").textContent="Hi "+(me.user_metadata?.name||"there");$("#meemail").textContent="Signed in as "+me.email;$("#mesheet").hidden=false}else{setMode("in");$("#authsheet").hidden=false;$("#aemail").focus()}});
+$("#acctbtn").addEventListener("click",()=>{if(me){$("#meh").textContent="Hi "+(me.user_metadata?.name||"there");$("#meemail").textContent="Signed in as "+me.email;$("#emailopt").checked=!!me.user_metadata?.emailAlerts;$("#emailmsg").textContent="";$("#mesheet").hidden=false}else{setMode("in");$("#authsheet").hidden=false;$("#aemail").focus()}});
 $("#authclose").addEventListener("click",()=>$("#authsheet").hidden=true);
 $("#meclose").addEventListener("click",()=>$("#mesheet").hidden=true);
 $("#tab-in").addEventListener("click",()=>setMode("in"));
@@ -514,14 +597,20 @@ initAuth();
 document.addEventListener("contextmenu",e=>{if(!e.target.closest("input,textarea"))e.preventDefault()});
 document.addEventListener("copy",e=>{if(!e.target.closest||!e.target.closest("input,textarea"))e.preventDefault()});
 document.addEventListener("dragstart",e=>e.preventDefault());
+document.addEventListener("keydown",e=>{if((e.key==="Enter"||e.key===" ")&&e.target.matches&&e.target.matches(".ev[data-ev]")){e.preventDefault();openEvent(e.target.dataset.ev)}});
 
 document.addEventListener("click",e=>{
   const c=e.target.closest(".chip"); if(c){market=c.dataset.m;store.set("nt-market",market);pushPrefs();render();return}
-  const b=e.target.closest(".bell"); if(b){const id=b.dataset.id;alerts.has(id)?alerts.delete(id):alerts.add(id);store.set("nt-alerts",[...alerts]);pushPrefs();calendar();return}
+  const b=e.target.closest(".bell"); if(b){toggleAlert(events.find(x=>x.id===b.dataset.id));calendar();return}
+  const cd=e.target.closest("[data-cdel]"); if(cd){
+    if(!cd.classList.contains("confirm")){cd.classList.add("confirm");cd.textContent="Tap again to delete";setTimeout(()=>{if(cd.isConnected){cd.classList.remove("confirm");cd.textContent="Delete"}},3000);return}
+    const id=cd.dataset.cdel;cd.textContent="Deleting…";
+    sb.from("comments").delete().eq("id",id).then(({error})=>{if(error){cd.textContent="Couldn't delete";return}cRows=cRows.filter(c=>String(c.id)!==id);if(curEv)ccount[curEv.id]=cRows.length;renderComments()});return}
+  const evr=e.target.closest(".ev[data-ev]"); if(evr){openEvent(evr.dataset.ev);return}
   const sg=e.target.closest("[data-seg]"); if(sg){myOnly=sg.dataset.seg==="mine";store.set("nt-myonly",myOnly);pushPrefs();calendar();return}
   const st=e.target.closest(".star"); if(st){const s=st.dataset.sym;watch.has(s)?watch.delete(s):watch.add(s);store.set("nt-watch",[...watch]);pushPrefs();markets();return}
-  if(e.target.closest("[data-signin]")){setMode("in");$("#authsheet").hidden=false;$("#aemail").focus();return}
-  if(e.target.closest("[data-signup]")){setMode("up");$("#authsheet").hidden=false;$("#aname").focus();return}
+  if(e.target.closest("[data-signin]")){$("#evsheet").hidden=true;setMode("in");$("#authsheet").hidden=false;$("#aemail").focus();return}
+  if(e.target.closest("[data-signup]")){$("#evsheet").hidden=true;setMode("up");$("#authsheet").hidden=false;$("#aname").focus();return}
   if(e.target.closest("[data-addtrade]")){openTrade();return}
   const del=e.target.closest("[data-del]"); if(del){
     if(!del.classList.contains("confirm")){del.classList.add("confirm");del.textContent="Tap again to delete";setTimeout(()=>{if(del.isConnected){del.classList.remove("confirm");del.textContent="Delete"}},3000);return}
