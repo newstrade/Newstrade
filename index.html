@@ -118,7 +118,7 @@ nav button[aria-selected="true"]{color:var(--accent)}
 .seg{display:inline-grid;grid-auto-flow:column;background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:3px;margin-bottom:14px}
 .seg button{font:600 13px var(--body);border:0;background:none;color:var(--muted);padding:6px 14px;border-radius:999px;cursor:pointer}
 .seg button[aria-pressed="true"]{background:var(--accent);color:#fff}
-.mk{grid-template-columns:26px 1fr auto 104px}
+.mk{grid-template-columns:26px 1fr auto 104px;cursor:pointer}
 .star{background:none;border:0;cursor:pointer;font-size:18px;line-height:1;padding:2px;color:var(--line);transition:transform .2s,color .2s}
 .star[aria-pressed="true"]{color:var(--med)}
 .star:active{transform:scale(1.4) rotate(15deg)}
@@ -126,7 +126,7 @@ h2.sub{font-family:var(--display);font-weight:600;font-size:15px;margin:4px 0 6p
 h2.sub + .list{margin-bottom:16px}
 .hint{font-size:12px;color:var(--muted);margin:10px 0 0}
 .hint button{background:none;border:0;padding:0;color:var(--accent);font:600 12px var(--body);cursor:pointer}
-nav .in{grid-template-columns:repeat(4,1fr)}
+nav .in{grid-template-columns:repeat(5,1fr)}
 .stats{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-bottom:14px}
 .stat{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:12px}
 .stat small{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
@@ -202,6 +202,19 @@ header{background:color-mix(in srgb,var(--bg) 72%,transparent);-webkit-backdrop-
 .promo .ic{font-size:22px;flex:none}
 .promo b{display:block;font-size:14px}
 .promo span{font-size:12px;color:var(--muted)}
+.rooms{margin:0 0 6px}
+.chatlist{display:flex;flex-direction:column;gap:10px;min-height:40vh;padding-bottom:8px}
+.bub{max-width:82%;align-self:flex-start;background:var(--surface);border:1px solid var(--line);border-radius:16px 16px 16px 4px;padding:8px 12px;display:flex;flex-direction:column;gap:2px;animation:rise .25s ease-out both}
+.bub.me{align-self:flex-end;background:var(--accent);border-color:var(--accent);color:#fff;border-radius:16px 16px 4px 16px}
+.bub .who{font-size:12px;color:var(--muted);display:flex;gap:8px;align-items:center}
+.bub.me .who{color:rgba(255,255,255,.8)}
+.bub .who b{color:var(--fg)}.bub.me .who b{color:#fff}
+.bub p{margin:0;white-space:pre-wrap;overflow-wrap:anywhere}
+.bub .jdel{color:inherit;opacity:.8;margin-left:auto;font-size:11px}
+.composer{position:sticky;bottom:calc(74px + env(safe-area-inset-bottom, 0px));display:flex;gap:8px;align-items:flex-end;background:color-mix(in srgb,var(--bg) 85%,transparent);-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px);padding:8px 0;z-index:4}
+.composer textarea{flex:1;min-width:0;font:500 15px var(--body);padding:10px 12px;border:1px solid var(--line);border-radius:18px;background:var(--surface);color:var(--fg);resize:none;max-height:120px;-webkit-user-select:text;user-select:text}
+.composer .primary{border-radius:18px;padding:10px 16px}
+.daysep{align-self:center;font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
 .promo .go{margin-left:auto;font:700 13px var(--body);color:var(--accent);white-space:nowrap}
 /* Motion */
 @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
@@ -252,6 +265,17 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
     <section id="v-markets" hidden></section>
     <section id="v-news" hidden></section>
     <section id="v-journal" hidden></section>
+    <section id="v-chat" hidden>
+      <div class="chips rooms" id="rooms" role="group" aria-label="Chat room"></div>
+      <p class="hint" id="roomnote"></p>
+      <div class="chatlist" id="chatlist" aria-live="polite"></div>
+      <form class="composer" id="chatform" hidden novalidate>
+        <textarea id="chatbody" rows="1" maxlength="500" placeholder="Message the room…" aria-label="Your message"></textarea>
+        <button class="primary" id="chatsend" type="submit" aria-label="Send">Send</button>
+      </form>
+      <p class="msg" id="chatmsg" role="status"></p>
+      <div class="gate" id="chatgate" hidden><h2>Join the chat</h2><p>Anyone can read. Create a free account to post in General and the market rooms.</p><button class="primary" data-signup>Create free account</button><button class="link" data-signin>I already have an account</button></div>
+    </section>
     <p class="copy">© 2026 NewsTrade. All rights reserved. Copying or redistributing this app or its design is not permitted.</p>
   </main>
 
@@ -270,7 +294,7 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
     <form class="sheet" id="authform" novalidate>
       <button type="button" class="close" id="authclose" aria-label="Close">×</button>
       <h2 id="authh">Your NewsTrade account</h2>
-      <p>Free account: save your watchlist, starred events and settings on every device, and join event discussions. Premium ($5/month) adds the trade journal and email alerts.</p>
+      <p>Free account: save your watchlist, starred events and settings on every device, and join the chat and discussions. Premium ($5/month) adds the trade journal and email alerts.</p>
       <div class="tabs2" role="tablist">
         <button type="button" id="tab-in" role="tab" aria-selected="true">Sign in</button>
         <button type="button" id="tab-up" role="tab" aria-selected="false">Create account</button>
@@ -351,6 +375,7 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
     <button id="t-markets" role="tab" aria-selected="false" data-view="markets"><svg viewBox="0 0 24 24"><path d="M3 17l5-5 4 4 8-9"/><path d="M15 7h5v5"/></svg>Markets</button>
     <button id="t-news" role="tab" aria-selected="false" data-view="news"><svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M7 9h10M7 13h10M7 17h6"/></svg>News</button>
     <button id="t-journal" role="tab" aria-selected="false" data-view="journal"><svg viewBox="0 0 24 24"><path d="M5 4h11a3 3 0 0 1 3 3v13H8a3 3 0 0 1-3-3z"/><path d="M5 17a3 3 0 0 1 3-3h11M9 8h6"/></svg>Journal</button>
+    <button id="t-chat" role="tab" aria-selected="false" data-view="chat"><svg viewBox="0 0 24 24"><path d="M4 5h16v11H9l-5 4z"/><path d="M8 9h8M8 12h5"/></svg>Chat</button>
   </div></nav>
 </div>
 
@@ -481,12 +506,12 @@ function markets(){
   const row=(x,i)=>{
     const up=(x.ch??0)>=0, on=watch.has(x.s);
     const ch=x.ch==null?`<small style="color:var(--muted)">daily close</small>`:`<small class="${up?"up":"down"}">${up?"+":""}${x.ch.toFixed(2)}%</small>`;
-    return `<div class="mk" style="--i:${i}"><button class="star" data-sym="${esc(x.s)}" aria-pressed="${on}" aria-label="${on?"Remove":"Add"} ${esc(x.s)} ${on?"from":"to"} watchlist">${on?"★":"☆"}</button><div><div class="sym">${x.s}</div><div class="cls">${x.m}</div></div><div class="cls">${typeof x.asof==="string"?x.asof:fmtDT(x.asof)}</div>
+    return `<div class="mk" data-mk="${esc(x.s)}" role="button" tabindex="0" aria-label="${esc(x.s)} discussion" style="--i:${i}"><button class="star" data-sym="${esc(x.s)}" aria-pressed="${on}" aria-label="${on?"Remove":"Add"} ${esc(x.s)} ${on?"from":"to"} watchlist">${on?"★":"☆"}</button><div><div class="sym">${x.s}</div><div class="cls">${x.m}${ccount[mkKey(x.s)]?` · <span style="color:var(--accent);font-weight:600">💬 ${ccount[mkKey(x.s)]}</span>`:""}</div></div><div class="cls">${typeof x.asof==="string"?x.asof:fmtDT(x.asof)}</div>
       <div class="px">${x.p.toLocaleString(undefined,{minimumFractionDigits:x.d,maximumFractionDigits:x.d})}${ch}</div></div>`};
   let html="";
   if(fav.length)html+=`<h2 class="sub">Your watchlist</h2><div class="list">${fav.map(row).join("")}</div><h2 class="sub">All markets</h2>`;
   html+=`<div class="list">${rest.map(row).join("")||'<div class="empty">Everything here is on your watchlist.</div>'}</div>`;
-  html+=`<p class="hint">${fav.length?"":"Tap ☆ to pin a market to the top. "}Prices are a snapshot, not a live feed. Times are shown in ${city(tz||detected)} time.</p>`;
+  html+=`<p class="hint">${fav.length?"":"Tap ☆ to pin a market to the top. "}Tap any market to join its discussion. Prices are a snapshot, not a live feed. Times are shown in ${city(tz||detected)} time.</p>`;
   if(sb&&!me)html+=`<p class="hint">Your watchlist is saved on this device only. <button data-signin>Sign in</button> to keep it everywhere.</p>`;
   $("#v-markets").innerHTML=html;
 }
@@ -558,7 +583,7 @@ document.addEventListener("visibilitychange",()=>{if(document.visibilityState===
 // PLANS POP-UP: Free account vs Premium
 let wantPremium=false;
 function plansGrid(){
-  const free=["Calendar, prices and news for every market","Watchlist and My events saved on every device","Your time zone and market filter remembered","Join the discussion on every event"];
+  const free=["Calendar, prices and news for every market","Watchlist and My events saved on every device","Your time zone and market filter remembered","Chat rooms and a discussion on every event and market"];
   const pro=["Everything in the free account","Trade journal with your win rate and total profit worked out","Email alerts 30 minutes before your starred events"];
   let freeCta,proCta;
   if(!me){freeCta=`<button class="ghost" data-signup>Create free account</button>`;proCta=`<button class="primary" data-signup-pro>Start Premium · $5/month</button>`}
@@ -584,14 +609,28 @@ setInterval(()=>{
 // EVENT DISCUSSION (Supabase table "comments": anyone reads, members post and delete their own)
 let ccount={}, curEv=null, cRows=[];
 const agoT=t=>{const m=Math.max(0,Math.round((Date.now()-new Date(t))/60000));return m<1?"just now":m<60?m+" min ago":m<1440?Math.round(m/60)+" h ago":Math.round(m/1440)+" d ago"};
+const mkKey=s=>"mkt_"+String(s).replace(/[^A-Za-z0-9]/g,"");
 async function loadCounts(){if(!sb)return;
-  const {data,error}=await sb.from("comments").select("event_id").in("event_id",events.map(e=>e.id)).limit(5000);
-  if(error)return;ccount={};data.forEach(r=>ccount[r.event_id]=(ccount[r.event_id]||0)+1);calendar()}
-function evBell(){const on=alerts.has(curEv.id);$("#evbell").textContent=on?"● In My events (tap to remove)":"○ Add to My events";$("#evbell").setAttribute("aria-pressed",on)}
+  const keys=[...events.map(e=>e.id),...instruments.map(x=>mkKey(x.s))];
+  const {data,error}=await sb.from("comments").select("event_id").in("event_id",keys).limit(5000);
+  if(error)return;ccount={};data.forEach(r=>ccount[r.event_id]=(ccount[r.event_id]||0)+1);calendar();markets()}
+function evBell(){const b=$("#evbell");
+  if(curEv.kind==="mk"){const on=watch.has(curEv.sym);b.textContent=on?"★ On your watchlist (tap to remove)":"☆ Add to watchlist";b.setAttribute("aria-pressed",on);return}
+  const on=alerts.has(curEv.id);b.textContent=on?"● In My events (tap to remove)":"○ Add to My events";b.setAttribute("aria-pressed",on)}
+function openMarket(sym){const x=instruments.find(i=>i.s===sym);if(!x)return;curEv={kind:"mk",sym,id:mkKey(sym)};
+  const up=(x.ch??0)>=0;
+  $("#evmeta").innerHTML=`<em class="tag">${esc(x.m)}</em><span>Updated ${esc(typeof x.asof==="string"?x.asof:fmtDT(x.asof))}</span>`;
+  $("#evh").textContent=x.s+" discussion";
+  $("#evnums").innerHTML=`<div>Price<b>${x.p.toLocaleString(undefined,{minimumFractionDigits:x.d,maximumFractionDigits:x.d})}</b></div><div>Change<b class="${x.ch==null?"":up?"up":"down"}">${x.ch==null?"—":(up?"+":"")+x.ch.toFixed(2)+"%"}</b></div><div>Market<b>${esc(x.m)}</b></div>`;
+  $("#cbody").placeholder=`Where do you think ${x.s} goes next?`;
+  evBell();$("#cmsg").textContent="";$("#cbody").value="";
+  $("#cform").hidden=!(sb&&me);$("#cgate").hidden=!!(sb&&me)||!sb;
+  $("#evsheet").hidden=false;loadComments()}
 function openEvent(id){const e=events.find(x=>x.id===id);if(!e)return;curEv=e;
   $("#evmeta").innerHTML=`<i class="dot ${e.imp}"></i><span>${e.imp==="high"?"High":e.imp==="med"?"Medium":"Low"} impact</span><span>·</span><em class="tag">${esc(e.tag)}</em><span>${esc(fmtD(e.at))}, ${esc(fmtT(e.at))}</span>`;
   $("#evh").textContent=e.name;
   $("#evnums").innerHTML=`<div>Actual<b class="${cmpCls(e.act,e.fc)}">${esc(e.act||"—")}</b></div><div>Forecast<b>${esc(e.fc||"—")}</b></div><div>Previous<b>${esc(e.prev||"—")}</b></div>`;
+  $("#cbody").placeholder="What do you expect from this release?";
   evBell();$("#cmsg").textContent="";$("#cbody").value="";
   $("#cform").hidden=!(sb&&me);$("#cgate").hidden=!!(sb&&me)||!sb;
   $("#evsheet").hidden=false;loadComments()}
@@ -603,8 +642,11 @@ async function loadComments(){const el=$("#clist");
   if(error){el.innerHTML=`<div class="empty">${/relation|schema cache|does not exist/i.test(error.message)?"Discussion isn't switched on yet.":"Couldn't load comments."}</div>`;return}
   cRows=data;ccount[id]=data.length;renderComments()}
 function renderComments(){$("#clist").innerHTML=cRows.length?cRows.map(c=>`<div class="cmt"><div class="who"><b>${esc(c.name||"Trader")}</b><span>${agoT(c.created_at)}</span>${me&&c.user_id===me.id?`<button class="jdel" data-cdel="${esc(c.id)}">Delete</button>`:""}</div><p>${esc(c.body)}</p></div>`).join(""):`<div class="empty">No comments yet. Be the first to share your view.</div>`}
-$("#evclose").addEventListener("click",()=>{$("#evsheet").hidden=true;curEv=null;calendar()});
-$("#evbell").addEventListener("click",()=>{toggleAlert(curEv);evBell()});
+$("#evclose").addEventListener("click",()=>{$("#evsheet").hidden=true;curEv=null;calendar();markets()});
+$("#evbell").addEventListener("click",()=>{
+  if(curEv.kind==="mk"){const s=curEv.sym;watch.has(s)?watch.delete(s):watch.add(s);store.set("nt-watch",[...watch]);pushPrefs()}
+  else toggleAlert(curEv);
+  evBell()});
 $("#cform").addEventListener("submit",async e=>{e.preventDefault();
   const body=$("#cbody").value.trim(),m=$("#cmsg");
   if(!body){m.textContent="Write something first.";m.className="msg err";return}
@@ -613,6 +655,50 @@ $("#cform").addEventListener("submit",async e=>{e.preventDefault();
   btn.disabled=false;
   if(error){m.textContent=/slow down/i.test(error.message)?"You're posting too fast. Wait a minute and try again.":/relation|schema cache|does not exist/i.test(error.message)?"Discussion isn't switched on yet.":"Couldn't post: "+error.message;m.className="msg err";return}
   m.textContent="";$("#cbody").value="";cRows.push(data);ccount[curEv.id]=cRows.length;renderComments()});
+
+// CHAT ROOMS (same "comments" table, thread keys chat_general, chat_forex, …; live via Supabase Realtime, polling as backup)
+const ROOMS=[["general","General"],["forex","Forex"],["crypto","Crypto"],["stocks","Stocks"],["commodities","Commodities"]];
+let room=store.get("nt-room","general"),chatRows=[],chatChan=null,chatLive=false,chatTimer=null,chatReady=false;
+if(!ROOMS.some(r=>r[0]===room))room="general";
+const roomKey=r=>"chat_"+r;
+const ROOMNOTE={general:"Say hi, share ideas and talk markets with other traders.",forex:"Currencies, central banks and economic data.",crypto:"Bitcoin, Ethereum and the rest of crypto.",stocks:"Indices, earnings and individual stocks.",commodities:"Gold, oil and everything else you can dig up or grow."};
+function chatShell(){
+  $("#rooms").innerHTML=ROOMS.map(([k,l])=>`<button class="chip" data-room="${k}" aria-pressed="${k===room}">${k==="general"?"💬 ":""}${l}</button>`).join("");
+  $("#roomnote").textContent=ROOMNOTE[room]+" Be respectful. This isn't financial advice.";
+  const can=!!(sb&&me);$("#chatform").hidden=!can;$("#chatgate").hidden=can||!sb}
+function renderChat(toBottom){
+  const el=$("#chatlist");let day="",html="";
+  if(!sb){el.innerHTML=`<div class="empty">Chat isn't available right now.</div>`;return}
+  if(!chatReady){el.innerHTML=`<div class="empty">Loading messages…</div>`;return}
+  if(!chatRows.length){el.innerHTML=`<div class="empty">No messages in ${esc(ROOMS.find(r=>r[0]===room)[1])} yet. Start the conversation!</div>`;return}
+  for(const c of chatRows){const d=fmtD(new Date(c.created_at));if(d!==day){html+=`<div class="daysep">${esc(d)}</div>`;day=d}
+    const mine=me&&c.user_id===me.id;
+    html+=`<div class="bub${mine?" me":""}"><div class="who"><b>${esc(mine?"You":(c.name||"Trader"))}</b><span>${esc(fmtT(new Date(c.created_at)))}</span>${mine?`<button class="jdel" data-chdel="${esc(c.id)}">Delete</button>`:""}</div><p>${esc(c.body)}</p></div>`}
+  el.innerHTML=html;
+  if(toBottom)requestAnimationFrame(()=>scrollTo({top:document.body.scrollHeight,behavior:"smooth"}))}
+async function loadChat(toBottom){if(!sb){renderChat();return}
+  const key=roomKey(room);
+  const {data,error}=await sb.from("comments").select("id,user_id,name,body,created_at").eq("event_id",key).order("created_at",{ascending:false}).limit(80);
+  if(key!==roomKey(room))return;
+  if(error){$("#chatlist").innerHTML=`<div class="empty">${/relation|schema cache|does not exist/i.test(error.message)?"Chat isn't switched on yet.":"Couldn't load messages."}</div>`;return}
+  const before=chatRows.length;chatRows=data.reverse();chatReady=true;renderChat(toBottom||chatRows.length>before)}
+function subscribeChat(){
+  if(chatChan){try{sb.removeChannel(chatChan)}catch(e){}chatChan=null;chatLive=false}
+  if(!sb||!sb.channel)return;const key=roomKey(room);
+  try{chatChan=sb.channel("room-"+key).on("postgres_changes",{event:"INSERT",schema:"public",table:"comments",filter:"event_id=eq."+key},p=>{
+      const r=p.new;if(r&&r.event_id===roomKey(room)&&!chatRows.some(x=>x.id===r.id)){chatRows.push(r);renderChat(true)}})
+    .subscribe(st=>{chatLive=st==="SUBSCRIBED"})}catch(e){chatLive=false}}
+function openChat(){chatShell();chatReady=false;chatRows=[];renderChat();loadChat(true);subscribeChat();
+  clearInterval(chatTimer);chatTimer=setInterval(()=>{if(view==="chat"&&!document.hidden&&!chatLive)loadChat(false)},15000)}
+$("#chatform").addEventListener("submit",async e=>{e.preventDefault();
+  const ta=$("#chatbody"),body=ta.value.trim(),m=$("#chatmsg");if(!body)return;
+  const btn=$("#chatsend");btn.disabled=true;m.textContent="";m.className="msg";
+  const {data,error}=await sb.from("comments").insert({event_id:roomKey(room),body:body.slice(0,500)}).select("id,user_id,name,body,created_at").single();
+  btn.disabled=false;
+  if(error){m.textContent=/slow down/i.test(error.message)?"You're sending messages too fast. Wait a minute.":/relation|schema cache|does not exist/i.test(error.message)?"Chat isn't switched on yet.":"Couldn't send: "+error.message;m.className="msg err";return}
+  ta.value="";ta.style.height="";if(!chatRows.some(x=>x.id===data.id))chatRows.push(data);renderChat(true)});
+$("#chatbody").addEventListener("keydown",e=>{if(e.key==="Enter"&&!e.shiftKey){e.preventDefault();$("#chatform").requestSubmit()}});
+$("#chatbody").addEventListener("input",e=>{const t=e.target;t.style.height="auto";t.style.height=Math.min(120,t.scrollHeight)+"px"});
 
 // EMAIL ALERTS (Supabase table "event_alerts"; a database job emails members 30 min before starred events)
 function toggleAlert(e){if(!e)return;const id=e.id;
@@ -681,7 +767,7 @@ async function initAuth(){
   sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY);
   const {data}=await sb.auth.getSession();me=data.session?.user||null;acctLabel();if(me)pullPrefs();
   render();loadCounts();
-  sb.auth.onAuthStateChange((ev,s)=>{const was=me;me=s?.user||null;acctLabel();if(me&&!was)pullPrefs();if(!me&&was){jrows=null;jstate="idle";sub=null;premium=false;subLoaded=false;render()}});
+  sb.auth.onAuthStateChange((ev,s)=>{const was=me;me=s?.user||null;acctLabel();if(view==="chat"){chatShell();renderChat()}if(me&&!was)pullPrefs();if(!me&&was){jrows=null;jstate="idle";sub=null;premium=false;subLoaded=false;render()}});
 }
 $("#acctbtn").addEventListener("click",()=>{if(me){$("#meh").textContent="Hi "+(me.user_metadata?.name||"there");$("#meemail").textContent="Signed in as "+me.email;$("#emailopt").checked=!!me.user_metadata?.emailAlerts;$("#emailmsg").textContent="";planBox();loadSub();$("#mesheet").hidden=false}else{setMode("in");$("#authsheet").hidden=false;$("#aemail").focus()}});
 $("#authclose").addEventListener("click",()=>$("#authsheet").hidden=true);
@@ -712,10 +798,12 @@ initAuth();
 document.addEventListener("contextmenu",e=>{if(!e.target.closest("input,textarea"))e.preventDefault()});
 document.addEventListener("copy",e=>{if(!e.target.closest||!e.target.closest("input,textarea"))e.preventDefault()});
 document.addEventListener("dragstart",e=>e.preventDefault());
-document.addEventListener("keydown",e=>{if((e.key==="Enter"||e.key===" ")&&e.target.matches&&e.target.matches(".ev[data-ev]")){e.preventDefault();openEvent(e.target.dataset.ev)}});
+document.addEventListener("keydown",e=>{if((e.key==="Enter"||e.key===" ")&&e.target.matches){
+  if(e.target.matches(".ev[data-ev]")){e.preventDefault();openEvent(e.target.dataset.ev)}
+  else if(e.target.matches(".mk[data-mk]")){e.preventDefault();openMarket(e.target.dataset.mk)}}});
 
 document.addEventListener("click",e=>{
-  const c=e.target.closest(".chip"); if(c){market=c.dataset.m;store.set("nt-market",market);pushPrefs();render();return}
+  const c=e.target.closest(".chip[data-m]"); if(c){market=c.dataset.m;store.set("nt-market",market);pushPrefs();render();return}
   const b=e.target.closest(".bell"); if(b){toggleAlert(events.find(x=>x.id===b.dataset.id));calendar();return}
   const cd=e.target.closest("[data-cdel]"); if(cd){
     if(!cd.classList.contains("confirm")){cd.classList.add("confirm");cd.textContent="Tap again to delete";setTimeout(()=>{if(cd.isConnected){cd.classList.remove("confirm");cd.textContent="Delete"}},3000);return}
@@ -724,6 +812,11 @@ document.addEventListener("click",e=>{
   const evr=e.target.closest(".ev[data-ev]"); if(evr){openEvent(evr.dataset.ev);return}
   const sg=e.target.closest("[data-seg]"); if(sg){myOnly=sg.dataset.seg==="mine";store.set("nt-myonly",myOnly);pushPrefs();calendar();return}
   const st=e.target.closest(".star"); if(st){const s=st.dataset.sym;watch.has(s)?watch.delete(s):watch.add(s);store.set("nt-watch",[...watch]);pushPrefs();markets();return}
+  const mkr=e.target.closest(".mk[data-mk]"); if(mkr){openMarket(mkr.dataset.mk);return}
+  const rm=e.target.closest("[data-room]"); if(rm){room=rm.dataset.room;store.set("nt-room",room);openChat();return}
+  const chd=e.target.closest("[data-chdel]"); if(chd){
+    if(!chd.classList.contains("confirm")){chd.classList.add("confirm");chd.textContent="Tap again";setTimeout(()=>{if(chd.isConnected){chd.classList.remove("confirm");chd.textContent="Delete"}},3000);return}
+    const id=chd.dataset.chdel;sb.from("comments").delete().eq("id",id).then(({error})=>{if(!error){chatRows=chatRows.filter(c=>String(c.id)!==id);renderChat()}});return}
   if(e.target.closest("[data-plans]")){openPlans();return}
   if(e.target.closest("[data-signup-pro]")){wantPremium=true;$("#planssheet").hidden=true;setMode("up");$("#authsheet").hidden=false;$("#aname").focus();return}
   if(e.target.closest("[data-signin]")){$("#evsheet").hidden=true;$("#planssheet").hidden=true;setMode("in");$("#authsheet").hidden=false;$("#aemail").focus();return}
@@ -735,7 +828,8 @@ document.addEventListener("click",e=>{
     sb.from("journal").delete().eq("id",id).then(({error})=>{if(error){del.textContent="Couldn't delete";return}jrows=jrows.filter(r=>String(r.id)!==id);journal()});return}
   const t=e.target.closest("nav button"); if(t){view=t.dataset.view;
     document.querySelectorAll("nav button").forEach(x=>x.setAttribute("aria-selected",x===t));
-    ["calendar","markets","news","journal"].forEach(v=>$("#v-"+v).hidden=v!==view);scrollTo(0,0)}
+    ["calendar","markets","news","journal","chat"].forEach(v=>$("#v-"+v).hidden=v!==view);
+    if(view==="chat")openChat();else scrollTo(0,0)}
 });
 setInterval(tickCount,1000);
 // LIVE DATA: data.json is refreshed hourly by GitHub Actions; load it on open and every 10 minutes.
