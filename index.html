@@ -316,9 +316,9 @@ let myOnly=!!store.get("nt-myonly",false);
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 
 // DATA START — the scheduled refresh replaces everything between DATA START and DATA END.
-const UPDATED_AT=new Date("2026-10-14T10:25:00+03:00");
+const UPDATED_AT=new Date("2026-10-14T12:28:00+03:00");
 // Real economic calendar for the week of Oct 12, 2026 (times in New York time, shown in the viewer's local time).
-const E=(dt,tag,imp,name,fc,prev)=>({at:new Date(`2026-10-${dt}:00-04:00`),m:"Forex",tag,imp,name,act:"",fc,prev,id:dt+tag+name});
+const E=(dt,tag,imp,name,fc,prev,act="")=>({at:new Date(`2026-10-${dt}:00-04:00`),m:"Forex",tag,imp,name,act,fc,prev,id:dt+tag+name});
 const events=[
  E("13T22:10","EUR","med","ECB President Lagarde Speaks","",""),
  E("14T01:30","GBP","med","BOE Gov Bailey Speaks","",""),
@@ -346,24 +346,25 @@ const events=[
  E("16T00:15","CAD","med","BOC Gov Macklem Speaks","",""),
  E("17T02:45","GBP","med","BOE Gov Bailey Speaks","","")
 ];
-// Real prices: forex = ECB reference rates (Oct 13 close); crypto = Oct 14 00:00 UTC; stocks & commodities = Oct 13 morning, New York.
+// Real prices: forex = ECB reference rates (Oct 13); crypto = Oct 14 00:00 UTC; stocks = Oct 13 close, New York; commodities = Oct 14 pre-market futures, New York.
 const instruments=[
  ["EUR/USD","Forex",1/0.89381,4,null,"ECB, Oct 13"],["GBP/USD","Forex",1/0.75492,4,null,"ECB, Oct 13"],
  ["USD/JPY","Forex",158.12,2,null,"ECB, Oct 13"],["AUD/USD","Forex",1/1.4331,4,null,"ECB, Oct 13"],
  ["USD/CAD","Forex",1.4241,4,null,"ECB, Oct 13"],["USD/CHF","Forex",0.83232,4,null,"ECB, Oct 13"],
  ["Bitcoin","Crypto",83172.70,0,1.61,new Date("2026-10-14T00:00:00Z")],["Ethereum","Crypto",2497.63,2,2.06,new Date("2026-10-14T00:00:00Z")],
- ["S&P 500","Stocks",7807.24,2,-0.06,new Date("2026-10-13T09:17:00-04:00")],["Nasdaq","Stocks",27245.90,2,-0.44,new Date("2026-10-13T09:17:00-04:00")],
- ["Dow Jones","Stocks",51850.55,2,0.38,new Date("2026-10-13T09:17:00-04:00")],
- ["Gold","Commodities",4208.10,2,0.43,new Date("2026-10-13T09:17:00-04:00")],["WTI Oil","Commodities",92.51,2,-1.30,new Date("2026-10-13T09:17:00-04:00")]
+ ["S&P 500","Stocks",7805.45,2,-0.02,new Date("2026-10-13T16:00:00-04:00")],["Nasdaq","Stocks",27204.38,2,-0.15,new Date("2026-10-13T16:00:00-04:00")],
+ ["Dow Jones","Stocks",51670.10,2,-0.35,new Date("2026-10-13T16:00:00-04:00")],
+ ["Gold","Commodities",4173.60,2,-0.09,new Date("2026-10-14T04:40:00-04:00")],["WTI Oil","Commodities",94.14,2,0.00,new Date("2026-10-14T04:40:00-04:00")]
 ].map(([s,m,p,d,ch,asof])=>({s,m,p,d,ch,asof}));
 const news=[
- ["Forex","high","US inflation report due today; markets look for clues on the Fed's next move","Schwab","https://www.schwab.com/learn/story/stock-market-update-open"],
- ["Crypto","med","Bitcoin rebounds from about $81K toward $84K but stalls below resistance","KuCoin","https://kucoin.com/news/articles/crypto-daily-market-report-october-14-2026"],
- ["Crypto","med","Short liquidations hit $58M as BTC holds $83.5K ahead of US CPI","The Crypto Times","https://cryptotimes.io/2026/10/14/bitcoin-ethereum-short-liquidations-hit-58m-as-btc-holds-83-5k-ahead-of-us-cpi"],
- ["Stocks","high","Mixed bank results: JPMorgan and Wells Fargo miss, Goldman and Citi beat","Schwab","https://www.schwab.com/learn/story/stock-market-update-open"],
- ["Stocks","med","Memory chip makers slide on worries about Chinese competition; Micron down almost 4%","Schwab","https://www.schwab.com/learn/story/stock-market-update-open"],
- ["Crypto","low","Ledger warns some wallets from one distributor were tampered with","KuCoin","https://kucoin.com/news/articles/crypto-daily-market-report-october-14-2026"],
- ["Stocks","med","30-year mortgage rate reaches 7.4%, highest since late 2023","Schwab","https://www.schwab.com/learn/story/stock-market-update-open"]
+ ["Forex","high","Markets brace for September US inflation data; a hot print could put an October Fed hike back on the table","Yahoo Finance","https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html"],
+ ["Forex","med","Dollar index eases to about 102.1 while the 10-year Treasury yield sits near 5.2% before CPI","The Crypto Times","https://www.cryptotimes.io/2026/10/14/us-cpi-live-inflation-data-bitcoin-price-fed-rate-discussion/"],
+ ["Stocks","med","US index futures inch up as earnings season gets going; Nasdaq-100 roughly flat after Tuesday's dip","Yahoo Finance","https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html"],
+ ["Stocks","med","Chip selling cools in South Korea; ASML and TSMC results this week seen as a test of AI demand","Yahoo Finance","https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html"],
+ ["Commodities","high","Brent holds above $105 as attacks on Saudi energy sites keep Middle East supply fears alive","Yahoo Finance","https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html"],
+ ["Commodities","med","Gold steadies after two down days as a Fed official hints at one more hike this year","Yahoo Finance","https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html"],
+ ["Crypto","med","Bitcoin hovers near $83.4K ahead of CPI; analysts say a soft core reading could extend the recovery","The Crypto Times","https://www.cryptotimes.io/2026/10/14/us-cpi-live-inflation-data-bitcoin-price-fed-rate-discussion/"],
+ ["Crypto","low","Strive adds to its treasury, now reportedly holding about 32.8K BTC; Sberbank cleared to offer crypto trading","KuCoin","https://kucoin.com/news/articles/crypto-daily-market-report-october-14-2026"]
 ];
 // DATA END
 
