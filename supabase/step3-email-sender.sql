@@ -1,5 +1,5 @@
--- NewsTrade step 2: send alert emails through Brevo (free, 300 emails a day).
--- Before running: replace the two PASTE_... values below. Run this only once.
+-- NewsTrade step 3: send Premium alert emails through Brevo (free, 300 emails a day).
+-- Run step 2 (Premium) first. Before running: replace the two PASTE_... values below. Run this only once.
 
 create extension if not exists pg_net with schema extensions;
 create extension if not exists pg_cron;
@@ -29,6 +29,7 @@ begin
        and a.at <= now() + interval '30 minutes'
        and u.email_confirmed_at is not null
        and coalesce((u.raw_user_meta_data->>'emailAlerts')::boolean, false)
+       and public.is_premium(a.user_id)
      limit 200
   loop
     begin
