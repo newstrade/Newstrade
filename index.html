@@ -175,9 +175,9 @@ nav .in{grid-template-columns:repeat(4,1fr)}
 a.primary{text-align:center;text-decoration:none;display:block}
 .gate .primary,.gate a.primary{align-self:stretch}
 /* Photo background: trader at multiple screens (Jakub Żerdzicki, Unsplash License), under a theme-coloured veil for readability */
-:root{--veil:rgba(243,244,248,.84)}
-@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--veil:rgba(13,17,32,.80)}}
-:root[data-theme="dark"]{--veil:rgba(13,17,32,.80)}
+:root{--veil:rgba(243,244,248,.62)}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--veil:rgba(13,17,32,.66)}}
+:root[data-theme="dark"]{--veil:rgba(13,17,32,.66)}
 .bgphoto{position:fixed;inset:0;z-index:-1;pointer-events:none;
   background:linear-gradient(var(--veil),var(--veil)),url("https://images.unsplash.com/photo-1768055105681-7d2096c5165f?auto=format&fit=crop&w=1600&q=70") center/cover no-repeat;
   background-color:var(--bg)}
