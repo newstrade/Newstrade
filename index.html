@@ -115,6 +115,40 @@ nav button[aria-selected="true"]{color:var(--accent)}
 .close{position:absolute;top:12px;right:14px;background:none;border:0;font-size:22px;color:var(--muted);cursor:pointer;line-height:1}
 .sheet{position:relative}
 .copy{font-size:12px;color:var(--muted);text-align:center;margin-top:22px}
+.seg{display:inline-grid;grid-auto-flow:column;background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:3px;margin-bottom:14px}
+.seg button{font:600 13px var(--body);border:0;background:none;color:var(--muted);padding:6px 14px;border-radius:999px;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--accent);color:#fff}
+.mk{grid-template-columns:26px 1fr auto 104px}
+.star{background:none;border:0;cursor:pointer;font-size:18px;line-height:1;padding:2px;color:var(--line);transition:transform .2s,color .2s}
+.star[aria-pressed="true"]{color:var(--med)}
+.star:active{transform:scale(1.4) rotate(15deg)}
+h2.sub{font-family:var(--display);font-weight:600;font-size:15px;margin:4px 0 6px;color:var(--muted)}
+h2.sub + .list{margin-bottom:16px}
+.hint{font-size:12px;color:var(--muted);margin:10px 0 0}
+.hint button{background:none;border:0;padding:0;color:var(--accent);font:600 12px var(--body);cursor:pointer}
+nav .in{grid-template-columns:repeat(4,1fr)}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-bottom:14px}
+.stat{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:12px}
+.stat small{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.stat b{font-family:var(--mono);font-weight:500;font-size:20px;font-variant-numeric:tabular-nums}
+.jrow{display:grid;grid-template-columns:1fr auto;gap:2px 10px;padding:12px 14px;border-top:1px solid var(--line)}
+.jrow:first-child{border-top:0}
+.jrow .meta{font-size:12px;color:var(--muted)}
+.jrow .pl{font-family:var(--mono);text-align:right;font-variant-numeric:tabular-nums}
+.jrow .note{grid-column:1 / 3;font-size:13px;color:var(--muted);white-space:pre-wrap;overflow-wrap:anywhere}
+.jdel{background:none;border:0;color:var(--muted);font:600 12px var(--body);cursor:pointer;padding:0;justify-self:end}
+.jdel.confirm{color:var(--down)}
+.side{font:700 10px var(--mono);padding:2px 6px;border-radius:5px;margin-left:6px}
+.side.buy{background:color-mix(in srgb,var(--up) 18%,transparent);color:var(--up)}
+.side.sell{background:color-mix(in srgb,var(--down) 18%,transparent);color:var(--down)}
+.gate{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:22px;display:flex;flex-direction:column;gap:10px;align-items:flex-start}
+.gate h2{font-family:var(--display);font-weight:800;font-size:22px;margin:0}
+.gate p{margin:0;color:var(--muted)}
+.gate ul{margin:0;padding-left:18px;color:var(--fg);font-size:14px}
+.sheet textarea{font:500 15px var(--body);padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--bg);color:var(--fg);width:100%;box-sizing:border-box;min-height:70px;resize:vertical;-webkit-user-select:text;user-select:text}
+.row2{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.sheet.tall{max-height:88vh;overflow-y:auto}
+.sheet select.short{height:auto}
 /* Motion */
 @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
 @keyframes pop{from{opacity:0;transform:scale(.94)}to{opacity:1;transform:none}}
@@ -162,6 +196,7 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
     <section id="v-calendar"></section>
     <section id="v-markets" hidden></section>
     <section id="v-news" hidden></section>
+    <section id="v-journal" hidden></section>
     <p class="copy">© 2026 NewsTrade. All rights reserved. Copying or redistributing this app or its design is not permitted.</p>
   </main>
 
@@ -180,7 +215,7 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
     <form class="sheet" id="authform" novalidate>
       <button type="button" class="close" id="authclose" aria-label="Close">×</button>
       <h2 id="authh">Your NewsTrade account</h2>
-      <p>Save your time zone and alerts, and use them on any device.</p>
+      <p>Free account: keep a trade journal, and save your watchlist, starred events and settings on every device.</p>
       <div class="tabs2" role="tablist">
         <button type="button" id="tab-in" role="tab" aria-selected="true">Sign in</button>
         <button type="button" id="tab-up" role="tab" aria-selected="false">Create account</button>
@@ -199,24 +234,50 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
       <button type="button" class="close" id="meclose" aria-label="Close">×</button>
       <h2 id="meh">Hi there</h2>
       <p id="meemail"></p>
-      <p>Your time zone and alerts are saved to your account.</p>
+      <p>Your time zone, alerts, watchlist, market filter and trade journal are saved to your account.</p>
       <button class="ghost" id="signout">Sign out</button>
     </div>
+  </div>
+
+  <div class="overlay" id="jsheet" hidden role="dialog" aria-modal="true" aria-labelledby="jh">
+    <form class="sheet tall" id="jform" novalidate>
+      <button type="button" class="close" id="jclose" aria-label="Close">×</button>
+      <h2 id="jh">Log a trade</h2>
+      <label>Instrument<input id="jsym" list="jsyms" placeholder="e.g. EUR/USD" autocomplete="off" required></label>
+      <datalist id="jsyms"></datalist>
+      <div class="row2">
+        <label>Direction<select id="jside" class="short"><option value="buy">Buy</option><option value="sell">Sell</option></select></label>
+        <label>Date<input id="jdate" type="date" required></label>
+      </div>
+      <div class="row2">
+        <label>Entry price<input id="jentry" type="number" step="any" inputmode="decimal" placeholder="1.1180"></label>
+        <label>Exit price<input id="jexit" type="number" step="any" inputmode="decimal" placeholder="1.1225"></label>
+      </div>
+      <label>Profit or loss (your currency, use − for a loss)<input id="jpnl" type="number" step="any" inputmode="decimal" placeholder="e.g. 45 or -20" required></label>
+      <label>Notes<textarea id="jnotes" maxlength="500" placeholder="Why you took it, what you learned"></textarea></label>
+      <p class="msg" id="jmsg" role="status"></p>
+      <button class="primary" id="jsave" type="submit">Save trade</button>
+    </form>
   </div>
 
   <nav class="pad"><div class="in" role="tablist">
     <button id="t-calendar" role="tab" aria-selected="true" data-view="calendar"><svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>Calendar</button>
     <button id="t-markets" role="tab" aria-selected="false" data-view="markets"><svg viewBox="0 0 24 24"><path d="M3 17l5-5 4 4 8-9"/><path d="M15 7h5v5"/></svg>Markets</button>
     <button id="t-news" role="tab" aria-selected="false" data-view="news"><svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M7 9h10M7 13h10M7 17h6"/></svg>News</button>
+    <button id="t-journal" role="tab" aria-selected="false" data-view="journal"><svg viewBox="0 0 24 24"><path d="M5 4h11a3 3 0 0 1 3 3v13H8a3 3 0 0 1-3-3z"/><path d="M5 17a3 3 0 0 1 3-3h11M9 8h6"/></svg>Journal</button>
   </div></nav>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js"></script>
 <script>
 const MARKETS=["All","Forex","Crypto","Stocks","Commodities"];
-let market="All", view="calendar";
 const store={get(k,d){try{return JSON.parse(localStorage.getItem(k))??d}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+let market=store.get("nt-market","All"), view="calendar";
+if(!["All","Forex","Crypto","Stocks","Commodities"].includes(market))market="All";
 let alerts=new Set(store.get("nt-alerts",[]));
+let watch=new Set(store.get("nt-watch",[]));
+let myOnly=!!store.get("nt-myonly",false);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 
 // DATA START — the scheduled refresh replaces everything between DATA START and DATA END.
 const UPDATED_AT=new Date("2026-10-14T10:25:00+03:00");
@@ -297,9 +358,12 @@ function chips(){
 function cmpCls(a,f){const x=parseFloat(a),y=parseFloat(f);if(isNaN(x)||isNaN(y))return"";return x>y?"up":x<y?"down":""}
 
 function calendar(){
-  const list=events.filter(e=>match(e.m)).sort((a,b)=>a.at-b.at);
+  const all=events.filter(e=>match(e.m)).sort((a,b)=>a.at-b.at);
+  const mine=all.filter(e=>alerts.has(e.id));
+  const list=myOnly?mine:all;
   const now=Date.now(), nxt=list.find(e=>e.at>now&&e.imp==="high")||list.find(e=>e.at>now);
-  let html=nxt?`<div class="next"><div><small>Next ${nxt.imp==="high"?"high-impact ":""}event</small><b>${nxt.tag} · ${nxt.name}</b></div><div class="count" id="count" data-at="${+nxt.at}"></div></div>`:"";
+  let html=`<div class="seg" role="group" aria-label="Which events"><button id="seg-all" data-seg="all" aria-pressed="${!myOnly}">All events</button><button id="seg-mine" data-seg="mine" aria-pressed="${myOnly}">My events (${mine.length})</button></div>`;
+  html+=nxt?`<div class="next"><div><small>Next ${nxt.imp==="high"?"high-impact ":""}event</small><b>${nxt.tag} · ${nxt.name}</b></div><div class="count" id="count" data-at="${+nxt.at}"></div></div>`:"";
   let day="";
   list.forEach((e,i)=>{
     const d=fmtD(e.at);
@@ -311,8 +375,9 @@ function calendar(){
       <button class="bell" data-id="${e.id}" aria-pressed="${on}" aria-label="Alert for ${e.name}">${on?"●":"○"}</button>
       <div class="nums"><span>Actual <b class="${cmpCls(e.act,e.fc)}">${e.act||"—"}</b></span><span>Forecast <b>${e.fc||"—"}</b></span><span>Previous <b>${e.prev||"—"}</b></span></div></div>`;
   });
-  html+=list.length?"</div>":`<div class="list"><div class="empty">No ${market.toLowerCase()} events connected yet. The calendar currently covers economic releases.</div></div>`;
-  html+=`<div class="legend"><span><i class="dot high"></i>High impact</span><span><i class="dot med"></i>Medium</span><span><i class="dot low"></i>Low</span><span>○ Tap to set an alert</span></div>`;
+  html+=list.length?"</div>":`<div class="list"><div class="empty">${myOnly?"No starred events yet. Tap ○ next to any event to add it to My events.":`No ${market.toLowerCase()} events connected yet. The calendar currently covers economic releases.`}</div></div>`;
+  html+=`<div class="legend"><span><i class="dot high"></i>High impact</span><span><i class="dot med"></i>Medium</span><span><i class="dot low"></i>Low</span><span>○ Tap to add to My events</span></div>`;
+  if(sb&&!me)html+=`<p class="hint">Your events are saved on this device only. <button data-signin>Sign in</button> to keep them everywhere.</p>`;
   $("#v-calendar").innerHTML=html; tickCount();
 }
 function tickCount(){
@@ -324,12 +389,18 @@ function tickCount(){
 }
 function markets(){
   const list=instruments.filter(x=>match(x.m));
-  $("#v-markets").innerHTML=`<div class="list">`+list.map((x,i)=>{
-    const up=(x.ch??0)>=0;
+  const fav=list.filter(x=>watch.has(x.s)), rest=list.filter(x=>!watch.has(x.s));
+  const row=(x,i)=>{
+    const up=(x.ch??0)>=0, on=watch.has(x.s);
     const ch=x.ch==null?`<small style="color:var(--muted)">daily close</small>`:`<small class="${up?"up":"down"}">${up?"+":""}${x.ch.toFixed(2)}%</small>`;
-    return `<div class="mk" style="--i:${i}"><div><div class="sym">${x.s}</div><div class="cls">${x.m}</div></div><div class="cls">${typeof x.asof==="string"?x.asof:fmtDT(x.asof)}</div>
-      <div class="px">${x.p.toLocaleString(undefined,{minimumFractionDigits:x.d,maximumFractionDigits:x.d})}${ch}</div></div>`}).join("")+`</div>
-      <p class="cls" style="margin-top:12px">Prices are a snapshot, not a live feed. Times are shown in ${city(tz||detected)} time.</p>`;
+    return `<div class="mk" style="--i:${i}"><button class="star" data-sym="${esc(x.s)}" aria-pressed="${on}" aria-label="${on?"Remove":"Add"} ${esc(x.s)} ${on?"from":"to"} watchlist">${on?"★":"☆"}</button><div><div class="sym">${x.s}</div><div class="cls">${x.m}</div></div><div class="cls">${typeof x.asof==="string"?x.asof:fmtDT(x.asof)}</div>
+      <div class="px">${x.p.toLocaleString(undefined,{minimumFractionDigits:x.d,maximumFractionDigits:x.d})}${ch}</div></div>`};
+  let html="";
+  if(fav.length)html+=`<h2 class="sub">Your watchlist</h2><div class="list">${fav.map(row).join("")}</div><h2 class="sub">All markets</h2>`;
+  html+=`<div class="list">${rest.map(row).join("")||'<div class="empty">Everything here is on your watchlist.</div>'}</div>`;
+  html+=`<p class="hint">${fav.length?"":"Tap ☆ to pin a market to the top. "}Prices are a snapshot, not a live feed. Times are shown in ${city(tz||detected)} time.</p>`;
+  if(sb&&!me)html+=`<p class="hint">Your watchlist is saved on this device only. <button data-signin>Sign in</button> to keep it everywhere.</p>`;
+  $("#v-markets").innerHTML=html;
 }
 function newsView(){
   const list=news.filter(n=>match(n[0]));
@@ -338,7 +409,7 @@ function newsView(){
 }
 function ago(){const m=Math.round((Date.now()-UPDATED_AT)/60000);return m<60?m+" min ago":Math.round(m/60)+" h ago"}
 function render(){chips();tzLabel();$("#upd").textContent="Updated "+fmtDT(UPDATED_AT);
-  $("#delaytxt").textContent=`Last refresh ${ago()}. NewsTrade refreshes every 3 hours, so prices can be up to 3 hours old. Check your broker before you trade.`;calendar();markets();newsView()}
+  $("#delaytxt").textContent=`Last refresh ${ago()}. NewsTrade refreshes every 3 hours, so prices can be up to 3 hours old. Check your broker before you trade.`;calendar();markets();newsView();journal()}
 $("#tzbtn").addEventListener("click",openTz);
 $("#tzsearch").addEventListener("input",e=>fillZones(e.target.value));
 $("#tzlist").addEventListener("change",showNow);
@@ -358,13 +429,61 @@ function acctLabel(){const b=$("#acctbtn");if(!sb){b.hidden=true;return}b.hidden
 async function pullPrefs(){const d=me?.user_metadata||{};
   if(d.tz){tz=d.tz;store.set("nt-tz",tz);$("#tzsheet").hidden=true}
   if(Array.isArray(d.alerts)){d.alerts.forEach(a=>alerts.add(a));store.set("nt-alerts",[...alerts])}
-  render();pushPrefs()}
-let pushT;function pushPrefs(){if(!sb||!me)return;clearTimeout(pushT);pushT=setTimeout(()=>sb.auth.updateUser({data:{tz:tz||detected,alerts:[...alerts]}}).catch(()=>{}),600)}
+  if(Array.isArray(d.watch)){d.watch.forEach(a=>watch.add(a));store.set("nt-watch",[...watch])}
+  if(MARKETS.includes(d.market)){market=d.market;store.set("nt-market",market)}
+  if(typeof d.myOnly==="boolean"){myOnly=d.myOnly;store.set("nt-myonly",myOnly)}
+  jrows=null;render();pushPrefs()}
+let pushT;function pushPrefs(){if(!sb||!me)return;clearTimeout(pushT);pushT=setTimeout(()=>sb.auth.updateUser({data:{tz:tz||detected,alerts:[...alerts],watch:[...watch],market,myOnly}}).catch(()=>{}),600)}
+
+// TRADE JOURNAL (Supabase table "journal", each user sees only their own rows)
+let jrows=null, jstate="idle", jerr="";
+async function loadJournal(){if(!sb||!me||jstate==="loading")return;jstate="loading";journal();
+  const {data,error}=await sb.from("journal").select("*").order("traded_on",{ascending:false}).order("created_at",{ascending:false}).limit(500);
+  if(error){jstate="error";jerr=/relation|schema cache|does not exist/i.test(error.message)?"setup":error.message}else{jrows=data;jstate="ready"}
+  journal()}
+function money(n){return (n>0?"+":n<0?"−":"")+Math.abs(n).toLocaleString(undefined,{maximumFractionDigits:2})}
+function journal(){
+  const el=$("#v-journal");
+  if(!sb){el.innerHTML=`<div class="gate"><h2>Trade journal</h2><p>Accounts are not available right now.</p></div>`;return}
+  if(!me){el.innerHTML=`<div class="gate"><h2>Your trade journal</h2><p>Create a free account to log your trades and see how you are really doing.</p>
+    <ul><li>Win rate and total profit worked out for you</li><li>Notes on every trade, so you learn from each one</li><li>Your watchlist and starred events on every device</li></ul>
+    <button class="primary" data-signup>Create free account</button><button class="link" data-signin>I already have an account</button></div>`;return}
+  if(jrows===null&&jstate!=="loading"&&jstate!=="error"){loadJournal();return}
+  if(jstate==="loading"&&jrows===null){el.innerHTML=`<div class="list"><div class="empty">Loading your journal…</div></div>`;return}
+  if(jstate==="error"){el.innerHTML=`<div class="list"><div class="empty">${jerr==="setup"?"The journal isn't switched on yet. The site owner needs to finish the one-time database setup.":"Couldn't load your journal: "+esc(jerr)}</div></div>`;return}
+  const n=jrows.length, wins=jrows.filter(r=>+r.pnl>0).length, total=jrows.reduce((s,r)=>s+(+r.pnl||0),0);
+  let html=`<div class="stats"><div class="stat"><small>Trades</small><b>${n}</b></div><div class="stat"><small>Win rate</small><b>${n?Math.round(wins/n*100)+"%":"—"}</b></div><div class="stat"><small>Total P/L</small><b class="${total>0?"up":total<0?"down":""}">${n?money(total):"—"}</b></div></div>
+    <button class="primary" data-addtrade style="width:100%;margin-bottom:14px">+ Log a trade</button>`;
+  html+=`<div class="list">`+(n?jrows.map((r,i)=>{const p=+r.pnl||0;
+    return `<div class="jrow" style="--i:${i%12}"><div><b>${esc(r.symbol)}</b><span class="side ${r.side==="sell"?"sell":"buy"}">${r.side==="sell"?"SELL":"BUY"}</span>
+      <div class="meta">${new Date(r.traded_on+"T12:00:00").toLocaleDateString([], {day:"numeric",month:"short",year:"numeric"})}${r.entry!=null?" · "+esc(r.entry)+" → "+esc(r.exit??"open"):""}</div></div>
+      <div><div class="pl ${p>0?"up":p<0?"down":""}">${money(p)}</div><button class="jdel" data-del="${esc(r.id)}">Delete</button></div>
+      ${r.notes?`<div class="note">${esc(r.notes)}</div>`:""}</div>`}).join(""):`<div class="empty">No trades yet. Tap “Log a trade” to add your first one.</div>`)+`</div>`;
+  el.innerHTML=html;
+}
+function openTrade(){
+  $("#jsyms").innerHTML=instruments.map(x=>`<option value="${esc(x.s)}">`).join("");
+  $("#jform").reset();$("#jdate").value=new Date().toLocaleDateString("en-CA",{timeZone:tz||detected});$("#jmsg").textContent="";$("#jmsg").className="msg";
+  $("#jsheet").hidden=false;$("#jsym").focus()}
+$("#jclose").addEventListener("click",()=>$("#jsheet").hidden=true);
+$("#jform").addEventListener("submit",async e=>{e.preventDefault();
+  const m=$("#jmsg"),say=(t,c)=>{m.textContent=t;m.className="msg "+(c||"")};
+  const symbol=$("#jsym").value.trim(),pnl=parseFloat($("#jpnl").value),date=$("#jdate").value;
+  if(!symbol){say("Enter the instrument you traded.","err");return}
+  if(isNaN(pnl)){say("Enter your profit or loss (use a minus sign for a loss).","err");return}
+  if(!date){say("Choose the date of the trade.","err");return}
+  const num=id=>{const v=parseFloat($(id).value);return isNaN(v)?null:v};
+  const btn=$("#jsave");btn.disabled=true;say("Saving…");
+  const {data,error}=await sb.from("journal").insert({symbol:symbol.slice(0,30),side:$("#jside").value,entry:num("#jentry"),exit:num("#jexit"),pnl,traded_on:date,notes:$("#jnotes").value.trim().slice(0,500)||null}).select().single();
+  btn.disabled=false;
+  if(error){say(/relation|schema cache|does not exist/i.test(error.message)?"The journal isn't switched on yet.":"Couldn't save: "+error.message,"err");return}
+  jrows=[data,...(jrows||[])].sort((a,b)=>b.traded_on.localeCompare(a.traded_on));$("#jsheet").hidden=true;journal()});
 async function initAuth(){
   if(!SUPABASE_URL||!SUPABASE_KEY||!window.supabase)return;
   sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY);
   const {data}=await sb.auth.getSession();me=data.session?.user||null;acctLabel();if(me)pullPrefs();
-  sb.auth.onAuthStateChange((ev,s)=>{const was=me;me=s?.user||null;acctLabel();if(me&&!was)pullPrefs()});
+  render();
+  sb.auth.onAuthStateChange((ev,s)=>{const was=me;me=s?.user||null;acctLabel();if(me&&!was)pullPrefs();if(!me&&was){jrows=null;jstate="idle";render()}});
 }
 $("#acctbtn").addEventListener("click",()=>{if(me){$("#meh").textContent="Hi "+(me.user_metadata?.name||"there");$("#meemail").textContent="Signed in as "+me.email;$("#mesheet").hidden=false}else{setMode("in");$("#authsheet").hidden=false;$("#aemail").focus()}});
 $("#authclose").addEventListener("click",()=>$("#authsheet").hidden=true);
@@ -392,16 +511,25 @@ $("#authform").addEventListener("submit",async e=>{e.preventDefault();
   }catch(err){amsg("Couldn't reach the server. Check your connection and try again.","err")}
   btn.disabled=false});
 initAuth();
-document.addEventListener("contextmenu",e=>{if(!e.target.closest("input"))e.preventDefault()});
-document.addEventListener("copy",e=>{if(!e.target.closest||!e.target.closest("input"))e.preventDefault()});
+document.addEventListener("contextmenu",e=>{if(!e.target.closest("input,textarea"))e.preventDefault()});
+document.addEventListener("copy",e=>{if(!e.target.closest||!e.target.closest("input,textarea"))e.preventDefault()});
 document.addEventListener("dragstart",e=>e.preventDefault());
 
 document.addEventListener("click",e=>{
-  const c=e.target.closest(".chip"); if(c){market=c.dataset.m;render();return}
+  const c=e.target.closest(".chip"); if(c){market=c.dataset.m;store.set("nt-market",market);pushPrefs();render();return}
   const b=e.target.closest(".bell"); if(b){const id=b.dataset.id;alerts.has(id)?alerts.delete(id):alerts.add(id);store.set("nt-alerts",[...alerts]);pushPrefs();calendar();return}
+  const sg=e.target.closest("[data-seg]"); if(sg){myOnly=sg.dataset.seg==="mine";store.set("nt-myonly",myOnly);pushPrefs();calendar();return}
+  const st=e.target.closest(".star"); if(st){const s=st.dataset.sym;watch.has(s)?watch.delete(s):watch.add(s);store.set("nt-watch",[...watch]);pushPrefs();markets();return}
+  if(e.target.closest("[data-signin]")){setMode("in");$("#authsheet").hidden=false;$("#aemail").focus();return}
+  if(e.target.closest("[data-signup]")){setMode("up");$("#authsheet").hidden=false;$("#aname").focus();return}
+  if(e.target.closest("[data-addtrade]")){openTrade();return}
+  const del=e.target.closest("[data-del]"); if(del){
+    if(!del.classList.contains("confirm")){del.classList.add("confirm");del.textContent="Tap again to delete";setTimeout(()=>{if(del.isConnected){del.classList.remove("confirm");del.textContent="Delete"}},3000);return}
+    const id=del.dataset.del;del.textContent="Deleting…";
+    sb.from("journal").delete().eq("id",id).then(({error})=>{if(error){del.textContent="Couldn't delete";return}jrows=jrows.filter(r=>String(r.id)!==id);journal()});return}
   const t=e.target.closest("nav button"); if(t){view=t.dataset.view;
     document.querySelectorAll("nav button").forEach(x=>x.setAttribute("aria-selected",x===t));
-    ["calendar","markets","news"].forEach(v=>$("#v-"+v).hidden=v!==view);scrollTo(0,0)}
+    ["calendar","markets","news","journal"].forEach(v=>$("#v-"+v).hidden=v!==view);scrollTo(0,0)}
 });
 setInterval(tickCount,1000);
 render();
