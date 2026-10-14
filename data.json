@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T19:45:28.231Z",
+ "updated": "2026-10-14T20:44:18.850Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,105 +232,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1157,
-   "ch": -0.41,
-   "asof": "2026-10-14T19:45:26.000Z"
+   "p": 1.1158,
+   "ch": -0.4,
+   "asof": "2026-10-14T20:43:27.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3188,
-   "ch": -0.48,
-   "asof": "2026-10-14T19:45:26.000Z"
+   "p": 1.3189,
+   "ch": -0.47,
+   "asof": "2026-10-14T20:43:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.3,
+   "p": 158.306,
    "ch": -0.01,
-   "asof": "2026-10-14T19:45:27.000Z"
+   "asof": "2026-10-14T20:44:17.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6972,
-   "ch": -0.16,
-   "asof": "2026-10-14T19:45:26.000Z"
+   "p": 0.6974,
+   "ch": -0.13,
+   "asof": "2026-10-14T20:43:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4241,
-   "ch": 0.17,
-   "asof": "2026-10-14T19:45:27.000Z"
+   "p": 1.4237,
+   "ch": 0.14,
+   "asof": "2026-10-14T20:44:18.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.835,
-   "ch": 0.31,
-   "asof": "2026-10-14T19:45:25.000Z"
+   "p": 0.8349,
+   "ch": 0.3,
+   "asof": "2026-10-14T20:44:17.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81647.51,
-   "ch": -1.74,
-   "asof": "2026-10-14T19:45:26.000Z"
+   "p": 81683.84,
+   "ch": -1.7,
+   "asof": "2026-10-14T20:44:13.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2427.53,
-   "ch": -2.75,
-   "asof": "2026-10-14T19:45:22.000Z"
+   "p": 2418.51,
+   "ch": -3.11,
+   "asof": "2026-10-14T20:44:12.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7713.96,
-   "ch": -1.17,
-   "asof": "2026-10-14T19:45:27.000Z"
+   "p": 7718.94,
+   "ch": -1.11,
+   "asof": "2026-10-14T20:36:08.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 26686.146,
-   "ch": -1.9,
-   "asof": "2026-10-14T19:45:25.000Z"
+   "p": 26692.87,
+   "ch": -1.88,
+   "asof": "2026-10-14T20:44:12.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 51545.83,
-   "ch": -0.24,
-   "asof": "2026-10-14T19:45:27.000Z"
+   "p": 51621.48,
+   "ch": -0.09,
+   "asof": "2026-10-14T20:36:17.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4123.3,
-   "ch": -1.29,
-   "asof": "2026-10-14T19:35:25.000Z"
+   "p": 4121.1,
+   "ch": -1.35,
+   "asof": "2026-10-14T20:33:49.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 95.08,
-   "ch": 1,
-   "asof": "2026-10-14T19:35:25.000Z"
+   "p": 95.03,
+   "ch": 0.95,
+   "asof": "2026-10-14T20:34:14.000Z"
   }
  ],
  "news": [
@@ -343,10 +343,10 @@
   ],
   [
    "Forex",
-   "med",
-   "Singapore Central Bank Surprises With Policy Pause",
+   "high",
+   "Dollar Strengthens on Hot Inflation Data, Higher Treasury Yields",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX0JYRWx2ZUpOM2U4QUg0VVFOTEtYNVJORzZkLWRHUF9VQ0dDUEVfcjRYN1N5U3ZIRS13UmdkckRqQmFpb0NoLWRvdjJGV0haU1UyZ0syWFhkRGd1RDFoSEl5VjJGT2llSEZCNVhDd2syR0hsVjl5c0swQzdUUG1fZTNIQkZzdHhIY2xSVkpRRWFCQl9oYzlLNDlEc29mZ2plOXQ5S29DOFVLSGFN?oc=5"
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbEx1Q0FoZmpVSGRtUnE4U2hYRGtNeHpEanFrRUM4UFZRUC10NUh5WmZyUWQ3SUJjTUEzb19YR1JFUXZXQ2pnYlpRbk5fWGVJUEdKZUxTQ1UwRXFmSkhpRy1QOGZGb0d2YlhiTlRMSjlwSGI5c2RDeXZTaDFDbGR3Qm1LdktxaHRzeFZRMElqLVRqZ2hrd0w4NjhwbXJKY3lVNUVodUs0RHB1a2dJLUc2Nw?oc=5"
   ],
   [
    "Crypto",
@@ -365,16 +365,16 @@
   [
    "Stocks",
    "high",
-   "Wall Street tumbles as hot inflation data feeds worries about Fed rate hikes",
+   "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries",
    "Reuters",
    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5"
   ],
   [
    "Stocks",
    "high",
-   "Hot Inflation Puts the Stock Market’s Autumn Rally to the Test",
-   "Barron's",
-   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUXAxQVIzbUt1VUEweUtTc29naFRpeFg0YkJtRWpvbTVQUW1yMEp0UU10NmV1R2ZSbE5qSndaV0VwNEdONlVVVkRraUxmT1NlclNBcnJ4SUJYUEZ2emJIQkp1dVFOQlIyNU5JRVJwMFJrSnJKemlzOURjcHpXdmxnUzFJWUNtbENKM1BEa2x6YjN0UQ?oc=5"
+   "Stock Market Midday, Oct. 14: Hot Inflation Weighs on Markets, CoreWeave Plummets 15%",
+   "The Motley Fool",
+   "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUnI3V1NoOHBFMENtMGhjVlJsUm1qNEpxNlpyMXBhV0pXN3VmSUVRZXI0dWQxUHdLWDc4Nm9hUUtCZmZfbktDSXBMZ2NaSl9xcXNXOFdTVk4xSFA3cWNLOVNFNVhmYmtYMWF4ZXFZUVVOSWpPS09Ram1oa016R05vQmYwQ3lKTHczYnVsa3NYS3ZBSGpEVWJsSm5jZVpfSUpQR0dpMU9TTkhVRjItYkVjS29IU2JHV1FoWS1RdnVvbE1qQmV4akhaUlhXN2h2dEd4TVlndXRMazY?oc=5"
   ],
   [
    "Commodities",
@@ -386,9 +386,9 @@
   [
    "Commodities",
    "med",
-   "BC-Crude Oil Futures",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUy1fdHhZOHU3ejhudkNINU9mRFBVYzZQUFF4RmNqY2h1OUZFOUV6N19hTkV0OGZfcHJfV2ZGWVI2clRtZjFHUTl4Rmk4RXlQcks4Tld4cVB1WWRhWUh3Zk9oSkFPSEVmZloyUE9PcU5SWEhOVDJ2RWpFNTJFWlExSVFyZUNpYVlWYmJtRTJ4R1pienJ1?oc=5"
+   "Current price of oil as of October 14, 2026",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JcHVBNWl0R1ZQVnc2RWd3WXJ1ajU2bTVWMlI0NWJWVENhdExuRUtVU29FRElCS2RCbmx1UERubklpMkpHYlhBTVIyUm8tN1Vuc3N1a2lHc0p3TEs3eC1UYXBB?oc=5"
   ]
  ]
 }
