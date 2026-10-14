@@ -89,11 +89,14 @@ async function prices() {
 
 // ---------- 3. News (Google News RSS per market; headlines link to the original publisher) ----------
 const FEEDS = [
-  ["Forex", "forex OR \"US dollar\" OR euro OR \"central bank\" when:1d"],
-  ["Crypto", "bitcoin OR ethereum OR crypto when:1d"],
-  ["Stocks", "\"stock market\" OR \"S&P 500\" OR Nasdaq when:1d"],
-  ["Commodities", "\"gold price\" OR \"oil price\" OR crude when:1d"],
+  ["Forex", "(forex OR \"exchange rate\" OR \"US dollar\" OR \"euro dollar\" OR sterling OR yen OR \"central bank\") when:1d"],
+  ["Crypto", "(bitcoin OR ethereum OR crypto) when:1d"],
+  ["Stocks", "(\"stock market\" OR \"S&P 500\" OR Nasdaq OR \"Dow Jones\" OR \"Wall Street\") when:1d"],
+  ["Commodities", "(\"gold price\" OR \"oil price\" OR \"crude oil\" OR Brent OR OPEC) when:1d"],
 ];
+// Only reputable financial and news outlets; anything else is skipped.
+const TRUSTED = /^(reuters|bloomberg|cnbc|yahoo finance|financial times|ft\.com|the wall street journal|wsj|barron's|marketwatch|fortune|forbes|business insider|associated press|ap news|bbc|the guardian|nikkei asia|the economist|investing\.com|fxstreet|forexlive|investinglive|kitco|oilprice\.com|crude oil prices today \| oilprice\.com|coindesk|cointelegraph|the block|decrypt|axios|cnn|the motley fool|morningstar|seeking alpha|business daily|the star|nation|the east african|bnn bloomberg|euronews|dw|al jazeera)/i;
+const SPAM = /free!!|live stream|watch live|\bvs\.?\b|livestream|prediction:.*\bvs\b|odds|betting/i;
 const HIGH = /\b(fed|fomc|cpi|inflation|rate (cut|hike)|interest rate|jobs report|payrolls?|ecb|boe|boj|recession|crash|surge|plunge)\b/i;
 const decode = (s) => s.replace(/<!\[CDATA\[|\]\]>/g, "").replace(/&amp;/g, "&").replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'").replace(/&lt;/g, "<").replace(/&gt;/g, ">").trim();
 const tag = (x, t) => { const m = x.match(new RegExp(`<${t}[^>]*>([\\s\\S]*?)</${t}>`)); return m ? decode(m[1]) : ""; };
@@ -103,13 +106,17 @@ async function news() {
   for (const [market, q] of FEEDS) {
     try {
       const xml = await get(`https://news.google.com/rss/search?q=${encodeURIComponent(q)}&hl=en-US&gl=US&ceid=US:en`, "text");
-      const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].map((m) => m[1]).slice(0, 2);
+      const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].map((m) => m[1]).slice(0, 25);
+      let n = 0;
       for (const it of items) {
-        const source = tag(it, "source") || "News";
+        if (n >= 2) break;
+        const source = tag(it, "source") || "";
         let title = tag(it, "title");
-        if (title.endsWith(" - " + source)) title = title.slice(0, -(source.length + 3));
+        if (source && title.endsWith(" - " + source)) title = title.slice(0, -(source.length + 3));
         const link = tag(it, "link");
-        if (title && /^https:\/\//.test(link)) out.push([market, HIGH.test(title) ? "high" : "med", title, source, link]);
+        if (!title || !/^https:\/\//.test(link) || !TRUSTED.test(source) || SPAM.test(title)) continue;
+        if (out.some((o) => o[2] === title)) continue;
+        out.push([market, HIGH.test(title) ? "high" : "med", title, source, link]); n++;
       }
     } catch (e) { log("news failed", market, e.message); }
   }
