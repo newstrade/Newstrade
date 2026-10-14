@@ -606,6 +606,11 @@ setInterval(()=>{
   if(Date.now()-(+store.get("nt-plans-seen",0))<3*864e5)return;
   openPlans()},5000);
 
+// WORD FILTER: masks swear words and slurs in chat, discussions and names (the database applies the same filter on save).
+const BAD=["f+[u*@v]+c*k+\\w*","motherf\\w*","s+h+[i1!*]+t+(s|ty|ter|head|hole)?","b+[i1!]+t+c+h+(es|y)?","a+s+s+h+o+l+e+s?","c+u+n+t+s?","d+[i1!]+c+k+(head|s)?","p+u+s+s+y+","b+a+s+t+a+r+d+s?","w+h+o+r+e+s?","s+l+u+t+s?","n+[i1!]+g+g+\\w*","f+a+g+(g+o+t+)?s?","r+e+t+a+r+d+(s|ed)?","w+a+n+k+(er|ers|ing)?","p+r+[i1]+c+k+s?","c+o+c+k+s?","t+w+a+t+s?","k+u+m+a+","kumamako","kumamayo","m+s+e+n+g+e+","m+a+l+a+y+a+","m+k+u+n+d+u+","m+a+t+a+k+o+"];
+const BAD_RE=new RegExp("(^|[^a-z0-9])("+BAD.join("|")+")(?=$|[^a-z0-9])","gi");
+const cleanText=t=>String(t??"").replace(BAD_RE,(m,pre)=>pre+"****");
+
 // EVENT DISCUSSION (Supabase table "comments": anyone reads, members post and delete their own)
 let ccount={}, curEv=null, cRows=[];
 const agoT=t=>{const m=Math.max(0,Math.round((Date.now()-new Date(t))/60000));return m<1?"just now":m<60?m+" min ago":m<1440?Math.round(m/60)+" h ago":Math.round(m/1440)+" d ago"};
@@ -641,7 +646,7 @@ async function loadComments(){const el=$("#clist");
   if(!curEv||curEv.id!==id)return;
   if(error){el.innerHTML=`<div class="empty">${/relation|schema cache|does not exist/i.test(error.message)?"Discussion isn't switched on yet.":"Couldn't load comments."}</div>`;return}
   cRows=data;ccount[id]=data.length;renderComments()}
-function renderComments(){$("#clist").innerHTML=cRows.length?cRows.map(c=>`<div class="cmt"><div class="who"><b>${esc(c.name||"Trader")}</b><span>${agoT(c.created_at)}</span>${me&&c.user_id===me.id?`<button class="jdel" data-cdel="${esc(c.id)}">Delete</button>`:""}</div><p>${esc(c.body)}</p></div>`).join(""):`<div class="empty">No comments yet. Be the first to share your view.</div>`}
+function renderComments(){$("#clist").innerHTML=cRows.length?cRows.map(c=>`<div class="cmt"><div class="who"><b>${esc(cleanText(c.name||"Trader"))}</b><span>${agoT(c.created_at)}</span>${me&&c.user_id===me.id?`<button class="jdel" data-cdel="${esc(c.id)}">Delete</button>`:""}</div><p>${esc(cleanText(c.body))}</p></div>`).join(""):`<div class="empty">No comments yet. Be the first to share your view.</div>`}
 $("#evclose").addEventListener("click",()=>{$("#evsheet").hidden=true;curEv=null;calendar();markets()});
 $("#evbell").addEventListener("click",()=>{
   if(curEv.kind==="mk"){const s=curEv.sym;watch.has(s)?watch.delete(s):watch.add(s);store.set("nt-watch",[...watch]);pushPrefs()}
@@ -651,7 +656,7 @@ $("#cform").addEventListener("submit",async e=>{e.preventDefault();
   const body=$("#cbody").value.trim(),m=$("#cmsg");
   if(!body){m.textContent="Write something first.";m.className="msg err";return}
   const btn=$("#cpost");btn.disabled=true;m.textContent="Posting…";m.className="msg";
-  const {data,error}=await sb.from("comments").insert({event_id:curEv.id,body:body.slice(0,500)}).select("id,user_id,name,body,created_at").single();
+  const {data,error}=await sb.from("comments").insert({event_id:curEv.id,body:cleanText(body).slice(0,500)}).select("id,user_id,name,body,created_at").single();
   btn.disabled=false;
   if(error){m.textContent=/slow down/i.test(error.message)?"You're posting too fast. Wait a minute and try again.":/relation|schema cache|does not exist/i.test(error.message)?"Discussion isn't switched on yet.":"Couldn't post: "+error.message;m.className="msg err";return}
   m.textContent="";$("#cbody").value="";cRows.push(data);ccount[curEv.id]=cRows.length;renderComments()});
@@ -673,7 +678,7 @@ function renderChat(toBottom){
   if(!chatRows.length){el.innerHTML=`<div class="empty">No messages in ${esc(ROOMS.find(r=>r[0]===room)[1])} yet. Start the conversation!</div>`;return}
   for(const c of chatRows){const d=fmtD(new Date(c.created_at));if(d!==day){html+=`<div class="daysep">${esc(d)}</div>`;day=d}
     const mine=me&&c.user_id===me.id;
-    html+=`<div class="bub${mine?" me":""}"><div class="who"><b>${esc(mine?"You":(c.name||"Trader"))}</b><span>${esc(fmtT(new Date(c.created_at)))}</span>${mine?`<button class="jdel" data-chdel="${esc(c.id)}">Delete</button>`:""}</div><p>${esc(c.body)}</p></div>`}
+    html+=`<div class="bub${mine?" me":""}"><div class="who"><b>${esc(mine?"You":cleanText(c.name||"Trader"))}</b><span>${esc(fmtT(new Date(c.created_at)))}</span>${mine?`<button class="jdel" data-chdel="${esc(c.id)}">Delete</button>`:""}</div><p>${esc(cleanText(c.body))}</p></div>`}
   el.innerHTML=html;
   if(toBottom)requestAnimationFrame(()=>scrollTo({top:document.body.scrollHeight,behavior:"smooth"}))}
 async function loadChat(toBottom){if(!sb){renderChat();return}
@@ -693,7 +698,7 @@ function openChat(){chatShell();chatReady=false;chatRows=[];renderChat();loadCha
 $("#chatform").addEventListener("submit",async e=>{e.preventDefault();
   const ta=$("#chatbody"),body=ta.value.trim(),m=$("#chatmsg");if(!body)return;
   const btn=$("#chatsend");btn.disabled=true;m.textContent="";m.className="msg";
-  const {data,error}=await sb.from("comments").insert({event_id:roomKey(room),body:body.slice(0,500)}).select("id,user_id,name,body,created_at").single();
+  const {data,error}=await sb.from("comments").insert({event_id:roomKey(room),body:cleanText(body).slice(0,500)}).select("id,user_id,name,body,created_at").single();
   btn.disabled=false;
   if(error){m.textContent=/slow down/i.test(error.message)?"You're sending messages too fast. Wait a minute.":/relation|schema cache|does not exist/i.test(error.message)?"Chat isn't switched on yet.":"Couldn't send: "+error.message;m.className="msg err";return}
   ta.value="";ta.style.height="";if(!chatRows.some(x=>x.id===data.id))chatRows.push(data);renderChat(true)});
