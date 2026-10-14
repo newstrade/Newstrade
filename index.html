@@ -345,8 +345,8 @@ $("#tzlist").addEventListener("change",showNow);
 $("#tzsave").addEventListener("click",()=>{const z=$("#tzlist").value;if(!z)return;tz=z;store.set("nt-tz",z);$("#tzsheet").hidden=true;render();pushPrefs()});
 if(!tz)openTz();
 // ACCOUNTS (Supabase). Fill these two values from Supabase → Project Settings → API.
-const SUPABASE_URL="";
-const SUPABASE_KEY="";
+const SUPABASE_URL="https://uqmtoteqcwxtvftkgogh.supabase.co";
+const SUPABASE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVxbXRvdGVxY3d4dHZmdGtnb2doIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTE5NTc1MzUsImV4cCI6MjEwNzUzMzUzNX0.G2CYS4B9REglgCQJK8XHIsTFjp9tcsA3_OqltTKJphU";
 let sb=null, me=null, mode="in";
 const amsg=(t,cls="")=>{const m=$("#amsg");m.textContent=t;m.className="msg "+cls};
 function setMode(m){mode=m;$("#tab-in").setAttribute("aria-selected",m==="in");$("#tab-up").setAttribute("aria-selected",m==="up");
