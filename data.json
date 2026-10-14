@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T09:28:00.000Z",
+ "updated": "2026-10-14T17:26:49.139Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,163 +232,163 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.118806010225887,
-   "ch": null,
-   "asof": "ECB, Oct 13"
+   "p": 1.114,
+   "ch": -0.56,
+   "asof": "2026-10-14T17:26:28.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3246436708525406,
-   "ch": null,
-   "asof": "ECB, Oct 13"
+   "p": 1.317,
+   "ch": -0.61,
+   "asof": "2026-10-14T17:26:28.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.12,
-   "ch": null,
-   "asof": "ECB, Oct 13"
+   "p": 158.603,
+   "ch": 0.18,
+   "asof": "2026-10-14T17:26:48.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6977880120019538,
-   "ch": null,
-   "asof": "ECB, Oct 13"
+   "p": 0.6966,
+   "ch": -0.24,
+   "asof": "2026-10-14T17:25:28.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4241,
-   "ch": null,
-   "asof": "ECB, Oct 13"
+   "p": 1.4255,
+   "ch": 0.27,
+   "asof": "2026-10-14T17:26:48.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.83232,
-   "ch": null,
-   "asof": "ECB, Oct 13"
+   "p": 0.8368,
+   "ch": 0.53,
+   "asof": "2026-10-14T17:26:49.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 83172.7,
-   "ch": 1.61,
-   "asof": "2026-10-14T00:00:00.000Z"
+   "p": 81776.03,
+   "ch": -1.58,
+   "asof": "2026-10-14T17:26:44.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2497.63,
-   "ch": 2.06,
-   "asof": "2026-10-14T00:00:00.000Z"
+   "p": 2437.45,
+   "ch": -2.35,
+   "asof": "2026-10-14T17:26:43.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7805.45,
-   "ch": -0.02,
-   "asof": "2026-10-13T20:00:00.000Z"
+   "p": 7715.64,
+   "ch": -1.15,
+   "asof": "2026-10-14T17:26:49.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 27204.38,
-   "ch": -0.15,
-   "asof": "2026-10-13T20:00:00.000Z"
+   "p": 26728.201,
+   "ch": -1.75,
+   "asof": "2026-10-14T17:26:48.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 51670.1,
-   "ch": -0.35,
-   "asof": "2026-10-13T20:00:00.000Z"
+   "p": 51499.89,
+   "ch": -0.33,
+   "asof": "2026-10-14T17:26:49.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4173.6,
-   "ch": -0.09,
-   "asof": "2026-10-14T08:40:00.000Z"
+   "p": 4100.4,
+   "ch": -1.84,
+   "asof": "2026-10-14T17:16:48.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 94.14,
-   "ch": 0,
-   "asof": "2026-10-14T08:40:00.000Z"
+   "p": 95.79,
+   "ch": 1.75,
+   "asof": "2026-10-14T17:16:46.000Z"
   }
  ],
  "news": [
   [
    "Forex",
-   "high",
-   "Markets brace for September US inflation data; a hot print could put an October Fed hike back on the table",
-   "Yahoo Finance",
-   "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html"
+   "med",
+   "Sterling rises to fresh 16-month high against euro",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa2xRYmk2RDZMQWxvTkRyLWZhVm01M0FmcnZfZTdGb1E3OVBjdnk4MEVac000dFpiWl9Vc1JveW9WaU42SDRmYVZKck0yRFBzNGRyNmRqeVhqMktySWtrYVI3U1RuWmotVXBCYjdKZDJEWEM1UjJxYjdxdkh2Zm9sZ1hUOHVEeU5TcGp1dXVoeC1sdVlldnkzUA?oc=5"
   ],
   [
    "Forex",
    "med",
-   "Dollar index eases to about 102.1 while the 10-year Treasury yield sits near 5.2% before CPI",
-   "The Crypto Times",
-   "https://www.cryptotimes.io/2026/10/14/us-cpi-live-inflation-data-bitcoin-price-fed-rate-discussion/"
+   "[Euro]FREE!! Lask Linz Liverpool Live Today",
+   "Universidad de Córdoba (UCO)",
+   "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPUVBVM3BHSkIwMTEtVWg2aTFPR2ZtSkdzeFdNUlVpUnFxbERBZXhmVmVSVEp0bTdEbXNXcmlFNmlaNG9CVFRaNGZ4V3A2MmxWaWNfNjhjMHYtWkNNQkN1dzk3Y243RzRIOHVDckRweGNLa0NKQy10OF9yNkVybnJCVG5yUEJ2UWRTRmJodmxTNkRISDAwVE8wVHBocjVYeXk2Ny10b2pSVmJaNVJ4c0hfck92cU1DYzZma2UxaDA2eUdHYk45UzFZcjVmc2QySU9wbG9GcTM4blEwSDRfWUNhVVZQc2dTT25NUTYxeGlwc0F0eXZRcTRMRk5nU29oVmV0ZWtmUXV0RHB3d2hJTmprbzNZRUQwRWNQY1VPOFJKdDVqTUhYOERVWEgwaHZSMGExdkhwX2ZuZ183U1lzamwwaWZUYk5GTWViZldySms5QWlJcFVMNVdDVW02LUVtQzRrYjZr?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "Standard Chartered Opens Bitcoin, Ether Trading to Wealthy UAE Clients",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVN4ZTEtRVB3NGpGaXlxdllWLVlablZCcjYzYlJsbU1zc1BXYVZDS1RBejdzTzBiUEJZYUYyT21EVXF3YU1RLUYtbjNiS0Zab2hqQXVaX0pCWkpma2p6d0hvZmZCWXdveEtWVmYweUFUOWg2QXVsWEU4QVcwQW9OamJXa2pTcWxmelhfbTF1SEpxNGlOd2k2OEFYM25uWlBFeWFSMFNn?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "Current price of Ethereum for October 14, 2026",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QRURHbUtXWWtxQUFBTDk2aEhfV0JDTUFuNEF0eWZfZm1Dbko2dkJ2QngzWmxORkhiMFVzZ2laa00wdlRJTUdQQzRZOFBpM0lrdFNnVXYxenZFOUVwU1J3azNQVXkwZHZu?oc=5"
   ],
   [
    "Stocks",
-   "med",
-   "US index futures inch up as earnings season gets going; Nasdaq-100 roughly flat after Tuesday's dip",
-   "Yahoo Finance",
-   "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Chip selling cools in South Korea; ASML and TSMC results this week seen as a test of AI demand",
-   "Yahoo Finance",
-   "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html"
-  ],
-  [
-   "Commodities",
    "high",
-   "Brent holds above $105 as attacks on Saudi energy sites keep Middle East supply fears alive",
-   "Yahoo Finance",
-   "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html"
+   "Wall St slides as hot CPI data fuels rate-hike bets; chips, banks weigh",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5"
+  ],
+  [
+   "Stocks",
+   "high",
+   "Hot Inflation Puts the Stock Market’s Autumn Rally to the Test",
+   "Barron's",
+   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUXAxQVIzbUt1VUEweUtTc29naFRpeFg0YkJtRWpvbTVQUW1yMEp0UU10NmV1R2ZSbE5qSndaV0VwNEdONlVVVkRraUxmT1NlclNBcnJ4SUJYUEZ2emJIQkp1dVFOQlIyNU5JRVJwMFJrSnJKemlzOURjcHpXdmxnUzFJWUNtbENKM1BEa2x6YjN0UQ?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Gold steadies after two down days as a Fed official hints at one more hike this year",
-   "Yahoo Finance",
-   "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html"
+   "Opinion | War-Caused Oil Price Spikes Don’t Help the U.S. Economy",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVFRkc2tRMEc4Q1VidVJ5Z0RXcVctMWtVdXN0X1FQVk9MVUlJR1g0V0Q5dXVSbjdjaG1RMTQ2bldRNUFGVkJuLTl5Z3F2STNza3BaX2g1UmFVT0xKTUIzMUtMNmVXbUNSS1lWMDVIanBKMGw5WEY5OEE1QVYwYWVTaHhOM3A5VUJRUnpBOUFOUFFOU3hS?oc=5"
   ],
   [
-   "Crypto",
+   "Commodities",
    "med",
-   "Bitcoin hovers near $83.4K ahead of CPI; analysts say a soft core reading could extend the recovery",
-   "The Crypto Times",
-   "https://www.cryptotimes.io/2026/10/14/us-cpi-live-inflation-data-bitcoin-price-fed-rate-discussion/"
-  ],
-  [
-   "Crypto",
-   "low",
-   "Strive adds to its treasury, now reportedly holding about 32.8K BTC; Sberbank cleared to offer crypto trading",
-   "KuCoin",
-   "https://kucoin.com/news/articles/crypto-daily-market-report-october-14-2026"
+   "Aramco's New Chinese JV Refinery Gets First Saudi Crude Cargo",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSl9jbzcycGZ1TkNLNWdnSEx1RzQ4ZEFyLTlpVjUyT0FoTTVyZjJLY2s1eGFyaDBTZFhSZXI3UW9pM0FkV00xdGdjWXNwTmlyNHZ1TlRhWjllRmd6cGNjYVpZajFvNnpZRVNUdTFNRnNfX1gwZFp1V2N6RUZfbmRFRVo4QW1BakxxaEN2YmRIUTFaOEMta29SQnlteTJkeEFnenNpQklCZ3B1U3N0a2ZlS3hyNXdtcE3SAbwBQVVfeXFMTjREN0lNbEVfSUhtWEVWNHljRnFBNUJKa0lSYUtuS2REZTRJaDdnbGVXM2V6amRTXzBIem43TXNfWjdFQzZ5NC1OWW5UYmJreERmN2wxOG5FMTNrM1pSWG1mTW9Ba050QlRPM2VFeEE1OGhPU1VLNmwwTlRRTlU0aWkyLWZHVEcxUTVEcEJROGdad0lFUjFRZ2lDU1k3R1REaVl0ZnU1RjlCUElUbjFVMkZCeXVNVFh1TC1yQkE?oc=5"
   ]
  ]
 }
