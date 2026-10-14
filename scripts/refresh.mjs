@@ -124,6 +124,30 @@ async function news() {
   return out;
 }
 
+
+// ---------- 4. Price history for charts (history.json): 1 day, 1 week, 1 month ----------
+const RANGES = { "1D": ["1d", "15m"], "1W": ["5d", "60m"], "1M": ["1mo", "1d"] };
+async function series(sym, range, interval) {
+  const j = await get(`https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(sym)}?range=${range}&interval=${interval}`);
+  const r = j?.chart?.result?.[0];
+  const t = r?.timestamp || [], c = r?.indicators?.quote?.[0]?.close || [];
+  const pts = [];
+  for (let i = 0; i < t.length; i++) if (typeof c[i] === "number") pts.push([t[i], +c[i].toPrecision(7)]);
+  if (pts.length < 2) throw new Error("too few points");
+  return pts;
+}
+async function history(prevHist) {
+  const out = {};
+  for (const [s, , sym] of LIST) {
+    out[s] = {};
+    for (const [k, [range, interval]] of Object.entries(RANGES)) {
+      try { out[s][k] = await series(sym, range, interval); }
+      catch (e) { log("history failed", s, k, e.message); if (prevHist?.[s]?.[k]) out[s][k] = prevHist[s][k]; }
+    }
+  }
+  return out;
+}
+
 const data = { updated: new Date().toISOString(), events: prev.events, instruments: prev.instruments, news: prev.news };
 for (const [key, fn] of [["events", calendar], ["instruments", prices], ["news", news]]) {
   try { data[key] = await fn(); log(key, "ok", data[key].length); }
@@ -131,3 +155,9 @@ for (const [key, fn] of [["events", calendar], ["instruments", prices], ["news",
 }
 await writeFile("data.json", JSON.stringify(data, null, 1) + "\n");
 log("data.json written", data.updated);
+
+let prevHist = {};
+try { prevHist = JSON.parse(await readFile("history.json", "utf8")).series || {}; } catch { /* first run */ }
+const hist = await history(prevHist);
+await writeFile("history.json", JSON.stringify({ updated: new Date().toISOString(), series: hist }) + "\n");
+log("history.json written");
