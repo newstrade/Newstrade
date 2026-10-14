@@ -174,18 +174,11 @@ nav .in{grid-template-columns:repeat(4,1fr)}
 .price small{font:500 14px var(--body);color:var(--muted)}
 a.primary{text-align:center;text-decoration:none;display:block}
 .gate .primary,.gate a.primary{align-self:stretch}
-/* Photo background: trader at multiple screens (Jakub Żerdzicki, Unsplash License), under a theme-coloured veil for readability */
-:root{--veil:rgba(243,244,248,.62)}
-@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--veil:rgba(13,17,32,.66)}}
-:root[data-theme="dark"]{--veil:rgba(13,17,32,.66)}
-.bgphoto{position:fixed;inset:0;z-index:0;pointer-events:none;background-color:var(--bg);
-  background-image:linear-gradient(var(--veil),var(--veil)),url("https://images.unsplash.com/photo-1768055105681-7d2096c5165f?fm=jpg&q=60&w=1600&auto=format&fit=crop&ixlib=rb-4.1.0"),url("https://images.unsplash.com/photo-1643962579371-ba03eec77f87?fm=jpg&q=60&w=1600&auto=format&fit=crop&ixlib=rb-4.1.0");
-  background-size:cover,cover,cover;background-position:center,center,center;background-repeat:no-repeat}
+/* Animated background: scrolling candlesticks and price lines drawn on a canvas, colours from the theme tokens */
+#bgfx{position:fixed;inset:0;width:100%;height:100%;z-index:0;pointer-events:none;display:block}
 body{background:var(--bg)}
 .app{position:relative;z-index:1}
-header{background:color-mix(in srgb,var(--bg) 78%,transparent);-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px)}
-.credit{font-size:11px;color:var(--muted);text-align:center;margin:6px 0 0}
-.credit a{color:inherit}
+header{background:color-mix(in srgb,var(--bg) 72%,transparent);-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px)}
 /* Plans pop-up + promo */
 .probtn{font:700 12px var(--body);border:0;border-radius:999px;padding:5px 11px;cursor:pointer;white-space:nowrap;color:#fff;background:linear-gradient(90deg,var(--accent),var(--med))}
 @media (max-width:480px){#upd{display:none}}
@@ -242,7 +235,7 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
 </style>
 </head>
 <body>
-<div class="bgphoto" aria-hidden="true"></div>
+<canvas id="bgfx" aria-hidden="true"></canvas>
 
 <div class="app">
   <header class="pad">
@@ -260,7 +253,6 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
     <section id="v-news" hidden></section>
     <section id="v-journal" hidden></section>
     <p class="copy">© 2026 NewsTrade. All rights reserved. Copying or redistributing this app or its design is not permitted.</p>
-    <p class="credit">Background photo by <a href="https://unsplash.com/@jakubzerdzicki" target="_blank" rel="noopener">Jakub Żerdzicki</a> on <a href="https://unsplash.com/photos/trader-analyzing-stock-market-charts-on-multiple-screens-j_hho1mE47s" target="_blank" rel="noopener">Unsplash</a></p>
   </main>
 
   <div class="overlay" id="tzsheet" hidden role="dialog" aria-modal="true" aria-labelledby="tzh">
@@ -746,6 +738,45 @@ document.addEventListener("click",e=>{
     ["calendar","markets","news","journal"].forEach(v=>$("#v-"+v).hidden=v!==view);scrollTo(0,0)}
 });
 setInterval(tickCount,1000);
+// ANIMATED BACKGROUND: candlesticks and two price lines drift left like a live chart.
+(function(){
+  const cv=document.getElementById("bgfx");if(!cv||!cv.getContext)return;const g=cv.getContext("2d");
+  const still=matchMedia("(prefers-reduced-motion: reduce)");
+  let W=0,H=0,cw=14,candles=[],lines=[],shift=0,gridX=0,last=0,C={};
+  const css=n=>getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+  const readCols=()=>{C={up:css("--up"),down:css("--down"),acc:css("--accent"),med:css("--med"),line:css("--line")}};
+  const clamp=(v,a,b)=>Math.max(a,Math.min(b,v));
+  function candle(o){const c=clamp(o+(Math.random()-.48)*H*.03,H*.45,H*.9);return{o,c,hi:Math.min(o,c)-Math.random()*H*.015,lo:Math.max(o,c)+Math.random()*H*.015}}
+  function walk(v){return clamp(v+(Math.random()-.5)*H*.012,H*.1,H*.5)}
+  function setup(){const d=Math.min(2,devicePixelRatio||1);W=innerWidth;H=innerHeight;cv.width=W*d;cv.height=H*d;g.setTransform(d,0,0,d,0,0);
+    cw=W<500?12:16;candles=[];let p=H*.65;for(let i=0;i<Math.ceil(W/cw)+3;i++){const k=candle(p);candles.push(k);p=k.c}
+    lines=[{v:H*.28,c:"acc",sp:.012,a:.32},{v:H*.38,c:"med",sp:.008,a:.26}].map(L=>{const pts=[];let v=L.v;for(let i=0;i<Math.ceil(W/8)+3;i++){v=walk(v);pts.push(v)}return{...L,pts,off:0}});
+    readCols();draw(0)}
+  function draw(dt){
+    g.clearRect(0,0,W,H);
+    gridX=(gridX+dt*.004)%48;g.globalAlpha=.55;g.strokeStyle=C.line;g.lineWidth=1;g.beginPath();
+    for(let X=-gridX;X<W;X+=48){g.moveTo(X,0);g.lineTo(X,H)}for(let Y=24;Y<H;Y+=48){g.moveTo(0,Y);g.lineTo(W,Y)}g.stroke();
+    shift+=dt*.018;while(shift>=cw){shift-=cw;candles.shift();candles.push(candle(candles[candles.length-1].c))}
+    g.globalAlpha=.2;g.lineWidth=1.2;
+    candles.forEach((k,i)=>{const X=i*cw-shift,up=k.c<k.o;g.strokeStyle=g.fillStyle=up?C.up:C.down;
+      g.beginPath();g.moveTo(X+cw/2,k.hi);g.lineTo(X+cw/2,k.lo);g.stroke();g.fillRect(X+2,Math.min(k.o,k.c),cw-4,Math.max(2,Math.abs(k.c-k.o)))});
+    lines.forEach(L=>{L.off+=dt*L.sp;while(L.off>=8){L.off-=8;L.pts.shift();L.pts.push(walk(L.pts[L.pts.length-1]))}
+      g.globalAlpha=L.a;g.strokeStyle=C[L.c];g.lineWidth=2;g.lineJoin="round";g.beginPath();
+      L.pts.forEach((v,i)=>{const X=i*8-L.off;i?g.lineTo(X,v):g.moveTo(X,v)});g.stroke();
+      const i=Math.floor((W*.82+L.off)/8),y=L.pts[i]??L.pts[L.pts.length-1],pulse=(Math.sin(performance.now()/450)+1)/2;
+      g.globalAlpha=L.a+.25;g.fillStyle=C[L.c];g.beginPath();g.arc(W*.82,y,3,0,7);g.fill();
+      g.globalAlpha=(L.a)*(1-pulse);g.beginPath();g.arc(W*.82,y,3+pulse*10,0,7);g.fill()});
+    g.globalAlpha=1}
+  function loop(now){if(document.hidden||still.matches){last=0;return}
+    const dt=last?Math.min(60,now-last):16;if(!last||dt>=30){last=now;draw(dt)}requestAnimationFrame(loop)}
+  function start(){last=0;if(!still.matches)requestAnimationFrame(loop);else draw(0)}
+  addEventListener("resize",()=>{setup();start()});
+  document.addEventListener("visibilitychange",()=>{if(!document.hidden)start()});
+  matchMedia("(prefers-color-scheme: dark)").addEventListener?.("change",()=>{readCols();draw(0)});
+  still.addEventListener?.("change",start);
+  setup();start();
+})();
+
 render();
 </script>
 
