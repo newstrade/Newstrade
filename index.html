@@ -482,7 +482,7 @@ async function pullPrefs(){const d=me?.user_metadata||{};
   jrows=null;subLoaded=false;render();pushPrefs();syncAlerts();loadSub()}
 let pushT;function pushPrefs(){if(!sb||!me)return;clearTimeout(pushT);pushT=setTimeout(()=>sb.auth.updateUser({data:{tz:tz||detected,alerts:[...alerts],watch:[...watch],market,myOnly}}).catch(()=>{}),600)}
 
-// PREMIUM ($5/month via Lemon Squeezy). Paste the product's checkout link below.
+// PREMIUM ($5/month via Dodo Payments). Paste the product's payment link below, e.g. https://checkout.dodopayments.com/buy/pdt_xxx
 const CHECKOUT_URL="";
 let sub=null, premium=false;
 async function loadSub(){if(!sb||!me){sub=null;premium=false;return}
@@ -494,14 +494,20 @@ async function loadSub(){if(!sb||!me){sub=null;premium=false;return}
   planBox();journal()}
 let subLoaded=false;
 function checkoutLink(){if(!CHECKOUT_URL||!me)return"";
-  const u=new URL(CHECKOUT_URL);u.searchParams.set("checkout[email]",me.email||"");u.searchParams.set("checkout[custom][user_id]",me.id);return u.toString()}
+  const u=new URL(CHECKOUT_URL);u.searchParams.set("quantity","1");
+  if(me.email){u.searchParams.set("email",me.email);u.searchParams.set("disableEmail","true")}
+  if(me.user_metadata?.name)u.searchParams.set("fullName",me.user_metadata.name);
+  u.searchParams.set("metadata_userId",me.id);
+  u.searchParams.set("redirect_url",location.origin+location.pathname);
+  return u.toString()}
 const shortDate=d=>new Date(d).toLocaleDateString([], {day:"numeric",month:"short",year:"numeric"});
 function upgradeBtn(label){const href=checkoutLink();
-  return href?`<a class="primary" href="${esc(href)}" target="_blank" rel="noopener">${label||"Go Premium · $5/month"}</a><p class="hint">Secure checkout by Lemon Squeezy. Cancel any time. Come back to this page after paying and Premium switches on within a minute.</p>`
+  return href?`<a class="primary" href="${esc(href)}" target="_blank" rel="noopener">${label||"Go Premium · $5/month"}</a><p class="hint">Secure checkout by Dodo Payments. Cancel any time. After paying you come back here, and Premium switches on within a minute.</p>`
     :`<p class="hint">Premium is launching soon.</p>`}
 function planBox(){const el=$("#planbox");if(!el)return;
   if(premium){const when=sub.status==="cancelled"?`Ends ${shortDate(sub.ends_at)}`:sub.renews_at?`Renews ${shortDate(sub.renews_at)}`:"";
-    el.innerHTML=`<div class="row"><span class="badge pro">Premium</span><span class="hint" style="margin:0">${esc(when)}</span></div>${sub.status==="past_due"?'<p class="msg err">Your last payment failed. Update your card to keep Premium.</p>':""}${sub.portal_url?`<a class="ghost" style="text-align:center;text-decoration:none" href="${esc(sub.portal_url)}" target="_blank" rel="noopener">Manage subscription</a>`:""}`}
+    el.innerHTML=`<div class="row"><span class="badge pro">Premium</span><span class="hint" style="margin:0">${esc(when)}</span></div>${sub.portal_url?`<a class="ghost" style="text-align:center;text-decoration:none" href="${esc(sub.portal_url)}" target="_blank" rel="noopener">Manage subscription</a>`:`<p class="hint" style="margin:0">To change your card or cancel, use the link in your Dodo Payments receipt email.</p>`}`}
+  else if(sub&&sub.status==="on_hold")el.innerHTML=`<div class="row"><span class="badge">On hold</span></div><p class="msg err">Your last payment didn't go through, so Premium is paused. Update your card from your Dodo Payments email, or subscribe again below.</p>${upgradeBtn("Subscribe again · $5/month")}`;
   else el.innerHTML=`<div class="row"><span class="badge">Free plan</span><span class="price">$5<small> / month</small></span></div><p style="margin:0">Premium adds the trade journal and email alerts before your starred events.</p>${upgradeBtn()}`;
   const opt=$("#emailopt");opt.disabled=!premium;if(!premium)opt.checked=false}
 document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible"&&me)loadSub()});
