@@ -174,6 +174,16 @@ nav .in{grid-template-columns:repeat(4,1fr)}
 .price small{font:500 14px var(--body);color:var(--muted)}
 a.primary{text-align:center;text-decoration:none;display:block}
 .gate .primary,.gate a.primary{align-self:stretch}
+/* Photo background: trader at multiple screens (Jakub Żerdzicki, Unsplash License), under a theme-coloured veil for readability */
+:root{--veil:rgba(243,244,248,.84)}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--veil:rgba(13,17,32,.80)}}
+:root[data-theme="dark"]{--veil:rgba(13,17,32,.80)}
+.bgphoto{position:fixed;inset:0;z-index:-1;pointer-events:none;
+  background:linear-gradient(var(--veil),var(--veil)),url("https://images.unsplash.com/photo-1768055105681-7d2096c5165f?auto=format&fit=crop&w=1600&q=70") center/cover no-repeat;
+  background-color:var(--bg)}
+header{background:color-mix(in srgb,var(--bg) 78%,transparent);-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px)}
+.credit{font-size:11px;color:var(--muted);text-align:center;margin:6px 0 0}
+.credit a{color:inherit}
 /* Plans pop-up + promo */
 .probtn{font:700 12px var(--body);border:0;border-radius:999px;padding:5px 11px;cursor:pointer;white-space:nowrap;color:#fff;background:linear-gradient(90deg,var(--accent),var(--med))}
 @media (max-width:480px){#upd{display:none}}
@@ -230,6 +240,7 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
 </style>
 </head>
 <body>
+<div class="bgphoto" aria-hidden="true"></div>
 
 <div class="app">
   <header class="pad">
@@ -247,6 +258,7 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
     <section id="v-news" hidden></section>
     <section id="v-journal" hidden></section>
     <p class="copy">© 2026 NewsTrade. All rights reserved. Copying or redistributing this app or its design is not permitted.</p>
+    <p class="credit">Background photo by <a href="https://unsplash.com/@jakubzerdzicki" target="_blank" rel="noopener">Jakub Żerdzicki</a> on <a href="https://unsplash.com/photos/trader-analyzing-stock-market-charts-on-multiple-screens-j_hho1mE47s" target="_blank" rel="noopener">Unsplash</a></p>
   </main>
 
   <div class="overlay" id="tzsheet" hidden role="dialog" aria-modal="true" aria-labelledby="tzh">
