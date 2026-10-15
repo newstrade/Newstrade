@@ -258,6 +258,15 @@ header{background:color-mix(in srgb,var(--bg) 72%,transparent);-webkit-backdrop-
 .sess .bar i.on{opacity:.9}
 .sess .bar b{position:absolute;top:-2px;bottom:-2px;width:2px;background:var(--fg)}
 .sess .sub2{grid-column:1 / 3;font-size:12px;color:var(--muted)}
+.brief{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:12px 14px;margin-bottom:14px;display:flex;flex-direction:column;gap:8px;animation:rise .4s ease-out both}
+.brief h3{margin:0;font:600 15px var(--display);display:flex;justify-content:space-between;gap:8px}
+.brief h3 span{font:500 12px var(--body);color:var(--muted)}
+.brief .bl{display:grid;grid-template-columns:96px 1fr;gap:8px;font-size:14px;align-items:baseline}
+.brief .bl>small{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.brief .bl button,.brief .bl a{all:unset;cursor:pointer;color:var(--fg);display:block}
+.brief .bl button:focus-visible,.brief .bl a:focus-visible{outline:2px solid var(--accent)}
+.brief .bl a{color:var(--accent)}
+.brief .evl{display:flex;flex-direction:column;gap:2px}
 .daysep{align-self:center;font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
 .promo .go{margin-left:auto;font:700 13px var(--body);color:var(--accent);white-space:nowrap}
 /* Motion */
@@ -298,7 +307,7 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
   <header class="pad">
     <div class="brand">
       <h1 class="logo">News<span>Trade</span></h1>
-      <div class="right"><span class="sample" id="upd">Updated</span><button class="tzbtn" id="tzbtn" aria-label="Change time zone"></button><button class="probtn" id="installbtn" hidden style="background:var(--surface);color:var(--fg);border:1px solid var(--line)">⬇<span class="lbl"> Install</span></button><button class="probtn" id="probtn" hidden>★ Premium</button><button class="acct" id="acctbtn" hidden>Sign in</button></div>
+      <div class="right"><span class="sample" id="upd">Updated</span><button class="tzbtn" id="setbtn" aria-label="Settings" title="Settings">⚙</button><button class="tzbtn" id="tzbtn" aria-label="Change time zone"></button><button class="probtn" id="installbtn" hidden style="background:var(--surface);color:var(--fg);border:1px solid var(--line)">⬇<span class="lbl"> Install</span></button><button class="probtn" id="probtn" hidden>★ Premium</button><button class="acct" id="acctbtn" hidden>Sign in</button></div>
     </div>
     <div class="chips" id="chips" role="group" aria-label="Market"></div>
   </header>
@@ -417,6 +426,19 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
     </form>
   </div>
 
+  <div class="overlay" id="setsheet" hidden role="dialog" aria-modal="true" aria-labelledby="seth">
+    <div class="sheet">
+      <button type="button" class="close" id="setclose" aria-label="Close">×</button>
+      <h2 id="seth">Settings</h2>
+      <h3 class="ch">Appearance</h3>
+      <div class="seg" role="group" aria-label="Appearance" style="align-self:flex-start"><button data-theme-opt="auto">Auto</button><button data-theme-opt="light">Light</button><button data-theme-opt="dark">Dark</button></div>
+      <h3 class="ch">Language</h3>
+      <div class="seg" role="group" aria-label="Language" style="align-self:flex-start"><button data-lang-opt="en">English</button><button data-lang-opt="sw">Kiswahili</button></div>
+      <h3 class="ch">Time zone</h3>
+      <button type="button" class="ghost" id="settz"></button>
+    </div>
+  </div>
+
   <div class="overlay" id="iossheet" hidden role="dialog" aria-modal="true" aria-labelledby="iosh">
     <div class="sheet">
       <button type="button" class="close" id="iosclose" aria-label="Close">×</button>
@@ -477,6 +499,48 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
 <script>
 const MARKETS=["All","Forex","Crypto","Stocks","Commodities"];
 const store={get(k,d){try{return JSON.parse(localStorage.getItem(k))??d}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+let LANG=store.get("nt-lang","en")==="sw"?"sw":"en";
+const LOC=()=>LANG==="sw"?"sw-KE":undefined;
+// Swahili UI text. Keys are the English text shown in the app; user posts, headlines and event names stay as written.
+const SW={"Calendar":"Kalenda","Markets":"Masoko","News":"Habari","Journal":"Shajara","Chat":"Gumzo","Tools":"Zana",
+"All":"Zote","Crypto":"Kripto","Stocks":"Hisa","Commodities":"Bidhaa",
+"Prices are not live.":"Bei si za moja kwa moja.","Updated":"Imesasishwa",
+"All events":"Matukio yote","High impact":"Athari kubwa","Medium":"Wastani","Low":"Ndogo","○ Tap to add to My events":"○ Gusa kuongeza kwenye Matukio yangu",
+"Actual":"Halisi","Forecast":"Utabiri","Previous":"Iliyopita","Next high-impact event":"Tukio lijalo lenye athari kubwa","Next event":"Tukio lijalo",
+"Your watchlist":"Orodha yako ya kufuatilia","All markets":"Masoko yote","daily close":"bei ya kufunga",
+"Market sessions":"Vipindi vya soko","Currency converter":"Kibadilisha sarafu","Calculators":"Vikokotoo","Amount":"Kiasi","From":"Kutoka","To":"Kwenda","⇅ Swap":"⇅ Badilisha",
+"Position size":"Ukubwa wa nafasi","Pip value":"Thamani ya pip","Risk / reward":"Hatari / faida","Profit / loss":"Faida / hasara",
+"Account balance ($)":"Salio la akaunti ($)","Risk per trade (%)":"Hatari kwa biashara (%)","Stop loss (pips)":"Stop loss (pips)","Pair":"Jozi","Lot size":"Ukubwa wa lot",
+"Entry price":"Bei ya kuingia","Exit price":"Bei ya kutoka","Take profit":"Take profit","Stop loss":"Stop loss","Direction":"Mwelekeo","Buy":"Nunua","Sell":"Uza",
+"Units":"Vipimo","Money at risk":"Pesa iliyo hatarini","Pips":"Pips","Win rate to break even":"Kiwango cha ushindi cha kurudisha gharama","Risk : reward":"Hatari : faida",
+"Open":"Wazi","Closed":"Imefungwa","Forex market closed for the weekend":"Soko la forex limefungwa wikendi",
+"Calculators assume a US dollar account and standard lots of 100,000 units. They use NewsTrade's hourly prices, so check your broker before you trade.":"Vikokotoo vinatumia akaunti ya dola za Marekani na lot ya kawaida ya vipimo 100,000. Vinatumia bei za NewsTrade za kila saa, hivyo thibitisha kwa broker wako kabla ya kufanya biashara.",
+"Sign in":"Ingia","Sign out":"Toka","Create account":"Fungua akaunti","Create free account":"Fungua akaunti bure","I already have an account":"Tayari nina akaunti","Forgot password?":"Umesahau nenosiri?",
+"Email":"Barua pepe","Password":"Nenosiri","Name":"Jina","Your name":"Jina lako","At least 8 characters":"Angalau herufi 8",
+"Your NewsTrade account":"Akaunti yako ya NewsTrade","Delete my account":"Futa akaunti yangu","Hi there":"Habari",
+"Your time zone, starred events, watchlist and market filter are saved to your account.":"Saa za eneo lako, matukio uliyochagua, orodha ya kufuatilia na kichujio cha soko vimehifadhiwa kwenye akaunti yako.",
+"Email me 30 minutes before my starred events":"Nitumie barua pepe dakika 30 kabla ya matukio niliyochagua",
+"Welcome to NewsTrade":"Karibu NewsTrade","Choose your time zone. Every event and price time will show in it.":"Chagua saa za eneo lako. Muda wa kila tukio na bei utaonyeshwa kwa saa hizo.",
+"Use this time zone":"Tumia saa hizi","Search a city, e.g. Nairobi, London, New York":"Tafuta mji, k.m. Nairobi, London, New York",
+"Discussion":"Majadiliano","Post comment":"Tuma maoni","No comments yet. Be the first to share your view.":"Bado hakuna maoni. Kuwa wa kwanza kutoa maoni yako.",
+"Send":"Tuma","Message the room…":"Andika ujumbe…","Join the chat":"Jiunge na gumzo","Anyone can read. Create a free account to post in General and the market rooms.":"Kila mtu anaweza kusoma. Fungua akaunti bure ili uandike kwenye vyumba vya gumzo.",
+"Report":"Ripoti","Block":"Zuia","Delete":"Futa","You":"Wewe",
+"Log a trade":"Rekodi biashara","+ Log a trade":"+ Rekodi biashara","Save trade":"Hifadhi biashara","Trades":"Biashara","Win rate":"Kiwango cha ushindi","Total P/L":"Jumla ya faida/hasara",
+"Instrument":"Bidhaa ya biashara","Date":"Tarehe","Notes":"Maelezo",
+"Get more from NewsTrade":"Pata zaidi kutoka NewsTrade","Free account":"Akaunti ya bure","Premium":"Premium","Most popular":"Maarufu zaidi","Free plan":"Mpango wa bure",
+"Install":"Sakinisha","Install NewsTrade":"Sakinisha NewsTrade","Privacy policy":"Sera ya faragha",
+"Settings":"Mipangilio","Appearance":"Mwonekano","Auto":"Otomatiki","Light":"Mwanga","Dark":"Giza","Language":"Lugha","Time zone":"Saa za eneo","Change":"Badilisha",
+"Today's briefing":"Muhtasari wa leo","Key events":"Matukio muhimu","Biggest mover":"Iliyobadilika zaidi","Top story":"Habari kuu","No high-impact events today.":"Hakuna matukio makubwa leo.",
+"Bullish":"Itapanda","Bearish":"Itashuka","What do traders think?":"Wafanyabiashara wanafikiri nini?","Vote to see results":"Piga kura uone matokeo","Results so far":"Matokeo hadi sasa",
+"Past results":"Matokeo yaliyopita","Leaderboard":"Orodha ya washindi","Invite friends":"Waalike marafiki","Copy link":"Nakili kiungo","Copied":"Imenakiliwa",
+"Notifications":"Arifa","Turn on notifications":"Washa arifa","Notifications are on":"Arifa zimewashwa","Price alerts":"Arifa za bei","Add alert":"Ongeza arifa"};
+const SW_RE=[[/^My events \((\d+)\)$/,"Matukio yangu ($1)"],[/^Opens in (.+)$/,"Inafunguliwa baada ya $1"],[/^Closes in (.+)$/,"Inafungwa baada ya $1"],[/^Updated (.+)$/,"Imesasishwa $1"],[/^Times are in (.+) time\.$/,"Saa ni za $1."]];
+const t=s=>{if(LANG!=="sw")return s;if(SW[s])return SW[s];for(const [re,to] of SW_RE)if(re.test(s))return s.replace(re,to);return s};
+function translateNode(root){if(LANG!=="sw"||!root)return;
+  const w=document.createTreeWalker(root,NodeFilter.SHOW_TEXT,{acceptNode:n=>n.parentElement&&n.parentElement.closest(".logo,.bub p,.cmt p,.news h3,.title span,#evh,.jrow .note,.brief a,.brief button,input,textarea,script,style")?NodeFilter.FILTER_REJECT:NodeFilter.FILTER_ACCEPT});
+  const nodes=[];while(w.nextNode())nodes.push(w.currentNode);
+  for(const n of nodes){const raw=n.nodeValue,tr=raw.trim();if(!tr)continue;const x=t(tr);if(x!==tr)n.nodeValue=raw.replace(tr,x)}
+  root.querySelectorAll?.("[placeholder],[aria-label]").forEach(el=>{for(const a of ["placeholder","aria-label"]){const v=el.getAttribute(a);if(v&&SW[v])el.setAttribute(a,SW[v])}})}
 let market=store.get("nt-market","All"), view="calendar";
 if(!["All","Forex","Crypto","Stocks","Commodities"].includes(market))market="All";
 let alerts=new Set(store.get("nt-alerts",[]));
@@ -541,8 +605,8 @@ const $=s=>document.querySelector(s);
 let detected="UTC";try{detected=Intl.DateTimeFormat().resolvedOptions().timeZone||"UTC"}catch(e){}
 let tz=store.get("nt-tz",null);
 const fmtT=d=>d.toLocaleTimeString([], {hour:"2-digit",minute:"2-digit",hour12:false,timeZone:tz||detected});
-const fmtD=d=>d.toLocaleDateString([], {weekday:"long",day:"numeric",month:"short",timeZone:tz||detected});
-const fmtDT=d=>d.toLocaleString([], {day:"numeric",month:"short",hour:"2-digit",minute:"2-digit",hour12:false,timeZone:tz||detected});
+const fmtD=d=>d.toLocaleDateString(LOC(), {weekday:"long",day:"numeric",month:"short",timeZone:tz||detected});
+const fmtDT=d=>d.toLocaleString(LOC(), {day:"numeric",month:"short",hour:"2-digit",minute:"2-digit",hour12:false,timeZone:tz||detected});
 const city=z=>z.split("/").pop().replace(/_/g," ");
 let zones;try{zones=Intl.supportedValuesOf("timeZone")}catch(e){zones=["Africa/Nairobi","Africa/Lagos","Africa/Johannesburg","Africa/Cairo","Europe/London","Europe/Berlin","America/New_York","America/Chicago","America/Los_Angeles","Asia/Dubai","Asia/Kolkata","Asia/Singapore","Asia/Tokyo","Australia/Sydney","UTC"]}
 if(!zones.includes("UTC"))zones.push("UTC");
@@ -570,7 +634,8 @@ function calendar(){
   const now=Date.now(), nxt=list.find(e=>e.at>now&&e.imp==="high")||list.find(e=>e.at>now);
   let html=`<div class="seg" role="group" aria-label="Which events"><button id="seg-all" data-seg="all" aria-pressed="${!myOnly}">All events</button><button id="seg-mine" data-seg="mine" aria-pressed="${myOnly}">My events (${mine.length})</button></div>`;
   html+=promoHTML();
-  html+=nxt?`<div class="next"><div><small>Next ${nxt.imp==="high"?"high-impact ":""}event</small><b>${nxt.tag} · ${nxt.name}</b></div><div class="count" id="count" data-at="${+nxt.at}"></div></div>`:"";
+  if(!myOnly)html+=briefing();
+  html+=nxt?`<div class="next"><div><small>${t(nxt.imp==="high"?"Next high-impact event":"Next event")}</small><b>${nxt.tag} · ${nxt.name}</b></div><div class="count" id="count" data-at="${+nxt.at}"></div></div>`:"";
   let day="";
   list.forEach((e,i)=>{
     const d=fmtD(e.at);
@@ -605,7 +670,7 @@ function markets(){
   let html="";
   if(fav.length)html+=`<h2 class="sub">Your watchlist</h2><div class="list">${fav.map(row).join("")}</div><h2 class="sub">All markets</h2>`;
   html+=`<div class="list">${rest.map(row).join("")||'<div class="empty">Everything here is on your watchlist.</div>'}</div>`;
-  html+=`<p class="hint">${fav.length?"":"Tap ☆ to pin a market to the top. "}Tap any market to join its discussion. Prices are a snapshot, not a live feed. Times are shown in ${city(tz||detected)} time.</p>`;
+  html+=LANG==="sw"?`<p class="hint">${fav.length?"":"Gusa ☆ kuweka soko juu. "}Gusa soko lolote kujiunga na majadiliano yake. Bei si za moja kwa moja. Saa ni za ${city(tz||detected)}.</p>`:`<p class="hint">${fav.length?"":"Tap ☆ to pin a market to the top. "}Tap any market to join its discussion. Prices are a snapshot, not a live feed. Times are shown in ${city(tz||detected)} time.</p>`;
   if(sb&&!me)html+=`<p class="hint">Your watchlist is saved on this device only. <button data-signin>Sign in</button> to keep it everywhere.</p>`;
   $("#v-markets").innerHTML=html;
 }
@@ -614,9 +679,9 @@ function newsView(){
   $("#v-news").innerHTML=`<div class="list">`+(list.length?list.map(([m,imp,h,src,url],i)=>
     `<article class="news" style="--i:${i}"><div class="meta"><i class="dot ${imp}"></i><span>${m}</span><span>·</span><a href="${url}" target="_blank" rel="noopener" style="color:var(--accent)">${src}</a></div><h3>${h}</h3></article>`).join(""):`<div class="empty">No news for ${market}.</div>`)+`</div>`;
 }
-function ago(){const m=Math.round((Date.now()-UPDATED_AT)/60000);return m<60?m+" min ago":Math.round(m/60)+" h ago"}
+function ago(){const m=Math.round((Date.now()-UPDATED_AT)/60000);return LANG==="sw"?(m<60?"dakika "+m+" zilizopita":"saa "+Math.round(m/60)+" zilizopita"):(m<60?m+" min ago":Math.round(m/60)+" h ago")}
 function render(){chips();tzLabel();$("#upd").textContent="Updated "+fmtDT(UPDATED_AT);
-  $("#delaytxt").textContent=`Last refresh ${ago()}. NewsTrade refreshes every hour, so prices can be up to an hour old. Check your broker before you trade.`;calendar();markets();newsView();journal()}
+  $("#delaytxt").textContent=LANG==="sw"?`Imesasishwa ${ago()}. NewsTrade husasishwa kila saa, hivyo bei zinaweza kuwa za hadi saa moja iliyopita. Thibitisha kwa broker wako kabla ya kufanya biashara.`:`Last refresh ${ago()}. NewsTrade refreshes every hour, so prices can be up to an hour old. Check your broker before you trade.`;calendar();markets();newsView();journal()}
 $("#tzbtn").addEventListener("click",openTz);
 $("#tzsearch").addEventListener("input",e=>fillZones(e.target.value));
 $("#tzlist").addEventListener("change",showNow);
@@ -834,18 +899,21 @@ function sessionsView(){
   const startOfMyDay=new Date(now.getTime()-((me0.h*60+me0.m)*60000)-now.getSeconds()*1000);
   let html="";let openN=0;
   for(const [name,z,oh,ch] of SESSIONS){
-    const t=sessionTimes(name,z,oh,ch,now),open=t.isOpen&&!wk;if(open)openN++;
+    const tt=sessionTimes(name,z,oh,ch,now),open=tt.isOpen&&!wk;if(open)openN++;
     // bar segments across the viewer's day
-    const segs=[];for(const shift of [-1,0,1]){const o=new Date(t.open.getTime()+shift*864e5),c=new Date(t.close.getTime()+shift*864e5);
+    const segs=[];for(const shift of [-1,0,1]){const o=new Date(tt.open.getTime()+shift*864e5),c=new Date(tt.close.getTime()+shift*864e5);
       const a=Math.max(0,(o-startOfMyDay)/864e5),b=Math.min(1,(c-startOfMyDay)/864e5);if(b>a)segs.push([a,b])}
     const fmt=d=>d.toLocaleTimeString([], {hour:"2-digit",minute:"2-digit",hour12:false,timeZone:uz});
-    const sub=wk?"Forex market closed for the weekend":open?`Closes in ${dur(t.close-now)}`:`Opens in ${dur(t.open-now)}`;
-    html+=`<div class="srow"><div class="sname">${name}<span class="st${open?" open":""}">${open?"Open":"Closed"}</span></div><div class="shrs">${fmt(t.open)}–${fmt(t.close)}</div>
+    const sub=t(wk?"Forex market closed for the weekend":open?`Closes in ${dur(tt.close-now)}`:`Opens in ${dur(tt.open-now)}`);
+    html+=`<div class="srow"><div class="sname">${name}<span class="st${open?" open":""}">${t(open?"Open":"Closed")}</span></div><div class="shrs">${fmt(tt.open)}–${fmt(tt.close)}</div>
       <div class="bar" aria-hidden="true">${segs.map(([a,b])=>`<i class="${open?"on":""}" style="left:${(a*100).toFixed(2)}%;width:${((b-a)*100).toFixed(2)}%"></i>`).join("")}<b style="left:${(nowFrac*100).toFixed(2)}%"></b></div>
       <div class="sub2">${sub}</div></div>`}
   $("#sessions").innerHTML=html;
   const ln=sessionTimes(...SESSIONS[2],now),ny=sessionTimes(...SESSIONS[3],new Date(ln.open.getTime()+60000));
   const ovA=new Date(Math.max(ln.open,ny.open)),ovB=new Date(Math.min(ln.close,ny.close));
+  if(LANG==="sw"){const hm=d=>d.toLocaleTimeString([], {hour:"2-digit",minute:"2-digit",hour12:false,timeZone:uz});
+    $("#sessnote").textContent=wk?"Forex hufunguliwa tena Jumapili saa 17:00 kwa saa za New York. Kripto inafanya biashara wikendi nzima."
+      :(openN>=2?`Vipindi ${openN} viko wazi sasa. `:"")+(ovB>ovA?`Wakati wenye shughuli nyingi: London na New York pamoja, ${hm(ovA)}–${hm(ovB)} kwa saa zako.`:"");return}
   $("#sessnote").textContent=wk?"Forex reopens Sunday 17:00 New York time. Crypto trades all weekend."
     :(openN>=2?`${openN} sessions open now. `:"")+(ovB>ovA?`Busiest time: London–New York overlap, ${ovA.toLocaleTimeString([], {hour:"2-digit",minute:"2-digit",hour12:false,timeZone:uz})}–${ovB.toLocaleTimeString([], {hour:"2-digit",minute:"2-digit",hour12:false,timeZone:uz})} your time.`:"")+" Times are in "+city(uz)+" time."}
 // Currency converter: value of 1 unit in US dollars, from the hourly prices
@@ -889,6 +957,37 @@ function tools(){
   }
   sessionsView();converter();calcs();
   clearInterval(sessTimer);sessTimer=setInterval(()=>{if(view==="tools"&&!document.hidden)sessionsView()},30000)}
+
+// DAILY BRIEFING: today's key events, the biggest mover and the top headline
+function briefing(){
+  const now=new Date(),today=fmtD(now);
+  let evs=events.filter(e=>fmtD(e.at)===today&&e.imp==="high").sort((a,b)=>a.at-b.at);
+  const seen=new Set();evs=evs.filter(e=>{const k=fmtT(e.at)+e.tag;if(seen.has(k))return false;seen.add(k);return true}).slice(0,3);
+  const mv=instruments.filter(x=>x.ch!=null).sort((a,b)=>Math.abs(b.ch)-Math.abs(a.ch))[0];
+  const hl=news.find(n=>n[1]==="high")||news[0];
+  const dayLbl=now.toLocaleDateString(LOC(), {weekday:"short",day:"numeric",month:"short",timeZone:tz||detected});
+  return `<div class="brief"><h3>${t("Today's briefing")}<span>${esc(dayLbl)}</span></h3>
+    <div class="bl"><small>${t("Key events")}</small><div class="evl">${evs.length?evs.map(e=>`<button data-ev="${esc(e.id)}">${esc(fmtT(e.at))} · ${esc(e.tag)} ${esc(e.name)}</button>`).join(""):`<span style="color:var(--muted)">${t("No high-impact events today.")}</span>`}</div></div>
+    ${mv?`<div class="bl"><small>${t("Biggest mover")}</small><button data-mk="${esc(mv.s)}">${esc(mv.s)} <span class="${mv.ch>=0?"up":"down"}">${mv.ch>=0?"+":""}${mv.ch.toFixed(2)}%</span></button></div>`:""}
+    ${hl?`<div class="bl"><small>${t("Top story")}</small><a href="${esc(hl[4])}" target="_blank" rel="noopener">${esc(hl[2])}</a></div>`:""}</div>`}
+
+// SETTINGS: theme and language
+let THEME=store.get("nt-theme","auto");
+function applyTheme(){const r=document.documentElement;if(THEME==="auto")r.removeAttribute("data-theme");else r.setAttribute("data-theme",THEME);
+  const meta=document.querySelector('meta[name="theme-color"]');if(meta)meta.content=getComputedStyle(r).getPropertyValue("--bg").trim()||"#2f4bd8";
+  dispatchEvent(new Event("nt-theme"))}
+function setSheet(){document.querySelectorAll("[data-theme-opt]").forEach(b=>b.setAttribute("aria-pressed",b.dataset.themeOpt===THEME));
+  document.querySelectorAll("[data-lang-opt]").forEach(b=>b.setAttribute("aria-pressed",b.dataset.langOpt===LANG));
+  $("#settz").textContent="🕒 "+city(tz||detected)+" ("+offset(tz||detected)+") · "+t("Change")}
+$("#setbtn").addEventListener("click",()=>{setSheet();$("#setsheet").hidden=false});
+$("#setclose").addEventListener("click",()=>$("#setsheet").hidden=true);
+$("#settz").addEventListener("click",()=>{$("#setsheet").hidden=true;openTz()});
+$("#setsheet").addEventListener("click",e=>{
+  const th=e.target.closest("[data-theme-opt]");if(th){THEME=th.dataset.themeOpt;store.set("nt-theme",THEME);applyTheme();setSheet();return}
+  const lg=e.target.closest("[data-lang-opt]");if(lg&&lg.dataset.langOpt!==LANG){store.set("nt-lang",lg.dataset.langOpt);location.reload()}});
+applyTheme();
+if(LANG==="sw"){document.documentElement.lang="sw";translateNode(document.body);
+  new MutationObserver(ms=>{for(const m of ms)for(const n of m.addedNodes){if(n.nodeType===1)translateNode(n);else if(n.nodeType===3&&n.parentElement)translateNode(n.parentElement)}}).observe(document.body,{childList:true,subtree:true})}
 
 // CHAT ROOMS (same "comments" table, thread keys chat_general, chat_forex, …; live via Supabase Realtime, polling as backup)
 const ROOMS=[["general","General"],["forex","Forex"],["crypto","Crypto"],["stocks","Stocks"],["commodities","Commodities"]];
@@ -1053,10 +1152,10 @@ document.addEventListener("click",e=>{
     if(!cd.classList.contains("confirm")){cd.classList.add("confirm");cd.textContent="Tap again to delete";setTimeout(()=>{if(cd.isConnected){cd.classList.remove("confirm");cd.textContent="Delete"}},3000);return}
     const id=cd.dataset.cdel;cd.textContent="Deleting…";
     sb.from("comments").delete().eq("id",id).then(({error})=>{if(error){cd.textContent="Couldn't delete";return}cRows=cRows.filter(c=>String(c.id)!==id);if(curEv)ccount[curEv.id]=cRows.length;renderComments()});return}
-  const evr=e.target.closest(".ev[data-ev]"); if(evr){openEvent(evr.dataset.ev);return}
+  const evr=e.target.closest(".ev[data-ev],.brief [data-ev]"); if(evr){openEvent(evr.dataset.ev);return}
   const sg=e.target.closest("[data-seg]"); if(sg){myOnly=sg.dataset.seg==="mine";store.set("nt-myonly",myOnly);pushPrefs();calendar();return}
   const st=e.target.closest(".star"); if(st){const s=st.dataset.sym;watch.has(s)?watch.delete(s):watch.add(s);store.set("nt-watch",[...watch]);pushPrefs();markets();return}
-  const mkr=e.target.closest(".mk[data-mk]"); if(mkr){openMarket(mkr.dataset.mk);return}
+  const mkr=e.target.closest(".mk[data-mk],.brief [data-mk]"); if(mkr){openMarket(mkr.dataset.mk);return}
   const rpt=e.target.closest("[data-report]"); if(rpt){
     if(!rpt.classList.contains("confirm")){rpt.classList.add("confirm");rpt.textContent="Tap to report";setTimeout(()=>{if(rpt.isConnected){rpt.classList.remove("confirm");rpt.textContent="Report"}},3000);return}
     const id=rpt.dataset.report;sb.from("reports").insert({comment_id:id}).then(()=>{});
@@ -1146,6 +1245,7 @@ document.addEventListener("visibilitychange",()=>{if(!document.hidden)loadLive()
   addEventListener("resize",()=>{setup();start()});
   document.addEventListener("visibilitychange",()=>{if(!document.hidden)start()});
   matchMedia("(prefers-color-scheme: dark)").addEventListener?.("change",()=>{readCols();draw(0)});
+  addEventListener("nt-theme",()=>{readCols();draw(0)});
   still.addEventListener?.("change",start);
   setup();start();
 })();
