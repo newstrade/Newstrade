@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T11:45:58.741Z",
+ "updated": "2026-10-15T12:58:39.153Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,65 +232,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1218,
-   "ch": 0.55,
-   "asof": "2026-10-15T11:45:26.000Z"
+   "p": 1.1216,
+   "ch": 0.53,
+   "asof": "2026-10-15T12:58:27.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3257,
-   "ch": 0.51,
-   "asof": "2026-10-15T11:45:26.000Z"
+   "p": 1.3252,
+   "ch": 0.47,
+   "asof": "2026-10-15T12:58:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.932,
-   "ch": -0.23,
-   "asof": "2026-10-15T11:45:58.000Z"
+   "p": 157.822,
+   "ch": -0.3,
+   "asof": "2026-10-15T12:58:38.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6921,
-   "ch": -0.76,
-   "asof": "2026-10-15T11:45:26.000Z"
+   "p": 0.6908,
+   "ch": -0.95,
+   "asof": "2026-10-15T12:57:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4195,
-   "ch": -0.27,
-   "asof": "2026-10-15T11:45:58.000Z"
+   "p": 1.4206,
+   "ch": -0.19,
+   "asof": "2026-10-15T12:58:38.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.83,
-   "ch": -0.52,
-   "asof": "2026-10-15T11:45:57.000Z"
+   "p": 0.8296,
+   "ch": -0.56,
+   "asof": "2026-10-15T12:58:38.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80987.4,
-   "ch": -0.72,
-   "asof": "2026-10-15T11:45:53.000Z"
+   "p": 80507.61,
+   "ch": -1.31,
+   "asof": "2026-10-15T12:58:33.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2364.44,
-   "ch": -2.23,
-   "asof": "2026-10-15T11:45:52.000Z"
+   "p": 2346.31,
+   "ch": -2.98,
+   "asof": "2026-10-15T12:58:37.000Z"
   },
   {
    "s": "S&P 500",
@@ -320,26 +320,26 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4179.5,
-   "ch": 1.74,
-   "asof": "2026-10-15T11:35:56.000Z"
+   "p": 4162.7,
+   "ch": 1.33,
+   "asof": "2026-10-15T12:48:39.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 93.94,
-   "ch": 0.04,
-   "asof": "2026-10-15T11:35:42.000Z"
+   "p": 93.97,
+   "ch": 0.07,
+   "asof": "2026-10-15T12:48:37.000Z"
   }
  ],
  "news": [
   [
    "Forex",
-   "high",
-   "South Africa's central bank governor Kganyago sees upside risks to inflation",
+   "med",
+   "Bank of England's Breeden says cost-cutting by firms helping central bank",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSC1ndjEzVjVKOVRtNzJOTmxHbF9uamNIN2NOeUdrMDZiWEJCUV9KQUFIMWUtcWZjUDNKemdLMG9jODh5UXBBRHRScEMxX2xjWDdNN0VTZTFHd0xyejRVS1RYZF84MjdHWG5GZ19VYTlzZGd4TjV6b1BIajFxLUR2eFVmYzJyZ1F3UGRfZ2Q2UWotc1ZNMC1Qb2NjWmtSZ1FpQkNaZWtpUW1SZVlhRDRrdnZ5eUxrZTVGZVVZYXNR?oc=5"
+   "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTlRqOEp1TktZM3ZxOUZ4ZU9jUHJCX1JkRjJFS2Z6T0NwT00zSk8weGswQ3ZJWmVIdGxveko1ZUg0SU9kQ1Z6RXlMYUltaDZMSlRiRE9YeFlBbDVxRXlxOThrYTFsejg3ZEJjWkNLM3ZqaXpuMmZqTlo2aW4wUEdjS1pibTNEb0RQc09SNzNNQTRfUUVsUWFYMTNZRHN4T29EZFExX0RRUVgzcUhLeTl1T2xWWTA?oc=5"
   ],
   [
    "Forex",
@@ -351,30 +351,30 @@
   [
    "Crypto",
    "med",
-   "Current price of Bitcoin for October 15, 2026",
+   "Current price of Ethereum for October 15, 2026",
    "Fortune",
-   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zMUlJWUlFSThHVG5HclN6N2VFb3I2Ni1IbS1VenJHSW9jazNaU3hNVXF3REFva3FvSmRtNlZ5akpJalFORkFLZEJFTGMtVDR3Zk9oWHUtSld3QUJsSUgxbzFJWTVQQ1k?oc=5"
+   "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BeGJFWkRzby1DY3ZVZ25wN1FxT3c3SXQxNUcxSnFWSTRFQTRfYVdmUWdhTEhkU0FObU5Wb1RMMDR5Z2xOSU9IOVVhdUxoNmpBZVg2WTVOamV2MmFOTGUxQzNsbXktM19x?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcFQ5S3FnSVhXb0FEdjRrX0hEd3dSMlgxU1FVTllUTnhucWVidElBRzAzNTVCbjduUFRmZDgtTjVGWUpjb0RiM1dKZldUNUZmOVZvcm5KYUpWc3c5S0JCUFI4Tkh3SFpnUWFCSnFTck5WR3B3SFlRc2JiWVg4T0Q1QVFGNUhURURhdWo0RGVIT2dSVGN2S0Q2Z3dYck9fcFo3el9oNklvanZiaTRsWkhKRG9fcDN6Y0JWVTI5X0g0dw?oc=5"
+   "Bitcoin and ethereum prices today, Thursday, October 15, 2026: Crypto prices falling into a familiar pattern",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMijAJBVV95cUxQYTU1TTl5UjBuUGZTbEVRWEhlTlM5aDF1Q0hPa3ZqbFZkN3dtOE8zYlhXZmR5MVNhVXZWdE5uU3NVSFA4WU55OXNnYXp3X3FITjV5SXBQN3BVT3FlWExubDhQekVzenRNM1ViU1FkRGJ4VkM1QnBrVkVzc0dTOUJDcTNacWMtWUhhbUEwYmd0bV9LNXRlbU1DeTZJTk9KMnpVM2RoX2oxQi13MGJxeUU4T2NaaFY2cWxyWkZ3YXB2Z3ljUnVrVE1ZMWViZ1pXTVFwbUtaVXFYZ0o5VDNzNVFnaFZ6dmhSQXFxTzc1YV9HNzhCUmVWV2dzeEFjX0laSGhCU0d5bjAyanhxdWN1?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "S&P 500's march to 8,000 hinges on 'very, very strong' third quarter",
+   "Nasdaq futures fall 1% as AI rout deepens on debt concerns",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeDNuYWYyZHBTTUNybko0NWxLZGc4aEl4bTYyazY0aVNmQ1ZWZUFPYVZnOG9FMDcwTUlGdlptbUR6eHpTQ2hQamVCODlMNHRyYURUVV8zMndqaXJQWEZJREJHUGxraWF3WnAwTnB6eWtOTXpySnpaYUw1WEUtOFVxT0JJcG1LUDdUQUhXamYxN1NlWnB3UVRqX2YtUVdna3o5V3RnaXoxcUphRmlUT2c?oc=5"
+   "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZTRob0s4X3hCYkZQZzFfeUxuU1ZlN0tPT2hvelcwcW9QdU9yeVN1ZUZfR253ZUNoN3NjUlRHbG9aS0wzMmVGLUpNOVcyTUlHOWo3WERDX1psTXlmWGthb0JPN19GMGxnT2pkYkRWQ0R1THEyODhoWnZTd1NIQjdZbm5fLXNYb0M2c1g2YU02TENSSi1xSFZMQzRuUTc?oc=5"
   ],
   [
    "Stocks",
-   "med",
-   "Rising Rates Threaten Wall Street’s Golden Goose in Trading",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS1FoNS1HT2FMZ3QtNVlILUJYTjhPMXoyYUEzRTg1Yy1CaEgwOHVVNkNsYjMwWTY3SzQ1cVBEamJ0RXh1MUJ4UWZaS2R4MVZrVmx2R0FleExRRUU4MzgzV1hQWXpMTDNGek84cXJPMXdTOFhhdzhyNXVDazY5cTN2WVVUdEplM2pvNmVyWk5IN3ppRTBIZHR6Z3FSNnpZMjhiV1VweXp3?oc=5"
+   "high",
+   "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5"
   ],
   [
    "Commodities",
@@ -386,9 +386,9 @@
   [
    "Commodities",
    "med",
-   "Gold price today, Thursday, October 15, 2026: Lowest open all week ahead of PPI data",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVUdyMEV0cGh6dkFmSnFOTm42QnhoMDl6TU95ZTJmLTJQTlNYWmxLOFQ4WHZDNUpjanF2a2l6NnB4Y3FUbWhUS21OSjhvdGp1aWRmNERjTS1LLTlseHU2MGNiNVJHd2toOHc5THRxcHpHRWk3a2hUNVRmYU9HalMwTXdrbHBfWnNydTFOUlI3TnVxT1k1VnB5eGF1dmdhUFhkWmU3UGFzUjc4c0djSGRrc1JfZklocUMwbG5mX2NjUVpLX2F2aWk3dzRhOURWOWZuazhKZzZJQl9OTE5JX3Y5ZXdhT2NPV2VTMzJHdQ?oc=5"
+   "Ukraine to Resume Russian Oil Refinery Strikes After Failed Energy Ceasefire",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb05FVXZzdHNnWjV0WDZCeFYtYUJfS0tTb3RNYVpqVVhBRjdBaXFBUF9yRWpLSFBWYXplRUVDcVBZV1lKaUFsWVJNdHNCbGJzR3NiSFktdmxmZGhVMzBEWE5uTE5yZXBMVzJ2UnFnRWxSa2kwQldtLXRyYUFlRndPbjdXYWpSZUljM3Nzb2szSm1kRHlEaHlreVdsZFhYcks5bTJ4M1JfRnI4RFdiRmlOMXNkdHRkZ0lNdmYyS3lqODNkY3VuN3VROS05eG7SAdIBQVVfeXFMTTA4WGk0WEFKaUR6cUQxWnRjU09xRkxCX3Z5Mk83N0NQR2JBVEFvblNJTlVmVFZKYnNrRmRCcTJjdjJ6b3F5a0VSTzJ0NWduQW52RnRoeGpjcXZjdmI5cnU3NURqYlFXcFo4V3l1T19mbkN2bWVOeF8xc2FidDU3RDBNZzRvSlA2eHRQbDFoV0ZsQUM5VDYxdFVkSEpEemoydnNsU202Mk82NkpxVVlUZGdLNkQyaWFRNjhfUVI2ZmpzNS1uTVpDTEFTVlNMbnVEeVhB?oc=5"
   ]
  ]
 }
