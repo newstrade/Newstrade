@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T05:44:56.019Z",
+ "updated": "2026-10-15T06:58:51.667Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,65 +232,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1215,
-   "ch": 0.52,
-   "asof": "2026-10-15T05:44:28.000Z"
+   "p": 1.1211,
+   "ch": 0.48,
+   "asof": "2026-10-15T06:58:29.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3237,
-   "ch": 0.36,
-   "asof": "2026-10-15T05:44:28.000Z"
+   "p": 1.3242,
+   "ch": 0.39,
+   "asof": "2026-10-15T06:58:29.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.968,
-   "ch": -0.2,
-   "asof": "2026-10-15T05:44:55.000Z"
+   "p": 157.94,
+   "ch": -0.22,
+   "asof": "2026-10-15T06:58:51.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6957,
-   "ch": -0.24,
-   "asof": "2026-10-15T05:43:28.000Z"
+   "p": 0.6941,
+   "ch": -0.47,
+   "asof": "2026-10-15T06:57:29.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.421,
-   "ch": -0.16,
-   "asof": "2026-10-15T05:44:53.000Z"
+   "p": 1.4214,
+   "ch": -0.13,
+   "asof": "2026-10-15T06:58:51.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8303,
-   "ch": -0.48,
-   "asof": "2026-10-15T05:44:55.000Z"
+   "p": 0.831,
+   "ch": -0.4,
+   "asof": "2026-10-15T06:58:52.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80892,
-   "ch": -0.83,
-   "asof": "2026-10-15T05:44:51.000Z"
+   "p": 80799.99,
+   "ch": -0.95,
+   "asof": "2026-10-15T06:58:50.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2357.73,
-   "ch": -2.51,
-   "asof": "2026-10-15T05:44:48.000Z"
+   "p": 2355.28,
+   "ch": -2.61,
+   "asof": "2026-10-15T06:58:50.000Z"
   },
   {
    "s": "S&P 500",
@@ -320,17 +320,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4162.4,
-   "ch": 1.33,
-   "asof": "2026-10-15T05:34:54.000Z"
+   "p": 4157.5,
+   "ch": 1.21,
+   "asof": "2026-10-15T06:48:46.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 94.29,
-   "ch": -0.84,
-   "asof": "2026-10-15T05:34:48.000Z"
+   "p": 94.16,
+   "ch": -0.98,
+   "asof": "2026-10-15T06:48:32.000Z"
   }
  ],
  "news": [
@@ -358,9 +358,9 @@
   [
    "Crypto",
    "med",
-   "Crypto Liquidations Near $1 Billion as Longs Take the Majority of Losses",
+   "Polymarket CEO Shayne Coplan Says Crypto Investors Can Achieve Superior Returns With Prediction Markets. Here's Why He's Right.",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUI0dXhXZEotQThTN0hTSlU2MDItNDc5dGQ1dW5rSXFTT2YxOF9QUklBTmdPanA4MG40YW1JXzd5MDFGOXRCZE8xWktFRVMzdnpuallUUjVNVEF4VEhxODR4bUJQZ3hsV3k0VENxdE1XU2hlU1dWa1pvcHUtNl9qWkZkMG43cGoxMVdLd1JOTG52d1RGbXhEejhyY0swamFw?oc=5"
+   "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVjVQTEl5RnVmMEgzZVB2dGVtMFpvRDU2VVY4Y2VzcWhoMDdJWE5yRmJwUzJzaGV1T2NYVkozNDdHcDFSbVhXSkhMMGdVLXB4RDJ5ZW9xTWFLZWFvci16NTlpbE5zTlk3SEY1bm1VN1paVmhaTi03SXlLamh1X1NOVXpuN3htUnJmZk1OdS0tTnNhWGQwSEpyTHc3ZHU1NDQ?oc=5"
   ],
   [
    "Stocks",
@@ -372,9 +372,9 @@
   [
    "Stocks",
    "med",
-   "Nasdaq tumbles 2%, and these 10 stocks have fueled the selloff",
-   "Seeking Alpha",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVUlfdVVMOGtyMlVzX2RneWJISm5KYlpfTk12c0JPcmxRcGhoNFNuc3ViTWlZQUpWRnJwOG9SaVhFZFU3MFg5bHljeTZ4UzlvZThwUUN1UGptTGRRa3hXWjd3Ri1DcnNGWTE3bE9sVzBHeXpjRHVvVmlHY0VSVHNPUnh1cXZrMTlrTmpGSVEtb09ZMjVlMXNuZXVaMDhzenc?oc=5"
+   "The Former Theater Director Who Keeps Beating Wall Street",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUUtJN3M1em5qaDFMMDh5SXhramQtOEM2RmZpUlNrcUxxQWdiU3FfbGptRndYdS0ydTRsTmFsemU1OERWNG9ZakoxOFhjV0Vnd1RmTTNSZG93eER4ZW9BdXdHdVZZZUJFaVdQbzI4TThPN1VvdUlIVUlGZ2VJcFZzTjhueEFDbE54dWlDcXFoZ1V2TnkzSU9TOTY3VWVEbE50NW5DdW5HWW5KbHZRTVVwbA?oc=5"
   ],
   [
    "Commodities",
@@ -386,9 +386,9 @@
   [
    "Commodities",
    "med",
-   "US Crude Oil Inventories See Massive Drop Off",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcG1aeUFSVTFiVzZzbUZuM0t2ajk5TVNFOVFVMjFGdFF0N1Y2VDh5OVFGOVhtWnc2dTYzLUl2Tm1tY2FnWDFQWEJGQ0ZqVThWUENubEwzOEhpQ2k4OTFRLTdraWluYWxvVEFEdWFDQzJPV05mcXVMZzM5aG5mcjZJWDVMNWJSa1hmczFsbWE0M3h4b3JOM084TzJicS1SU1VqRVZN0gGoAUFVX3lxTE8tb2dnNE1rcHZuX3RRNUExM0F4YjVQcDlVS0t4bjBOaUN5S2c1Y0NyNlU1b2F3elBMWmc0ZGotU3lYR3JwZGF3ZjJ4MWE1RnhXdEFaeDdydlZLbF9YcWFSQjhOMVpBdU1UdkNPV0kwLUdWd3pINHZ2cnBnR01FUGwwT01VYnZRT1Jiek43cmUtTUFQV2tOdDYtTUFGamlQVzByQ3RXUjZDQw?oc=5"
+   "A Quick Note On Crude Oil",
+   "Seeking Alpha",
+   "https://news.google.com/rss/articles/CBMickFVX3lxTFBZYmNJT0h2SkxNQVJxZDNvNUQxVU1MeEc3QXo3UTZWejFURTZvamNzV2E3OG9RTUZQNlZadkM5dW1zTVRCdVhwOGxHZXlTZUlManRydG45cjVBMjFtN2NkWFVOMm1SN1hJLTM3bmV4cm8yQQ?oc=5"
   ]
  ]
 }
