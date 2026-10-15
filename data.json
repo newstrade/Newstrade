@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T03:46:37.190Z",
+ "updated": "2026-10-15T04:45:04.428Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,65 +232,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1236,
-   "ch": 0.71,
-   "asof": "2026-10-15T03:46:25.000Z"
+   "p": 1.1218,
+   "ch": 0.55,
+   "asof": "2026-10-15T04:44:27.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3254,
-   "ch": 0.49,
-   "asof": "2026-10-15T03:46:25.000Z"
+   "p": 1.3244,
+   "ch": 0.41,
+   "asof": "2026-10-15T04:44:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.611,
-   "ch": -0.43,
-   "asof": "2026-10-15T03:46:36.000Z"
+   "p": 157.924,
+   "ch": -0.23,
+   "asof": "2026-10-15T04:45:04.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6962,
-   "ch": -0.17,
-   "asof": "2026-10-15T03:45:25.000Z"
+   "p": 0.6957,
+   "ch": -0.24,
+   "asof": "2026-10-15T04:43:26.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4193,
-   "ch": -0.28,
-   "asof": "2026-10-15T03:46:36.000Z"
+   "p": 1.4207,
+   "ch": -0.18,
+   "asof": "2026-10-15T04:45:03.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.828,
-   "ch": -0.76,
-   "asof": "2026-10-15T03:46:36.000Z"
+   "p": 0.8298,
+   "ch": -0.54,
+   "asof": "2026-10-15T04:45:04.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80794.64,
-   "ch": -0.95,
-   "asof": "2026-10-15T03:46:34.000Z"
+   "p": 81499.66,
+   "ch": -0.09,
+   "asof": "2026-10-15T04:45:01.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2355.36,
-   "ch": -2.61,
-   "asof": "2026-10-15T03:46:34.000Z"
+   "p": 2382.06,
+   "ch": -1.5,
+   "asof": "2026-10-15T04:45:01.000Z"
   },
   {
    "s": "S&P 500",
@@ -320,17 +320,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4171.4,
-   "ch": 1.55,
-   "asof": "2026-10-15T03:36:26.000Z"
+   "p": 4167,
+   "ch": 1.44,
+   "asof": "2026-10-15T04:34:58.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 94.09,
-   "ch": -1.05,
-   "asof": "2026-10-15T03:36:34.000Z"
+   "p": 93.91,
+   "ch": -1.24,
+   "asof": "2026-10-15T04:35:02.000Z"
   }
  ],
  "news": [
@@ -343,10 +343,10 @@
   ],
   [
    "Forex",
-   "med",
-   "Rupee Jumps After India Central Bank Unveils Currency-Defense Measures",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiugFBVV95cUxObjRfQjhMOXN6M3FfdUtlSWFzaFVpU1JuNjVDdkdTTzJlNkQzRHpfQUdrLW5oNHN0b1c1WXBxWnlRZzRDTXlkT3cwVDdnYVBpR2JoemZXV0toVGZBWmpCeEg0MktXWHFLNGZRdk83NkZzNGw4Y3BrdDdhaEx5Wk5pbGRrQ0JwcmhyWldqUU5tSEwwY0dVcDBrcUxoSmxoeDNFWXo3LXpBcTQxbVVYVGZxVFRJaDlFSmowWGc?oc=5"
+   "high",
+   "Japan’s Katayama Renews FX Warnings After US CPI Heats Up",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUFBHMlJGT29yUlFPTXdnR3FvOFhJQ3VxRFdOZ2QyRFljTlh4cGVoTDgwTmowd0l0cFctalZYWHA5eEdzQy1tSHVrQTUtTVhlNEY3LTBIWmlKYy1nSXZjRjJoZjN5cjNMR01xMEt1MFFLQmRUeWJhUC1CVkthTTdENV8tdXN1aXMwcWFFX2JDX3o2X1cwZXhLOTRUMFU1R1BfODNKa090UlU4bUxkLUU4OTBB?oc=5"
   ],
   [
    "Crypto",
@@ -358,9 +358,9 @@
   [
    "Crypto",
    "med",
-   "Bitcoin Hits Lower End of Trading Range as Risk Appetite Wanes",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUxSWmdWZVZEMXBuY3BOQlM4M0tMVGp1MzNuSm5YWHhmaFB2eHRET3BHWDF6WnBNZGJZMGxCVWdpVmd2MkNBQllrTUYxVzJiVmlQLWdfZTl3R2l2ZGs3YndoTF9KQUF4LWVzeFdiczlVUG83ZDJuMktoMmozQzJUMmtJMkExT3NPcU1OVjhfMldSYzZfNHZIX1dKdmh5anA4bktoSGp0TmIyMW5HSFdkUGRldw?oc=5"
+   "Crypto Liquidations Near $1 Billion as Longs Take the Majority of Losses",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUI0dXhXZEotQThTN0hTSlU2MDItNDc5dGQ1dW5rSXFTT2YxOF9QUklBTmdPanA4MG40YW1JXzd5MDFGOXRCZE8xWktFRVMzdnpuallUUjVNVEF4VEhxODR4bUJQZ3hsV3k0VENxdE1XU2hlU1dWa1pvcHUtNl9qWkZkMG43cGoxMVdLd1JOTG52d1RGbXhEejhyY0swamFw?oc=5"
   ],
   [
    "Stocks",
@@ -379,16 +379,16 @@
   [
    "Commodities",
    "med",
-   "US Crude Oil Inventories See Massive Drop Off",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcG1aeUFSVTFiVzZzbUZuM0t2ajk5TVNFOVFVMjFGdFF0N1Y2VDh5OVFGOVhtWnc2dTYzLUl2Tm1tY2FnWDFQWEJGQ0ZqVThWUENubEwzOEhpQ2k4OTFRLTdraWluYWxvVEFEdWFDQzJPV05mcXVMZzM5aG5mcjZJWDVMNWJSa1hmczFsbWE0M3h4b3JOM084TzJicS1SU1VqRVZN0gGoAUFVX3lxTE8tb2dnNE1rcHZuX3RRNUExM0F4YjVQcDlVS0t4bjBOaUN5S2c1Y0NyNlU1b2F3elBMWmc0ZGotU3lYR3JwZGF3ZjJ4MWE1RnhXdEFaeDdydlZLbF9YcWFSQjhOMVpBdU1UdkNPV0kwLUdWd3pINHZ2cnBnR01FUGwwT01VYnZRT1Jiek43cmUtTUFQV2tOdDYtTUFGamlQVzByQ3RXUjZDQw?oc=5"
+   "Oil falls as investors assess Mideast tensions, International Energy Agency's report",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DVlpiaVB3TDNMcWszU0s4YVotdmZpYjUzVDVkZ1EwWU5nNTVfWDlsbVI2eVJHRHB6NDJrbXNONEtCdzFoWDJmVDF5V0ltWk5HUE1DMVNWRlhPREYtSmhMZEZUOUN6QnI3d2ZadVYwNErSAXZBVV95cUxNTnU2bkR5aVZmeE40Q3o5cjE5bmNZT2NLRVJhbnkwVzdyNFBHY0JNREQ2NjFfdy1GWEUwblVobnBYRHhiRUw4RkpLN3B6WngycUdQeTJkQlVuYVB0ekhlLUJEeVJBXzJzQlM1X1BQbGxLQmMtdndn?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Opinion | War-Caused Oil Price Spikes Don’t Help the U.S. Economy",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVFRkc2tRMEc4Q1VidVJ5Z0RXcVctMWtVdXN0X1FQVk9MVUlJR1g0V0Q5dXVSbjdjaG1RMTQ2bldRNUFGVkJuLTl5Z3F2STNza3BaX2g1UmFVT0xKTUIzMUtMNmVXbUNSS1lWMDVIanBKMGw5WEY5OEE1QVYwYWVTaHhOM3A5VUJRUnpBOUFOUFFOU3hS?oc=5"
+   "US Crude Oil Inventories See Massive Drop Off",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcG1aeUFSVTFiVzZzbUZuM0t2ajk5TVNFOVFVMjFGdFF0N1Y2VDh5OVFGOVhtWnc2dTYzLUl2Tm1tY2FnWDFQWEJGQ0ZqVThWUENubEwzOEhpQ2k4OTFRLTdraWluYWxvVEFEdWFDQzJPV05mcXVMZzM5aG5mcjZJWDVMNWJSa1hmczFsbWE0M3h4b3JOM084TzJicS1SU1VqRVZN0gGoAUFVX3lxTE8tb2dnNE1rcHZuX3RRNUExM0F4YjVQcDlVS0t4bjBOaUN5S2c1Y0NyNlU1b2F3elBMWmc0ZGotU3lYR3JwZGF3ZjJ4MWE1RnhXdEFaeDdydlZLbF9YcWFSQjhOMVpBdU1UdkNPV0kwLUdWd3pINHZ2cnBnR01FUGwwT01VYnZRT1Jiek43cmUtTUFQV2tOdDYtTUFGamlQVzByQ3RXUjZDQw?oc=5"
   ]
  ]
 }
