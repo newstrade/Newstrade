@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T14:47:38.844Z",
+ "updated": "2026-10-15T15:48:41.931Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,105 +232,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1211,
-   "ch": 0.48,
-   "asof": "2026-10-15T14:47:30.000Z"
+   "p": 1.1207,
+   "ch": 0.45,
+   "asof": "2026-10-15T15:48:26.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3257,
-   "ch": 0.51,
-   "asof": "2026-10-15T14:47:30.000Z"
+   "p": 1.3253,
+   "ch": 0.48,
+   "asof": "2026-10-15T15:48:26.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.066,
-   "ch": -0.14,
-   "asof": "2026-10-15T14:47:37.000Z"
+   "p": 158.207,
+   "ch": -0.05,
+   "asof": "2026-10-15T15:48:41.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.692,
-   "ch": -0.77,
-   "asof": "2026-10-15T14:47:30.000Z"
+   "p": 0.6917,
+   "ch": -0.82,
+   "asof": "2026-10-15T15:47:26.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4185,
-   "ch": -0.34,
-   "asof": "2026-10-15T14:47:38.000Z"
+   "p": 1.4196,
+   "ch": -0.26,
+   "asof": "2026-10-15T15:48:41.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8293,
-   "ch": -0.6,
-   "asof": "2026-10-15T14:47:38.000Z"
+   "p": 0.8296,
+   "ch": -0.56,
+   "asof": "2026-10-15T15:48:41.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81401.17,
-   "ch": -0.21,
-   "asof": "2026-10-15T14:47:32.000Z"
+   "p": 82264.12,
+   "ch": 0.85,
+   "asof": "2026-10-15T15:48:37.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2382.05,
-   "ch": -1.5,
-   "asof": "2026-10-15T14:47:35.000Z"
+   "p": 2437.39,
+   "ch": 0.78,
+   "asof": "2026-10-15T15:48:28.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7714.46,
-   "ch": -0.06,
-   "asof": "2026-10-15T14:47:37.000Z"
+   "p": 7728.42,
+   "ch": 0.12,
+   "asof": "2026-10-15T15:48:41.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 26560.46,
-   "ch": -0.5,
-   "asof": "2026-10-15T14:47:35.000Z"
+   "p": 26598.781,
+   "ch": -0.35,
+   "asof": "2026-10-15T15:48:35.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 51967.53,
-   "ch": 0.67,
-   "asof": "2026-10-15T14:47:38.000Z"
+   "p": 52121.34,
+   "ch": 0.97,
+   "asof": "2026-10-15T15:48:42.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4180.8,
-   "ch": 1.77,
-   "asof": "2026-10-15T14:37:38.000Z"
+   "p": 4171.5,
+   "ch": 1.55,
+   "asof": "2026-10-15T15:38:42.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 95.25,
-   "ch": 1.44,
-   "asof": "2026-10-15T14:37:36.000Z"
+   "p": 95.87,
+   "ch": 2.1,
+   "asof": "2026-10-15T15:38:41.000Z"
   }
  ],
  "news": [
@@ -351,16 +351,16 @@
   [
    "Crypto",
    "med",
-   "He Crafted a Crypto Law for Trump—as His Company Got Millions From a Crypto Giant",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQkZMOGxoUFE3VzlTTnZUWWVVbmhVYzJSYlNwSG85NDJhWGtXS0NlZl9nTFZIa3A2c1R6Y0dfT2R6M3lzb1VvMDR2U1VHNlBlOFVxMUczTjlfY0JrX2N1RjhTR3NvMV9GcVRQbGhackxuR3lIS2ZyYWRQXzhTVEgtUVhybw?oc=5"
+   "Why Is Crypto Down Today? Nearly $1 Billion in Leveraged Positions Just Got Wiped Out.",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQXhyWXJGU2QtYXJLdndXRHJ2cFdkNVZXRU9sZjRNR250RzNQOGNGRzhHeHdUTUxtRm9uZlpZNzA5eWN3QkxhZ0JITHhENzg0UllYRVZkWGNxYzA4Qk5pMVMxa0h3M1lJaDRhQ0VrSnRkVkN2RHdNazgzRDNPUWQzY3lTclRXZVc0Y0MwZElnc1gyMnk3bWFoMw?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Why Is Crypto Down Today? Nearly $1 Billion in Leveraged Positions Just Got Wiped Out.",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQXhyWXJGU2QtYXJLdndXRHJ2cFdkNVZXRU9sZjRNR250RzNQOGNGRzhHeHdUTUxtRm9uZlpZNzA5eWN3QkxhZ0JITHhENzg0UllYRVZkWGNxYzA4Qk5pMVMxa0h3M1lJaDRhQ0VrSnRkVkN2RHdNazgzRDNPUWQzY3lTclRXZVc0Y0MwZElnc1gyMnk3bWFoMw?oc=5"
+   "Bitcoin Briefly Dips Below $80,000 as Volatility Roils Markets",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHJKRWxqVXpOTkdLaEtTdk5EZ3lnWklNbXBPaEhvbkxoVUlKRE8wTjBkMGVfTFVqRzl1QXZ3NGczbDhKMGl3UWZHTVFkczVZdjE0YXJrRFVjbXcxSTFIVXpXQ0FQQXJ3QzhJODhSRkNQWjBoU3hMM09DYjZaQ3MwRWlIa3NwSWhvR0VvNTlBdkVaMU1fVWlwak1sd0ljWExWTnRBajVnMFV6ZUlUNFBlWG9n?oc=5"
   ],
   [
    "Stocks",
@@ -372,9 +372,9 @@
   [
    "Stocks",
    "med",
-   "The Stock Market Is Facing 3 Huge Problems Right Now, and History Is Clear About What's Coming",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeTVqcUVjam5TdGZWSG5uNTRyUzVCQVNmWExBRG5MZGJ0YkVUVFhBek9UYzExTUFHSlM0a2RzVnNXd3JUSXZzcnJBMTU0ZEM3b2UwMmlGejYtMmxqbFY1T3VhZ0xfU2FISEZlakVhMWdKREV3ZHlyNnB6UG10c2JPZWFaVGtjMkVYOVNTc0Y2S191SVlmNkE?oc=5"
+   "S&P 500's march to 8,000 hinges on 'very, very strong' third quarter",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeDNuYWYyZHBTTUNybko0NWxLZGc4aEl4bTYyazY0aVNmQ1ZWZUFPYVZnOG9FMDcwTUlGdlptbUR6eHpTQ2hQamVCODlMNHRyYURUVV8zMndqaXJQWEZJREJHUGxraWF3WnAwTnB6eWtOTXpySnpaYUw1WEUtOFVxT0JJcG1LUDdUQUhXamYxN1NlWnB3UVRqX2YtUVdna3o5V3RnaXoxcUphRmlUT2c?oc=5"
   ],
   [
    "Commodities",
