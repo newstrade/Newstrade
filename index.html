@@ -41,7 +41,7 @@ body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px
 .pad{padding-left:max(16px, env(safe-area-inset-left, 0px));padding-right:max(16px, env(safe-area-inset-right, 0px))}
 
 header{position:sticky;top:env(safe-area-inset-top, 0px);z-index:5;background:var(--bg);padding-block:14px 10px;border-bottom:1px solid var(--line)}
-.brand{display:flex;align-items:baseline;justify-content:space-between;gap:12px}
+.brand{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}
 .logo{font-family:var(--display);font-weight:800;font-size:26px;letter-spacing:-.02em;margin:0}
 .logo span{color:var(--accent)}
 .sample{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:2px 8px}
@@ -91,7 +91,7 @@ h2.day{font-family:var(--display);font-weight:600;font-size:15px;margin:18px 0 6
 .delay{border:1px solid var(--med);border-radius:12px;padding:10px 14px;font-size:13px;margin-bottom:14px;color:var(--fg)}
 .delay b{color:var(--med)}
 .tzbtn{font:600 12px var(--body);background:var(--surface);color:var(--fg);border:1px solid var(--line);border-radius:999px;padding:4px 10px;cursor:pointer;max-width:46vw;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.right{display:flex;gap:8px;align-items:center;min-width:0}
+.right{display:flex;gap:6px;align-items:center;min-width:0;flex-wrap:wrap;justify-content:flex-end;margin-left:auto}
 .overlay{position:fixed;inset:0;z-index:20;background:rgba(10,14,30,.55);display:flex;align-items:center;justify-content:center;padding:20px max(16px, env(safe-area-inset-right, 0px)) 20px max(16px, env(safe-area-inset-left, 0px))}
 .sheet{background:var(--surface);color:var(--fg);border-radius:18px;padding:22px;width:100%;max-width:420px;display:flex;flex-direction:column;gap:12px}
 .sheet h2{font-family:var(--display);font-weight:800;font-size:22px;margin:0}
@@ -187,7 +187,9 @@ body{background:var(--bg)}
 header{background:color-mix(in srgb,var(--bg) 72%,transparent);-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px)}
 /* Plans pop-up + promo */
 .probtn{font:700 12px var(--body);border:0;border-radius:999px;padding:5px 11px;cursor:pointer;white-space:nowrap;color:#fff;background:linear-gradient(90deg,var(--accent),var(--med))}
-@media (max-width:480px){#upd{display:none}}
+@media (max-width:480px){#upd{display:none}.logo{font-size:22px}.tzbtn .tzcity,#installbtn .lbl{display:none}.tzbtn,.probtn,.acct{padding:5px 9px}}
+.tzbtn{white-space:nowrap;flex:none;max-width:none!important;overflow:visible!important}
+.probtn,.acct{flex:none}
 .sheet.plans{max-width:560px}
 .plans h2{text-wrap:balance}
 .plangrid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
@@ -271,7 +273,7 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
   <header class="pad">
     <div class="brand">
       <h1 class="logo">News<span>Trade</span></h1>
-      <div class="right"><span class="sample" id="upd">Updated</span><button class="tzbtn" id="tzbtn" aria-label="Change time zone"></button><button class="probtn" id="installbtn" hidden style="background:var(--surface);color:var(--fg);border:1px solid var(--line)">⬇ Install</button><button class="probtn" id="probtn" hidden>★ Premium</button><button class="acct" id="acctbtn" hidden>Sign in</button></div>
+      <div class="right"><span class="sample" id="upd">Updated</span><button class="tzbtn" id="tzbtn" aria-label="Change time zone"></button><button class="probtn" id="installbtn" hidden style="background:var(--surface);color:var(--fg);border:1px solid var(--line)">⬇<span class="lbl"> Install</span></button><button class="probtn" id="probtn" hidden>★ Premium</button><button class="acct" id="acctbtn" hidden>Sign in</button></div>
     </div>
     <div class="chips" id="chips" role="group" aria-label="Market"></div>
   </header>
@@ -498,7 +500,7 @@ function fillZones(q=""){
 }
 function showNow(){const z=$("#tzlist").value;$("#tznow").textContent=z?"Time there now: "+new Date().toLocaleTimeString([], {hour:"2-digit",minute:"2-digit",hour12:false,timeZone:z}):"No match. Try another city."}
 function openTz(){$("#tzsheet").hidden=false;$("#tzsearch").value="";fillZones();$("#tzsearch").focus()}
-function tzLabel(){$("#tzbtn").textContent="🕒 "+city(tz||detected)+" "+offset(tz||detected)}
+function tzLabel(){const z=tz||detected;$("#tzbtn").innerHTML=`🕒 <span class="tzcity">${esc(city(z))} </span>${esc(offset(z).replace("GMT","GMT "))}`;$("#tzbtn").title=city(z)+" time ("+offset(z)+")"}
 const match=m=>market==="All"||m===market;
 
 function chips(){
