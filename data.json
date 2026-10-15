@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T07:51:00.819Z",
+ "updated": "2026-10-15T08:49:30.817Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,65 +232,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1213,
-   "ch": 0.5,
-   "asof": "2026-10-15T07:50:26.000Z"
+   "p": 1.1223,
+   "ch": 0.59,
+   "asof": "2026-10-15T08:49:27.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3244,
-   "ch": 0.41,
-   "asof": "2026-10-15T07:50:26.000Z"
+   "p": 1.3259,
+   "ch": 0.52,
+   "asof": "2026-10-15T08:49:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.94,
-   "ch": -0.22,
-   "asof": "2026-10-15T07:51:00.000Z"
+   "p": 157.779,
+   "ch": -0.32,
+   "asof": "2026-10-15T08:49:30.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6939,
-   "ch": -0.5,
-   "asof": "2026-10-15T07:49:25.000Z"
+   "p": 0.6931,
+   "ch": -0.62,
+   "asof": "2026-10-15T08:49:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4212,
-   "ch": -0.15,
-   "asof": "2026-10-15T07:51:01.000Z"
+   "p": 1.4197,
+   "ch": -0.25,
+   "asof": "2026-10-15T08:49:30.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8302,
-   "ch": -0.49,
-   "asof": "2026-10-15T07:50:59.000Z"
+   "p": 0.8292,
+   "ch": -0.61,
+   "asof": "2026-10-15T08:49:30.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81188.61,
-   "ch": -0.47,
-   "asof": "2026-10-15T07:51:00.000Z"
+   "p": 81260.36,
+   "ch": -0.38,
+   "asof": "2026-10-15T08:49:26.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2369.18,
-   "ch": -2.04,
-   "asof": "2026-10-15T07:51:01.000Z"
+   "p": 2374.79,
+   "ch": -1.8,
+   "asof": "2026-10-15T08:49:27.000Z"
   },
   {
    "s": "S&P 500",
@@ -320,33 +320,33 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4166.4,
-   "ch": 1.42,
-   "asof": "2026-10-15T07:40:58.000Z"
+   "p": 4174.9,
+   "ch": 1.63,
+   "asof": "2026-10-15T08:39:27.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 94.05,
-   "ch": -1.09,
-   "asof": "2026-10-15T07:41:01.000Z"
+   "p": 94.58,
+   "ch": -0.54,
+   "asof": "2026-10-15T08:39:31.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "high",
-   "Asia FX mixed, dollar slips after hot U.S. CPI; yen firms on intervention warnings",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVXFvdDhhUV9OV1oyZ1NIMlhzalJzS21tNlMtQ3ZWX2pmdHF1WTRiMFBWYlRfcGJlWXZ1R1VzcjhzRWlEY3lndm1meEloOXQ0M1V6T1NWRU90NFF0YW5CTWxpWVg0VjZ4VzJ3R2xGcTdnekttR3JDd2pqNW1Bb2VLYzRrUGRiak9Cbzlvbms5NFdJT0dWVUQ3bjJ3Yw?oc=5"
+   "South Africa's central bank governor Kganyago sees upside risks to inflation",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSC1ndjEzVjVKOVRtNzJOTmxHbF9uamNIN2NOeUdrMDZiWEJCUV9KQUFIMWUtcWZjUDNKemdLMG9jODh5UXBBRHRScEMxX2xjWDdNN0VTZTFHd0xyejRVS1RYZF84MjdHWG5GZ19VYTlzZGd4TjV6b1BIajFxLUR2eFVmYzJyZ1F3UGRfZ2Q2UWotc1ZNMC1Qb2NjWmtSZ1FpQkNaZWtpUW1SZVlhRDRrdnZ5eUxrZTVGZVVZYXNR?oc=5"
   ],
   [
    "Forex",
-   "med",
-   "Sovereign funds to turn to non-dollar bonds amid AI-driven liquidity crunch, Citi banker says",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbURrVzdKbi1YZzdaMUh1Si0tYm5qTGlWNDlDNUR0SnY5ejB3MmlYYi1MUXE0RzBuS0pyTDZtODNzU3JPeDU5Qy1md083MW5BVGpNODFxVk1Rd2dCbDA2bHdHMnd2ZFE4RXpPU1l5Ql9sZW1ibHZkcGhxeXhjQmFWQnBOb01KZ0w5dDNPZlZlbGoyODM4dGZ6NEVDTzhFcmRwdVNCenA3emozdS10Q2ZGaDlBSkh3emJyNzZqQjhFQ0E2SnI5WHc?oc=5"
+   "high",
+   "Asia FX mixed, dollar slips after hot U.S. CPI; yen firms on intervention warnings",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVXFvdDhhUV9OV1oyZ1NIMlhzalJzS21tNlMtQ3ZWX2pmdHF1WTRiMFBWYlRfcGJlWXZ1R1VzcjhzRWlEY3lndm1meEloOXQ0M1V6T1NWRU90NFF0YW5CTWxpWVg0VjZ4VzJ3R2xGcTdnekttR3JDd2pqNW1Bb2VLYzRrUGRiak9Cbzlvbms5NFdJT0dWVUQ3bjJ3Yw?oc=5"
   ],
   [
    "Crypto",
@@ -358,9 +358,9 @@
   [
    "Crypto",
    "med",
-   "Polymarket CEO Shayne Coplan Says Crypto Investors Can Achieve Superior Returns With Prediction Markets. Here's Why He's Right.",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVjVQTEl5RnVmMEgzZVB2dGVtMFpvRDU2VVY4Y2VzcWhoMDdJWE5yRmJwUzJzaGV1T2NYVkozNDdHcDFSbVhXSkhMMGdVLXB4RDJ5ZW9xTWFLZWFvci16NTlpbE5zTlk3SEY1bm1VN1paVmhaTi03SXlLamh1X1NOVXpuN3htUnJmZk1OdS0tTnNhWGQwSEpyTHc3ZHU1NDQ?oc=5"
+   "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMivAFBVV95cUxNblZQX0dpQWN2aUFZRklDRUdNZklJSzR5RDNhdXAyN0RlYk5qOW94TEROU09sdGR0X09tWXVQOEp3b1ZqTTY3X1RiSGMybEtaMTRfUko2X0pWbWhHMzYxRTNKTnQ2QTZYWW4yQWdCVmNmMVFVSGZULWJoekMyUExzQ3J4c0R0SXkwLWFFT01maDVpR2d4RFY4V1NIS0U3aEVielA4NTNTbGk1Ry13ZFlVVkowdWlPdmp3ZGg5ag?oc=5"
   ],
   [
    "Stocks",
@@ -371,17 +371,10 @@
   ],
   [
    "Stocks",
-   "high",
-   "Asian Stocks to Fall as Hot CPI Sparks US Selloff: Markets Wrap",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVhucmhFR3lJaktOV202ZDNObUVrTmJpZzcxVi1zYjVFckhBNUtkeHdzb2p5cHZGRi10cDVCYUpJT1l3QmpkTmRGeWlLV3ExSzBnRllBQThjN1cxenVQWVg5MnN1WHdNbHBpZG1rQmg3bjhwUWI4c3lPV21hUzRWZkRWcXR2QnpkTWZKTFZEemFmVTh5?oc=5"
-  ],
-  [
-   "Commodities",
    "med",
-   "Oil Prices Rebound Amid Persistent Middle East Supply Risks",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOXpZa1FtWThybVR0cThaRndXOHlLN2hrRWdacGFUX29OaFk5R3J4N1NrUTlnRFRCeVVyV2x5aTJicF84WHNhT2s3dUJyOWFPR0VVZ2JwZ25Ed2dqa2RPY1V5Z3dTaFluRV9rSXBLSFJkQkZCcE1id0hQOVBsbHVnYUdrajlqajZCbHVYNl90M05BT2xyQVN3NFpQOXNkVFVCSVo2YXV4ei1TV2NuZzYxeEdraXV3NlJaZHNESHNINEhXUXFC?oc=5"
+   "The Former Theater Director Who Keeps Beating Wall Street",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUUtJN3M1em5qaDFMMDh5SXhramQtOEM2RmZpUlNrcUxxQWdiU3FfbGptRndYdS0ydTRsTmFsemU1OERWNG9ZakoxOFhjV0Vnd1RmTTNSZG93eER4ZW9BdXdHdVZZZUJFaVdQbzI4TThPN1VvdUlIVUlGZ2VJcFZzTjhueEFDbE54dWlDcXFoZ1V2TnkzSU9TOTY3VWVEbE50NW5DdW5HWW5KbHZRTVVwbA?oc=5"
   ],
   [
    "Commodities",
@@ -389,6 +382,13 @@
    "Oil falls as investors assess Mideast tensions, International Energy Agency's report",
    "CNBC",
    "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DVlpiaVB3TDNMcWszU0s4YVotdmZpYjUzVDVkZ1EwWU5nNTVfWDlsbVI2eVJHRHB6NDJrbXNONEtCdzFoWDJmVDF5V0ltWk5HUE1DMVNWRlhPREYtSmhMZEZUOUN6QnI3d2ZadVYwNErSAXZBVV95cUxNTnU2bkR5aVZmeE40Q3o5cjE5bmNZT2NLRVJhbnkwVzdyNFBHY0JNREQ2NjFfdy1GWEUwblVobnBYRHhiRUw4RkpLN3B6WngycUdQeTJkQlVuYVB0ekhlLUJEeVJBXzJzQlM1X1BQbGxLQmMtdndn?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Oil Prices Rebound Amid Persistent Middle East Supply Risks",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOXpZa1FtWThybVR0cThaRndXOHlLN2hrRWdacGFUX29OaFk5R3J4N1NrUTlnRFRCeVVyV2x5aTJicF84WHNhT2s3dUJyOWFPR0VVZ2JwZ25Ed2dqa2RPY1V5Z3dTaFluRV9rSXBLSFJkQkZCcE1id0hQOVBsbHVnYUdrajlqajZCbHVYNl90M05BT2xyQVN3NFpQOXNkVFVCSVo2YXV4ei1TV2NuZzYxeEdraXV3NlJaZHNESHNINEhXUXFC?oc=5"
   ]
  ]
 }
