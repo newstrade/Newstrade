@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T20:45:38.008Z",
+ "updated": "2026-10-15T21:45:39.936Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -234,63 +234,63 @@
    "d": 4,
    "p": 1.1222,
    "ch": 0.58,
-   "asof": "2026-10-15T20:45:27.000Z"
+   "asof": "2026-10-15T21:45:28.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3277,
-   "ch": 0.66,
-   "asof": "2026-10-15T20:45:27.000Z"
+   "p": 1.3273,
+   "ch": 0.63,
+   "asof": "2026-10-15T21:45:28.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.05,
-   "ch": -0.15,
-   "asof": "2026-10-15T20:45:37.000Z"
+   "p": 157.976,
+   "ch": -0.2,
+   "asof": "2026-10-15T21:45:31.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6923,
-   "ch": -0.73,
-   "asof": "2026-10-15T20:45:27.000Z"
+   "p": 0.6924,
+   "ch": -0.72,
+   "asof": "2026-10-15T21:45:28.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4185,
-   "ch": -0.34,
-   "asof": "2026-10-15T20:45:37.000Z"
+   "p": 1.4188,
+   "ch": -0.32,
+   "asof": "2026-10-15T21:45:36.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8269,
-   "ch": -0.89,
-   "asof": "2026-10-15T20:45:37.000Z"
+   "p": 0.8263,
+   "ch": -0.96,
+   "asof": "2026-10-15T21:45:30.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82278.11,
-   "ch": 0.86,
-   "asof": "2026-10-15T20:45:33.000Z"
+   "p": 82150.01,
+   "ch": 0.71,
+   "asof": "2026-10-15T21:45:31.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2457.54,
-   "ch": 1.62,
-   "asof": "2026-10-15T20:45:33.000Z"
+   "p": 2455.63,
+   "ch": 1.54,
+   "asof": "2026-10-15T21:45:37.000Z"
   },
   {
    "s": "S&P 500",
@@ -306,7 +306,7 @@
    "d": 2,
    "p": 26713.025,
    "ch": 0.08,
-   "asof": "2026-10-15T20:45:37.000Z"
+   "asof": "2026-10-15T21:15:59.000Z"
   },
   {
    "s": "Dow Jones",
@@ -320,17 +320,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4189.8,
-   "ch": 1.99,
-   "asof": "2026-10-15T20:35:34.000Z"
+   "p": 4192.5,
+   "ch": 2.06,
+   "asof": "2026-10-15T20:59:59.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 96.2,
-   "ch": 2.45,
-   "asof": "2026-10-15T20:35:33.000Z"
+   "p": 96.12,
+   "ch": 2.36,
+   "asof": "2026-10-15T20:59:57.000Z"
   },
   {
    "s": "USD/KES",
@@ -344,9 +344,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4955,
-   "ch": -0.67,
-   "asof": "2026-10-15T20:45:38.000Z"
+   "p": 16.4911,
+   "ch": -0.7,
+   "asof": "2026-10-15T21:45:15.000Z"
   },
   {
    "s": "USD/NGN",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 105.92,
-   "ch": 1.76,
-   "asof": "2026-10-15T20:45:35.000Z"
+   "p": 105.76,
+   "ch": 1.61,
+   "asof": "2026-10-15T21:45:36.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3423,
-   "ch": 0.93,
-   "asof": "2026-10-15T20:45:33.000Z"
+   "p": 1.339,
+   "ch": 0.69,
+   "asof": "2026-10-15T21:45:36.000Z"
   },
   {
    "s": "Apple",
@@ -400,9 +400,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.565,
-   "ch": 3.02,
-   "asof": "2026-10-15T20:35:31.000Z"
+   "p": 57.605,
+   "ch": 3.09,
+   "asof": "2026-10-15T20:59:36.000Z"
   }
  ],
  "news": [
@@ -416,9 +416,16 @@
   [
    "Forex",
    "med",
-   "Kenya IMF Program Timing Uncertain, Central Bank Chief Says",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMmFWX1RwX0ZWbU5haUZJS2dyenZYRUFGZDQwWkVXUXgwRW1kaXJWMk1CbzJqRFhkM3cyNk9Bc01kWWFDNl9xeUl2SW5NeHZZbmtwNmNPcjdZcGFnRHpIbWpHX2pTc1RRZVdSOFZsNndkVEVEckxCdGVjTlE4MVFMNWpCamZDdkttV3RacGdRVDRkWVNEUEhnQmpXSjhqYjR4NFEzWjB4dldwUmQteGc?oc=5"
+   "France is ‘putting the house in order’ and can slash deficit to 3% in three years, central bank governor tells CNBC",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HbUR6MnJiNFVRU0EtUlZkeWZXS2dkNF9lVzJQVjJ6dkFoT0ZsSHFTNmQ3SVljNFRKYXlYaC02QVRZV3BQRkoxVjJaV1FVQy1MNWNHQlQxWUowZk5ndWxuMTN1SHR3SGwwNEhDWEE0OGZERUFfR2dESlJpZ3kzMnM?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "Trump’s former top crypto advisor faces scrutiny over allegations his firm accepted millions from Tether while he shaped key stablecoin law",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbFVDcDhMODY0NTRlOFp0TXBJUG5uVUNKWlRNNU1KYkVqakVNWlFUVEkyS0I4VmcxVGQyaGxENnpuM2JrMEZvVTMtSHBtQUVsZFB4M1ZMaGlPNjRSX0pIRTdfTUo3QUtMSk5lbnEwOGdsNWdKVzRGamFUMG1NOTcteDlYSjZKU25LbEhyUjJPTDZPWFRKMExYWHlzbHAyVkoydGF3VFNGdllFLURyc1ZxZHNsbWpyb0NTb3djZQ?oc=5"
   ],
   [
    "Crypto",
@@ -426,13 +433,6 @@
    "Why Is Crypto Down Today? Nearly $1 Billion in Leveraged Positions Just Got Wiped Out.",
    "Yahoo Finance",
    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQXhyWXJGU2QtYXJLdndXRHJ2cFdkNVZXRU9sZjRNR250RzNQOGNGRzhHeHdUTUxtRm9uZlpZNzA5eWN3QkxhZ0JITHhENzg0UllYRVZkWGNxYzA4Qk5pMVMxa0h3M1lJaDRhQ0VrSnRkVkN2RHdNazgzRDNPUWQzY3lTclRXZVc0Y0MwZElnc1gyMnk3bWFoMw?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "Binance.US Seeks $100 Million to Expand Its Crypto Business",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNUo5d3BmdGlWS205VzhPZDhQZWhLaFgta1FWTWh6X0Nlanh4ekptcjBuOUJReE1Bbk5tSEdNbGluaVFoblFkVldjbVUtQjk3MXJPZjFGdkRhQnl5MFpKVTgwRDR2YWlrYm9LRjVuTktleTBMejk1VUxzNXAxVGYwYTNjd243TVVza3NaaFBPcmxXdklGVUFHdFFib2lVdGlucnE1Q3Jvd0NWVTNlZXc?oc=5"
   ],
   [
    "Stocks",
@@ -444,9 +444,9 @@
   [
    "Stocks",
    "med",
-   "Why This Downtrodden Paper Maker Is a Top S&P 500 Stock Today",
-   "Barron's",
-   "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0Znb3I5YmVhZl9uRnVaUHd6SG8zd3BOWmJZYi0yRDhoZGEtc1dqelFmelRMOEJrY2pWX1k2YkM4Mlg5X1VpbHZXdHVnNW0tVGk5REFvb0ZSaVlvZ0ZsM3F2V3RSQi1Xa0puaDVRWlhPVzJtM19kbWJwQU1wdl9MSkJVZEd3ME11T1RPSm1CM0hVdk9xNmt3Z052c1hUY05zRmVMWDVB?oc=5"
+   "Nasdaq resolves network disruption that caused data gaps, source says",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMnFLNkdraTdWRmNuLUlrbGF6Ni15M1VBODdjYjdyVl9NZ1p0NV9mbW5wd0U2VkFnX0RNYzlNcXhlaUlseFdjbENlWEc3UTBhV19lQmUtcE1uZ0NfNXhqeGxqODBnWVRQODBiR3dCNkJ0bHhFWUZkZnlidlVIZVVYaE9GQVc3dkJJNjkzUnJkX0FELWtERW1TMXBKYmZucmRwamczVGZuaVI2N3BZY3RF?oc=5"
   ],
   [
    "Commodities",
