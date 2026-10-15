@@ -43,6 +43,11 @@ const LIST = [
   ["Bitcoin", "Crypto", "BTC-USD", 0], ["Ethereum", "Crypto", "ETH-USD", 2],
   ["S&P 500", "Stocks", "^GSPC", 2], ["Nasdaq", "Stocks", "^IXIC", 2], ["Dow Jones", "Stocks", "^DJI", 2],
   ["Gold", "Commodities", "GC=F", 2], ["WTI Oil", "Commodities", "CL=F", 2],
+  // Added Oct 2026: African currencies, more coins, popular stocks, silver
+  ["USD/KES", "Forex", "KES=X", 2], ["USD/ZAR", "Forex", "ZAR=X", 3], ["USD/NGN", "Forex", "NGN=X", 2],
+  ["Solana", "Crypto", "SOL-USD", 2], ["XRP", "Crypto", "XRP-USD", 4],
+  ["Apple", "Stocks", "AAPL", 2], ["Tesla", "Stocks", "TSLA", 2], ["Nvidia", "Stocks", "NVDA", 2],
+  ["Silver", "Commodities", "SI=F", 3],
 ];
 
 async function yahoo(sym) {
@@ -75,8 +80,8 @@ async function prices() {
         continue;
       }
       if (m === "Crypto") {
-        cg ??= await get("https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd&include_24hr_change=true&include_last_updated_at=true");
-        const c = cg[s === "Bitcoin" ? "bitcoin" : "ethereum"];
+        cg ??= await get("https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana,ripple&vs_currencies=usd&include_24hr_change=true&include_last_updated_at=true");
+        const c = cg[{ Bitcoin: "bitcoin", Ethereum: "ethereum", Solana: "solana", XRP: "ripple" }[s]];
         out.push({ s, m, d, p: c.usd, ch: +(+c.usd_24h_change).toFixed(2), asof: new Date(c.last_updated_at * 1000).toISOString() });
         continue;
       }
@@ -155,6 +160,32 @@ for (const [key, fn] of [["events", calendar], ["instruments", prices], ["news",
 }
 await writeFile("data.json", JSON.stringify(data, null, 1) + "\n");
 log("data.json written", data.updated);
+
+// ---------- 5. Event results history (events-history.json) ----------
+// The free calendar feed has no "actual" values, but each release's "previous" IS the actual of the
+// release before it. So we record every release (date + forecast) and fill in its actual when the next
+// release of the same event shows up. History builds up from Oct 2026 onwards; 12 results kept per event.
+let evHist = {};
+try { evHist = JSON.parse(await readFile("events-history.json", "utf8")).events || {}; } catch { /* first run */ }
+for (const e of data.events || []) {
+  if (!e.fc && !e.prev) continue; // speeches etc.
+  const key = e.tag + "|" + e.name, day = e.iso.slice(0, 10);
+  const list = (evHist[key] ||= []);
+  let row = list.find((r) => r.date === day);
+  if (!row) { row = { date: day, fc: e.fc || "", act: e.act || "" }; list.push(row); }
+  else { if (e.fc) row.fc = e.fc; if (e.act) row.act = e.act; }
+  if (e.prev) {
+    const earlier = list.filter((r) => r.date < day && (Date.parse(day) - Date.parse(r.date)) > 4 * 864e5).sort((a, b) => b.date.localeCompare(a.date))[0];
+    if (earlier && !earlier.act) earlier.act = e.prev;
+    if (!earlier) { // first time we see this event: keep the previous result as an undated entry
+      if (!list.some((r) => r.date === "prior")) list.push({ date: "prior", fc: "", act: e.prev });
+    }
+  }
+  list.sort((a, b) => (a.date === "prior" ? -1 : b.date === "prior" ? 1 : a.date.localeCompare(b.date)));
+  if (list.length > 12) list.splice(0, list.length - 12);
+}
+await writeFile("events-history.json", JSON.stringify({ updated: new Date().toISOString(), events: evHist }) + "\n");
+log("events-history.json written", Object.keys(evHist).length, "events");
 
 let prevHist = {};
 try { prevHist = JSON.parse(await readFile("history.json", "utf8")).series || {}; } catch { /* first run */ }
