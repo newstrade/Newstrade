@@ -271,7 +271,7 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
   <header class="pad">
     <div class="brand">
       <h1 class="logo">News<span>Trade</span></h1>
-      <div class="right"><span class="sample" id="upd">Updated</span><button class="tzbtn" id="tzbtn" aria-label="Change time zone"></button><button class="probtn" id="probtn" hidden>★ Premium</button><button class="acct" id="acctbtn" hidden>Sign in</button></div>
+      <div class="right"><span class="sample" id="upd">Updated</span><button class="tzbtn" id="tzbtn" aria-label="Change time zone"></button><button class="probtn" id="installbtn" hidden style="background:var(--surface);color:var(--fg);border:1px solid var(--line)">⬇ Install</button><button class="probtn" id="probtn" hidden>★ Premium</button><button class="acct" id="acctbtn" hidden>Sign in</button></div>
     </div>
     <div class="chips" id="chips" role="group" aria-label="Market"></div>
   </header>
@@ -359,6 +359,19 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
       <p class="msg" id="jmsg" role="status"></p>
       <button class="primary" id="jsave" type="submit">Save trade</button>
     </form>
+  </div>
+
+  <div class="overlay" id="iossheet" hidden role="dialog" aria-modal="true" aria-labelledby="iosh">
+    <div class="sheet">
+      <button type="button" class="close" id="iosclose" aria-label="Close">×</button>
+      <h2 id="iosh">Install NewsTrade</h2>
+      <p>Add NewsTrade to your home screen so it opens like an app:</p>
+      <ol style="margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px">
+        <li>Tap the <b>Share</b> button in Safari (the square with an arrow pointing up).</li>
+        <li>Scroll down and tap <b>Add to Home Screen</b>.</li>
+        <li>Tap <b>Add</b>.</li>
+      </ol>
+    </div>
   </div>
 
   <div class="overlay" id="planssheet" hidden role="dialog" aria-modal="true" aria-labelledby="plansh">
@@ -936,6 +949,17 @@ document.addEventListener("click",e=>{
     if(view==="chat")openChat();else scrollTo(0,0)}
 });
 setInterval(tickCount,1000);
+// INSTALL BUTTON: Android/desktop Chrome gives an install prompt; iPhone gets Add to Home Screen steps.
+let installEvt=null;
+const standalone=matchMedia("(display-mode: standalone)").matches||navigator.standalone===true||IN_APP;
+const isIOS=/iphone|ipad|ipod/i.test(navigator.userAgent)&&!window.MSStream;
+addEventListener("beforeinstallprompt",e=>{e.preventDefault();installEvt=e;if(!standalone)$("#installbtn").hidden=false});
+addEventListener("appinstalled",()=>{installEvt=null;$("#installbtn").hidden=true});
+if(isIOS&&!standalone)$("#installbtn").hidden=false;
+$("#installbtn").addEventListener("click",async()=>{
+  if(installEvt){installEvt.prompt();const r=await installEvt.userChoice.catch(()=>null);installEvt=null;if(r&&r.outcome==="accepted")$("#installbtn").hidden=true}
+  else if(isIOS)$("#iossheet").hidden=false});
+$("#iosclose").addEventListener("click",()=>$("#iossheet").hidden=true);
 if("serviceWorker" in navigator)addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}));
 
 // LIVE DATA: data.json is refreshed hourly by GitHub Actions; load it on open and every 10 minutes.
