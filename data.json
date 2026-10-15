@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T15:48:41.931Z",
+ "updated": "2026-10-15T16:47:57.873Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,105 +232,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1207,
-   "ch": 0.45,
-   "asof": "2026-10-15T15:48:26.000Z"
+   "p": 1.1212,
+   "ch": 0.49,
+   "asof": "2026-10-15T16:47:27.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3253,
-   "ch": 0.48,
-   "asof": "2026-10-15T15:48:26.000Z"
+   "p": 1.3263,
+   "ch": 0.55,
+   "asof": "2026-10-15T16:47:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.207,
-   "ch": -0.05,
-   "asof": "2026-10-15T15:48:41.000Z"
+   "p": 158.103,
+   "ch": -0.12,
+   "asof": "2026-10-15T16:47:57.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6917,
-   "ch": -0.82,
-   "asof": "2026-10-15T15:47:26.000Z"
+   "p": 0.6914,
+   "ch": -0.86,
+   "asof": "2026-10-15T16:47:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4196,
-   "ch": -0.26,
-   "asof": "2026-10-15T15:48:41.000Z"
+   "p": 1.4192,
+   "ch": -0.29,
+   "asof": "2026-10-15T16:47:57.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8296,
-   "ch": -0.56,
-   "asof": "2026-10-15T15:48:41.000Z"
+   "p": 0.8285,
+   "ch": -0.7,
+   "asof": "2026-10-15T16:47:57.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82264.12,
-   "ch": 0.85,
-   "asof": "2026-10-15T15:48:37.000Z"
+   "p": 82113.04,
+   "ch": 0.66,
+   "asof": "2026-10-15T16:47:52.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2437.39,
-   "ch": 0.78,
-   "asof": "2026-10-15T15:48:28.000Z"
+   "p": 2431.7,
+   "ch": 0.55,
+   "asof": "2026-10-15T16:47:55.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7728.42,
-   "ch": 0.12,
-   "asof": "2026-10-15T15:48:41.000Z"
+   "p": 7724.69,
+   "ch": 0.07,
+   "asof": "2026-10-15T16:47:58.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 26598.781,
-   "ch": -0.35,
-   "asof": "2026-10-15T15:48:35.000Z"
+   "p": 26583.037,
+   "ch": -0.41,
+   "asof": "2026-10-15T16:47:56.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52121.34,
-   "ch": 0.97,
-   "asof": "2026-10-15T15:48:42.000Z"
+   "p": 52082.1,
+   "ch": 0.89,
+   "asof": "2026-10-15T16:47:58.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4171.5,
-   "ch": 1.55,
-   "asof": "2026-10-15T15:38:42.000Z"
+   "p": 4170.8,
+   "ch": 1.53,
+   "asof": "2026-10-15T16:37:56.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 95.87,
-   "ch": 2.1,
-   "asof": "2026-10-15T15:38:41.000Z"
+   "p": 96.41,
+   "ch": 2.67,
+   "asof": "2026-10-15T16:37:57.000Z"
   }
  ],
  "news": [
@@ -372,14 +372,14 @@
   [
    "Stocks",
    "med",
-   "S&P 500's march to 8,000 hinges on 'very, very strong' third quarter",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeDNuYWYyZHBTTUNybko0NWxLZGc4aEl4bTYyazY0aVNmQ1ZWZUFPYVZnOG9FMDcwTUlGdlptbUR6eHpTQ2hQamVCODlMNHRyYURUVV8zMndqaXJQWEZJREJHUGxraWF3WnAwTnB6eWtOTXpySnpaYUw1WEUtOFVxT0JJcG1LUDdUQUhXamYxN1NlWnB3UVRqX2YtUVdna3o5V3RnaXoxcUphRmlUT2c?oc=5"
+   "US lawmakers unveil bill to hold Wall Street’s ‘Epstein-connected’ bosses to account",
+   "The Guardian",
+   "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQVZEYXJDeVY3ZFp1LXVsekU3dW5HY3Z0dDg3Y1NiRG1nZDVrLWJsemRwUmN6T19jNlY0MmVKV2g3TmZaYmZuMlpwRlNidUpBdVRldFJPaThsOS1hSUxXSGRXLXk1aWs5ZTBtMURCZ2dZdTNLZHpjR2xkZFpSZ3JDZE1jbHRoWmNBY2NGTUJhNVhEb0JtWmlwSjdTcGw?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Oil falls as investors assess Mideast tensions, International Energy Agency's report",
+   "U.S. crude oil prices rise as investors assess Middle East supply risks",
    "CNBC",
    "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DVlpiaVB3TDNMcWszU0s4YVotdmZpYjUzVDVkZ1EwWU5nNTVfWDlsbVI2eVJHRHB6NDJrbXNONEtCdzFoWDJmVDF5V0ltWk5HUE1DMVNWRlhPREYtSmhMZEZUOUN6QnI3d2ZadVYwNErSAXZBVV95cUxNTnU2bkR5aVZmeE40Q3o5cjE5bmNZT2NLRVJhbnkwVzdyNFBHY0JNREQ2NjFfdy1GWEUwblVobnBYRHhiRUw4RkpLN3B6WngycUdQeTJkQlVuYVB0ekhlLUJEeVJBXzJzQlM1X1BQbGxLQmMtdndn?oc=5"
   ],
