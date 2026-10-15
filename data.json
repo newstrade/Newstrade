@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T01:43:47.789Z",
+ "updated": "2026-10-15T02:45:58.865Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,65 +232,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1212,
-   "ch": 0.49,
-   "asof": "2026-10-15T01:43:28.000Z"
+   "p": 1.1231,
+   "ch": 0.66,
+   "asof": "2026-10-15T02:45:29.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3237,
-   "ch": 0.36,
-   "asof": "2026-10-15T01:43:28.000Z"
+   "p": 1.325,
+   "ch": 0.45,
+   "asof": "2026-10-15T02:45:29.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.622,
-   "ch": -0.42,
-   "asof": "2026-10-15T01:43:46.000Z"
+   "p": 157.706,
+   "ch": -0.37,
+   "asof": "2026-10-15T02:45:58.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6954,
-   "ch": -0.29,
-   "asof": "2026-10-15T01:43:28.000Z"
+   "p": 0.6957,
+   "ch": -0.24,
+   "asof": "2026-10-15T02:45:29.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4201,
-   "ch": -0.22,
-   "asof": "2026-10-15T01:43:47.000Z"
+   "p": 1.4208,
+   "ch": -0.18,
+   "asof": "2026-10-15T02:45:58.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8293,
-   "ch": -0.6,
-   "asof": "2026-10-15T01:43:46.000Z"
+   "p": 0.8285,
+   "ch": -0.7,
+   "asof": "2026-10-15T02:45:58.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81666.75,
-   "ch": 0.11,
-   "asof": "2026-10-15T01:43:44.000Z"
+   "p": 81209.28,
+   "ch": -0.45,
+   "asof": "2026-10-15T02:45:58.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2416.8,
-   "ch": -0.07,
-   "asof": "2026-10-15T01:43:42.000Z"
+   "p": 2371.8,
+   "ch": -1.93,
+   "asof": "2026-10-15T02:45:52.000Z"
   },
   {
    "s": "S&P 500",
@@ -320,17 +320,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4169.4,
-   "ch": 1.5,
-   "asof": "2026-10-15T01:33:44.000Z"
+   "p": 4165.1,
+   "ch": 1.39,
+   "asof": "2026-10-15T02:35:53.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 94.25,
-   "ch": -0.88,
-   "asof": "2026-10-15T01:33:44.000Z"
+   "p": 93.99,
+   "ch": -1.16,
+   "asof": "2026-10-15T02:35:56.000Z"
   }
  ],
  "news": [
@@ -344,7 +344,7 @@
   [
    "Forex",
    "high",
-   "Japan’s Katayama Renews Warnings on Yen After US CPI Heats Up",
+   "Japan’s Katayama Renews FX Warnings After US CPI Heats Up",
    "Bloomberg.com",
    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUFBHMlJGT29yUlFPTXdnR3FvOFhJQ3VxRFdOZ2QyRFljTlh4cGVoTDgwTmowd0l0cFctalZYWHA5eEdzQy1tSHVrQTUtTVhlNEY3LTBIWmlKYy1nSXZjRjJoZjN5cjNMR01xMEt1MFFLQmRUeWJhUC1CVkthTTdENV8tdXN1aXMwcWFFX2JDX3o2X1cwZXhLOTRUMFU1R1BfODNKa090UlU4bUxkLUU4OTBB?oc=5"
   ],
@@ -371,10 +371,10 @@
   ],
   [
    "Stocks",
-   "med",
-   "Nasdaq tumbles 2%, and these 10 stocks have fueled the selloff",
-   "Seeking Alpha",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVUlfdVVMOGtyMlVzX2RneWJISm5KYlpfTk12c0JPcmxRcGhoNFNuc3ViTWlZQUpWRnJwOG9SaVhFZFU3MFg5bHljeTZ4UzlvZThwUUN1UGptTGRRa3hXWjd3Ri1DcnNGWTE3bE9sVzBHeXpjRHVvVmlHY0VSVHNPUnh1cXZrMTlrTmpGSVEtb09ZMjVlMXNuZXVaMDhzenc?oc=5"
+   "high",
+   "AI giant Anthropic sees revenue surge ahead of stock market listing",
+   "BBC",
+   "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTUHRCTEVSeENpRVNzbEZTb1IyNEw4aHpsTFFWTnFBY3RxNngzVFRJZEhNelQ1NnZJcG9QanVId2FPX3Znem55WEJ6N0hJNVJlZFpEVFBkYW0xYmM?oc=5"
   ],
   [
    "Commodities",
