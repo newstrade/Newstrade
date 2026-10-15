@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T02:45:58.865Z",
+ "updated": "2026-10-15T03:46:37.190Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,65 +232,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1231,
-   "ch": 0.66,
-   "asof": "2026-10-15T02:45:29.000Z"
+   "p": 1.1236,
+   "ch": 0.71,
+   "asof": "2026-10-15T03:46:25.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.325,
-   "ch": 0.45,
-   "asof": "2026-10-15T02:45:29.000Z"
+   "p": 1.3254,
+   "ch": 0.49,
+   "asof": "2026-10-15T03:46:25.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.706,
-   "ch": -0.37,
-   "asof": "2026-10-15T02:45:58.000Z"
+   "p": 157.611,
+   "ch": -0.43,
+   "asof": "2026-10-15T03:46:36.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6957,
-   "ch": -0.24,
-   "asof": "2026-10-15T02:45:29.000Z"
+   "p": 0.6962,
+   "ch": -0.17,
+   "asof": "2026-10-15T03:45:25.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4208,
-   "ch": -0.18,
-   "asof": "2026-10-15T02:45:58.000Z"
+   "p": 1.4193,
+   "ch": -0.28,
+   "asof": "2026-10-15T03:46:36.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8285,
-   "ch": -0.7,
-   "asof": "2026-10-15T02:45:58.000Z"
+   "p": 0.828,
+   "ch": -0.76,
+   "asof": "2026-10-15T03:46:36.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81209.28,
-   "ch": -0.45,
-   "asof": "2026-10-15T02:45:58.000Z"
+   "p": 80794.64,
+   "ch": -0.95,
+   "asof": "2026-10-15T03:46:34.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2371.8,
-   "ch": -1.93,
-   "asof": "2026-10-15T02:45:52.000Z"
+   "p": 2355.36,
+   "ch": -2.61,
+   "asof": "2026-10-15T03:46:34.000Z"
   },
   {
    "s": "S&P 500",
@@ -320,33 +320,33 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4165.1,
-   "ch": 1.39,
-   "asof": "2026-10-15T02:35:53.000Z"
+   "p": 4171.4,
+   "ch": 1.55,
+   "asof": "2026-10-15T03:36:26.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 93.99,
-   "ch": -1.16,
-   "asof": "2026-10-15T02:35:56.000Z"
+   "p": 94.09,
+   "ch": -1.05,
+   "asof": "2026-10-15T03:36:34.000Z"
   }
  ],
  "news": [
+  [
+   "Forex",
+   "high",
+   "Dollar retreats from 18-month high despite hot CPI as Fed officials temper hike bets",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbDE0ZWJRMm1PNWhpVzUwaDhHb2o1YkVXVExaeFVQWWFwcnJtemVfakY3WHV0aFFQWHR3dkR4eVN1OTZ3dXVqb0QzQ0ZuNkNhek1IbFRhVEtBXzNKcVpSQ1dHQm16ZGMxZHF1Z0txU2xHVUVsb0txUzhxLVljb0NXWWZzX2ZETk9QbHF1dm5XdmMybWFYRzl4d1VuS3J0NlU4enJvQVFuYTYydDNYUVVHM3pjandDUHdHbHhLT2otUU1HQk1PTVpReHpmTQ?oc=5"
+  ],
   [
    "Forex",
    "med",
    "Rupee Jumps After India Central Bank Unveils Currency-Defense Measures",
    "WSJ",
    "https://news.google.com/rss/articles/CBMiugFBVV95cUxObjRfQjhMOXN6M3FfdUtlSWFzaFVpU1JuNjVDdkdTTzJlNkQzRHpfQUdrLW5oNHN0b1c1WXBxWnlRZzRDTXlkT3cwVDdnYVBpR2JoemZXV0toVGZBWmpCeEg0MktXWHFLNGZRdk83NkZzNGw4Y3BrdDdhaEx5Wk5pbGRrQ0JwcmhyWldqUU5tSEwwY0dVcDBrcUxoSmxoeDNFWXo3LXpBcTQxbVVYVGZxVFRJaDlFSmowWGc?oc=5"
-  ],
-  [
-   "Forex",
-   "high",
-   "Japan’s Katayama Renews FX Warnings After US CPI Heats Up",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUFBHMlJGT29yUlFPTXdnR3FvOFhJQ3VxRFdOZ2QyRFljTlh4cGVoTDgwTmowd0l0cFctalZYWHA5eEdzQy1tSHVrQTUtTVhlNEY3LTBIWmlKYy1nSXZjRjJoZjN5cjNMR01xMEt1MFFLQmRUeWJhUC1CVkthTTdENV8tdXN1aXMwcWFFX2JDX3o2X1cwZXhLOTRUMFU1R1BfODNKa090UlU4bUxkLUU4OTBB?oc=5"
   ],
   [
    "Crypto",
@@ -371,10 +371,10 @@
   ],
   [
    "Stocks",
-   "high",
-   "AI giant Anthropic sees revenue surge ahead of stock market listing",
-   "BBC",
-   "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTUHRCTEVSeENpRVNzbEZTb1IyNEw4aHpsTFFWTnFBY3RxNngzVFRJZEhNelQ1NnZJcG9QanVId2FPX3Znem55WEJ6N0hJNVJlZFpEVFBkYW0xYmM?oc=5"
+   "med",
+   "Nasdaq tumbles 2%, and these 10 stocks have fueled the selloff",
+   "Seeking Alpha",
+   "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVUlfdVVMOGtyMlVzX2RneWJISm5KYlpfTk12c0JPcmxRcGhoNFNuc3ViTWlZQUpWRnJwOG9SaVhFZFU3MFg5bHljeTZ4UzlvZThwUUN1UGptTGRRa3hXWjd3Ri1DcnNGWTE3bE9sVzBHeXpjRHVvVmlHY0VSVHNPUnh1cXZrMTlrTmpGSVEtb09ZMjVlMXNuZXVaMDhzenc?oc=5"
   ],
   [
    "Commodities",
