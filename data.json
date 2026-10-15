@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T04:45:04.428Z",
+ "updated": "2026-10-15T05:44:56.019Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,25 +232,25 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1218,
-   "ch": 0.55,
-   "asof": "2026-10-15T04:44:27.000Z"
+   "p": 1.1215,
+   "ch": 0.52,
+   "asof": "2026-10-15T05:44:28.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3244,
-   "ch": 0.41,
-   "asof": "2026-10-15T04:44:27.000Z"
+   "p": 1.3237,
+   "ch": 0.36,
+   "asof": "2026-10-15T05:44:28.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.924,
-   "ch": -0.23,
-   "asof": "2026-10-15T04:45:04.000Z"
+   "p": 157.968,
+   "ch": -0.2,
+   "asof": "2026-10-15T05:44:55.000Z"
   },
   {
    "s": "AUD/USD",
@@ -258,39 +258,39 @@
    "d": 4,
    "p": 0.6957,
    "ch": -0.24,
-   "asof": "2026-10-15T04:43:26.000Z"
+   "asof": "2026-10-15T05:43:28.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4207,
-   "ch": -0.18,
-   "asof": "2026-10-15T04:45:03.000Z"
+   "p": 1.421,
+   "ch": -0.16,
+   "asof": "2026-10-15T05:44:53.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8298,
-   "ch": -0.54,
-   "asof": "2026-10-15T04:45:04.000Z"
+   "p": 0.8303,
+   "ch": -0.48,
+   "asof": "2026-10-15T05:44:55.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81499.66,
-   "ch": -0.09,
-   "asof": "2026-10-15T04:45:01.000Z"
+   "p": 80892,
+   "ch": -0.83,
+   "asof": "2026-10-15T05:44:51.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2382.06,
-   "ch": -1.5,
-   "asof": "2026-10-15T04:45:01.000Z"
+   "p": 2357.73,
+   "ch": -2.51,
+   "asof": "2026-10-15T05:44:48.000Z"
   },
   {
    "s": "S&P 500",
@@ -320,33 +320,33 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4167,
-   "ch": 1.44,
-   "asof": "2026-10-15T04:34:58.000Z"
+   "p": 4162.4,
+   "ch": 1.33,
+   "asof": "2026-10-15T05:34:54.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 93.91,
-   "ch": -1.24,
-   "asof": "2026-10-15T04:35:02.000Z"
+   "p": 94.29,
+   "ch": -0.84,
+   "asof": "2026-10-15T05:34:48.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "high",
-   "Dollar retreats from 18-month high despite hot CPI as Fed officials temper hike bets",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbDE0ZWJRMm1PNWhpVzUwaDhHb2o1YkVXVExaeFVQWWFwcnJtemVfakY3WHV0aFFQWHR3dkR4eVN1OTZ3dXVqb0QzQ0ZuNkNhek1IbFRhVEtBXzNKcVpSQ1dHQm16ZGMxZHF1Z0txU2xHVUVsb0txUzhxLVljb0NXWWZzX2ZETk9QbHF1dm5XdmMybWFYRzl4d1VuS3J0NlU4enJvQVFuYTYydDNYUVVHM3pjandDUHdHbHhLT2otUU1HQk1PTVpReHpmTQ?oc=5"
+   "Asia FX mixed, dollar slips after hot U.S. CPI; yen firms on intervention warnings",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVXFvdDhhUV9OV1oyZ1NIMlhzalJzS21tNlMtQ3ZWX2pmdHF1WTRiMFBWYlRfcGJlWXZ1R1VzcjhzRWlEY3lndm1meEloOXQ0M1V6T1NWRU90NFF0YW5CTWxpWVg0VjZ4VzJ3R2xGcTdnekttR3JDd2pqNW1Bb2VLYzRrUGRiak9Cbzlvbms5NFdJT0dWVUQ3bjJ3Yw?oc=5"
   ],
   [
    "Forex",
    "high",
-   "Japan’s Katayama Renews FX Warnings After US CPI Heats Up",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUFBHMlJGT29yUlFPTXdnR3FvOFhJQ3VxRFdOZ2QyRFljTlh4cGVoTDgwTmowd0l0cFctalZYWHA5eEdzQy1tSHVrQTUtTVhlNEY3LTBIWmlKYy1nSXZjRjJoZjN5cjNMR01xMEt1MFFLQmRUeWJhUC1CVkthTTdENV8tdXN1aXMwcWFFX2JDX3o2X1cwZXhLOTRUMFU1R1BfODNKa090UlU4bUxkLUU4OTBB?oc=5"
+   "Dollar retreats from 18-month high as Treasury yields dip; Fed hike bets ease",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbDE0ZWJRMm1PNWhpVzUwaDhHb2o1YkVXVExaeFVQWWFwcnJtemVfakY3WHV0aFFQWHR3dkR4eVN1OTZ3dXVqb0QzQ0ZuNkNhek1IbFRhVEtBXzNKcVpSQ1dHQm16ZGMxZHF1Z0txU2xHVUVsb0txUzhxLVljb0NXWWZzX2ZETk9QbHF1dm5XdmMybWFYRzl4d1VuS3J0NlU4enJvQVFuYTYydDNYUVVHM3pjandDUHdHbHhLT2otUU1HQk1PTVpReHpmTQ?oc=5"
   ],
   [
    "Crypto",
