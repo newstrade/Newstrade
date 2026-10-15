@@ -1,7 +1,7 @@
 // NewsTrade service worker.
 // The app itself opens instantly from the saved copy and quietly downloads the newest version for next time.
 // Market data is fetched fresh (with a short timeout, falling back to the last saved data when offline or slow).
-const CACHE = "newstrade-v2";
+const CACHE = "newstrade-v3";
 const SHELL = ["./", "./index.html", "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png"];
 
 self.addEventListener("install", (e) => {
@@ -67,4 +67,21 @@ self.addEventListener("fetch", (e) => {
   if (url.origin === location.origin || url.hostname.includes("fonts.g") || url.hostname === "cdn.jsdelivr.net") {
     e.respondWith(caches.match(req).then((hit) => hit || fetch(req).then((res) => save(req, res))));
   }
+});
+
+// Push notifications (event reminders and price alerts)
+self.addEventListener("push", (e) => {
+  let d = {};
+  try { d = e.data ? e.data.json() : {}; } catch { d = { title: "NewsTrade", body: e.data ? e.data.text() : "" }; }
+  e.waitUntil(self.registration.showNotification(d.title || "NewsTrade", {
+    body: d.body || "", tag: d.tag, icon: "icons/icon-192.png", badge: "icons/icon-192.png", data: { url: d.url || "./" },
+  }));
+});
+self.addEventListener("notificationclick", (e) => {
+  e.notification.close();
+  const url = (e.notification.data && e.notification.data.url) || "./";
+  e.waitUntil(self.clients.matchAll({ type: "window", includeUncontrolled: true }).then((list) => {
+    for (const c of list) if ("focus" in c) return c.focus();
+    return self.clients.openWindow(url);
+  }));
 });

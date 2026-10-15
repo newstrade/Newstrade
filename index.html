@@ -460,6 +460,8 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
       <div class="seg" role="group" aria-label="Language" style="align-self:flex-start"><button data-lang-opt="en">English</button><button data-lang-opt="sw">Kiswahili</button></div>
       <h3 class="ch">Time zone</h3>
       <button type="button" class="ghost" id="settz"></button>
+      <h3 class="ch">Notifications</h3>
+      <div id="pushbox"></div>
     </div>
   </div>
 
@@ -500,6 +502,7 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
       <button type="button" class="ghost" id="evbell"></button>
       <div id="evhist" hidden></div>
       <div id="poll" hidden></div>
+      <div id="pxalert" hidden></div>
       <h3 class="ch">Discussion</h3>
       <div id="clist"></div>
       <form id="cform" hidden novalidate style="display:flex;flex-direction:column;gap:8px">
@@ -830,10 +833,10 @@ function openMarket(sym){const x=instruments.find(i=>i.s===sym);if(!x)return;cur
   $("#cbody").placeholder=`Where do you think ${x.s} goes next?`;
   evBell();$("#cmsg").textContent="";$("#cbody").value="";
   $("#cform").hidden=!(sb&&me);$("#cgate").hidden=!!(sb&&me)||!sb;
-  $("#evsheet").hidden=false;loadComments();drawChart();loadPoll(sym)}
+  $("#evsheet").hidden=false;loadComments();drawChart();loadPoll(sym);pushState().then(()=>pxAlertBox(sym))}
 function openEvent(id){const e=events.find(x=>x.id===id);if(!e)return;curEv=e;
   $("#evmeta").innerHTML=`<i class="dot ${e.imp}"></i><span>${e.imp==="high"?"High":e.imp==="med"?"Medium":"Low"} impact</span><span>·</span><em class="tag">${esc(e.tag)}</em><span>${esc(fmtD(e.at))}, ${esc(fmtT(e.at))}</span>`;
-  $("#evh").textContent=e.name;$("#evchart").hidden=true;$("#poll").hidden=true;$("#evhist").hidden=true;loadEventHistory(e);
+  $("#evh").textContent=e.name;$("#evchart").hidden=true;$("#poll").hidden=true;$("#pxalert").hidden=true;$("#evhist").hidden=true;loadEventHistory(e);
   $("#evnums").innerHTML=`<div>Actual<b class="${cmpCls(e.act,e.fc)}">${esc(e.act||"—")}</b></div><div>Forecast<b>${esc(e.fc||"—")}</b></div><div>Previous<b>${esc(e.prev||"—")}</b></div>`;
   $("#cbody").placeholder="What do you expect from this release?";
   evBell();$("#cmsg").textContent="";$("#cbody").value="";
@@ -1007,7 +1010,7 @@ function applyTheme(){const r=document.documentElement;if(THEME==="auto")r.remov
 function setSheet(){document.querySelectorAll("[data-theme-opt]").forEach(b=>b.setAttribute("aria-pressed",b.dataset.themeOpt===THEME));
   document.querySelectorAll("[data-lang-opt]").forEach(b=>b.setAttribute("aria-pressed",b.dataset.langOpt===LANG));
   $("#settz").textContent="🕒 "+city(tz||detected)+" ("+offset(tz||detected)+") · "+t("Change")}
-$("#setbtn").addEventListener("click",()=>{setSheet();$("#setsheet").hidden=false});
+$("#setbtn").addEventListener("click",()=>{setSheet();pushBox();$("#setsheet").hidden=false});
 $("#setclose").addEventListener("click",()=>$("#setsheet").hidden=true);
 $("#settz").addEventListener("click",()=>{$("#setsheet").hidden=true;openTz()});
 $("#setsheet").addEventListener("click",e=>{
@@ -1016,6 +1019,43 @@ $("#setsheet").addEventListener("click",e=>{
 applyTheme();
 if(LANG==="sw"){document.documentElement.lang="sw";translateNode(document.body);
   new MutationObserver(ms=>{for(const m of ms)for(const n of m.addedNodes){if(n.nodeType===1)translateNode(n);else if(n.nodeType===3&&n.parentElement)translateNode(n.parentElement)}}).observe(document.body,{childList:true,subtree:true})}
+
+// PUSH NOTIFICATIONS (Premium): reminders before starred events + price alerts. Sent by the "push-sender" Supabase function.
+const VAPID_PUBLIC="BHL8OGjUV7LV2roXIJqSk57IGILQlhrIeQ8i_m8s7s890pgl3hphEGWowofPN3hvujfaYd0PXjo8Lt3vAvB6RoU";
+const pushSupported=()=>"serviceWorker" in navigator&&"PushManager" in window&&"Notification" in window;
+const b64u=s=>{const p="=".repeat((4-s.length%4)%4),b=atob((s+p).replace(/-/g,"+").replace(/_/g,"/"));return Uint8Array.from(b,c=>c.charCodeAt(0))};
+let pushOn=false;
+async function pushState(){if(!pushSupported())return false;try{const r=await navigator.serviceWorker.ready;pushOn=!!(await r.pushManager.getSubscription())&&Notification.permission==="granted"}catch(_){pushOn=false}return pushOn}
+async function pushBox(){const el=$("#pushbox");if(!el)return;
+  const sw=LANG==="sw";
+  if(!pushSupported()){el.innerHTML=`<p class="hint" style="margin:0">${isIOS&&!standalone?(sw?"Sakinisha NewsTrade kwenye skrini yako ya nyumbani kwanza (Share → Add to Home Screen), kisha uwashe arifa hapa.":"Install NewsTrade to your home screen first (Share → Add to Home Screen), then turn on notifications here."):(sw?"Simu hii haiwezi kupokea arifa.":"This browser can't receive notifications.")}</p>`;return}
+  if(!me){el.innerHTML=`<p class="hint" style="margin:0">${sw?"Ingia kwanza ili kupata arifa.":"Sign in to get notifications."} <button data-signin>${t("Sign in")}</button></p>`;return}
+  if(!premium){el.innerHTML=`<p class="hint" style="margin:0">${sw?"Arifa kabla ya matukio na arifa za bei ni sehemu ya Premium.":"Reminders before your starred events and price alerts are part of Premium."}</p>`;return}
+  await pushState();
+  el.innerHTML=pushOn?`<p class="hint" style="margin:0;color:var(--up)">✓ ${t("Notifications are on")}. ${sw?"Utapata arifa dakika 30 kabla ya matukio uliyochagua, na bei zinapofikia kiwango ulichoweka.":"You'll get a reminder 30 minutes before starred events, and an alert when a price you set is reached."}</p><button class="link" data-pushoff>${sw?"Zima arifa":"Turn off"}</button>`
+    :`<button class="primary" data-pushon>${t("Turn on notifications")}</button><p class="msg" id="pushmsg"></p>`}
+async function enablePush(){const m=$("#pushmsg");try{
+  const perm=await Notification.requestPermission();if(perm!=="granted"){if(m){m.textContent=LANG==="sw"?"Arifa zimezuiwa. Ziwashe kwenye mipangilio ya simu.":"Notifications are blocked. Allow them in your phone's settings for NewsTrade.";m.className="msg err"}return}
+  const r=await navigator.serviceWorker.ready;
+  const sub=await r.pushManager.subscribe({userVisibleOnly:true,applicationServerKey:b64u(VAPID_PUBLIC)});
+  const j=sub.toJSON();
+  const {error}=await sb.from("push_subscriptions").upsert({endpoint:j.endpoint,p256dh:j.keys.p256dh,auth_key:j.keys.auth},{onConflict:"endpoint"});
+  if(error)throw error;syncAlerts();pushBox()}catch(e){if(m){m.textContent=(LANG==="sw"?"Imeshindikana kuwasha arifa: ":"Couldn't turn on notifications: ")+(e.message||e);m.className="msg err"}}}
+async function disablePush(){try{const r=await navigator.serviceWorker.ready,sub=await r.pushManager.getSubscription();
+  if(sub){await sb.from("push_subscriptions").delete().eq("endpoint",sub.endpoint);await sub.unsubscribe()}}catch(_){}pushOn=false;pushBox()}
+// Price alerts in a market's screen
+async function pxAlertBox(sym){const el=$("#pxalert");if(!sb||!me||!premium){el.hidden=!sb;
+    if(sb)el.innerHTML=`<h3 class="ch">${t("Price alerts")}</h3><p class="hint" style="margin:0">${LANG==="sw"?"Premium: pata arifa soko linapofikia bei unayochagua.":"Premium: get a notification when this market reaches a price you choose."}</p>`;return}
+  const x=instruments.find(i=>i.s===sym);
+  const {data}=await sb.from("price_alerts").select("id,direction,price,triggered_at").eq("market",sym).is("triggered_at",null).order("created_at");
+  if(!curEv||curEv.sym!==sym)return;
+  el.hidden=false;
+  el.innerHTML=`<h3 class="ch">${t("Price alerts")}</h3>
+    ${(data||[]).map(a=>`<div class="cmt"><div class="who"><b>${a.direction==="above"?"▲":"▼"} ${esc(a.direction)} ${esc(+a.price)}</b><button class="jdel" data-pxdel="${esc(a.id)}">${t("Delete")}</button></div></div>`).join("")}
+    <div class="tool" style="margin:0"><div class="row2"><label>${LANG==="sw"?"Nijulishe ikiwa":"Alert me when price is"}<select id="pxdir" class="short"><option value="above">${LANG==="sw"?"juu ya":"above"}</option><option value="below">${LANG==="sw"?"chini ya":"below"}</option></select></label>
+      <label>${LANG==="sw"?"Bei":"Price"}<input id="pxval" type="number" inputmode="decimal" step="any" value="${x?x.p.toFixed(x.d):""}"></label></div>
+      <button class="primary" data-pxadd>${t("Add alert")}</button>
+      ${pushOn?"":`<p class="hint" style="margin:0">${LANG==="sw"?"Washa arifa kwenye Mipangilio (⚙) ili kuzipokea.":"Turn on notifications in Settings (⚙) to receive them."}</p>`}</div>`}
 
 // CHAT ROOMS (same "comments" table, thread keys chat_general, chat_forex, …; live via Supabase Realtime, polling as backup)
 const ROOMS=[["general","General"],["forex","Forex"],["crypto","Crypto"],["stocks","Stocks"],["commodities","Commodities"]];
@@ -1254,6 +1294,11 @@ document.addEventListener("click",e=>{
   const blk=e.target.closest("[data-block]"); if(blk){
     if(!blk.classList.contains("confirm")){blk.classList.add("confirm");blk.textContent="Tap to block "+blk.dataset.bname;setTimeout(()=>{if(blk.isConnected){blk.classList.remove("confirm");blk.textContent="Block"}},3000);return}
     blockUser(blk.dataset.block);return}
+  if(e.target.closest("[data-pushon]")){enablePush();return}
+  if(e.target.closest("[data-pushoff]")){disablePush();return}
+  if(e.target.closest("[data-pxadd]")){const v=parseFloat($("#pxval").value),sym=curEv?.sym;if(!sym||!(v>0))return;
+    sb.from("price_alerts").insert({market:sym,direction:$("#pxdir").value,price:v}).then(({error})=>{if(!error)pxAlertBox(sym)});return}
+  const pxd=e.target.closest("[data-pxdel]"); if(pxd){sb.from("price_alerts").delete().eq("id",pxd.dataset.pxdel).then(()=>pxAlertBox(curEv.sym));return}
   const vt=e.target.closest("[data-vote]"); if(vt){vote(+vt.dataset.vote);return}
   if(e.target.closest("[data-copyref]")){const inp=e.target.closest(".invite").querySelector("input"),b=e.target.closest("[data-copyref]");
     (navigator.clipboard?.writeText(inp.value)||Promise.reject()).then(()=>{b.textContent=t("Copied")}).catch(()=>{inp.select()});return}
