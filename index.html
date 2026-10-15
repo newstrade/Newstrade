@@ -14,7 +14,9 @@
 <meta name="apple-mobile-web-app-title" content="NewsTrade">
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Manrope:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Manrope:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Manrope:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap"></noscript>
 <style>
 /* Layout: one-column mobile app — sticky header with market filter, bottom tab bar, scrolling list in between */
 :root{
@@ -418,7 +420,7 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
   </div></nav>
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js"></script>
+<script id="sbjs" async src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js"></script>
 <script>
 const MARKETS=["All","Forex","Crypto","Stocks","Commodities"];
 const store={get(k,d){try{return JSON.parse(localStorage.getItem(k))??d}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
@@ -866,7 +868,9 @@ $("#jform").addEventListener("submit",async e=>{e.preventDefault();
   if(error){say(/relation|schema cache|does not exist/i.test(error.message)?"The journal isn't switched on yet.":"Couldn't save: "+error.message,"err");return}
   jrows=[data,...(jrows||[])].sort((a,b)=>b.traded_on.localeCompare(a.traded_on));$("#jsheet").hidden=true;journal()});
 async function initAuth(){
-  if(!SUPABASE_URL||!SUPABASE_KEY||!window.supabase)return;
+  if(!SUPABASE_URL||!SUPABASE_KEY)return;
+  if(!window.supabase){const el=document.getElementById("sbjs");if(el&&!initAuth.waiting){initAuth.waiting=true;el.addEventListener("load",()=>initAuth(),{once:true})}return}
+  if(sb)return;
   sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY);
   const {data}=await sb.auth.getSession();me=data.session?.user||null;acctLabel();if(me)pullPrefs();
   render();loadCounts();

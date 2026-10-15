@@ -1,6 +1,7 @@
-// NewsTrade service worker: lets the app open offline with the last data it saw.
-// Pages and live data are network-first (always fresh when online); icons and fonts are cache-first.
-const CACHE = "newstrade-v1";
+// NewsTrade service worker.
+// The app itself opens instantly from the saved copy and quietly downloads the newest version for next time.
+// Market data is fetched fresh (with a short timeout, falling back to the last saved data when offline or slow).
+const CACHE = "newstrade-v2";
 const SHELL = ["./", "./index.html", "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png"];
 
 self.addEventListener("install", (e) => {
@@ -15,6 +16,21 @@ self.addEventListener("activate", (e) => {
   );
 });
 
+function save(req, res) {
+  if (res && (res.ok || res.type === "opaque")) {
+    const copy = res.clone();
+    caches.open(CACHE).then((c) => c.put(req, copy));
+  }
+  return res;
+}
+
+function withTimeout(promise, ms) {
+  return new Promise((resolve, reject) => {
+    const t = setTimeout(() => reject(new Error("timeout")), ms);
+    promise.then((v) => { clearTimeout(t); resolve(v); }, (e) => { clearTimeout(t); reject(e); });
+  });
+}
+
 self.addEventListener("fetch", (e) => {
   const req = e.request;
   if (req.method !== "GET") return;
@@ -23,25 +39,32 @@ self.addEventListener("fetch", (e) => {
   // Never cache accounts, payments, chat or database traffic.
   if (url.hostname.endsWith("supabase.co") || url.hostname.includes("dodopayments")) return;
 
-  const fresh = req.mode === "navigate" || url.hostname === "raw.githubusercontent.com" || url.pathname.endsWith(".json");
-  if (fresh) {
+  // Opening the app: show the saved copy straight away, update it in the background.
+  if (req.mode === "navigate") {
+    const key = new URL("./index.html", self.registration.scope).href;
     e.respondWith(
-      fetch(req)
-        .then((res) => {
-          if (res.ok) { const copy = res.clone(); caches.open(CACHE).then((c) => c.put(req, copy)); }
-          return res;
-        })
-        .catch(() => caches.match(req, { ignoreSearch: true }).then((r) => r || caches.match("./index.html")))
+      caches.match(key).then((hit) => {
+        const update = fetch(req).then((res) => { if (res.ok) caches.open(CACHE).then((c) => c.put(key, res.clone())); return res; });
+        if (hit) { e.waitUntil(update.catch(() => {})); return hit; }
+        return update.catch(() => caches.match("./"));
+      })
     );
     return;
   }
 
-  if (url.origin === location.origin || url.hostname.includes("fonts.g") || url.hostname === "cdn.jsdelivr.net") {
+  // Market data: try the network for up to 4 seconds, otherwise use the last saved copy.
+  if (url.hostname === "raw.githubusercontent.com" || url.pathname.endsWith(".json")) {
+    const key = url.origin + url.pathname; // ignore cache-busting ?t=…
     e.respondWith(
-      caches.match(req).then((hit) => hit || fetch(req).then((res) => {
-        if (res.ok || res.type === "opaque") { const copy = res.clone(); caches.open(CACHE).then((c) => c.put(req, copy)); }
-        return res;
-      }))
+      withTimeout(fetch(req), 4000)
+        .then((res) => { if (res.ok) { const copy = res.clone(); caches.open(CACHE).then((c) => c.put(key, copy)); } return res; })
+        .catch(() => caches.match(key).then((r) => r || fetch(req)))
     );
+    return;
+  }
+
+  // Icons, fonts and libraries: saved copy first.
+  if (url.origin === location.origin || url.hostname.includes("fonts.g") || url.hostname === "cdn.jsdelivr.net") {
+    e.respondWith(caches.match(req).then((hit) => hit || fetch(req).then((res) => save(req, res))));
   }
 });
