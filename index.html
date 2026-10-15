@@ -134,7 +134,8 @@ h2.sub{font-family:var(--display);font-weight:600;font-size:15px;margin:4px 0 6p
 h2.sub + .list{margin-bottom:16px}
 .hint{font-size:12px;color:var(--muted);margin:10px 0 0}
 .hint button{background:none;border:0;padding:0;color:var(--accent);font:600 12px var(--body);cursor:pointer}
-nav .in{grid-template-columns:repeat(5,1fr)}
+nav .in{grid-template-columns:repeat(6,1fr)}
+nav button{font-size:11px}
 .stats{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-bottom:14px}
 .stat{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:12px}
 .stat small{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
@@ -235,6 +236,28 @@ header{background:color-mix(in srgb,var(--bg) 72%,transparent);-webkit-backdrop-
 .chartwrap .gl{stroke:var(--line);stroke-width:1}
 .chartwrap .empty{padding:60px 10px;text-align:center}
 .tip{position:absolute;top:0;transform:translateX(-50%);background:var(--fg);color:var(--bg);font:500 12px var(--mono);padding:4px 8px;border-radius:8px;white-space:nowrap;pointer-events:none;font-variant-numeric:tabular-nums}
+.tool{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:12px 14px;display:flex;flex-direction:column;gap:10px;margin-bottom:10px}
+.tool summary{font-weight:700;cursor:pointer;list-style:none;display:flex;justify-content:space-between}
+.tool summary::after{content:"+";color:var(--muted);font-weight:500}
+.tool[open] summary::after{content:"–"}
+.tool[open] summary{margin-bottom:4px}
+.tool label{font-size:12px;font-weight:600;color:var(--muted);display:flex;flex-direction:column;gap:4px;min-width:0}
+.tool input,.tool select{font:500 15px var(--body);padding:9px 10px;border:1px solid var(--line);border-radius:10px;background:var(--bg);color:var(--fg);width:100%;box-sizing:border-box;-webkit-user-select:text;user-select:text;font-variant-numeric:tabular-nums}
+.tool .ghost{align-self:end;padding:9px}
+.result{background:var(--accent-soft);border-radius:10px;padding:10px 12px;display:grid;grid-template-columns:repeat(auto-fit,minmax(110px,1fr));gap:8px}
+.result div{font-size:12px;color:var(--muted)}
+.result b{display:block;font:500 15px var(--mono);color:var(--fg);font-variant-numeric:tabular-nums}
+.sess .srow{display:grid;grid-template-columns:1fr auto;gap:4px 10px;padding:11px 14px;border-top:1px solid var(--line)}
+.sess .srow:first-child{border-top:0}
+.sess .sname{font-weight:700;display:flex;gap:8px;align-items:center}
+.sess .st{font:700 10px var(--body);letter-spacing:.06em;text-transform:uppercase;padding:2px 7px;border-radius:999px;background:var(--bg);color:var(--muted)}
+.sess .st.open{background:color-mix(in srgb,var(--up) 18%,transparent);color:var(--up)}
+.sess .shrs{font:500 12px var(--mono);color:var(--muted);text-align:right}
+.sess .bar{grid-column:1 / 3;position:relative;height:8px;border-radius:4px;background:var(--bg);overflow:hidden}
+.sess .bar i{position:absolute;top:0;bottom:0;border-radius:4px;background:var(--accent);opacity:.35}
+.sess .bar i.on{opacity:.9}
+.sess .bar b{position:absolute;top:-2px;bottom:-2px;width:2px;background:var(--fg)}
+.sess .sub2{grid-column:1 / 3;font-size:12px;color:var(--muted)}
 .daysep{align-self:center;font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
 .promo .go{margin-left:auto;font:700 13px var(--body);color:var(--accent);white-space:nowrap}
 /* Motion */
@@ -286,6 +309,35 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
     <section id="v-markets" hidden></section>
     <section id="v-news" hidden></section>
     <section id="v-journal" hidden></section>
+    <section id="v-tools" hidden>
+      <h2 class="sub">Market sessions</h2>
+      <div class="list sess" id="sessions"></div>
+      <p class="hint" id="sessnote"></p>
+      <h2 class="sub" style="margin-top:18px">Currency converter</h2>
+      <div class="tool">
+        <div class="row2"><label>Amount<input id="cv-amt" type="number" inputmode="decimal" value="100"></label><label>From<select id="cv-from" class="short"></select></label></div>
+        <div class="row2"><button type="button" class="ghost" id="cv-swap" aria-label="Swap currencies">⇅ Swap</button><label>To<select id="cv-to" class="short"></select></label></div>
+        <div class="result" id="cv-out"></div>
+      </div>
+      <h2 class="sub" style="margin-top:18px">Calculators</h2>
+      <details class="tool" open><summary>Position size</summary>
+        <div class="row2"><label>Account balance ($)<input id="ps-bal" type="number" inputmode="decimal" value="1000"></label><label>Risk per trade (%)<input id="ps-risk" type="number" inputmode="decimal" value="1" step="0.1"></label></div>
+        <div class="row2"><label>Stop loss (pips)<input id="ps-sl" type="number" inputmode="decimal" value="20"></label><label>Pair<select id="ps-pair" class="short fxpair"></select></label></div>
+        <div class="result" id="ps-out"></div></details>
+      <details class="tool"><summary>Pip value</summary>
+        <div class="row2"><label>Pair<select id="pv-pair" class="short fxpair"></select></label><label>Lot size<input id="pv-lots" type="number" inputmode="decimal" value="1" step="0.01"></label></div>
+        <div class="result" id="pv-out"></div></details>
+      <details class="tool"><summary>Risk / reward</summary>
+        <div class="row2"><label>Entry price<input id="rr-entry" type="number" inputmode="decimal" value="1.1200" step="any"></label><label>Stop loss<input id="rr-sl" type="number" inputmode="decimal" value="1.1170" step="any"></label></div>
+        <div class="row2"><label>Take profit<input id="rr-tp" type="number" inputmode="decimal" value="1.1290" step="any"></label><span></span></div>
+        <div class="result" id="rr-out"></div></details>
+      <details class="tool"><summary>Profit / loss</summary>
+        <div class="row2"><label>Pair<select id="pl-pair" class="short fxpair"></select></label><label>Direction<select id="pl-dir" class="short"><option value="1">Buy</option><option value="-1">Sell</option></select></label></div>
+        <div class="row2"><label>Entry price<input id="pl-entry" type="number" inputmode="decimal" step="any"></label><label>Exit price<input id="pl-exit" type="number" inputmode="decimal" step="any"></label></div>
+        <div class="row2"><label>Lot size<input id="pl-lots" type="number" inputmode="decimal" value="0.1" step="0.01"></label><span></span></div>
+        <div class="result" id="pl-out"></div></details>
+      <p class="hint">Calculators assume a US dollar account and standard lots of 100,000 units. They use NewsTrade's hourly prices, so check your broker before you trade.</p>
+    </section>
     <section id="v-chat" hidden>
       <div class="chips rooms" id="rooms" role="group" aria-label="Chat room"></div>
       <p class="hint" id="roomnote"></p>
@@ -417,6 +469,7 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
     <button id="t-news" role="tab" aria-selected="false" data-view="news"><svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M7 9h10M7 13h10M7 17h6"/></svg>News</button>
     <button id="t-journal" role="tab" aria-selected="false" data-view="journal"><svg viewBox="0 0 24 24"><path d="M5 4h11a3 3 0 0 1 3 3v13H8a3 3 0 0 1-3-3z"/><path d="M5 17a3 3 0 0 1 3-3h11M9 8h6"/></svg>Journal</button>
     <button id="t-chat" role="tab" aria-selected="false" data-view="chat"><svg viewBox="0 0 24 24"><path d="M4 5h16v11H9l-5 4z"/><path d="M8 9h8M8 12h5"/></svg>Chat</button>
+    <button id="t-tools" role="tab" aria-selected="false" data-view="tools"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/><path d="M12 7v5l3 2"/></svg>Tools</button>
   </div></nav>
 </div>
 
@@ -761,6 +814,82 @@ function renderChart(box,pts,dec){
   svg.addEventListener("pointermove",show);svg.addEventListener("pointerdown",show);svg.addEventListener("pointerleave",hide);svg.addEventListener("pointercancel",hide)}
 addEventListener("resize",()=>{if(curEv&&curEv.kind==="mk"&&!$("#evsheet").hidden)drawChart()});
 
+// TOOLS: market sessions clock, currency converter and trading calculators
+const SESSIONS=[["Sydney","Australia/Sydney",7,16],["Tokyo","Asia/Tokyo",9,18],["London","Europe/London",8,17],["New York","America/New_York",8,17]];
+const zoneParts=(d,z)=>{const p=new Intl.DateTimeFormat("en-US",{timeZone:z,hour12:false,weekday:"short",hour:"numeric",minute:"numeric"}).formatToParts(d);const g=k=>p.find(x=>x.type===k)?.value;return{wd:g("weekday"),h:+g("hour")%24,m:+g("minute")}};
+const zoneOffsetMin=(d,z)=>{const s=new Date(d.toLocaleString("en-US",{timeZone:z}));const u=new Date(d.toLocaleString("en-US",{timeZone:"UTC"}));return Math.round((s-u)/60000)};
+function sessionTimes(name,z,oh,ch,now){
+  // next/current open and close as real Dates
+  const off=zoneOffsetMin(now,z);const local=new Date(now.getTime()+off*60000);
+  const base=Date.UTC(local.getUTCFullYear(),local.getUTCMonth(),local.getUTCDate());
+  const mk=(dayShift,h)=>new Date(base+dayShift*864e5+h*3600e3-off*60000);
+  let open=mk(0,oh),close=mk(0,ch);
+  if(now>=close){open=mk(1,oh);close=mk(1,ch)}
+  return{open,close,isOpen:now>=open&&now<close}}
+function fxWeekend(now){const p=zoneParts(now,"America/New_York");const h=p.h+p.m/60;
+  return p.wd==="Sat"||(p.wd==="Fri"&&h>=17)||(p.wd==="Sun"&&h<17)}
+const dur=ms=>{const m=Math.max(0,Math.round(ms/60000)),h=Math.floor(m/60);return h?`${h}h ${m%60}m`:`${m}m`};
+function sessionsView(){
+  const now=new Date(),wk=fxWeekend(now),uz=tz||detected,me0=zoneParts(now,uz),nowFrac=(me0.h*60+me0.m)/1440;
+  const startOfMyDay=new Date(now.getTime()-((me0.h*60+me0.m)*60000)-now.getSeconds()*1000);
+  let html="";let openN=0;
+  for(const [name,z,oh,ch] of SESSIONS){
+    const t=sessionTimes(name,z,oh,ch,now),open=t.isOpen&&!wk;if(open)openN++;
+    // bar segments across the viewer's day
+    const segs=[];for(const shift of [-1,0,1]){const o=new Date(t.open.getTime()+shift*864e5),c=new Date(t.close.getTime()+shift*864e5);
+      const a=Math.max(0,(o-startOfMyDay)/864e5),b=Math.min(1,(c-startOfMyDay)/864e5);if(b>a)segs.push([a,b])}
+    const fmt=d=>d.toLocaleTimeString([], {hour:"2-digit",minute:"2-digit",hour12:false,timeZone:uz});
+    const sub=wk?"Forex market closed for the weekend":open?`Closes in ${dur(t.close-now)}`:`Opens in ${dur(t.open-now)}`;
+    html+=`<div class="srow"><div class="sname">${name}<span class="st${open?" open":""}">${open?"Open":"Closed"}</span></div><div class="shrs">${fmt(t.open)}–${fmt(t.close)}</div>
+      <div class="bar" aria-hidden="true">${segs.map(([a,b])=>`<i class="${open?"on":""}" style="left:${(a*100).toFixed(2)}%;width:${((b-a)*100).toFixed(2)}%"></i>`).join("")}<b style="left:${(nowFrac*100).toFixed(2)}%"></b></div>
+      <div class="sub2">${sub}</div></div>`}
+  $("#sessions").innerHTML=html;
+  const ln=sessionTimes(...SESSIONS[2],now),ny=sessionTimes(...SESSIONS[3],new Date(ln.open.getTime()+60000));
+  const ovA=new Date(Math.max(ln.open,ny.open)),ovB=new Date(Math.min(ln.close,ny.close));
+  $("#sessnote").textContent=wk?"Forex reopens Sunday 17:00 New York time. Crypto trades all weekend."
+    :(openN>=2?`${openN} sessions open now. `:"")+(ovB>ovA?`Busiest time: London–New York overlap, ${ovA.toLocaleTimeString([], {hour:"2-digit",minute:"2-digit",hour12:false,timeZone:uz})}–${ovB.toLocaleTimeString([], {hour:"2-digit",minute:"2-digit",hour12:false,timeZone:uz})} your time.`:"")+" Times are in "+city(uz)+" time."}
+// Currency converter: value of 1 unit in US dollars, from the hourly prices
+function usdValues(){const v={USD:1},px=s=>instruments.find(i=>i.s===s)?.p;
+  for(const [pair,cur] of [["EUR/USD","EUR"],["GBP/USD","GBP"],["AUD/USD","AUD"]]){const p=px(pair);if(p)v[cur]=p}
+  for(const [pair,cur] of [["USD/JPY","JPY"],["USD/CAD","CAD"],["USD/CHF","CHF"],["USD/KES","KES"],["USD/ZAR","ZAR"],["USD/NGN","NGN"]]){const p=px(pair);if(p)v[cur]=1/p}
+  for(const [n,cur] of [["Bitcoin","BTC"],["Ethereum","ETH"]]){const p=px(n);if(p)v[cur]=p}
+  return v}
+const CURNAME={USD:"US dollar",EUR:"Euro",GBP:"British pound",JPY:"Japanese yen",AUD:"Australian dollar",CAD:"Canadian dollar",CHF:"Swiss franc",KES:"Kenyan shilling",ZAR:"South African rand",NGN:"Nigerian naira",BTC:"Bitcoin",ETH:"Ethereum"};
+const num=(v,d=2)=>isFinite(v)?v.toLocaleString(undefined,{minimumFractionDigits:d,maximumFractionDigits:d}):"—";
+const val=id=>parseFloat($(id).value);
+function converter(){const v=usdValues(),a=val("#cv-amt"),f=$("#cv-from").value,t2=$("#cv-to").value;
+  if(!v[f]||!v[t2]){$("#cv-out").innerHTML=`<div>Rate not available yet</div>`;return}
+  const r=v[f]/v[t2],out=a*r,dp=x=>Math.abs(x)>=100?2:Math.abs(x)>=1?4:6;
+  $("#cv-out").innerHTML=`<div>${num(a,2)} ${f} =<b>${num(out,dp(out))} ${t2}</b></div><div>Rate<b>1 ${f} = ${num(r,dp(r))} ${t2}</b></div>`}
+// Forex helpers (USD account, 100,000-unit lots)
+const pipSize=pair=>/JPY/.test(pair)?0.01:0.0001;
+function pipValueUSD(pair,lots){const p=instruments.find(i=>i.s===pair)?.p;if(!p)return NaN;
+  const units=100000*lots,ps=pipSize(pair);return pair.endsWith("/USD")?ps*units:pair.startsWith("USD/")?ps*units/p:NaN}
+function calcs(){
+  const bal=val("#ps-bal"),risk=val("#ps-risk"),sl=val("#ps-sl"),pair=$("#ps-pair").value,risk$=bal*risk/100,pv1=pipValueUSD(pair,1),lots=risk$/(sl*pv1);
+  $("#ps-out").innerHTML=`<div>Position size<b>${num(lots,2)} lots</b></div><div>Units<b>${num(lots*100000,0)}</b></div><div>Money at risk<b>$${num(risk$,2)}</b></div>`;
+  const pvp=$("#pv-pair").value,pv=pipValueUSD(pvp,val("#pv-lots"));
+  $("#pv-out").innerHTML=`<div>1 pip on ${esc(pvp)}<b>$${num(pv,2)}</b></div><div>10 pips<b>$${num(pv*10,2)}</b></div>`;
+  const e=val("#rr-entry"),s2=val("#rr-sl"),tp=val("#rr-tp"),risk2=Math.abs(e-s2),rew=Math.abs(tp-e),ratio=rew/risk2;
+  $("#rr-out").innerHTML=`<div>Risk : reward<b>1 : ${num(ratio,2)}</b></div><div>Win rate to break even<b>${num(100/(1+ratio),1)}%</b></div>`;
+  const pp=$("#pl-pair").value,dir=+$("#pl-dir").value,en=val("#pl-entry"),ex=val("#pl-exit"),pips=(ex-en)*dir/pipSize(pp),pl=pips*pipValueUSD(pp,val("#pl-lots"));
+  $("#pl-out").innerHTML=`<div>Pips<b class="${pips>0?"up":pips<0?"down":""}">${pips>0?"+":""}${num(pips,1)}</b></div><div>Profit / loss<b class="${pl>0?"up":pl<0?"down":""}">${pl>0?"+":pl<0?"−":""}$${num(Math.abs(pl),2)}</b></div>`}
+let toolsReady=false,sessTimer=null;
+function tools(){
+  if(!toolsReady){toolsReady=true;
+    const fx=instruments.filter(i=>i.m==="Forex"&&/USD/.test(i.s)).map(i=>i.s);
+    document.querySelectorAll(".fxpair").forEach(sel=>{sel.innerHTML=fx.map(p=>`<option>${esc(p)}</option>`).join("")});
+    const cur=Object.keys(CURNAME);
+    for(const id of ["#cv-from","#cv-to"])$(id).innerHTML=cur.map(c=>`<option value="${c}">${c} · ${CURNAME[c]}</option>`).join("");
+    $("#cv-from").value="USD";$("#cv-to").value="KES";
+    const eu=instruments.find(i=>i.s==="EUR/USD");if(eu){$("#pl-pair").value="EUR/USD";$("#pl-entry").value=eu.p.toFixed(4);$("#pl-exit").value=(eu.p+0.005).toFixed(4)}
+    $("#v-tools").addEventListener("input",()=>{converter();calcs()});
+    $("#v-tools").addEventListener("change",()=>{converter();calcs()});
+    $("#cv-swap").addEventListener("click",()=>{const a=$("#cv-from").value;$("#cv-from").value=$("#cv-to").value;$("#cv-to").value=a;converter()});
+  }
+  sessionsView();converter();calcs();
+  clearInterval(sessTimer);sessTimer=setInterval(()=>{if(view==="tools"&&!document.hidden)sessionsView()},30000)}
+
 // CHAT ROOMS (same "comments" table, thread keys chat_general, chat_forex, …; live via Supabase Realtime, polling as backup)
 const ROOMS=[["general","General"],["forex","Forex"],["crypto","Crypto"],["stocks","Stocks"],["commodities","Commodities"]];
 let room=store.get("nt-room","general"),chatRows=[],chatChan=null,chatLive=false,chatTimer=null,chatReady=false;
@@ -951,7 +1080,7 @@ document.addEventListener("click",e=>{
     sb.from("journal").delete().eq("id",id).then(({error})=>{if(error){del.textContent="Couldn't delete";return}jrows=jrows.filter(r=>String(r.id)!==id);journal()});return}
   const t=e.target.closest("nav button"); if(t){view=t.dataset.view;
     document.querySelectorAll("nav button").forEach(x=>x.setAttribute("aria-selected",x===t));
-    ["calendar","markets","news","journal","chat"].forEach(v=>$("#v-"+v).hidden=v!==view);
+    ["calendar","markets","news","journal","chat","tools"].forEach(v=>$("#v-"+v).hidden=v!==view);if(view==="tools")tools();
     if(view==="chat")openChat();else scrollTo(0,0)}
 });
 setInterval(tickCount,1000);
