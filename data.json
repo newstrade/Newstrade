@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T08:49:30.817Z",
+ "updated": "2026-10-15T09:46:48.757Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,65 +232,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1223,
-   "ch": 0.59,
-   "asof": "2026-10-15T08:49:27.000Z"
+   "p": 1.1226,
+   "ch": 0.62,
+   "asof": "2026-10-15T09:46:28.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3259,
-   "ch": 0.52,
-   "asof": "2026-10-15T08:49:27.000Z"
+   "p": 1.3271,
+   "ch": 0.61,
+   "asof": "2026-10-15T09:46:28.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.779,
-   "ch": -0.32,
-   "asof": "2026-10-15T08:49:30.000Z"
+   "p": 157.685,
+   "ch": -0.38,
+   "asof": "2026-10-15T09:46:48.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6931,
-   "ch": -0.62,
-   "asof": "2026-10-15T08:49:27.000Z"
+   "p": 0.6926,
+   "ch": -0.69,
+   "asof": "2026-10-15T09:45:28.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4197,
-   "ch": -0.25,
-   "asof": "2026-10-15T08:49:30.000Z"
+   "p": 1.42,
+   "ch": -0.23,
+   "asof": "2026-10-15T09:46:47.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8292,
-   "ch": -0.61,
-   "asof": "2026-10-15T08:49:30.000Z"
+   "p": 0.8291,
+   "ch": -0.62,
+   "asof": "2026-10-15T09:46:48.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81260.36,
-   "ch": -0.38,
-   "asof": "2026-10-15T08:49:26.000Z"
+   "p": 81142.66,
+   "ch": -0.53,
+   "asof": "2026-10-15T09:46:39.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2374.79,
-   "ch": -1.8,
-   "asof": "2026-10-15T08:49:27.000Z"
+   "p": 2367.68,
+   "ch": -2.1,
+   "asof": "2026-10-15T09:46:43.000Z"
   },
   {
    "s": "S&P 500",
@@ -320,17 +320,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4174.9,
-   "ch": 1.63,
-   "asof": "2026-10-15T08:39:27.000Z"
+   "p": 4180.4,
+   "ch": 1.76,
+   "asof": "2026-10-15T09:36:47.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 94.58,
-   "ch": -0.54,
-   "asof": "2026-10-15T08:39:31.000Z"
+   "p": 93.74,
+   "ch": -0.17,
+   "asof": "2026-10-15T09:36:49.000Z"
   }
  ],
  "news": [
@@ -344,9 +344,9 @@
   [
    "Forex",
    "high",
-   "Asia FX mixed, dollar slips after hot U.S. CPI; yen firms on intervention warnings",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVXFvdDhhUV9OV1oyZ1NIMlhzalJzS21tNlMtQ3ZWX2pmdHF1WTRiMFBWYlRfcGJlWXZ1R1VzcjhzRWlEY3lndm1meEloOXQ0M1V6T1NWRU90NFF0YW5CTWxpWVg0VjZ4VzJ3R2xGcTdnekttR3JDd2pqNW1Bb2VLYzRrUGRiak9Cbzlvbms5NFdJT0dWVUQ3bjJ3Yw?oc=5"
+   "Malaysia Central Bank Chief Signals Room to Act as Inflation Risks Rise",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM3Z5a3c4Z3pUUzNUQWw2aVgzbHlZOXBlRjZfdGprU2ppUjU3OVFaMDZRNDVBQ0lZdzB0T3ZJT3Y3X0dPaXdSejlROGhqa1ZKejJHREpoUjM3cHo3LTl0V0dZZUNYbjVGaGs1c0VKbXVlNy1MSmZoaVBYOGVya0ZFTF9lT3A4UE1GQUpZMHpNbC1VdEZRc3lHUVp4YTZ3YTRWdVltVUxqMmU0RW9nMERtbnNQQ01UU24wNllFbl94NA?oc=5"
   ],
   [
    "Crypto",
@@ -358,9 +358,9 @@
   [
    "Crypto",
    "med",
-   "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMivAFBVV95cUxNblZQX0dpQWN2aUFZRklDRUdNZklJSzR5RDNhdXAyN0RlYk5qOW94TEROU09sdGR0X09tWXVQOEp3b1ZqTTY3X1RiSGMybEtaMTRfUko2X0pWbWhHMzYxRTNKTnQ2QTZYWW4yQWdCVmNmMVFVSGZULWJoekMyUExzQ3J4c0R0SXkwLWFFT01maDVpR2d4RFY4V1NIS0U3aEVielA4NTNTbGk1Ry13ZFlVVkowdWlPdmp3ZGg5ag?oc=5"
+   "Citigroup Raises Its 12-Month Price Target for Bitcoin to $113,000. These Are the 3 Catalysts Investors Need to Watch.",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaXNlNWRqbGJvSTFpSWQ5ZzBnNWhlN0t4VzhibkFkcmlVOHJIUTZfTUFzcTFLWUNrdmxTLWtZcjgyTUNIQWNGTU55ajBWWGp1ck41RWhZajVpUWpkV1ExdXpfQmFIQVdHY21PdzlCem9NTUxCZjRKWGFYMXJNOGdyNlAwNm5xYmkwekliMTExT0tLWDR3RlVDbDRKRzM?oc=5"
   ],
   [
    "Stocks",
@@ -371,10 +371,10 @@
   ],
   [
    "Stocks",
-   "med",
-   "The Former Theater Director Who Keeps Beating Wall Street",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUUtJN3M1em5qaDFMMDh5SXhramQtOEM2RmZpUlNrcUxxQWdiU3FfbGptRndYdS0ydTRsTmFsemU1OERWNG9ZakoxOFhjV0Vnd1RmTTNSZG93eER4ZW9BdXdHdVZZZUJFaVdQbzI4TThPN1VvdUlIVUlGZ2VJcFZzTjhueEFDbE54dWlDcXFoZ1V2TnkzSU9TOTY3VWVEbE50NW5DdW5HWW5KbHZRTVVwbA?oc=5"
+   "high",
+   "US Stock Market Today: S&P 500 Futures Edge Up On Energy Driven Inflation Focus",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb0xNMXVUZnFPOUR2ZGxGX2VHS3VPbndReVBBTXNreHZFM0tBcmtJZDhrTFJTSmlvMm1zTkVfQkdEa3RxdVFhUEs3aUY1YjFlRGhVamJzWjlzU2x4blFlWTc1S3Z3cDVtTjNhWEJTaXVjRnZpZmUzaThPdW84S29QUUhhcVRXR2R2b2VtM3hZczZWZw?oc=5"
   ],
   [
    "Commodities",
