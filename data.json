@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T12:58:39.153Z",
+ "updated": "2026-10-15T13:54:05.713Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,105 +232,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1216,
-   "ch": 0.53,
-   "asof": "2026-10-15T12:58:27.000Z"
+   "p": 1.1217,
+   "ch": 0.54,
+   "asof": "2026-10-15T13:53:28.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3252,
-   "ch": 0.47,
-   "asof": "2026-10-15T12:58:27.000Z"
+   "p": 1.3259,
+   "ch": 0.52,
+   "asof": "2026-10-15T13:53:28.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.822,
-   "ch": -0.3,
-   "asof": "2026-10-15T12:58:38.000Z"
+   "p": 157.609,
+   "ch": -0.43,
+   "asof": "2026-10-15T13:53:45.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6908,
-   "ch": -0.95,
-   "asof": "2026-10-15T12:57:27.000Z"
+   "p": 0.69,
+   "ch": -1.06,
+   "asof": "2026-10-15T13:53:28.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4206,
-   "ch": -0.19,
-   "asof": "2026-10-15T12:58:38.000Z"
+   "p": 1.4201,
+   "ch": -0.22,
+   "asof": "2026-10-15T13:53:45.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8296,
-   "ch": -0.56,
-   "asof": "2026-10-15T12:58:38.000Z"
+   "p": 0.8277,
+   "ch": -0.79,
+   "asof": "2026-10-15T13:53:45.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80507.61,
-   "ch": -1.31,
-   "asof": "2026-10-15T12:58:33.000Z"
+   "p": 79849.86,
+   "ch": -2.11,
+   "asof": "2026-10-15T13:54:02.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2346.31,
-   "ch": -2.98,
-   "asof": "2026-10-15T12:58:37.000Z"
+   "p": 2326.49,
+   "ch": -3.8,
+   "asof": "2026-10-15T13:54:05.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7718.94,
-   "ch": -1.11,
-   "asof": "2026-10-14T20:36:08.000Z"
+   "p": 7676.87,
+   "ch": -0.55,
+   "asof": "2026-10-15T13:54:04.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 26692.87,
-   "ch": -1.88,
-   "asof": "2026-10-14T21:15:59.000Z"
+   "p": 26335.512,
+   "ch": -1.34,
+   "asof": "2026-10-15T13:53:58.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 51621.48,
-   "ch": -0.09,
-   "asof": "2026-10-14T20:36:17.000Z"
+   "p": 51816.58,
+   "ch": 0.38,
+   "asof": "2026-10-15T13:54:04.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4162.7,
-   "ch": 1.33,
-   "asof": "2026-10-15T12:48:39.000Z"
+   "p": 4180.7,
+   "ch": 1.77,
+   "asof": "2026-10-15T13:43:45.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 93.97,
-   "ch": 0.07,
-   "asof": "2026-10-15T12:48:37.000Z"
+   "p": 94.5,
+   "ch": 0.64,
+   "asof": "2026-10-15T13:43:47.000Z"
   }
  ],
  "news": [
@@ -344,23 +344,23 @@
   [
    "Forex",
    "med",
-   "France can slash deficit to 3% by 2029, central bank governor says",
+   "France is ‘putting the house in order’ and can slash deficit to 3% in three years, central bank governor tells CNBC",
    "CNBC",
    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HbUR6MnJiNFVRU0EtUlZkeWZXS2dkNF9lVzJQVjJ6dkFoT0ZsSHFTNmQ3SVljNFRKYXlYaC02QVRZV3BQRkoxVjJaV1FVQy1MNWNHQlQxWUowZk5ndWxuMTN1SHR3SGwwNEhDWEE0OGZERUFfR2dESlJpZ3kzMnM?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Current price of Ethereum for October 15, 2026",
-   "Fortune",
-   "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BeGJFWkRzby1DY3ZVZ25wN1FxT3c3SXQxNUcxSnFWSTRFQTRfYVdmUWdhTEhkU0FObU5Wb1RMMDR5Z2xOSU9IOVVhdUxoNmpBZVg2WTVOamV2MmFOTGUxQzNsbXktM19x?oc=5"
+   "He Crafted a Crypto Law for Trump—as His Company Got Millions From a Crypto Giant",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQkZMOGxoUFE3VzlTTnZUWWVVbmhVYzJSYlNwSG85NDJhWGtXS0NlZl9nTFZIa3A2c1R6Y0dfT2R6M3lzb1VvMDR2U1VHNlBlOFVxMUczTjlfY0JrX2N1RjhTR3NvMV9GcVRQbGhackxuR3lIS2ZyYWRQXzhTVEgtUVhybw?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin and ethereum prices today, Thursday, October 15, 2026: Crypto prices falling into a familiar pattern",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMijAJBVV95cUxQYTU1TTl5UjBuUGZTbEVRWEhlTlM5aDF1Q0hPa3ZqbFZkN3dtOE8zYlhXZmR5MVNhVXZWdE5uU3NVSFA4WU55OXNnYXp3X3FITjV5SXBQN3BVT3FlWExubDhQekVzenRNM1ViU1FkRGJ4VkM1QnBrVkVzc0dTOUJDcTNacWMtWUhhbUEwYmd0bV9LNXRlbU1DeTZJTk9KMnpVM2RoX2oxQi13MGJxeUU4T2NaaFY2cWxyWkZ3YXB2Z3ljUnVrVE1ZMWViZ1pXTVFwbUtaVXFYZ0o5VDNzNVFnaFZ6dmhSQXFxTzc1YV9HNzhCUmVWV2dzeEFjX0laSGhCU0d5bjAyanhxdWN1?oc=5"
+   "Current price of Ethereum for Oct. 15, 2026",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BeGJFWkRzby1DY3ZVZ25wN1FxT3c3SXQxNUcxSnFWSTRFQTRfYVdmUWdhTEhkU0FObU5Wb1RMMDR5Z2xOSU9IOVVhdUxoNmpBZVg2WTVOamV2MmFOTGUxQzNsbXktM19x?oc=5"
   ],
   [
    "Stocks",
@@ -371,10 +371,10 @@
   ],
   [
    "Stocks",
-   "high",
-   "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries",
+   "med",
+   "S&P 500's march to 8,000 hinges on 'very, very strong' third quarter",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5"
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeDNuYWYyZHBTTUNybko0NWxLZGc4aEl4bTYyazY0aVNmQ1ZWZUFPYVZnOG9FMDcwTUlGdlptbUR6eHpTQ2hQamVCODlMNHRyYURUVV8zMndqaXJQWEZJREJHUGxraWF3WnAwTnB6eWtOTXpySnpaYUw1WEUtOFVxT0JJcG1LUDdUQUhXamYxN1NlWnB3UVRqX2YtUVdna3o5V3RnaXoxcUphRmlUT2c?oc=5"
   ],
   [
    "Commodities",
