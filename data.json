@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T13:54:05.713Z",
+ "updated": "2026-10-15T14:47:38.844Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,114 +232,114 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1217,
-   "ch": 0.54,
-   "asof": "2026-10-15T13:53:28.000Z"
+   "p": 1.1211,
+   "ch": 0.48,
+   "asof": "2026-10-15T14:47:30.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3259,
-   "ch": 0.52,
-   "asof": "2026-10-15T13:53:28.000Z"
+   "p": 1.3257,
+   "ch": 0.51,
+   "asof": "2026-10-15T14:47:30.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.609,
-   "ch": -0.43,
-   "asof": "2026-10-15T13:53:45.000Z"
+   "p": 158.066,
+   "ch": -0.14,
+   "asof": "2026-10-15T14:47:37.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.69,
-   "ch": -1.06,
-   "asof": "2026-10-15T13:53:28.000Z"
+   "p": 0.692,
+   "ch": -0.77,
+   "asof": "2026-10-15T14:47:30.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4201,
-   "ch": -0.22,
-   "asof": "2026-10-15T13:53:45.000Z"
+   "p": 1.4185,
+   "ch": -0.34,
+   "asof": "2026-10-15T14:47:38.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8277,
-   "ch": -0.79,
-   "asof": "2026-10-15T13:53:45.000Z"
+   "p": 0.8293,
+   "ch": -0.6,
+   "asof": "2026-10-15T14:47:38.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 79849.86,
-   "ch": -2.11,
-   "asof": "2026-10-15T13:54:02.000Z"
+   "p": 81401.17,
+   "ch": -0.21,
+   "asof": "2026-10-15T14:47:32.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2326.49,
-   "ch": -3.8,
-   "asof": "2026-10-15T13:54:05.000Z"
+   "p": 2382.05,
+   "ch": -1.5,
+   "asof": "2026-10-15T14:47:35.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7676.87,
-   "ch": -0.55,
-   "asof": "2026-10-15T13:54:04.000Z"
+   "p": 7714.46,
+   "ch": -0.06,
+   "asof": "2026-10-15T14:47:37.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 26335.512,
-   "ch": -1.34,
-   "asof": "2026-10-15T13:53:58.000Z"
+   "p": 26560.46,
+   "ch": -0.5,
+   "asof": "2026-10-15T14:47:35.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 51816.58,
-   "ch": 0.38,
-   "asof": "2026-10-15T13:54:04.000Z"
+   "p": 51967.53,
+   "ch": 0.67,
+   "asof": "2026-10-15T14:47:38.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4180.7,
+   "p": 4180.8,
    "ch": 1.77,
-   "asof": "2026-10-15T13:43:45.000Z"
+   "asof": "2026-10-15T14:37:38.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 94.5,
-   "ch": 0.64,
-   "asof": "2026-10-15T13:43:47.000Z"
+   "p": 95.25,
+   "ch": 1.44,
+   "asof": "2026-10-15T14:37:36.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Bank of England's Breeden says cost-cutting by firms helping central bank",
+   "Ethiopia's central bank joins African payments system PAPSS",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTlRqOEp1TktZM3ZxOUZ4ZU9jUHJCX1JkRjJFS2Z6T0NwT00zSk8weGswQ3ZJWmVIdGxveko1ZUg0SU9kQ1Z6RXlMYUltaDZMSlRiRE9YeFlBbDVxRXlxOThrYTFsejg3ZEJjWkNLM3ZqaXpuMmZqTlo2aW4wUEdjS1pibTNEb0RQc09SNzNNQTRfUUVsUWFYMTNZRHN4T29EZFExX0RRUVgzcUhLeTl1T2xWWTA?oc=5"
+   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR1NrVGQxY3NKbldLQ2VIaS1Udm92UmJVbFJ2UE8zVnVwOVFoMl9rMEM4dFpzUVlVY3hkeG04RVJQdnBBZjRXYXpoVHhET01VZW5PQk11ZG5JajVXS19KZ202TjVfcHBpbElsbi1ydzR4WWJSZ25LVDhHOHBjR1Q5OE9Nc05heHJGdWlETWZob1lDY1Y4OUhodWdvMHdlZ0IyNUNOWGN0MVpxZ1E?oc=5"
   ],
   [
    "Forex",
@@ -358,23 +358,23 @@
   [
    "Crypto",
    "med",
-   "Current price of Ethereum for Oct. 15, 2026",
-   "Fortune",
-   "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BeGJFWkRzby1DY3ZVZ25wN1FxT3c3SXQxNUcxSnFWSTRFQTRfYVdmUWdhTEhkU0FObU5Wb1RMMDR5Z2xOSU9IOVVhdUxoNmpBZVg2WTVOamV2MmFOTGUxQzNsbXktM19x?oc=5"
+   "Why Is Crypto Down Today? Nearly $1 Billion in Leveraged Positions Just Got Wiped Out.",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQXhyWXJGU2QtYXJLdndXRHJ2cFdkNVZXRU9sZjRNR250RzNQOGNGRzhHeHdUTUxtRm9uZlpZNzA5eWN3QkxhZ0JITHhENzg0UllYRVZkWGNxYzA4Qk5pMVMxa0h3M1lJaDRhQ0VrSnRkVkN2RHdNazgzRDNPUWQzY3lTclRXZVc0Y0MwZElnc1gyMnk3bWFoMw?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Nasdaq futures fall 1% as AI rout deepens on debt concerns",
+   "Nasdaq slides to near one-month low as AI rout deepens",
    "Reuters",
    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZTRob0s4X3hCYkZQZzFfeUxuU1ZlN0tPT2hvelcwcW9QdU9yeVN1ZUZfR253ZUNoN3NjUlRHbG9aS0wzMmVGLUpNOVcyTUlHOWo3WERDX1psTXlmWGthb0JPN19GMGxnT2pkYkRWQ0R1THEyODhoWnZTd1NIQjdZbm5fLXNYb0M2c1g2YU02TENSSi1xSFZMQzRuUTc?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "S&P 500's march to 8,000 hinges on 'very, very strong' third quarter",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeDNuYWYyZHBTTUNybko0NWxLZGc4aEl4bTYyazY0aVNmQ1ZWZUFPYVZnOG9FMDcwTUlGdlptbUR6eHpTQ2hQamVCODlMNHRyYURUVV8zMndqaXJQWEZJREJHUGxraWF3WnAwTnB6eWtOTXpySnpaYUw1WEUtOFVxT0JJcG1LUDdUQUhXamYxN1NlWnB3UVRqX2YtUVdna3o5V3RnaXoxcUphRmlUT2c?oc=5"
+   "The Stock Market Is Facing 3 Huge Problems Right Now, and History Is Clear About What's Coming",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeTVqcUVjam5TdGZWSG5uNTRyUzVCQVNmWExBRG5MZGJ0YkVUVFhBek9UYzExTUFHSlM0a2RzVnNXd3JUSXZzcnJBMTU0ZEM3b2UwMmlGejYtMmxqbFY1T3VhZ0xfU2FISEZlakVhMWdKREV3ZHlyNnB6UG10c2JPZWFaVGtjMkVYOVNTc0Y2S191SVlmNkE?oc=5"
   ],
   [
    "Commodities",
@@ -386,9 +386,9 @@
   [
    "Commodities",
    "med",
-   "Ukraine to Resume Russian Oil Refinery Strikes After Failed Energy Ceasefire",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb05FVXZzdHNnWjV0WDZCeFYtYUJfS0tTb3RNYVpqVVhBRjdBaXFBUF9yRWpLSFBWYXplRUVDcVBZV1lKaUFsWVJNdHNCbGJzR3NiSFktdmxmZGhVMzBEWE5uTE5yZXBMVzJ2UnFnRWxSa2kwQldtLXRyYUFlRndPbjdXYWpSZUljM3Nzb2szSm1kRHlEaHlreVdsZFhYcks5bTJ4M1JfRnI4RFdiRmlOMXNkdHRkZ0lNdmYyS3lqODNkY3VuN3VROS05eG7SAdIBQVVfeXFMTTA4WGk0WEFKaUR6cUQxWnRjU09xRkxCX3Z5Mk83N0NQR2JBVEFvblNJTlVmVFZKYnNrRmRCcTJjdjJ6b3F5a0VSTzJ0NWduQW52RnRoeGpjcXZjdmI5cnU3NURqYlFXcFo4V3l1T19mbkN2bWVOeF8xc2FidDU3RDBNZzRvSlA2eHRQbDFoV0ZsQUM5VDYxdFVkSEpEemoydnNsU202Mk82NkpxVVlUZGdLNkQyaWFRNjhfUVI2ZmpzNS1uTVpDTEFTVlNMbnVEeVhB?oc=5"
+   "Brent oil slips as US weighs easing sanctions on Russia's 'shadow fleet'",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakIxN2pXRENBSjFMY1Rtc00zZG84UUVERE54NFBReWdoV2VJMHRpMFlZdzdSLXdzaEFOOEQwbFp5TG44Mk5wMFZyLVdPOTNpNG5nRlY5Q1lITWFlSjZ1RXdBMDdoRTQ1LTdrMy0zQVJlTThsUUJ2anBxWDNLWkpyV3lUbm5VMm5KMVJybkNpTVJuTGl6bTJia0t5UjE1UHNIclJFQUVRZ0FnektCZWxnSXNGc1VSdlhXM2RZ?oc=5"
   ]
  ]
 }
