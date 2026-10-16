@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T13:51:34.691Z",
+ "updated": "2026-10-16T14:48:09.995Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,105 +232,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1255,
-   "ch": 0.3,
-   "asof": "2026-10-16T13:50:28.000Z"
+   "p": 1.1257,
+   "ch": 0.32,
+   "asof": "2026-10-16T14:47:29.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3352,
-   "ch": 0.59,
-   "asof": "2026-10-16T13:50:28.000Z"
+   "p": 1.3358,
+   "ch": 0.63,
+   "asof": "2026-10-16T14:47:29.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.882,
-   "ch": -0.06,
-   "asof": "2026-10-16T13:51:01.000Z"
+   "p": 157.854,
+   "ch": -0.07,
+   "asof": "2026-10-16T14:48:10.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6955,
-   "ch": 0.45,
-   "asof": "2026-10-16T13:49:28.000Z"
+   "p": 0.6964,
+   "ch": 0.58,
+   "asof": "2026-10-16T14:47:29.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4152,
-   "ch": -0.23,
-   "asof": "2026-10-16T13:51:01.000Z"
+   "p": 1.4138,
+   "ch": -0.33,
+   "asof": "2026-10-16T14:48:09.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8231,
-   "ch": -0.39,
-   "asof": "2026-10-16T13:51:00.000Z"
+   "p": 0.8228,
+   "ch": -0.42,
+   "asof": "2026-10-16T14:48:09.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81613.42,
-   "ch": -0.63,
-   "asof": "2026-10-16T13:51:33.000Z"
+   "p": 82293.67,
+   "ch": 0.2,
+   "asof": "2026-10-16T14:48:07.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2447.09,
-   "ch": 0.3,
-   "asof": "2026-10-16T13:51:30.000Z"
+   "p": 2473.61,
+   "ch": 1.38,
+   "asof": "2026-10-16T14:48:05.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7740.8,
-   "ch": -0.04,
-   "asof": "2026-10-16T13:51:30.000Z"
+   "p": 7749.63,
+   "ch": 0.07,
+   "asof": "2026-10-16T14:48:09.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 26518.19,
-   "ch": -0.73,
-   "asof": "2026-10-16T13:51:25.000Z"
+   "p": 26603.803,
+   "ch": -0.41,
+   "asof": "2026-10-16T14:48:09.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52566.17,
-   "ch": 0.74,
-   "asof": "2026-10-16T13:51:27.000Z"
+   "p": 52364.91,
+   "ch": 0.36,
+   "asof": "2026-10-16T14:48:10.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4196.2,
-   "ch": 0.63,
-   "asof": "2026-10-16T13:41:01.000Z"
+   "p": 4212,
+   "ch": 1,
+   "asof": "2026-10-16T14:38:09.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 96.39,
-   "ch": -0.11,
-   "asof": "2026-10-16T13:41:01.000Z"
+   "p": 95.56,
+   "ch": -0.97,
+   "asof": "2026-10-16T14:38:08.000Z"
   },
   {
    "s": "USD/KES",
@@ -344,9 +344,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4352,
-   "ch": -0.36,
-   "asof": "2026-10-16T13:51:01.000Z"
+   "p": 16.4358,
+   "ch": -0.35,
+   "asof": "2026-10-16T14:48:10.000Z"
   },
   {
    "s": "USD/NGN",
@@ -360,49 +360,49 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 105.05,
-   "ch": -0.26,
-   "asof": "2026-10-16T13:51:32.000Z"
+   "p": 106.33,
+   "ch": 0.95,
+   "asof": "2026-10-16T14:48:08.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.329,
-   "ch": -0.31,
-   "asof": "2026-10-16T13:51:30.000Z"
+   "p": 1.3374,
+   "ch": 0.32,
+   "asof": "2026-10-16T14:48:06.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 343.88,
-   "ch": 0.55,
-   "asof": "2026-10-16T13:51:29.000Z"
+   "p": 345.12,
+   "ch": 0.91,
+   "asof": "2026-10-16T14:48:11.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 363.69,
-   "ch": 0.34,
-   "asof": "2026-10-16T13:51:30.000Z"
+   "p": 364.79,
+   "ch": 0.65,
+   "asof": "2026-10-16T14:48:11.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 215.515,
-   "ch": -0.79,
-   "asof": "2026-10-16T13:51:30.000Z"
+   "p": 218.41,
+   "ch": 0.54,
+   "asof": "2026-10-16T14:48:09.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.765,
-   "ch": 1.07,
-   "asof": "2026-10-16T13:40:53.000Z"
+   "p": 57.915,
+   "ch": 1.33,
+   "asof": "2026-10-16T14:38:06.000Z"
   }
  ],
  "news": [
@@ -429,10 +429,10 @@
   ],
   [
    "Crypto",
-   "high",
-   "Bitcoin and ethereum prices today, Friday, October 16, 2026: Bitcoin, ethereum prices firm despite two strong inflation reports",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMipAJBVV95cUxOcExnQXgyOEJNcmFfYmw2djFSbGhyMWJKdXlnYzJ2RUliU3U1ZlVpdUQ0MWx4MzZ6QUhDOHlyelJGOEZxbGU0bFVIQmZocTNselllRzJCeFBXNlZocWI2eXFVaHlfZi0wclA4WGt0blJ0MlRkeVBJMlczVldLLXJGVXRTT1N1TkhNOW5UMGFmZFFWTG5McVZkdXc1a0Vjb3BHakpibVVWazdrSGdWekQ3MEVyUEl5blRIeFFIY3pHVkt6TW1FNG1PZHU1V0tUczIzT2w0a0lDREt1enhHVnZFMy10YUFzaEZmNDFHRlR6dDNYNThzd2ZkaGo3SG9taTN2OHlUbzdoOWwyUVZrV3pBckVwSFFJLTFFZmVIWHJmYmtod01Z?oc=5"
+   "med",
+   "Deutsche Bank prepares crypto custody launch, targets Asia growth",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWnpsZnAzT2VQZWFCcGkyLXVQVDNxelp4bmVZczcwSzlJUjhIUnZ2MzVGa2VVd1JQczIzYXIxT0lIVW8tZTJxdW5jR2xaLUU5QjBiSDl4a01oaE5qeTBEUnNUMEdabUZiTDRRQjFaWnlJRHYwT1VLZTV6SmNYSERRYkwtbV9KSkQybkdaQkJSOF80d2hYRFBGWEhJcE1TT1lQUDBKTTlBbHlyeTVIS0ZtTDg0Y1JONUF3?oc=5"
   ],
   [
    "Stocks",
@@ -458,9 +458,9 @@
   [
    "Commodities",
    "med",
-   "WTI Outpaces Brent as U.S. Crude Draw Ignites Fresh Buying",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUWJwTVY4OXFvOEthai1sbzhKanQ4SGR1dGFLMTRLQjRPR3BIV0lMVEpwb2pxd0VWVmtZWHRRYVVINWk0MDRmbG5EQ0NXaTNRMFF2bXZya1EtNUhXTmxJdFdJd0Rra3FoOUFOZ2RjODFHcTdZUzF4YjJpUGJQNzhmWENDTE40anRrS0NqNUZZTUdONm8zZldvT3VnNDBvOXJNOFlDa0JCMNIBrAFBVV95cUxPbXZYNms5REZOcWlEZENnQnhKSHpIdTJLVU81UWlTMWMtd1p5WmZnX2pyMGJWN2loSV9VVklXMnJZanY4MEpRTzhwNFJaSDQyVllXWmJPY1dpSDZfeWs2dEFLS3ZvNHFYSWtGS3ZfajhnWjI4X29YdkFLclBPSmlIZklKdTN5eVh0cExFM3BQVzlKelU5VU1wY2ZkdzlMZGNrMThrQS05R0xGMUtJ?oc=5"
+   "BC-Crude Oil Futures",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMkNVTFpreEx0NEhqc05HU2p1M0puZDJZQVoyRDBJVzVNR3Eyc25EWTRkN2NSS0owX3AxMmJGY3NEQmNSenlfaWhJSFE5MFdwMVI5QnU3UGcwS2hBaDYzd2VBdHlqc2p6dU0wMUZ4WmtPR2FiZkd2LVIyNTdCTnVoU1ZVcmdNR2U2dnAzR19JUVlMVE5O?oc=5"
   ]
  ]
 }
