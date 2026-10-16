@@ -1179,6 +1179,19 @@ function journalExtras(){const el=$("#v-journal");if(!el)return;el.querySelector
     :`<div class="invite" style="border-style:solid"><b>${LANG==="sw"?"Jiunge na orodha":"Join the leaderboard"}</b><div class="lnk"><input id="lbname" maxlength="24" placeholder="${LANG==="sw"?"Jina la kuonyesha":"Display name"}" value="${esc((me.user_metadata?.name||"").split(" ")[0])}"><button class="ghost" data-lbjoin>${LANG==="sw"?"Jiunge":"Join"}</button></div><span class="hint" style="margin:0">${LANG==="sw"?"Jina lako la kuonyesha na kiwango cha ushindi pekee ndivyo vinaonekana.":"Only your display name and win rate are shown, never your trades or profit."}</span></div>`;
   h+=`</div>`;el.insertAdjacentHTML("beforeend",h)}
 
+// VISIT COUNTER: one anonymous count per app open. A random id on this device tells repeat visitors apart;
+// ?src=whatsapp (etc.) on a link records which advert someone came from. Only the site owner sees totals.
+function trackVisit(){try{
+  if(sessionStorage.getItem("nt-counted"))return;sessionStorage.setItem("nt-counted","1");
+  let vid=store.get("nt-vid",null);
+  if(!vid){vid="v"+(crypto.randomUUID?crypto.randomUUID().replace(/-/g,""):Math.random().toString(36).slice(2)+Date.now().toString(36)).slice(0,24);store.set("nt-vid",vid)}
+  const q=new URLSearchParams(location.search);
+  let src=q.get("src")||q.get("utm_source")||(q.get("ref")?"invite":"");
+  if(!src&&document.referrer){try{const h=new URL(document.referrer).hostname.replace(/^www\.|^m\.|^l\./,"");if(!h.endsWith("github.io"))src=h}catch(_){}}
+  src=(src||"").toLowerCase().replace(/[^a-z0-9._-]/g,"").slice(0,40)||null;
+  const app=matchMedia("(display-mode: standalone)").matches||navigator.standalone===true||IN_APP;
+  sb.from("visits").insert({visitor:vid,source:src,app,lang:LANG}).then(()=>{},()=>{})}catch(_){}}
+
 // TRADE JOURNAL (Supabase table "journal", each user sees only their own rows)
 let jrows=null, jstate="idle", jerr="";
 async function loadJournal(){if(!sb||!me||jstate==="loading")return;jstate="loading";journal();
@@ -1232,7 +1245,7 @@ async function initAuth(){
   if(sb)return;
   sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY);
   const {data}=await sb.auth.getSession();me=data.session?.user||null;acctLabel();if(me)pullPrefs();
-  render();loadCounts();
+  render();loadCounts();trackVisit();
   sb.auth.onAuthStateChange((ev,s)=>{const was=me;me=s?.user||null;acctLabel();if(view==="chat"){chatShell();renderChat()}if(me&&!was)pullPrefs();if(!me&&was){jrows=null;jstate="idle";sub=null;premium=false;subLoaded=false;render()}});
 }
 $("#acctbtn").addEventListener("click",()=>{if(me){$("#meh").textContent="Hi "+(me.user_metadata?.name||"there");$("#meemail").textContent="Signed in as "+me.email;$("#emailopt").checked=!!me.user_metadata?.emailAlerts;$("#emailmsg").textContent="";planBox();inviteBox();loadSub();$("#mesheet").hidden=false}else{setMode("in");$("#authsheet").hidden=false;$("#aemail").focus()}});
