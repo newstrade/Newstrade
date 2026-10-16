@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T00:54:27.462Z",
+ "updated": "2026-10-16T01:43:04.983Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,9 +232,9 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1216,
-   "ch": -0.04,
-   "asof": "2026-10-16T00:53:27.000Z"
+   "p": 1.1213,
+   "ch": -0.07,
+   "asof": "2026-10-16T01:42:28.000Z"
   },
   {
    "s": "GBP/USD",
@@ -242,55 +242,55 @@
    "d": 4,
    "p": 1.3272,
    "ch": -0.02,
-   "asof": "2026-10-16T00:53:27.000Z"
+   "asof": "2026-10-16T01:42:28.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.145,
-   "ch": 0.11,
-   "asof": "2026-10-16T00:54:27.000Z"
+   "p": 158.122,
+   "ch": 0.09,
+   "asof": "2026-10-16T01:43:03.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6924,
-   "ch": 0,
-   "asof": "2026-10-16T00:53:27.000Z"
+   "p": 0.6928,
+   "ch": 0.06,
+   "asof": "2026-10-16T01:41:28.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4197,
-   "ch": 0.08,
-   "asof": "2026-10-16T00:54:26.000Z"
+   "p": 1.4192,
+   "ch": 0.05,
+   "asof": "2026-10-16T01:43:04.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.828,
-   "ch": 0.21,
-   "asof": "2026-10-16T00:54:26.000Z"
+   "p": 0.8279,
+   "ch": 0.19,
+   "asof": "2026-10-16T01:43:05.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82172.63,
-   "ch": 0.05,
-   "asof": "2026-10-16T00:54:26.000Z"
+   "p": 82114.07,
+   "ch": -0.02,
+   "asof": "2026-10-16T01:43:00.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2436.06,
-   "ch": -0.16,
-   "asof": "2026-10-16T00:54:23.000Z"
+   "p": 2431.98,
+   "ch": -0.32,
+   "asof": "2026-10-16T01:43:01.000Z"
   },
   {
    "s": "S&P 500",
@@ -320,17 +320,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4174.9,
-   "ch": 0.12,
-   "asof": "2026-10-16T00:44:13.000Z"
+   "p": 4169.5,
+   "ch": -0.01,
+   "asof": "2026-10-16T01:33:04.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 95.98,
-   "ch": -0.54,
-   "asof": "2026-10-16T00:44:12.000Z"
+   "p": 96.03,
+   "ch": -0.49,
+   "asof": "2026-10-16T01:33:03.000Z"
   },
   {
    "s": "USD/KES",
@@ -338,15 +338,15 @@
    "d": 2,
    "p": 129.71,
    "ch": 0,
-   "asof": "2026-10-16T00:50:22.000Z"
+   "asof": "2026-10-16T01:32:02.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5062,
-   "ch": 0.08,
-   "asof": "2026-10-16T00:54:28.000Z"
+   "p": 16.509,
+   "ch": 0.09,
+   "asof": "2026-10-16T01:43:06.000Z"
   },
   {
    "s": "USD/NGN",
@@ -354,23 +354,23 @@
    "d": 2,
    "p": 1326.43,
    "ch": 0,
-   "asof": "2026-10-16T00:50:22.000Z"
+   "asof": "2026-10-16T01:32:02.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 105.26,
-   "ch": -0.07,
-   "asof": "2026-10-16T00:54:26.000Z"
+   "p": 105.09,
+   "ch": -0.23,
+   "asof": "2026-10-16T01:43:02.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3339,
-   "ch": 0.05,
-   "asof": "2026-10-16T00:54:24.000Z"
+   "p": 1.3318,
+   "ch": -0.1,
+   "asof": "2026-10-16T01:43:02.000Z"
   },
   {
    "s": "Apple",
@@ -400,25 +400,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.33,
-   "ch": 0.3,
-   "asof": "2026-10-16T00:43:45.000Z"
+   "p": 57.285,
+   "ch": 0.23,
+   "asof": "2026-10-16T01:33:02.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Ethiopia's central bank joins African payments system PAPSS",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR1NrVGQxY3NKbldLQ2VIaS1Udm92UmJVbFJ2UE8zVnVwOVFoMl9rMEM4dFpzUVlVY3hkeG04RVJQdnBBZjRXYXpoVHhET01VZW5PQk11ZG5JajVXS19KZ202TjVfcHBpbElsbi1ydzR4WWJSZ25LVDhHOHBjR1Q5OE9Nc05heHJGdWlETWZob1lDY1Y4OUhodWdvMHdlZ0IyNUNOWGN0MVpxZ1E?oc=5"
+   "Seeking Less Harmful Alternatives to Central Bank Rate Rises",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHMtWDVXRkxJblRXWElJd2dNS25VZE9SS0g4X0FUN3FOSlB3RmRyTlQ2ZWJoYjFRWThRb3BGU2x0Z3BzV25ZTG05c3A3bVZ3UUxpdzk0dVQwQm5DWFl0UWtFdktVY3RnTkExUnBCbnZONHE1TFF1bC1qUkxqeEx6Q1Iwa1VBb0xOemo2S3NrVlh3TFFER0EzYm1Wb3dmNlNaNHIzVUc3ZTlyODZwd1RuUE5Kbw?oc=5"
   ],
   [
    "Forex",
    "med",
-   "Sterling Infrastructure (STRL) Stock Dips While Market Gains: Key Facts",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMipwFBVV95cUxPczBVNXVTdnRVU3JnYVVpNldVd1QwS3dLZXhnZ1Q5V0dpTVI3czFfcVB0RVZDUVhKSWdlTWFuVXctczZ5WkRKLWlyaUQ5YmVDR1hPNHdLdlFyQ01xS1V1RThDYTZfenNNSlM3ZVJROEhZXzl6eDVfMmp0QlE1c1hLRm91MXdwNnRjLUJfM2JOOHZNMmFEVEJUUzM4dWpUcVZSdkJwQzY3SQ?oc=5"
+   "Can Zimbabwe’s ZiG win trust and replace the US dollar?",
+   "Al Jazeera",
+   "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbU5zSWNiak5uU2Z2eGcxQzk5V0hJSGVHdmRBVnMyeDNDMUxRVW1ISXhqMEV0Wk1wWnZzY2JDdEJDOXFRTkh3dGh2LXB2eTBsMlMyazU4dDU3cUEydExVb1NFVVM1LWpCUnJfY3RwVWllVHU5RDhJaDB4VFdyMXAyZkJDZUNyR3k1b1hKWWpCek9kUHpxLXZlVFdoYm56LTDSAaQBQVVfeXFMTUNTNmZnTFo0Skk1V1BSTjEzSXVjbzZvek9KVWFkamFGYnlBbmc1Ui1FUzN6QmFMSHVfNk8xSFlrUUJrLWRQZzNkYmstLXdhNE02aHMyTVRQd1ZnMVRhdl9FSmRrZk41YklNOXd6NEVMSGc2cmV4WHdLV21RU3R0X2tJTUNKMENLMUV4MzVHN25pb0lJWlhGaFdhNXNKWmFPcm5JdHI?oc=5"
   ],
   [
    "Crypto",
