@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T20:45:55.682Z",
+ "updated": "2026-10-16T21:43:51.168Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,9 +232,9 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1242,
-   "ch": 0.19,
-   "asof": "2026-10-16T20:45:26.000Z"
+   "p": 1.1244,
+   "ch": 0.2,
+   "asof": "2026-10-16T21:29:27.000Z"
   },
   {
    "s": "GBP/USD",
@@ -242,55 +242,55 @@
    "d": 4,
    "p": 1.3329,
    "ch": 0.41,
-   "asof": "2026-10-16T20:45:26.000Z"
+   "asof": "2026-10-16T21:29:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.988,
+   "p": 157.987,
    "ch": 0.01,
-   "asof": "2026-10-16T20:45:55.000Z"
+   "asof": "2026-10-16T20:59:55.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6948,
-   "ch": 0.35,
-   "asof": "2026-10-16T20:45:26.000Z"
+   "p": 0.6949,
+   "ch": 0.36,
+   "asof": "2026-10-16T21:29:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4136,
-   "ch": -0.35,
-   "asof": "2026-10-16T20:45:55.000Z"
+   "p": 1.4137,
+   "ch": -0.34,
+   "asof": "2026-10-16T21:01:16.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8237,
-   "ch": -0.31,
-   "asof": "2026-10-16T20:45:54.000Z"
+   "p": 0.8236,
+   "ch": -0.33,
+   "asof": "2026-10-16T20:59:55.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81551.88,
-   "ch": -0.71,
-   "asof": "2026-10-16T20:45:54.000Z"
+   "p": 81608.78,
+   "ch": -0.64,
+   "asof": "2026-10-16T21:43:46.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2409.31,
-   "ch": -1.25,
-   "asof": "2026-10-16T20:45:51.000Z"
+   "p": 2414.25,
+   "ch": -1.05,
+   "asof": "2026-10-16T21:43:43.000Z"
   },
   {
    "s": "S&P 500",
@@ -306,7 +306,7 @@
    "d": 2,
    "p": 26140.033,
    "ch": -2.14,
-   "asof": "2026-10-16T20:45:55.000Z"
+   "asof": "2026-10-16T21:15:59.000Z"
   },
   {
    "s": "Dow Jones",
@@ -320,17 +320,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4188.6,
-   "ch": 0.44,
-   "asof": "2026-10-16T20:35:42.000Z"
+   "p": 4186.7,
+   "ch": 0.4,
+   "asof": "2026-10-16T20:59:59.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 98.96,
-   "ch": 2.55,
-   "asof": "2026-10-16T20:35:49.000Z"
+   "p": 99.04,
+   "ch": 2.63,
+   "asof": "2026-10-16T20:59:58.000Z"
   },
   {
    "s": "USD/KES",
@@ -338,15 +338,15 @@
    "d": 2,
    "p": 129.65,
    "ch": -0.05,
-   "asof": "2026-10-16T20:35:40.000Z"
+   "asof": "2026-10-16T21:00:38.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4684,
-   "ch": -0.15,
-   "asof": "2026-10-16T20:45:56.000Z"
+   "p": 16.4751,
+   "ch": -0.11,
+   "asof": "2026-10-16T21:01:16.000Z"
   },
   {
    "s": "USD/NGN",
@@ -354,23 +354,23 @@
    "d": 2,
    "p": 1330.13,
    "ch": 0.28,
-   "asof": "2026-10-16T20:35:40.000Z"
+   "asof": "2026-10-16T21:00:38.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 103.61,
-   "ch": -1.63,
-   "asof": "2026-10-16T20:45:50.000Z"
+   "p": 104.18,
+   "ch": -1.09,
+   "asof": "2026-10-16T21:43:47.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3021,
-   "ch": -2.33,
-   "asof": "2026-10-16T20:45:52.000Z"
+   "p": 1.3056,
+   "ch": -2.07,
+   "asof": "2026-10-16T21:43:50.000Z"
   },
   {
    "s": "Apple",
@@ -400,9 +400,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.165,
-   "ch": 0.02,
-   "asof": "2026-10-16T20:35:51.000Z"
+   "p": 57.135,
+   "ch": -0.04,
+   "asof": "2026-10-16T20:59:57.000Z"
   }
  ],
  "news": [
@@ -416,9 +416,9 @@
   [
    "Forex",
    "med",
-   "Amazon pulled a $4 ‘sterling silver’ ring that was 92% cancer-causing cadmium. A jewelry expert warns it's back",
-   "Fortune",
-   "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLURpbFRYUjRaMDR2bTJ2RTB2NEg5aGxubDRLck5wUkhYN2p0THlDUVc2NzRobElPZ2p5cG5WQTZOVjA0SUY5Q0ZOejZBSnJ1clNfbHVVQ2taeVUtTGlScW1HbU5CNTFVM0F2WldZU3R6c1dHeldZZ0EtNGJXcG0yMGwwVnVRTjNvMG5V?oc=5"
+   "Kenya in talks for fresh multilateral financing, central bank chief says",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTXBUUnh2NTFhV1JWUFMxcTRKM0hPSEJVQ3RHZFc4RVpIckNlaEt4WmpnMHpMcEtnUjh3R3FCVG5XSmZxQ1dMc1MxUk4tRlZpVnp2dDlNd3R2NDBvNndITEJ6TXJsMFRVU3cyU09SQ0xUeTFYcVNSWlUyLU9ScmlIOGdiRVpCZUdqVjV2NzhUMlZOeFdlTHdCbjhVTGZOUW94TE4xam03ZVZ3QTU1QVNjWWFSMA?oc=5"
   ],
   [
    "Crypto",
@@ -444,7 +444,7 @@
   [
    "Stocks",
    "med",
-   "Nasdaq sinks more than 2% as investors raise questions about AI debt | CNN Business",
+   "Nasdaq sinks more than 2% as investors raise questions about AI debt",
    "CNN",
    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLaXBzTHdSMHNvM2RaR1A4d29PXy1NVHJKY1FoOTlTWHFsbFZmOHZsLW9wMW44QzRwT3E1QXkxQXg5bUhRVzV3OE5OS0RlUjllVklOY0xKSVNuTFdLVzJ2eE8wdVpRSlZYeHZLcUw3OERFLTQ?oc=5"
   ],
