@@ -313,6 +313,11 @@ header{background:color-mix(in srgb,var(--bg) 72%,transparent);-webkit-backdrop-
 .livehint{display:flex;gap:8px;align-items:center;justify-content:space-between;border:1px solid var(--line);border-radius:12px;padding:10px 12px;margin-bottom:12px;font-size:13px;background:var(--surface)}
 .livehint button{font:700 12px var(--body);border:0;border-radius:999px;padding:6px 12px;cursor:pointer;color:#fff;background:linear-gradient(90deg,var(--accent),var(--med));white-space:nowrap}
 .pro{font:800 10px var(--body);letter-spacing:.05em;padding:1px 6px;border-radius:999px;color:#fff;background:linear-gradient(90deg,var(--accent),var(--med));margin-left:4px;vertical-align:1px}
+.ownername{background:linear-gradient(100deg,#b8860b 0%,#ffd76a 35%,#fff4c2 50%,#ffd76a 65%,#b8860b 100%);background-size:220% 100%;-webkit-background-clip:text;background-clip:text;color:transparent!important;animation:goldshine 3.2s linear infinite;font-weight:800}
+.ownerbadge{font:800 10px var(--body);letter-spacing:.07em;padding:2px 7px;border-radius:999px;margin-left:5px;vertical-align:1px;color:#3b2a00;
+  background:linear-gradient(100deg,#c9971c 0%,#ffe08a 40%,#fff6cf 50%,#ffe08a 60%,#c9971c 100%);background-size:220% 100%;animation:goldshine 3.2s linear infinite;box-shadow:0 0 0 1px rgba(201,151,28,.5),0 0 10px rgba(255,208,80,.35);-webkit-text-fill-color:#3b2a00}
+.bub.me .ownerbadge{box-shadow:0 0 0 1px rgba(255,255,255,.6)}
+@keyframes goldshine{0%{background-position:120% 0}100%{background-position:-120% 0}}
 .daysep{align-self:center;font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
 .promo .go{margin-left:auto;font:700 13px var(--body);color:var(--accent);white-space:nowrap}
 /* Motion */
@@ -917,7 +922,7 @@ async function loadComments(){const el=$("#clist");
   if(!curEv||curEv.id!==id)return;
   if(error){el.innerHTML=`<div class="empty">${/relation|schema cache|does not exist/i.test(error.message)?"Discussion isn't switched on yet.":"Couldn't load comments."}</div>`;return}
   cRows=data;ccount[id]=data.length;renderComments()}
-function renderComments(){const rows=cRows.filter(visible);$("#clist").innerHTML=rows.length?rows.map(c=>`<div class="cmt"><div class="who"><b>${esc(cleanText(c.name||"Trader"))}${c.pro?`<span class="pro">★ PRO</span>`:""}</b><span>${agoT(c.created_at)}</span>${me&&c.user_id===me.id?`<button class="jdel" data-cdel="${esc(c.id)}">Delete</button>`:modBtns(c)}</div><p>${esc(cleanText(c.body))}</p></div>`).join(""):`<div class="empty">No comments yet. Be the first to share your view.</div>`}
+function renderComments(){const rows=cRows.filter(visible);$("#clist").innerHTML=rows.length?rows.map(c=>`<div class="cmt"><div class="who"><b class="${c.owner?"ownername":""}">${esc(cleanText(c.name||"Trader"))}${badge(c)}</b><span>${agoT(c.created_at)}</span>${me&&c.user_id===me.id?`<button class="jdel" data-cdel="${esc(c.id)}">Delete</button>`:modBtns(c)}</div><p>${esc(cleanText(c.body))}</p></div>`).join(""):`<div class="empty">No comments yet. Be the first to share your view.</div>`}
 $("#evclose").addEventListener("click",()=>{$("#evsheet").hidden=true;curEv=null;calendar();markets()});
 $("#evbell").addEventListener("click",()=>{
   if(curEv.kind==="mk"){const s=curEv.sym;watch.has(s)?watch.delete(s):watch.add(s);store.set("nt-watch",[...watch]);pushPrefs()}
@@ -1162,6 +1167,9 @@ async function pxAlertBox(sym){const el=$("#pxalert");if(!sb||!me||!premium){el.
       <button class="primary" data-pxadd>${t("Add alert")}</button>
       ${pushOn?"":`<p class="hint" style="margin:0">${LANG==="sw"?"Washa arifa kwenye Mipangilio (⚙) ili kuzipokea.":"Turn on notifications in Settings (⚙) to receive them."}</p>`}</div>`}
 
+// Name badges: gold OWNER for the site owner (set by the database), ★ PRO for Premium members.
+const badge=c=>c.owner?`<span class="ownerbadge">👑 OWNER</span>`:c.pro?`<span class="pro">★ PRO</span>`:"";
+
 // CHAT ROOMS (same "comments" table, thread keys chat_general, chat_forex, …; live via Supabase Realtime, polling as backup)
 const ROOMS=[["general","General"],["vip","★ VIP"],["forex","Forex"],["crypto","Crypto"],["stocks","Stocks"],["commodities","Commodities"]];
 let room=store.get("nt-room","general"),chatRows=[],chatChan=null,chatLive=false,chatTimer=null,chatReady=false;
@@ -1185,7 +1193,7 @@ function renderChat(toBottom){
   if(!chatRows.length){el.innerHTML=`<div class="empty">No messages in ${esc(ROOMS.find(r=>r[0]===room)[1])} yet. Start the conversation!</div>`;return}
   for(const c of chatRows.filter(visible)){const d=fmtD(new Date(c.created_at));if(d!==day){html+=`<div class="daysep">${esc(d)}</div>`;day=d}
     const mine=me&&c.user_id===me.id;
-    html+=`<div class="bub${mine?" me":""}"><div class="who"><b>${esc(mine?t("You"):cleanText(c.name||"Trader"))}${c.pro?`<span class="pro">★ PRO</span>`:""}</b><span>${esc(fmtT(new Date(c.created_at)))}</span>${mine?`<button class="jdel" data-chdel="${esc(c.id)}">Delete</button>`:modBtns(c)}</div><p>${esc(cleanText(c.body))}</p></div>`}
+    html+=`<div class="bub${mine?" me":""}"><div class="who"><b class="${c.owner?"ownername":""}">${esc(mine?t("You"):cleanText(c.name||"Trader"))}${badge(c)}</b><span>${esc(fmtT(new Date(c.created_at)))}</span>${mine?`<button class="jdel" data-chdel="${esc(c.id)}">Delete</button>`:modBtns(c)}</div><p>${esc(cleanText(c.body))}</p></div>`}
   el.innerHTML=html;
   if(toBottom)requestAnimationFrame(()=>scrollTo({top:document.body.scrollHeight,behavior:"smooth"}))}
 async function loadChat(toBottom){if(!sb){renderChat();return}
