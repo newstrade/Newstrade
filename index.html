@@ -296,6 +296,10 @@ header{background:color-mix(in srgb,var(--bg) 72%,transparent);-webkit-backdrop-
 .social .on i{width:8px;height:8px;border-radius:50%;background:var(--up);position:relative}
 .social .on i::after{content:"";position:absolute;inset:0;border-radius:50%;background:var(--up);animation:livepulse 1.8s ease-out infinite}
 @keyframes livepulse{0%{transform:scale(1);opacity:.7}100%{transform:scale(3);opacity:0}}
+.live{margin:0;font-size:12px;color:var(--muted);display:flex;align-items:center;gap:6px}
+.live i{width:7px;height:7px;border-radius:50%;background:var(--up);flex:none;animation:livepulse2 1.6s ease-out infinite}
+.live.old i{background:var(--med);animation:none}
+@keyframes livepulse2{0%{box-shadow:0 0 0 0 color-mix(in srgb,var(--up) 60%,transparent)}100%{box-shadow:0 0 0 7px transparent}}
 .daysep{align-self:center;font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
 .promo .go{margin-left:auto;font:700 13px var(--body);color:var(--accent);white-space:nowrap}
 /* Motion */
@@ -357,6 +361,7 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
         <div class="row2"><label>Amount<input id="cv-amt" type="number" inputmode="decimal" value="100"></label><label>From<select id="cv-from" class="short"></select></label></div>
         <div class="row2"><button type="button" class="ghost" id="cv-swap" aria-label="Swap currencies">⇅ Swap</button><label>To<select id="cv-to" class="short"></select></label></div>
         <div class="result" id="cv-out"></div>
+        <p class="live" id="cv-live"></p>
       </div>
       <h2 class="sub" style="margin-top:18px">Calculators</h2>
       <details class="tool" open><summary>Position size</summary>
@@ -955,7 +960,25 @@ function sessionsView(){
   $("#sessnote").textContent=wk?"Forex reopens Sunday 17:00 New York time. Crypto trades all weekend."
     :(openN>=2?`${openN} sessions open now. `:"")+(ovB>ovA?`Busiest time: London–New York overlap, ${ovA.toLocaleTimeString([], {hour:"2-digit",minute:"2-digit",hour12:false,timeZone:uz})}–${ovB.toLocaleTimeString([], {hour:"2-digit",minute:"2-digit",hour12:false,timeZone:uz})} your time.`:"")+" Times are in "+city(uz)+" time."}
 // Currency converter: value of 1 unit in US dollars, from the hourly prices
-function usdValues(){const v={USD:1},px=s=>instruments.find(i=>i.s===s)?.p;
+// LIVE RATES for the converter and calculators: Coinbase's public rates (about every minute), checked every 30 s
+// while the Tools tab is open. Falls back to NewsTrade's hourly prices if the live source can't be reached.
+let liveRates=null,liveAt=0,liveTimer=null,liveTick=null,liveBusy=false;
+async function fetchLive(){if(liveBusy)return;liveBusy=true;
+  try{const r=await fetch("https://api.coinbase.com/v2/exchange-rates?currency=USD",{cache:"no-store"});
+    if(r.ok){const j=await r.json(),rt=j?.data?.rates||{},v={USD:1};
+      for(const c of Object.keys(CURNAME)){const x=parseFloat(rt[c]);if(x>0)v[c]=1/x}
+      if(Object.keys(v).length>5){const changed=JSON.stringify(v)!==JSON.stringify(liveRates);liveRates=v;liveAt=Date.now();if(changed&&view==="tools"){converter();calcs()}}}}
+  catch(_){}finally{liveBusy=false;liveLabel()}}
+function liveLabel(){const el=$("#cv-live");if(!el)return;const sw=LANG==="sw";
+  if(liveRates&&Date.now()-liveAt<5*60e3){const sec=Math.max(0,Math.round((Date.now()-liveAt)/1000));
+    el.className="live";el.innerHTML=`<i aria-hidden="true"></i>${sw?"Bei za moja kwa moja":"Live rates"} · ${sw?"zimesasishwa":"updated"} ${sec<5?(sw?"sasa hivi":"just now"):sec+(sw?" sek zilizopita":"s ago")}`}
+  else{el.className="live old";el.innerHTML=`<i aria-hidden="true"></i>${sw?"Bei za NewsTrade za kila saa":"Using NewsTrade's hourly prices"} · ${esc(fmtDT(UPDATED_AT))}`}}
+function startLive(){fetchLive();clearInterval(liveTimer);clearInterval(liveTick);
+  liveTimer=setInterval(()=>{if(view==="tools"&&!document.hidden)fetchLive()},30000);
+  liveTick=setInterval(()=>{if(view==="tools")liveLabel()},1000)}
+document.addEventListener("visibilitychange",()=>{if(!document.hidden&&view==="tools")fetchLive()});
+function usdValues(){if(liveRates&&Date.now()-liveAt<10*60e3)return liveRates;
+  const v={USD:1},px=s=>instruments.find(i=>i.s===s)?.p;
   for(const [pair,cur] of [["EUR/USD","EUR"],["GBP/USD","GBP"],["AUD/USD","AUD"]]){const p=px(pair);if(p)v[cur]=p}
   for(const [pair,cur] of [["USD/JPY","JPY"],["USD/CAD","CAD"],["USD/CHF","CHF"],["USD/KES","KES"],["USD/ZAR","ZAR"],["USD/NGN","NGN"]]){const p=px(pair);if(p)v[cur]=1/p}
   for(const [n,cur] of [["Bitcoin","BTC"],["Ethereum","ETH"]]){const p=px(n);if(p)v[cur]=p}
@@ -969,7 +992,8 @@ function converter(){const v=usdValues(),a=val("#cv-amt"),f=$("#cv-from").value,
   $("#cv-out").innerHTML=`<div>${num(a,2)} ${f} =<b>${num(out,dp(out))} ${t2}</b></div><div>Rate<b>1 ${f} = ${num(r,dp(r))} ${t2}</b></div>`}
 // Forex helpers (USD account, 100,000-unit lots)
 const pipSize=pair=>/JPY/.test(pair)?0.01:0.0001;
-function pipValueUSD(pair,lots){const p=instruments.find(i=>i.s===pair)?.p;if(!p)return NaN;
+function pairPrice(pair){const v=usdValues(),[b,q]=pair.split("/");if(v[b]&&v[q])return v[b]/v[q];return instruments.find(i=>i.s===pair)?.p}
+function pipValueUSD(pair,lots){const p=pairPrice(pair);if(!p)return NaN;
   const units=100000*lots,ps=pipSize(pair);return pair.endsWith("/USD")?ps*units:pair.startsWith("USD/")?ps*units/p:NaN}
 function calcs(){
   const bal=val("#ps-bal"),risk=val("#ps-risk"),sl=val("#ps-sl"),pair=$("#ps-pair").value,risk$=bal*risk/100,pv1=pipValueUSD(pair,1),lots=risk$/(sl*pv1);
@@ -994,7 +1018,7 @@ function tools(){
     $("#cv-swap").addEventListener("click",()=>{const a=$("#cv-from").value;$("#cv-from").value=$("#cv-to").value;$("#cv-to").value=a;converter()});
   }
   sessionsView();converter();calcs();
-  clearInterval(sessTimer);sessTimer=setInterval(()=>{if(view==="tools"&&!document.hidden)sessionsView()},30000)}
+  clearInterval(sessTimer);sessTimer=setInterval(()=>{if(view==="tools"&&!document.hidden)sessionsView()},30000);startLive()}
 
 // DAILY BRIEFING: today's key events, the biggest mover and the top headline
 function briefing(){
