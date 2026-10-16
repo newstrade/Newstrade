@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T22:43:57.982Z",
+ "updated": "2026-10-16T23:38:23.779Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -240,9 +240,9 @@
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3329,
-   "ch": 0.41,
-   "asof": "2026-10-16T21:29:27.000Z"
+   "p": 1.333,
+   "ch": 0.42,
+   "asof": "2026-10-16T23:15:29.000Z"
   },
   {
    "s": "USD/JPY",
@@ -280,17 +280,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81658.17,
-   "ch": -0.58,
-   "asof": "2026-10-16T22:43:53.000Z"
+   "p": 81541.2,
+   "ch": -0.72,
+   "asof": "2026-10-16T23:38:20.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2422.49,
-   "ch": -0.71,
-   "asof": "2026-10-16T22:43:55.000Z"
+   "p": 2420.44,
+   "ch": -0.8,
+   "asof": "2026-10-16T23:38:15.000Z"
   },
   {
    "s": "S&P 500",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.31,
-   "ch": -0.97,
-   "asof": "2026-10-16T22:43:49.000Z"
+   "p": 104.2,
+   "ch": -1.07,
+   "asof": "2026-10-16T23:38:10.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3085,
-   "ch": -1.85,
-   "asof": "2026-10-16T22:43:53.000Z"
+   "p": 1.3096,
+   "ch": -1.77,
+   "asof": "2026-10-16T23:38:12.000Z"
   },
   {
    "s": "Apple",
@@ -416,16 +416,9 @@
   [
    "Forex",
    "med",
-   "Kenya in talks for fresh multilateral financing, central bank chief says",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTXBUUnh2NTFhV1JWUFMxcTRKM0hPSEJVQ3RHZFc4RVpIckNlaEt4WmpnMHpMcEtnUjh3R3FCVG5XSmZxQ1dMc1MxUk4tRlZpVnp2dDlNd3R2NDBvNndITEJ6TXJsMFRVU3cyU09SQ0xUeTFYcVNSWlUyLU9ScmlIOGdiRVpCZUdqVjV2NzhUMlZOeFdlTHdCbjhVTGZOUW94TE4xam03ZVZ3QTU1QVNjWWFSMA?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "He Crafted a Crypto Law for Trump—as His Company Got Millions From a Crypto Giant",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQkZMOGxoUFE3VzlTTnZUWWVVbmhVYzJSYlNwSG85NDJhWGtXS0NlZl9nTFZIa3A2c1R6Y0dfT2R6M3lzb1VvMDR2U1VHNlBlOFVxMUczTjlfY0JrX2N1RjhTR3NvMV9GcVRQbGhackxuR3lIS2ZyYWRQXzhTVEgtUVhybw?oc=5"
+   "Amazon pulled a $4 ‘sterling silver’ ring that was 92% cancer-causing cadmium. A jewelry expert warns it's back",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLURpbFRYUjRaMDR2bTJ2RTB2NEg5aGxubDRLck5wUkhYN2p0THlDUVc2NzRobElPZ2p5cG5WQTZOVjA0SUY5Q0ZOejZBSnJ1clNfbHVVQ2taeVUtTGlScW1HbU5CNTFVM0F2WldZU3R6c1dHeldZZ0EtNGJXcG0yMGwwVnVRTjNvMG5V?oc=5"
   ],
   [
    "Crypto",
@@ -433,6 +426,13 @@
    "Weekly Wrap: Crypto Under Pressure As A.I. Trade Unwinds",
    "Yahoo Finance",
    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0NaamVxeXBQWERYeU5wYUZOQkpocHVmTmJJNlFSdzNzNTRtbUo2bHlsMG9HUnFqWDZ3QUpRR05TUWcyQURPRU43SEJGVEFvVi1CMU92V3M1TUNsWHNNOTZKLUlBVUpyRm5DQWtZSWVKMU4wM0ExQVliVEZOWWZQVlBkblZqcnM1MDVlelZPUUdUX0pmQldMSEdMWWJ6dW8?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "Deutsche Bank prepares crypto custody launch, targets Asia growth",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWnpsZnAzT2VQZWFCcGkyLXVQVDNxelp4bmVZczcwSzlJUjhIUnZ2MzVGa2VVd1JQczIzYXIxT0lIVW8tZTJxdW5jR2xaLUU5QjBiSDl4a01oaE5qeTBEUnNUMEdabUZiTDRRQjFaWnlJRHYwT1VLZTV6SmNYSERRYkwtbV9KSkQybkdaQkJSOF80d2hYRFBGWEhJcE1TT1lQUDBKTTlBbHlyeTVIS0ZtTDg0Y1JONUF3?oc=5"
   ],
   [
    "Stocks",
