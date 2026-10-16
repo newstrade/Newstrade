@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T03:46:09.997Z",
+ "updated": "2026-10-16T04:46:44.742Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,65 +232,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1221,
-   "ch": 0,
-   "asof": "2026-10-16T03:45:25.000Z"
+   "p": 1.1232,
+   "ch": 0.1,
+   "asof": "2026-10-16T04:46:27.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3283,
-   "ch": 0.07,
-   "asof": "2026-10-16T03:45:25.000Z"
+   "p": 1.3303,
+   "ch": 0.22,
+   "asof": "2026-10-16T04:46:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.96,
-   "ch": -0.01,
-   "asof": "2026-10-16T03:46:09.000Z"
+   "p": 157.82,
+   "ch": -0.1,
+   "asof": "2026-10-16T04:46:42.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6934,
-   "ch": 0.14,
-   "asof": "2026-10-16T03:45:25.000Z"
+   "p": 0.695,
+   "ch": 0.38,
+   "asof": "2026-10-16T04:45:26.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4187,
-   "ch": 0.01,
-   "asof": "2026-10-16T03:46:09.000Z"
+   "p": 1.4176,
+   "ch": -0.06,
+   "asof": "2026-10-16T04:46:43.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8274,
-   "ch": 0.13,
-   "asof": "2026-10-16T03:46:09.000Z"
+   "p": 0.8267,
+   "ch": 0.05,
+   "asof": "2026-10-16T04:46:43.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81854.04,
-   "ch": -0.34,
-   "asof": "2026-10-16T03:46:07.000Z"
+   "p": 81976.04,
+   "ch": -0.19,
+   "asof": "2026-10-16T04:46:35.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2431.62,
-   "ch": -0.34,
-   "asof": "2026-10-16T03:46:05.000Z"
+   "p": 2440.17,
+   "ch": 0.01,
+   "asof": "2026-10-16T04:46:40.000Z"
   },
   {
    "s": "S&P 500",
@@ -312,25 +312,25 @@
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52177.7,
+   "p": 52177.69,
    "ch": 1.08,
-   "asof": "2026-10-15T20:00:00.000Z"
+   "asof": "2026-10-15T20:34:05.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4188.7,
-   "ch": 0.45,
-   "asof": "2026-10-16T03:36:05.000Z"
+   "p": 4197.5,
+   "ch": 0.66,
+   "asof": "2026-10-16T04:36:42.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 95.85,
-   "ch": -0.67,
-   "asof": "2026-10-16T03:35:54.000Z"
+   "p": 95.84,
+   "ch": -0.68,
+   "asof": "2026-10-16T04:36:44.000Z"
   },
   {
    "s": "USD/KES",
@@ -344,9 +344,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4852,
-   "ch": -0.05,
-   "asof": "2026-10-16T03:46:09.000Z"
+   "p": 16.449,
+   "ch": -0.27,
+   "asof": "2026-10-16T04:46:43.000Z"
   },
   {
    "s": "USD/NGN",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.87,
-   "ch": -0.44,
-   "asof": "2026-10-16T03:46:04.000Z"
+   "p": 105.39,
+   "ch": 0.06,
+   "asof": "2026-10-16T04:46:33.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3296,
-   "ch": -0.27,
-   "asof": "2026-10-16T03:46:05.000Z"
+   "p": 1.333,
+   "ch": -0.01,
+   "asof": "2026-10-16T04:46:35.000Z"
   },
   {
    "s": "Apple",
@@ -400,25 +400,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.68,
-   "ch": 0.92,
-   "asof": "2026-10-16T03:36:07.000Z"
+   "p": 57.965,
+   "ch": 1.42,
+   "asof": "2026-10-16T04:36:33.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Can Zimbabwe’s ZiG win trust and replace the US dollar?",
-   "Al Jazeera",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbU5zSWNiak5uU2Z2eGcxQzk5V0hJSGVHdmRBVnMyeDNDMUxRVW1ISXhqMEV0Wk1wWnZzY2JDdEJDOXFRTkh3dGh2LXB2eTBsMlMyazU4dDU3cUEydExVb1NFVVM1LWpCUnJfY3RwVWllVHU5RDhJaDB4VFdyMXAyZkJDZUNyR3k1b1hKWWpCek9kUHpxLXZlVFdoYm56LTDSAaQBQVVfeXFMTUNTNmZnTFo0Skk1V1BSTjEzSXVjbzZvek9KVWFkamFGYnlBbmc1Ui1FUzN6QmFMSHVfNk8xSFlrUUJrLWRQZzNkYmstLXdhNE02aHMyTVRQd1ZnMVRhdl9FSmRrZk41YklNOXd6NEVMSGc2cmV4WHdLV21RU3R0X2tJTUNKMENLMUV4MzVHN25pb0lJWlhGaFdhNXNKWmFPcm5JdHI?oc=5"
+   "US Treasury says Japan no longer faces deflationary environment, yen level must change",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVnlFbzgwbXQ1Q3RjNk9wS2U2dHhqUzJLMENfa3Q1NU5pSUc2ZW96Mlg4Uk9sbDhic0N4YVhaNkpvbmphcTJSSnlJNjRUdFhXNWoxc3dzbUhRV054M0YyMjZBT3hRRFhSLWhYbFh0QUZjRThCUDFSRlptWVJ6YUN0OWkzYlJEQi14Z1ZMazE0WnJmU18yUHVmc2x4OXd4VU5DVlh3dUZ0cTV5UWRFQ2JrMnNEZXBSM0VjcjRxOHhabk1CY0oxaEF0SmF0ZUxJdw?oc=5"
   ],
   [
    "Forex",
    "med",
-   "Ethiopia's central bank joins African payments system PAPSS",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR1NrVGQxY3NKbldLQ2VIaS1Udm92UmJVbFJ2UE8zVnVwOVFoMl9rMEM4dFpzUVlVY3hkeG04RVJQdnBBZjRXYXpoVHhET01VZW5PQk11ZG5JajVXS19KZ202TjVfcHBpbElsbi1ydzR4WWJSZ25LVDhHOHBjR1Q5OE9Nc05heHJGdWlETWZob1lDY1Y4OUhodWdvMHdlZ0IyNUNOWGN0MVpxZ1E?oc=5"
+   "Can Zimbabwe’s ZiG win trust and replace the US dollar?",
+   "Al Jazeera",
+   "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbU5zSWNiak5uU2Z2eGcxQzk5V0hJSGVHdmRBVnMyeDNDMUxRVW1ISXhqMEV0Wk1wWnZzY2JDdEJDOXFRTkh3dGh2LXB2eTBsMlMyazU4dDU3cUEydExVb1NFVVM1LWpCUnJfY3RwVWllVHU5RDhJaDB4VFdyMXAyZkJDZUNyR3k1b1hKWWpCek9kUHpxLXZlVFdoYm56LTDSAaQBQVVfeXFMTUNTNmZnTFo0Skk1V1BSTjEzSXVjbzZvek9KVWFkamFGYnlBbmc1Ui1FUzN6QmFMSHVfNk8xSFlrUUJrLWRQZzNkYmstLXdhNE02aHMyTVRQd1ZnMVRhdl9FSmRrZk41YklNOXd6NEVMSGc2cmV4WHdLV21RU3R0X2tJTUNKMENLMUV4MzVHN25pb0lJWlhGaFdhNXNKWmFPcm5JdHI?oc=5"
   ],
   [
    "Crypto",
@@ -430,9 +430,9 @@
   [
    "Crypto",
    "med",
-   "10-Year Yield Falls and Bitcoin Bounces Back: Correlation or Coincidence?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUHBCVXFlWDgxTjdOS1lpUExkdzgzZjhxQ0RhNE1ZQU5TR241elpUQXk4czFUZE94WHkwSGQzR0JPdXhPY0JRcXZqX2xtbTA0X1RROVA0bkI3OXJpRkE2OFFnQ0g3UXFMWHNzeXJLUzYyd0hWNjY5U3l3M2hnQ0RPZTB0ejhqQlI2S1AtTldGLXF2NHFBcV9PcFdIUQ?oc=5"
+   "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWpkSWxHaFVZbnAtX0RpLVJSb0xyQ19NbGJwNlVWQzRrUm9xN2lfRFdPU2ZKOW00UzZ0eDFxS3lLem9CVnRRZ2ladnRWOVk3TTQtdUJWeHZXODFaY190cjRGRjJxc0R4NXBsRHNYMF9NWmxGZV96czNmODl2QjREUzNNRnJNRlIzeXA5cmxmLTRvLTEwc0Vpb3hKeDdBbG4zU0pSczJiYlpnajFMU0wxM3laeUVFZTNPMGRB?oc=5"
   ],
   [
    "Stocks",
@@ -444,9 +444,9 @@
   [
    "Stocks",
    "med",
-   "Nasdaq resolves network disruption that caused data gaps, source says",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMnFLNkdraTdWRmNuLUlrbGF6Ni15M1VBODdjYjdyVl9NZ1p0NV9mbW5wd0U2VkFnX0RNYzlNcXhlaUlseFdjbENlWEc3UTBhV19lQmUtcE1uZ0NfNXhqeGxqODBnWVRQODBiR3dCNkJ0bHhFWUZkZnlidlVIZVVYaE9GQVc3dkJJNjkzUnJkX0FELWtERW1TMXBKYmZucmRwamczVGZuaVI2N3BZY3RF?oc=5"
+   "The S&P 500 Went More Than 50 Trading Days Without a 1% Drop. That Streak Just Ended. What's Next?",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdFh3Ulp0S1V1N1E5OGxZZ3VPRFdWcTJpQTkxZWl1WTllb09rR3dMVDRxUEE3TTNITE9yc0pFcFU2YVhXRUZZWjh0MDV5OGhqU0YzX0diYmlEZXNnWlpFV1NoeS1PcDJSZ1l5R2FoSTFqdDFmVHowRzFoZ2t1VHBRSU1abnRQaGZpY1E0?oc=5"
   ],
   [
    "Commodities",
