@@ -1211,10 +1211,7 @@ function journalExtras(){const el=$("#v-journal");if(!el)return;el.querySelector
   h+=`</div>`;el.insertAdjacentHTML("beforeend",h)}
 
 // SOCIAL PROOF (real numbers only): traders this week, and how many people have the app open right now.
-// Hidden until there are enough people to be worth showing: 50 a week, 3 online at once.
-const SHOW_WEEKLY_FROM=50, SHOW_ONLINE_FROM=3;
-// Owner preview: open the site with ?preview=counter to see the counter with the real numbers even while they're small.
-const PREVIEW_COUNTER=/[?&]preview=counter\b/.test(location.search);
+// Always shown once a number is available.
 let weekly=0,online=0,shown={weekly:0,online:0},onlineChan=null;
 const reduceMotion=matchMedia("(prefers-reduced-motion: reduce)");
 const anims=new WeakMap();
@@ -1224,7 +1221,7 @@ function countUp(el,from,to){if(!el)return;if(reduceMotion.matches||from===to){e
   const step=now=>{if(anims.get(el)!==id)return;const k=Math.min(1,(now-t0)/dur),e=1-Math.pow(1-k,3);el.textContent=Math.round(from+(to-from)*e).toLocaleString();if(k<1)requestAnimationFrame(step)};
   requestAnimationFrame(step)}
 function socialView(){const el=$("#social");if(!el)return;
-  const w=PREVIEW_COUNTER||weekly>=SHOW_WEEKLY_FROM,o=PREVIEW_COUNTER?online>0:online>=SHOW_ONLINE_FROM;
+  const w=weekly>0,o=online>0;
   if(!w&&!o){el.hidden=true;return}
   if(el.hidden||!el.querySelector("#sc-w")!==!w||!el.querySelector("#sc-o")!==!o){
     // keep numbers already on screen; only a part that is new starts counting from 0
