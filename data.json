@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T06:57:48.644Z",
+ "updated": "2026-10-16T07:48:58.058Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,65 +232,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1236,
-   "ch": 0.13,
-   "asof": "2026-10-16T06:57:29.000Z"
+   "p": 1.1244,
+   "ch": 0.2,
+   "asof": "2026-10-16T07:48:25.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3311,
-   "ch": 0.28,
-   "asof": "2026-10-16T06:57:29.000Z"
+   "p": 1.3319,
+   "ch": 0.34,
+   "asof": "2026-10-16T07:48:25.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.931,
-   "ch": -0.03,
-   "asof": "2026-10-16T06:57:48.000Z"
+   "p": 157.973,
+   "ch": 0,
+   "asof": "2026-10-16T07:48:58.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6951,
-   "ch": 0.39,
-   "asof": "2026-10-16T06:57:29.000Z"
+   "p": 0.6961,
+   "ch": 0.53,
+   "asof": "2026-10-16T07:47:25.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4174,
-   "ch": -0.08,
-   "asof": "2026-10-16T06:57:48.000Z"
+   "p": 1.4166,
+   "ch": -0.13,
+   "asof": "2026-10-16T07:48:58.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8263,
-   "ch": 0,
-   "asof": "2026-10-16T06:57:48.000Z"
+   "p": 0.8246,
+   "ch": -0.21,
+   "asof": "2026-10-16T07:48:56.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82111.47,
+   "p": 82110.3,
    "ch": -0.03,
-   "asof": "2026-10-16T06:57:45.000Z"
+   "asof": "2026-10-16T07:48:54.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2448.21,
-   "ch": 0.34,
-   "asof": "2026-10-16T06:57:45.000Z"
+   "p": 2450.75,
+   "ch": 0.45,
+   "asof": "2026-10-16T07:48:49.000Z"
   },
   {
    "s": "S&P 500",
@@ -320,17 +320,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4199.5,
-   "ch": 0.71,
-   "asof": "2026-10-16T06:47:38.000Z"
+   "p": 4206.8,
+   "ch": 0.88,
+   "asof": "2026-10-16T07:38:58.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 95.76,
-   "ch": -0.77,
-   "asof": "2026-10-16T06:47:42.000Z"
+   "p": 95.83,
+   "ch": -0.69,
+   "asof": "2026-10-16T07:38:50.000Z"
   },
   {
    "s": "USD/KES",
@@ -344,9 +344,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4497,
-   "ch": -0.27,
-   "asof": "2026-10-16T06:57:48.000Z"
+   "p": 16.4467,
+   "ch": -0.29,
+   "asof": "2026-10-16T07:48:59.000Z"
   },
   {
    "s": "USD/NGN",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 106.31,
-   "ch": 0.93,
-   "asof": "2026-10-16T06:57:40.000Z"
+   "p": 106.21,
+   "ch": 0.84,
+   "asof": "2026-10-16T07:48:52.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3402,
-   "ch": 0.53,
-   "asof": "2026-10-16T06:57:41.000Z"
+   "p": 1.3372,
+   "ch": 0.3,
+   "asof": "2026-10-16T07:48:57.000Z"
   },
   {
    "s": "Apple",
@@ -400,19 +400,12 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.88,
-   "ch": 1.27,
-   "asof": "2026-10-16T06:47:11.000Z"
+   "p": 57.875,
+   "ch": 1.26,
+   "asof": "2026-10-16T07:38:46.000Z"
   }
  ],
  "news": [
-  [
-   "Forex",
-   "med",
-   "Can Zimbabwe’s ZiG win trust and replace the US dollar?",
-   "Al Jazeera",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbU5zSWNiak5uU2Z2eGcxQzk5V0hJSGVHdmRBVnMyeDNDMUxRVW1ISXhqMEV0Wk1wWnZzY2JDdEJDOXFRTkh3dGh2LXB2eTBsMlMyazU4dDU3cUEydExVb1NFVVM1LWpCUnJfY3RwVWllVHU5RDhJaDB4VFdyMXAyZkJDZUNyR3k1b1hKWWpCek9kUHpxLXZlVFdoYm56LTDSAaQBQVVfeXFMTUNTNmZnTFo0Skk1V1BSTjEzSXVjbzZvek9KVWFkamFGYnlBbmc1Ui1FUzN6QmFMSHVfNk8xSFlrUUJrLWRQZzNkYmstLXdhNE02aHMyTVRQd1ZnMVRhdl9FSmRrZk41YklNOXd6NEVMSGc2cmV4WHdLV21RU3R0X2tJTUNKMENLMUV4MzVHN25pb0lJWlhGaFdhNXNKWmFPcm5JdHI?oc=5"
-  ],
   [
    "Forex",
    "med",
@@ -421,11 +414,11 @@
    "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVnlFbzgwbXQ1Q3RjNk9wS2U2dHhqUzJLMENfa3Q1NU5pSUc2ZW96Mlg4Uk9sbDhic0N4YVhaNkpvbmphcTJSSnlJNjRUdFhXNWoxc3dzbUhRV054M0YyMjZBT3hRRFhSLWhYbFh0QUZjRThCUDFSRlptWVJ6YUN0OWkzYlJEQi14Z1ZMazE0WnJmU18yUHVmc2x4OXd4VU5DVlh3dUZ0cTV5UWRFQ2JrMnNEZXBSM0VjcjRxOHhabk1CY0oxaEF0SmF0ZUxJdw?oc=5"
   ],
   [
-   "Crypto",
+   "Forex",
    "med",
-   "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMWxIa0l4anBRWktVYTE4UzJrNFkwZ0NJTDdjaGFtT1g5V0R2aktFQjZqS2RhaHBCYnE3bk43WVVxdWkzeFo1cW0wbFlIUW5haml0UXhoRG41d0l5ek0zSEx3eUJhczBuR2IxX3JRMGt4RXYzYldYTUo4TldzY2doeHp1dzR2dUZxM2JIVXNpa0dfMXRfeGF3MWlUX3hnYTg1bFFYYkVRQWF0NUxwbU9YelFVVQ?oc=5"
+   "Building buffers key to economic resilience: Central Bank of Sri Lanka Governor",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWFkyTjdwVFZQTHlDQVdqS0ZBMTY2S3Z4TUhKOUxYVUFSbmRFeXhqb21hRnNHdFoxb0tqZVBjWU9XdkhGV0lWUnRpUS1BcHRrMG80OUNyNGE3VDBDTkFDQ05HWnRFUnJkMUJsSU9Yc3NJWGp5bEE3blhwVWNmNFZRRWFhbzl2UlBYVGh3cHdRS0QzZUdFQy1UbnRERVp2a0xocEEzWTlWazJnZnAwTTJ3RGhB?oc=5"
   ],
   [
    "Crypto",
@@ -433,6 +426,13 @@
    "He Crafted a Crypto Law for Trump—as His Company Got Millions From a Crypto Giant",
    "WSJ",
    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQkZMOGxoUFE3VzlTTnZUWWVVbmhVYzJSYlNwSG85NDJhWGtXS0NlZl9nTFZIa3A2c1R6Y0dfT2R6M3lzb1VvMDR2U1VHNlBlOFVxMUczTjlfY0JrX2N1RjhTR3NvMV9GcVRQbGhackxuR3lIS2ZyYWRQXzhTVEgtUVhybw?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMWxIa0l4anBRWktVYTE4UzJrNFkwZ0NJTDdjaGFtT1g5V0R2aktFQjZqS2RhaHBCYnE3bk43WVVxdWkzeFo1cW0wbFlIUW5haml0UXhoRG41d0l5ek0zSEx3eUJhczBuR2IxX3JRMGt4RXYzYldYTUo4TldzY2doeHp1dzR2dUZxM2JIVXNpa0dfMXRfeGF3MWlUX3hnYTg1bFFYYkVRQWF0NUxwbU9YelFVVQ?oc=5"
   ],
   [
    "Stocks",
@@ -444,9 +444,9 @@
   [
    "Stocks",
    "med",
-   "The S&P 500 Went More Than 50 Trading Days Without a 1% Drop. That Streak Just Ended. What's Next?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdFh3Ulp0S1V1N1E5OGxZZ3VPRFdWcTJpQTkxZWl1WTllb09rR3dMVDRxUEE3TTNITE9yc0pFcFU2YVhXRUZZWjh0MDV5OGhqU0YzX0diYmlEZXNnWlpFV1NoeS1PcDJSZ1l5R2FoSTFqdDFmVHowRzFoZ2t1VHBRSU1abnRQaGZpY1E0?oc=5"
+   "Nasdaq resolves network disruption that caused data gaps, source says",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMnFLNkdraTdWRmNuLUlrbGF6Ni15M1VBODdjYjdyVl9NZ1p0NV9mbW5wd0U2VkFnX0RNYzlNcXhlaUlseFdjbENlWEc3UTBhV19lQmUtcE1uZ0NfNXhqeGxqODBnWVRQODBiR3dCNkJ0bHhFWUZkZnlidlVIZVVYaE9GQVc3dkJJNjkzUnJkX0FELWtERW1TMXBKYmZucmRwamczVGZuaVI2N3BZY3RF?oc=5"
   ],
   [
    "Commodities",
