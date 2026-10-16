@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T23:39:48.812Z",
+ "updated": "2026-10-16T00:54:27.462Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,9 +232,9 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1217,
+   "p": 1.1216,
    "ch": -0.04,
-   "asof": "2026-10-15T23:39:25.000Z"
+   "asof": "2026-10-16T00:53:27.000Z"
   },
   {
    "s": "GBP/USD",
@@ -242,55 +242,55 @@
    "d": 4,
    "p": 1.3272,
    "ch": -0.02,
-   "asof": "2026-10-15T23:39:25.000Z"
+   "asof": "2026-10-16T00:53:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.118,
-   "ch": 0.09,
-   "asof": "2026-10-15T23:39:48.000Z"
+   "p": 158.145,
+   "ch": 0.11,
+   "asof": "2026-10-16T00:54:27.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.692,
-   "ch": -0.06,
-   "asof": "2026-10-15T23:39:25.000Z"
+   "p": 0.6924,
+   "ch": 0,
+   "asof": "2026-10-16T00:53:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4191,
-   "ch": 0.04,
-   "asof": "2026-10-15T23:39:48.000Z"
+   "p": 1.4197,
+   "ch": 0.08,
+   "asof": "2026-10-16T00:54:26.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8276,
-   "ch": 0.16,
-   "asof": "2026-10-15T23:39:45.000Z"
+   "p": 0.828,
+   "ch": 0.21,
+   "asof": "2026-10-16T00:54:26.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82104.96,
-   "ch": 0.65,
-   "asof": "2026-10-15T23:39:05.000Z"
+   "p": 82172.63,
+   "ch": 0.05,
+   "asof": "2026-10-16T00:54:26.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2437.91,
-   "ch": 0.81,
-   "asof": "2026-10-15T23:39:10.000Z"
+   "p": 2436.06,
+   "ch": -0.16,
+   "asof": "2026-10-16T00:54:23.000Z"
   },
   {
    "s": "S&P 500",
@@ -320,17 +320,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4183.1,
-   "ch": 0.31,
-   "asof": "2026-10-15T23:29:44.000Z"
+   "p": 4174.9,
+   "ch": 0.12,
+   "asof": "2026-10-16T00:44:13.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 96.1,
-   "ch": -0.41,
-   "asof": "2026-10-15T23:29:20.000Z"
+   "p": 95.98,
+   "ch": -0.54,
+   "asof": "2026-10-16T00:44:12.000Z"
   },
   {
    "s": "USD/KES",
@@ -338,15 +338,15 @@
    "d": 2,
    "p": 129.71,
    "ch": 0,
-   "asof": "2026-10-15T21:52:29.000Z"
+   "asof": "2026-10-16T00:50:22.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5072,
+   "p": 16.5062,
    "ch": 0.08,
-   "asof": "2026-10-15T23:39:48.000Z"
+   "asof": "2026-10-16T00:54:28.000Z"
   },
   {
    "s": "USD/NGN",
@@ -354,23 +354,23 @@
    "d": 2,
    "p": 1326.43,
    "ch": 0,
-   "asof": "2026-10-15T21:52:28.000Z"
+   "asof": "2026-10-16T00:50:22.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 105.28,
-   "ch": 1.14,
-   "asof": "2026-10-15T23:38:59.000Z"
+   "p": 105.26,
+   "ch": -0.07,
+   "asof": "2026-10-16T00:54:26.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3318,
-   "ch": 0.15,
-   "asof": "2026-10-15T23:39:06.000Z"
+   "p": 1.3339,
+   "ch": 0.05,
+   "asof": "2026-10-16T00:54:24.000Z"
   },
   {
    "s": "Apple",
@@ -402,7 +402,7 @@
    "d": 3,
    "p": 57.33,
    "ch": 0.3,
-   "asof": "2026-10-15T23:29:17.000Z"
+   "asof": "2026-10-16T00:43:45.000Z"
   }
  ],
  "news": [
@@ -423,16 +423,16 @@
   [
    "Crypto",
    "med",
-   "He Crafted a Crypto Law for Trump—as His Company Got Millions From a Crypto Giant",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQkZMOGxoUFE3VzlTTnZUWWVVbmhVYzJSYlNwSG85NDJhWGtXS0NlZl9nTFZIa3A2c1R6Y0dfT2R6M3lzb1VvMDR2U1VHNlBlOFVxMUczTjlfY0JrX2N1RjhTR3NvMV9GcVRQbGhackxuR3lIS2ZyYWRQXzhTVEgtUVhybw?oc=5"
+   "Grayscale Says Bitcoin’s Volatility Falls to 43%, Now Within S&P 500 Range",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUWlTYlJfYUN6MEtNcGJmSEJUTXFrc212Z1JDZTNIODZidS1hbl9nUmtZZjVhRHdfVzJVWDBHaG1JNVgzaVl2alJ3aWNEYXhaSWw5N0NtUnlEX2Y4YVkwckEyeXZYZmI5aGF2NkdtVjI1MmpnRFd6MlAyVzRBWXdPTUVhNDN3eTI0aThTdUlFd3k4TWhfQU00bjhzNi1zMmZZdWhKME9Ddw?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Why Is Crypto Down Today? Nearly $1 Billion in Leveraged Positions Just Got Wiped Out.",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQXhyWXJGU2QtYXJLdndXRHJ2cFdkNVZXRU9sZjRNR250RzNQOGNGRzhHeHdUTUxtRm9uZlpZNzA5eWN3QkxhZ0JITHhENzg0UllYRVZkWGNxYzA4Qk5pMVMxa0h3M1lJaDRhQ0VrSnRkVkN2RHdNazgzRDNPUWQzY3lTclRXZVc0Y0MwZElnc1gyMnk3bWFoMw?oc=5"
+   "Trump’s former top crypto advisor faces scrutiny over allegations his firm accepted millions from Tether while he shaped key stablecoin law",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbFVDcDhMODY0NTRlOFp0TXBJUG5uVUNKWlRNNU1KYkVqakVNWlFUVEkyS0I4VmcxVGQyaGxENnpuM2JrMEZvVTMtSHBtQUVsZFB4M1ZMaGlPNjRSX0pIRTdfTUo3QUtMSk5lbnEwOGdsNWdKVzRGamFUMG1NOTcteDlYSjZKU25LbEhyUjJPTDZPWFRKMExYWHlzbHAyVkoydGF3VFNGdllFLURyc1ZxZHNsbWpyb0NTb3djZQ?oc=5"
   ],
   [
    "Stocks",
