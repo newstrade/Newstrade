@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T09:45:54.554Z",
+ "updated": "2026-10-16T10:46:22.680Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,65 +232,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1254,
-   "ch": 0.29,
-   "asof": "2026-10-16T09:45:28.000Z"
+   "p": 1.127,
+   "ch": 0.44,
+   "asof": "2026-10-16T10:45:29.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3332,
-   "ch": 0.44,
-   "asof": "2026-10-16T09:45:28.000Z"
+   "p": 1.3345,
+   "ch": 0.53,
+   "asof": "2026-10-16T10:45:29.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.977,
-   "ch": 0,
-   "asof": "2026-10-16T09:45:53.000Z"
+   "p": 157.89,
+   "ch": -0.05,
+   "asof": "2026-10-16T10:46:22.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.696,
-   "ch": 0.52,
-   "asof": "2026-10-16T09:45:28.000Z"
+   "p": 0.6968,
+   "ch": 0.64,
+   "asof": "2026-10-16T10:45:29.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4159,
-   "ch": -0.18,
-   "asof": "2026-10-16T09:45:54.000Z"
+   "p": 1.4151,
+   "ch": -0.24,
+   "asof": "2026-10-16T10:46:21.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.824,
-   "ch": -0.28,
-   "asof": "2026-10-16T09:45:54.000Z"
+   "p": 0.8225,
+   "ch": -0.46,
+   "asof": "2026-10-16T10:46:22.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82014,
-   "ch": -0.14,
-   "asof": "2026-10-16T09:45:53.000Z"
+   "p": 82084.87,
+   "ch": -0.06,
+   "asof": "2026-10-16T10:46:18.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2448.99,
-   "ch": 0.37,
-   "asof": "2026-10-16T09:45:48.000Z"
+   "p": 2459.95,
+   "ch": 0.82,
+   "asof": "2026-10-16T10:46:21.000Z"
   },
   {
    "s": "S&P 500",
@@ -320,17 +320,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4202.6,
-   "ch": 0.78,
-   "asof": "2026-10-16T09:35:37.000Z"
+   "p": 4203.9,
+   "ch": 0.81,
+   "asof": "2026-10-16T10:36:16.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 95.39,
-   "ch": -1.15,
-   "asof": "2026-10-16T09:35:50.000Z"
+   "p": 95.73,
+   "ch": -0.8,
+   "asof": "2026-10-16T10:36:21.000Z"
   },
   {
    "s": "USD/KES",
@@ -344,9 +344,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4306,
-   "ch": -0.38,
-   "asof": "2026-10-16T09:45:54.000Z"
+   "p": 16.4154,
+   "ch": -0.48,
+   "asof": "2026-10-16T10:46:22.000Z"
   },
   {
    "s": "USD/NGN",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 106.33,
-   "ch": 0.95,
-   "asof": "2026-10-16T09:45:52.000Z"
+   "p": 106.39,
+   "ch": 1.01,
+   "asof": "2026-10-16T10:46:20.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3376,
-   "ch": 0.33,
-   "asof": "2026-10-16T09:45:45.000Z"
+   "p": 1.3415,
+   "ch": 0.62,
+   "asof": "2026-10-16T10:46:18.000Z"
   },
   {
    "s": "Apple",
@@ -400,25 +400,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.945,
-   "ch": 1.38,
-   "asof": "2026-10-16T09:35:55.000Z"
+   "p": 57.95,
+   "ch": 1.39,
+   "asof": "2026-10-16T10:36:03.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Kenya in talks for fresh multilateral financing, central bank chief says",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTXBUUnh2NTFhV1JWUFMxcTRKM0hPSEJVQ3RHZFc4RVpIckNlaEt4WmpnMHpMcEtnUjh3R3FCVG5XSmZxQ1dMc1MxUk4tRlZpVnp2dDlNd3R2NDBvNndITEJ6TXJsMFRVU3cyU09SQ0xUeTFYcVNSWlUyLU9ScmlIOGdiRVpCZUdqVjV2NzhUMlZOeFdlTHdCbjhVTGZOUW94TE4xam03ZVZ3QTU1QVNjWWFSMA?oc=5"
+   "Building buffers key to economic resilience: Central Bank of Sri Lanka Governor",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWFkyTjdwVFZQTHlDQVdqS0ZBMTY2S3Z4TUhKOUxYVUFSbmRFeXhqb21hRnNHdFoxb0tqZVBjWU9XdkhGV0lWUnRpUS1BcHRrMG80OUNyNGE3VDBDTkFDQ05HWnRFUnJkMUJsSU9Yc3NJWGp5bEE3blhwVWNmNFZRRWFhbzl2UlBYVGh3cHdRS0QzZUdFQy1UbnRERVp2a0xocEEzWTlWazJnZnAwTTJ3RGhB?oc=5"
   ],
   [
    "Forex",
    "med",
-   "Building buffers key to economic resilience: Central Bank of Sri Lanka Governor",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWFkyTjdwVFZQTHlDQVdqS0ZBMTY2S3Z4TUhKOUxYVUFSbmRFeXhqb21hRnNHdFoxb0tqZVBjWU9XdkhGV0lWUnRpUS1BcHRrMG80OUNyNGE3VDBDTkFDQ05HWnRFUnJkMUJsSU9Yc3NJWGp5bEE3blhwVWNmNFZRRWFhbzl2UlBYVGh3cHdRS0QzZUdFQy1UbnRERVp2a0xocEEzWTlWazJnZnAwTTJ3RGhB?oc=5"
+   "Can Zimbabwe’s ZiG win trust and replace the US dollar?",
+   "Al Jazeera",
+   "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbU5zSWNiak5uU2Z2eGcxQzk5V0hJSGVHdmRBVnMyeDNDMUxRVW1ISXhqMEV0Wk1wWnZzY2JDdEJDOXFRTkh3dGh2LXB2eTBsMlMyazU4dDU3cUEydExVb1NFVVM1LWpCUnJfY3RwVWllVHU5RDhJaDB4VFdyMXAyZkJDZUNyR3k1b1hKWWpCek9kUHpxLXZlVFdoYm56LTDSAaQBQVVfeXFMTUNTNmZnTFo0Skk1V1BSTjEzSXVjbzZvek9KVWFkamFGYnlBbmc1Ui1FUzN6QmFMSHVfNk8xSFlrUUJrLWRQZzNkYmstLXdhNE02aHMyTVRQd1ZnMVRhdl9FSmRrZk41YklNOXd6NEVMSGc2cmV4WHdLV21RU3R0X2tJTUNKMENLMUV4MzVHN25pb0lJWlhGaFdhNXNKWmFPcm5JdHI?oc=5"
   ],
   [
    "Crypto",
@@ -430,9 +430,9 @@
   [
    "Crypto",
    "med",
-   "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNXVvT0xEeGpGUUtKQlBHUVVaNGFzX2hnVzRrT0NDRFlTb0xydExWTER3M244OFJpUFd5OHlVY09kLU45RjNTejk4N01JVnFMS0lsZmdQd3hMVXR6Tk5ycmdPQ3dBeHZoTWpNSWV2d1NUNXR1QjBfNjFYczN1djZPU2Q3cFZnbHRYQzdtQmNYREVyOXhTVjI3ZzhnVko0ME5Ta1dLT0RnMjNkTWR1TU5DOV9xbjdkVFREUHQzVA?oc=5"
+   "Ripple (XRP) and Stellar (XLM) Are Trailing Bitcoin This Month. Which Catches Up First?",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVkgxYUxfSzNVeGxQbWlpc1cwbFQxam9Ncmg5bG9nbUJocWtHd2M2NlJaYU9Yc2RUN0NQTFJvbFY5dzZ2RE50MmRtUkNhcDZCMFV0MXgzMTNKQ2tEQ3dSdFhEdVdGT0Y3UnJDNFM4ZUgwUWJpZml2THhHRElSLVF0Y0hIX205cVFUbzNHZHRyUDc1RmxQU1h4elZnckY?oc=5"
   ],
   [
    "Stocks",
@@ -458,9 +458,9 @@
   [
    "Commodities",
    "med",
-   "Crude Oil holds $88–89 as a fifth-wave rally takes shape",
-   "FXStreet",
-   "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMEtNTXdsYmRPdW5Ba01IdHphU0pvV09YOWNLaDlfSFhhcHRzRHlveUNjbG9hdHc0SVVtQmMxZ0hwWFFGTTN6Z0NlY0p3d2J2UjF0bWFEYlZON2d0amo3YzBkU1JrNU5YWlhoV0xuOHlRRjJqMkdRU1UxcFNNa2RSVk53WTVQMExRLWRKNkRsaHNTVHc5STFUeHdCUTByalJWVWNwaw?oc=5"
+   "Crude Oil Slips as Hormuz Shipping Risks and US Inventory Draw Support Weekly Gains",
+   "Yahoo Finance UK",
+   "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUNscUVMOHU5Vm43cjdJYkN3YW5OeU5ZZlV5X010eWF3Qm9LNUFvRF9YMGtNa3lVOFRka2p0QVMxejRLbEc3enlBdE5TU2N1aGQyeG9LSHhOdkJ1UzRHdm1UcUFBRWNFUnEyM3RLcmRLLUFlNkZDSVBrOFhKSF9rZ2p1QVZqNnM?oc=5"
   ]
  ]
 }
