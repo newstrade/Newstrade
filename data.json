@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T08:48:21.616Z",
+ "updated": "2026-10-16T09:45:54.554Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,65 +232,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1244,
-   "ch": 0.2,
-   "asof": "2026-10-16T08:47:26.000Z"
+   "p": 1.1254,
+   "ch": 0.29,
+   "asof": "2026-10-16T09:45:28.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.332,
-   "ch": 0.35,
-   "asof": "2026-10-16T08:47:26.000Z"
+   "p": 1.3332,
+   "ch": 0.44,
+   "asof": "2026-10-16T09:45:28.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.001,
-   "ch": 0.02,
-   "asof": "2026-10-16T08:48:21.000Z"
+   "p": 157.977,
+   "ch": 0,
+   "asof": "2026-10-16T09:45:53.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6961,
-   "ch": 0.53,
-   "asof": "2026-10-16T08:47:26.000Z"
+   "p": 0.696,
+   "ch": 0.52,
+   "asof": "2026-10-16T09:45:28.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4166,
-   "ch": -0.13,
-   "asof": "2026-10-16T08:48:21.000Z"
+   "p": 1.4159,
+   "ch": -0.18,
+   "asof": "2026-10-16T09:45:54.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8248,
-   "ch": -0.18,
-   "asof": "2026-10-16T08:48:21.000Z"
+   "p": 0.824,
+   "ch": -0.28,
+   "asof": "2026-10-16T09:45:54.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82231.65,
-   "ch": 0.12,
-   "asof": "2026-10-16T08:48:13.000Z"
+   "p": 82014,
+   "ch": -0.14,
+   "asof": "2026-10-16T09:45:53.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2457.96,
-   "ch": 0.74,
-   "asof": "2026-10-16T08:48:19.000Z"
+   "p": 2448.99,
+   "ch": 0.37,
+   "asof": "2026-10-16T09:45:48.000Z"
   },
   {
    "s": "S&P 500",
@@ -320,17 +320,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4203.1,
-   "ch": 0.79,
-   "asof": "2026-10-16T08:38:20.000Z"
+   "p": 4202.6,
+   "ch": 0.78,
+   "asof": "2026-10-16T09:35:37.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 95.52,
-   "ch": -1.02,
-   "asof": "2026-10-16T08:38:20.000Z"
+   "p": 95.39,
+   "ch": -1.15,
+   "asof": "2026-10-16T09:35:50.000Z"
   },
   {
    "s": "USD/KES",
@@ -344,9 +344,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4303,
+   "p": 16.4306,
    "ch": -0.38,
-   "asof": "2026-10-16T08:48:21.000Z"
+   "asof": "2026-10-16T09:45:54.000Z"
   },
   {
    "s": "USD/NGN",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 106.77,
-   "ch": 1.37,
-   "asof": "2026-10-16T08:48:14.000Z"
+   "p": 106.33,
+   "ch": 0.95,
+   "asof": "2026-10-16T09:45:52.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3428,
-   "ch": 0.72,
-   "asof": "2026-10-16T08:48:17.000Z"
+   "p": 1.3376,
+   "ch": 0.33,
+   "asof": "2026-10-16T09:45:45.000Z"
   },
   {
    "s": "Apple",
@@ -400,18 +400,18 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.905,
-   "ch": 1.31,
-   "asof": "2026-10-16T08:38:07.000Z"
+   "p": 57.945,
+   "ch": 1.38,
+   "asof": "2026-10-16T09:35:55.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "US Treasury says Japan no longer faces deflationary environment, yen level must change",
+   "Kenya in talks for fresh multilateral financing, central bank chief says",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVnlFbzgwbXQ1Q3RjNk9wS2U2dHhqUzJLMENfa3Q1NU5pSUc2ZW96Mlg4Uk9sbDhic0N4YVhaNkpvbmphcTJSSnlJNjRUdFhXNWoxc3dzbUhRV054M0YyMjZBT3hRRFhSLWhYbFh0QUZjRThCUDFSRlptWVJ6YUN0OWkzYlJEQi14Z1ZMazE0WnJmU18yUHVmc2x4OXd4VU5DVlh3dUZ0cTV5UWRFQ2JrMnNEZXBSM0VjcjRxOHhabk1CY0oxaEF0SmF0ZUxJdw?oc=5"
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTXBUUnh2NTFhV1JWUFMxcTRKM0hPSEJVQ3RHZFc4RVpIckNlaEt4WmpnMHpMcEtnUjh3R3FCVG5XSmZxQ1dMc1MxUk4tRlZpVnp2dDlNd3R2NDBvNndITEJ6TXJsMFRVU3cyU09SQ0xUeTFYcVNSWlUyLU9ScmlIOGdiRVpCZUdqVjV2NzhUMlZOeFdlTHdCbjhVTGZOUW94TE4xam03ZVZ3QTU1QVNjWWFSMA?oc=5"
   ],
   [
    "Forex",
@@ -423,16 +423,16 @@
   [
    "Crypto",
    "med",
-   "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMWxIa0l4anBRWktVYTE4UzJrNFkwZ0NJTDdjaGFtT1g5V0R2aktFQjZqS2RhaHBCYnE3bk43WVVxdWkzeFo1cW0wbFlIUW5haml0UXhoRG41d0l5ek0zSEx3eUJhczBuR2IxX3JRMGt4RXYzYldYTUo4TldzY2doeHp1dzR2dUZxM2JIVXNpa0dfMXRfeGF3MWlUX3hnYTg1bFFYYkVRQWF0NUxwbU9YelFVVQ?oc=5"
+   "He Crafted a Crypto Law for Trump—as His Company Got Millions From a Crypto Giant",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQkZMOGxoUFE3VzlTTnZUWWVVbmhVYzJSYlNwSG85NDJhWGtXS0NlZl9nTFZIa3A2c1R6Y0dfT2R6M3lzb1VvMDR2U1VHNlBlOFVxMUczTjlfY0JrX2N1RjhTR3NvMV9GcVRQbGhackxuR3lIS2ZyYWRQXzhTVEgtUVhybw?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Cardano Is Up 16% This Month, Nearly Double Bitcoin’s Gain. Is ADA Finally Turning?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzBLUmlNaUJFTHA0RlNsNUwtRjhJY2MxcTNXQnVNdVlqQ1ZTM2hkWVlsOWVRaEtGZEZ3SHZGRVBsbTJtTEs0aWtIS1ptYU9ZbFozMWpTZDlVUnFHUWo2aGFSVVpDeHppcVV3WVZrNVZLaHEyc2x2OEprdURveWU2SE9zWjc0NkVaRkFHU1c4bG9uMmJ1QnJ3cXgwbw?oc=5"
+   "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNXVvT0xEeGpGUUtKQlBHUVVaNGFzX2hnVzRrT0NDRFlTb0xydExWTER3M244OFJpUFd5OHlVY09kLU45RjNTejk4N01JVnFMS0lsZmdQd3hMVXR6Tk5ycmdPQ3dBeHZoTWpNSWV2d1NUNXR1QjBfNjFYczN1djZPU2Q3cFZnbHRYQzdtQmNYREVyOXhTVjI3ZzhnVko0ME5Ta1dLT0RnMjNkTWR1TU5DOV9xbjdkVFREUHQzVA?oc=5"
   ],
   [
    "Stocks",
@@ -443,10 +443,10 @@
   ],
   [
    "Stocks",
-   "high",
-   "US Stock Market Today: S&P 500 Futures Ease As Hot Core CPI Hits Rate Hopes",
+   "med",
+   "Stock Market: Will S&P 500 Open Up or Down Today?",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ3BnWVNlY1Vib0pucXRseHlFdllKUGkxWmFVM2tYTWtkMjVBdHhaVnpNVUt6dTE2T1hmV3dwUTZUdHNwUHlVRll3TUhKMTk2dkJrcnNKbjFkeXNIOWZCUVJvdnFvZFhoV3JsOVQ2aDgxNkJjVGZPX21hSkk5a3hkblY1dHMtMXhFaHdEWjFwRkZudw?oc=5"
+   "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMVQ1VkZFdWhTQ19aa2o5Z1NQM1FtaW11dzMxWXdqRE1QdmQtNTg4YTdYNGFsU2lSekhFeHhkWVNQSndPN1EtUTRtTDNBY3R5QmRwVlJiMTV5c2JlUFdlXzY5SE1JXy1yaDNMck1wUU1mT1Z6ZkZKNl9JWWdDM1VYTXZhN3J2a0c0Zk1BYkZ5ODM0QQ?oc=5"
   ],
   [
    "Commodities",
@@ -458,9 +458,9 @@
   [
    "Commodities",
    "med",
-   "U.S. Crude Oil Stockpiles Post Large Weekly Drop",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMEY4UmZnX3BONHF6Z0J6SW96Ny1DWTFIeDkxSGR2X0xoZlpPSTQwaWwyaVBxMHg1MDc3N3h5Z3R0TDd1YWlDVUZCUURQUFdSd2NiQ05mN2ZUNVFQbTFLWWo4VThWNkVNMk84WFp1MTFJa0oxUVo4SWZRZnZkM0EwMlN6VnJRZjRxeHdXREZVMlo4bWZ1am54QW0zc2k?oc=5"
+   "Crude Oil holds $88–89 as a fifth-wave rally takes shape",
+   "FXStreet",
+   "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMEtNTXdsYmRPdW5Ba01IdHphU0pvV09YOWNLaDlfSFhhcHRzRHlveUNjbG9hdHc0SVVtQmMxZ0hwWFFGTTN6Z0NlY0p3d2J2UjF0bWFEYlZON2d0amo3YzBkU1JrNU5YWlhoV0xuOHlRRjJqMkdRU1UxcFNNa2RSVk53WTVQMExRLWRKNkRsaHNTVHc5STFUeHdCUTByalJWVWNwaw?oc=5"
   ]
  ]
 }
