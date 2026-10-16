@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T02:45:48.124Z",
+ "updated": "2026-10-16T03:46:09.997Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,33 +232,33 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1218,
-   "ch": -0.03,
-   "asof": "2026-10-16T02:45:29.000Z"
+   "p": 1.1221,
+   "ch": 0,
+   "asof": "2026-10-16T03:45:25.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3278,
-   "ch": 0.03,
-   "asof": "2026-10-16T02:45:29.000Z"
+   "p": 1.3283,
+   "ch": 0.07,
+   "asof": "2026-10-16T03:45:25.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.988,
-   "ch": 0.01,
-   "asof": "2026-10-16T02:45:47.000Z"
+   "p": 157.96,
+   "ch": -0.01,
+   "asof": "2026-10-16T03:46:09.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6932,
-   "ch": 0.12,
-   "asof": "2026-10-16T02:45:29.000Z"
+   "p": 0.6934,
+   "ch": 0.14,
+   "asof": "2026-10-16T03:45:25.000Z"
   },
   {
    "s": "USD/CAD",
@@ -266,31 +266,31 @@
    "d": 4,
    "p": 1.4187,
    "ch": 0.01,
-   "asof": "2026-10-16T02:45:48.000Z"
+   "asof": "2026-10-16T03:46:09.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8276,
-   "ch": 0.16,
-   "asof": "2026-10-16T02:45:47.000Z"
+   "p": 0.8274,
+   "ch": 0.13,
+   "asof": "2026-10-16T03:46:09.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82055.62,
-   "ch": -0.09,
-   "asof": "2026-10-16T02:45:44.000Z"
+   "p": 81854.04,
+   "ch": -0.34,
+   "asof": "2026-10-16T03:46:07.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2440.74,
-   "ch": 0.04,
-   "asof": "2026-10-16T02:45:44.000Z"
+   "p": 2431.62,
+   "ch": -0.34,
+   "asof": "2026-10-16T03:46:05.000Z"
   },
   {
    "s": "S&P 500",
@@ -312,25 +312,25 @@
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52177.69,
+   "p": 52177.7,
    "ch": 1.08,
-   "asof": "2026-10-15T20:34:05.000Z"
+   "asof": "2026-10-15T20:00:00.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4183.7,
-   "ch": 0.33,
-   "asof": "2026-10-16T02:35:48.000Z"
+   "p": 4188.7,
+   "ch": 0.45,
+   "asof": "2026-10-16T03:36:05.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 95.79,
-   "ch": -0.74,
-   "asof": "2026-10-16T02:35:46.000Z"
+   "p": 95.85,
+   "ch": -0.67,
+   "asof": "2026-10-16T03:35:54.000Z"
   },
   {
    "s": "USD/KES",
@@ -338,15 +338,15 @@
    "d": 2,
    "p": 129.71,
    "ch": 0,
-   "asof": "2026-10-16T02:02:57.000Z"
+   "asof": "2026-10-16T03:22:01.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.484,
-   "ch": -0.06,
-   "asof": "2026-10-16T02:45:49.000Z"
+   "p": 16.4852,
+   "ch": -0.05,
+   "asof": "2026-10-16T03:46:09.000Z"
   },
   {
    "s": "USD/NGN",
@@ -354,23 +354,23 @@
    "d": 2,
    "p": 1326.43,
    "ch": 0,
-   "asof": "2026-10-16T02:02:57.000Z"
+   "asof": "2026-10-16T03:22:01.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 105.43,
-   "ch": 0.1,
-   "asof": "2026-10-16T02:45:43.000Z"
+   "p": 104.87,
+   "ch": -0.44,
+   "asof": "2026-10-16T03:46:04.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3355,
-   "ch": 0.17,
-   "asof": "2026-10-16T02:45:39.000Z"
+   "p": 1.3296,
+   "ch": -0.27,
+   "asof": "2026-10-16T03:46:05.000Z"
   },
   {
    "s": "Apple",
@@ -400,25 +400,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.695,
-   "ch": 0.94,
-   "asof": "2026-10-16T02:35:46.000Z"
+   "p": 57.68,
+   "ch": 0.92,
+   "asof": "2026-10-16T03:36:07.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Seeking Less Harmful Alternatives to Central Bank Rate Rises",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHMtWDVXRkxJblRXWElJd2dNS25VZE9SS0g4X0FUN3FOSlB3RmRyTlQ2ZWJoYjFRWThRb3BGU2x0Z3BzV25ZTG05c3A3bVZ3UUxpdzk0dVQwQm5DWFl0UWtFdktVY3RnTkExUnBCbnZONHE1TFF1bC1qUkxqeEx6Q1Iwa1VBb0xOemo2S3NrVlh3TFFER0EzYm1Wb3dmNlNaNHIzVUc3ZTlyODZwd1RuUE5Kbw?oc=5"
+   "Can Zimbabwe’s ZiG win trust and replace the US dollar?",
+   "Al Jazeera",
+   "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbU5zSWNiak5uU2Z2eGcxQzk5V0hJSGVHdmRBVnMyeDNDMUxRVW1ISXhqMEV0Wk1wWnZzY2JDdEJDOXFRTkh3dGh2LXB2eTBsMlMyazU4dDU3cUEydExVb1NFVVM1LWpCUnJfY3RwVWllVHU5RDhJaDB4VFdyMXAyZkJDZUNyR3k1b1hKWWpCek9kUHpxLXZlVFdoYm56LTDSAaQBQVVfeXFMTUNTNmZnTFo0Skk1V1BSTjEzSXVjbzZvek9KVWFkamFGYnlBbmc1Ui1FUzN6QmFMSHVfNk8xSFlrUUJrLWRQZzNkYmstLXdhNE02aHMyTVRQd1ZnMVRhdl9FSmRrZk41YklNOXd6NEVMSGc2cmV4WHdLV21RU3R0X2tJTUNKMENLMUV4MzVHN25pb0lJWlhGaFdhNXNKWmFPcm5JdHI?oc=5"
   ],
   [
    "Forex",
    "med",
-   "Can Zimbabwe’s ZiG win trust and replace the US dollar?",
-   "Al Jazeera",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbU5zSWNiak5uU2Z2eGcxQzk5V0hJSGVHdmRBVnMyeDNDMUxRVW1ISXhqMEV0Wk1wWnZzY2JDdEJDOXFRTkh3dGh2LXB2eTBsMlMyazU4dDU3cUEydExVb1NFVVM1LWpCUnJfY3RwVWllVHU5RDhJaDB4VFdyMXAyZkJDZUNyR3k1b1hKWWpCek9kUHpxLXZlVFdoYm56LTDSAaQBQVVfeXFMTUNTNmZnTFo0Skk1V1BSTjEzSXVjbzZvek9KVWFkamFGYnlBbmc1Ui1FUzN6QmFMSHVfNk8xSFlrUUJrLWRQZzNkYmstLXdhNE02aHMyTVRQd1ZnMVRhdl9FSmRrZk41YklNOXd6NEVMSGc2cmV4WHdLV21RU3R0X2tJTUNKMENLMUV4MzVHN25pb0lJWlhGaFdhNXNKWmFPcm5JdHI?oc=5"
+   "Ethiopia's central bank joins African payments system PAPSS",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR1NrVGQxY3NKbldLQ2VIaS1Udm92UmJVbFJ2UE8zVnVwOVFoMl9rMEM4dFpzUVlVY3hkeG04RVJQdnBBZjRXYXpoVHhET01VZW5PQk11ZG5JajVXS19KZ202TjVfcHBpbElsbi1ydzR4WWJSZ25LVDhHOHBjR1Q5OE9Nc05heHJGdWlETWZob1lDY1Y4OUhodWdvMHdlZ0IyNUNOWGN0MVpxZ1E?oc=5"
   ],
   [
    "Crypto",
@@ -430,9 +430,9 @@
   [
    "Crypto",
    "med",
-   "Why Is Crypto Down Today? Nearly $1 Billion in Leveraged Positions Just Got Wiped Out.",
+   "10-Year Yield Falls and Bitcoin Bounces Back: Correlation or Coincidence?",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQXhyWXJGU2QtYXJLdndXRHJ2cFdkNVZXRU9sZjRNR250RzNQOGNGRzhHeHdUTUxtRm9uZlpZNzA5eWN3QkxhZ0JITHhENzg0UllYRVZkWGNxYzA4Qk5pMVMxa0h3M1lJaDRhQ0VrSnRkVkN2RHdNazgzRDNPUWQzY3lTclRXZVc0Y0MwZElnc1gyMnk3bWFoMw?oc=5"
+   "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUHBCVXFlWDgxTjdOS1lpUExkdzgzZjhxQ0RhNE1ZQU5TR241elpUQXk4czFUZE94WHkwSGQzR0JPdXhPY0JRcXZqX2xtbTA0X1RROVA0bkI3OXJpRkE2OFFnQ0g3UXFMWHNzeXJLUzYyd0hWNjY5U3l3M2hnQ0RPZTB0ejhqQlI2S1AtTldGLXF2NHFBcV9PcFdIUQ?oc=5"
   ],
   [
    "Stocks",
@@ -458,9 +458,9 @@
   [
    "Commodities",
    "med",
-   "U.S. crude oil near $98 as Iran steps up attacks in Strait of Hormuz",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DVlpiaVB3TDNMcWszU0s4YVotdmZpYjUzVDVkZ1EwWU5nNTVfWDlsbVI2eVJHRHB6NDJrbXNONEtCdzFoWDJmVDF5V0ltWk5HUE1DMVNWRlhPREYtSmhMZEZUOUN6QnI3d2ZadVYwNErSAXZBVV95cUxNTnU2bkR5aVZmeE40Q3o5cjE5bmNZT2NLRVJhbnkwVzdyNFBHY0JNREQ2NjFfdy1GWEUwblVobnBYRHhiRUw4RkpLN3B6WngycUdQeTJkQlVuYVB0ekhlLUJEeVJBXzJzQlM1X1BQbGxLQmMtdndn?oc=5"
+   "Venezuela's Oil Recovery Gains Momentum as New Drilling Rigs Arrive",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaGQ5REtwdFhWSWhZcWJsUDA4cU10aXoyTEpPN2xzV2ZqS0UtcC1XRV80WG5GNnVUZFRUMmRvcXJsbTNoYVhzWUdINkVfU1k5R1VLejV2SjItbkp4NVJLdnZ4VktPMUxkTUR3YjVOU2VZcWp5S1BmUmJ0czdVZllOS2oxTktxdGpBNE0ydGFrOElSOE5qWUJYYmI5eVlBd1Y3UGdRSGNibC0tVGNYa2fSAbMBQVVfeXFMTm9zN2JmT2VLb3E2S1Y4ZGczeU52aTJESFlFaTh6dUF3QUFxX3U4YU9xenZjVUphejNjWTFpTU9QWXhybHA2UEpCZjhhSzhPd0hmbVd3dUFFTVlMRzFMM205RnpVcUdoZkN6cTgtV09Ob25BOE1BMHEyWmxHTndVRGhPeVFhcDNncGNUNnNGX3Z0M3IzUjhweWx1Y2NUU2EyQ1lqM3RQS3Y3TU9VY01uTHZ6eUk?oc=5"
   ]
  ]
 }
