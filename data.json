@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T21:43:51.168Z",
+ "updated": "2026-10-16T22:43:57.982Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -280,17 +280,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81608.78,
-   "ch": -0.64,
-   "asof": "2026-10-16T21:43:46.000Z"
+   "p": 81658.17,
+   "ch": -0.58,
+   "asof": "2026-10-16T22:43:53.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2414.25,
-   "ch": -1.05,
-   "asof": "2026-10-16T21:43:43.000Z"
+   "p": 2422.49,
+   "ch": -0.71,
+   "asof": "2026-10-16T22:43:55.000Z"
   },
   {
    "s": "S&P 500",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.18,
-   "ch": -1.09,
-   "asof": "2026-10-16T21:43:47.000Z"
+   "p": 104.31,
+   "ch": -0.97,
+   "asof": "2026-10-16T22:43:49.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3056,
-   "ch": -2.07,
-   "asof": "2026-10-16T21:43:50.000Z"
+   "p": 1.3085,
+   "ch": -1.85,
+   "asof": "2026-10-16T22:43:53.000Z"
   },
   {
    "s": "Apple",
@@ -423,21 +423,21 @@
   [
    "Crypto",
    "med",
-   "Strategy stock falls as Michael Saylor's bitcoin giant faces index-level threat",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR242MmNRTnFjbm1fbWdzZDJnODhmSjc2aVpNS2VLYWVWQm9Xa2pqU2hUWDU2MzRXQ2dRQVlXTnJheFdvMTI5ZzJpTTBjOTNHenFvNWtZdlZaQ0VCdlpfamp2TkhkWi1Ndy1VdVBzaVRKUkQ3YTlyNFZrYzh6cGNId2Y2R2F1MW0zVll4TnVwZDhhbkJpQUdnNzNaRUM5UnlyRG5HUU05STlsamt6NWVZRzJ3M1ZXMTIzbXBxVHFKeU9xRVd6dm1KNVYyZUlTTmJpMDlEVlQtNnVKUQ?oc=5"
+   "He Crafted a Crypto Law for Trump—as His Company Got Millions From a Crypto Giant",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQkZMOGxoUFE3VzlTTnZUWWVVbmhVYzJSYlNwSG85NDJhWGtXS0NlZl9nTFZIa3A2c1R6Y0dfT2R6M3lzb1VvMDR2U1VHNlBlOFVxMUczTjlfY0JrX2N1RjhTR3NvMV9GcVRQbGhackxuR3lIS2ZyYWRQXzhTVEgtUVhybw?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Deutsche Bank prepares crypto custody launch, targets Asia growth",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWnpsZnAzT2VQZWFCcGkyLXVQVDNxelp4bmVZczcwSzlJUjhIUnZ2MzVGa2VVd1JQczIzYXIxT0lIVW8tZTJxdW5jR2xaLUU5QjBiSDl4a01oaE5qeTBEUnNUMEdabUZiTDRRQjFaWnlJRHYwT1VLZTV6SmNYSERRYkwtbV9KSkQybkdaQkJSOF80d2hYRFBGWEhJcE1TT1lQUDBKTTlBbHlyeTVIS0ZtTDg0Y1JONUF3?oc=5"
+   "Weekly Wrap: Crypto Under Pressure As A.I. Trade Unwinds",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0NaamVxeXBQWERYeU5wYUZOQkpocHVmTmJJNlFSdzNzNTRtbUo2bHlsMG9HUnFqWDZ3QUpRR05TUWcyQURPRU43SEJGVEFvVi1CMU92V3M1TUNsWHNNOTZKLUlBVUpyRm5DQWtZSWVKMU4wM0ExQVliVEZOWWZQVlBkblZqcnM1MDVlelZPUUdUX0pmQldMSEdMWWJ6dW8?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Wall Street ends down sharply, worries about AI trade and high oil prices weigh",
+   "Wall Street tumbles as worries about AI trade and high oil prices weigh",
    "Reuters",
    "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0xEdzRIMVNLYnAyTkhHSmVNTnRyMDJ3WGdOeFY0Vy1kRUtmWC1FZW42aDNfWTctUHM5X2hlWkhuOHFwblR1Q054a19YV3ZLNTlVVVlmMlRTZ0wxLWE2cmN3SWpjVHU4VDJZWU12Q0hPajE5cDdvQm9ic05PNHNRVG45bEI1ZFVHaEN5QnZjbHMxUDFVbHZ2cFNlMUZydw?oc=5"
   ],
@@ -458,9 +458,9 @@
   [
    "Commodities",
    "med",
-   "Brent Oil Taps $110 for First Time Since May as Risks Swirl",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTGpNaEJ4bFlQS3h1ZVFqZU42ZG1vdUMyaFBQd3M4V1I0SkRSeXEyT0drSlUyM3ItODNSN2ktWENEUjRoUTNRMHJCNHZkdDlEWmx5eG5HX3kwakpaX0FUaUo4TXFrOU5WME5vU2FMTjhBTXFyaW56eVM1dTFILWliUVpnVi1pcE5wZVNRTjdFU2F0aXlCYnRRcWI1VHVoejZhN29EQXE4TWIyMHkwUkE?oc=5"
+   "U.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc1lNYld3a3daUlFaNWx1cTBkSWI2cG9fS0cwV3o0SGlKZmZtNC1TZjZlUHFTYy1hX2pUSUlyQVpCYUMyZkEyejVpSER2MllGeG5zc1BwSU5Mal9xdVQ4eU03ZTE2WkhzWTFFZGdWLV9FWEUzZjQwQVlubE9ib2hkeFlqOXowMTFXdmkzN2NYckE3alRzTnlOTmUtVlZjZWs3UmJhaWhGbEF4LWZ6RWZxdHhYNkRHM1VtYXBB0gHAAUFVX3lxTE5jZFpnSzdIcHpMSF83UFF3VmsyVVdhSEJWbjVSOU5wVEtMTkVSdVEzLV90RUtKcjRkd0lNTGRRUW1DakJReTRlRHZPYnFSWHJQX0xCZnJHR3ZJX01Xa3pxUFp0ZXlFNHdTdmJqcTZ2ZkI2QTg5QVhJOGt2bVdPWktLMUttelo3NEpabjVJM3BjUXZENGlBc0tEUW92ckRMdkxqa043VFhuazJESVgyWVoxWWtCR1lkNUV1eV91WFQ0NA?oc=5"
   ]
  ]
 }
