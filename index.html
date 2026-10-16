@@ -747,7 +747,10 @@ function delayText(){const sw=LANG==="sw",h=$("#delayhead"),d=$("#delaytxt");if(
   if(premium){h.textContent=sw?"Bei za moja kwa moja zimewashwa.":"Live prices are on.";
     d.textContent=sw?`Forex na kripto husasishwa kila sekunde 30. Hisa, dhahabu na mafuta husasishwa kila saa (mwisho ${ago()}). Thibitisha kwa broker wako kabla ya kufanya biashara.`:`Forex and crypto update every 30 seconds. Stocks, gold and oil refresh every hour (last ${ago()}). Check your broker before you trade.`;return}
   h.textContent=t("Prices are not live.");
-  d.textContent=LANG==="sw"?`Imesasishwa ${ago()}. NewsTrade husasishwa kila saa, hivyo bei zinaweza kuwa za hadi saa moja iliyopita. Thibitisha kwa broker wako kabla ya kufanya biashara.`:`Last refresh ${ago()}. NewsTrade refreshes every hour, so prices can be up to an hour old. Check your broker before you trade.`;}
+  d.textContent=LANG==="sw"?`Imesasishwa ${ago()}. NewsTrade husasishwa kila saa, hivyo bei zinaweza kuwa za hadi saa moja iliyopita. Thibitisha kwa broker wako kabla ya kufanya biashara.`:`Last refresh ${ago()}. NewsTrade refreshes every hour, so prices can be up to an hour old. Check your broker before you trade.`;
+  const live=document.createElement("b");live.className="livepro";live.textContent=sw?" ★ Bei ni za moja kwa moja kwa Premium (kila sekunde 30).":" ★ Prices are live for Premium (every 30 seconds).";
+  if(!IN_APP){live.dataset.plans="1";live.style.cursor="pointer";live.style.textDecoration="underline"}
+  d.appendChild(live);}
 function render(){chips();tzLabel();$("#upd").textContent="Updated "+fmtDT(UPDATED_AT);
   delayText();calendar();markets();newsView();journal()}
 $("#tzbtn").addEventListener("click",openTz);

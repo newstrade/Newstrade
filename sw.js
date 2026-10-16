@@ -1,7 +1,7 @@
 // NewsTrade service worker.
 // The app itself opens instantly from the saved copy and quietly downloads the newest version for next time.
 // Market data is fetched fresh (with a short timeout, falling back to the last saved data when offline or slow).
-const CACHE = "newstrade-v4";
+const CACHE = "newstrade-v5";
 const SHELL = ["./", "./index.html", "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png"];
 
 self.addEventListener("install", (e) => {
