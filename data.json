@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T10:46:22.680Z",
+ "updated": "2026-10-16T11:45:37.022Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,65 +232,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.127,
-   "ch": 0.44,
-   "asof": "2026-10-16T10:45:29.000Z"
+   "p": 1.1259,
+   "ch": 0.34,
+   "asof": "2026-10-16T11:45:25.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3345,
-   "ch": 0.53,
-   "asof": "2026-10-16T10:45:29.000Z"
+   "p": 1.334,
+   "ch": 0.5,
+   "asof": "2026-10-16T11:45:25.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.89,
-   "ch": -0.05,
-   "asof": "2026-10-16T10:46:22.000Z"
+   "p": 158.034,
+   "ch": 0.04,
+   "asof": "2026-10-16T11:45:36.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6968,
-   "ch": 0.64,
-   "asof": "2026-10-16T10:45:29.000Z"
+   "p": 0.696,
+   "ch": 0.52,
+   "asof": "2026-10-16T11:45:25.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4151,
-   "ch": -0.24,
-   "asof": "2026-10-16T10:46:21.000Z"
+   "p": 1.4147,
+   "ch": -0.27,
+   "asof": "2026-10-16T11:45:36.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8225,
-   "ch": -0.46,
-   "asof": "2026-10-16T10:46:22.000Z"
+   "p": 0.823,
+   "ch": -0.4,
+   "asof": "2026-10-16T11:45:36.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82084.87,
-   "ch": -0.06,
-   "asof": "2026-10-16T10:46:18.000Z"
+   "p": 82576.1,
+   "ch": 0.54,
+   "asof": "2026-10-16T11:45:35.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2459.95,
-   "ch": 0.82,
-   "asof": "2026-10-16T10:46:21.000Z"
+   "p": 2475.54,
+   "ch": 1.46,
+   "asof": "2026-10-16T11:45:33.000Z"
   },
   {
    "s": "S&P 500",
@@ -320,17 +320,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4203.9,
-   "ch": 0.81,
-   "asof": "2026-10-16T10:36:16.000Z"
+   "p": 4198.6,
+   "ch": 0.68,
+   "asof": "2026-10-16T11:35:34.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 95.73,
-   "ch": -0.8,
-   "asof": "2026-10-16T10:36:21.000Z"
+   "p": 96.27,
+   "ch": -0.24,
+   "asof": "2026-10-16T11:35:35.000Z"
   },
   {
    "s": "USD/KES",
@@ -344,9 +344,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4154,
-   "ch": -0.48,
-   "asof": "2026-10-16T10:46:22.000Z"
+   "p": 16.4299,
+   "ch": -0.39,
+   "asof": "2026-10-16T11:45:36.000Z"
   },
   {
    "s": "USD/NGN",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 106.39,
-   "ch": 1.01,
-   "asof": "2026-10-16T10:46:20.000Z"
+   "p": 106.53,
+   "ch": 1.14,
+   "asof": "2026-10-16T11:45:26.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3415,
-   "ch": 0.62,
-   "asof": "2026-10-16T10:46:18.000Z"
+   "p": 1.3461,
+   "ch": 0.97,
+   "asof": "2026-10-16T11:45:34.000Z"
   },
   {
    "s": "Apple",
@@ -400,12 +400,19 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.95,
-   "ch": 1.39,
-   "asof": "2026-10-16T10:36:03.000Z"
+   "p": 57.99,
+   "ch": 1.46,
+   "asof": "2026-10-16T11:35:11.000Z"
   }
  ],
  "news": [
+  [
+   "Forex",
+   "med",
+   "Seeking Less Harmful Alternatives to Central Bank Rate Rises",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHMtWDVXRkxJblRXWElJd2dNS25VZE9SS0g4X0FUN3FOSlB3RmRyTlQ2ZWJoYjFRWThRb3BGU2x0Z3BzV25ZTG05c3A3bVZ3UUxpdzk0dVQwQm5DWFl0UWtFdktVY3RnTkExUnBCbnZONHE1TFF1bC1qUkxqeEx6Q1Iwa1VBb0xOemo2S3NrVlh3TFFER0EzYm1Wb3dmNlNaNHIzVUc3ZTlyODZwd1RuUE5Kbw?oc=5"
+  ],
   [
    "Forex",
    "med",
@@ -414,25 +421,25 @@
    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWFkyTjdwVFZQTHlDQVdqS0ZBMTY2S3Z4TUhKOUxYVUFSbmRFeXhqb21hRnNHdFoxb0tqZVBjWU9XdkhGV0lWUnRpUS1BcHRrMG80OUNyNGE3VDBDTkFDQ05HWnRFUnJkMUJsSU9Yc3NJWGp5bEE3blhwVWNmNFZRRWFhbzl2UlBYVGh3cHdRS0QzZUdFQy1UbnRERVp2a0xocEEzWTlWazJnZnAwTTJ3RGhB?oc=5"
   ],
   [
-   "Forex",
-   "med",
-   "Can Zimbabwe’s ZiG win trust and replace the US dollar?",
-   "Al Jazeera",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbU5zSWNiak5uU2Z2eGcxQzk5V0hJSGVHdmRBVnMyeDNDMUxRVW1ISXhqMEV0Wk1wWnZzY2JDdEJDOXFRTkh3dGh2LXB2eTBsMlMyazU4dDU3cUEydExVb1NFVVM1LWpCUnJfY3RwVWllVHU5RDhJaDB4VFdyMXAyZkJDZUNyR3k1b1hKWWpCek9kUHpxLXZlVFdoYm56LTDSAaQBQVVfeXFMTUNTNmZnTFo0Skk1V1BSTjEzSXVjbzZvek9KVWFkamFGYnlBbmc1Ui1FUzN6QmFMSHVfNk8xSFlrUUJrLWRQZzNkYmstLXdhNE02aHMyTVRQd1ZnMVRhdl9FSmRrZk41YklNOXd6NEVMSGc2cmV4WHdLV21RU3R0X2tJTUNKMENLMUV4MzVHN25pb0lJWlhGaFdhNXNKWmFPcm5JdHI?oc=5"
-  ],
-  [
    "Crypto",
-   "med",
-   "He Crafted a Crypto Law for Trump—as His Company Got Millions From a Crypto Giant",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQkZMOGxoUFE3VzlTTnZUWWVVbmhVYzJSYlNwSG85NDJhWGtXS0NlZl9nTFZIa3A2c1R6Y0dfT2R6M3lzb1VvMDR2U1VHNlBlOFVxMUczTjlfY0JrX2N1RjhTR3NvMV9GcVRQbGhackxuR3lIS2ZyYWRQXzhTVEgtUVhybw?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "Ripple (XRP) and Stellar (XLM) Are Trailing Bitcoin This Month. Which Catches Up First?",
+   "high",
+   "Bitcoin and ethereum prices today, Friday, October 16, 2026: Bitcoin, ethereum prices firm despite two strong inflation reports",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVkgxYUxfSzNVeGxQbWlpc1cwbFQxam9Ncmg5bG9nbUJocWtHd2M2NlJaYU9Yc2RUN0NQTFJvbFY5dzZ2RE50MmRtUkNhcDZCMFV0MXgzMTNKQ2tEQ3dSdFhEdVdGT0Y3UnJDNFM4ZUgwUWJpZml2THhHRElSLVF0Y0hIX205cVFUbzNHZHRyUDc1RmxQU1h4elZnckY?oc=5"
+   "https://news.google.com/rss/articles/CBMipAJBVV95cUxOcExnQXgyOEJNcmFfYmw2djFSbGhyMWJKdXlnYzJ2RUliU3U1ZlVpdUQ0MWx4MzZ6QUhDOHlyelJGOEZxbGU0bFVIQmZocTNselllRzJCeFBXNlZocWI2eXFVaHlfZi0wclA4WGt0blJ0MlRkeVBJMlczVldLLXJGVXRTT1N1TkhNOW5UMGFmZFFWTG5McVZkdXc1a0Vjb3BHakpibVVWazdrSGdWekQ3MEVyUEl5blRIeFFIY3pHVkt6TW1FNG1PZHU1V0tUczIzT2w0a0lDREt1enhHVnZFMy10YUFzaEZmNDFHRlR6dDNYNThzd2ZkaGo3SG9taTN2OHlUbzdoOWwyUVZrV3pBckVwSFFJLTFFZmVIWHJmYmtod01Z?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "Strategy Stock Sinks as Index Exclusion May Outweigh Bitcoin Prices",
+   "Barron's",
+   "https://news.google.com/rss/articles/CBMilgFBVV95cUxObWxmaktzQ2laUnEzMUJiRVlhR1pBNVlMX05ET0stVktuT3N2U3Zxbll3S1JsTlZMaG85dHM1S0w1czNiNVdwcVVLUVliaDlTMXJzZ1Uxb3Z3YWlVbVowdm5zaHJGOEg5b2c2ZHhzN1JlZmJKRnNBcU1tczAtZzBrQmQ1U2FBeTA0MVN4OVQzU0E1RE8zX3c?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
+   "Wall Street Trading Desks Get Undermined",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdG0xMWVJbnlMNHp4TlRMYkhyUnBXYmE3T1NoWHM0Rzl3UFVWUHlPZE5CWUtyYm9ycm9qWjlEXzFSZy1XbTZHTE5xbUoxNlp4WUU0Wkp6TVc4RE4wRkF5bjllUm1yYU9ya19tTlRXZGJzMndrOEtHaTh4NlAtdmNrWFRIWWk2Tm5WbG1jWWF5NjY?oc=5"
   ],
   [
    "Stocks",
@@ -440,13 +447,6 @@
    "S&P 500 ends higher as traders shift from AI to healthcare",
    "Reuters",
    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZTRob0s4X3hCYkZQZzFfeUxuU1ZlN0tPT2hvelcwcW9QdU9yeVN1ZUZfR253ZUNoN3NjUlRHbG9aS0wzMmVGLUpNOVcyTUlHOWo3WERDX1psTXlmWGthb0JPN19GMGxnT2pkYkRWQ0R1THEyODhoWnZTd1NIQjdZbm5fLXNYb0M2c1g2YU02TENSSi1xSFZMQzRuUTc?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Stock Market: Will S&P 500 Open Up or Down Today?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMVQ1VkZFdWhTQ19aa2o5Z1NQM1FtaW11dzMxWXdqRE1QdmQtNTg4YTdYNGFsU2lSekhFeHhkWVNQSndPN1EtUTRtTDNBY3R5QmRwVlJiMTV5c2JlUFdlXzY5SE1JXy1yaDNMck1wUU1mT1Z6ZkZKNl9JWWdDM1VYTXZhN3J2a0c0Zk1BYkZ5ODM0QQ?oc=5"
   ],
   [
    "Commodities",
@@ -458,9 +458,9 @@
   [
    "Commodities",
    "med",
-   "Crude Oil Slips as Hormuz Shipping Risks and US Inventory Draw Support Weekly Gains",
-   "Yahoo Finance UK",
-   "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUNscUVMOHU5Vm43cjdJYkN3YW5OeU5ZZlV5X010eWF3Qm9LNUFvRF9YMGtNa3lVOFRka2p0QVMxejRLbEc3enlBdE5TU2N1aGQyeG9LSHhOdkJ1UzRHdm1UcUFBRWNFUnEyM3RLcmRLLUFlNkZDSVBrOFhKSF9rZ2p1QVZqNnM?oc=5"
+   "Gold price today, Friday, October 16, 2026: Gold lifts as Treasury yields and dollar fall back",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYTdlYXpVRFE4a0pkTDdONG1yblhsX2RvOXphaHJwUkhVTkJlTUNhWEJXV19WMHpTMTZ5MkJON3dBRFVQcUxMR25ZX0libGpzT3B0bUxiSjd5MFNIUG5pQV9jR2tVTS1ZMmlhdW1vUDFxWDJ3MnVzOEF3eHZnM1dDVEFadUdwcDUtMFc1bU5RckpVVTBJRHhsWWYyUUVXOEp1VHQ4NGU4cXpRZ25ISVVPWFBQdHpEb1pFbTVJbWxVVDgwYTRPY0F3ODBFQjJqM2dGU3k5UjBZNGNFWnZNSlZrMlZUazMtMnF0TzQtVUctejRVQXZzdkZUbFh3?oc=5"
   ]
  ]
 }
