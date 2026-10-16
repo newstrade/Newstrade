@@ -292,10 +292,6 @@ header{background:color-mix(in srgb,var(--bg) 72%,transparent);-webkit-backdrop-
 .invite .meter i.on{background:var(--accent)}
 .social{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;margin:-4px 0 14px;font-size:13px;color:var(--muted);animation:rise .4s ease-out both}
 .social b{font:600 14px var(--mono);color:var(--fg);font-variant-numeric:tabular-nums}
-.social .on{display:inline-flex;align-items:center;gap:7px}
-.social .on i{width:8px;height:8px;border-radius:50%;background:var(--up);position:relative}
-.social .on i::after{content:"";position:absolute;inset:0;border-radius:50%;background:var(--up);animation:livepulse 1.8s ease-out infinite}
-@keyframes livepulse{0%{transform:scale(1);opacity:.7}100%{transform:scale(3);opacity:0}}
 .live{margin:0;font-size:12px;color:var(--muted);display:flex;align-items:center;gap:6px}
 .live i{width:7px;height:7px;border-radius:50%;background:var(--up);flex:none;animation:livepulse2 1.6s ease-out infinite}
 .live.old i{background:var(--med);animation:none}
@@ -1210,9 +1206,8 @@ function journalExtras(){const el=$("#v-journal");if(!el)return;el.querySelector
     :`<div class="invite" style="border-style:solid"><b>${LANG==="sw"?"Jiunge na orodha":"Join the leaderboard"}</b><div class="lnk"><input id="lbname" maxlength="24" placeholder="${LANG==="sw"?"Jina la kuonyesha":"Display name"}" value="${esc((me.user_metadata?.name||"").split(" ")[0])}"><button class="ghost" data-lbjoin>${LANG==="sw"?"Jiunge":"Join"}</button></div><span class="hint" style="margin:0">${LANG==="sw"?"Jina lako la kuonyesha na kiwango cha ushindi pekee ndivyo vinaonekana.":"Only your display name and win rate are shown, never your trades or profit."}</span></div>`;
   h+=`</div>`;el.insertAdjacentHTML("beforeend",h)}
 
-// SOCIAL PROOF (real numbers only): traders this week, and how many people have the app open right now.
-// Always shown once a number is available.
-let weekly=0,online=0,shown={weekly:0,online:0},onlineChan=null;
+// TRADERS THIS WEEK (real number): unique visitors in the last 7 days, counted up when the app opens.
+let weekly=0,shownWeekly=0;
 const reduceMotion=matchMedia("(prefers-reduced-motion: reduce)");
 const anims=new WeakMap();
 function countUp(el,from,to){if(!el)return;if(reduceMotion.matches||from===to){el.textContent=to.toLocaleString();return}
@@ -1221,23 +1216,11 @@ function countUp(el,from,to){if(!el)return;if(reduceMotion.matches||from===to){e
   const step=now=>{if(anims.get(el)!==id)return;const k=Math.min(1,(now-t0)/dur),e=1-Math.pow(1-k,3);el.textContent=Math.round(from+(to-from)*e).toLocaleString();if(k<1)requestAnimationFrame(step)};
   requestAnimationFrame(step)}
 function socialView(){const el=$("#social");if(!el)return;
-  const w=weekly>0,o=online>0;
-  if(!w&&!o){el.hidden=true;return}
-  if(el.hidden||!el.querySelector("#sc-w")!==!w||!el.querySelector("#sc-o")!==!o){
-    // keep numbers already on screen; only a part that is new starts counting from 0
-    const cur=id=>{const x=el.hidden?null:el.querySelector(id);return x?+x.textContent.replace(/\D/g,"")||0:0};
-    shown.weekly=cur("#sc-w");shown.online=cur("#sc-o");
-    el.innerHTML=(o?`<span class="on"><i aria-hidden="true"></i><span><b id="sc-o">${shown.online.toLocaleString()}</b> ${LANG==="sw"?"wako mtandaoni sasa":"online now"}</span></span>`:"")
-      +(w?`<span>🔥 <b id="sc-w">${shown.weekly.toLocaleString()}</b> ${LANG==="sw"?"wafanyabiashara wametumia NewsTrade wiki hii":"traders used NewsTrade this week"}</span>`:"");
-    el.hidden=false}
-  if(w){countUp($("#sc-w"),shown.weekly,weekly);shown.weekly=weekly}
-  if(o){countUp($("#sc-o"),shown.online,online);shown.online=online}}
+  if(!(weekly>0)){el.hidden=true;return}
+  if(el.hidden||!el.querySelector("#sc-w")){
+    el.innerHTML=`<span>🔥 <b id="sc-w">0</b> ${LANG==="sw"?"wafanyabiashara wametumia NewsTrade wiki hii":"traders used NewsTrade this week"}</span>`;el.hidden=false;shownWeekly=0}
+  countUp($("#sc-w"),shownWeekly,weekly);shownWeekly=weekly}
 async function loadSocial(){if(!sb)return;try{const {data,error}=await sb.rpc("public_stats");if(!error&&data){weekly=+data.week_visitors||0;socialView()}}catch(_){}}
-function joinOnline(){if(!sb||!sb.channel||onlineChan)return;
-  const key=store.get("nt-vid",null)||("t"+Math.random().toString(36).slice(2));
-  try{onlineChan=sb.channel("online-now",{config:{presence:{key}}});
-    onlineChan.on("presence",{event:"sync"},()=>{online=Object.keys(onlineChan.presenceState()).length;socialView()})
-      .subscribe(async st=>{if(st==="SUBSCRIBED")await onlineChan.track({since:Date.now()})})}catch(_){}}
 setInterval(()=>{if(!document.hidden)loadSocial()},5*60e3);
 
 // VISIT COUNTER: one anonymous count per app open. A random id on this device tells repeat visitors apart;
@@ -1306,7 +1289,7 @@ async function initAuth(){
   if(sb)return;
   sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY);
   const {data}=await sb.auth.getSession();me=data.session?.user||null;acctLabel();if(me)pullPrefs();
-  render();loadCounts();trackVisit();loadSocial();joinOnline();
+  render();loadCounts();trackVisit();loadSocial();
   sb.auth.onAuthStateChange((ev,s)=>{const was=me;me=s?.user||null;acctLabel();if(view==="chat"){chatShell();renderChat()}if(me&&!was)pullPrefs();if(!me&&was){jrows=null;jstate="idle";sub=null;premium=false;subLoaded=false;render()}});
 }
 $("#acctbtn").addEventListener("click",()=>{if(me){$("#meh").textContent="Hi "+(me.user_metadata?.name||"there");$("#meemail").textContent="Signed in as "+me.email;$("#emailopt").checked=!!me.user_metadata?.emailAlerts;$("#emailmsg").textContent="";planBox();inviteBox();loadSub();$("#mesheet").hidden=false}else{setMode("in");$("#authsheet").hidden=false;$("#aemail").focus()}});
