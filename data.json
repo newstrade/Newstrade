@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T05:44:15.516Z",
+ "updated": "2026-10-16T06:57:48.644Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,65 +232,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.123,
-   "ch": 0.08,
-   "asof": "2026-10-16T05:43:28.000Z"
+   "p": 1.1236,
+   "ch": 0.13,
+   "asof": "2026-10-16T06:57:29.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3298,
-   "ch": 0.18,
-   "asof": "2026-10-16T05:43:28.000Z"
+   "p": 1.3311,
+   "ch": 0.28,
+   "asof": "2026-10-16T06:57:29.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.862,
-   "ch": -0.07,
-   "asof": "2026-10-16T05:44:15.000Z"
+   "p": 157.931,
+   "ch": -0.03,
+   "asof": "2026-10-16T06:57:48.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6945,
-   "ch": 0.3,
-   "asof": "2026-10-16T05:43:28.000Z"
+   "p": 0.6951,
+   "ch": 0.39,
+   "asof": "2026-10-16T06:57:29.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4184,
-   "ch": -0.01,
-   "asof": "2026-10-16T05:44:14.000Z"
+   "p": 1.4174,
+   "ch": -0.08,
+   "asof": "2026-10-16T06:57:48.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8271,
-   "ch": 0.1,
-   "asof": "2026-10-16T05:44:13.000Z"
+   "p": 0.8263,
+   "ch": 0,
+   "asof": "2026-10-16T06:57:48.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81994.42,
-   "ch": -0.17,
-   "asof": "2026-10-16T05:44:11.000Z"
+   "p": 82111.47,
+   "ch": -0.03,
+   "asof": "2026-10-16T06:57:45.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2441.91,
-   "ch": 0.08,
-   "asof": "2026-10-16T05:44:13.000Z"
+   "p": 2448.21,
+   "ch": 0.34,
+   "asof": "2026-10-16T06:57:45.000Z"
   },
   {
    "s": "S&P 500",
@@ -320,17 +320,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4195,
-   "ch": 0.6,
-   "asof": "2026-10-16T05:34:13.000Z"
+   "p": 4199.5,
+   "ch": 0.71,
+   "asof": "2026-10-16T06:47:38.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 95.79,
-   "ch": -0.74,
-   "asof": "2026-10-16T05:34:10.000Z"
+   "p": 95.76,
+   "ch": -0.77,
+   "asof": "2026-10-16T06:47:42.000Z"
   },
   {
    "s": "USD/KES",
@@ -338,15 +338,15 @@
    "d": 2,
    "p": 129.71,
    "ch": 0,
-   "asof": "2026-10-16T03:22:01.000Z"
+   "asof": "2026-10-16T06:05:41.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.457,
-   "ch": -0.22,
-   "asof": "2026-10-16T05:44:16.000Z"
+   "p": 16.4497,
+   "ch": -0.27,
+   "asof": "2026-10-16T06:57:48.000Z"
   },
   {
    "s": "USD/NGN",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 105.59,
-   "ch": 0.25,
-   "asof": "2026-10-16T05:44:12.000Z"
+   "p": 106.31,
+   "ch": 0.93,
+   "asof": "2026-10-16T06:57:40.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3343,
-   "ch": 0.08,
-   "asof": "2026-10-16T05:44:06.000Z"
+   "p": 1.3402,
+   "ch": 0.53,
+   "asof": "2026-10-16T06:57:41.000Z"
   },
   {
    "s": "Apple",
@@ -400,19 +400,12 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.865,
-   "ch": 1.24,
-   "asof": "2026-10-16T05:34:13.000Z"
+   "p": 57.88,
+   "ch": 1.27,
+   "asof": "2026-10-16T06:47:11.000Z"
   }
  ],
  "news": [
-  [
-   "Forex",
-   "med",
-   "US Treasury says Japan no longer faces deflationary environment, yen level must change",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVnlFbzgwbXQ1Q3RjNk9wS2U2dHhqUzJLMENfa3Q1NU5pSUc2ZW96Mlg4Uk9sbDhic0N4YVhaNkpvbmphcTJSSnlJNjRUdFhXNWoxc3dzbUhRV054M0YyMjZBT3hRRFhSLWhYbFh0QUZjRThCUDFSRlptWVJ6YUN0OWkzYlJEQi14Z1ZMazE0WnJmU18yUHVmc2x4OXd4VU5DVlh3dUZ0cTV5UWRFQ2JrMnNEZXBSM0VjcjRxOHhabk1CY0oxaEF0SmF0ZUxJdw?oc=5"
-  ],
   [
    "Forex",
    "med",
@@ -421,11 +414,18 @@
    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbU5zSWNiak5uU2Z2eGcxQzk5V0hJSGVHdmRBVnMyeDNDMUxRVW1ISXhqMEV0Wk1wWnZzY2JDdEJDOXFRTkh3dGh2LXB2eTBsMlMyazU4dDU3cUEydExVb1NFVVM1LWpCUnJfY3RwVWllVHU5RDhJaDB4VFdyMXAyZkJDZUNyR3k1b1hKWWpCek9kUHpxLXZlVFdoYm56LTDSAaQBQVVfeXFMTUNTNmZnTFo0Skk1V1BSTjEzSXVjbzZvek9KVWFkamFGYnlBbmc1Ui1FUzN6QmFMSHVfNk8xSFlrUUJrLWRQZzNkYmstLXdhNE02aHMyTVRQd1ZnMVRhdl9FSmRrZk41YklNOXd6NEVMSGc2cmV4WHdLV21RU3R0X2tJTUNKMENLMUV4MzVHN25pb0lJWlhGaFdhNXNKWmFPcm5JdHI?oc=5"
   ],
   [
+   "Forex",
+   "med",
+   "US Treasury says Japan no longer faces deflationary environment, yen level must change",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVnlFbzgwbXQ1Q3RjNk9wS2U2dHhqUzJLMENfa3Q1NU5pSUc2ZW96Mlg4Uk9sbDhic0N4YVhaNkpvbmphcTJSSnlJNjRUdFhXNWoxc3dzbUhRV054M0YyMjZBT3hRRFhSLWhYbFh0QUZjRThCUDFSRlptWVJ6YUN0OWkzYlJEQi14Z1ZMazE0WnJmU18yUHVmc2x4OXd4VU5DVlh3dUZ0cTV5UWRFQ2JrMnNEZXBSM0VjcjRxOHhabk1CY0oxaEF0SmF0ZUxJdw?oc=5"
+  ],
+  [
    "Crypto",
    "med",
-   "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
+   "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
    "CoinDesk",
-   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWpkSWxHaFVZbnAtX0RpLVJSb0xyQ19NbGJwNlVWQzRrUm9xN2lfRFdPU2ZKOW00UzZ0eDFxS3lLem9CVnRRZ2ladnRWOVk3TTQtdUJWeHZXODFaY190cjRGRjJxc0R4NXBsRHNYMF9NWmxGZV96czNmODl2QjREUzNNRnJNRlIzeXA5cmxmLTRvLTEwc0Vpb3hKeDdBbG4zU0pSczJiYlpnajFMU0wxM3laeUVFZTNPMGRB?oc=5"
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMWxIa0l4anBRWktVYTE4UzJrNFkwZ0NJTDdjaGFtT1g5V0R2aktFQjZqS2RhaHBCYnE3bk43WVVxdWkzeFo1cW0wbFlIUW5haml0UXhoRG41d0l5ek0zSEx3eUJhczBuR2IxX3JRMGt4RXYzYldYTUo4TldzY2doeHp1dzR2dUZxM2JIVXNpa0dfMXRfeGF3MWlUX3hnYTg1bFFYYkVRQWF0NUxwbU9YelFVVQ?oc=5"
   ],
   [
    "Crypto",
