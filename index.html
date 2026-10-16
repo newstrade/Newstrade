@@ -303,6 +303,7 @@ header{background:color-mix(in srgb,var(--bg) 72%,transparent);-webkit-backdrop-
 .cookie .amts button[aria-pressed="true"]{background:var(--med);border-color:var(--med);color:#fff}
 .cookie .num{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
 .cookie .num b{font:600 22px var(--mono);letter-spacing:.02em;-webkit-user-select:text;user-select:text}
+.cookie ol a{color:var(--accent)}
 .cookie ol{margin:0;padding-left:20px;font-size:14px;display:flex;flex-direction:column;gap:3px}
 .daysep{align-self:center;font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
 .promo .go{margin-left:auto;font:700 13px var(--body);color:var(--accent);white-space:nowrap}
@@ -799,6 +800,10 @@ let wantPremium=false;
 const MPESA="0793316050";let tipAmt=100;
 // Global tips: paste a PayPal.me link (e.g. https://paypal.me/yourname) or a Ko-fi page. Empty = button hidden.
 const GLOBAL_TIP_URL="";
+// Name on the M-Pesa account (some transfer apps ask for it). Leave empty to not show it.
+const MPESA_NAME="";
+const MPESA_INTL="+254"+MPESA.replace(/^0/,"");
+const ABROAD_APPS=[["Wise","https://wise.com"],["Sendwave","https://www.sendwave.com"],["WorldRemit","https://www.worldremit.com"],["Remitly","https://www.remitly.com"],["Western Union","https://www.westernunion.com"]];
 const KES_PER_USD=()=>{const k=instruments.find(i=>i.s==="USD/KES")?.p;return k>0?k:130};
 function cookieBox(){const el=$("#cookie");if(!el)return;if(IN_APP){el.hidden=true;return}
   const sw=LANG==="sw",fmt=MPESA.replace(/(\d{4})(\d{3})(\d{3})/,"$1 $2 $3");
@@ -808,8 +813,16 @@ function cookieBox(){const el=$("#cookie");if(!el)return;if(IN_APP){el.hidden=tr
     <div class="amts" role="group" aria-label="${sw?"Kiasi":"Amount"}">${[50,100,250,500].map(a=>`<button data-tip="${a}" aria-pressed="${a===tipAmt}">KES ${a}</button>`).join("")}</div>
     <div class="num"><span>${sw?"Nambari ya M-Pesa":"M-Pesa number"}:</span><b>${fmt}</b><button class="ghost" data-copytip style="padding:6px 12px">${sw?"Nakili":"Copy"}</button></div>
     <ol><li>${sw?"Fungua M-Pesa (au piga *334#)":"Open M-Pesa (or dial *334#)"}</li><li>${sw?"Chagua <b>Tuma Pesa</b>":"Choose <b>Send Money</b>"}</li><li>${sw?"Weka nambari":"Enter"} <b>${MPESA}</b></li><li>${sw?"Kiasi":"Amount"}: <b>KES ${tipAmt}</b>, ${sw?"kisha weka PIN yako":"then enter your PIN"}</li></ol>
+    <div style="border-top:1px solid var(--line);padding-top:10px;display:flex;flex-direction:column;gap:8px">
+      <b>🌍 ${sw?"Uko nje ya Kenya? Tuma moja kwa moja kwa M-Pesa":"Outside Kenya? Send straight to M-Pesa"}</b>
+      <div class="num"><b style="font-size:19px">${MPESA_INTL.replace(/(\+254)(\d{3})(\d{3})(\d{3})/,"$1 $2 $3 $4")}</b><button class="ghost" data-copyintl style="padding:6px 12px">${sw?"Nakili":"Copy"}</button></div>
+      ${MPESA_NAME?`<span style="font-size:14px">${sw?"Jina":"Name"}: <b>${esc(MPESA_NAME)}</b></span>`:""}
+      <ol><li>${sw?"Fungua programu ya kutuma pesa":"Open a money transfer app"}: ${ABROAD_APPS.map(([n,u])=>`<a href="${u}" target="_blank" rel="noopener">${n}</a>`).join(", ")}</li>
+        <li>${sw?"Chagua <b>Kenya</b> → <b>M-Pesa / mobile money</b>":"Choose <b>Kenya</b> → <b>M-Pesa / mobile money</b>"}</li>
+        <li>${sw?"Weka nambari hapo juu na kiasi (takriban":"Enter the number above and the amount (about"} <b>$${tipUSD()}</b>${sw?")":")"}</li></ol>
+      <span class="fine" style="text-align:left">${sw?"Pesa hufika kwenye M-Pesa ndani ya dakika. Ada hulipwa na anayetuma.":"Money usually arrives on M-Pesa within minutes. The sender pays the app's fee."}</span></div>
     ${GLOBAL_TIP_URL?`<div style="border-top:1px solid var(--line);padding-top:10px;display:flex;flex-direction:column;gap:8px">
-      <b>${sw?"Uko nje ya Kenya?":"Outside Kenya?"}</b>
+      <b>${sw?"Au tumia kadi au PayPal":"Or use a card or PayPal"}</b>
       <a class="primary" style="text-align:center;text-decoration:none" href="${esc(globalTipLink())}" target="_blank" rel="noopener">💳 ${sw?"Tuma kwa kadi au PayPal":"Tip with card or PayPal"} · $${tipUSD()}</a>
       <span class="fine" style="text-align:left">${sw?"Visa, Mastercard au PayPal, kutoka nchi yoyote.":"Visa, Mastercard or PayPal, from any country."}</span></div>`:""}
     <p class="fine" style="text-align:left">${sw?"Zawadi ni hiari na haifungui Premium. Asante! 🙏":"Tips are optional and don't unlock Premium. Thank you! 🙏"}</p>`}
@@ -1388,6 +1401,7 @@ document.addEventListener("click",e=>{
     sb.from("price_alerts").insert({market:sym,direction:$("#pxdir").value,price:v}).then(({error})=>{if(!error)pxAlertBox(sym)});return}
   const pxd=e.target.closest("[data-pxdel]"); if(pxd){sb.from("price_alerts").delete().eq("id",pxd.dataset.pxdel).then(()=>pxAlertBox(curEv.sym));return}
   const tp=e.target.closest("[data-tip]"); if(tp){tipAmt=+tp.dataset.tip;cookieBox();return}
+  if(e.target.closest("[data-copyintl]")){const b=e.target.closest("[data-copyintl]");(navigator.clipboard?.writeText(MPESA_INTL)||Promise.reject()).then(()=>{b.textContent=LANG==="sw"?"Imenakiliwa":"Copied"}).catch(()=>{});return}
   if(e.target.closest("[data-copytip]")){const b=e.target.closest("[data-copytip]");(navigator.clipboard?.writeText(MPESA)||Promise.reject()).then(()=>{b.textContent=LANG==="sw"?"Imenakiliwa":"Copied"}).catch(()=>{});return}
   const vt=e.target.closest("[data-vote]"); if(vt){vote(+vt.dataset.vote);return}
   if(e.target.closest("[data-copyref]")){const inp=e.target.closest(".invite").querySelector("input"),b=e.target.closest("[data-copyref]");
