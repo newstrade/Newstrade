@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T12:57:12.150Z",
+ "updated": "2026-10-16T13:51:34.691Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,187 +232,180 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1245,
-   "ch": 0.21,
-   "asof": "2026-10-16T12:56:27.000Z"
+   "p": 1.1255,
+   "ch": 0.3,
+   "asof": "2026-10-16T13:50:28.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3332,
-   "ch": 0.44,
-   "asof": "2026-10-16T12:56:27.000Z"
+   "p": 1.3352,
+   "ch": 0.59,
+   "asof": "2026-10-16T13:50:28.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.023,
-   "ch": 0.03,
-   "asof": "2026-10-16T12:57:10.000Z"
+   "p": 157.882,
+   "ch": -0.06,
+   "asof": "2026-10-16T13:51:01.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6956,
-   "ch": 0.46,
-   "asof": "2026-10-16T12:55:27.000Z"
+   "p": 0.6955,
+   "ch": 0.45,
+   "asof": "2026-10-16T13:49:28.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4172,
-   "ch": -0.09,
-   "asof": "2026-10-16T12:57:12.000Z"
+   "p": 1.4152,
+   "ch": -0.23,
+   "asof": "2026-10-16T13:51:01.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8249,
-   "ch": -0.17,
-   "asof": "2026-10-16T12:57:11.000Z"
+   "p": 0.8231,
+   "ch": -0.39,
+   "asof": "2026-10-16T13:51:00.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81953.06,
-   "ch": -0.22,
-   "asof": "2026-10-16T12:57:09.000Z"
+   "p": 81613.42,
+   "ch": -0.63,
+   "asof": "2026-10-16T13:51:33.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2460.55,
-   "ch": 0.85,
-   "asof": "2026-10-16T12:57:02.000Z"
+   "p": 2447.09,
+   "ch": 0.3,
+   "asof": "2026-10-16T13:51:30.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7744.06,
-   "ch": 0.33,
-   "asof": "2026-10-15T20:33:53.000Z"
+   "p": 7740.8,
+   "ch": -0.04,
+   "asof": "2026-10-16T13:51:30.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 26713.025,
-   "ch": 0.08,
-   "asof": "2026-10-15T21:15:59.000Z"
+   "p": 26518.19,
+   "ch": -0.73,
+   "asof": "2026-10-16T13:51:25.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52177.69,
-   "ch": 1.08,
-   "asof": "2026-10-15T20:34:05.000Z"
+   "p": 52566.17,
+   "ch": 0.74,
+   "asof": "2026-10-16T13:51:27.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4195,
-   "ch": 0.6,
-   "asof": "2026-10-16T12:47:08.000Z"
+   "p": 4196.2,
+   "ch": 0.63,
+   "asof": "2026-10-16T13:41:01.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 95.82,
-   "ch": -0.7,
-   "asof": "2026-10-16T12:47:11.000Z"
+   "p": 96.39,
+   "ch": -0.11,
+   "asof": "2026-10-16T13:41:01.000Z"
   },
   {
    "s": "USD/KES",
    "m": "Forex",
    "d": 2,
-   "p": 129.71,
-   "ch": 0,
-   "asof": "2026-10-16T06:05:41.000Z"
+   "p": 129.65,
+   "ch": -0.05,
+   "asof": "2026-10-16T13:34:10.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4415,
-   "ch": -0.32,
-   "asof": "2026-10-16T12:57:12.000Z"
+   "p": 16.4352,
+   "ch": -0.36,
+   "asof": "2026-10-16T13:51:01.000Z"
   },
   {
    "s": "USD/NGN",
    "m": "Forex",
    "d": 2,
-   "p": 1326.43,
-   "ch": 0,
-   "asof": "2026-10-16T03:22:01.000Z"
+   "p": 1330.13,
+   "ch": 0.28,
+   "asof": "2026-10-16T13:34:10.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 105.5,
-   "ch": 0.16,
-   "asof": "2026-10-16T12:57:08.000Z"
+   "p": 105.05,
+   "ch": -0.26,
+   "asof": "2026-10-16T13:51:32.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3343,
-   "ch": 0.08,
-   "asof": "2026-10-16T12:57:07.000Z"
+   "p": 1.329,
+   "ch": -0.31,
+   "asof": "2026-10-16T13:51:30.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 342,
-   "ch": -0.28,
-   "asof": "2026-10-15T20:00:01.000Z"
+   "p": 343.88,
+   "ch": 0.55,
+   "asof": "2026-10-16T13:51:29.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 362.44,
-   "ch": -1.29,
-   "asof": "2026-10-15T20:00:00.000Z"
+   "p": 363.69,
+   "ch": 0.34,
+   "asof": "2026-10-16T13:51:30.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 217.23,
-   "ch": -1.84,
-   "asof": "2026-10-15T20:00:00.000Z"
+   "p": 215.515,
+   "ch": -0.79,
+   "asof": "2026-10-16T13:51:30.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.95,
-   "ch": 1.39,
-   "asof": "2026-10-16T12:47:07.000Z"
+   "p": 57.765,
+   "ch": 1.07,
+   "asof": "2026-10-16T13:40:53.000Z"
   }
  ],
  "news": [
-  [
-   "Forex",
-   "med",
-   "Seeking Less Harmful Alternatives to Central Bank Rate Rises",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHMtWDVXRkxJblRXWElJd2dNS25VZE9SS0g4X0FUN3FOSlB3RmRyTlQ2ZWJoYjFRWThRb3BGU2x0Z3BzV25ZTG05c3A3bVZ3UUxpdzk0dVQwQm5DWFl0UWtFdktVY3RnTkExUnBCbnZONHE1TFF1bC1qUkxqeEx6Q1Iwa1VBb0xOemo2S3NrVlh3TFFER0EzYm1Wb3dmNlNaNHIzVUc3ZTlyODZwd1RuUE5Kbw?oc=5"
-  ],
   [
    "Forex",
    "med",
@@ -421,9 +414,16 @@
    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZFB2UFNzdEpvWkRaNDk5MjhWVVpfUm54YnU0M1FOWlFCLVd1NnFRenhVcHJnS2ZLalJzZUVDSTBxMVUzVGxtaV9JOTA0M0l0LW96WjJxaGxGTWxkMlZoVVc0YkRoelBDcS0zcUJiWW5DTmxZbzFwSm5yZ2JyeENqazBwcXM4anNveUI4Ul9tWDdjOHJsNF9PX1k2TFBpQXg5THBmaHhMdFptUTU4VTV1dDhVRQ?oc=5"
   ],
   [
+   "Forex",
+   "med",
+   "Japan’s Megabanks Finish Yen Stablecoin Pilot and Eye Real Transactions",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTmhjLUJBbUhNOUpxd2dicmFSRmotZmR5RURyeV9EZ3ljT0RmQl8wV29JMTRRQmxXajFteUJfNjZPaEU1OEhVdW5RTGNHLUpUMndPS21MSWdrclZ5elBMSl9zclotZTBTak9CeGJ4T1YwN29DVTVCbGYwek5ZcGhneVVKdmlseTRhNUtJcS1sYy1XTWd1SXNqUzNpajg0Qjc2eW1PUQ?oc=5"
+  ],
+  [
    "Crypto",
    "med",
-   "Current price of Ethereum for Oct. 16, 2026",
+   "Current price of Ethereum for October 16, 2026",
    "Fortune",
    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HYWpER1o5Rm02aHc1SGt4MEp0WlJXZFl1QVF6OU9WLTEySmRadlRIUy1pcWxWU1R3NkFSckRGMmo3cDI3WFZSRDZpYm8zODdmYXM4dmVGcEtRMlZQR0QyLVdhOW53X25N?oc=5"
   ],
