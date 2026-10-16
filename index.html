@@ -290,6 +290,12 @@ header{background:color-mix(in srgb,var(--bg) 72%,transparent);-webkit-backdrop-
 .invite .meter{display:flex;gap:6px}
 .invite .meter i{flex:1;height:6px;border-radius:3px;background:var(--line)}
 .invite .meter i.on{background:var(--accent)}
+.social{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;margin:-4px 0 14px;font-size:13px;color:var(--muted);animation:rise .4s ease-out both}
+.social b{font:600 14px var(--mono);color:var(--fg);font-variant-numeric:tabular-nums}
+.social .on{display:inline-flex;align-items:center;gap:7px}
+.social .on i{width:8px;height:8px;border-radius:50%;background:var(--up);position:relative}
+.social .on i::after{content:"";position:absolute;inset:0;border-radius:50%;background:var(--up);animation:livepulse 1.8s ease-out infinite}
+@keyframes livepulse{0%{transform:scale(1);opacity:.7}100%{transform:scale(3);opacity:0}}
 .daysep{align-self:center;font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
 .promo .go{margin-left:auto;font:700 13px var(--body);color:var(--accent);white-space:nowrap}
 /* Motion */
@@ -337,6 +343,7 @@ nav button[aria-selected="true"] svg{animation:pop .3s ease-out}
 
   <main class="pad">
     <div class="delay" role="note"><b>Prices are not live.</b> <span id="delaytxt">NewsTrade refreshes every hour, so prices can be up to an hour old. Check your broker before you trade.</span></div>
+    <div class="social" id="social" hidden aria-live="polite"></div>
     <section id="v-calendar"></section>
     <section id="v-markets" hidden></section>
     <section id="v-news" hidden></section>
@@ -1179,6 +1186,37 @@ function journalExtras(){const el=$("#v-journal");if(!el)return;el.querySelector
     :`<div class="invite" style="border-style:solid"><b>${LANG==="sw"?"Jiunge na orodha":"Join the leaderboard"}</b><div class="lnk"><input id="lbname" maxlength="24" placeholder="${LANG==="sw"?"Jina la kuonyesha":"Display name"}" value="${esc((me.user_metadata?.name||"").split(" ")[0])}"><button class="ghost" data-lbjoin>${LANG==="sw"?"Jiunge":"Join"}</button></div><span class="hint" style="margin:0">${LANG==="sw"?"Jina lako la kuonyesha na kiwango cha ushindi pekee ndivyo vinaonekana.":"Only your display name and win rate are shown, never your trades or profit."}</span></div>`;
   h+=`</div>`;el.insertAdjacentHTML("beforeend",h)}
 
+// SOCIAL PROOF (real numbers only): traders this week, and how many people have the app open right now.
+// Hidden until there are enough people to be worth showing: 50 a week, 3 online at once.
+const SHOW_WEEKLY_FROM=50, SHOW_ONLINE_FROM=3;
+let weekly=0,online=0,shown={weekly:0,online:0},onlineChan=null;
+const reduceMotion=matchMedia("(prefers-reduced-motion: reduce)");
+const anims=new WeakMap();
+function countUp(el,from,to){if(!el)return;if(reduceMotion.matches||from===to){el.textContent=to.toLocaleString();return}
+  const id=(anims.get(el)||0)+1;anims.set(el,id);
+  const t0=performance.now(),dur=Math.min(1600,400+Math.abs(to-from)*8);
+  const step=now=>{if(anims.get(el)!==id)return;const k=Math.min(1,(now-t0)/dur),e=1-Math.pow(1-k,3);el.textContent=Math.round(from+(to-from)*e).toLocaleString();if(k<1)requestAnimationFrame(step)};
+  requestAnimationFrame(step)}
+function socialView(){const el=$("#social");if(!el)return;
+  const w=weekly>=SHOW_WEEKLY_FROM,o=online>=SHOW_ONLINE_FROM;
+  if(!w&&!o){el.hidden=true;return}
+  if(el.hidden||!el.querySelector("#sc-w")!==!w||!el.querySelector("#sc-o")!==!o){
+    // keep numbers already on screen; only a part that is new starts counting from 0
+    const cur=id=>{const x=el.hidden?null:el.querySelector(id);return x?+x.textContent.replace(/\D/g,"")||0:0};
+    shown.weekly=cur("#sc-w");shown.online=cur("#sc-o");
+    el.innerHTML=(o?`<span class="on"><i aria-hidden="true"></i><span><b id="sc-o">${shown.online.toLocaleString()}</b> ${LANG==="sw"?"wako mtandaoni sasa":"online now"}</span></span>`:"")
+      +(w?`<span>🔥 <b id="sc-w">${shown.weekly.toLocaleString()}</b> ${LANG==="sw"?"wafanyabiashara wametumia NewsTrade wiki hii":"traders used NewsTrade this week"}</span>`:"");
+    el.hidden=false}
+  if(w){countUp($("#sc-w"),shown.weekly,weekly);shown.weekly=weekly}
+  if(o){countUp($("#sc-o"),shown.online,online);shown.online=online}}
+async function loadSocial(){if(!sb)return;try{const {data,error}=await sb.rpc("public_stats");if(!error&&data){weekly=+data.week_visitors||0;socialView()}}catch(_){}}
+function joinOnline(){if(!sb||!sb.channel||onlineChan)return;
+  const key=store.get("nt-vid",null)||("t"+Math.random().toString(36).slice(2));
+  try{onlineChan=sb.channel("online-now",{config:{presence:{key}}});
+    onlineChan.on("presence",{event:"sync"},()=>{online=Object.keys(onlineChan.presenceState()).length;socialView()})
+      .subscribe(async st=>{if(st==="SUBSCRIBED")await onlineChan.track({since:Date.now()})})}catch(_){}}
+setInterval(()=>{if(!document.hidden)loadSocial()},5*60e3);
+
 // VISIT COUNTER: one anonymous count per app open. A random id on this device tells repeat visitors apart;
 // ?src=whatsapp (etc.) on a link records which advert someone came from. Only the site owner sees totals.
 function trackVisit(){try{
@@ -1245,7 +1283,7 @@ async function initAuth(){
   if(sb)return;
   sb=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY);
   const {data}=await sb.auth.getSession();me=data.session?.user||null;acctLabel();if(me)pullPrefs();
-  render();loadCounts();trackVisit();
+  render();loadCounts();trackVisit();loadSocial();joinOnline();
   sb.auth.onAuthStateChange((ev,s)=>{const was=me;me=s?.user||null;acctLabel();if(view==="chat"){chatShell();renderChat()}if(me&&!was)pullPrefs();if(!me&&was){jrows=null;jstate="idle";sub=null;premium=false;subLoaded=false;render()}});
 }
 $("#acctbtn").addEventListener("click",()=>{if(me){$("#meh").textContent="Hi "+(me.user_metadata?.name||"there");$("#meemail").textContent="Signed in as "+me.email;$("#emailopt").checked=!!me.user_metadata?.emailAlerts;$("#emailmsg").textContent="";planBox();inviteBox();loadSub();$("#mesheet").hidden=false}else{setMode("in");$("#authsheet").hidden=false;$("#aemail").focus()}});

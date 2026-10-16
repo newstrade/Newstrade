@@ -413,3 +413,12 @@ grant execute on function public.visit_stats(int) to authenticated;
 
 -- Make yourself the owner: put the email you sign in to NewsTrade with, then run this line.
 -- insert into public.site_owners select id from auth.users where lower(email) = lower('YOUR-EMAIL') on conflict do nothing;
+
+-- Public counter for the app: only totals, no details. The app hides it until the weekly number reaches 50.
+create or replace function public.public_stats() returns jsonb
+language sql stable security definer set search_path = public as $$
+  select jsonb_build_object(
+    'week_visitors', (select count(distinct visitor) from public.visits where at > now() - interval '7 days'),
+    'members',       (select count(*) from auth.users));
+$$;
+grant execute on function public.public_stats() to anon, authenticated;
