@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T05:42:35.394Z",
+ "updated": "2026-10-17T06:53:17.696Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -280,17 +280,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81453.25,
-   "ch": -0.06,
-   "asof": "2026-10-17T05:42:32.000Z"
+   "p": 81521.71,
+   "ch": 0.02,
+   "asof": "2026-10-17T06:53:13.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2423.42,
-   "ch": 0.15,
-   "asof": "2026-10-17T05:42:31.000Z"
+   "p": 2430.47,
+   "ch": 0.44,
+   "asof": "2026-10-17T06:53:10.000Z"
   },
   {
    "s": "S&P 500",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.65,
-   "ch": 0.34,
-   "asof": "2026-10-17T05:42:35.000Z"
+   "p": 104.77,
+   "ch": 0.46,
+   "asof": "2026-10-17T06:53:13.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3081,
-   "ch": -0.14,
-   "asof": "2026-10-17T05:42:20.000Z"
+   "p": 1.3088,
+   "ch": -0.09,
+   "asof": "2026-10-17T06:53:07.000Z"
   },
   {
    "s": "Apple",
@@ -412,6 +412,13 @@
    "China's central bank to further open its financial markets to foreigners, chief says",
    "Reuters",
    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUms0WEVOUTlsZUpVQjNfaVZjQkV2aF9HOFhZbTQtblFHNldVUTk2N3hqeml0aDc2MG9uSzRtTzdPRC1YNXFReU5RSWV2STM3cXhWcVhLTFVONlM5UHBqOXRfeVhmZXlBZHRrVlhHQUlaWGRMeG1FYnJqNloxbEc1NmFmbjZNLUNYdThhOC1pTFFfMXF1a19tN3VKb01RMGt6bXV5UHBMNXd2cXlOQlNtaXJELW14RHBzb3o2b1RBWDhKck1Sdmc?oc=5"
+  ],
+  [
+   "Forex",
+   "med",
+   "COMMENTARY: Strong dollar, weak hand for Trump before midterms",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbHhCQTRkREZKSk45aHZsYUNiQUt3R1lMb1d1NTBxU2M0c3FOemhDZE5MOGNhTWtZbEY2bm1YZlNRNUZCekJNMXhQR09pRzNDWDNmaFpBNHFKNkFUbXZ1YXFUb1lBRVRfcGZtMTdMWjZES3pBTnllaTJQN25mblNKdHpaY1YtcWEybERGM2ZDeGU4YzhJaDF2UFlNYnA5MXVpNk1SV19qa3NhV2c5MC1jVl81c25qckV5WkRJQlp0S2k?oc=5"
   ],
   [
    "Crypto",
