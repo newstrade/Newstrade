@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T21:41:14.483Z",
+ "updated": "2026-10-17T22:39:06.717Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -280,17 +280,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80980.77,
-   "ch": -0.64,
-   "asof": "2026-10-17T21:41:12.000Z"
+   "p": 81207.57,
+   "ch": -0.36,
+   "asof": "2026-10-17T22:39:04.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2373.3,
-   "ch": -1.93,
-   "asof": "2026-10-17T21:41:12.000Z"
+   "p": 2388.64,
+   "ch": -1.29,
+   "asof": "2026-10-17T22:39:04.000Z"
   },
   {
    "s": "S&P 500",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 102.15,
-   "ch": -2.05,
-   "asof": "2026-10-17T21:41:15.000Z"
+   "p": 102.81,
+   "ch": -1.42,
+   "asof": "2026-10-17T22:39:01.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2846,
-   "ch": -1.94,
-   "asof": "2026-10-17T21:41:12.000Z"
+   "p": 1.2901,
+   "ch": -1.52,
+   "asof": "2026-10-17T22:39:04.000Z"
   },
   {
    "s": "Apple",
@@ -436,10 +436,10 @@
   ],
   [
    "Stocks",
-   "high",
-   "If a Stock Market Crash Is Coming, These 5 Stocks Have a History of Holding Up",
+   "med",
+   "3 Reasons the Vanguard S&P 500 ETF Could Be Worth Holding for the Next 20 Years",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaVYwUEZjb2VySjFYZjBtTHlEWlVONmNtVG80cW1oTzRmZF9KeENQc3ptaFdScWJDYnZLeFZvNDVoR0UwWmNUcHJsSHRBYUIxNGlxVFhRbzc5QXQ1WmU1NnA3bnhPclJrdUpMa2ZzTmdOaFdsN0NtWVk3RzZ3bkw2TjZOMGc3N3RfWUJVdFZyQk03eXcwVy1N?oc=5"
+   "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOTgwWVpacm5LSWJGU21JYU01Q3lNZVZfVDYtdmt3aWNLYUlpMjNKdEFral94WHctakJTWXVYMjdBeG9HX0FVczJ3VGdyd21yamkydjF4MzFSa2h5QVJwYkQ3Z1E5QjVlR3had1RiRm44bmlvRVhMeGdsbUxQNjNETzl4TnRGX1owc1phQ1dqY0hNTzA?oc=5"
   ],
   [
    "Stocks",
