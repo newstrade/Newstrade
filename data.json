@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T22:39:06.717Z",
+ "updated": "2026-10-17T23:34:55.822Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -280,17 +280,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81207.57,
-   "ch": -0.36,
-   "asof": "2026-10-17T22:39:04.000Z"
+   "p": 81175.35,
+   "ch": -0.4,
+   "asof": "2026-10-17T23:34:51.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2388.64,
-   "ch": -1.29,
-   "asof": "2026-10-17T22:39:04.000Z"
+   "p": 2391.16,
+   "ch": -1.19,
+   "asof": "2026-10-17T23:34:47.000Z"
   },
   {
    "s": "S&P 500",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 102.81,
-   "ch": -1.42,
-   "asof": "2026-10-17T22:39:01.000Z"
+   "p": 102.75,
+   "ch": -1.48,
+   "asof": "2026-10-17T23:34:51.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2901,
-   "ch": -1.52,
-   "asof": "2026-10-17T22:39:04.000Z"
+   "p": 1.2863,
+   "ch": -1.81,
+   "asof": "2026-10-17T23:34:52.000Z"
   },
   {
    "s": "Apple",
@@ -437,16 +437,16 @@
   [
    "Stocks",
    "med",
-   "3 Reasons the Vanguard S&P 500 ETF Could Be Worth Holding for the Next 20 Years",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOTgwWVpacm5LSWJGU21JYU01Q3lNZVZfVDYtdmt3aWNLYUlpMjNKdEFral94WHctakJTWXVYMjdBeG9HX0FVczJ3VGdyd21yamkydjF4MzFSa2h5QVJwYkQ3Z1E5QjVlR3had1RiRm44bmlvRVhMeGdsbUxQNjNETzl4TnRGX1owc1phQ1dqY0hNTzA?oc=5"
+   "Narrow Stock-Market Rallies Aren’t Unusual. When to Start Worrying.",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX0h0Ry1NTHZnWDlpTC1NazVDb2ViNDlYbnpvMWpISGQwUUF2VmllVl9WTTBFbUplYUhZNk41Qkl5SGhsWGhhTk15RnMxazlmQVpuR3ZaeXRyWDFock5WVFBQSVZGcTE4azVUVUppcUo1Mll0T01VeENBR0J4X3dSNTY2cmhxTXcxdWZKWDlLd09iMmZWeEpyMXNibHg3NmVlckFRaHE5MF9uaEt4?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "'How many canaries have we killed in the coal mine?' — Wall Street debates if the latest AI bubble warnings are another head fake or the real thing",
-   "Fortune",
-   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRl9iOXhNbXZ3M1hkQlRfaXhlaG9yNmJhYm9TR0VRNjZNWlBLbGsteHNNV2xUbjJZLXVQcmVTYmlXRGZQS3JPUGhLckFiU3dPU0h6QXBhdnQwREhGS25HQXN1Z1N0MmNsOHJMTVNvZXZoczAxa3YwbnMycExVY0dpXzUyMzVYOW83MFlqa0JyLWpWWjV4Q3MwYTZpVmcwMDdTRGJraGhQSEQ?oc=5"
+   "3 Reasons the Vanguard S&P 500 ETF Could Be Worth Holding for the Next 20 Years",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOTgwWVpacm5LSWJGU21JYU01Q3lNZVZfVDYtdmt3aWNLYUlpMjNKdEFral94WHctakJTWXVYMjdBeG9HX0FVczJ3VGdyd21yamkydjF4MzFSa2h5QVJwYkQ3Z1E5QjVlR3had1RiRm44bmlvRVhMeGdsbUxQNjNETzl4TnRGX1owc1phQ1dqY0hNTzA?oc=5"
   ],
   [
    "Commodities",
