@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T15:40:59.881Z",
+ "updated": "2026-10-17T16:42:25.039Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -258,7 +258,7 @@
    "d": 4,
    "p": 0.6949,
    "ch": 0.36,
-   "asof": "2026-10-17T15:40:50.000Z"
+   "asof": "2026-10-17T15:54:50.000Z"
   },
   {
    "s": "USD/CAD",
@@ -280,17 +280,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81382.11,
-   "ch": -0.15,
-   "asof": "2026-10-17T15:40:54.000Z"
+   "p": 81169.06,
+   "ch": -0.41,
+   "asof": "2026-10-17T16:42:21.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2411.86,
-   "ch": -0.33,
-   "asof": "2026-10-17T15:40:57.000Z"
+   "p": 2403.75,
+   "ch": -0.67,
+   "asof": "2026-10-17T16:42:20.000Z"
   },
   {
    "s": "S&P 500",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 103.83,
-   "ch": -0.44,
-   "asof": "2026-10-17T15:40:50.000Z"
+   "p": 103.24,
+   "ch": -1.01,
+   "asof": "2026-10-17T16:42:23.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.295,
-   "ch": -1.14,
-   "asof": "2026-10-17T15:40:53.000Z"
+   "p": 1.2897,
+   "ch": -1.55,
+   "asof": "2026-10-17T16:42:21.000Z"
   },
   {
    "s": "Apple",
@@ -409,9 +409,9 @@
   [
    "Forex",
    "med",
-   "China central bank chief supports closer IMF surveillance of fiscal, spillover risks",
+   "COMMENTARY: Strong dollar, weak hand for Trump before midterms",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcDlkTV9ZX1VzWXpSMnpIYkZiNkNJdVNxVVU4WldvNHIwMzJVZGRXWlljY1RqVnliUzZNQk0wRzhCYnhrbXF4ci1uLVJUcTJDQWFNdWFvWkdMaXhpdFNaYUZZcmY1cXpXeWJhVHU4MHlBYWFiSTk3OEdNTjFiSTNRQUNwbGxZNDdwRTJFbDJSdW8wMHZHV0QtaUNTVVNFUUI4U2JXQ3VNSFNJaDVGcklDZldnV1dIYldtX1doZHhoa0c5VFVtYlE0U0o0OUxSdw?oc=5"
+   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbHhCQTRkREZKSk45aHZsYUNiQUt3R1lMb1d1NTBxU2M0c3FOemhDZE5MOGNhTWtZbEY2bm1YZlNRNUZCekJNMXhQR09pRzNDWDNmaFpBNHFKNkFUbXZ1YXFUb1lBRVRfcGZtMTdMWjZES3pBTnllaTJQN25mblNKdHpaY1YtcWEybERGM2ZDeGU4YzhJaDF2UFlNYnA5MXVpNk1SV19qa3NhV2c5MC1jVl81c25qckV5WkRJQlp0S2k?oc=5"
   ],
   [
    "Forex",
@@ -423,9 +423,9 @@
   [
    "Crypto",
    "med",
-   "Deutsche Bank Is Weeks From Holding Bitcoin and Ethereum for Clients. Could Other Big Banks Follow?",
+   "Bitcoin On Track For First Back-To-Back Losing Octobers In Over A Decade As ‘Downtober’ Continues",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLWlHQnpKMEFSNjlXSVBXYjNVbk5FbG1ocmQ3WlM1bjVmUS15Y3VPTDlEZUxocG5WUkZwMmNBNk9CdmYwRkIwQ2cxb09IRC02VkRRemtkaWFOclpBOFQzLTBvSm5JR25rN0FXY0taTTVsMHRUSm56TzlzMWhoaENFeXQzaC1VQnN3eFJ0RVZfSldtZHk0ZnkxX2NZNzRUeGdkd0E?oc=5"
+   "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVWY5VHFyTkZpc1JvM3doTWhfV0FwMjFBak91aXRHemRnVDV1U1kzZ1htZDZaSjNQekFUT09UT0xyMDhzLTRhODRkV0JUUTMtLU56bUFXelZRdVRQRGhXQWFrYl9VZmItcUhTTE1KeFZ0dFdKdk1SOTViVGFpNEdaLWNQMTg3ZHlBUDZJY0c5MVZkNUZMNFI3V1NB?oc=5"
   ],
   [
    "Crypto",
