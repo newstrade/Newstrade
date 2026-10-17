@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T12:49:23.448Z",
+ "updated": "2026-10-17T13:41:08.706Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -258,7 +258,7 @@
    "d": 4,
    "p": 0.6949,
    "ch": 0.36,
-   "asof": "2026-10-17T12:48:47.000Z"
+   "asof": "2026-10-17T12:58:47.000Z"
   },
   {
    "s": "USD/CAD",
@@ -280,17 +280,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81385.72,
-   "ch": -0.14,
-   "asof": "2026-10-17T12:49:18.000Z"
+   "p": 81370.96,
+   "ch": -0.16,
+   "asof": "2026-10-17T13:41:04.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2422.68,
-   "ch": 0.11,
-   "asof": "2026-10-17T12:49:18.000Z"
+   "p": 2420.05,
+   "ch": 0.01,
+   "asof": "2026-10-17T13:41:03.000Z"
   },
   {
    "s": "S&P 500",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 103.93,
-   "ch": -0.35,
-   "asof": "2026-10-17T12:49:21.000Z"
+   "p": 103.76,
+   "ch": -0.51,
+   "asof": "2026-10-17T13:41:05.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2967,
-   "ch": -1.01,
-   "asof": "2026-10-17T12:49:14.000Z"
+   "p": 1.2943,
+   "ch": -1.2,
+   "asof": "2026-10-17T13:41:03.000Z"
   },
   {
    "s": "Apple",
@@ -430,9 +430,9 @@
   [
    "Crypto",
    "med",
-   "He Crafted a Crypto Law for Trump—as His Company Got Millions From a Crypto Giant",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQkZMOGxoUFE3VzlTTnZUWWVVbmhVYzJSYlNwSG85NDJhWGtXS0NlZl9nTFZIa3A2c1R6Y0dfT2R6M3lzb1VvMDR2U1VHNlBlOFVxMUczTjlfY0JrX2N1RjhTR3NvMV9GcVRQbGhackxuR3lIS2ZyYWRQXzhTVEgtUVhybw?oc=5"
+   "Oil Just Hit $100 a Barrel. What Happened to Bitcoin the Last Time Oil Prices Hit Three Digits?",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNEQ2VllaUUJkM2E2VmpLcm0zZ2x6UUxxYTNZQWxuRGJzN3BQaDNWSWlqYnpQSV9pQV9NWElzamdiVllRcER5R3RjbGQxZG1abzZvSEppVkRYNU1JQTBfdFB4ZVpyZDNlRTF3UHJfM1hxZ01nTG1yLWM0aGh6dGZ6bkFpUVFkbGZBT3lCYndCMFloQQ?oc=5"
   ],
   [
    "Stocks",
