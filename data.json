@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T11:40:31.820Z",
+ "updated": "2026-10-17T12:49:23.448Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -232,9 +232,9 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1244,
-   "ch": 0.2,
-   "asof": "2026-10-16T21:29:27.000Z"
+   "p": 1.1242,
+   "ch": 0.19,
+   "asof": "2026-10-17T12:20:52.000Z"
   },
   {
    "s": "GBP/USD",
@@ -242,7 +242,7 @@
    "d": 4,
    "p": 1.333,
    "ch": 0.42,
-   "asof": "2026-10-16T23:15:29.000Z"
+   "asof": "2026-10-17T12:20:52.000Z"
   },
   {
    "s": "USD/JPY",
@@ -258,7 +258,7 @@
    "d": 4,
    "p": 0.6949,
    "ch": 0.36,
-   "asof": "2026-10-17T04:49:29.000Z"
+   "asof": "2026-10-17T12:48:47.000Z"
   },
   {
    "s": "USD/CAD",
@@ -266,7 +266,7 @@
    "d": 4,
    "p": 1.4137,
    "ch": -0.34,
-   "asof": "2026-10-17T04:21:18.000Z"
+   "asof": "2026-10-17T12:30:22.000Z"
   },
   {
    "s": "USD/CHF",
@@ -280,17 +280,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81442.19,
-   "ch": -0.07,
-   "asof": "2026-10-17T11:40:29.000Z"
+   "p": 81385.72,
+   "ch": -0.14,
+   "asof": "2026-10-17T12:49:18.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2431.5,
-   "ch": 0.48,
-   "asof": "2026-10-17T11:40:25.000Z"
+   "p": 2422.68,
+   "ch": 0.11,
+   "asof": "2026-10-17T12:49:18.000Z"
   },
   {
    "s": "S&P 500",
@@ -346,7 +346,7 @@
    "d": 3,
    "p": 16.4751,
    "ch": -0.11,
-   "asof": "2026-10-17T04:21:17.000Z"
+   "asof": "2026-10-17T12:30:16.000Z"
   },
   {
    "s": "USD/NGN",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.55,
-   "ch": 0.25,
-   "asof": "2026-10-17T11:40:28.000Z"
+   "p": 103.93,
+   "ch": -0.35,
+   "asof": "2026-10-17T12:49:21.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3053,
-   "ch": -0.36,
-   "asof": "2026-10-17T11:40:25.000Z"
+   "p": 1.2967,
+   "ch": -1.01,
+   "asof": "2026-10-17T12:49:14.000Z"
   },
   {
    "s": "Apple",
@@ -437,16 +437,16 @@
   [
    "Stocks",
    "med",
-   "Nasdaq sinks more than 2% as investors raise questions about AI debt",
-   "CNN",
-   "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLaXBzTHdSMHNvM2RaR1A4d29PXy1NVHJKY1FoOTlTWHFsbFZmOHZsLW9wMW44QzRwT3E1QXkxQXg5bUhRVzV3OE5OS0RlUjllVklOY0xKSVNuTFdLVzJ2eE8wdVpRSlZYeHZLcUw3OERFLTQ?oc=5"
+   "Wall Street’s record breakouts unravel as investors dump recent winners: Chart of the Day",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQTRxT3NHaXFIWGE5Ymt0YlpFSHh0bHVMOHFhZVkyWlhfVEtHOTJSc0NnS3VMT3Q1eUFpdUxJazA0QUJyY19sLXFybi1UZ19HVFRhV0c3ZjhyX08wRzV5UUZmRzRCZ2JBNmFXSTFQT3hHbjBrRFJiNU51M2pNa2ZYTFlycF9Ma3R6ejNEWnE2a3Z6dTFncUVycnF0YjZsMzBpOTFQQVJ6NjB5Uk5Cd2sxTUVPNzB3STc3SURYUU9nbXdsMndUOGhxb3NOTXBRYUhucG9JZ3ZxdUZHbG5Y?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Wall St Week Ahead As AI rally wobbles, stock market's spotlight turns to earnings",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR0cyVkR4czJqcmtMVHU0c21pVnRHR1h1Q3VFRUdyX1FtSzg1alVJSFRqSmI0al95bGpvRkJpRG1EUy14djN1Y2xWXzlfVC04X2xIcUt4QkROSTR6V01la3plVWVhX202alJTYmhJSXIxQTJrM3VyTVZOVXhmWExqYVFWMVJQWUt3X3VUb0loWEp1SmphZ3E4MDVXS0ZZX3dkSThsTFAtMmEzRHpHMzFxTWhrblZQZFRoT1lFdXN5X3M5Y0dUQ0I5bzBR?oc=5"
+   "Nasdaq sinks more than 2% as investors raise questions about AI debt",
+   "CNN",
+   "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLaXBzTHdSMHNvM2RaR1A4d29PXy1NVHJKY1FoOTlTWHFsbFZmOHZsLW9wMW44QzRwT3E1QXkxQXg5bUhRVzV3OE5OS0RlUjllVklOY0xKSVNuTFdLVzJ2eE8wdVpRSlZYeHZLcUw3OERFLTQ?oc=5"
   ],
   [
    "Commodities",
