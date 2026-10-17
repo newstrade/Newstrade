@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T20:40:38.958Z",
+ "updated": "2026-10-17T21:41:14.483Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -258,7 +258,7 @@
    "d": 4,
    "p": 0.6949,
    "ch": 0.36,
-   "asof": "2026-10-17T15:54:50.000Z"
+   "asof": "2026-10-17T21:28:51.000Z"
   },
   {
    "s": "USD/CAD",
@@ -266,7 +266,7 @@
    "d": 4,
    "p": 1.4137,
    "ch": -0.34,
-   "asof": "2026-10-17T15:26:41.000Z"
+   "asof": "2026-10-17T21:00:21.000Z"
   },
   {
    "s": "USD/CHF",
@@ -280,17 +280,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81490.01,
-   "ch": -0.01,
-   "asof": "2026-10-17T20:40:30.000Z"
+   "p": 80980.77,
+   "ch": -0.64,
+   "asof": "2026-10-17T21:41:12.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2415.72,
-   "ch": -0.17,
-   "asof": "2026-10-17T20:40:33.000Z"
+   "p": 2373.3,
+   "ch": -1.93,
+   "asof": "2026-10-17T21:41:12.000Z"
   },
   {
    "s": "S&P 500",
@@ -346,7 +346,7 @@
    "d": 3,
    "p": 16.4751,
    "ch": -0.11,
-   "asof": "2026-10-17T15:26:42.000Z"
+   "asof": "2026-10-17T21:00:50.000Z"
   },
   {
    "s": "USD/NGN",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 103.98,
-   "ch": -0.3,
-   "asof": "2026-10-17T20:40:36.000Z"
+   "p": 102.15,
+   "ch": -2.05,
+   "asof": "2026-10-17T21:41:15.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2992,
-   "ch": -0.82,
-   "asof": "2026-10-17T20:40:36.000Z"
+   "p": 1.2846,
+   "ch": -1.94,
+   "asof": "2026-10-17T21:41:12.000Z"
   },
   {
    "s": "Apple",
@@ -423,16 +423,16 @@
   [
    "Crypto",
    "med",
-   "Ethereum Dramatically Outperformed the S&P 500 in Q3. Is It Finally Time to Load Up on Ethereum?",
-   "The Motley Fool",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc2ZxczlrYmtIaVVVWlhGbDZJYk5UNFVCekhQUlBqS01QOEdvX0VOSXpQVVRuMGdHb3lsd0RxZTJPejBNUUFMYmt3anEwMHgzRkRyNHRmUVBrcE00eHd1aFlQanRkbzZOeDg4MnFvbHRESEJsM0RKay1SdWVmQUZtLThwRFo2M1psNzBNQmV6Sm9KQUxEVlF0RQ?oc=5"
+   "Coinbase Global (COIN) Wins SEC Backing For Binaries And Flags Bitcoin Quantum Risk",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS0hwWWF1UndCOS1wYXE4TTYxVDZRWjYzT1hSa2x3NnowOU1PcGpjMUdNVDVIbUdBN1QxU0JJM0RxUXRUVjBiYnVZVWxISEJaUG5CX3lxOFExX2FSRDd2dGs0bk0xVm5HVGdMSGU4WkR4Ujh0bWhsZk9nYy1iWWdiNV96RVM2OGUwUEJlS1FTQ3pBMWdxdURERHpB?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin On Track For First Back-To-Back Losing Octobers In Over A Decade As ‘Downtober’ Continues",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVWY5VHFyTkZpc1JvM3doTWhfV0FwMjFBak91aXRHemRnVDV1U1kzZ1htZDZaSjNQekFUT09UT0xyMDhzLTRhODRkV0JUUTMtLU56bUFXelZRdVRQRGhXQWFrYl9VZmItcUhTTE1KeFZ0dFdKdk1SOTViVGFpNEdaLWNQMTg3ZHlBUDZJY0c5MVZkNUZMNFI3V1NB?oc=5"
+   "Ethereum Dramatically Outperformed the S&P 500 in Q3. Is It Finally Time to Load Up on Ethereum?",
+   "The Motley Fool",
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc2ZxczlrYmtIaVVVWlhGbDZJYk5UNFVCekhQUlBqS01QOEdvX0VOSXpQVVRuMGdHb3lsd0RxZTJPejBNUUFMYmt3anEwMHgzRkRyNHRmUVBrcE00eHd1aFlQanRkbzZOeDg4MnFvbHRESEJsM0RKay1SdWVmQUZtLThwRFo2M1psNzBNQmV6Sm9KQUxEVlF0RQ?oc=5"
   ],
   [
    "Stocks",
@@ -451,16 +451,16 @@
   [
    "Commodities",
    "med",
-   "ExxonMobil Is Up 49% in 2026 With Brent Near $110. Here’s What the Stock Could Be Worth When Oil Cools",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWnhoU1NwTkRDTUZPbnFlWnRsYUxVVDNlNGhLYzRvNlRWdVBUd21NMFp5X3Y4M3RObnFDYXA5bHhMcFZvRUZLc0pvOWUyOWY5Uks2ZTNJXzdvM0d2TzRHQlc0OG1EVzN2dlhXZndsTnltNjg0NUJfZ1FNV1ltUGJSQTYtYUZySjFMSGgwV1MwaXRtWUxIemc3ak9R?oc=5"
+   "Europe Braces for a Winter Energy Crisis as Gas Reserves Run Low",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWjZjN0FDbUFpVVhSalJDTWstV0U3OUZpcXRtTHhGSXc1M2FMQnlpaURqX1BjOEkwV3NIaHVUaG5OODd0Q2NMYjVJdjZoTUZMLVBUWkhlbGFMTTdDQzNoZExvV0F5X1dSRmp0eHdtYlNWUWR5YUt5dlFrVFJRVG0zYl94LU9uckxxa21mc3pSS0lROVdrOG44YnNmcFJPaUR2WDFzZkRaS0c5Z0hWMnVRcHJn0gG3AUFVX3lxTE95ZVY3M2ZmQ0xXRU5rTkN2QUtiZ2FXa2RwczV0NDJfQUxaQmxmVF9RdjYtT21JdVFpUU1SXzZCaC0xc1lSaVVFdXRva3JKQXE0emc2NXgxQVNmd1RiTlJDWGhkSF9Kb0EtRl9nZnRrY1RidEpqNUg3UTAteG5zMm1HWjRoaFRnU011OUtmSDZmYnB2dFA4MGdBTjRISXFQMUh6S1dOY3A1aUFoYXg4N0xNaDEwSWZmNA?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Texas Researchers Say Permian Wastewater Could Cool AI Data Centers",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ0hhS2NTaXlQMXlDZ25HbmtVb0F2bF9RRkVtRUkyS2JyZE54UTFaTXlMOXVoYXBjVUtqSVFqS25IQy1iMnk5TXpyNGFjajRuY3JMYklFR0thZ2t5X3pwTnA5ZUsxTEVBOG0tN0dUbVBzQzVkQS1laDhTN1NWOEtFUnlIclZNMk5wZ1F3OU0yTnBSTlNQcFc0QXB0aGFIM0RVb1JfTG5hc2RLYUlpQUJF0gG0AUFVX3lxTE1wd2t0cXVfSkVOclhkQlgyUVc1eHcxZHl1MUhZNGtKZGhyZzNIbFI5cDdRME5RaE9uT3k4dUpHaVZIUVo1Tm9iQ3p1VGpaMEwwanhmaElDVTRSUVpJNDZBR0xEbHpPUE44NXpOc2lmOW9WRm1ocm9LSzQwb2dVd2VmN0NId2V6OWs3RnVtc0wtb21Pck9TU0kzMVVoRGxqZ2N1SUNuU0ZNYmZDd0tjdERZb1FCQw?oc=5"
+   "ExxonMobil Is Up 49% in 2026 With Brent Near $110. Here’s What the Stock Could Be Worth When Oil Cools",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWnhoU1NwTkRDTUZPbnFlWnRsYUxVVDNlNGhLYzRvNlRWdVBUd21NMFp5X3Y4M3RObnFDYXA5bHhMcFZvRUZLc0pvOWUyOWY5Uks2ZTNJXzdvM0d2TzRHQlc0OG1EVzN2dlhXZndsTnltNjg0NUJfZ1FNV1ltUGJSQTYtYUZySjFMSGgwV1MwaXRtWUxIemc3ak9R?oc=5"
   ]
  ]
 }
