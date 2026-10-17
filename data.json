@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T00:55:51.414Z",
+ "updated": "2026-10-17T01:41:55.545Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -280,17 +280,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81476.63,
-   "ch": -0.03,
-   "asof": "2026-10-17T00:55:49.000Z"
+   "p": 81394.26,
+   "ch": -0.13,
+   "asof": "2026-10-17T01:41:50.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2419.06,
-   "ch": -0.03,
-   "asof": "2026-10-17T00:55:50.000Z"
+   "p": 2415.71,
+   "ch": -0.17,
+   "asof": "2026-10-17T01:41:52.000Z"
   },
   {
    "s": "S&P 500",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.22,
-   "ch": -0.07,
-   "asof": "2026-10-17T00:55:43.000Z"
+   "p": 104.24,
+   "ch": -0.05,
+   "asof": "2026-10-17T01:41:50.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3041,
-   "ch": -0.45,
-   "asof": "2026-10-17T00:55:46.000Z"
+   "p": 1.3024,
+   "ch": -0.58,
+   "asof": "2026-10-17T01:41:51.000Z"
   },
   {
    "s": "Apple",
@@ -416,23 +416,16 @@
   [
    "Crypto",
    "med",
-   "Weekly Wrap: Crypto Under Pressure As A.I. Trade Unwinds",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0NaamVxeXBQWERYeU5wYUZOQkpocHVmTmJJNlFSdzNzNTRtbUo2bHlsMG9HUnFqWDZ3QUpRR05TUWcyQURPRU43SEJGVEFvVi1CMU92V3M1TUNsWHNNOTZKLUlBVUpyRm5DQWtZSWVKMU4wM0ExQVliVEZOWWZQVlBkblZqcnM1MDVlelZPUUdUX0pmQldMSEdMWWJ6dW8?oc=5"
+   "A rogue OpenAI agent robbed a crypto wallet to obtain funds to carry out a task",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMigAFBVV95cUxPenVUVDMyRmxZRlhiQlpNZnEzRUpFZVl2anlEQVZCaGU3N2hpUmtkak5oTUdYemRyNS1jUFFiQWJCbTZFaHFQNVFONk90QkJuZ3F2QWNFU3NkOFhTQVBWalVVZW03LWY2Wi03UlhrZUNQRGNKbHB2NGNCVjVSbndlUw?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Deutsche Bank prepares crypto custody launch, targets Asia growth",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWnpsZnAzT2VQZWFCcGkyLXVQVDNxelp4bmVZczcwSzlJUjhIUnZ2MzVGa2VVd1JQczIzYXIxT0lIVW8tZTJxdW5jR2xaLUU5QjBiSDl4a01oaE5qeTBEUnNUMEdabUZiTDRRQjFaWnlJRHYwT1VLZTV6SmNYSERRYkwtbV9KSkQybkdaQkJSOF80d2hYRFBGWEhJcE1TT1lQUDBKTTlBbHlyeTVIS0ZtTDg0Y1JONUF3?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Wall Street tumbles as worries about AI trade and high oil prices weigh",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0xEdzRIMVNLYnAyTkhHSmVNTnRyMDJ3WGdOeFY0Vy1kRUtmWC1FZW42aDNfWTctUHM5X2hlWkhuOHFwblR1Q054a19YV3ZLNTlVVVlmMlRTZ0wxLWE2cmN3SWpjVHU4VDJZWU12Q0hPajE5cDdvQm9ic05PNHNRVG45bEI1ZFVHaEN5QnZjbHMxUDFVbHZ2cFNlMUZydw?oc=5"
+   "Weekly Wrap: Crypto Under Pressure As A.I. Trade Unwinds",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0NaamVxeXBQWERYeU5wYUZOQkpocHVmTmJJNlFSdzNzNTRtbUo2bHlsMG9HUnFqWDZ3QUpRR05TUWcyQURPRU43SEJGVEFvVi1CMU92V3M1TUNsWHNNOTZKLUlBVUpyRm5DQWtZSWVKMU4wM0ExQVliVEZOWWZQVlBkblZqcnM1MDVlelZPUUdUX0pmQldMSEdMWWJ6dW8?oc=5"
   ],
   [
    "Stocks",
@@ -440,6 +433,13 @@
    "Nasdaq sinks more than 2% as investors raise questions about AI debt",
    "CNN",
    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLaXBzTHdSMHNvM2RaR1A4d29PXy1NVHJKY1FoOTlTWHFsbFZmOHZsLW9wMW44QzRwT3E1QXkxQXg5bUhRVzV3OE5OS0RlUjllVklOY0xKSVNuTFdLVzJ2eE8wdVpRSlZYeHZLcUw3OERFLTQ?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
+   "Wall St Week Ahead As AI rally wobbles, stock market's spotlight turns to earnings",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR0cyVkR4czJqcmtMVHU0c21pVnRHR1h1Q3VFRUdyX1FtSzg1alVJSFRqSmI0al95bGpvRkJpRG1EUy14djN1Y2xWXzlfVC04X2xIcUt4QkROSTR6V01la3plVWVhX202alJTYmhJSXIxQTJrM3VyTVZOVXhmWExqYVFWMVJQWUt3X3VUb0loWEp1SmphZ3E4MDVXS0ZZX3dkSThsTFAtMmEzRHpHMzFxTWhrblZQZFRoT1lFdXN5X3M5Y0dUQ0I5bzBR?oc=5"
   ],
   [
    "Commodities",
