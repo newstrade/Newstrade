@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T17:39:54.197Z",
+ "updated": "2026-10-17T18:43:28.827Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -280,17 +280,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81210.16,
-   "ch": -0.36,
-   "asof": "2026-10-17T17:39:48.000Z"
+   "p": 81455.49,
+   "ch": -0.06,
+   "asof": "2026-10-17T18:43:26.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2405.7,
-   "ch": -0.59,
-   "asof": "2026-10-17T17:39:52.000Z"
+   "p": 2415.6,
+   "ch": -0.18,
+   "asof": "2026-10-17T18:43:25.000Z"
   },
   {
    "s": "S&P 500",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 103.24,
-   "ch": -1.01,
-   "asof": "2026-10-17T17:39:48.000Z"
+   "p": 103.86,
+   "ch": -0.42,
+   "asof": "2026-10-17T18:43:25.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2922,
-   "ch": -1.36,
-   "asof": "2026-10-17T17:39:51.000Z"
+   "p": 1.2966,
+   "ch": -1.02,
+   "asof": "2026-10-17T18:43:24.000Z"
   },
   {
    "s": "Apple",
@@ -423,16 +423,16 @@
   [
    "Crypto",
    "med",
-   "Bitcoin On Track For First Back-To-Back Losing Octobers In Over A Decade As ‘Downtober’ Continues",
+   "Who Really Owns the Bitcoin Inside BlackRock’s ETF?",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVWY5VHFyTkZpc1JvM3doTWhfV0FwMjFBak91aXRHemRnVDV1U1kzZ1htZDZaSjNQekFUT09UT0xyMDhzLTRhODRkV0JUUTMtLU56bUFXelZRdVRQRGhXQWFrYl9VZmItcUhTTE1KeFZ0dFdKdk1SOTViVGFpNEdaLWNQMTg3ZHlBUDZJY0c5MVZkNUZMNFI3V1NB?oc=5"
+   "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbEEzWHN4LURYUzdWekN6SGpyZlJQaHlZZ25Hc1JtWVRVQUR2NTdTZkl0NHBzX2dGRU1ab1VvbjRqcDF6VzRpSm41TlEzaVJLX04zbjItc0FMWWlHdkpfX0dhVkt0YkVrRUFHcGt3c0VUZjJONGdmdW9DTW1XX0RlaGlOOUZWTzNlZVcyR2J4NUhXVlluS1c1a3VrSDc1ekJweTJr?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "The Crypto Cop Who Took Down a Global Scam Network from Brooklyn",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZnRLR2stY0Y4ZHh6aWVzb0c1RnZRb1JJUlpzV1FWMnpGY3lvcTZfR2ZXSHNkeHNERGVrak5EVU0wMFVCNGNfN2Vpb1lXS2R1RExjN1R6UlFuS1V1dG5RSVhrWjFQakt5NU4ycDExSlQ0NW1TQVF6VE9ubG43d1VPdWZDb3lhSFBucU5ydXBwS1doYjlFMWFIbEJXU203dU5sNG5uMFpwajBCUQ?oc=5"
+   "Ethereum Dramatically Outperformed the S&P 500 in Q3. Is It Finally Time to Load Up on Ethereum?",
+   "The Motley Fool",
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc2ZxczlrYmtIaVVVWlhGbDZJYk5UNFVCekhQUlBqS01QOEdvX0VOSXpQVVRuMGdHb3lsd0RxZTJPejBNUUFMYmt3anEwMHgzRkRyNHRmUVBrcE00eHd1aFlQanRkbzZOeDg4MnFvbHRESEJsM0RKay1SdWVmQUZtLThwRFo2M1psNzBNQmV6Sm9KQUxEVlF0RQ?oc=5"
   ],
   [
    "Stocks",
