@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T04:44:14.337Z",
+ "updated": "2026-10-17T05:42:35.394Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -258,7 +258,7 @@
    "d": 4,
    "p": 0.6949,
    "ch": 0.36,
-   "asof": "2026-10-17T04:43:30.000Z"
+   "asof": "2026-10-17T04:49:29.000Z"
   },
   {
    "s": "USD/CAD",
@@ -280,17 +280,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81447.38,
-   "ch": -0.07,
-   "asof": "2026-10-17T04:44:08.000Z"
+   "p": 81453.25,
+   "ch": -0.06,
+   "asof": "2026-10-17T05:42:32.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2425.36,
-   "ch": 0.23,
-   "asof": "2026-10-17T04:44:09.000Z"
+   "p": 2423.42,
+   "ch": 0.15,
+   "asof": "2026-10-17T05:42:31.000Z"
   },
   {
    "s": "S&P 500",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.62,
-   "ch": 0.31,
-   "asof": "2026-10-17T04:44:03.000Z"
+   "p": 104.65,
+   "ch": 0.34,
+   "asof": "2026-10-17T05:42:35.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3067,
-   "ch": -0.25,
-   "asof": "2026-10-17T04:44:11.000Z"
+   "p": 1.3081,
+   "ch": -0.14,
+   "asof": "2026-10-17T05:42:20.000Z"
   },
   {
    "s": "Apple",
@@ -416,16 +416,16 @@
   [
    "Crypto",
    "med",
-   "Current price of Bitcoin for October 16, 2026",
-   "Fortune",
-   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Nb0szWjZ1TjJ4TktPakY2b2VmcWp4NGRCbXd6SVlLZlM1NFZTbjB3eWF3YzR1dGFwVjZxMXVYUEN2T2pCWGdHMjVyVGxBWEcxUF9WTkhOenZSOVRGN19uNFFGLTVRWXc?oc=5"
+   "He Crafted a Crypto Law for Trump—as His Company Got Millions From a Crypto Giant",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQkZMOGxoUFE3VzlTTnZUWWVVbmhVYzJSYlNwSG85NDJhWGtXS0NlZl9nTFZIa3A2c1R6Y0dfT2R6M3lzb1VvMDR2U1VHNlBlOFVxMUczTjlfY0JrX2N1RjhTR3NvMV9GcVRQbGhackxuR3lIS2ZyYWRQXzhTVEgtUVhybw?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "He Crafted a Crypto Law for Trump—as His Company Got Millions From a Crypto Giant",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQkZMOGxoUFE3VzlTTnZUWWVVbmhVYzJSYlNwSG85NDJhWGtXS0NlZl9nTFZIa3A2c1R6Y0dfT2R6M3lzb1VvMDR2U1VHNlBlOFVxMUczTjlfY0JrX2N1RjhTR3NvMV9GcVRQbGhackxuR3lIS2ZyYWRQXzhTVEgtUVhybw?oc=5"
+   "A rogue OpenAI agent robbed a crypto wallet to obtain funds to carry out a task",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMigAFBVV95cUxPenVUVDMyRmxZRlhiQlpNZnEzRUpFZVl2anlEQVZCaGU3N2hpUmtkak5oTUdYemRyNS1jUFFiQWJCbTZFaHFQNVFONk90QkJuZ3F2QWNFU3NkOFhTQVBWalVVZW03LWY2Wi03UlhrZUNQRGNKbHB2NGNCVjVSbndlUw?oc=5"
   ],
   [
    "Stocks",
