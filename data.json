@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T23:38:23.779Z",
+ "updated": "2026-10-17T00:55:51.414Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -280,17 +280,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81541.2,
-   "ch": -0.72,
-   "asof": "2026-10-16T23:38:20.000Z"
+   "p": 81476.63,
+   "ch": -0.03,
+   "asof": "2026-10-17T00:55:49.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2420.44,
-   "ch": -0.8,
-   "asof": "2026-10-16T23:38:15.000Z"
+   "p": 2419.06,
+   "ch": -0.03,
+   "asof": "2026-10-17T00:55:50.000Z"
   },
   {
    "s": "S&P 500",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.2,
-   "ch": -1.07,
-   "asof": "2026-10-16T23:38:10.000Z"
+   "p": 104.22,
+   "ch": -0.07,
+   "asof": "2026-10-17T00:55:43.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3096,
-   "ch": -1.77,
-   "asof": "2026-10-16T23:38:12.000Z"
+   "p": 1.3041,
+   "ch": -0.45,
+   "asof": "2026-10-17T00:55:46.000Z"
   },
   {
    "s": "Apple",
@@ -414,13 +414,6 @@
    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUms0WEVOUTlsZUpVQjNfaVZjQkV2aF9HOFhZbTQtblFHNldVUTk2N3hqeml0aDc2MG9uSzRtTzdPRC1YNXFReU5RSWV2STM3cXhWcVhLTFVONlM5UHBqOXRfeVhmZXlBZHRrVlhHQUlaWGRMeG1FYnJqNloxbEc1NmFmbjZNLUNYdThhOC1pTFFfMXF1a19tN3VKb01RMGt6bXV5UHBMNXd2cXlOQlNtaXJELW14RHBzb3o2b1RBWDhKck1Sdmc?oc=5"
   ],
   [
-   "Forex",
-   "med",
-   "Amazon pulled a $4 ‘sterling silver’ ring that was 92% cancer-causing cadmium. A jewelry expert warns it's back",
-   "Fortune",
-   "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLURpbFRYUjRaMDR2bTJ2RTB2NEg5aGxubDRLck5wUkhYN2p0THlDUVc2NzRobElPZ2p5cG5WQTZOVjA0SUY5Q0ZOejZBSnJ1clNfbHVVQ2taeVUtTGlScW1HbU5CNTFVM0F2WldZU3R6c1dHeldZZ0EtNGJXcG0yMGwwVnVRTjNvMG5V?oc=5"
-  ],
-  [
    "Crypto",
    "med",
    "Weekly Wrap: Crypto Under Pressure As A.I. Trade Unwinds",
@@ -458,9 +451,9 @@
   [
    "Commodities",
    "med",
-   "U.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc1lNYld3a3daUlFaNWx1cTBkSWI2cG9fS0cwV3o0SGlKZmZtNC1TZjZlUHFTYy1hX2pUSUlyQVpCYUMyZkEyejVpSER2MllGeG5zc1BwSU5Mal9xdVQ4eU03ZTE2WkhzWTFFZGdWLV9FWEUzZjQwQVlubE9ib2hkeFlqOXowMTFXdmkzN2NYckE3alRzTnlOTmUtVlZjZWs3UmJhaWhGbEF4LWZ6RWZxdHhYNkRHM1VtYXBB0gHAAUFVX3lxTE5jZFpnSzdIcHpMSF83UFF3VmsyVVdhSEJWbjVSOU5wVEtMTkVSdVEzLV90RUtKcjRkd0lNTGRRUW1DakJReTRlRHZPYnFSWHJQX0xCZnJHR3ZJX01Xa3pxUFp0ZXlFNHdTdmJqcTZ2ZkI2QTg5QVhJOGt2bVdPWktLMUttelo3NEpabjVJM3BjUXZENGlBc0tEUW92ckRMdkxqa043VFhuazJESVgyWVoxWWtCR1lkNUV1eV91WFQ0NA?oc=5"
+   "Current price of oil as of October 16, 2026",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tazZoMXNjRjhIY1U2T1RELWVQcjNJenBzYWhMWjRNX29ydFBBWEJJejhwVjZ2QnZ3dWlyNVJjZW5mdEcwVnNzYzE1TEhFVnJLNV9VaWoxVTBLcE9tc1c0YmNn?oc=5"
   ]
  ]
 }
