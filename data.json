@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T02:44:09.431Z",
+ "updated": "2026-10-17T03:44:22.451Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -280,17 +280,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81342.05,
-   "ch": -0.2,
-   "asof": "2026-10-17T02:44:08.000Z"
+   "p": 81479.17,
+   "ch": -0.03,
+   "asof": "2026-10-17T03:44:16.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2417.54,
-   "ch": -0.1,
-   "asof": "2026-10-17T02:44:01.000Z"
+   "p": 2425.92,
+   "ch": 0.25,
+   "asof": "2026-10-17T03:44:16.000Z"
   },
   {
    "s": "S&P 500",
@@ -298,7 +298,7 @@
    "d": 2,
    "p": 7659.44,
    "ch": -1.09,
-   "asof": "2026-10-16T20:42:08.000Z"
+   "asof": "2026-10-16T20:00:00.000Z"
   },
   {
    "s": "Nasdaq",
@@ -312,9 +312,9 @@
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52002.41,
+   "p": 52002.4,
    "ch": -0.34,
-   "asof": "2026-10-16T20:42:09.000Z"
+   "asof": "2026-10-16T20:00:00.000Z"
   },
   {
    "s": "Gold",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.2,
-   "ch": -0.09,
-   "asof": "2026-10-17T02:44:12.000Z"
+   "p": 105.07,
+   "ch": 0.75,
+   "asof": "2026-10-17T03:44:21.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3025,
-   "ch": -0.57,
-   "asof": "2026-10-17T02:43:56.000Z"
+   "p": 1.3092,
+   "ch": -0.06,
+   "asof": "2026-10-17T03:44:14.000Z"
   },
   {
    "s": "Apple",
@@ -416,16 +416,16 @@
   [
    "Crypto",
    "med",
-   "Current price of Ethereum for October 16, 2026",
+   "Current price of Bitcoin for October 16, 2026",
    "Fortune",
-   "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HYWpER1o5Rm02aHc1SGt4MEp0WlJXZFl1QVF6OU9WLTEySmRadlRIUy1pcWxWU1R3NkFSckRGMmo3cDI3WFZSRDZpYm8zODdmYXM4dmVGcEtRMlZQR0QyLVdhOW53X25N?oc=5"
+   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Nb0szWjZ1TjJ4TktPakY2b2VmcWp4NGRCbXd6SVlLZlM1NFZTbjB3eWF3YzR1dGFwVjZxMXVYUEN2T2pCWGdHMjVyVGxBWEcxUF9WTkhOenZSOVRGN19uNFFGLTVRWXc?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Weekly Wrap: Crypto Under Pressure As A.I. Trade Unwinds",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0NaamVxeXBQWERYeU5wYUZOQkpocHVmTmJJNlFSdzNzNTRtbUo2bHlsMG9HUnFqWDZ3QUpRR05TUWcyQURPRU43SEJGVEFvVi1CMU92V3M1TUNsWHNNOTZKLUlBVUpyRm5DQWtZSWVKMU4wM0ExQVliVEZOWWZQVlBkblZqcnM1MDVlelZPUUdUX0pmQldMSEdMWWJ6dW8?oc=5"
+   "Deutsche Bank prepares crypto custody launch, targets Asia growth",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWnpsZnAzT2VQZWFCcGkyLXVQVDNxelp4bmVZczcwSzlJUjhIUnZ2MzVGa2VVd1JQczIzYXIxT0lIVW8tZTJxdW5jR2xaLUU5QjBiSDl4a01oaE5qeTBEUnNUMEdabUZiTDRRQjFaWnlJRHYwT1VLZTV6SmNYSERRYkwtbV9KSkQybkdaQkJSOF80d2hYRFBGWEhJcE1TT1lQUDBKTTlBbHlyeTVIS0ZtTDg0Y1JONUF3?oc=5"
   ],
   [
    "Stocks",
