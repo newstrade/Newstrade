@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T03:44:22.451Z",
+ "updated": "2026-10-17T04:44:14.337Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -258,7 +258,7 @@
    "d": 4,
    "p": 0.6949,
    "ch": 0.36,
-   "asof": "2026-10-16T21:29:27.000Z"
+   "asof": "2026-10-17T04:43:30.000Z"
   },
   {
    "s": "USD/CAD",
@@ -266,7 +266,7 @@
    "d": 4,
    "p": 1.4137,
    "ch": -0.34,
-   "asof": "2026-10-16T21:01:16.000Z"
+   "asof": "2026-10-17T04:21:18.000Z"
   },
   {
    "s": "USD/CHF",
@@ -280,17 +280,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81479.17,
-   "ch": -0.03,
-   "asof": "2026-10-17T03:44:16.000Z"
+   "p": 81447.38,
+   "ch": -0.07,
+   "asof": "2026-10-17T04:44:08.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2425.92,
-   "ch": 0.25,
-   "asof": "2026-10-17T03:44:16.000Z"
+   "p": 2425.36,
+   "ch": 0.23,
+   "asof": "2026-10-17T04:44:09.000Z"
   },
   {
    "s": "S&P 500",
@@ -298,7 +298,7 @@
    "d": 2,
    "p": 7659.44,
    "ch": -1.09,
-   "asof": "2026-10-16T20:00:00.000Z"
+   "asof": "2026-10-16T20:42:08.000Z"
   },
   {
    "s": "Nasdaq",
@@ -312,24 +312,24 @@
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52002.4,
+   "p": 52002.41,
    "ch": -0.34,
-   "asof": "2026-10-16T20:00:00.000Z"
+   "asof": "2026-10-16T20:42:09.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4186.7,
-   "ch": 0.4,
+   "p": 4181.1,
+   "ch": 0.26,
    "asof": "2026-10-16T20:59:59.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 99.04,
-   "ch": 2.63,
+   "p": 99.02,
+   "ch": 2.61,
    "asof": "2026-10-16T20:59:58.000Z"
   },
   {
@@ -346,7 +346,7 @@
    "d": 3,
    "p": 16.4751,
    "ch": -0.11,
-   "asof": "2026-10-16T21:01:16.000Z"
+   "asof": "2026-10-17T04:21:17.000Z"
   },
   {
    "s": "USD/NGN",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 105.07,
-   "ch": 0.75,
-   "asof": "2026-10-17T03:44:21.000Z"
+   "p": 104.62,
+   "ch": 0.31,
+   "asof": "2026-10-17T04:44:03.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3092,
-   "ch": -0.06,
-   "asof": "2026-10-17T03:44:14.000Z"
+   "p": 1.3067,
+   "ch": -0.25,
+   "asof": "2026-10-17T04:44:11.000Z"
   },
   {
    "s": "Apple",
@@ -400,8 +400,8 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.135,
-   "ch": -0.04,
+   "p": 57.305,
+   "ch": 0.26,
    "asof": "2026-10-16T20:59:57.000Z"
   }
  ],
@@ -423,9 +423,9 @@
   [
    "Crypto",
    "med",
-   "Deutsche Bank prepares crypto custody launch, targets Asia growth",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWnpsZnAzT2VQZWFCcGkyLXVQVDNxelp4bmVZczcwSzlJUjhIUnZ2MzVGa2VVd1JQczIzYXIxT0lIVW8tZTJxdW5jR2xaLUU5QjBiSDl4a01oaE5qeTBEUnNUMEdabUZiTDRRQjFaWnlJRHYwT1VLZTV6SmNYSERRYkwtbV9KSkQybkdaQkJSOF80d2hYRFBGWEhJcE1TT1lQUDBKTTlBbHlyeTVIS0ZtTDg0Y1JONUF3?oc=5"
+   "He Crafted a Crypto Law for Trump—as His Company Got Millions From a Crypto Giant",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQkZMOGxoUFE3VzlTTnZUWWVVbmhVYzJSYlNwSG85NDJhWGtXS0NlZl9nTFZIa3A2c1R6Y0dfT2R6M3lzb1VvMDR2U1VHNlBlOFVxMUczTjlfY0JrX2N1RjhTR3NvMV9GcVRQbGhackxuR3lIS2ZyYWRQXzhTVEgtUVhybw?oc=5"
   ],
   [
    "Stocks",
