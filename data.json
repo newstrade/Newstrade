@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T13:41:08.706Z",
+ "updated": "2026-10-17T14:41:22.631Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -280,17 +280,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81370.96,
-   "ch": -0.16,
-   "asof": "2026-10-17T13:41:04.000Z"
+   "p": 81454.73,
+   "ch": -0.06,
+   "asof": "2026-10-17T14:41:17.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2420.05,
-   "ch": 0.01,
-   "asof": "2026-10-17T13:41:03.000Z"
+   "p": 2424.38,
+   "ch": 0.18,
+   "asof": "2026-10-17T14:41:20.000Z"
   },
   {
    "s": "S&P 500",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 103.76,
-   "ch": -0.51,
-   "asof": "2026-10-17T13:41:05.000Z"
+   "p": 104.1,
+   "ch": -0.18,
+   "asof": "2026-10-17T14:41:20.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2943,
-   "ch": -1.2,
-   "asof": "2026-10-17T13:41:03.000Z"
+   "p": 1.3002,
+   "ch": -0.75,
+   "asof": "2026-10-17T14:41:17.000Z"
   },
   {
    "s": "Apple",
@@ -430,9 +430,9 @@
   [
    "Crypto",
    "med",
-   "Oil Just Hit $100 a Barrel. What Happened to Bitcoin the Last Time Oil Prices Hit Three Digits?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNEQ2VllaUUJkM2E2VmpLcm0zZ2x6UUxxYTNZQWxuRGJzN3BQaDNWSWlqYnpQSV9pQV9NWElzamdiVllRcER5R3RjbGQxZG1abzZvSEppVkRYNU1JQTBfdFB4ZVpyZDNlRTF3UHJfM1hxZ01nTG1yLWM0aGh6dGZ6bkFpUVFkbGZBT3lCYndCMFloQQ?oc=5"
+   "The Crypto Cop Who Took Down a Global Scam Network from Brooklyn",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRVpnVVE5MTBUWFhHVmpPV0M3bzBKdVgxWnRiZGNqSjlnR2JFcld3cmZGUzh3M1R2OUZsWTZLUlNJTnZHM0xDT3pYRFVqZHBmQ21mYlZtT2dOSVROMW51OVlpV0RHZjhmSEUzZm85YVdDZ1pnUTRzRndxMjN6a1RPRlRkWlltRTJ4aHBlVjJUaDltUkhSVnlab0ZvT28tV1Y1b3FPZVlLSy05TTF3Zjl0eUdmeHRKbDFMTld3SW1R?oc=5"
   ],
   [
    "Stocks",
