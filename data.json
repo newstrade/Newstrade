@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T06:53:17.696Z",
+ "updated": "2026-10-17T07:42:33.502Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -280,17 +280,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81521.71,
-   "ch": 0.02,
-   "asof": "2026-10-17T06:53:13.000Z"
+   "p": 81604.66,
+   "ch": 0.13,
+   "asof": "2026-10-17T07:42:31.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2430.47,
-   "ch": 0.44,
-   "asof": "2026-10-17T06:53:10.000Z"
+   "p": 2432.82,
+   "ch": 0.53,
+   "asof": "2026-10-17T07:42:21.000Z"
   },
   {
    "s": "S&P 500",
@@ -312,9 +312,9 @@
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52002.41,
+   "p": 52002.4,
    "ch": -0.34,
-   "asof": "2026-10-16T20:42:09.000Z"
+   "asof": "2026-10-16T20:00:00.000Z"
   },
   {
    "s": "Gold",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.77,
-   "ch": 0.46,
-   "asof": "2026-10-17T06:53:13.000Z"
+   "p": 105.07,
+   "ch": 0.75,
+   "asof": "2026-10-17T07:42:29.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3088,
-   "ch": -0.09,
-   "asof": "2026-10-17T06:53:07.000Z"
+   "p": 1.3092,
+   "ch": -0.06,
+   "asof": "2026-10-17T07:42:24.000Z"
   },
   {
    "s": "Apple",
@@ -423,9 +423,9 @@
   [
    "Crypto",
    "med",
-   "He Crafted a Crypto Law for Trump—as His Company Got Millions From a Crypto Giant",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQkZMOGxoUFE3VzlTTnZUWWVVbmhVYzJSYlNwSG85NDJhWGtXS0NlZl9nTFZIa3A2c1R6Y0dfT2R6M3lzb1VvMDR2U1VHNlBlOFVxMUczTjlfY0JrX2N1RjhTR3NvMV9GcVRQbGhackxuR3lIS2ZyYWRQXzhTVEgtUVhybw?oc=5"
+   "Bitcoin price holds above $81,000 as ETF outflows weigh on sentiment",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQjFaT1doRzdLTHJ0a29KcWZORDR3YTNxdTJOOGRHcDlHQmVxQktkU2pJVUdTLU5Gb0J1THByOUN5RGxuMDM1VGRRU19rYmpIYkhVcEtpaWRTM2kyYVYzM3A3bmNjMzhhU1hZV0h1bHJfSmpIN0JlT3JEWmtRYjVsLVJvZGU2YWdOM0VBYnZ2ajU3Q1I4c2QwcQ?oc=5"
   ],
   [
    "Crypto",
