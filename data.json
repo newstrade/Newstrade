@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T09:42:41.604Z",
+ "updated": "2026-10-17T10:41:55.781Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -280,17 +280,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81552.21,
-   "ch": 0.06,
-   "asof": "2026-10-17T09:42:39.000Z"
+   "p": 81534.36,
+   "ch": 0.04,
+   "asof": "2026-10-17T10:41:52.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2430.65,
-   "ch": 0.44,
-   "asof": "2026-10-17T09:42:35.000Z"
+   "p": 2436.07,
+   "ch": 0.67,
+   "asof": "2026-10-17T10:41:51.000Z"
   },
   {
    "s": "S&P 500",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.8,
-   "ch": 0.49,
-   "asof": "2026-10-17T09:42:32.000Z"
+   "p": 104.82,
+   "ch": 0.51,
+   "asof": "2026-10-17T10:41:35.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3037,
-   "ch": -0.48,
-   "asof": "2026-10-17T09:42:25.000Z"
+   "p": 1.3062,
+   "ch": -0.29,
+   "asof": "2026-10-17T10:41:27.000Z"
   },
   {
    "s": "Apple",
@@ -409,16 +409,16 @@
   [
    "Forex",
    "med",
-   "What’s the likelihood of Yen carry trade reversing?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY2ZOUm9UVjVmM19FTlJka0J0VzI2Zm1kZEV4ODRKVXNyRXZadzZWdUxkbFVCNVA4enFiN0VEWkgtel9HWnJDUGVPeHNHV19za2RBamt2OWhFeGN4MVpDV19nTVlkd2dxcVJfNGZkejdqdmJrYWJEQm9xb1JyNmNQRDhqRVBQRUl3anZBM0VQSUVRWGtaeEhSRFU4RDV4LVhWQkE0SWhXMWM?oc=5"
+   "COMMENTARY: Strong dollar, weak hand for Trump before midterms",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbHhCQTRkREZKSk45aHZsYUNiQUt3R1lMb1d1NTBxU2M0c3FOemhDZE5MOGNhTWtZbEY2bm1YZlNRNUZCekJNMXhQR09pRzNDWDNmaFpBNHFKNkFUbXZ1YXFUb1lBRVRfcGZtMTdMWjZES3pBTnllaTJQN25mblNKdHpaY1YtcWEybERGM2ZDeGU4YzhJaDF2UFlNYnA5MXVpNk1SV19qa3NhV2c5MC1jVl81c25qckV5WkRJQlp0S2k?oc=5"
   ],
   [
    "Forex",
    "med",
-   "COMMENTARY: Strong dollar, weak hand for Trump before midterms",
+   "China's central bank to further open its financial markets to foreigners, chief says",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbHhCQTRkREZKSk45aHZsYUNiQUt3R1lMb1d1NTBxU2M0c3FOemhDZE5MOGNhTWtZbEY2bm1YZlNRNUZCekJNMXhQR09pRzNDWDNmaFpBNHFKNkFUbXZ1YXFUb1lBRVRfcGZtMTdMWjZES3pBTnllaTJQN25mblNKdHpaY1YtcWEybERGM2ZDeGU4YzhJaDF2UFlNYnA5MXVpNk1SV19qa3NhV2c5MC1jVl81c25qckV5WkRJQlp0S2k?oc=5"
+   "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUms0WEVOUTlsZUpVQjNfaVZjQkV2aF9HOFhZbTQtblFHNldVUTk2N3hqeml0aDc2MG9uSzRtTzdPRC1YNXFReU5RSWV2STM3cXhWcVhLTFVONlM5UHBqOXRfeVhmZXlBZHRrVlhHQUlaWGRMeG1FYnJqNloxbEc1NmFmbjZNLUNYdThhOC1pTFFfMXF1a19tN3VKb01RMGt6bXV5UHBMNXd2cXlOQlNtaXJELW14RHBzb3o2b1RBWDhKck1Sdmc?oc=5"
   ],
   [
    "Crypto",
@@ -444,9 +444,9 @@
   [
    "Stocks",
    "med",
-   "Wall Street tumbles as worries about AI trade and high oil prices weigh",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0xEdzRIMVNLYnAyTkhHSmVNTnRyMDJ3WGdOeFY0Vy1kRUtmWC1FZW42aDNfWTctUHM5X2hlWkhuOHFwblR1Q054a19YV3ZLNTlVVVlmMlRTZ0wxLWE2cmN3SWpjVHU4VDJZWU12Q0hPajE5cDdvQm9ic05PNHNRVG45bEI1ZFVHaEN5QnZjbHMxUDFVbHZ2cFNlMUZydw?oc=5"
+   "The stock market's record-high margin debt is keeping Wall Street pros up at night",
+   "Business Insider",
+   "https://news.google.com/rss/articles/CBMikAFBVV95cUxPanhQa1lQaVR3QTB4Y2J1VGhDeGdXN2lrSjdnby1tRTBzWktpNE03LVAxRDFadzFGeThGUUI4LXFmdEVDTTlKemw5MlVnOHpIbVVyN2R6QzNhZmFmd1pYS1VUdlBIUDZNY0xoU2tyajRHZ3pIdjRlR1hBUmZsX0FHWS05WmlGT1RRa1NpMmthWnY?oc=5"
   ],
   [
    "Commodities",
