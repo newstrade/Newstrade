@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T01:41:59.215Z",
+ "updated": "2026-10-18T02:43:31.227Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -280,17 +280,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81769.13,
-   "ch": 0.47,
-   "asof": "2026-10-18T01:41:56.000Z"
+   "p": 81616.05,
+   "ch": 0.29,
+   "asof": "2026-10-18T02:43:27.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2414.65,
-   "ch": 0.62,
-   "asof": "2026-10-18T01:41:55.000Z"
+   "p": 2409.65,
+   "ch": 0.41,
+   "asof": "2026-10-18T02:43:27.000Z"
   },
   {
    "s": "S&P 500",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104,
-   "ch": 0.67,
-   "asof": "2026-10-18T01:41:57.000Z"
+   "p": 103.74,
+   "ch": 0.41,
+   "asof": "2026-10-18T02:43:21.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3008,
-   "ch": 0.64,
-   "asof": "2026-10-18T01:41:55.000Z"
+   "p": 1.2951,
+   "ch": 0.2,
+   "asof": "2026-10-18T02:43:22.000Z"
   },
   {
    "s": "Apple",
@@ -423,9 +423,9 @@
   [
    "Crypto",
    "med",
-   "Coinbase Global (COIN) Wins SEC Backing For Binaries And Flags Bitcoin Quantum Risk",
+   "Anthropic's Junk Rating Sparks a Bigger Bitcoin Debate",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS0hwWWF1UndCOS1wYXE4TTYxVDZRWjYzT1hSa2x3NnowOU1PcGpjMUdNVDVIbUdBN1QxU0JJM0RxUXRUVjBiYnVZVWxISEJaUG5CX3lxOFExX2FSRDd2dGs0bk0xVm5HVGdMSGU4WkR4Ujh0bWhsZk9nYy1iWWdiNV96RVM2OGUwUEJlS1FTQ3pBMWdxdURERHpB?oc=5"
+   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQWxhakVuTlhoTnJDLS1fdnM5V2ZIWlVZcjAxaG0xcFVMd0tKZGJSOXQ1c1VvUDZ2ek5ndFpfdks1bjBFMElXcThoUEFMOFBfajFscHZhRXdFVlg4Q0c5S3ZzYXJUeDMxUVFUN2pudzNIVko4cGRjWjFHSTNheDBwWXJWTjUtbkttazcwblpkMWg2Y3RRX05ZTWpZR1o4N3Y3cjdF?oc=5"
   ],
   [
    "Crypto",
@@ -444,9 +444,9 @@
   [
    "Stocks",
    "med",
-   "Prediction: Oracle Stock Trails the S&P 500 Through 2030",
+   "Iambic Therapeutics (IAM) Joins The Nasdaq Composite, Is The Stock Already Pricey?",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxNV3pBOWYxZ1FjTjZ5MmJJSzF3NWR1OE5KbGc2TzhhUVVNaFVHeE0wUnFFZ0t5ZE9TOEw3LWNoMWd0SGU3Y3BKaHR6dHBJc2xDSDJ6Qmw5M0ZQSFBoLUl4UFFoRkhVcDZyWmMxY1B1cXAza0Rkc013eDhQMUNHR3g5WGR6cklsY3BZRjlhczN4Ui1TbmpkWjFhRkRuTzVlQQ?oc=5"
+   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMEVZeGNSeHVHN3RXSVlkVWZ6c2VDMmpNbV9iYmRWMF9qOWFiLVdsRDJfYVJLZWdoaWJLM1hWSC1GV192Q1RsOWNMLXprM3JBa1lNMVJnaHIzMGFNNTNuYXBzWTB1aGtUbTVHSzhMc1RlTm9zMEp4djloUVZxSzE1ZUtzbldRY1ZHc3hBRUtCX0k5OGdjeWZlME1lU0VRa1NoUDVj?oc=5"
   ],
   [
    "Commodities",
