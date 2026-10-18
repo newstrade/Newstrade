@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T05:42:42.372Z",
+ "updated": "2026-10-18T06:53:05.203Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -235,17 +235,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81619.64,
-   "ch": 0.29,
-   "asof": "2026-10-18T05:42:37.000Z"
+   "p": 81576.39,
+   "ch": 0.24,
+   "asof": "2026-10-18T06:52:57.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2406.5,
-   "ch": 0.28,
-   "asof": "2026-10-18T05:42:34.000Z"
+   "p": 2407.98,
+   "ch": 0.34,
+   "asof": "2026-10-18T06:52:56.000Z"
   },
   {
    "s": "S&P 500",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 103.33,
-   "ch": 0.02,
-   "asof": "2026-10-18T05:42:36.000Z"
+   "p": 103.51,
+   "ch": 0.19,
+   "asof": "2026-10-18T06:52:56.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2914,
-   "ch": -0.09,
-   "asof": "2026-10-18T05:42:11.000Z"
+   "p": 1.2957,
+   "ch": 0.24,
+   "asof": "2026-10-18T06:52:43.000Z"
   },
   {
    "s": "Apple",
@@ -413,9 +413,9 @@
   [
    "Commodities",
    "med",
-   "ExxonMobil Is Up 49% in 2026 With Brent Near $110. Here’s What the Stock Could Be Worth When Oil Cools",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWnhoU1NwTkRDTUZPbnFlWnRsYUxVVDNlNGhLYzRvNlRWdVBUd21NMFp5X3Y4M3RObnFDYXA5bHhMcFZvRUZLc0pvOWUyOWY5Uks2ZTNJXzdvM0d2TzRHQlc0OG1EVzN2dlhXZndsTnltNjg0NUJfZ1FNV1ltUGJSQTYtYUZySjFMSGgwV1MwaXRtWUxIemc3ak9R?oc=5"
+   "Middle East Chemicals Keep Their Cost Edge Despite Hormuz Crisis",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaFJNUkdUUFVUT1RyTlQ5VkFhdDNFb2hlWURLcWtoMkVYME1UM01IT1d0WWpKX3ltTGdPRXZaUU1WZkUxMUlVbjRQc2FIUUg3VGE2Q0IwcWVCVUdaRk56S0poMmVNWDlUS0Jzdnlaem5QOEt3SkVYbklLaGRVeGwza0MzWE9rbjBUWHA3aURhZXRLVTQxNGM1c1pReVluYmltWGRzWEhURVFmWlYwTWfSAbMBQVVfeXFMT3haTXNHdl9CS0IteG9uMUZCeU14Y08xVkNWWDdROUZkaXdpTGZ5b1dZd01ZSFdCUGhFbXRFVnp3bExHZGxUMG4xXzd0VUNhbWFoNDUxNEVpeE5lR2NXcGN0VFAwMU1CendGMXM2bHlfOWQzMnNoeTE4SXFaeHBGRkRJUXo3eXo4RElZeU5PbGNzTGdjdWVFRnZWb2VxUncxTEJyZnctcFpHYUg3dTBVVUl6SW8?oc=5"
   ]
  ]
 }
