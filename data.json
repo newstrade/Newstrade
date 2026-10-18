@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T11:40:14.616Z",
+ "updated": "2026-10-18T12:49:08.460Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -235,17 +235,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81945.39,
-   "ch": 0.69,
-   "asof": "2026-10-18T11:40:04.000Z"
+   "p": 81826.61,
+   "ch": 0.54,
+   "asof": "2026-10-18T12:49:03.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2413.68,
-   "ch": 0.58,
-   "asof": "2026-10-18T11:40:11.000Z"
+   "p": 2412.34,
+   "ch": 0.52,
+   "asof": "2026-10-18T12:49:01.000Z"
   },
   {
    "s": "S&P 500",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 103.82,
-   "ch": 0.49,
-   "asof": "2026-10-18T11:40:08.000Z"
+   "p": 103.84,
+   "ch": 0.51,
+   "asof": "2026-10-18T12:49:04.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2955,
-   "ch": 0.23,
-   "asof": "2026-10-18T11:40:02.000Z"
+   "p": 1.2925,
+   "ch": 0,
+   "asof": "2026-10-18T12:49:01.000Z"
   },
   {
    "s": "Apple",
@@ -385,9 +385,9 @@
   [
    "Crypto",
    "med",
-   "Bitcoin struggles above $80K as whale transfers signal mixed outlook",
-   "Investing.com",
-   "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZEVpQVBiUHNsalFlQjQwNmY5ZTFVS1Z3d0RfVTdQN09kX3MyVHk0dm5lZkdHaGZWdmgtalF0MWs4YlZWRktMZU04bWNkQ0ZoYU5BRHdob2NyS1l3eWJqQnNURGRORDF3dEJvdUlBU0NiZ3hIUXREWWFqRm12M0xJRU9Demw1a3hTV3ZXVkhOekNfZlhZSVdmQzZXTjNEWV9fUFp0X3pNSmM0aWY3bDRudFJzai1tVlpLS29PRFAteE01QV9y?oc=5"
+   "The Crypto Devices Built to Foil Hackers Came With Spies Inside",
+   "Bloomberg",
+   "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWU96Q2NYUFpFWC15Z09ScDdIRjNBeG1Sb3U4T0N3ZG54MGdLTGRIcUVmb2VLaWlTbHhVMWNpbTJWdGMwQ0pybUd1TVdtMWZQcnkxYnpFaXRYWHRwb3l3Y3BrS3lWd1VXdVRmRmxLb3NOOXpNNlBfZGFtQmhSWkdTUnVqcS1BaWpRX3BpVkZvME05QUNSX09zUTc0emQ0cHpTMTJhd1FDQ25CVk0zLW51Ylg2YmI?oc=5"
   ],
   [
    "Stocks",
@@ -399,9 +399,9 @@
   [
    "Stocks",
    "med",
-   "The AI Stock Market Wobble Is a Reminder: This Time Isn’t Different",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSGpZb1lmS0hlZGYwTmtOTUg2elhLcGFNTWItNDVFWTBMcGRlMlhlM3E3ajdSVktKdlA3ZW1jZEk1cTJLMXZKSWRQSWVtNkJMSzdEbWFBNHk2LWUzU3AwZVRVTnl6ajFZUHhZbE9Mdk92UUlGaktGUXJuOEZoOUw2cTZZaWpYbHp1MFdEeXYzckNZallkVWY5V0RVeE1fZV9qLXNtSDhlRmp3bndMeFE?oc=5"
+   "We Just Witnessed a Unique Stock Market Measure Do Something for Only the 4th Time Since 1997, and It Offers a Chilling Outlook for Wall Street",
+   "The Motley Fool",
+   "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMWVlbTE4TmZuTGxjcDFtVzFPZVdOcXlEbE05ZU5tNVBKRjI0Q1haZFp0enBzWmRQUmpRTHBaZE9KYmoxSEVSdl9ybWloQTVremNzbmtraXJOX3JlQ3BIWXlROFZLVFphVVdaQmg1VVlGandYYWV0T3M3eW05UWN1dUN6c2dGN3JUc0Q1OTVBZjI5YS1xY3drVXhYdXBXRVVIWFBSZ1psV0ptTDdGTS1iaGFqR0xuUFFpYUx4WC11aVVnRlBabG9FakxpQURwRFdGdjZpNnZrLThiYlVIUHRTR25jNEpkZw?oc=5"
   ],
   [
    "Commodities",
