@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T13:40:59.359Z",
+ "updated": "2026-10-18T14:41:50.633Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -219,9 +219,9 @@
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4137,
-   "ch": -0.34,
-   "asof": "2026-10-18T04:21:18.000Z"
+   "p": 1.4135,
+   "ch": -0.35,
+   "asof": "2026-10-18T14:06:06.000Z"
   },
   {
    "s": "USD/CHF",
@@ -235,17 +235,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81367.62,
-   "ch": -0.02,
-   "asof": "2026-10-18T13:40:58.000Z"
+   "p": 80983.49,
+   "ch": -0.49,
+   "asof": "2026-10-18T14:41:50.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2393.05,
-   "ch": -0.28,
-   "asof": "2026-10-18T13:40:54.000Z"
+   "p": 2371.36,
+   "ch": -1.18,
+   "asof": "2026-10-18T14:41:47.000Z"
   },
   {
    "s": "S&P 500",
@@ -293,15 +293,15 @@
    "d": 2,
    "p": 129.65,
    "ch": -0.05,
-   "asof": "2026-10-16T21:00:38.000Z"
+   "asof": "2026-10-18T14:06:40.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4751,
-   "ch": -0.11,
-   "asof": "2026-10-18T04:21:18.000Z"
+   "p": 16.4998,
+   "ch": 0.04,
+   "asof": "2026-10-18T14:06:06.000Z"
   },
   {
    "s": "USD/NGN",
@@ -309,23 +309,23 @@
    "d": 2,
    "p": 1330.13,
    "ch": 0.28,
-   "asof": "2026-10-16T21:00:38.000Z"
+   "asof": "2026-10-18T14:06:40.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 102.79,
-   "ch": -0.51,
-   "asof": "2026-10-18T13:40:54.000Z"
+   "p": 101.95,
+   "ch": -1.32,
+   "asof": "2026-10-18T14:41:46.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2817,
-   "ch": -0.84,
-   "asof": "2026-10-18T13:40:57.000Z"
+   "p": 1.2723,
+   "ch": -1.57,
+   "asof": "2026-10-18T14:41:44.000Z"
   },
   {
    "s": "Apple",
@@ -377,10 +377,10 @@
   ],
   [
    "Crypto",
-   "med",
-   "Michael Saylor Reveals Why Wall Street Prefers Cash to Bitcoin",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSXAxa2xCMXgzcTBjUnd6YUlBM1N0SFl3THAxRjJzeVg0VjdZcS1uME1SZU12VFIzVDZCLVh1a0s2YjBwUFhCbW5MbkZvT1NzY2d6M3RWN2hFWlRia3RZa1VTc0VoRE5rbms4SXVsamhncHlpczNkVTJsMnJBcFRHaThMZVY3RmI3WTQwWDkxZkE2c1paeGkwVUJ3YWQ?oc=5"
+   "high",
+   "Shock Leak Triggers Sudden Bets On A Massive Bitcoin ‘Bailout’ Amid Price Crash Fears",
+   "Forbes",
+   "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS0VXdExqeEhJLUdMN1FqYjFKcGc1VTFlalRubDBkSXRXWTZVVVk0bmpOdkVnWTE5TFl2bnNBclBGVWZtYmVxUkJlRU5rbW1xbnZKS0VkcXY4NHVkUzRTUEx6SDJxNEZjNWZnTW9kVEFWV2hMdzN0dHczeUd4ZmFveThBd3pLSDJKWXdUMlFNZENhZlRodnhZMk8yUVpqVmJscXNzaTYtblF1dEhsZS1FclNnWlNhSjB3S0E?oc=5"
   ],
   [
    "Crypto",
@@ -392,16 +392,16 @@
   [
    "Stocks",
    "med",
-   "Michael Burry Warns Stock Market Could Be Months Away From A 2000-Style Reckoning — ‘The Preconditions Seem Set For Fireworks’",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxPaFZJeXlDdUw0YWZkS1FydWpoWWx2VWo2cWN2Wmw0VXM5YjE4Ym82a1RpdTNkOG1INUU0VkNoX01RNHFZR2lIakUzS0UxRDFhZkUydzN0Rnhlb1pNUUVxNm1mQm5IY3R1ZDJ6YWFmUmpHdWQ1cVdJNmE1a000YkFhYXdpNkp5UFhIUUZXdG9OeUx0cDNlajJDakZvZVhNQQ?oc=5"
+   "The AI Stock Market Wobble Is a Reminder: This Time Isn’t Different",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSGpZb1lmS0hlZGYwTmtOTUg2elhLcGFNTWItNDVFWTBMcGRlMlhlM3E3ajdSVktKdlA3ZW1jZEk1cTJLMXZKSWRQSWVtNkJMSzdEbWFBNHk2LWUzU3AwZVRVTnl6ajFZUHhZbE9Mdk92UUlGaktGUXJuOEZoOUw2cTZZaWpYbHp1MFdEeXYzckNZallkVWY5V0RVeE1fZV9qLXNtSDhlRmp3bndMeFE?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Opinion: There is a silent market rotation inside the S&P 500 that’s warning of more weakness ahead",
-   "MarketWatch",
-   "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc3Q2VG9DakFjU3JIMFpjMmFwcDI1cFZGemt1VWZCWUVHWWswdXEtY0RSRUtuS1haTVBtTVFubVRrVDhtbzZBczZoX0NHRmVQbjRjN1plekNKQVRpZ3lzT2ctbUQ1b1FQNmRFeVJ1YndQaXE4X0tBdU5tamZfNndGTnlfMXZndm1CUWZ1VjVxSFQ0SEFZX29tQ0V2NDB6bFBtQXhFMXlnTTB4VEtnX1c0SE5EM0sxXzE3a3FJUWhBTTRWZGdhZ2pBaUpzZXU?oc=5"
+   "Michael Burry Warns Stock Market Could Be Months Away From A 2000-Style Reckoning — ‘The Preconditions Seem Set For Fireworks’",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMingFBVV95cUxPaFZJeXlDdUw0YWZkS1FydWpoWWx2VWo2cWN2Wmw0VXM5YjE4Ym82a1RpdTNkOG1INUU0VkNoX01RNHFZR2lIakUzS0UxRDFhZkUydzN0Rnhlb1pNUUVxNm1mQm5IY3R1ZDJ6YWFmUmpHdWQ1cVdJNmE1a000YkFhYXdpNkp5UFhIUUZXdG9OeUx0cDNlajJDakZvZVhNQQ?oc=5"
   ],
   [
    "Commodities",
@@ -413,9 +413,9 @@
   [
    "Commodities",
    "med",
-   "Middle East Chemicals Keep Their Cost Edge Despite Hormuz Crisis",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaFJNUkdUUFVUT1RyTlQ5VkFhdDNFb2hlWURLcWtoMkVYME1UM01IT1d0WWpKX3ltTGdPRXZaUU1WZkUxMUlVbjRQc2FIUUg3VGE2Q0IwcWVCVUdaRk56S0poMmVNWDlUS0Jzdnlaem5QOEt3SkVYbklLaGRVeGwza0MzWE9rbjBUWHA3aURhZXRLVTQxNGM1c1pReVluYmltWGRzWEhURVFmWlYwTWfSAbMBQVVfeXFMT3haTXNHdl9CS0IteG9uMUZCeU14Y08xVkNWWDdROUZkaXdpTGZ5b1dZd01ZSFdCUGhFbXRFVnp3bExHZGxUMG4xXzd0VUNhbWFoNDUxNEVpeE5lR2NXcGN0VFAwMU1CendGMXM2bHlfOWQzMnNoeTE4SXFaeHBGRkRJUXo3eXo4RElZeU5PbGNzTGdjdWVFRnZWb2VxUncxTEJyZnctcFpHYUg3dTBVVUl6SW8?oc=5"
+   "Crude oil climbs again as Russia-Ukraine \"ceasefire\" faces doubts, US-Iran stalemate extends",
+   "investingLive",
+   "https://news.google.com/rss/articles/CBMixwFBVV95cUxQblVSamYzQlYtWExiRlJyaHZfTEVHVXJwWEprbmd5RDN6MDA2UUIwVmJfYkt6LTRmeGxjMGJXNy1OZ3MxNURNYnJYTUxWc1A5WHMyX2F6cWgtbTQydExvZkxFQnVUMmtMMGx3bTMtMVBlbW9BVXBNdk9wYkZOeTdscE42aHRVcmItRVdHQWgzSExTMzdCUmc2M2p5Y0x6d2RiRmVBZmRrMDFuVnZyTXF3bVh3UjZfdGV5ZlQ2NFRwRFlLVmFzZHY0?oc=5"
   ]
  ]
 }
