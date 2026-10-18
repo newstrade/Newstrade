@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T02:43:31.227Z",
+ "updated": "2026-10-18T03:44:23.773Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -280,17 +280,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81616.05,
-   "ch": 0.29,
-   "asof": "2026-10-18T02:43:27.000Z"
+   "p": 81852,
+   "ch": 0.58,
+   "asof": "2026-10-18T03:44:23.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2409.65,
-   "ch": 0.41,
-   "asof": "2026-10-18T02:43:27.000Z"
+   "p": 2420.84,
+   "ch": 0.88,
+   "asof": "2026-10-18T03:44:24.000Z"
   },
   {
    "s": "S&P 500",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 103.74,
-   "ch": 0.41,
-   "asof": "2026-10-18T02:43:21.000Z"
+   "p": 104.23,
+   "ch": 0.89,
+   "asof": "2026-10-18T03:44:22.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2951,
-   "ch": 0.2,
-   "asof": "2026-10-18T02:43:22.000Z"
+   "p": 1.3007,
+   "ch": 0.63,
+   "asof": "2026-10-18T03:44:18.000Z"
   },
   {
    "s": "Apple",
@@ -444,16 +444,16 @@
   [
    "Stocks",
    "med",
-   "Iambic Therapeutics (IAM) Joins The Nasdaq Composite, Is The Stock Already Pricey?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMEVZeGNSeHVHN3RXSVlkVWZ6c2VDMmpNbV9iYmRWMF9qOWFiLVdsRDJfYVJLZWdoaWJLM1hWSC1GV192Q1RsOWNMLXprM3JBa1lNMVJnaHIzMGFNNTNuYXBzWTB1aGtUbTVHSzhMc1RlTm9zMEp4djloUVZxSzE1ZUtzbldRY1ZHc3hBRUtCX0k5OGdjeWZlME1lU0VRa1NoUDVj?oc=5"
+   "Prediction: Oracle Stock Trails the S&P 500 Through 2030",
+   "The Motley Fool",
+   "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUjVIMHN2WEpIdGlONkphTDVTN2xoallTeE1Xa2VNYjFFS1l6dVh0a3Q5WUROb1hZQ1d6NjVRaUMxTGk2UVotYk9BSDBTa19LNERqTlRwMm9ERDVjWkhnWGsySzg3RENvdGM2ZlR2c0Jwb1RObWRRNkVDeWVEaksxaVhya05rQnU4a3JGWWx0TWR2NDhuYk5veE1iMDNkdFNGRklHUA?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Europe Braces for a Winter Energy Crisis as Gas Reserves Run Low",
+   "Middle East Chemicals Keep Their Cost Edge Despite Hormuz Crisis",
    "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWjZjN0FDbUFpVVhSalJDTWstV0U3OUZpcXRtTHhGSXc1M2FMQnlpaURqX1BjOEkwV3NIaHVUaG5OODd0Q2NMYjVJdjZoTUZMLVBUWkhlbGFMTTdDQzNoZExvV0F5X1dSRmp0eHdtYlNWUWR5YUt5dlFrVFJRVG0zYl94LU9uckxxa21mc3pSS0lROVdrOG44YnNmcFJPaUR2WDFzZkRaS0c5Z0hWMnVRcHJn0gG3AUFVX3lxTE95ZVY3M2ZmQ0xXRU5rTkN2QUtiZ2FXa2RwczV0NDJfQUxaQmxmVF9RdjYtT21JdVFpUU1SXzZCaC0xc1lSaVVFdXRva3JKQXE0emc2NXgxQVNmd1RiTlJDWGhkSF9Kb0EtRl9nZnRrY1RidEpqNUg3UTAteG5zMm1HWjRoaFRnU011OUtmSDZmYnB2dFA4MGdBTjRISXFQMUh6S1dOY3A1aUFoYXg4N0xNaDEwSWZmNA?oc=5"
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaFJNUkdUUFVUT1RyTlQ5VkFhdDNFb2hlWURLcWtoMkVYME1UM01IT1d0WWpKX3ltTGdPRXZaUU1WZkUxMUlVbjRQc2FIUUg3VGE2Q0IwcWVCVUdaRk56S0poMmVNWDlUS0Jzdnlaem5QOEt3SkVYbklLaGRVeGwza0MzWE9rbjBUWHA3aURhZXRLVTQxNGM1c1pReVluYmltWGRzWEhURVFmWlYwTWfSAbMBQVVfeXFMT3haTXNHdl9CS0IteG9uMUZCeU14Y08xVkNWWDdROUZkaXdpTGZ5b1dZd01ZSFdCUGhFbXRFVnp3bExHZGxUMG4xXzd0VUNhbWFoNDUxNEVpeE5lR2NXcGN0VFAwMU1CendGMXM2bHlfOWQzMnNoeTE4SXFaeHBGRkRJUXo3eXo4RElZeU5PbGNzTGdjdWVFRnZWb2VxUncxTEJyZnctcFpHYUg3dTBVVUl6SW8?oc=5"
   ],
   [
    "Commodities",
