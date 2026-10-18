@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T00:56:12.986Z",
+ "updated": "2026-10-18T01:41:59.215Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -280,17 +280,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81441.19,
-   "ch": 0.07,
-   "asof": "2026-10-18T00:56:12.000Z"
+   "p": 81769.13,
+   "ch": 0.47,
+   "asof": "2026-10-18T01:41:56.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2403.36,
-   "ch": 0.15,
-   "asof": "2026-10-18T00:56:07.000Z"
+   "p": 2414.65,
+   "ch": 0.62,
+   "asof": "2026-10-18T01:41:55.000Z"
   },
   {
    "s": "S&P 500",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 103.37,
-   "ch": 0.06,
-   "asof": "2026-10-18T00:56:08.000Z"
+   "p": 104,
+   "ch": 0.67,
+   "asof": "2026-10-18T01:41:57.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2969,
-   "ch": 0.34,
-   "asof": "2026-10-18T00:56:07.000Z"
+   "p": 1.3008,
+   "ch": 0.64,
+   "asof": "2026-10-18T01:41:55.000Z"
   },
   {
    "s": "Apple",
@@ -444,9 +444,9 @@
   [
    "Stocks",
    "med",
-   "Iambic Therapeutics (IAM) Joins The Nasdaq Composite, Is The Stock Already Pricey?",
+   "Prediction: Oracle Stock Trails the S&P 500 Through 2030",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMEVZeGNSeHVHN3RXSVlkVWZ6c2VDMmpNbV9iYmRWMF9qOWFiLVdsRDJfYVJLZWdoaWJLM1hWSC1GV192Q1RsOWNMLXprM3JBa1lNMVJnaHIzMGFNNTNuYXBzWTB1aGtUbTVHSzhMc1RlTm9zMEp4djloUVZxSzE1ZUtzbldRY1ZHc3hBRUtCX0k5OGdjeWZlME1lU0VRa1NoUDVj?oc=5"
+   "https://news.google.com/rss/articles/CBMingFBVV95cUxNV3pBOWYxZ1FjTjZ5MmJJSzF3NWR1OE5KbGc2TzhhUVVNaFVHeE0wUnFFZ0t5ZE9TOEw3LWNoMWd0SGU3Y3BKaHR6dHBJc2xDSDJ6Qmw5M0ZQSFBoLUl4UFFoRkhVcDZyWmMxY1B1cXAza0Rkc013eDhQMUNHR3g5WGR6cklsY3BZRjlhczN4Ui1TbmpkWjFhRkRuTzVlQQ?oc=5"
   ],
   [
    "Commodities",
