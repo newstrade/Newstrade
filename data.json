@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T08:43:45.324Z",
+ "updated": "2026-10-18T09:43:01.799Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -235,17 +235,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81628.96,
-   "ch": 0.3,
-   "asof": "2026-10-18T08:43:41.000Z"
+   "p": 82065.55,
+   "ch": 0.84,
+   "asof": "2026-10-18T09:42:59.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2408.51,
-   "ch": 0.36,
-   "asof": "2026-10-18T08:43:40.000Z"
+   "p": 2421.9,
+   "ch": 0.92,
+   "asof": "2026-10-18T09:42:57.000Z"
   },
   {
    "s": "S&P 500",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 103.02,
-   "ch": -0.28,
-   "asof": "2026-10-18T08:43:41.000Z"
+   "p": 103.99,
+   "ch": 0.66,
+   "asof": "2026-10-18T09:42:58.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.289,
-   "ch": -0.27,
-   "asof": "2026-10-18T08:43:42.000Z"
+   "p": 1.2992,
+   "ch": 0.51,
+   "asof": "2026-10-18T09:42:55.000Z"
   },
   {
    "s": "Apple",
@@ -371,9 +371,9 @@
   [
    "Forex",
    "med",
-   "China central bank chief supports closer IMF surveillance of fiscal, spillover risks",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcDlkTV9ZX1VzWXpSMnpIYkZiNkNJdVNxVVU4WldvNHIwMzJVZGRXWlljY1RqVnliUzZNQk0wRzhCYnhrbXF4ci1uLVJUcTJDQWFNdWFvWkdMaXhpdFNaYUZZcmY1cXpXeWJhVHU4MHlBYWFiSTk3OEdNTjFiSTNRQUNwbGxZNDdwRTJFbDJSdW8wMHZHV0QtaUNTVVNFUUI4U2JXQ3VNSFNJaDVGcklDZldnV1dIYldtX1doZHhoa0c5VFVtYlE0U0o0OUxSdw?oc=5"
+   "Sterling and Wilson Renewable Energy Ltd (BOM:542760) (Q2 2027) Earnings Call Highlights: ...",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxORFN0ZHU5TmdDVldWcTNydDc4b0FHU0ptWmNBYWNHU3c5dkZKazE3aDEtN25PMzZ6OU01alEtMVlzVnZGYXFXZkdfalU2eXhjclhYZEdMZEdXN2FBWklRb1J3UERlQk9UNmtHc2pqLXRhVVJlNXJmaUxUN2pjVXBQZmlWWklNXzREM09LV19qWWwyT09uWF9CZQ?oc=5"
   ],
   [
    "Crypto",
@@ -392,16 +392,16 @@
   [
    "Stocks",
    "med",
-   "The S&P 500's \"Average\" Year Almost Never Happens. Here's How Often It Actually Lands Near 10%.",
+   "Michael Burry Warns of a Stock Market ‘Supervolcano’",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVldmbnZGSVpkanFYMnZCTWZlaVRqSmMwWjItdmVyMnlseHNTTTJkNEtNcjg1dXhlY29VTjNQRU5BN01qcWZrWW13VWZTMFJMa2I1VWpodk9YbzVxaTdOWUkwa1FmOE5pd29maDhoM0pfM0JxYkthUGhQbHotZGtVR1ZfU20xc2FoOUpKYy1IQl9lcXUwUm9R?oc=5"
+   "https://news.google.com/rss/articles/CBMingFBVV95cUxOUTJEQXBCeFBNT0YtRFJzaVZmdnAycXBOX0lRUVI3QTZ1N2FtRWFybGxNYTlpZUZ6TEdLQ2loYUpfMkpYME5hNFEwZmFQSUJOVlBua3d1TEg1azQ2d0w2MDllb08wUGZ1d2s1VGo5NXBLazQ3N3UzUWs4Q2xVNnB5a25NeXMyT05CaFNXNk54eUYwSDZpVlFmU2xOc0lQQQ?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Energy & Utilities Roundup: Market Talk",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4ZjRPVE1uUllQZ0F2T0YxT2pvaHI0UXBvOEtpVW14WTlrZElkY2d4ak5mZ3lJTjQ3SEV5V1N6QjQyYVVveG9ERHExQ25tSFBONE5KX3d2ZFF2ODFBMUh5aWs1M181d0d3VThrSUlINnZRM09sWGphZXB0SENwTGs?oc=5"
+   "The S&P 500's \"Average\" Year Almost Never Happens. Here's How Often It Actually Lands Near 10%.",
+   "The Motley Fool",
+   "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU0p3azYzVzBzVFVGSUI0cnRXT0lmdUtjVnllaC15aVJSWk9qNEJPV1d2NjlkSHpRWktrb0lsaWNsNVhMbUNtVE4yeTVvb09WMzFHWnFUTnRkVXhmZmVrbFBqbW5iLTQwWV85ME9XS3NxbzJOWFRBZURtZU5pNVMtek9DQ24tQ0RfbnRNTEppbnJUN3hDZXhyNWx0NDFUX0syOTZXMC1aVUxBamNlWEF0RGNvbUp6c3g2STFJT0RNa0dyalNSQmVQODNtdVBmd291MV80?oc=5"
   ],
   [
    "Commodities",
