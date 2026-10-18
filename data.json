@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T07:42:05.881Z",
+ "updated": "2026-10-18T08:43:45.324Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -235,17 +235,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81585.46,
-   "ch": 0.25,
-   "asof": "2026-10-18T07:42:04.000Z"
+   "p": 81628.96,
+   "ch": 0.3,
+   "asof": "2026-10-18T08:43:41.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2407.14,
-   "ch": 0.31,
-   "asof": "2026-10-18T07:42:03.000Z"
+   "p": 2408.51,
+   "ch": 0.36,
+   "asof": "2026-10-18T08:43:40.000Z"
   },
   {
    "s": "S&P 500",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 103.15,
-   "ch": -0.16,
-   "asof": "2026-10-18T07:42:00.000Z"
+   "p": 103.02,
+   "ch": -0.28,
+   "asof": "2026-10-18T08:43:41.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2905,
-   "ch": -0.16,
-   "asof": "2026-10-18T07:42:02.000Z"
+   "p": 1.289,
+   "ch": -0.27,
+   "asof": "2026-10-18T08:43:42.000Z"
   },
   {
    "s": "Apple",
@@ -378,16 +378,16 @@
   [
    "Crypto",
    "med",
-   "Anthropic's Junk Rating Sparks a Bigger Bitcoin Debate",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQWxhakVuTlhoTnJDLS1fdnM5V2ZIWlVZcjAxaG0xcFVMd0tKZGJSOXQ1c1VvUDZ2ek5ndFpfdks1bjBFMElXcThoUEFMOFBfajFscHZhRXdFVlg4Q0c5S3ZzYXJUeDMxUVFUN2pudzNIVko4cGRjWjFHSTNheDBwWXJWTjUtbkttazcwblpkMWg2Y3RRX05ZTWpZR1o4N3Y3cjdF?oc=5"
+   "Bitcoin struggles above $80K as whale transfers signal mixed outlook",
+   "Investing.com",
+   "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZEVpQVBiUHNsalFlQjQwNmY5ZTFVS1Z3d0RfVTdQN09kX3MyVHk0dm5lZkdHaGZWdmgtalF0MWs4YlZWRktMZU04bWNkQ0ZoYU5BRHdob2NyS1l3eWJqQnNURGRORDF3dEJvdUlBU0NiZ3hIUXREWWFqRm12M0xJRU9Demw1a3hTV3ZXVkhOekNfZlhZSVdmQzZXTjNEWV9fUFp0X3pNSmM0aWY3bDRudFJzai1tVlpLS29PRFAteE01QV9y?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "The Crypto Devices Built to Foil Hackers Came With Spies Inside",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWU96Q2NYUFpFWC15Z09ScDdIRjNBeG1Sb3U4T0N3ZG54MGdLTGRIcUVmb2VLaWlTbHhVMWNpbTJWdGMwQ0pybUd1TVdtMWZQcnkxYnpFaXRYWHRwb3l3Y3BrS3lWd1VXdVRmRmxLb3NOOXpNNlBfZGFtQmhSWkdTUnVqcS1BaWpRX3BpVkZvME05QUNSX09zUTc0emQ0cHpTMTJhd1FDQ25CVk0zLW51Ylg2YmI?oc=5"
+   "Anthropic's Junk Rating Sparks a Bigger Bitcoin Debate",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQWxhakVuTlhoTnJDLS1fdnM5V2ZIWlVZcjAxaG0xcFVMd0tKZGJSOXQ1c1VvUDZ2ek5ndFpfdks1bjBFMElXcThoUEFMOFBfajFscHZhRXdFVlg4Q0c5S3ZzYXJUeDMxUVFUN2pudzNIVko4cGRjWjFHSTNheDBwWXJWTjUtbkttazcwblpkMWg2Y3RRX05ZTWpZR1o4N3Y3cjdF?oc=5"
   ],
   [
    "Stocks",
