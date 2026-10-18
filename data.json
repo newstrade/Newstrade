@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T06:53:05.203Z",
+ "updated": "2026-10-18T07:42:05.881Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -235,17 +235,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81576.39,
-   "ch": 0.24,
-   "asof": "2026-10-18T06:52:57.000Z"
+   "p": 81585.46,
+   "ch": 0.25,
+   "asof": "2026-10-18T07:42:04.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2407.98,
-   "ch": 0.34,
-   "asof": "2026-10-18T06:52:56.000Z"
+   "p": 2407.14,
+   "ch": 0.31,
+   "asof": "2026-10-18T07:42:03.000Z"
   },
   {
    "s": "S&P 500",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 103.51,
-   "ch": 0.19,
-   "asof": "2026-10-18T06:52:56.000Z"
+   "p": 103.15,
+   "ch": -0.16,
+   "asof": "2026-10-18T07:42:00.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2957,
-   "ch": 0.24,
-   "asof": "2026-10-18T06:52:43.000Z"
+   "p": 1.2905,
+   "ch": -0.16,
+   "asof": "2026-10-18T07:42:02.000Z"
   },
   {
    "s": "Apple",
@@ -399,9 +399,9 @@
   [
    "Stocks",
    "med",
-   "Narrow Stock-Market Rallies Aren’t Unusual. When to Start Worrying.",
+   "Energy & Utilities Roundup: Market Talk",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX0h0Ry1NTHZnWDlpTC1NazVDb2ViNDlYbnpvMWpISGQwUUF2VmllVl9WTTBFbUplYUhZNk41Qkl5SGhsWGhhTk15RnMxazlmQVpuR3ZaeXRyWDFock5WVFBQSVZGcTE4azVUVUppcUo1Mll0T01VeENBR0J4X3dSNTY2cmhxTXcxdWZKWDlLd09iMmZWeEpyMXNibHg3NmVlckFRaHE5MF9uaEt4?oc=5"
+   "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4ZjRPVE1uUllQZ0F2T0YxT2pvaHI0UXBvOEtpVW14WTlrZElkY2d4ak5mZ3lJTjQ3SEV5V1N6QjQyYVVveG9ERHExQ25tSFBONE5KX3d2ZFF2ODFBMUh5aWs1M181d0d3VThrSUlINnZRM09sWGphZXB0SENwTGs?oc=5"
   ],
   [
    "Commodities",
