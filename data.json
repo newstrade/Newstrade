@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T20:40:20.864Z",
+ "updated": "2026-10-18T21:41:32.451Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1188,
-   "ch": -0.29,
-   "asof": "2026-10-18T20:05:47.000Z"
+   "p": 1.1192,
+   "ch": -0.26,
+   "asof": "2026-10-18T21:40:49.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3309,
+   "p": 1.3308,
    "ch": 0.26,
-   "asof": "2026-10-18T20:39:48.000Z"
+   "asof": "2026-10-18T21:40:49.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.945,
-   "ch": -0.02,
-   "asof": "2026-10-18T20:38:31.000Z"
+   "p": 157.989,
+   "ch": 0.01,
+   "asof": "2026-10-18T21:41:24.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6967,
-   "ch": 0.62,
-   "asof": "2026-10-18T20:38:48.000Z"
+   "p": 0.6962,
+   "ch": 0.55,
+   "asof": "2026-10-18T21:40:49.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4128,
-   "ch": -0.4,
-   "asof": "2026-10-18T20:40:02.000Z"
+   "p": 1.4119,
+   "ch": -0.47,
+   "asof": "2026-10-18T21:41:30.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8253,
-   "ch": -0.12,
-   "asof": "2026-10-18T20:20:40.000Z"
+   "p": 0.8247,
+   "ch": -0.19,
+   "asof": "2026-10-18T21:41:31.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80748.32,
-   "ch": -0.78,
-   "asof": "2026-10-18T20:40:19.000Z"
+   "p": 81004.12,
+   "ch": -0.47,
+   "asof": "2026-10-18T21:41:27.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2343.94,
-   "ch": -2.33,
-   "asof": "2026-10-18T20:40:22.000Z"
+   "p": 2359.8,
+   "ch": -1.67,
+   "asof": "2026-10-18T21:41:27.000Z"
   },
   {
    "s": "S&P 500",
@@ -293,15 +293,15 @@
    "d": 2,
    "p": 129.65,
    "ch": -0.05,
-   "asof": "2026-10-18T15:47:34.000Z"
+   "asof": "2026-10-18T21:23:56.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4925,
-   "ch": -0.01,
-   "asof": "2026-10-18T19:21:18.000Z"
+   "p": 16.4831,
+   "ch": -0.06,
+   "asof": "2026-10-18T21:29:13.000Z"
   },
   {
    "s": "USD/NGN",
@@ -309,23 +309,23 @@
    "d": 2,
    "p": 1330.13,
    "ch": 0.28,
-   "asof": "2026-10-18T14:06:40.000Z"
+   "asof": "2026-10-18T21:23:56.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 100.88,
-   "ch": -2.35,
-   "asof": "2026-10-18T20:40:18.000Z"
+   "p": 101.58,
+   "ch": -1.68,
+   "asof": "2026-10-18T21:41:31.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2579,
-   "ch": -2.68,
-   "asof": "2026-10-18T20:40:22.000Z"
+   "p": 1.2696,
+   "ch": -1.78,
+   "asof": "2026-10-18T21:41:27.000Z"
   },
   {
    "s": "Apple",
@@ -392,16 +392,23 @@
   [
    "Stocks",
    "med",
+   "Black Monday Fears Grip Wall Street as Traders Lose $52 Million on AI Stock Bets",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ2F1X0NFSEExdXFUR3VwSEVRd29YMi1QQjFVb24tZ2NXbEtJZDJsY3djQzNlclRFYm05SktkNDUxS1hoX1o0VkI1ZkNETjdtNVNkdTlKaGo2TlctTEZjeEhVT0Z4ZmJPNVBCQTZKOXk3NjctMlBIZzdhYXdFY1NzZG5PQXlncEpBZ3g2anNkdjJPMVdQQUhwQg?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
    "Energy Stocks Rise as Global Conflicts Push Up Oil Prices",
    "WSJ",
    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc0JBVExySU9STHJOY2JkTGRjUTRmX1BBclBDMGYtQ2hDQTJRWjhXUVRJQTJEd1lpLVdBMDdIWEVkcV82eVRNaUQ4OWlSQW5XSkJOOGpITXVUZThCSkM2ZmFpcE82cmRILUJIbk9kdEFHUHhHTVNNNlh2VXEtRVduMFZ2REdtQUZEZ2ZvdV9tZGRrcGlvaW5XcUNTUW91XzdCZl80?oc=5"
   ],
   [
-   "Stocks",
+   "Commodities",
    "med",
-   "'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONkF2UGc0SmgxTzdidVlLNWRHU3JjZFdrOHpKRGt2ODFqSUJFQWpnYVRXLUJ0aDJ6c3pmNDB3OVB0VGpsNlJJRkkzZjNXODNzaEJnUFdOemZZVTBKc3pWbUJ6MnBaeFdIRjB1VDl0UlVzMnNneDJGN0NJTGNaWmUyVnRqT2QxOERjZ2ZJYVltT0tLZzE0T2pSYjRqZW1tbE00TVJzbzJTQjRTemRILTV5cGFQZU9EeHg0TlVDdE95bE5VVHh0Z0w5eGdGa1FmWGdtVzY4Wg?oc=5"
+   "Tension in the releases sent crude oil prices to a new high",
+   "investingLive",
+   "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM2ptM2VkU0JuMk1UR3N1cG1KODlDc2x5ZlFMMUQwazk4ZmFkVzlVWHNkaDZPTHNnZzEyb2I3R0g5LXlZY3dlZ3lqY2pYOElrcFVUQ2V3ZzBLaWNacG1uWldLbHFkT0R6ZEdGSVBkUDhjWkRVYkh5bWJPTTZYYWhsT2d4V1U1cjk2QWFfWmZuNFVFTThyQW9wbUhQZ1JfUk0?oc=5"
   ],
   [
    "Commodities",
@@ -409,13 +416,6 @@
    "Crude oil climbs again as Russia-Ukraine \"ceasefire\" faces doubts, US-Iran stalemate extends",
    "investingLive",
    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQblVSamYzQlYtWExiRlJyaHZfTEVHVXJwWEprbmd5RDN6MDA2UUIwVmJfYkt6LTRmeGxjMGJXNy1OZ3MxNURNYnJYTUxWc1A5WHMyX2F6cWgtbTQydExvZkxFQnVUMmtMMGx3bTMtMVBlbW9BVXBNdk9wYkZOeTdscE42aHRVcmItRVdHQWgzSExTMzdCUmc2M2p5Y0x6d2RiRmVBZmRrMDFuVnZyTXF3bVh3UjZfdGV5ZlQ2NFRwRFlLVmFzZHY0?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Oil Prices Stay High as War Keeps Supply Tight Into 2027",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWk4WFNnZ1pCa1hzQ3FlZWNhMmJlVC1QejlndUplUDllMWtOVXNpbklEZ1ZsRFBldlgtNURlQWJlSVMzQjBESkFtMzdVWjUxVHNJWk1ITDV2Z280VWFZY3J6Y0xTZHNTdDJMZElwa2FZUzU5QjlIMzJXNmQ0TUo3T0N6UmFReXk2VDV1czdlT2FVT1VDZXVVbl9fOFhfV2xvbEHSAacBQVVfeXFMTnhFV1FibGFVc2t2YnRBdkt6NmhNWDNSSmNQMjJSeE5IZUx0MFFwWV9Kb0dHaHliYVJmZkMtVGZ0RlhpLWNiSk1XaXBILURySi1Ca3ktZGNWbllfQUxmdEJJZVpTUmRpSnY2cWszdU1uVUdRLWYxN25xamQ3ZGZFb29lNmlFdVNqLUt0R0UxNi1PUWtIZldkekJTMjYtOFVQZWY3SmkxczQ?oc=5"
   ]
  ]
 }
