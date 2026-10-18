@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T09:43:01.799Z",
+ "updated": "2026-10-18T10:42:05.300Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -235,17 +235,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82065.55,
-   "ch": 0.84,
-   "asof": "2026-10-18T09:42:59.000Z"
+   "p": 82074.59,
+   "ch": 0.85,
+   "asof": "2026-10-18T10:41:52.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2421.9,
-   "ch": 0.92,
-   "asof": "2026-10-18T09:42:57.000Z"
+   "p": 2419.5,
+   "ch": 0.82,
+   "asof": "2026-10-18T10:41:55.000Z"
   },
   {
    "s": "S&P 500",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 103.99,
-   "ch": 0.66,
-   "asof": "2026-10-18T09:42:58.000Z"
+   "p": 104.05,
+   "ch": 0.71,
+   "asof": "2026-10-18T10:41:59.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2992,
-   "ch": 0.51,
-   "asof": "2026-10-18T09:42:55.000Z"
+   "p": 1.2985,
+   "ch": 0.46,
+   "asof": "2026-10-18T10:41:56.000Z"
   },
   {
    "s": "Apple",
@@ -364,16 +364,23 @@
   [
    "Forex",
    "med",
+   "Sterling and Wilson Renewable Energy Ltd (BOM:542760) (Q2 2027) Earnings Call Highlights: ...",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxORFN0ZHU5TmdDVldWcTNydDc4b0FHU0ptWmNBYWNHU3c5dkZKazE3aDEtN25PMzZ6OU01alEtMVlzVnZGYXFXZkdfalU2eXhjclhYZEdMZEdXN2FBWklRb1J3UERlQk9UNmtHc2pqLXRhVVJlNXJmaUxUN2pjVXBQZmlWWklNXzREM09LV19qWWwyT09uWF9CZQ?oc=5"
+  ],
+  [
+   "Forex",
+   "med",
    "Thai Central Bank Can Afford to Hold Fire on Rates, Deputy Governor Says",
    "WSJ",
    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbUR0Tzkzb3lCWHZLUjNhYjkzYVBYMVNOWjFZSDc5ZGNzZ05hOXBWVmRleHROYk9NUzRNVTZlNXdKa0JUQ2gwR0NVeDUyZkgyR2d6MFhLUXk4QmxKaXdqdHFhR1MyWXBZWUtTLTYyNUtJcFNMblJoYzQ0ZkI5d29rM1hSS0paN2oxeVZfRnNHZi14azJsQ3R1NHBlbEdnRG5XWnNGQnVqcWdYZ2trN0ExTEFIN1RMeWV1Y2llLTMtLUQzdw?oc=5"
   ],
   [
-   "Forex",
+   "Crypto",
    "med",
-   "Sterling and Wilson Renewable Energy Ltd (BOM:542760) (Q2 2027) Earnings Call Highlights: ...",
+   "As Bitcoin Matures, Altcoins Face a Reckoning. Here's Which Ones Have a Real Use.",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxORFN0ZHU5TmdDVldWcTNydDc4b0FHU0ptWmNBYWNHU3c5dkZKazE3aDEtN25PMzZ6OU01alEtMVlzVnZGYXFXZkdfalU2eXhjclhYZEdMZEdXN2FBWklRb1J3UERlQk9UNmtHc2pqLXRhVVJlNXJmaUxUN2pjVXBQZmlWWklNXzREM09LV19qWWwyT09uWF9CZQ?oc=5"
+   "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVTFmMEJIQUNlTkVHSV9jTHNWRThYWkRLekRnaDQ4UUV0cmdETkpKT25POW9ad3k4T0JId0xUeXd2WXg2U3NOdlpOSFdMYkw5VFBtcllSSHZ3eU1NTUJvcHYxU2w1Y3RPdGg4OGdrRXNBc21EYTVWY29HNm9lOWtyWFV4QlZNUGMtTzJtOXN5OHdORDNRaWpBOGRfeFRfRW0ybXJoc3VoMA?oc=5"
   ],
   [
    "Crypto",
@@ -381,13 +388,6 @@
    "Bitcoin struggles above $80K as whale transfers signal mixed outlook",
    "Investing.com",
    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZEVpQVBiUHNsalFlQjQwNmY5ZTFVS1Z3d0RfVTdQN09kX3MyVHk0dm5lZkdHaGZWdmgtalF0MWs4YlZWRktMZU04bWNkQ0ZoYU5BRHdob2NyS1l3eWJqQnNURGRORDF3dEJvdUlBU0NiZ3hIUXREWWFqRm12M0xJRU9Demw1a3hTV3ZXVkhOekNfZlhZSVdmQzZXTjNEWV9fUFp0X3pNSmM0aWY3bDRudFJzai1tVlpLS29PRFAteE01QV9y?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "Anthropic's Junk Rating Sparks a Bigger Bitcoin Debate",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQWxhakVuTlhoTnJDLS1fdnM5V2ZIWlVZcjAxaG0xcFVMd0tKZGJSOXQ1c1VvUDZ2ek5ndFpfdks1bjBFMElXcThoUEFMOFBfajFscHZhRXdFVlg4Q0c5S3ZzYXJUeDMxUVFUN2pudzNIVko4cGRjWjFHSTNheDBwWXJWTjUtbkttazcwblpkMWg2Y3RRX05ZTWpZR1o4N3Y3cjdF?oc=5"
   ],
   [
    "Stocks",
@@ -399,9 +399,9 @@
   [
    "Stocks",
    "med",
-   "The S&P 500's \"Average\" Year Almost Never Happens. Here's How Often It Actually Lands Near 10%.",
-   "The Motley Fool",
-   "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU0p3azYzVzBzVFVGSUI0cnRXT0lmdUtjVnllaC15aVJSWk9qNEJPV1d2NjlkSHpRWktrb0lsaWNsNVhMbUNtVE4yeTVvb09WMzFHWnFUTnRkVXhmZmVrbFBqbW5iLTQwWV85ME9XS3NxbzJOWFRBZURtZU5pNVMtek9DQ24tQ0RfbnRNTEppbnJUN3hDZXhyNWx0NDFUX0syOTZXMC1aVUxBamNlWEF0RGNvbUp6c3g2STFJT0RNa0dyalNSQmVQODNtdVBmd291MV80?oc=5"
+   "The AI Stock Market Wobble Is a Reminder: This Time Isn’t Different",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSGpZb1lmS0hlZGYwTmtOTUg2elhLcGFNTWItNDVFWTBMcGRlMlhlM3E3ajdSVktKdlA3ZW1jZEk1cTJLMXZKSWRQSWVtNkJMSzdEbWFBNHk2LWUzU3AwZVRVTnl6ajFZUHhZbE9Mdk92UUlGaktGUXJuOEZoOUw2cTZZaWpYbHp1MFdEeXYzckNZallkVWY5V0RVeE1fZV9qLXNtSDhlRmp3bndMeFE?oc=5"
   ],
   [
    "Commodities",
