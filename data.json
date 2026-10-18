@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T23:34:55.822Z",
+ "updated": "2026-10-18T00:56:12.986Z",
  "events": [
   {
    "iso": "2026-10-13T22:10:00-04:00",
@@ -240,9 +240,9 @@
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.333,
-   "ch": 0.42,
-   "asof": "2026-10-17T12:20:52.000Z"
+   "p": 1.3329,
+   "ch": 0.41,
+   "asof": "2026-10-18T00:15:48.000Z"
   },
   {
    "s": "USD/JPY",
@@ -280,17 +280,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81175.35,
-   "ch": -0.4,
-   "asof": "2026-10-17T23:34:51.000Z"
+   "p": 81441.19,
+   "ch": 0.07,
+   "asof": "2026-10-18T00:56:12.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2391.16,
-   "ch": -1.19,
-   "asof": "2026-10-17T23:34:47.000Z"
+   "p": 2403.36,
+   "ch": 0.15,
+   "asof": "2026-10-18T00:56:07.000Z"
   },
   {
    "s": "S&P 500",
@@ -360,17 +360,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 102.75,
-   "ch": -1.48,
-   "asof": "2026-10-17T23:34:51.000Z"
+   "p": 103.37,
+   "ch": 0.06,
+   "asof": "2026-10-18T00:56:08.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2863,
-   "ch": -1.81,
-   "asof": "2026-10-17T23:34:52.000Z"
+   "p": 1.2969,
+   "ch": 0.34,
+   "asof": "2026-10-18T00:56:07.000Z"
   },
   {
    "s": "Apple",
@@ -444,9 +444,9 @@
   [
    "Stocks",
    "med",
-   "3 Reasons the Vanguard S&P 500 ETF Could Be Worth Holding for the Next 20 Years",
+   "Iambic Therapeutics (IAM) Joins The Nasdaq Composite, Is The Stock Already Pricey?",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOTgwWVpacm5LSWJGU21JYU01Q3lNZVZfVDYtdmt3aWNLYUlpMjNKdEFral94WHctakJTWXVYMjdBeG9HX0FVczJ3VGdyd21yamkydjF4MzFSa2h5QVJwYkQ3Z1E5QjVlR3had1RiRm44bmlvRVhMeGdsbUxQNjNETzl4TnRGX1owc1phQ1dqY0hNTzA?oc=5"
+   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMEVZeGNSeHVHN3RXSVlkVWZ6c2VDMmpNbV9iYmRWMF9qOWFiLVdsRDJfYVJLZWdoaWJLM1hWSC1GV192Q1RsOWNMLXprM3JBa1lNMVJnaHIzMGFNNTNuYXBzWTB1aGtUbTVHSzhMc1RlTm9zMEp4djloUVZxSzE1ZUtzbldRY1ZHc3hBRUtCX0k5OGdjeWZlME1lU0VRa1NoUDVj?oc=5"
   ],
   [
    "Commodities",
