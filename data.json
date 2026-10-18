@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T04:44:32.225Z",
+ "updated": "2026-10-18T05:42:42.372Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -213,7 +213,7 @@
    "d": 4,
    "p": 0.6949,
    "ch": 0.36,
-   "asof": "2026-10-18T04:42:48.000Z"
+   "asof": "2026-10-18T04:50:48.000Z"
   },
   {
    "s": "USD/CAD",
@@ -235,17 +235,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81693.56,
-   "ch": 0.38,
-   "asof": "2026-10-18T04:44:26.000Z"
+   "p": 81619.64,
+   "ch": 0.29,
+   "asof": "2026-10-18T05:42:37.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2414.41,
-   "ch": 0.61,
-   "asof": "2026-10-18T04:44:24.000Z"
+   "p": 2406.5,
+   "ch": 0.28,
+   "asof": "2026-10-18T05:42:34.000Z"
   },
   {
    "s": "S&P 500",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 103.77,
-   "ch": 0.44,
-   "asof": "2026-10-18T04:44:28.000Z"
+   "p": 103.33,
+   "ch": 0.02,
+   "asof": "2026-10-18T05:42:36.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2945,
-   "ch": 0.15,
-   "asof": "2026-10-18T04:44:23.000Z"
+   "p": 1.2914,
+   "ch": -0.09,
+   "asof": "2026-10-18T05:42:11.000Z"
   },
   {
    "s": "Apple",
@@ -392,23 +392,23 @@
   [
    "Stocks",
    "med",
+   "The S&P 500's \"Average\" Year Almost Never Happens. Here's How Often It Actually Lands Near 10%.",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVldmbnZGSVpkanFYMnZCTWZlaVRqSmMwWjItdmVyMnlseHNTTTJkNEtNcjg1dXhlY29VTjNQRU5BN01qcWZrWW13VWZTMFJMa2I1VWpodk9YbzVxaTdOWUkwa1FmOE5pd29maDhoM0pfM0JxYkthUGhQbHotZGtVR1ZfU20xc2FoOUpKYy1IQl9lcXUwUm9R?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
    "Narrow Stock-Market Rallies Aren’t Unusual. When to Start Worrying.",
    "WSJ",
    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX0h0Ry1NTHZnWDlpTC1NazVDb2ViNDlYbnpvMWpISGQwUUF2VmllVl9WTTBFbUplYUhZNk41Qkl5SGhsWGhhTk15RnMxazlmQVpuR3ZaeXRyWDFock5WVFBQSVZGcTE4azVUVUppcUo1Mll0T01VeENBR0J4X3dSNTY2cmhxTXcxdWZKWDlLd09iMmZWeEpyMXNibHg3NmVlckFRaHE5MF9uaEt4?oc=5"
   ],
   [
-   "Stocks",
-   "med",
-   "Prediction: Oracle Stock Trails the S&P 500 Through 2030",
-   "The Motley Fool",
-   "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUjVIMHN2WEpIdGlONkphTDVTN2xoallTeE1Xa2VNYjFFS1l6dVh0a3Q5WUROb1hZQ1d6NjVRaUMxTGk2UVotYk9BSDBTa19LNERqTlRwMm9ERDVjWkhnWGsySzg3RENvdGM2ZlR2c0Jwb1RObWRRNkVDeWVEaksxaVhya05rQnU4a3JGWWx0TWR2NDhuYk5veE1iMDNkdFNGRklHUA?oc=5"
-  ],
-  [
    "Commodities",
    "med",
-   "Middle East Chemicals Keep Their Cost Edge Despite Hormuz Crisis",
+   "Oil Prices Stay High as War Keeps Supply Tight Into 2027",
    "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaFJNUkdUUFVUT1RyTlQ5VkFhdDNFb2hlWURLcWtoMkVYME1UM01IT1d0WWpKX3ltTGdPRXZaUU1WZkUxMUlVbjRQc2FIUUg3VGE2Q0IwcWVCVUdaRk56S0poMmVNWDlUS0Jzdnlaem5QOEt3SkVYbklLaGRVeGwza0MzWE9rbjBUWHA3aURhZXRLVTQxNGM1c1pReVluYmltWGRzWEhURVFmWlYwTWfSAbMBQVVfeXFMT3haTXNHdl9CS0IteG9uMUZCeU14Y08xVkNWWDdROUZkaXdpTGZ5b1dZd01ZSFdCUGhFbXRFVnp3bExHZGxUMG4xXzd0VUNhbWFoNDUxNEVpeE5lR2NXcGN0VFAwMU1CendGMXM2bHlfOWQzMnNoeTE4SXFaeHBGRkRJUXo3eXo4RElZeU5PbGNzTGdjdWVFRnZWb2VxUncxTEJyZnctcFpHYUg3dTBVVUl6SW8?oc=5"
+   "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWk4WFNnZ1pCa1hzQ3FlZWNhMmJlVC1QejlndUplUDllMWtOVXNpbklEZ1ZsRFBldlgtNURlQWJlSVMzQjBESkFtMzdVWjUxVHNJWk1ITDV2Z280VWFZY3J6Y0xTZHNTdDJMZElwa2FZUzU5QjlIMzJXNmQ0TUo3T0N6UmFReXk2VDV1czdlT2FVT1VDZXVVbl9fOFhfV2xvbEHSAacBQVVfeXFMTnhFV1FibGFVc2t2YnRBdkt6NmhNWDNSSmNQMjJSeE5IZUx0MFFwWV9Kb0dHaHliYVJmZkMtVGZ0RlhpLWNiSk1XaXBILURySi1Ca3ktZGNWbllfQUxmdEJJZVpTUmRpSnY2cWszdU1uVUdRLWYxN25xamQ3ZGZFb29lNmlFdVNqLUt0R0UxNi1PUWtIZldkekJTMjYtOFVQZWY3SmkxczQ?oc=5"
   ],
   [
    "Commodities",
