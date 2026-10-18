@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T14:41:50.633Z",
+ "updated": "2026-10-18T15:40:54.764Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -235,17 +235,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80983.49,
-   "ch": -0.49,
-   "asof": "2026-10-18T14:41:50.000Z"
+   "p": 80905.69,
+   "ch": -0.59,
+   "asof": "2026-10-18T15:40:52.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2371.36,
-   "ch": -1.18,
-   "asof": "2026-10-18T14:41:47.000Z"
+   "p": 2369.39,
+   "ch": -1.27,
+   "asof": "2026-10-18T15:40:50.000Z"
   },
   {
    "s": "S&P 500",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 101.95,
-   "ch": -1.32,
-   "asof": "2026-10-18T14:41:46.000Z"
+   "p": 101.69,
+   "ch": -1.57,
+   "asof": "2026-10-18T15:40:51.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2723,
-   "ch": -1.57,
-   "asof": "2026-10-18T14:41:44.000Z"
+   "p": 1.2684,
+   "ch": -1.87,
+   "asof": "2026-10-18T15:40:52.000Z"
   },
   {
    "s": "Apple",
@@ -371,9 +371,9 @@
   [
    "Forex",
    "med",
-   "Thai Central Bank Can Afford to Hold Fire on Rates, Deputy Governor Says",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbUR0Tzkzb3lCWHZLUjNhYjkzYVBYMVNOWjFZSDc5ZGNzZ05hOXBWVmRleHROYk9NUzRNVTZlNXdKa0JUQ2gwR0NVeDUyZkgyR2d6MFhLUXk4QmxKaXdqdHFhR1MyWXBZWUtTLTYyNUtJcFNMblJoYzQ0ZkI5d29rM1hSS0paN2oxeVZfRnNHZi14azJsQ3R1NHBlbEdnRG5XWnNGQnVqcWdYZ2trN0ExTEFIN1RMeWV1Y2llLTMtLUQzdw?oc=5"
+   "BWG: Strengthening U.S. Dollar And Rising Bond Yields Likely To Be Headwind",
+   "Seeking Alpha",
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNDNzZmRfVk1xdzczWmpla09CN2lJTmoxYmRxbnd6b2FfdjVWcmZXajhneC04aFlnd2xqaGgwNHZ0cFFBRVZwZmswd3NZcDNsRTdqaGQ0RnNNLXhIdWN5M2F5RFdmYThtXzVPSTJUQUdzWnZRZEtQR19Rekg5dXFZcy14c0RfSldhTDMtbG8xdU1zNVFwcFphXzRjaHFiZVVpTkZZcmhZcWVELTZINEE?oc=5"
   ],
   [
    "Crypto",
@@ -385,30 +385,23 @@
   [
    "Crypto",
    "med",
-   "Bitcoin’s path to $100,000 splits analysts as rate risks loom",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNHVkdW16ZXYyc29pVlJldlV0U1dnUks3anJGbU91WURXcEdBNVlBbWFrMEk1b21aRjVURWt0aXpNdTVyYlhHYzNmYnlkMkdBZVY4UkpNME1vV1NSNV9ldW1zOWQtTUZFTVk5MzRqOEQxT2p1S2hJa1g4OFVzX1RrTVFfRnRvRm5wNkJUYkJjVlFLb3VKaGhqMG0yRW5VLXJpdjNVejEyZGZ0eUR5aUppZ3V5Wkx4QnJIOTFza1NQM3Q?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "The AI Stock Market Wobble Is a Reminder: This Time Isn’t Different",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSGpZb1lmS0hlZGYwTmtOTUg2elhLcGFNTWItNDVFWTBMcGRlMlhlM3E3ajdSVktKdlA3ZW1jZEk1cTJLMXZKSWRQSWVtNkJMSzdEbWFBNHk2LWUzU3AwZVRVTnl6ajFZUHhZbE9Mdk92UUlGaktGUXJuOEZoOUw2cTZZaWpYbHp1MFdEeXYzckNZallkVWY5V0RVeE1fZV9qLXNtSDhlRmp3bndMeFE?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Michael Burry Warns Stock Market Could Be Months Away From A 2000-Style Reckoning — ‘The Preconditions Seem Set For Fireworks’",
+   "Ethereum and Solana ETFs Keep Losing Money. Which Coin Is Holding Up Better?",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxPaFZJeXlDdUw0YWZkS1FydWpoWWx2VWo2cWN2Wmw0VXM5YjE4Ym82a1RpdTNkOG1INUU0VkNoX01RNHFZR2lIakUzS0UxRDFhZkUydzN0Rnhlb1pNUUVxNm1mQm5IY3R1ZDJ6YWFmUmpHdWQ1cVdJNmE1a000YkFhYXdpNkp5UFhIUUZXdG9OeUx0cDNlajJDakZvZVhNQQ?oc=5"
+   "https://news.google.com/rss/articles/CBMingFBVV95cUxPOEZCM3k2SXBUN2VrZnVGN0xJanZLaThiT2VEQW9kYmhpLVZJU005dWdZR1ZCcmxGdy15ZjRmd2RsSUtMQ293c0xuRWtGcGotSWg0emtrMExoNXBobm45RGFNQzYzNGtqRFVLS1o1SWMxeWVwWFJEMHF1aVI4UmoyWG1uOWtDR1BuX296a19lMXJHSlBDRDlfR2gxZjNHdw?oc=5"
   ],
   [
-   "Commodities",
+   "Stocks",
    "med",
-   "Oil Prices Stay High as War Keeps Supply Tight Into 2027",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWk4WFNnZ1pCa1hzQ3FlZWNhMmJlVC1QejlndUplUDllMWtOVXNpbklEZ1ZsRFBldlgtNURlQWJlSVMzQjBESkFtMzdVWjUxVHNJWk1ITDV2Z280VWFZY3J6Y0xTZHNTdDJMZElwa2FZUzU5QjlIMzJXNmQ0TUo3T0N6UmFReXk2VDV1czdlT2FVT1VDZXVVbl9fOFhfV2xvbEHSAacBQVVfeXFMTnhFV1FibGFVc2t2YnRBdkt6NmhNWDNSSmNQMjJSeE5IZUx0MFFwWV9Kb0dHaHliYVJmZkMtVGZ0RlhpLWNiSk1XaXBILURySi1Ca3ktZGNWbllfQUxmdEJJZVpTUmRpSnY2cWszdU1uVUdRLWYxN25xamQ3ZGZFb29lNmlFdVNqLUt0R0UxNi1PUWtIZldkekJTMjYtOFVQZWY3SmkxczQ?oc=5"
+   "Moderna Just Joined the Nasdaq-100. Here's What That Means for Investors.",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNTdWZjZYenVyVDRsVGFlZ0FYT3hzS253QnotbTV4QzZDQm1KSWFuRlgzMzRfTm5jSzNvQzA3RmI0cFpGZUVoa0xrMlBIQzFsZWZnUHpwZUFqelVPX001RmR2bEgxVEUxbmUyS1h1cW5MOFRxVjJXTXBoMVVpLWRURzF0bkU1YW55OVoyZnFaejk0clExeGt0b1N2MA?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
+   "Five Ways Americans’ Finances Have Changed Under Trump",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN1lsZXczM3VRZnczVzdSRXNoRkpDSlF5b01idHQ3WjhJbzdNQ0pPTnd6U2NDMl9TSzNUZW9QSnk2Sk52dHZmSEhZQ3hHaWJrc1Bhc09acWY5bDE2dDI1Wk9Jb2FiY2Q0ZUhmc3R0WkF3MFg0OGpyVFpzQUVLeGNhaEp1OW9PYWR2T0RwQzNTdGVRVXBPaGRBM1dIVks1UGl5Q191dQ?oc=5"
   ],
   [
    "Commodities",
@@ -416,6 +409,13 @@
    "Crude oil climbs again as Russia-Ukraine \"ceasefire\" faces doubts, US-Iran stalemate extends",
    "investingLive",
    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQblVSamYzQlYtWExiRlJyaHZfTEVHVXJwWEprbmd5RDN6MDA2UUIwVmJfYkt6LTRmeGxjMGJXNy1OZ3MxNURNYnJYTUxWc1A5WHMyX2F6cWgtbTQydExvZkxFQnVUMmtMMGx3bTMtMVBlbW9BVXBNdk9wYkZOeTdscE42aHRVcmItRVdHQWgzSExTMzdCUmc2M2p5Y0x6d2RiRmVBZmRrMDFuVnZyTXF3bVh3UjZfdGV5ZlQ2NFRwRFlLVmFzZHY0?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Oil Prices Stay High as War Keeps Supply Tight Into 2027",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWk4WFNnZ1pCa1hzQ3FlZWNhMmJlVC1QejlndUplUDllMWtOVXNpbklEZ1ZsRFBldlgtNURlQWJlSVMzQjBESkFtMzdVWjUxVHNJWk1ITDV2Z280VWFZY3J6Y0xTZHNTdDJMZElwa2FZUzU5QjlIMzJXNmQ0TUo3T0N6UmFReXk2VDV1czdlT2FVT1VDZXVVbl9fOFhfV2xvbEHSAacBQVVfeXFMTnhFV1FibGFVc2t2YnRBdkt6NmhNWDNSSmNQMjJSeE5IZUx0MFFwWV9Kb0dHaHliYVJmZkMtVGZ0RlhpLWNiSk1XaXBILURySi1Ca3ktZGNWbllfQUxmdEJJZVpTUmRpSnY2cWszdU1uVUdRLWYxN25xamQ3ZGZFb29lNmlFdVNqLUt0R0UxNi1PUWtIZldkekJTMjYtOFVQZWY3SmkxczQ?oc=5"
   ]
  ]
 }
