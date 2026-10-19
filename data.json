@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T16:49:19.247Z",
+ "updated": "2026-10-19T17:43:54.919Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,105 +187,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1211,
-   "ch": -0.29,
-   "asof": "2026-10-19T16:48:49.000Z"
+   "p": 1.122,
+   "ch": -0.21,
+   "asof": "2026-10-19T17:43:50.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3301,
-   "ch": -0.22,
-   "asof": "2026-10-19T16:48:49.000Z"
+   "p": 1.3309,
+   "ch": -0.16,
+   "asof": "2026-10-19T17:43:50.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.536,
-   "ch": 0.35,
-   "asof": "2026-10-19T16:49:17.000Z"
+   "p": 158.456,
+   "ch": 0.3,
+   "asof": "2026-10-19T17:43:53.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6978,
-   "ch": 0.42,
-   "asof": "2026-10-19T16:48:49.000Z"
+   "p": 0.698,
+   "ch": 0.45,
+   "asof": "2026-10-19T17:42:50.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4097,
-   "ch": -0.28,
-   "asof": "2026-10-19T16:49:17.000Z"
+   "p": 1.4094,
+   "ch": -0.3,
+   "asof": "2026-10-19T17:43:54.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8264,
-   "ch": 0.34,
-   "asof": "2026-10-19T16:49:16.000Z"
+   "p": 0.8257,
+   "ch": 0.25,
+   "asof": "2026-10-19T17:43:52.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81908.4,
-   "ch": -0.13,
-   "asof": "2026-10-19T16:49:13.000Z"
+   "p": 81894.62,
+   "ch": -0.14,
+   "asof": "2026-10-19T17:43:51.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2398.56,
-   "ch": -0.4,
-   "asof": "2026-10-19T16:49:14.000Z"
+   "p": 2398.44,
+   "ch": -0.41,
+   "asof": "2026-10-19T17:43:49.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7704.1,
-   "ch": 0.58,
-   "asof": "2026-10-19T16:49:18.000Z"
+   "p": 7700.36,
+   "ch": 0.53,
+   "asof": "2026-10-19T17:43:53.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 26497.787,
-   "ch": 1.37,
-   "asof": "2026-10-19T16:49:16.000Z"
+   "p": 26463.74,
+   "ch": 1.24,
+   "asof": "2026-10-19T17:43:51.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52004.81,
-   "ch": 0,
-   "asof": "2026-10-19T16:49:17.000Z"
+   "p": 52010.36,
+   "ch": 0.02,
+   "asof": "2026-10-19T17:43:53.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4161.2,
-   "ch": -0.48,
-   "asof": "2026-10-19T16:39:13.000Z"
+   "p": 4162,
+   "ch": -0.46,
+   "asof": "2026-10-19T17:33:51.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 98.66,
-   "ch": -0.36,
-   "asof": "2026-10-19T16:39:17.000Z"
+   "p": 99.18,
+   "ch": 0.16,
+   "asof": "2026-10-19T17:33:53.000Z"
   },
   {
    "s": "USD/KES",
@@ -293,15 +293,15 @@
    "d": 2,
    "p": 129.82,
    "ch": 0.13,
-   "asof": "2026-10-19T15:41:48.000Z"
+   "asof": "2026-10-19T17:21:04.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4358,
-   "ch": -0.24,
-   "asof": "2026-10-19T16:49:18.000Z"
+   "p": 16.4198,
+   "ch": -0.34,
+   "asof": "2026-10-19T17:43:55.000Z"
   },
   {
    "s": "USD/NGN",
@@ -309,55 +309,55 @@
    "d": 2,
    "p": 1325.04,
    "ch": -0.38,
-   "asof": "2026-10-19T15:41:48.000Z"
+   "asof": "2026-10-19T17:21:04.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.22,
-   "ch": 0.19,
-   "asof": "2026-10-19T16:49:14.000Z"
+   "p": 104.08,
+   "ch": 0.06,
+   "asof": "2026-10-19T17:43:50.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.301,
-   "ch": -0.31,
-   "asof": "2026-10-19T16:49:16.000Z"
+   "p": 1.3019,
+   "ch": -0.24,
+   "asof": "2026-10-19T17:43:53.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 342.15,
-   "ch": -0.38,
-   "asof": "2026-10-19T16:49:12.000Z"
+   "p": 342.765,
+   "ch": -0.2,
+   "asof": "2026-10-19T17:43:51.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 368.58,
-   "ch": 3.91,
-   "asof": "2026-10-19T16:49:18.000Z"
+   "p": 368.795,
+   "ch": 3.97,
+   "asof": "2026-10-19T17:43:45.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 218.03,
-   "ch": 1.82,
-   "asof": "2026-10-19T16:49:19.000Z"
+   "p": 217.48,
+   "ch": 1.56,
+   "asof": "2026-10-19T17:43:51.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.385,
-   "ch": 0.14,
-   "asof": "2026-10-19T16:39:12.000Z"
+   "p": 57.345,
+   "ch": 0.07,
+   "asof": "2026-10-19T17:33:39.000Z"
   }
  ],
  "news": [
@@ -371,9 +371,9 @@
   [
    "Forex",
    "med",
-   "Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JVnBSTjI4Y21rVlR6Y1laVmg1VVJKQkNKTFh0ZXlrQWRrUUtBbWhUMmJlVUZXYVFmY1NEM3BaaU12ZHBVdWduajRlMVpFZTBiTDNDVnZxZTdJQ041V1J3clNKc1ZNRVJweC11MWpNWnhidHfSAXhBVV95cUxOUWgzZ3hhZUJVYXZRMWFFOWc0UjJrOGszMklNdzVidTBrb3ZkWG5PQW5nQUQxcVU1RS1sTkZDZmlHbnVwRUprN1UxZlhIendadzduQ0V6bXdBemdaYTdBd25rTURiNnl1RTlZdVM2ZFBybmFmZXVvWVA?oc=5"
+   "BC-US Dollar",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN2hPNkdjSXRla2pLUlhlWjhjM3dtZ083R1JhZEQ5UWpPeEIxTk9PZFl6YTRWTUU0WlBwU0liYVNqekVfQnlzeFZ5d0o5Rlo4ZmZwRU9EQVM0RWVoOVlJWVczZU9GZXNLQ2hpVGRJYWNEQnNSZzBBc1FMb1RsMXNXWGhNMy1CNnlx?oc=5"
   ],
   [
    "Crypto",
@@ -385,7 +385,7 @@
   [
    "Crypto",
    "med",
-   "Current price of Ethereum for Oct. 19, 2026",
+   "Current price of Ethereum for October 19, 2026",
    "Fortune",
    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNWWd3blY0NUhldlZKclJveGd4Ym1iRHBWWjVVSkdlcTdKbVptaC1xUUswbnQwR1B3aXNjTXBzNWV4eC1QamJYazhHaDNEZ3JaYlFscXhIWDA0NG9jeWlCa2lEQWlFT0It?oc=5"
   ],
@@ -406,9 +406,9 @@
   [
    "Commodities",
    "med",
-   "South African business confidence eases slightly in September on oil price uncertainty",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0hTOHVWUXFZR21CUTEybHNNbXhaY2pScWQ4am1kWTZKUzQ5cEZtakQwTU5vVXpiT0huRjBTbk5Ud2kwdDFjb2ctcXZ5MzZpdGhSNlBDUmNfaG9rajBTUG8xY19VQThmOWlMNERtSjJweTEwTkd0cWJpTWF0a041MHA5VHRMZU13VjZFbzJVcTlyR0dVU2FHWlZnS1hfb191UTF6b1ZrSjVCTkR5X1ZHa3Nobi1KT1U1ZF9qdXpITzAwTmJ4N1lodg?oc=5"
+   "Iraq's October Oil Exports Top 3.4 Million Bpd, Nearing Pre-War Levels",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRlIzdmxNd1JsN0ladXRfVXBwRVdpYklMcnNuc1B0RkhFLXBjcUxxXzJnSjhpQ2hReGZJN1dGM1U3bGl2SFBRZ2c4OTV4Qld6RjZYaVB1Xy1KNk9mRmh5ZVlKYkVWTTVYWlJxaktESGZyRmV3eS1xSXlnbk92VUQtdzJZd25QejhBdV81dWNBTUI4U3p3eEwzaEtYLVpsTVVZR3Ixa1gyR0F6dW5IX2NDRTBUQ2tuSEdpaUlDR2dzZi3SAcYBQVVfeXFMTjBqVGtyQnlBVHZJOXlNVFh6a1J0WTVnZllVT1l5S1p3YWF4Mk1iX3p3U3BVNmJTVUZqS2hYZTdrTEVtUFppaV9XTlpXbnlXUDRGT0l0d0VKZVZaRDFXV2ZURGhWNzJtNzlwZHdrM2FvRHhBY2JfdExab2lEV3JrSV9nMGcwUmthSGp4dVlEMktsOFAwTGVpcUtyVnZKT0lWaFdZSGROejJ4bHRPbnlvUUIwZzVfNmhUdy13ZXkwWmZyTG93cUZB?oc=5"
   ],
   [
    "Commodities",
