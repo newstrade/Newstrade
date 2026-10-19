@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T08:52:45.380Z",
+ "updated": "2026-10-19T09:50:35.202Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.122,
-   "ch": -0.21,
-   "asof": "2026-10-19T08:51:48.000Z"
+   "p": 1.1215,
+   "ch": -0.26,
+   "asof": "2026-10-19T09:49:49.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3329,
-   "ch": -0.01,
-   "asof": "2026-10-19T08:51:48.000Z"
+   "p": 1.3331,
+   "ch": 0.01,
+   "asof": "2026-10-19T09:49:49.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.133,
-   "ch": 0.09,
-   "asof": "2026-10-19T08:52:45.000Z"
+   "p": 158.206,
+   "ch": 0.14,
+   "asof": "2026-10-19T09:50:35.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.698,
-   "ch": 0.45,
-   "asof": "2026-10-19T08:50:48.000Z"
+   "p": 0.6981,
+   "ch": 0.46,
+   "asof": "2026-10-19T09:48:49.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.409,
-   "ch": -0.33,
-   "asof": "2026-10-19T08:52:45.000Z"
+   "p": 1.4096,
+   "ch": -0.29,
+   "asof": "2026-10-19T09:50:34.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8245,
-   "ch": 0.11,
-   "asof": "2026-10-19T08:52:43.000Z"
+   "p": 0.8251,
+   "ch": 0.18,
+   "asof": "2026-10-19T09:50:34.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82745.98,
-   "ch": 0.89,
-   "asof": "2026-10-19T08:52:39.000Z"
+   "p": 82917.9,
+   "ch": 1.1,
+   "asof": "2026-10-19T09:50:32.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2432.39,
-   "ch": 1,
-   "asof": "2026-10-19T08:52:40.000Z"
+   "p": 2441.78,
+   "ch": 1.39,
+   "asof": "2026-10-19T09:50:32.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4195.5,
-   "ch": 0.34,
-   "asof": "2026-10-19T08:42:42.000Z"
+   "p": 4188.3,
+   "ch": 0.17,
+   "asof": "2026-10-19T09:40:32.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 97.11,
-   "ch": -1.93,
-   "asof": "2026-10-19T08:42:43.000Z"
+   "p": 98.33,
+   "ch": -0.7,
+   "asof": "2026-10-19T09:40:33.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4599,
-   "ch": -0.09,
-   "asof": "2026-10-19T08:52:46.000Z"
+   "p": 16.4558,
+   "ch": -0.12,
+   "asof": "2026-10-19T09:50:36.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 105.59,
-   "ch": 1.51,
-   "asof": "2026-10-19T08:52:41.000Z"
+   "p": 105.61,
+   "ch": 1.53,
+   "asof": "2026-10-19T09:50:31.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3126,
-   "ch": 0.58,
-   "asof": "2026-10-19T08:52:36.000Z"
+   "p": 1.315,
+   "ch": 0.77,
+   "asof": "2026-10-19T09:50:29.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.685,
-   "ch": 0.66,
-   "asof": "2026-10-19T08:42:24.000Z"
+   "p": 57.65,
+   "ch": 0.6,
+   "asof": "2026-10-19T09:40:06.000Z"
   }
  ],
  "news": [
@@ -371,9 +371,16 @@
   [
    "Forex",
    "med",
-   "Japan PM Takaichi Denies She’s Driving Weak Yen, High Rates: JPY/USD",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaV92VVR5SUNFUy1TdGlCR1lpN2pUcDVyX0VMWDBjdVk5bFBKTXZQLVhVZlhUU2lWWlZKWmRDSUJsWHVORE5kMWUxM2ZKOUd4TXBwYVhxLUFBaFBtMmFkMThTRlhwOGJMVXVuMjhhOWhya2Zyanc2cFZHdjF5V2t4Q1EwSzJRTTNGa1VLWnJkUE91dVVkOG9zZ0dfbEkzT1NFUl83eER4SnUxbjVqZ3c?oc=5"
+   "Bank Indonesia narrowly expected to hold interest rates despite market turmoil",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTklTTEZCYlRSNmVCNVNkb0Nybkd0cUNtNGpDQ28wT0lnclBoMlAxUlNPd3BycE5KRzZjTU1aOFcyWDJTbUhtcmVCWWVPdEs1d05GWHZJdnl2WHdSS1YxQ3E3ajNvLVB6a3RUcVpJTVUzdEZGMEgxaGZmLXdwV2R5QkEtWlltOXVoTGZZZDI5Y3pzS1dpcWJGM3UtYzQ2VDVPS1oyNzgyYm1RUmctOXR2eVN1YzJ2UzhjM1prV2xMd2FMeU45cmlpdk5n?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "Bitcoin Rebounds Above $82,000 as Oil's Retreat Lifts Risk Mood",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMEswMWNQNjNSQ3F1Nzh4cS0tbGJIQzgybl9iZmJPelZuTllCRDN6UEVSN0pJSlhhXzhrZXhSTUkxZDZ3d3ROZ01ZejZhYThjeEpYVmpCVi1xS25qX2NDNGNFNGhmaVM2NmQ3eDVvRF8yZHpHVUI3WnctZ1p6VkltYnhBRmVCcGZsbTMyVXIyc3prZzhyVFk0M2h3?oc=5"
   ],
   [
    "Crypto",
@@ -383,25 +390,18 @@
    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX2lQMXlZcGpIM0duNlVIY0oyZS1YNi1JU2hJdHNDeUcxRXEyaFFJTGdhVHVFOS03eTVpQUZHRlI1QUp2TkgzZEFJT2FGS1VMaVpDQWotLXNScUNFdWZfZklJTjJ4NWV6X2RaTTJlT1p3dDY1SnlFQVIwOEFEWHdnSm9DSlI?oc=5"
   ],
   [
-   "Crypto",
-   "med",
-   "JPMorgan Brings Deposit Token to Ethereum for Institutional Clients",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ1h3OEFMMXJwQy1PSU13bDdiOUQ4TWhUdy0tNGRfZDZ4RXNNY1dOWGc5djRhaVdSVG8zWDhfOGlwVGhZNTdRcTZ1Rm00aldmV050cnhnUW9iUVRUVEpEZXhnSDBUZ2trUFRXVjBLSHFKd3Bkbjk0RTdSQkhBZm52SFJsQVFCZTdxT2RySGctTHV5Z0VRSl83R0lvNWFIbFBLcFpMbExQNU1NS01DWVliYU9JLUtYYUJ1UVhydm1GSzllcXlOSmc?oc=5"
-  ],
-  [
    "Stocks",
    "med",
-   "Black Monday Fears Fade as Nasdaq Futures Rally After Friday Selloff",
+   "Stock Market: Will S&P 500 Open Up or Down Today?",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUF9FbkFxa1BxR1lUN0dkWkp6N2t6OTlsYU9qdzd5cENyRXlZcFR3UFdZSE1RN0o3Q2JPa1NyMHlUZy05UEFvRnAzVDA1WUR4M0tMNENibjRlSnFDRWhuYncwZzdtS2tvaE5kSGlBUVE5Q05xMVlWbHFYLUtZaFhycm9IYVVqZUJ5Um9VT1lXZjdrWGxPcnlYekhtMA?oc=5"
+   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdmhWOHBPbmpydVMwNlBNb2JjeHJCMndndGp5Vl9HcVB5bWZxWU1xT1NhczBJelduZ0JUSnZ5S3lTNWZXYjFhUG9qZEhlWENybUN2TGlhMVNTbml6bVFZem9Kb2dCeWhuZ2I2VU42UkNRSlViLWs2d0pwWUU3UXN3dVI2bXBDVHYtRlRQR1g3clNyUQ?oc=5"
   ],
   [
    "Stocks",
-   "med",
-   "Oil Prices Fall as Traders Weigh Russia Sanctions Waiver, Middle East Risks",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTjUxeXdZWDd5c3MxTHBocWZqajJlQ2UwRTF6dW9KMXh6Q1ROdllKRGZiMV9kWUhvRW9CQzNQMU1LYk80U04zc0dLU2ppcFkySWRjenZFSm8wQjA5QmRPVXhPN3dhMTZPdnFiWjh1QjZ6VDR1ZDg5dFFlZ0t0STJzZlBrUzBMQ0N1R1RTQ2FkekRVaTlPN3lPYU94ZjZRdktUTlJEeTVqSEVFamNkc1FWelQ2MnRNb25OemZ5aUx3dl8?oc=5"
+   "high",
+   "If a Stock Market Crash Is Coming, History Says This 1 Strategy Has a Perfect Track Record",
+   "The Motley Fool",
+   "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYmIxbGRyS1BTOGxtN2pscFplb2ZrcDBVSnVsdTkxcjJTOGk4eUhTWURUdHNzQXhTSFUyOGJNeEI3N0cxZFdFbXJiUVE3d3ZQTGtmLWswRHh3azBjaHB6M1c1MHlIM2RaUlljdXpwSjVUelExeC1GQmE5RzdXRDhROFc3eVBaZUUxbmJKbk1FVU9oamh2U2xjZWU4MS11SUc4ZllKUXd1Y0VSaXhrZmY5RVNyUTZqazN1OG1PS2duSjVCTFRjSG0xSmxwNk8?oc=5"
   ],
   [
    "Commodities",
@@ -413,9 +413,9 @@
   [
    "Commodities",
    "med",
-   "Why Is the Gold Price Falling Even as ETF Investors and Central Banks Pile In?",
-   "Morningstar",
-   "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZFdWRG1DTlQwNXoyckgwek03bkI3eE5tekx0N3dvLXR5TmxMQ2dETGpJUUlkYUlXRVRuSDgtek1GR2xlVFdwUE5HNWFHSS0yUzF2WFZtTk9xUkx1RDNxZ0wyMVpzT3QtOUtzWm9lUC0yODI1SkNjbXR6ZkpjTXBQY2k4VGoyLUVwaHI4OG1XVnlXYUdEODljZno2LWxvVnBXTWN1QUN0TkVMS0dl?oc=5"
+   "South African business confidence eases slightly in September on oil price uncertainty",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0hTOHVWUXFZR21CUTEybHNNbXhaY2pScWQ4am1kWTZKUzQ5cEZtakQwTU5vVXpiT0huRjBTbk5Ud2kwdDFjb2ctcXZ5MzZpdGhSNlBDUmNfaG9rajBTUG8xY19VQThmOWlMNERtSjJweTEwTkd0cWJpTWF0a041MHA5VHRMZU13VjZFbzJVcTlyR0dVU2FHWlZnS1hfb191UTF6b1ZrSjVCTkR5X1ZHa3Nobi1KT1U1ZF9qdXpITzAwTmJ4N1lodg?oc=5"
   ]
  ]
 }
