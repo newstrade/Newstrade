@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T00:57:44.782Z",
+ "updated": "2026-10-19T01:45:06.964Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,41 +187,41 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1228,
-   "ch": -0.14,
-   "asof": "2026-10-19T00:56:48.000Z"
+   "p": 1.123,
+   "ch": -0.12,
+   "asof": "2026-10-19T01:44:49.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3328,
-   "ch": -0.02,
-   "asof": "2026-10-19T00:56:48.000Z"
+   "p": 1.3329,
+   "ch": -0.01,
+   "asof": "2026-10-19T01:44:49.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.878,
-   "ch": -0.07,
-   "asof": "2026-10-19T00:57:43.000Z"
+   "p": 158.014,
+   "ch": 0.02,
+   "asof": "2026-10-19T01:45:06.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6966,
-   "ch": 0.24,
-   "asof": "2026-10-19T00:56:48.000Z"
+   "p": 0.6969,
+   "ch": 0.29,
+   "asof": "2026-10-19T01:44:49.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4122,
-   "ch": -0.11,
-   "asof": "2026-10-19T00:57:43.000Z"
+   "p": 1.4118,
+   "ch": -0.13,
+   "asof": "2026-10-19T01:45:04.000Z"
   },
   {
    "s": "USD/CHF",
@@ -229,23 +229,23 @@
    "d": 4,
    "p": 0.8242,
    "ch": 0.07,
-   "asof": "2026-10-19T00:57:44.000Z"
+   "asof": "2026-10-19T01:45:02.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82181.31,
-   "ch": 0.21,
-   "asof": "2026-10-19T00:57:42.000Z"
+   "p": 82420.35,
+   "ch": 0.5,
+   "asof": "2026-10-19T01:45:02.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2410.05,
-   "ch": 0.07,
-   "asof": "2026-10-19T00:57:34.000Z"
+   "p": 2424.56,
+   "ch": 0.68,
+   "asof": "2026-10-19T01:45:02.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4194,
+   "p": 4194.2,
    "ch": 0.31,
-   "asof": "2026-10-19T00:47:36.000Z"
+   "asof": "2026-10-19T01:35:04.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 97.56,
-   "ch": -1.47,
-   "asof": "2026-10-19T00:47:37.000Z"
+   "p": 97.73,
+   "ch": -1.3,
+   "asof": "2026-10-19T01:35:03.000Z"
   },
   {
    "s": "USD/KES",
@@ -293,15 +293,15 @@
    "d": 2,
    "p": 129.65,
    "ch": 0,
-   "asof": "2026-10-19T00:17:08.000Z"
+   "asof": "2026-10-19T01:38:42.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.467,
-   "ch": -0.05,
-   "asof": "2026-10-19T00:57:44.000Z"
+   "p": 16.4628,
+   "ch": -0.07,
+   "asof": "2026-10-19T01:45:06.000Z"
   },
   {
    "s": "USD/NGN",
@@ -309,23 +309,23 @@
    "d": 2,
    "p": 1330.13,
    "ch": 0,
-   "asof": "2026-10-19T00:17:08.000Z"
+   "asof": "2026-10-19T01:38:42.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.08,
-   "ch": 0.06,
-   "asof": "2026-10-19T00:57:39.000Z"
+   "p": 104.73,
+   "ch": 0.68,
+   "asof": "2026-10-19T01:45:02.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3046,
-   "ch": -0.03,
-   "asof": "2026-10-19T00:57:43.000Z"
+   "p": 1.3107,
+   "ch": 0.44,
+   "asof": "2026-10-19T01:45:01.000Z"
   },
   {
    "s": "Apple",
@@ -355,25 +355,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.455,
-   "ch": 0.26,
-   "asof": "2026-10-19T00:47:30.000Z"
+   "p": 57.56,
+   "ch": 0.44,
+   "asof": "2026-10-19T01:34:39.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Monday open indicative forex prices, 19 October 2026",
-   "investingLive",
-   "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY2xYYjh4cXd2WkE1QmNkbURxX2hDSEZmbmpIVHVKNzQ3dTJVSGNBdnNDS2RRa1VXeUs0emNSeWlyZFdvd3JidE1iZjZ0UnI0QnViTTN6eENPbGJxd2RBUGRTTmtiNmdvRXhiVzlOTmVQc2Q0cFh3Nkp1LVR1WElrUTVvUXdabmhwZTJsYQ?oc=5"
+   "Dollar firmer, euro weakens as French protests turn violent",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUGwwZHd2R1h3Q1BiZkdpNVVzRFpXZTJEd19TT2tyelhtb21VX0ZOSzN2RVpURkdHMWl5REpraUVJTVRjeFlSQmU4T3V4XzhWV2g0bU1fd0Q0cmhRMFRFbVg5Snhld1owT2IwbmR2d0RwNGNpWEVGWHhYaDRzN3N1UWJwNjhuTXoyc3hsLXIybEt0VEl4VlJOS2JUZTB5TnV2OVFWU2NLYjRiWU5kYnA4?oc=5"
   ],
   [
    "Forex",
    "med",
-   "Sterling and Wilson Renewable Energy Ltd (BOM:542760) (Q2 2027) Earnings Call Highlights: ...",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxORFN0ZHU5TmdDVldWcTNydDc4b0FHU0ptWmNBYWNHU3c5dkZKazE3aDEtN25PMzZ6OU01alEtMVlzVnZGYXFXZkdfalU2eXhjclhYZEdMZEdXN2FBWklRb1J3UERlQk9UNmtHc2pqLXRhVVJlNXJmaUxUN2pjVXBQZmlWWklNXzREM09LV19qWWwyT09uWF9CZQ?oc=5"
+   "Monday open indicative forex prices, 19 October 2026",
+   "investingLive",
+   "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY2xYYjh4cXd2WkE1QmNkbURxX2hDSEZmbmpIVHVKNzQ3dTJVSGNBdnNDS2RRa1VXeUs0emNSeWlyZFdvd3JidE1iZjZ0UnI0QnViTTN6eENPbGJxd2RBUGRTTmtiNmdvRXhiVzlOTmVQc2Q0cFh3Nkp1LVR1WElrUTVvUXdabmhwZTJsYQ?oc=5"
   ],
   [
    "Crypto",
@@ -399,9 +399,9 @@
   [
    "Stocks",
    "med",
-   "Asian stocks skid, Wall Street and bonds aided by oil slip",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLVFWRVZxMkJLTnJJaThPRWdnNTFRbmc2V1FTYW1CbUNZc1hNYkZKd0xCbHJTeUpzYnNzYmx6RS1aZS1FNnBUcGx0VHY5bFZmY2xTMU1nZHlJNTNpWmliOE0tcmJ5d0JpeVJlZmw3Y1RuRnJvQWZSQXJraTNtN1pGOTJ4RQ?oc=5"
+   "Anthropic IPO Buzz Has Investors Watching Nasdaq Stock And ECM Fee Winners",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT24xWUZOYW1fTVo2T0dGYmhtV01KRmRNLXhPY0Vtb0V1bG1vVVhSQ0MtNS14TmthYlFaTGdUTnJzSjFUaHRfcnlxZUFLS0lGU2hucnFaUVRVU1VFLXF3WlA3LXpPZVZMbHhkQXNSSS1jbjNDZXNiVmt5WVJzdnZBdU5zaHUxcE9lYV9md1FaVE1qWTVmOUt0aVZObm1kNDMzZlJCZw?oc=5"
   ],
   [
    "Commodities",
@@ -413,9 +413,9 @@
   [
    "Commodities",
    "med",
-   "Crude oil climbs again as Russia-Ukraine \"ceasefire\" faces doubts, US-Iran stalemate extends",
-   "investingLive",
-   "https://news.google.com/rss/articles/CBMixwFBVV95cUxQblVSamYzQlYtWExiRlJyaHZfTEVHVXJwWEprbmd5RDN6MDA2UUIwVmJfYkt6LTRmeGxjMGJXNy1OZ3MxNURNYnJYTUxWc1A5WHMyX2F6cWgtbTQydExvZkxFQnVUMmtMMGx3bTMtMVBlbW9BVXBNdk9wYkZOeTdscE42aHRVcmItRVdHQWgzSExTMzdCUmc2M2p5Y0x6d2RiRmVBZmRrMDFuVnZyTXF3bVh3UjZfdGV5ZlQ2NFRwRFlLVmFzZHY0?oc=5"
+   "Brent Crude Holds Near $110 on Mideast and Ukraine Conflicts",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMingFBVV95cUxNZW11ZjRDTUdpUHpzY1JpNFZtWjZ1bGhZejdHX2h3Q0NTb1pKU0pxM0NtSDR5QlA4YnQ5NHUybkxGS0VxSWJQcHo0NWcyb3A4S21SbVNld2cyLTQ5eFowV2lqRlh1QUMteG1taWQ5b0dPUGg1SnpxVUlRYmlDWkkxZzBQWVpBTjlwdzEyZDBTRWRacVU1ZFhZMjhrMGd5dw?oc=5"
   ]
  ]
 }
