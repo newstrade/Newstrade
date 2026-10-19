@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T11:47:29.403Z",
+ "updated": "2026-10-19T12:57:36.437Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -189,63 +189,63 @@
    "d": 4,
    "p": 1.1227,
    "ch": -0.15,
-   "asof": "2026-10-19T11:46:52.000Z"
+   "asof": "2026-10-19T12:56:48.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3337,
-   "ch": 0.05,
-   "asof": "2026-10-19T11:46:52.000Z"
+   "p": 1.3325,
+   "ch": -0.04,
+   "asof": "2026-10-19T12:56:48.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.175,
-   "ch": 0.12,
-   "asof": "2026-10-19T11:47:28.000Z"
+   "p": 158.347,
+   "ch": 0.23,
+   "asof": "2026-10-19T12:57:36.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6991,
-   "ch": 0.6,
-   "asof": "2026-10-19T11:46:52.000Z"
+   "p": 0.6984,
+   "ch": 0.5,
+   "asof": "2026-10-19T12:56:48.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4074,
-   "ch": -0.45,
-   "asof": "2026-10-19T11:47:28.000Z"
+   "p": 1.4095,
+   "ch": -0.3,
+   "asof": "2026-10-19T12:57:36.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8249,
-   "ch": 0.16,
-   "asof": "2026-10-19T11:47:29.000Z"
+   "p": 0.8252,
+   "ch": 0.19,
+   "asof": "2026-10-19T12:57:36.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82212.53,
-   "ch": 0.24,
-   "asof": "2026-10-19T11:47:27.000Z"
+   "p": 82451.38,
+   "ch": 0.54,
+   "asof": "2026-10-19T12:57:35.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2418.24,
-   "ch": 0.41,
-   "asof": "2026-10-19T11:47:27.000Z"
+   "p": 2419.99,
+   "ch": 0.49,
+   "asof": "2026-10-19T12:57:31.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4188.7,
-   "ch": 0.18,
-   "asof": "2026-10-19T11:37:17.000Z"
+   "p": 4183.1,
+   "ch": 0.05,
+   "asof": "2026-10-19T12:47:36.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 98.15,
-   "ch": -0.88,
-   "asof": "2026-10-19T11:37:23.000Z"
+   "p": 97.95,
+   "ch": -1.08,
+   "asof": "2026-10-19T12:47:35.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4325,
-   "ch": -0.26,
-   "asof": "2026-10-19T11:47:28.000Z"
+   "p": 16.4354,
+   "ch": -0.24,
+   "asof": "2026-10-19T12:57:37.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.61,
-   "ch": 0.57,
-   "asof": "2026-10-19T11:47:28.000Z"
+   "p": 105.11,
+   "ch": 1.05,
+   "asof": "2026-10-19T12:57:32.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3012,
-   "ch": -0.29,
-   "asof": "2026-10-19T11:47:25.000Z"
+   "p": 1.3089,
+   "ch": 0.3,
+   "asof": "2026-10-19T12:57:31.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.735,
-   "ch": 0.75,
-   "asof": "2026-10-19T11:37:24.000Z"
+   "p": 57.675,
+   "ch": 0.65,
+   "asof": "2026-10-19T12:47:36.000Z"
   }
  ],
  "news": [
@@ -385,9 +385,9 @@
   [
    "Crypto",
    "med",
-   "Bitcoin Rebounds Above $82,000 as Oil's Retreat Lifts Risk Mood",
+   "Bitcoin and ethereum prices today, Monday, October 19, 2026: Crypto prices hold as oil slides back from 5-month highs",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMEswMWNQNjNSQ3F1Nzh4cS0tbGJIQzgybl9iZmJPelZuTllCRDN6UEVSN0pJSlhhXzhrZXhSTUkxZDZ3d3ROZ01ZejZhYThjeEpYVmpCVi1xS25qX2NDNGNFNGhmaVM2NmQ3eDVvRF8yZHpHVUI3WnctZ1p6VkltYnhBRmVCcGZsbTMyVXIyc3prZzhyVFk0M2h3?oc=5"
+   "https://news.google.com/rss/articles/CBMimAJBVV95cUxOaVN0Z2NDc3c3TUx5N0hES1hCMDJwY1BaOWhLVWtQeVNKUkV4eGtQaVBVVmZwUVJCX19uQkxVTjR0dThyM0Y4X3JrR1NQUzItQ0ZXTUhZWG81U3RrellfazgzdF9XVmdJaVFCN1NkcVl6ZXZ2R3ZneHR3eGxMd1lMM2VoWGI1M0NTVGZnSW9iclZnVzduZm1fNzI1bXlkU1lXZkY5eUFJWW5MamtxQzBlc190bzNKSXdLODBHdDA4N2dTRjJsaEI2NmFLTHotNUJua0txUkZ6MkVxMDdablZEWERKUXRYUkpFQXI1NTExdzR2M1RhR2xFd0w0YzlydWpubkUzc0FJVmE3Z1h3a2xNQTdabThmWVlw?oc=5"
   ],
   [
    "Stocks",
@@ -399,9 +399,9 @@
   [
    "Stocks",
    "med",
-   "Stock Market: Will S&P 500 Open Up or Down Today?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdmhWOHBPbmpydVMwNlBNb2JjeHJCMndndGp5Vl9HcVB5bWZxWU1xT1NhczBJelduZ0JUSnZ5S3lTNWZXYjFhUG9qZEhlWENybUN2TGlhMVNTbml6bVFZem9Kb2dCeWhuZ2I2VU42UkNRSlViLWs2d0pwWUU3UXN3dVI2bXBDVHYtRlRQR1g3clNyUQ?oc=5"
+   "S&P 500 Futures Climb in Premarket Trading; RadNet, Woodward Lag",
+   "Barron's",
+   "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTmVOMEdOcUxDd0NSVWNRNXhhc2FLNmJkUGJQQ1piWnpfeElNY1JNbDhLTmI3Z2l4bGNVd0lBTmpSVjQ1ZVpndmtKcjBwOXhrSU13U0hsUGJKbDF3Qjlkb2xxWE9PQ0t1WUR2YzlDVUFIaVBDUmhnLVdmNjdQTkNYa3R6cDA3U0loc01YTWk1VFNPdkZ4QmtOWC1YOWRGd2ZtVm5iTy1jaw?oc=5"
   ],
   [
    "Commodities",
