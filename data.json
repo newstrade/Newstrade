@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T02:45:14.412Z",
+ "updated": "2026-10-19T03:48:54.347Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,33 +187,33 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1228,
-   "ch": -0.14,
-   "asof": "2026-10-19T02:44:50.000Z"
+   "p": 1.1233,
+   "ch": -0.1,
+   "asof": "2026-10-19T03:47:52.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3327,
-   "ch": -0.02,
-   "asof": "2026-10-19T02:44:50.000Z"
+   "p": 1.333,
+   "ch": 0,
+   "asof": "2026-10-19T03:48:52.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.98,
-   "ch": 0,
-   "asof": "2026-10-19T02:45:13.000Z"
+   "p": 158.125,
+   "ch": 0.09,
+   "asof": "2026-10-19T03:48:50.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6977,
-   "ch": 0.4,
-   "asof": "2026-10-19T02:44:50.000Z"
+   "p": 0.6978,
+   "ch": 0.42,
+   "asof": "2026-10-19T03:48:52.000Z"
   },
   {
    "s": "USD/CAD",
@@ -221,31 +221,31 @@
    "d": 4,
    "p": 1.4119,
    "ch": -0.13,
-   "asof": "2026-10-19T02:45:13.000Z"
+   "asof": "2026-10-19T03:48:52.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8245,
-   "ch": 0.11,
-   "asof": "2026-10-19T02:45:14.000Z"
+   "p": 0.824,
+   "ch": 0.05,
+   "asof": "2026-10-19T03:48:49.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82465.37,
-   "ch": 0.55,
-   "asof": "2026-10-19T02:45:08.000Z"
+   "p": 82425.5,
+   "ch": 0.5,
+   "asof": "2026-10-19T03:48:46.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2423.32,
-   "ch": 0.63,
-   "asof": "2026-10-19T02:45:10.000Z"
+   "p": 2420.44,
+   "ch": 0.51,
+   "asof": "2026-10-19T03:48:49.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4193.9,
-   "ch": 0.31,
-   "asof": "2026-10-19T02:35:13.000Z"
+   "p": 4199.7,
+   "ch": 0.44,
+   "asof": "2026-10-19T03:38:49.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 97.48,
-   "ch": -1.56,
-   "asof": "2026-10-19T02:35:11.000Z"
+   "p": 97.43,
+   "ch": -1.61,
+   "asof": "2026-10-19T03:38:42.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.458,
-   "ch": -0.1,
-   "asof": "2026-10-19T02:45:15.000Z"
+   "p": 16.4521,
+   "ch": -0.14,
+   "asof": "2026-10-19T03:48:54.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 105.13,
-   "ch": 1.07,
-   "asof": "2026-10-19T02:45:10.000Z"
+   "p": 105.09,
+   "ch": 1.03,
+   "asof": "2026-10-19T03:48:52.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3104,
-   "ch": 0.41,
-   "asof": "2026-10-19T02:45:09.000Z"
+   "p": 1.3079,
+   "ch": 0.22,
+   "asof": "2026-10-19T03:48:47.000Z"
   },
   {
    "s": "Apple",
@@ -355,25 +355,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.56,
-   "ch": 0.44,
-   "asof": "2026-10-19T02:34:14.000Z"
+   "p": 57.855,
+   "ch": 0.96,
+   "asof": "2026-10-19T03:38:30.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Dollar firmer, euro weakens as French protests turn violent",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUGwwZHd2R1h3Q1BiZkdpNVVzRFpXZTJEd19TT2tyelhtb21VX0ZOSzN2RVpURkdHMWl5REpraUVJTVRjeFlSQmU4T3V4XzhWV2g0bU1fd0Q0cmhRMFRFbVg5Snhld1owT2IwbmR2d0RwNGNpWEVGWHhYaDRzN3N1UWJwNjhuTXoyc3hsLXIybEt0VEl4VlJOS2JUZTB5TnV2OVFWU2NLYjRiWU5kYnA4?oc=5"
-  ],
-  [
-   "Forex",
-   "med",
    "Japan PM Takaichi Denies She’s Driving Weak Yen, High Rates: JPY/USD",
    "Bloomberg.com",
    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaV92VVR5SUNFUy1TdGlCR1lpN2pUcDVyX0VMWDBjdVk5bFBKTXZQLVhVZlhUU2lWWlZKWmRDSUJsWHVORE5kMWUxM2ZKOUd4TXBwYVhxLUFBaFBtMmFkMThTRlhwOGJMVXVuMjhhOWhya2Zyanc2cFZHdjF5V2t4Q1EwSzJRTTNGa1VLWnJkUE91dVVkOG9zZ0dfbEkzT1NFUl83eER4SnUxbjVqZ3c?oc=5"
+  ],
+  [
+   "Forex",
+   "high",
+   "Canadian Dollar holds gains against subdued US Dollar as Fed pause expectations rise",
+   "FXStreet",
+   "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY0FPU1pMbmdjU2V5U3VMUm5JbS12N0taWlpoOWllc2YxeVI2UnRBNlVZWk5HYjVwR2lQNFNwRXZtSlgxNkp1RzF3VmNrRVZHVHBoX1pSb3E0OERkLVNCZ3hNWDlqaHZRdzYwa1BwXzlaWXp5NkJIcksxak12LVhIVUVKQmhVY1FHTHppdHgyQlg3VVp3SWZTZGVIR1VKSTlKZ1l2Q3dkYUZfdHU4ZGVnMVhzODdEdFNLS08tWlo2TkMyb2hTNUE?oc=5"
   ],
   [
    "Crypto",
@@ -392,16 +392,16 @@
   [
    "Stocks",
    "med",
-   "Nikkei Falls 1.8%, Tracking Wall Street’s Losses",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWVpCTGEzNHM2dnhMVW9kU1JJcTAtMnd1YVRWZW5iNjlldk1OcTMzMjJrNkVTM3hVVW1HT3paWVZDbElDcXU0MENtbFFWcF9uQkF2cmIwRjM3RFVNaEJ3Vk1BNVdGR3VhVGNFZDIyYlEwSnFYTDRvV0E3cnJnS0RZQjdLTkowT3RCYjZsaUFvRzV1Rkk?oc=5"
+   "Black Monday Fears Fade as Nasdaq Futures Rally After Friday Selloff",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUF9FbkFxa1BxR1lUN0dkWkp6N2t6OTlsYU9qdzd5cENyRXlZcFR3UFdZSE1RN0o3Q2JPa1NyMHlUZy05UEFvRnAzVDA1WUR4M0tMNENibjRlSnFDRWhuYncwZzdtS2tvaE5kSGlBUVE5Q05xMVlWbHFYLUtZaFhycm9IYVVqZUJ5Um9VT1lXZjdrWGxPcnlYekhtMA?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Black Monday Fears Fade as Nasdaq Futures Rally After Friday Selloff",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUF9FbkFxa1BxR1lUN0dkWkp6N2t6OTlsYU9qdzd5cENyRXlZcFR3UFdZSE1RN0o3Q2JPa1NyMHlUZy05UEFvRnAzVDA1WUR4M0tMNENibjRlSnFDRWhuYncwZzdtS2tvaE5kSGlBUVE5Q05xMVlWbHFYLUtZaFhycm9IYVVqZUJ5Um9VT1lXZjdrWGxPcnlYekhtMA?oc=5"
+   "Asian stocks slip, Wall St and bonds benefit from oil skid",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLVFWRVZxMkJLTnJJaThPRWdnNTFRbmc2V1FTYW1CbUNZc1hNYkZKd0xCbHJTeUpzYnNzYmx6RS1aZS1FNnBUcGx0VHY5bFZmY2xTMU1nZHlJNTNpWmliOE0tcmJ5d0JpeVJlZmw3Y1RuRnJvQWZSQXJraTNtN1pGOTJ4RQ?oc=5"
   ],
   [
    "Commodities",
@@ -413,9 +413,9 @@
   [
    "Commodities",
    "med",
-   "Brent Crude Holds Near $110 on Mideast and Ukraine Conflicts",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxNZW11ZjRDTUdpUHpzY1JpNFZtWjZ1bGhZejdHX2h3Q0NTb1pKU0pxM0NtSDR5QlA4YnQ5NHUybkxGS0VxSWJQcHo0NWcyb3A4S21SbVNld2cyLTQ5eFowV2lqRlh1QUMteG1taWQ5b0dPUGg1SnpxVUlRYmlDWkkxZzBQWVpBTjlwdzEyZDBTRWRacVU1ZFhZMjhrMGd5dw?oc=5"
+   "Record Shipping Costs Force Oil Producers to Slash Prices",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU084bnV2Uk1VVnBfTVVQOXVDYktTQ1FVWFRTcllwS0dGWTdrcWRwQ0NqakdaRTlDSThIajZGT21ROUdXSzdCeWNiSEFmbC1ra1NSXzNZS3F5OEdnUHQ3VjF5aG5oMUt0Z0ZzRm1OS3JVM2YxSGhCTkRMNllyaDBqZDhfMXJaYUhRWkw2RFVZYjg5RElweDBGdmpjdURacjNkdWfSAacBQVVfeXFMUFZWQlBEUmZnTFNNMnFhOFNRSmwzUU9SOVlnNl9BbnVhQlV3MDVGejFMTDB1aXFtUjI5NHg5N3JILTBGYmk0TDhqcDIyeXEzazhxOGNkc1FDemk4eGNjWmwzNHp2emZCdUltUnFVX3pHcXVMTVZrVF9sUGhtTUU1amNhMG9rb1NtV3BzMXR3ZGdoQ2tjM0RFLXBkYVQ5OTNqMWVjcnYyVGc?oc=5"
   ]
  ]
 }
