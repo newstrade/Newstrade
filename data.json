@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T05:45:32.038Z",
+ "updated": "2026-10-19T07:02:55.497Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,9 +187,9 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1233,
-   "ch": -0.1,
-   "asof": "2026-10-19T05:44:49.000Z"
+   "p": 1.1228,
+   "ch": -0.14,
+   "asof": "2026-10-19T07:02:50.000Z"
   },
   {
    "s": "GBP/USD",
@@ -197,55 +197,55 @@
    "d": 4,
    "p": 1.3334,
    "ch": 0.03,
-   "asof": "2026-10-19T05:44:49.000Z"
+   "asof": "2026-10-19T07:02:50.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.074,
-   "ch": 0.06,
-   "asof": "2026-10-19T05:45:31.000Z"
+   "p": 157.937,
+   "ch": -0.03,
+   "asof": "2026-10-19T07:02:54.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6977,
-   "ch": 0.4,
-   "asof": "2026-10-19T05:44:49.000Z"
+   "p": 0.6982,
+   "ch": 0.47,
+   "asof": "2026-10-19T07:02:50.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4122,
-   "ch": -0.11,
-   "asof": "2026-10-19T05:45:31.000Z"
+   "p": 1.409,
+   "ch": -0.33,
+   "asof": "2026-10-19T07:02:55.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8243,
-   "ch": 0.08,
-   "asof": "2026-10-19T05:45:30.000Z"
+   "p": 0.8236,
+   "ch": 0,
+   "asof": "2026-10-19T07:02:55.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82579.6,
-   "ch": 0.69,
-   "asof": "2026-10-19T05:45:29.000Z"
+   "p": 82773.87,
+   "ch": 0.93,
+   "asof": "2026-10-19T07:02:50.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2425.56,
-   "ch": 0.72,
-   "asof": "2026-10-19T05:45:25.000Z"
+   "p": 2428.27,
+   "ch": 0.83,
+   "asof": "2026-10-19T07:02:50.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4197.5,
-   "ch": 0.39,
-   "asof": "2026-10-19T05:35:27.000Z"
+   "p": 4200.3,
+   "ch": 0.46,
+   "asof": "2026-10-19T06:52:53.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 97.41,
-   "ch": -1.63,
-   "asof": "2026-10-19T05:35:31.000Z"
+   "p": 96.98,
+   "ch": -2.06,
+   "asof": "2026-10-19T06:52:50.000Z"
   },
   {
    "s": "USD/KES",
@@ -293,15 +293,15 @@
    "d": 2,
    "p": 129.65,
    "ch": 0,
-   "asof": "2026-10-19T02:20:28.000Z"
+   "asof": "2026-10-19T06:34:14.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4487,
-   "ch": -0.16,
-   "asof": "2026-10-19T05:45:31.000Z"
+   "p": 16.4505,
+   "ch": -0.15,
+   "asof": "2026-10-19T07:02:56.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 105.4,
-   "ch": 1.32,
-   "asof": "2026-10-19T05:45:31.000Z"
+   "p": 105.69,
+   "ch": 1.6,
+   "asof": "2026-10-19T07:02:48.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3097,
-   "ch": 0.36,
-   "asof": "2026-10-19T05:45:26.000Z"
+   "p": 1.3132,
+   "ch": 0.63,
+   "asof": "2026-10-19T07:02:41.000Z"
   },
   {
    "s": "Apple",
@@ -355,25 +355,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.72,
-   "ch": 0.72,
-   "asof": "2026-10-19T05:35:20.000Z"
+   "p": 57.805,
+   "ch": 0.87,
+   "asof": "2026-10-19T06:52:53.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Japan PM Takaichi Denies She’s Driving Weak Yen, High Rates: JPY/USD",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaV92VVR5SUNFUy1TdGlCR1lpN2pUcDVyX0VMWDBjdVk5bFBKTXZQLVhVZlhUU2lWWlZKWmRDSUJsWHVORE5kMWUxM2ZKOUd4TXBwYVhxLUFBaFBtMmFkMThTRlhwOGJMVXVuMjhhOWhya2Zyanc2cFZHdjF5V2t4Q1EwSzJRTTNGa1VLWnJkUE91dVVkOG9zZ0dfbEkzT1NFUl83eER4SnUxbjVqZ3c?oc=5"
+   "Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JVnBSTjI4Y21rVlR6Y1laVmg1VVJKQkNKTFh0ZXlrQWRrUUtBbWhUMmJlVUZXYVFmY1NEM3BaaU12ZHBVdWduajRlMVpFZTBiTDNDVnZxZTdJQ041V1J3clNKc1ZNRVJweC11MWpNWnhidHfSAXhBVV95cUxOUWgzZ3hhZUJVYXZRMWFFOWc0UjJrOGszMklNdzVidTBrb3ZkWG5PQW5nQUQxcVU1RS1sTkZDZmlHbnVwRUprN1UxZlhIendadzduQ0V6bXdBemdaYTdBd25rTURiNnl1RTlZdVM2ZFBybmFmZXVvWVA?oc=5"
   ],
   [
    "Forex",
    "med",
-   "Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JVnBSTjI4Y21rVlR6Y1laVmg1VVJKQkNKTFh0ZXlrQWRrUUtBbWhUMmJlVUZXYVFmY1NEM3BaaU12ZHBVdWduajRlMVpFZTBiTDNDVnZxZTdJQ041V1J3clNKc1ZNRVJweC11MWpNWnhidHfSAXhBVV95cUxOUWgzZ3hhZUJVYXZRMWFFOWc0UjJrOGszMklNdzVidTBrb3ZkWG5PQW5nQUQxcVU1RS1sTkZDZmlHbnVwRUprN1UxZlhIendadzduQ0V6bXdBemdaYTdBd25rTURiNnl1RTlZdVM2ZFBybmFmZXVvWVA?oc=5"
+   "Japan PM Takaichi Denies She’s Driving Weak Yen, High Rates: JPY/USD",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaV92VVR5SUNFUy1TdGlCR1lpN2pUcDVyX0VMWDBjdVk5bFBKTXZQLVhVZlhUU2lWWlZKWmRDSUJsWHVORE5kMWUxM2ZKOUd4TXBwYVhxLUFBaFBtMmFkMThTRlhwOGJMVXVuMjhhOWhya2Zyanc2cFZHdjF5V2t4Q1EwSzJRTTNGa1VLWnJkUE91dVVkOG9zZ0dfbEkzT1NFUl83eER4SnUxbjVqZ3c?oc=5"
   ],
   [
    "Crypto",
@@ -399,9 +399,9 @@
   [
    "Stocks",
    "med",
-   "Asian stocks slip, Wall St and bonds benefit from oil dip",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLVFWRVZxMkJLTnJJaThPRWdnNTFRbmc2V1FTYW1CbUNZc1hNYkZKd0xCbHJTeUpzYnNzYmx6RS1aZS1FNnBUcGx0VHY5bFZmY2xTMU1nZHlJNTNpWmliOE0tcmJ5d0JpeVJlZmw3Y1RuRnJvQWZSQXJraTNtN1pGOTJ4RQ?oc=5"
+   "Nikkei Falls 1.8%, Tracking Wall Street’s Losses",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWVpCTGEzNHM2dnhMVW9kU1JJcTAtMnd1YVRWZW5iNjlldk1OcTMzMjJrNkVTM3hVVW1HT3paWVZDbElDcXU0MENtbFFWcF9uQkF2cmIwRjM3RFVNaEJ3Vk1BNVdGR3VhVGNFZDIyYlEwSnFYTDRvV0E3cnJnS0RZQjdLTkowT3RCYjZsaUFvRzV1Rkk?oc=5"
   ],
   [
    "Commodities",
