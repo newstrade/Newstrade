@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T15:49:26.353Z",
+ "updated": "2026-10-19T16:49:19.247Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,105 +187,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1215,
-   "ch": -0.26,
-   "asof": "2026-10-19T15:48:48.000Z"
+   "p": 1.1211,
+   "ch": -0.29,
+   "asof": "2026-10-19T16:48:49.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3307,
-   "ch": -0.17,
-   "asof": "2026-10-19T15:48:48.000Z"
+   "p": 1.3301,
+   "ch": -0.22,
+   "asof": "2026-10-19T16:48:49.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.471,
-   "ch": 0.31,
-   "asof": "2026-10-19T15:49:25.000Z"
+   "p": 158.536,
+   "ch": 0.35,
+   "asof": "2026-10-19T16:49:17.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6984,
-   "ch": 0.5,
-   "asof": "2026-10-19T15:48:48.000Z"
+   "p": 0.6978,
+   "ch": 0.42,
+   "asof": "2026-10-19T16:48:49.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4094,
-   "ch": -0.3,
-   "asof": "2026-10-19T15:49:26.000Z"
+   "p": 1.4097,
+   "ch": -0.28,
+   "asof": "2026-10-19T16:49:17.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8266,
-   "ch": 0.36,
-   "asof": "2026-10-19T15:49:23.000Z"
+   "p": 0.8264,
+   "ch": 0.34,
+   "asof": "2026-10-19T16:49:16.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81960.94,
-   "ch": -0.06,
-   "asof": "2026-10-19T15:49:22.000Z"
+   "p": 81908.4,
+   "ch": -0.13,
+   "asof": "2026-10-19T16:49:13.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2395.94,
-   "ch": -0.51,
-   "asof": "2026-10-19T15:49:21.000Z"
+   "p": 2398.56,
+   "ch": -0.4,
+   "asof": "2026-10-19T16:49:14.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7724.56,
-   "ch": 0.85,
-   "asof": "2026-10-19T15:49:26.000Z"
+   "p": 7704.1,
+   "ch": 0.58,
+   "asof": "2026-10-19T16:49:18.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 26591.385,
-   "ch": 1.73,
-   "asof": "2026-10-19T15:49:23.000Z"
+   "p": 26497.787,
+   "ch": 1.37,
+   "asof": "2026-10-19T16:49:16.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52089.13,
-   "ch": 0.17,
-   "asof": "2026-10-19T15:49:26.000Z"
+   "p": 52004.81,
+   "ch": 0,
+   "asof": "2026-10-19T16:49:17.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4163.6,
-   "ch": -0.42,
-   "asof": "2026-10-19T15:39:17.000Z"
+   "p": 4161.2,
+   "ch": -0.48,
+   "asof": "2026-10-19T16:39:13.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 97.84,
-   "ch": -1.19,
-   "asof": "2026-10-19T15:39:25.000Z"
+   "p": 98.66,
+   "ch": -0.36,
+   "asof": "2026-10-19T16:39:17.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4334,
-   "ch": -0.25,
-   "asof": "2026-10-19T15:49:26.000Z"
+   "p": 16.4358,
+   "ch": -0.24,
+   "asof": "2026-10-19T16:49:18.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,49 +315,49 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.16,
-   "ch": 0.13,
-   "asof": "2026-10-19T15:49:21.000Z"
+   "p": 104.22,
+   "ch": 0.19,
+   "asof": "2026-10-19T16:49:14.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2996,
-   "ch": -0.41,
-   "asof": "2026-10-19T15:49:23.000Z"
+   "p": 1.301,
+   "ch": -0.31,
+   "asof": "2026-10-19T16:49:16.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 342.65,
-   "ch": -0.24,
-   "asof": "2026-10-19T15:49:27.000Z"
+   "p": 342.15,
+   "ch": -0.38,
+   "asof": "2026-10-19T16:49:12.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 368.085,
-   "ch": 3.77,
-   "asof": "2026-10-19T15:49:27.000Z"
+   "p": 368.58,
+   "ch": 3.91,
+   "asof": "2026-10-19T16:49:18.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 219.275,
-   "ch": 2.4,
-   "asof": "2026-10-19T15:49:27.000Z"
+   "p": 218.03,
+   "ch": 1.82,
+   "asof": "2026-10-19T16:49:19.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.44,
-   "ch": 0.24,
-   "asof": "2026-10-19T15:39:19.000Z"
+   "p": 57.385,
+   "ch": 0.14,
+   "asof": "2026-10-19T16:39:12.000Z"
   }
  ],
  "news": [
@@ -378,21 +378,21 @@
   [
    "Crypto",
    "med",
-   "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum",
+   "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
    "CoinDesk",
-   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZndOVkZnTlRtQXFZZWladHl2ZG4zbUJwVTM5V1JWaEM4NF9yR3IyZklubHR2MUJTaVZTRjBoWkMzWHhiQXhOVXhZelI4ZHpNcjdTQTdPOU5MMVYtN0RISW40V21IQnVISnVmeUl0dUtOR0VBMllfSWw0SGE0M3BwRlg0eG04M2dlcXVUdkduQ0RmWEhFMVFyMy1EVUEtQkFmS3lCRWU2eGVmNWFQMGpMUkpaTEN0Rzk0WHhQVUVHY3NLQQ?oc=5"
+   "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcVZSc3AzamZnZTJIcHgtT2JvT01kRE1tU2dZMWt3M2R6U3JvczlHLU9tUGJYMVh6MVNhRmtfVUpMWnFuTlFCZjRDUnRSalotazJPUFFaam1HOElwbGhlR1JYczVwWElfRjhMenJHTzJwSDQxcm0wcjR3ckFSVC1zSTlPTkRVM01vXzhpdnlxazJicEprSXBLdWtZUERMajZURElXQ1YtY0RPWWtId2s1ZjBxcnF4dm9FNUx6Zmp4SDZ4cHVXbUE?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Current price of Bitcoin for Oct. 19, 2026",
+   "Current price of Ethereum for Oct. 19, 2026",
    "Fortune",
-   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vb3A0Q24zaWUwM0E5LXNKeEc3VW5RMF9OZEh3UDZ2TE42RlhTelFvakpHWFQzZTc1WEFIVlBzV25XZVpJUTlxX0RXUnAtblluQUtQWGV5QVdLOGtmNmlINDVvc2tRZk0?oc=5"
+   "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNWWd3blY0NUhldlZKclJveGd4Ym1iRHBWWjVVSkdlcTdKbVptaC1xUUswbnQwR1B3aXNjTXBzNWV4eC1QamJYazhHaDNEZ3JaYlFscXhIWDA0NG9jeWlCa2lEQWlFT0It?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "S&P 500, Nasdaq open higher as AI stocks rebound ahead of major earnings",
+   "Nasdaq climbs over 1% as AI-linked stocks recover ahead of key earnings",
    "Reuters",
    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX21SVVhfUjZRQ255YlFzVWVEZ3BFMmt3aWlDdkVPVENFOExuRE9KOXZ6WjNqbzdHelUwdzZudy02TjlyNkxVZWcxQmFzZF9NaUE0SFZYaWI3dmxlYTBVdjdULWhLMkNQNnlMUXFaM1J5T1dPMEo3ajhkb0RQLUM3M0pkYlFqbHNKQ1U1c3k5WlUtdjR1UkNCV0JkdjJZTzdIa2c?oc=5"
   ],
