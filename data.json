@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T09:50:35.202Z",
+ "updated": "2026-10-19T10:46:22.181Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -189,7 +189,7 @@
    "d": 4,
    "p": 1.1215,
    "ch": -0.26,
-   "asof": "2026-10-19T09:49:49.000Z"
+   "asof": "2026-10-19T10:45:50.000Z"
   },
   {
    "s": "GBP/USD",
@@ -197,55 +197,55 @@
    "d": 4,
    "p": 1.3331,
    "ch": 0.01,
-   "asof": "2026-10-19T09:49:49.000Z"
+   "asof": "2026-10-19T10:45:50.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.206,
+   "p": 158.207,
    "ch": 0.14,
-   "asof": "2026-10-19T09:50:35.000Z"
+   "asof": "2026-10-19T10:46:21.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6981,
-   "ch": 0.46,
-   "asof": "2026-10-19T09:48:49.000Z"
+   "p": 0.6988,
+   "ch": 0.56,
+   "asof": "2026-10-19T10:44:50.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4096,
-   "ch": -0.29,
-   "asof": "2026-10-19T09:50:34.000Z"
+   "p": 1.4087,
+   "ch": -0.35,
+   "asof": "2026-10-19T10:46:21.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8251,
-   "ch": 0.18,
-   "asof": "2026-10-19T09:50:34.000Z"
+   "p": 0.8249,
+   "ch": 0.16,
+   "asof": "2026-10-19T10:46:21.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82917.9,
-   "ch": 1.1,
-   "asof": "2026-10-19T09:50:32.000Z"
+   "p": 82273.04,
+   "ch": 0.32,
+   "asof": "2026-10-19T10:46:19.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2441.78,
-   "ch": 1.39,
-   "asof": "2026-10-19T09:50:32.000Z"
+   "p": 2423.73,
+   "ch": 0.64,
+   "asof": "2026-10-19T10:46:15.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4188.3,
-   "ch": 0.17,
-   "asof": "2026-10-19T09:40:32.000Z"
+   "p": 4186.7,
+   "ch": 0.13,
+   "asof": "2026-10-19T10:36:20.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 98.33,
-   "ch": -0.7,
-   "asof": "2026-10-19T09:40:33.000Z"
+   "p": 98.39,
+   "ch": -0.64,
+   "asof": "2026-10-19T10:36:17.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4558,
-   "ch": -0.12,
-   "asof": "2026-10-19T09:50:36.000Z"
+   "p": 16.438,
+   "ch": -0.23,
+   "asof": "2026-10-19T10:46:22.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 105.61,
-   "ch": 1.53,
-   "asof": "2026-10-19T09:50:31.000Z"
+   "p": 104.79,
+   "ch": 0.74,
+   "asof": "2026-10-19T10:46:13.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.315,
-   "ch": 0.77,
-   "asof": "2026-10-19T09:50:29.000Z"
+   "p": 1.3024,
+   "ch": -0.2,
+   "asof": "2026-10-19T10:46:16.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.65,
-   "ch": 0.6,
-   "asof": "2026-10-19T09:40:06.000Z"
+   "p": 57.615,
+   "ch": 0.54,
+   "asof": "2026-10-19T10:35:14.000Z"
   }
  ],
  "news": [
@@ -378,16 +378,23 @@
   [
    "Crypto",
    "med",
+   "JPMorgan Brings Deposit Token to Ethereum for Institutional Clients",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ1h3OEFMMXJwQy1PSU13bDdiOUQ4TWhUdy0tNGRfZDZ4RXNNY1dOWGc5djRhaVdSVG8zWDhfOGlwVGhZNTdRcTZ1Rm00aldmV050cnhnUW9iUVRUVEpEZXhnSDBUZ2trUFRXVjBLSHFKd3Bkbjk0RTdSQkhBZm52SFJsQVFCZTdxT2RySGctTHV5Z0VRSl83R0lvNWFIbFBLcFpMbExQNU1NS01DWVliYU9JLUtYYUJ1UVhydm1GSzllcXlOSmc?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
    "Bitcoin Rebounds Above $82,000 as Oil's Retreat Lifts Risk Mood",
    "Yahoo Finance",
    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMEswMWNQNjNSQ3F1Nzh4cS0tbGJIQzgybl9iZmJPelZuTllCRDN6UEVSN0pJSlhhXzhrZXhSTUkxZDZ3d3ROZ01ZejZhYThjeEpYVmpCVi1xS25qX2NDNGNFNGhmaVM2NmQ3eDVvRF8yZHpHVUI3WnctZ1p6VkltYnhBRmVCcGZsbTMyVXIyc3prZzhyVFk0M2h3?oc=5"
   ],
   [
-   "Crypto",
+   "Stocks",
    "med",
-   "Rise of crypto vaults channels billions of dollars into risky lending",
-   "Financial Times",
-   "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX2lQMXlZcGpIM0duNlVIY0oyZS1YNi1JU2hJdHNDeUcxRXEyaFFJTGdhVHVFOS03eTVpQUZHRlI1QUp2TkgzZEFJT2FGS1VMaVpDQWotLXNScUNFdWZfZklJTjJ4NWV6X2RaTTJlT1p3dDY1SnlFQVIwOEFEWHdnSm9DSlI?oc=5"
+   "Exclusive | Putin Floats a Summit With Trump and Xi to Discuss Ukraine Deal",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY3JSS1cwX2ZZSWhRMFl2SmpfZjdadXF2U3NhRjRmUDNNQ2ZiRXg0bjI0WmdZYXYxd3NNeHlQNUJYRS03eV90Q1hMMXlQU1ZUMm1IRGhDc2dLajdXdTNVWVBodlNpemNneU9BU2o5MVFJUTVuODRtYzBqRTREUFp4a0hrRHlMSkczQ3R6U3R0V3RMYldsTFRmUUJiMEd4eEtLRjd2eEtaWkM?oc=5"
   ],
   [
    "Stocks",
@@ -395,13 +402,6 @@
    "Stock Market: Will S&P 500 Open Up or Down Today?",
    "Yahoo Finance",
    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdmhWOHBPbmpydVMwNlBNb2JjeHJCMndndGp5Vl9HcVB5bWZxWU1xT1NhczBJelduZ0JUSnZ5S3lTNWZXYjFhUG9qZEhlWENybUN2TGlhMVNTbml6bVFZem9Kb2dCeWhuZ2I2VU42UkNRSlViLWs2d0pwWUU3UXN3dVI2bXBDVHYtRlRQR1g3clNyUQ?oc=5"
-  ],
-  [
-   "Stocks",
-   "high",
-   "If a Stock Market Crash Is Coming, History Says This 1 Strategy Has a Perfect Track Record",
-   "The Motley Fool",
-   "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYmIxbGRyS1BTOGxtN2pscFplb2ZrcDBVSnVsdTkxcjJTOGk4eUhTWURUdHNzQXhTSFUyOGJNeEI3N0cxZFdFbXJiUVE3d3ZQTGtmLWswRHh3azBjaHB6M1c1MHlIM2RaUlljdXpwSjVUelExeC1GQmE5RzdXRDhROFc3eVBaZUUxbmJKbk1FVU9oamh2U2xjZWU4MS11SUc4ZllKUXd1Y0VSaXhrZmY5RVNyUTZqazN1OG1PS2duSjVCTFRjSG0xSmxwNk8?oc=5"
   ],
   [
    "Commodities",
