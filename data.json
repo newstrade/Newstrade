@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T01:45:06.964Z",
+ "updated": "2026-10-19T02:45:14.412Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.123,
-   "ch": -0.12,
-   "asof": "2026-10-19T01:44:49.000Z"
+   "p": 1.1228,
+   "ch": -0.14,
+   "asof": "2026-10-19T02:44:50.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3329,
-   "ch": -0.01,
-   "asof": "2026-10-19T01:44:49.000Z"
+   "p": 1.3327,
+   "ch": -0.02,
+   "asof": "2026-10-19T02:44:50.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.014,
-   "ch": 0.02,
-   "asof": "2026-10-19T01:45:06.000Z"
+   "p": 157.98,
+   "ch": 0,
+   "asof": "2026-10-19T02:45:13.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6969,
-   "ch": 0.29,
-   "asof": "2026-10-19T01:44:49.000Z"
+   "p": 0.6977,
+   "ch": 0.4,
+   "asof": "2026-10-19T02:44:50.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4118,
+   "p": 1.4119,
    "ch": -0.13,
-   "asof": "2026-10-19T01:45:04.000Z"
+   "asof": "2026-10-19T02:45:13.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8242,
-   "ch": 0.07,
-   "asof": "2026-10-19T01:45:02.000Z"
+   "p": 0.8245,
+   "ch": 0.11,
+   "asof": "2026-10-19T02:45:14.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82420.35,
-   "ch": 0.5,
-   "asof": "2026-10-19T01:45:02.000Z"
+   "p": 82465.37,
+   "ch": 0.55,
+   "asof": "2026-10-19T02:45:08.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2424.56,
-   "ch": 0.68,
-   "asof": "2026-10-19T01:45:02.000Z"
+   "p": 2423.32,
+   "ch": 0.63,
+   "asof": "2026-10-19T02:45:10.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4194.2,
+   "p": 4193.9,
    "ch": 0.31,
-   "asof": "2026-10-19T01:35:04.000Z"
+   "asof": "2026-10-19T02:35:13.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 97.73,
-   "ch": -1.3,
-   "asof": "2026-10-19T01:35:03.000Z"
+   "p": 97.48,
+   "ch": -1.56,
+   "asof": "2026-10-19T02:35:11.000Z"
   },
   {
    "s": "USD/KES",
@@ -293,15 +293,15 @@
    "d": 2,
    "p": 129.65,
    "ch": 0,
-   "asof": "2026-10-19T01:38:42.000Z"
+   "asof": "2026-10-19T02:20:28.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4628,
-   "ch": -0.07,
-   "asof": "2026-10-19T01:45:06.000Z"
+   "p": 16.458,
+   "ch": -0.1,
+   "asof": "2026-10-19T02:45:15.000Z"
   },
   {
    "s": "USD/NGN",
@@ -309,23 +309,23 @@
    "d": 2,
    "p": 1330.13,
    "ch": 0,
-   "asof": "2026-10-19T01:38:42.000Z"
+   "asof": "2026-10-19T02:20:28.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.73,
-   "ch": 0.68,
-   "asof": "2026-10-19T01:45:02.000Z"
+   "p": 105.13,
+   "ch": 1.07,
+   "asof": "2026-10-19T02:45:10.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3107,
-   "ch": 0.44,
-   "asof": "2026-10-19T01:45:01.000Z"
+   "p": 1.3104,
+   "ch": 0.41,
+   "asof": "2026-10-19T02:45:09.000Z"
   },
   {
    "s": "Apple",
@@ -357,7 +357,7 @@
    "d": 3,
    "p": 57.56,
    "ch": 0.44,
-   "asof": "2026-10-19T01:34:39.000Z"
+   "asof": "2026-10-19T02:34:14.000Z"
   }
  ],
  "news": [
@@ -371,9 +371,9 @@
   [
    "Forex",
    "med",
-   "Monday open indicative forex prices, 19 October 2026",
-   "investingLive",
-   "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY2xYYjh4cXd2WkE1QmNkbURxX2hDSEZmbmpIVHVKNzQ3dTJVSGNBdnNDS2RRa1VXeUs0emNSeWlyZFdvd3JidE1iZjZ0UnI0QnViTTN6eENPbGJxd2RBUGRTTmtiNmdvRXhiVzlOTmVQc2Q0cFh3Nkp1LVR1WElrUTVvUXdabmhwZTJsYQ?oc=5"
+   "Japan PM Takaichi Denies She’s Driving Weak Yen, High Rates: JPY/USD",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaV92VVR5SUNFUy1TdGlCR1lpN2pUcDVyX0VMWDBjdVk5bFBKTXZQLVhVZlhUU2lWWlZKWmRDSUJsWHVORE5kMWUxM2ZKOUd4TXBwYVhxLUFBaFBtMmFkMThTRlhwOGJMVXVuMjhhOWhya2Zyanc2cFZHdjF5V2t4Q1EwSzJRTTNGa1VLWnJkUE91dVVkOG9zZ0dfbEkzT1NFUl83eER4SnUxbjVqZ3c?oc=5"
   ],
   [
    "Crypto",
@@ -384,24 +384,24 @@
   ],
   [
    "Crypto",
-   "high",
-   "Shock Leak Triggers Sudden Bets On A Massive Bitcoin ‘Bailout’ Amid Price Crash Fears",
-   "Forbes",
-   "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS0VXdExqeEhJLUdMN1FqYjFKcGc1VTFlalRubDBkSXRXWTZVVVk0bmpOdkVnWTE5TFl2bnNBclBGVWZtYmVxUkJlRU5rbW1xbnZKS0VkcXY4NHVkUzRTUEx6SDJxNEZjNWZnTW9kVEFWV2hMdzN0dHczeUd4ZmFveThBd3pLSDJKWXdUMlFNZENhZlRodnhZMk8yUVpqVmJscXNzaTYtblF1dEhsZS1FclNnWlNhSjB3S0E?oc=5"
+   "med",
+   "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdElCYzJvU0J4M0pFNkpKSjc5U0JxS1RRZmZPS3czWnNPaU9XaFUzclhTV1pYMnlhMFBrTnNWMmZJVndEeVI5a2Fxa1FmcS1DM0ZBOWp2MERkdEFKVVRZckxHQ0pzaG5jT0ZNU2NMellvVkROaEw3SHI1WmoyNmRBTlZKZ0hGMjlJR09taUgzMEgzQWRGS2ZpMnVfRU5HaXlhakpfazQxc2wtNUdGNG1r?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Exclusive | Some Wall Street Leaders Are Weighing Bailing on ‘Davos in the Desert’ After Attacks on Riyadh",
+   "Nikkei Falls 1.8%, Tracking Wall Street’s Losses",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUmRvOVpCNUVyUnNIS1ZxazlkU2VLbm5jaEMzQThEV3FRR1pDX0I1QTlTajNKVGtZaEMyTnZoM1pUcmMwSmlUMEZIYVNQQ3RWMWVUSC1xbEQyb0VwMnUzaXlYUjNkeDVNZmRtendEdEVtVzMtM0Y5TW8tMV9YdkRQV3FtdDNKbzZYcHBlOE1WZE51UzZhWTVoVWsyUlpwSWxmUkI0SncyN2pTcTJWMGhJbW5MN0RBS1RCWHFaYjRoYmE5dUlSWGZOeQ?oc=5"
+   "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWVpCTGEzNHM2dnhMVW9kU1JJcTAtMnd1YVRWZW5iNjlldk1OcTMzMjJrNkVTM3hVVW1HT3paWVZDbElDcXU0MENtbFFWcF9uQkF2cmIwRjM3RFVNaEJ3Vk1BNVdGR3VhVGNFZDIyYlEwSnFYTDRvV0E3cnJnS0RZQjdLTkowT3RCYjZsaUFvRzV1Rkk?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Anthropic IPO Buzz Has Investors Watching Nasdaq Stock And ECM Fee Winners",
+   "Black Monday Fears Fade as Nasdaq Futures Rally After Friday Selloff",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT24xWUZOYW1fTVo2T0dGYmhtV01KRmRNLXhPY0Vtb0V1bG1vVVhSQ0MtNS14TmthYlFaTGdUTnJzSjFUaHRfcnlxZUFLS0lGU2hucnFaUVRVU1VFLXF3WlA3LXpPZVZMbHhkQXNSSS1jbjNDZXNiVmt5WVJzdnZBdU5zaHUxcE9lYV9md1FaVE1qWTVmOUt0aVZObm1kNDMzZlJCZw?oc=5"
+   "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUF9FbkFxa1BxR1lUN0dkWkp6N2t6OTlsYU9qdzd5cENyRXlZcFR3UFdZSE1RN0o3Q2JPa1NyMHlUZy05UEFvRnAzVDA1WUR4M0tMNENibjRlSnFDRWhuYncwZzdtS2tvaE5kSGlBUVE5Q05xMVlWbHFYLUtZaFhycm9IYVVqZUJ5Um9VT1lXZjdrWGxPcnlYekhtMA?oc=5"
   ],
   [
    "Commodities",
