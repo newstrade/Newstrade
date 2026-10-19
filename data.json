@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T07:02:55.497Z",
+ "updated": "2026-10-19T07:59:21.302Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1228,
-   "ch": -0.14,
-   "asof": "2026-10-19T07:02:50.000Z"
+   "p": 1.1192,
+   "ch": -0.46,
+   "asof": "2026-10-19T07:58:47.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3334,
-   "ch": 0.03,
-   "asof": "2026-10-19T07:02:50.000Z"
+   "p": 1.3309,
+   "ch": -0.16,
+   "asof": "2026-10-19T07:58:47.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.937,
-   "ch": -0.03,
-   "asof": "2026-10-19T07:02:54.000Z"
+   "p": 158.158,
+   "ch": 0.11,
+   "asof": "2026-10-19T07:59:21.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6982,
-   "ch": 0.47,
-   "asof": "2026-10-19T07:02:50.000Z"
+   "p": 0.6973,
+   "ch": 0.35,
+   "asof": "2026-10-19T07:58:47.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.409,
-   "ch": -0.33,
-   "asof": "2026-10-19T07:02:55.000Z"
+   "p": 1.4101,
+   "ch": -0.25,
+   "asof": "2026-10-19T07:59:21.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8236,
-   "ch": 0,
-   "asof": "2026-10-19T07:02:55.000Z"
+   "p": 0.825,
+   "ch": 0.17,
+   "asof": "2026-10-19T07:59:19.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82773.87,
-   "ch": 0.93,
-   "asof": "2026-10-19T07:02:50.000Z"
+   "p": 82632.93,
+   "ch": 0.76,
+   "asof": "2026-10-19T07:59:15.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2428.27,
+   "p": 2428.35,
    "ch": 0.83,
-   "asof": "2026-10-19T07:02:50.000Z"
+   "asof": "2026-10-19T07:59:18.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4200.3,
-   "ch": 0.46,
-   "asof": "2026-10-19T06:52:53.000Z"
+   "p": 4202.3,
+   "ch": 0.51,
+   "asof": "2026-10-19T07:49:14.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 96.98,
-   "ch": -2.06,
-   "asof": "2026-10-19T06:52:50.000Z"
+   "p": 96.91,
+   "ch": -2.13,
+   "asof": "2026-10-19T07:49:18.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4505,
-   "ch": -0.15,
-   "asof": "2026-10-19T07:02:56.000Z"
+   "p": 16.4913,
+   "ch": 0.1,
+   "asof": "2026-10-19T07:59:21.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 105.69,
-   "ch": 1.6,
-   "asof": "2026-10-19T07:02:48.000Z"
+   "p": 105.55,
+   "ch": 1.47,
+   "asof": "2026-10-19T07:59:13.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3132,
-   "ch": 0.63,
-   "asof": "2026-10-19T07:02:41.000Z"
+   "p": 1.3124,
+   "ch": 0.57,
+   "asof": "2026-10-19T07:59:18.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.805,
-   "ch": 0.87,
-   "asof": "2026-10-19T06:52:53.000Z"
+   "p": 57.71,
+   "ch": 0.71,
+   "asof": "2026-10-19T07:49:20.000Z"
   }
  ],
  "news": [
@@ -406,16 +406,16 @@
   [
    "Commodities",
    "med",
-   "Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East",
+   "Oil prices slide as sanctions relief on Russian crude raises hopes of increased supply",
    "CNBC",
    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUUdqTmNWUUFKcWcydVFMaU5uUkthdnpkZ3Z1Y0FaTU54UjdfZDlfYnNJcTU0WTNGU1hRa0Etc3pFNjNPQjBXcjB5S3pFbGMyRUlLTjVoTzdNQjNWVTJsZTNVUER4NDdDQWZMdWdhWnBGR1NkWDJQYnlVT3lJUGsyZmlMY1BKQXliNUZMVHZXWdIBlAFBVV95cUxQMnMyZDFwdWNxYnZScnhQRUlrUnJzcGZPcHQtRTFNWXNURXFBZC1CMThXXzlCLWt4NFpIRDFvREpUSDlVU1h4RDF5UU51Z1VOaVU1WHBWWFN1V1NhSjFMM0hTS3pqOVZXTi1jbnIzYUlNMGo1eGh1RjA0eHRvSWRQT05WNVpUOGl0SkhlU01MdzlsYnhu?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "America Needs 48,000 Tons of Rare Earth Magnets. It Only Makes 300",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU3ZtdnpLQzdoNXVCcjZMc3RTN3h5dU9GNHo1X1NqcXFpTzBIUEhWcGtxTEx2V3h4cy1mWFh4YlNVeTRtcndkRzVFV1BkRVJVOTNmdjA4SXYtZ0g2bzdmQ2RzRnpPSk1PazNlM2hDa3FsczlYUnByZ0lZMC1PdFVabWRFOHFIYU1kNEdvNHBDUC1sSUxvTjFOVWtCUU1EN201dG03NkM3N2VRRjZTczJHdkl30gG3AUFVX3lxTE9ueFQ2MzlCVzFKR3dSWHNmY2hyZVF2LXM2SFJ1ZV9tX3h0TENxTVBEazZmcUJqaGlmdnNDYjNVcGNjV3lRakkwNlNNZnF3S1JMS0JGMzZkLS14STJQZUJidi10OW5mcUNOUExOODRuR0I1bEhRamZ6VXJxRTJoM0VKMGdDa0xaNXJVTGpvOHZOYlZieFdXYzhtbWlSZnJ1c05XcHZreWlweXlMWUVXX3FjLUNfUnNmUQ?oc=5"
+   "Why Is the Gold Price Falling Even as ETF Investors and Central Banks Pile In?",
+   "Morningstar",
+   "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQmp4WURLUERsZW9SejRzNVBmTjJvdUE0ZGNjNUxZRjlkOGRTckJJbmFpRHFLU1ZfOUZ4WVFqcXJIdHZHNU5GX05yQ3Rod3FiTFplbUUwMjdoWFlJWTlFYkxNWHhnRlYwSVdlT2l3U0VUbU5vc1hhX013WjlLR2dKaWdQdi1NVmI1MjNaeHBXNHhwTEdYcTBSUDBOOHNjdlVFN2xyaGZMRXE4bmlt?oc=5"
   ]
  ]
 }
