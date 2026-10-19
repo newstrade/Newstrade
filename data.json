@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T20:45:56.447Z",
+ "updated": "2026-10-19T21:44:54.810Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1213,
-   "ch": -0.28,
-   "asof": "2026-10-19T20:45:49.000Z"
+   "p": 1.1216,
+   "ch": -0.25,
+   "asof": "2026-10-19T21:44:50.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3304,
-   "ch": -0.2,
-   "asof": "2026-10-19T20:45:49.000Z"
+   "p": 1.3305,
+   "ch": -0.19,
+   "asof": "2026-10-19T21:44:50.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.524,
-   "ch": 0.34,
-   "asof": "2026-10-19T20:45:54.000Z"
+   "p": 158.454,
+   "ch": 0.3,
+   "asof": "2026-10-19T21:44:55.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6981,
-   "ch": 0.46,
-   "asof": "2026-10-19T20:44:49.000Z"
+   "p": 0.6982,
+   "ch": 0.47,
+   "asof": "2026-10-19T21:44:50.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4106,
-   "ch": -0.22,
-   "asof": "2026-10-19T20:45:56.000Z"
+   "p": 1.4108,
+   "ch": -0.21,
+   "asof": "2026-10-19T21:44:54.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8268,
-   "ch": 0.39,
-   "asof": "2026-10-19T20:45:55.000Z"
+   "p": 0.826,
+   "ch": 0.29,
+   "asof": "2026-10-19T21:44:50.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81913.04,
-   "ch": -0.12,
-   "asof": "2026-10-19T20:45:51.000Z"
+   "p": 81960.51,
+   "ch": -0.06,
+   "asof": "2026-10-19T21:44:48.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2399.74,
-   "ch": -0.35,
-   "asof": "2026-10-19T20:45:51.000Z"
+   "p": 2401.18,
+   "ch": -0.29,
+   "asof": "2026-10-19T21:44:49.000Z"
   },
   {
    "s": "S&P 500",
@@ -261,7 +261,7 @@
    "d": 2,
    "p": 26430.887,
    "ch": 1.11,
-   "asof": "2026-10-19T20:45:55.000Z"
+   "asof": "2026-10-19T21:15:59.000Z"
   },
   {
    "s": "Dow Jones",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4157.7,
-   "ch": -0.56,
-   "asof": "2026-10-19T20:35:57.000Z"
+   "p": 4160.3,
+   "ch": -0.5,
+   "asof": "2026-10-19T20:59:59.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 98.37,
-   "ch": -0.66,
-   "asof": "2026-10-19T20:35:53.000Z"
+   "p": 98.24,
+   "ch": -0.79,
+   "asof": "2026-10-19T20:59:59.000Z"
   },
   {
    "s": "USD/KES",
@@ -293,15 +293,15 @@
    "d": 2,
    "p": 129.82,
    "ch": 0.13,
-   "asof": "2026-10-19T19:57:22.000Z"
+   "asof": "2026-10-19T21:05:36.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4258,
-   "ch": -0.3,
-   "asof": "2026-10-19T20:45:57.000Z"
+   "p": 16.4187,
+   "ch": -0.34,
+   "asof": "2026-10-19T21:39:42.000Z"
   },
   {
    "s": "USD/NGN",
@@ -309,23 +309,23 @@
    "d": 2,
    "p": 1325.04,
    "ch": -0.38,
-   "asof": "2026-10-19T19:57:22.000Z"
+   "asof": "2026-10-19T21:05:36.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.47,
-   "ch": 0.43,
-   "asof": "2026-10-19T20:45:54.000Z"
+   "p": 104.67,
+   "ch": 0.62,
+   "asof": "2026-10-19T21:44:53.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3005,
-   "ch": -0.34,
-   "asof": "2026-10-19T20:45:51.000Z"
+   "p": 1.3028,
+   "ch": -0.17,
+   "asof": "2026-10-19T21:44:48.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.2,
-   "ch": -0.18,
-   "asof": "2026-10-19T20:35:55.000Z"
+   "p": 57.23,
+   "ch": -0.13,
+   "asof": "2026-10-19T20:59:57.000Z"
   }
  ],
  "news": [
@@ -371,9 +371,16 @@
   [
    "Forex",
    "med",
-   "BC-US Dollar",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN2hPNkdjSXRla2pLUlhlWjhjM3dtZ083R1JhZEQ5UWpPeEIxTk9PZFl6YTRWTUU0WlBwU0liYVNqekVfQnlzeFZ5d0o5Rlo4ZmZwRU9EQVM0RWVoOVlJWVczZU9GZXNLQ2hpVGRJYWNEQnNSZzBBc1FMb1RsMXNXWGhNMy1CNnlx?oc=5"
+   "Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JVnBSTjI4Y21rVlR6Y1laVmg1VVJKQkNKTFh0ZXlrQWRrUUtBbWhUMmJlVUZXYVFmY1NEM3BaaU12ZHBVdWduajRlMVpFZTBiTDNDVnZxZTdJQ041V1J3clNKc1ZNRVJweC11MWpNWnhidHfSAXhBVV95cUxOUWgzZ3hhZUJVYXZRMWFFOWc0UjJrOGszMklNdzVidTBrb3ZkWG5PQW5nQUQxcVU1RS1sTkZDZmlHbnVwRUprN1UxZlhIendadzduQ0V6bXdBemdaYTdBd25rTURiNnl1RTlZdVM2ZFBybmFmZXVvWVA?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "Bitcoin Rebounds Above $82,000 as Oil’s Retreat Lifts Risk Mood",
+   "Bloomberg",
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSjNOcnl1dkZVdVpHMDVrSzhVU2FpVFZiUGQ2Wmp4ZWlyd2RFQ0xqNkRlWjJGOHBCY1lIMDN2RXBHZkhtQzcxdklTQk90Um5iblpOTU1adHRNNTk3TWs3VjBucGdOcHN0NVNIaFY1RWVId3NTLXVNTTlHOU1mYnFmSGVmZ1pMWG1HVmRtQjFmdEFUZTVzQkZmRkc4a2FobGJXd1Fyc2I5bTZGcEgxSkotbUhsRQ?oc=5"
   ],
   [
    "Crypto",
@@ -381,13 +388,6 @@
    "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
    "CoinDesk",
    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcVZSc3AzamZnZTJIcHgtT2JvT01kRE1tU2dZMWt3M2R6U3JvczlHLU9tUGJYMVh6MVNhRmtfVUpMWnFuTlFCZjRDUnRSalotazJPUFFaam1HOElwbGhlR1JYczVwWElfRjhMenJHTzJwSDQxcm0wcjR3ckFSVC1zSTlPTkRVM01vXzhpdnlxazJicEprSXBLdWtZUERMajZURElXQ1YtY0RPWWtId2s1ZjBxcnF4dm9FNUx6Zmp4SDZ4cHVXbUE?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "Strategy buys another $22 million of Bitcoin, increases planned share buybacks",
-   "Fortune",
-   "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN2x2QlN6SDI2LWNnTFA5Q0dKRFFmRWd4ZlFxbFdWbE9RaWFKT3FlUFN5bTdzdlZ4dmtpd09JUnlBVF9LTDctQkRFMmN4SnpkRXRvdjNxM29TQURZcjVGYnczQm5EYTJuMXB1SmlZZVNIMnhQN2huckRXaE9qVW5WV0JqS1ZOVjhpWnc?oc=5"
   ],
   [
    "Stocks",
@@ -413,9 +413,9 @@
   [
    "Commodities",
    "med",
-   "Current price of oil as of Oct. 19, 2026",
-   "Fortune",
-   "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KYndkRDVoRzRjN3dZdTJjSVQyczNiUHRTdERRS0ljYmdzNndrR05WRVhpY3VINUwwZGhMT2tOQ1N6UktTVV9lbkFKTDhiN3RUVFNmZnNzRXIyM292Q0NsVHFB?oc=5"
+   "Brent oil tops $109 after Houthi militants claim they attacked Saudi airports and Aramco facilities",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUUdqTmNWUUFKcWcydVFMaU5uUkthdnpkZ3Z1Y0FaTU54UjdfZDlfYnNJcTU0WTNGU1hRa0Etc3pFNjNPQjBXcjB5S3pFbGMyRUlLTjVoTzdNQjNWVTJsZTNVUER4NDdDQWZMdWdhWnBGR1NkWDJQYnlVT3lJUGsyZmlMY1BKQXliNUZMVHZXWdIBlAFBVV95cUxQMnMyZDFwdWNxYnZScnhQRUlrUnJzcGZPcHQtRTFNWXNURXFBZC1CMThXXzlCLWt4NFpIRDFvREpUSDlVU1h4RDF5UU51Z1VOaVU1WHBWWFN1V1NhSjFMM0hTS3pqOVZXTi1jbnIzYUlNMGo1eGh1RjA0eHRvSWRQT05WNVpUOGl0SkhlU01MdzlsYnhu?oc=5"
   ]
  ]
 }
