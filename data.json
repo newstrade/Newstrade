@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T10:46:22.181Z",
+ "updated": "2026-10-19T11:47:29.403Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,41 +187,41 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1215,
-   "ch": -0.26,
-   "asof": "2026-10-19T10:45:50.000Z"
+   "p": 1.1227,
+   "ch": -0.15,
+   "asof": "2026-10-19T11:46:52.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3331,
-   "ch": 0.01,
-   "asof": "2026-10-19T10:45:50.000Z"
+   "p": 1.3337,
+   "ch": 0.05,
+   "asof": "2026-10-19T11:46:52.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.207,
-   "ch": 0.14,
-   "asof": "2026-10-19T10:46:21.000Z"
+   "p": 158.175,
+   "ch": 0.12,
+   "asof": "2026-10-19T11:47:28.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6988,
-   "ch": 0.56,
-   "asof": "2026-10-19T10:44:50.000Z"
+   "p": 0.6991,
+   "ch": 0.6,
+   "asof": "2026-10-19T11:46:52.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4087,
-   "ch": -0.35,
-   "asof": "2026-10-19T10:46:21.000Z"
+   "p": 1.4074,
+   "ch": -0.45,
+   "asof": "2026-10-19T11:47:28.000Z"
   },
   {
    "s": "USD/CHF",
@@ -229,23 +229,23 @@
    "d": 4,
    "p": 0.8249,
    "ch": 0.16,
-   "asof": "2026-10-19T10:46:21.000Z"
+   "asof": "2026-10-19T11:47:29.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82273.04,
-   "ch": 0.32,
-   "asof": "2026-10-19T10:46:19.000Z"
+   "p": 82212.53,
+   "ch": 0.24,
+   "asof": "2026-10-19T11:47:27.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2423.73,
-   "ch": 0.64,
-   "asof": "2026-10-19T10:46:15.000Z"
+   "p": 2418.24,
+   "ch": 0.41,
+   "asof": "2026-10-19T11:47:27.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4186.7,
-   "ch": 0.13,
-   "asof": "2026-10-19T10:36:20.000Z"
+   "p": 4188.7,
+   "ch": 0.18,
+   "asof": "2026-10-19T11:37:17.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 98.39,
-   "ch": -0.64,
-   "asof": "2026-10-19T10:36:17.000Z"
+   "p": 98.15,
+   "ch": -0.88,
+   "asof": "2026-10-19T11:37:23.000Z"
   },
   {
    "s": "USD/KES",
@@ -293,15 +293,15 @@
    "d": 2,
    "p": 129.65,
    "ch": 0,
-   "asof": "2026-10-19T06:34:14.000Z"
+   "asof": "2026-10-19T11:32:01.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.438,
-   "ch": -0.23,
-   "asof": "2026-10-19T10:46:22.000Z"
+   "p": 16.4325,
+   "ch": -0.26,
+   "asof": "2026-10-19T11:47:28.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.79,
-   "ch": 0.74,
-   "asof": "2026-10-19T10:46:13.000Z"
+   "p": 104.61,
+   "ch": 0.57,
+   "asof": "2026-10-19T11:47:28.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3024,
-   "ch": -0.2,
-   "asof": "2026-10-19T10:46:16.000Z"
+   "p": 1.3012,
+   "ch": -0.29,
+   "asof": "2026-10-19T11:47:25.000Z"
   },
   {
    "s": "Apple",
@@ -355,25 +355,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.615,
-   "ch": 0.54,
-   "asof": "2026-10-19T10:35:14.000Z"
+   "p": 57.735,
+   "ch": 0.75,
+   "asof": "2026-10-19T11:37:24.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JVnBSTjI4Y21rVlR6Y1laVmg1VVJKQkNKTFh0ZXlrQWRrUUtBbWhUMmJlVUZXYVFmY1NEM3BaaU12ZHBVdWduajRlMVpFZTBiTDNDVnZxZTdJQ041V1J3clNKc1ZNRVJweC11MWpNWnhidHfSAXhBVV95cUxOUWgzZ3hhZUJVYXZRMWFFOWc0UjJrOGszMklNdzVidTBrb3ZkWG5PQW5nQUQxcVU1RS1sTkZDZmlHbnVwRUprN1UxZlhIendadzduQ0V6bXdBemdaYTdBd25rTURiNnl1RTlZdVM2ZFBybmFmZXVvWVA?oc=5"
+   "China's central bank studies making overnight rate its main policy rate",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQkZxcExIWnlGa1B2TFhUcjFWNDlzOWxQUUJnZkp3NlpJX3lwZXBvN05BN0xoRzhucmFJTWZwTUpDWUVPTzhpTWNnSGxYMDNCRjdYT0RacU1DWFEyclZHS3I2SDFUdWRkRE0wS0M2N1ZuZ3B6YjBENGlDU2R1R1FrMTdTWnJ1Z2pCUnVnM0FHWVh5X0dpRWxhbjJYS2J4X29CaEtLQWJaNFVWbEdRUG1fMEFRWlp4YmFOM0NDRkRlM0NjaE0?oc=5"
   ],
   [
    "Forex",
    "med",
-   "Bank Indonesia narrowly expected to hold interest rates despite market turmoil",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTklTTEZCYlRSNmVCNVNkb0Nybkd0cUNtNGpDQ28wT0lnclBoMlAxUlNPd3BycE5KRzZjTU1aOFcyWDJTbUhtcmVCWWVPdEs1d05GWHZJdnl2WHdSS1YxQ3E3ajNvLVB6a3RUcVpJTVUzdEZGMEgxaGZmLXdwV2R5QkEtWlltOXVoTGZZZDI5Y3pzS1dpcWJGM3UtYzQ2VDVPS1oyNzgyYm1RUmctOXR2eVN1YzJ2UzhjM1prV2xMd2FMeU45cmlpdk5n?oc=5"
+   "Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JVnBSTjI4Y21rVlR6Y1laVmg1VVJKQkNKTFh0ZXlrQWRrUUtBbWhUMmJlVUZXYVFmY1NEM3BaaU12ZHBVdWduajRlMVpFZTBiTDNDVnZxZTdJQ041V1J3clNKc1ZNRVJweC11MWpNWnhidHfSAXhBVV95cUxOUWgzZ3hhZUJVYXZRMWFFOWc0UjJrOGszMklNdzVidTBrb3ZkWG5PQW5nQUQxcVU1RS1sTkZDZmlHbnVwRUprN1UxZlhIendadzduQ0V6bXdBemdaYTdBd25rTURiNnl1RTlZdVM2ZFBybmFmZXVvWVA?oc=5"
   ],
   [
    "Crypto",
@@ -406,16 +406,16 @@
   [
    "Commodities",
    "med",
-   "Oil prices slide as sanctions relief on Russian crude raises hopes of increased supply",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUUdqTmNWUUFKcWcydVFMaU5uUkthdnpkZ3Z1Y0FaTU54UjdfZDlfYnNJcTU0WTNGU1hRa0Etc3pFNjNPQjBXcjB5S3pFbGMyRUlLTjVoTzdNQjNWVTJsZTNVUER4NDdDQWZMdWdhWnBGR1NkWDJQYnlVT3lJUGsyZmlMY1BKQXliNUZMVHZXWdIBlAFBVV95cUxQMnMyZDFwdWNxYnZScnhQRUlrUnJzcGZPcHQtRTFNWXNURXFBZC1CMThXXzlCLWt4NFpIRDFvREpUSDlVU1h4RDF5UU51Z1VOaVU1WHBWWFN1V1NhSjFMM0hTS3pqOVZXTi1jbnIzYUlNMGo1eGh1RjA0eHRvSWRQT05WNVpUOGl0SkhlU01MdzlsYnhu?oc=5"
+   "South African business confidence eases slightly in September on oil price uncertainty",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0hTOHVWUXFZR21CUTEybHNNbXhaY2pScWQ4am1kWTZKUzQ5cEZtakQwTU5vVXpiT0huRjBTbk5Ud2kwdDFjb2ctcXZ5MzZpdGhSNlBDUmNfaG9rajBTUG8xY19VQThmOWlMNERtSjJweTEwTkd0cWJpTWF0a041MHA5VHRMZU13VjZFbzJVcTlyR0dVU2FHWlZnS1hfb191UTF6b1ZrSjVCTkR5X1ZHa3Nobi1KT1U1ZF9qdXpITzAwTmJ4N1lodg?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "South African business confidence eases slightly in September on oil price uncertainty",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0hTOHVWUXFZR21CUTEybHNNbXhaY2pScWQ4am1kWTZKUzQ5cEZtakQwTU5vVXpiT0huRjBTbk5Ud2kwdDFjb2ctcXZ5MzZpdGhSNlBDUmNfaG9rajBTUG8xY19VQThmOWlMNERtSjJweTEwTkd0cWJpTWF0a041MHA5VHRMZU13VjZFbzJVcTlyR0dVU2FHWlZnS1hfb191UTF6b1ZrSjVCTkR5X1ZHa3Nobi1KT1U1ZF9qdXpITzAwTmJ4N1lodg?oc=5"
+   "Oil prices slide as sanctions relief on Russian crude raises hopes of increased supply",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUUdqTmNWUUFKcWcydVFMaU5uUkthdnpkZ3Z1Y0FaTU54UjdfZDlfYnNJcTU0WTNGU1hRa0Etc3pFNjNPQjBXcjB5S3pFbGMyRUlLTjVoTzdNQjNWVTJsZTNVUER4NDdDQWZMdWdhWnBGR1NkWDJQYnlVT3lJUGsyZmlMY1BKQXliNUZMVHZXWdIBlAFBVV95cUxQMnMyZDFwdWNxYnZScnhQRUlrUnJzcGZPcHQtRTFNWXNURXFBZC1CMThXXzlCLWt4NFpIRDFvREpUSDlVU1h4RDF5UU51Z1VOaVU1WHBWWFN1V1NhSjFMM0hTS3pqOVZXTi1jbnIzYUlNMGo1eGh1RjA0eHRvSWRQT05WNVpUOGl0SkhlU01MdzlsYnhu?oc=5"
   ]
  ]
 }
