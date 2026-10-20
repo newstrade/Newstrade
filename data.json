@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T22:43:42.577Z",
+ "updated": "2026-10-20T23:41:02.698Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -188,64 +188,64 @@
    "m": "Forex",
    "d": 4,
    "p": 1.1232,
-   "ch": 0.13,
-   "asof": "2026-10-20T22:43:27.000Z"
+   "ch": -0.07,
+   "asof": "2026-10-20T23:40:28.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3374,
-   "ch": 0.5,
-   "asof": "2026-10-20T22:43:27.000Z"
+   "p": 1.3373,
+   "ch": -0.04,
+   "asof": "2026-10-20T23:40:28.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.28,
-   "ch": -0.11,
-   "asof": "2026-10-20T22:43:41.000Z"
+   "p": 158.271,
+   "ch": 0.09,
+   "asof": "2026-10-20T23:41:00.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7015,
-   "ch": 0.47,
-   "asof": "2026-10-20T22:43:27.000Z"
+   "p": 0.7011,
+   "ch": 0.07,
+   "asof": "2026-10-20T23:39:28.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4063,
-   "ch": -0.32,
-   "asof": "2026-10-20T22:43:41.000Z"
+   "p": 1.4065,
+   "ch": 0.03,
+   "asof": "2026-10-20T23:41:02.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8257,
-   "ch": 0,
-   "asof": "2026-10-20T22:43:41.000Z"
+   "p": 0.8255,
+   "ch": 0.15,
+   "asof": "2026-10-20T23:41:02.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82923.98,
-   "ch": 1.32,
-   "asof": "2026-10-20T22:43:38.000Z"
+   "p": 82844.64,
+   "ch": 1.22,
+   "asof": "2026-10-20T23:40:59.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2455.19,
-   "ch": 2.08,
-   "asof": "2026-10-20T22:43:36.000Z"
+   "p": 2445.4,
+   "ch": 1.68,
+   "asof": "2026-10-20T23:40:59.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4147.5,
-   "ch": 0.12,
-   "asof": "2026-10-20T22:33:07.000Z"
+   "p": 4134.3,
+   "ch": -0.2,
+   "asof": "2026-10-20T23:31:00.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 98.17,
-   "ch": 0.36,
-   "asof": "2026-10-20T22:33:33.000Z"
+   "p": 98.35,
+   "ch": 0.54,
+   "asof": "2026-10-20T23:30:50.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,33 +299,33 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.3886,
-   "ch": -0.17,
-   "asof": "2026-10-20T22:43:41.000Z"
+   "p": 16.3924,
+   "ch": 0.08,
+   "asof": "2026-10-20T23:41:02.000Z"
   },
   {
    "s": "USD/NGN",
    "m": "Forex",
    "d": 2,
    "p": 1328.56,
-   "ch": 0.27,
+   "ch": 0,
    "asof": "2026-10-20T21:39:15.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 106.92,
-   "ch": 1.9,
-   "asof": "2026-10-20T22:43:39.000Z"
+   "p": 106.37,
+   "ch": 1.37,
+   "asof": "2026-10-20T23:40:57.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3384,
-   "ch": 2.74,
-   "asof": "2026-10-20T22:43:39.000Z"
+   "p": 1.3331,
+   "ch": 2.33,
+   "asof": "2026-10-20T23:40:54.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 58.17,
-   "ch": 0.29,
-   "asof": "2026-10-20T22:33:37.000Z"
+   "p": 57.945,
+   "ch": -0.09,
+   "asof": "2026-10-20T23:30:33.000Z"
   }
  ],
  "news": [
@@ -385,9 +385,9 @@
   [
    "Crypto",
    "med",
-   "Webull to debut crypto-linked perpetual futures in November",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQnU0YmVvcFVMMHlzTV9BdWNGdm0wXzJWOXNldUxJNkUwcExnczVWRzRDaGRwdEVNU252VENjVmpNV19fWEUwc3FBYmRZa0NsTWw2Z0NIdTNDb1lzMTFFSjVHdHlwYTQ4M2lhMmxzVWk4V3BGLWJxbmVsclZaQzNDNWVPS0ZWYld1TVpmeThWcjZOamdTSG9Cb3A3LWFFSkU?oc=5"
+   "JPMorgan Says Bitcoin Will Beat Gold and Stocks — After Years of Crypto Skepticism",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTEtzdm9UbFZodjdoOTFsbS1rQTdGRzBTZHhlbVZ3UFlHRENhNjlwOC1nbVU5dTlVVmhiNnFVNVl5LU40YVZUTVppM21YSlB0NUloTnI4eUtHWExhVmRrV25tTzRFdHJGWV9oeGhERm53WGxxUFdxaEpmbVQ0b0NNSlJyNVVacW9fSDVybk5xNGU5aEdKRVdrLVNhRlM?oc=5"
   ],
   [
    "Stocks",
