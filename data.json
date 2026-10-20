@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T23:43:51.615Z",
+ "updated": "2026-10-20T00:59:02.223Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1216,
-   "ch": -0.01,
-   "asof": "2026-10-19T23:43:47.000Z"
+   "p": 1.122,
+   "ch": 0.03,
+   "asof": "2026-10-20T00:58:48.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3309,
-   "ch": 0.02,
-   "asof": "2026-10-19T23:43:47.000Z"
+   "p": 1.3314,
+   "ch": 0.05,
+   "asof": "2026-10-20T00:58:48.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.569,
+   "p": 158.568,
    "ch": 0.07,
-   "asof": "2026-10-19T23:43:50.000Z"
+   "asof": "2026-10-20T00:59:01.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6986,
-   "ch": 0.06,
-   "asof": "2026-10-19T23:42:47.000Z"
+   "p": 0.698,
+   "ch": -0.03,
+   "asof": "2026-10-20T00:58:48.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4106,
-   "ch": -0.01,
-   "asof": "2026-10-19T23:43:46.000Z"
+   "p": 1.4095,
+   "ch": -0.09,
+   "asof": "2026-10-20T00:59:02.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8269,
-   "ch": 0.15,
-   "asof": "2026-10-19T23:43:50.000Z"
+   "p": 0.8259,
+   "ch": 0.02,
+   "asof": "2026-10-20T00:59:02.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81985.11,
-   "ch": -0.03,
-   "asof": "2026-10-19T23:43:48.000Z"
+   "p": 81617.11,
+   "ch": -0.28,
+   "asof": "2026-10-20T00:58:38.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2408.33,
-   "ch": 0,
-   "asof": "2026-10-19T23:43:51.000Z"
+   "p": 2398.56,
+   "ch": -0.27,
+   "asof": "2026-10-20T00:58:38.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4153.3,
-   "ch": -0.16,
-   "asof": "2026-10-19T23:33:49.000Z"
+   "p": 4154.4,
+   "ch": -0.14,
+   "asof": "2026-10-20T00:48:48.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 98.25,
-   "ch": -0.29,
-   "asof": "2026-10-19T23:32:46.000Z"
+   "p": 98.49,
+   "ch": -0.05,
+   "asof": "2026-10-20T00:48:46.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4115,
-   "ch": -0.03,
-   "asof": "2026-10-19T23:43:52.000Z"
+   "p": 16.4234,
+   "ch": 0.04,
+   "asof": "2026-10-20T00:59:03.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 105.12,
-   "ch": 1.06,
-   "asof": "2026-10-19T23:43:44.000Z"
+   "p": 104.62,
+   "ch": -0.29,
+   "asof": "2026-10-20T00:58:34.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3039,
-   "ch": -0.08,
-   "asof": "2026-10-19T23:43:49.000Z"
+   "p": 1.2968,
+   "ch": -0.46,
+   "asof": "2026-10-20T00:58:38.000Z"
   },
   {
    "s": "Apple",
@@ -355,18 +355,18 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.03,
-   "ch": -0.42,
-   "asof": "2026-10-19T23:32:49.000Z"
+   "p": 57.025,
+   "ch": -0.43,
+   "asof": "2026-10-20T00:48:28.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "China's central bank studies making overnight rate its main policy rate",
+   "South Korea central bank to hold rates on October 22, hike in November",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQkZxcExIWnlGa1B2TFhUcjFWNDlzOWxQUUJnZkp3NlpJX3lwZXBvN05BN0xoRzhucmFJTWZwTUpDWUVPTzhpTWNnSGxYMDNCRjdYT0RacU1DWFEyclZHS3I2SDFUdWRkRE0wS0M2N1ZuZ3B6YjBENGlDU2R1R1FrMTdTWnJ1Z2pCUnVnM0FHWVh5X0dpRWxhbjJYS2J4X29CaEtLQWJaNFVWbEdRUG1fMEFRWlp4YmFOM0NDRkRlM0NjaE0?oc=5"
+   "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRlhEb1c1OS1kZy1wc0paMktybGc1SFAxMlZSLWVEUXZQaHdNOTExdXZOMmtWbWZ1LVNzVEVUOTNSUWxwZ3VMaXFNVDd0VUV3SWdRYTZKcXdaQlB6SWpXeFhsMjcxUkZubVB3R1Y3SUhMY1B3Z29lalI2S2FjLVh3TDNmNTVxbTZHa3pxTl83emVjdjQ5MFNJUnd1NEpIZXJUWUh1ODZPekpZTjR6b01DeWxoa1ZGQQ?oc=5"
   ],
   [
    "Forex",
@@ -378,16 +378,16 @@
   [
    "Crypto",
    "med",
-   "Bitcoin Rebounds Above $82,000 as Oil’s Retreat Lifts Risk Mood",
-   "Bloomberg",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSjNOcnl1dkZVdVpHMDVrSzhVU2FpVFZiUGQ2Wmp4ZWlyd2RFQ0xqNkRlWjJGOHBCY1lIMDN2RXBHZkhtQzcxdklTQk90Um5iblpOTU1adHRNNTk3TWs3VjBucGdOcHN0NVNIaFY1RWVId3NTLXVNTTlHOU1mYnFmSGVmZ1pMWG1HVmRtQjFmdEFUZTVzQkZmRkc4a2FobGJXd1Fyc2I5bTZGcEgxSkotbUhsRQ?oc=5"
+   "Current price of Ethereum for October 19, 2026",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNWWd3blY0NUhldlZKclJveGd4Ym1iRHBWWjVVSkdlcTdKbVptaC1xUUswbnQwR1B3aXNjTXBzNWV4eC1QamJYazhHaDNEZ3JaYlFscXhIWDA0NG9jeWlCa2lEQWlFT0It?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Strategy buys another $22 million of Bitcoin, increases planned share buybacks",
-   "Fortune",
-   "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN2x2QlN6SDI2LWNnTFA5Q0dKRFFmRWd4ZlFxbFdWbE9RaWFKT3FlUFN5bTdzdlZ4dmtpd09JUnlBVF9LTDctQkRFMmN4SnpkRXRvdjNxM29TQURZcjVGYnczQm5EYTJuMXB1SmlZZVNIMnhQN2huckRXaE9qVW5WV0JqS1ZOVjhpWnc?oc=5"
+   "Bitcoin Volatility Hits 2.5-Year Low as Traders Brace for 30% Move",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWUhfV09XYkNKY2NzY2JPbDYtejd5LXEwYmFvQ29pNldBXzJKSlJDUjZIVlpWbGdjY3ZmUnk0aG1NZnZVOFBnV2NBejFWcDlSVU1DTzhTemhZZXlRWXRORUtCdXZ0Z0FObGd4Z3JqNmRUazMzcjl3ZFRNLWVISzBJT1NueHpub0ZjSlJxb1VhWUx5UHdOZ0lR?oc=5"
   ],
   [
    "Stocks",
@@ -406,16 +406,16 @@
   [
    "Commodities",
    "med",
-   "Current price of oil as of Oct. 19, 2026",
-   "Fortune",
-   "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KYndkRDVoRzRjN3dZdTJjSVQyczNiUHRTdERRS0ljYmdzNndrR05WRVhpY3VINUwwZGhMT2tOQ1N6UktTVV9lbkFKTDhiN3RUVFNmZnNzRXIyM292Q0NsVHFB?oc=5"
+   "Iraq's October Oil Exports Top 3.4 Million Bpd, Nearing Pre-War Levels",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRlIzdmxNd1JsN0ladXRfVXBwRVdpYklMcnNuc1B0RkhFLXBjcUxxXzJnSjhpQ2hReGZJN1dGM1U3bGl2SFBRZ2c4OTV4Qld6RjZYaVB1Xy1KNk9mRmh5ZVlKYkVWTTVYWlJxaktESGZyRmV3eS1xSXlnbk92VUQtdzJZd25QejhBdV81dWNBTUI4U3p3eEwzaEtYLVpsTVVZR3Ixa1gyR0F6dW5IX2NDRTBUQ2tuSEdpaUlDR2dzZi3SAcYBQVVfeXFMTjBqVGtyQnlBVHZJOXlNVFh6a1J0WTVnZllVT1l5S1p3YWF4Mk1iX3p3U3BVNmJTVUZqS2hYZTdrTEVtUFppaV9XTlpXbnlXUDRGT0l0d0VKZVZaRDFXV2ZURGhWNzJtNzlwZHdrM2FvRHhBY2JfdExab2lEV3JrSV9nMGcwUmthSGp4dVlEMktsOFAwTGVpcUtyVnZKT0lWaFdZSGROejJ4bHRPbnlvUUIwZzVfNmhUdy13ZXkwWmZyTG93cUZB?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Iraq's October Oil Exports Top 3.4 Million Bpd, Nearing Pre-War Levels",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRlIzdmxNd1JsN0ladXRfVXBwRVdpYklMcnNuc1B0RkhFLXBjcUxxXzJnSjhpQ2hReGZJN1dGM1U3bGl2SFBRZ2c4OTV4Qld6RjZYaVB1Xy1KNk9mRmh5ZVlKYkVWTTVYWlJxaktESGZyRmV3eS1xSXlnbk92VUQtdzJZd25QejhBdV81dWNBTUI4U3p3eEwzaEtYLVpsTVVZR3Ixa1gyR0F6dW5IX2NDRTBUQ2tuSEdpaUlDR2dzZi3SAcYBQVVfeXFMTjBqVGtyQnlBVHZJOXlNVFh6a1J0WTVnZllVT1l5S1p3YWF4Mk1iX3p3U3BVNmJTVUZqS2hYZTdrTEVtUFppaV9XTlpXbnlXUDRGT0l0d0VKZVZaRDFXV2ZURGhWNzJtNzlwZHdrM2FvRHhBY2JfdExab2lEV3JrSV9nMGcwUmthSGp4dVlEMktsOFAwTGVpcUtyVnZKT0lWaFdZSGROejJ4bHRPbnlvUUIwZzVfNmhUdy13ZXkwWmZyTG93cUZB?oc=5"
+   "South African business confidence eases slightly in September on oil price uncertainty",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0hTOHVWUXFZR21CUTEybHNNbXhaY2pScWQ4am1kWTZKUzQ5cEZtakQwTU5vVXpiT0huRjBTbk5Ud2kwdDFjb2ctcXZ5MzZpdGhSNlBDUmNfaG9rajBTUG8xY19VQThmOWlMNERtSjJweTEwTkd0cWJpTWF0a041MHA5VHRMZU13VjZFbzJVcTlyR0dVU2FHWlZnS1hfb191UTF6b1ZrSjVCTkR5X1ZHa3Nobi1KT1U1ZF9qdXpITzAwTmJ4N1lodg?oc=5"
   ]
  ]
 }
