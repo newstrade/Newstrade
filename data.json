@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T10:45:37.088Z",
+ "updated": "2026-10-20T11:45:41.419Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1215,
-   "ch": -0.02,
-   "asof": "2026-10-20T10:45:27.000Z"
+   "p": 1.1212,
+   "ch": -0.04,
+   "asof": "2026-10-20T11:45:29.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3343,
-   "ch": 0.27,
-   "asof": "2026-10-20T10:45:27.000Z"
+   "p": 1.3342,
+   "ch": 0.26,
+   "asof": "2026-10-20T11:45:29.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.09,
-   "ch": -0.23,
-   "asof": "2026-10-20T10:45:36.000Z"
+   "p": 158.2,
+   "ch": -0.16,
+   "asof": "2026-10-20T11:45:40.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6993,
-   "ch": 0.16,
-   "asof": "2026-10-20T10:45:27.000Z"
+   "p": 0.699,
+   "ch": 0.11,
+   "asof": "2026-10-20T11:45:29.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4048,
-   "ch": -0.43,
-   "asof": "2026-10-20T10:45:36.000Z"
+   "p": 1.4052,
+   "ch": -0.4,
+   "asof": "2026-10-20T11:45:39.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8243,
-   "ch": -0.17,
-   "asof": "2026-10-20T10:45:37.000Z"
+   "p": 0.8245,
+   "ch": -0.15,
+   "asof": "2026-10-20T11:45:40.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81405.35,
-   "ch": -0.54,
-   "asof": "2026-10-20T10:45:30.000Z"
+   "p": 81419.18,
+   "ch": -0.52,
+   "asof": "2026-10-20T11:45:32.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2380.94,
-   "ch": -1,
-   "asof": "2026-10-20T10:45:29.000Z"
+   "p": 2382.2,
+   "ch": -0.95,
+   "asof": "2026-10-20T11:45:30.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4137.8,
-   "ch": -0.54,
-   "asof": "2026-10-20T10:35:36.000Z"
+   "p": 4143,
+   "ch": -0.41,
+   "asof": "2026-10-20T11:35:34.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 100.74,
-   "ch": 2.23,
-   "asof": "2026-10-20T10:35:29.000Z"
+   "p": 101.18,
+   "ch": 2.68,
+   "asof": "2026-10-20T11:35:41.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4571,
-   "ch": 0.24,
-   "asof": "2026-10-20T10:45:37.000Z"
+   "p": 16.4673,
+   "ch": 0.31,
+   "asof": "2026-10-20T11:45:41.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 103.83,
-   "ch": -1.05,
-   "asof": "2026-10-20T10:45:32.000Z"
+   "p": 104.01,
+   "ch": -0.88,
+   "asof": "2026-10-20T11:45:34.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2901,
-   "ch": -0.97,
-   "asof": "2026-10-20T10:45:25.000Z"
+   "p": 1.2969,
+   "ch": -0.45,
+   "asof": "2026-10-20T11:45:37.000Z"
   },
   {
    "s": "Apple",
@@ -355,18 +355,18 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.26,
-   "ch": -0.02,
-   "asof": "2026-10-20T10:35:31.000Z"
+   "p": 57.36,
+   "ch": 0.15,
+   "asof": "2026-10-20T11:35:29.000Z"
   }
  ],
  "news": [
   [
    "Forex",
-   "med",
-   "Brazil central bank looks to encourage responsible lending in consumer debt crackdown, sources say",
+   "high",
+   "Sterling rises as strong labour market data reinforces rate hike bets",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbVNIX1FUZlA3bUZzWWJoT3VRSXRxTUtQZnE3akZ1T05ZRGVQdXBPY0RYVGhjWXRMUWctcGx3akhycVJQT1VPSXRXalRsUi1ET0J4SDdsLWZMNmNRZU9KSmQ0cU5NOGNFcDRkb0JQTDZDNWJwOFNTM0J5Z2FkOU0zTWExcUNObEctaWsyRDFfaUJ0UDlpcnQ2MHlQc3ExVVFjejRzdEZQNjVxWGx4Y0JNVUZuOS1PU1IydmVKcDN1RGFvNHFSc3VHUkRn?oc=5"
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeVc2VlJwWldpcmYtQ0FXa2JtemMzSXJtTTM4T01kRl9sTmNTUDk4Sldrc0xONWZEY0ZQcVlWYjhwWjg3Ql9KQWJxQ0psYXlhTXhiZEVvVmVyOE5sSVAyc19JY084LVhLWjNCN3dzV2pPd0RnN3paMTlxdEhYdGl1WmNoWW9BUlRoMTZRMlE3YnM5RkNfYVlULXZydkhFVUt1d1RTUjNwV0JxbHdTTVVkSQ?oc=5"
   ],
   [
    "Forex",
@@ -378,16 +378,16 @@
   [
    "Crypto",
    "med",
-   "JPMorgan Bitcoin Forecast Gives BTC a Major Edge Over US Stocks",
+   "Bitcoin and ethereum prices today, Tuesday, October 20, 2026: Crypto prices slide and oil costs soar as Mid-East attacks persist",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVDBvUlpIempQYmNrZUxqeE11cE14cWcyalZ4cnQzM3NtT2VRdjhRRWxVR3R6SWZxaWFicmVUNGIzTTFpMnJlYUVoWl9BZ2QwZnJENmtjbjhULXZnOGJkSFpwMmdKSFBHeW50RnRlbnE4cUgxUFNaWkNUMEZoV1JhOEFpR0I4SXdPX0Q0OHlVX0xKTEFseVpBcXNXYW9NcTNOZXc?oc=5"
+   "https://news.google.com/rss/articles/CBMipwJBVV95cUxQRlloVU1fUWJtNGhCQkh3MEdOQUlqQnVSd0VROXI0dnY4a1hVUTBvZ1F6b0xEZi1kaVRoT1NzbndsbW41emZHNXd0c3BrQmhyVzZva1NNTENwOE04UjYxb1pZYnJUZ0ZaWGIwTW5mU2I5cERvWlE1bnkySmlHYnB2VU5rNm02UF9PTk1XSlZlN3VhVzRNa0J6U3dEa3QxSGZLWXY0UzVSZGNYZmtwcW5ib0x4YS1yaE5NVll0NTY4TURqUkJkNmhybWJrZ21fcmpHM1VZQmJZSXdnRF9qSlNHd1ZQRkk3WDQ4bEI5aG4xT0haejhuTDZMNFYyWlpObWRCVUJEdUhIRHdTOHdxVTh5VkhpWm5NMWdFb2JBMkFRT1Ffcm5Iczk4?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
+   "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
    "CoinDesk",
-   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS0xBc3JrNWFQOTFhWHd0RldSYnhfd0t5SE5hM0RFYUt4bUxtWnJhRWhsWG1uamhPei1OV2JpVTNYMTVJMFFqV0xPRmlIMWY1MGs4aUdVQ0JPZklXRU9hcEF3NkNBMzJKdGduMTZCLTRWNFBaTUxJRURHNk5lSkRNY0lfT3lhamFHd2pDYzZ6UjlfeWtnV1ZTVVdia0hNTHZVQVJHQnBqQnVUTGJLbmIwSGVzNEhaSS1kQUZkSVpxemQ0QQ?oc=5"
+   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSFZrdWRNLWM3SjEwY2JadFgwMEtiaFYtQks3c1BUTlFlbVFld2lCNWpsVnljeTBWcUdITUxoS3dQOXgtWXE5SktFSERjbTZqS1ZCUmM3TFpwZHk4Uzdodk5IcXUwZk1OOGtPQVdiT2JZdnN4eUFyTmQxSmpvT3liR0JneVRlclJXbllVTW5adFczQ2o3QjItYzBwSnRHczY5QlNubFpkc2UyRFVpanljMVNJWUdPXzNBaTNKRWtMSXpadDd5SGxubQ?oc=5"
   ],
   [
    "Stocks",
@@ -399,16 +399,16 @@
   [
    "Stocks",
    "med",
-   "US Stock Market Today: S&P 500 Futures Climb On Strong Factory And Earnings Hopes",
+   "3 S&P 500 Stocks That Concern Us",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb181NVVQOGxjYi1acUpMcktxS1ZyZzJ1ZnpzRUY1M1JLWVZBLWhETHlQV0Rmem5CS2VuV0tFVTRnY1VHR2RLNXFwVVlidHY1NlBBeGd6OGhJcHNiX2dnVnU2NHhrelY2RTlmdmNHR1V4Vl8wU1p0al9Pb0gyU3BKMEc2SWphZzhXUXJndzdFbk5udw?oc=5"
+   "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc3QwUXNsUUxEZzNlR2lQSDF2bjhZbHdobW9ZZDJ3QXRESGZmcEVkT29acWtGSlFWeVE1R29GeFVLN1FGMWdadmYwdko1c21QeUxNOXI5UFRsa29GQTVUaEVsUXRLYVlWUTJnOGZvdlBVZkhUZjVTbDhkN1Q3QjZwLUc1X1ozZVZVckJGLU90bG8?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Brent hits five-month high as attacks on ships, Saudi sites fuel supply worries",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZlA3RXBMd0lXRU1feWpodXpZQ2tnUERkUHFQSlFGX2hCMjdrOVdhRVd2eVk3dmhLYklUdVM1WGtoXzc0cUt2OG44WjBYVFVZazFvQWo1UmJWRlliNzJHWlZBU1hScTU1RU9sVEdDVllsSWE4UXh5b0ZHX0VlU01fNDc3ckpxRkw3ZGdaM0xxMW1qOEhWck1XYUlSVkJWeVZyZWRRSkpqdTFQSmZhejlBRmkxZUJmMGtPVWx6Ym82SnNTcElaWGc?oc=5"
+   "U.S. oil surges to top $109, Brent crude at five-month high amid Mideast tensions",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMib0FVX3lxTE03NjBGWFYwdTRJdGVxMnJ4QVNWUzNxeW9BUzZUTThjU3V5NThLWDBHdUx2RVhFMEI3WnVsdzBQVWtvZ1FUelQ4bkgyNk9MTmxFeWV4eFRoRWZVV3JQTEpQSVI1aXNpTW9uVk5IX3VNSdIBdEFVX3lxTE5BVFpmcUNCZTlrOXhpOGttMmlaLW03M3pabEk3TzVReVhkYmc4b0xLNU9henJ4Tl9uVkc2OHJ4UjVNUmlYdGp6Y3FyZXFFbVU0ZF9Zb3RELW1Pb3Q2RFlQVHBDUTRrTVVkZHdaUmZkNnI4Y21S?oc=5"
   ],
   [
    "Commodities",
