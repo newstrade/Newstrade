@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T05:45:10.827Z",
+ "updated": "2026-10-20T06:56:53.586Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1236,
-   "ch": 0.17,
-   "asof": "2026-10-20T05:44:27.000Z"
+   "p": 1.1231,
+   "ch": 0.12,
+   "asof": "2026-10-20T06:56:28.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3334,
-   "ch": 0.2,
-   "asof": "2026-10-20T05:44:27.000Z"
+   "p": 1.3351,
+   "ch": 0.33,
+   "asof": "2026-10-20T06:56:28.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.157,
+   "p": 158.159,
    "ch": -0.19,
-   "asof": "2026-10-20T05:45:10.000Z"
+   "asof": "2026-10-20T06:56:53.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6987,
-   "ch": 0.07,
-   "asof": "2026-10-20T05:43:27.000Z"
+   "p": 0.6999,
+   "ch": 0.24,
+   "asof": "2026-10-20T06:55:28.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4075,
-   "ch": -0.23,
-   "asof": "2026-10-20T05:45:11.000Z"
+   "p": 1.408,
+   "ch": -0.2,
+   "asof": "2026-10-20T06:56:53.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.825,
-   "ch": -0.08,
-   "asof": "2026-10-20T05:45:10.000Z"
+   "p": 0.8258,
+   "ch": 0.01,
+   "asof": "2026-10-20T06:56:53.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81837.02,
-   "ch": -0.01,
-   "asof": "2026-10-20T05:45:00.000Z"
+   "p": 81697.65,
+   "ch": -0.18,
+   "asof": "2026-10-20T06:56:43.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2401.79,
-   "ch": -0.14,
-   "asof": "2026-10-20T05:45:07.000Z"
+   "p": 2394.62,
+   "ch": -0.43,
+   "asof": "2026-10-20T06:56:37.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4151.3,
+   "p": 4151.4,
    "ch": -0.21,
-   "asof": "2026-10-20T05:35:08.000Z"
+   "asof": "2026-10-20T06:46:49.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 98.75,
-   "ch": 0.21,
-   "asof": "2026-10-20T05:35:08.000Z"
+   "p": 98.17,
+   "ch": -0.38,
+   "asof": "2026-10-20T06:46:52.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4065,
-   "ch": -0.07,
-   "asof": "2026-10-20T05:45:10.000Z"
+   "p": 16.3836,
+   "ch": -0.2,
+   "asof": "2026-10-20T06:56:54.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.7,
-   "ch": -0.22,
-   "asof": "2026-10-20T05:45:03.000Z"
+   "p": 104.53,
+   "ch": -0.38,
+   "asof": "2026-10-20T06:56:39.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3031,
-   "ch": 0.03,
-   "asof": "2026-10-20T05:45:04.000Z"
+   "p": 1.3,
+   "ch": -0.21,
+   "asof": "2026-10-20T06:56:39.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.47,
-   "ch": 0.34,
-   "asof": "2026-10-20T05:35:04.000Z"
+   "p": 57.63,
+   "ch": 0.62,
+   "asof": "2026-10-20T06:46:46.000Z"
   }
  ],
  "news": [
@@ -378,9 +378,9 @@
   [
    "Crypto",
    "med",
-   "MSCI (MSCI) Tightens Bitcoin Index Rules",
+   "Is Korea’s Chip Selloff a Crypto Buying Opportunity? Tom Lee’s Case and Its Catch",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxPYTBrX0lUUnpuZlNNZmRHZlNHb3ZPZTE2WldSSmxqVFhGdHZIazhLMHJqOUFaUzN1WGZMc0l0ckNzMVZwSDE2WnpTQmRzYWlrVER3ZW1rOER1QWxsMnNEemJTSWNJTVZvWXpMb01jLTU1SnNOcVNMRVEtZHJ1UXQyZklHLWR3dThaQXhSUklXMmpsc3BMdXBCeFo4a2RLdw?oc=5"
+   "https://news.google.com/rss/articles/CBMingFBVV95cUxOUWp6VE9jV214bkhqWkdRdDVFNDdnVnk0TldMTHg1b2h5VER5MUswdk50dUhNb0lSRVpzcVA2aTNWaUFWZDFzaUhnY2M0VFRKZXExcXV2VDVZc05DcU0zSlZvV1B4eDdid3pLbDlnVDUydW1UVmtBWWJlQ2g2amF1OEtyS3ZGYjNIWi1HeWtsVjFWNlNvTjlzelBMdmxzZw?oc=5"
   ],
   [
    "Crypto",
@@ -399,9 +399,9 @@
   [
    "Stocks",
    "med",
-   "Is this the beginning of the end of the AI stock market boom?",
-   "The Guardian",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdVNsUk9NYVNLT0R3VFNHZURrYU1aY0FKMkhibmFLWDVodnAwU0l1ZDhIVk5PQkY3d0RlcHBVSDQ1TEZtQkd3SUR4alNtaDFSYVU3eUZvQjJsWDNNWjA3ZGEyWFFDQXdNRDNyanRlek13QUJoUEZyLXFNMDBZWjEtVWRabWxQSTF5U2t3UFZoelQ2akdPcDQxMWtLbk14cC1YWmVlNVBIYzZoYXVQLUVJX3JR?oc=5"
+   "Where to Find Durable Dividends in Today’s Stock Market",
+   "Morningstar",
+   "https://news.google.com/rss/articles/CBMilwFBVV95cUxON3kzX01OcnBaV29HbjBaTm0zRkt2WUJFVlB3c0lhMmxhcVZVQm1COUN1NWU0d2piYXRQVEpsZFdUSzV0VXhOZlBNSlNHSXY4X3VqeFRybzJYNlNVTnVBUTZWZE0xdlZpNzFUY3JWNmZlcC1fQ193TWNEVW1ic2dYSG1QTHBOcFRwVFhhRk55QllUeXBlaGZV?oc=5"
   ],
   [
    "Commodities",
@@ -413,9 +413,9 @@
   [
    "Commodities",
    "med",
-   "Iraq's October Oil Exports Top 3.4 Million Bpd, Nearing Pre-War Levels",
+   "Brent Tops $110 as Tanker Attacks Threaten Persian Gulf Supply",
    "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRlIzdmxNd1JsN0ladXRfVXBwRVdpYklMcnNuc1B0RkhFLXBjcUxxXzJnSjhpQ2hReGZJN1dGM1U3bGl2SFBRZ2c4OTV4Qld6RjZYaVB1Xy1KNk9mRmh5ZVlKYkVWTTVYWlJxaktESGZyRmV3eS1xSXlnbk92VUQtdzJZd25QejhBdV81dWNBTUI4U3p3eEwzaEtYLVpsTVVZR3Ixa1gyR0F6dW5IX2NDRTBUQ2tuSEdpaUlDR2dzZi3SAcYBQVVfeXFMTjBqVGtyQnlBVHZJOXlNVFh6a1J0WTVnZllVT1l5S1p3YWF4Mk1iX3p3U3BVNmJTVUZqS2hYZTdrTEVtUFppaV9XTlpXbnlXUDRGT0l0d0VKZVZaRDFXV2ZURGhWNzJtNzlwZHdrM2FvRHhBY2JfdExab2lEV3JrSV9nMGcwUmthSGp4dVlEMktsOFAwTGVpcUtyVnZKT0lWaFdZSGROejJ4bHRPbnlvUUIwZzVfNmhUdy13ZXkwWmZyTG93cUZB?oc=5"
+   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaW83NHlCcUdTYUZfc2xfc3FheUdVSFNsbTIyQ1JxYlFQREsyRUlKR19LRlBpOTNfSGtUVDFJaXNfM09IOVgwcEhjb25IMEhwYi1xMEhHekpNZEhzSzVSX013S3h4RTlBXzdLbWFoUmRMU0ZzVTQwODRoR2c3aS10SnlwcWRIdjNDVm1HYXlSQmlDWHZoMWtXaEhNQ2pKaW1Zcjg4UUIwZ2IxZ0ZLTERrU3pWX2ZtMXdW0gG-AUFVX3lxTFBkOE5nNUFqMTR2OGxNSk1pLVB2VHpMeEtSV3ZlMFFnV2FDUF9oenB4UjhyUms0REY5N3JvVmhYckN4VjZkT25LYS1rU19ZSWpfdDlNc0NLbGV1ZlFmNUdkVTdEODBfTEhHdlJ4T2hySy1Odk4wSGNkSWNCdndEX3lrNWNyekduVXJFQkZpSTR4UnFFcktNX2k1UDlkMDlVUktOUS1qZGJtZ3R5cU1zQmllMC1Fcm55bnZWcjc2bFE?oc=5"
   ]
  ]
 }
