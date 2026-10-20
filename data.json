@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T04:44:50.378Z",
+ "updated": "2026-10-20T05:45:10.827Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -189,7 +189,7 @@
    "d": 4,
    "p": 1.1236,
    "ch": 0.17,
-   "asof": "2026-10-20T04:44:48.000Z"
+   "asof": "2026-10-20T05:44:27.000Z"
   },
   {
    "s": "GBP/USD",
@@ -197,55 +197,55 @@
    "d": 4,
    "p": 1.3334,
    "ch": 0.2,
-   "asof": "2026-10-20T04:44:48.000Z"
+   "asof": "2026-10-20T05:44:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.194,
-   "ch": -0.17,
-   "asof": "2026-10-20T04:44:50.000Z"
+   "p": 158.157,
+   "ch": -0.19,
+   "asof": "2026-10-20T05:45:10.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6986,
-   "ch": 0.06,
-   "asof": "2026-10-20T04:44:48.000Z"
+   "p": 0.6987,
+   "ch": 0.07,
+   "asof": "2026-10-20T05:43:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4081,
-   "ch": -0.19,
-   "asof": "2026-10-20T04:44:48.000Z"
+   "p": 1.4075,
+   "ch": -0.23,
+   "asof": "2026-10-20T05:45:11.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8248,
-   "ch": -0.11,
-   "asof": "2026-10-20T04:44:49.000Z"
+   "p": 0.825,
+   "ch": -0.08,
+   "asof": "2026-10-20T05:45:10.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81968.32,
-   "ch": 0.15,
-   "asof": "2026-10-20T04:44:46.000Z"
+   "p": 81837.02,
+   "ch": -0.01,
+   "asof": "2026-10-20T05:45:00.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2409.39,
-   "ch": 0.18,
-   "asof": "2026-10-20T04:44:43.000Z"
+   "p": 2401.79,
+   "ch": -0.14,
+   "asof": "2026-10-20T05:45:07.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4161.8,
-   "ch": 0.04,
-   "asof": "2026-10-20T04:34:43.000Z"
+   "p": 4151.3,
+   "ch": -0.21,
+   "asof": "2026-10-20T05:35:08.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 98.72,
-   "ch": 0.18,
-   "asof": "2026-10-20T04:34:45.000Z"
+   "p": 98.75,
+   "ch": 0.21,
+   "asof": "2026-10-20T05:35:08.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.3986,
-   "ch": -0.11,
-   "asof": "2026-10-20T04:44:51.000Z"
+   "p": 16.4065,
+   "ch": -0.07,
+   "asof": "2026-10-20T05:45:10.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 105.08,
-   "ch": 0.14,
-   "asof": "2026-10-20T04:44:49.000Z"
+   "p": 104.7,
+   "ch": -0.22,
+   "asof": "2026-10-20T05:45:03.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3048,
-   "ch": 0.16,
-   "asof": "2026-10-20T04:44:41.000Z"
+   "p": 1.3031,
+   "ch": 0.03,
+   "asof": "2026-10-20T05:45:04.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.58,
-   "ch": 0.54,
-   "asof": "2026-10-20T04:34:01.000Z"
+   "p": 57.47,
+   "ch": 0.34,
+   "asof": "2026-10-20T05:35:04.000Z"
   }
  ],
  "news": [
@@ -399,9 +399,9 @@
   [
    "Stocks",
    "med",
-   "US Stock Futures Edge Higher After Chipmaker Rally: Markets Wrap",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUdmWVljdmxvdFIzRkRFeDJLQk0wTFVOaTlEMExhUEpUelZOTFJfdDFlZURyWXpjU05OcXBhX09QN0dlblc2aDFhZWFuQUNMOXVLbDN1eFN2Q0xBMU1WQW1KZDRrMEhuUmxlZmhPMmlnckVPcUJrSHpQa0tRWGRab2dXdXZkWTRpNC1kZmRCSndyblZJ?oc=5"
+   "Is this the beginning of the end of the AI stock market boom?",
+   "The Guardian",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdVNsUk9NYVNLT0R3VFNHZURrYU1aY0FKMkhibmFLWDVodnAwU0l1ZDhIVk5PQkY3d0RlcHBVSDQ1TEZtQkd3SUR4alNtaDFSYVU3eUZvQjJsWDNNWjA3ZGEyWFFDQXdNRDNyanRlek13QUJoUEZyLXFNMDBZWjEtVWRabWxQSTF5U2t3UFZoelQ2akdPcDQxMWtLbk14cC1YWmVlNVBIYzZoYXVQLUVJX3JR?oc=5"
   ],
   [
    "Commodities",
