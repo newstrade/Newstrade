@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T02:47:01.093Z",
+ "updated": "2026-10-20T03:46:50.618Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1227,
-   "ch": 0.09,
-   "asof": "2026-10-20T02:46:51.000Z"
+   "p": 1.1232,
+   "ch": 0.13,
+   "asof": "2026-10-20T03:46:47.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3325,
-   "ch": 0.14,
-   "asof": "2026-10-20T02:46:51.000Z"
+   "p": 1.333,
+   "ch": 0.17,
+   "asof": "2026-10-20T03:46:47.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.461,
-   "ch": 0,
-   "asof": "2026-10-20T02:46:59.000Z"
+   "p": 158.338,
+   "ch": -0.08,
+   "asof": "2026-10-20T03:46:48.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6987,
-   "ch": 0.07,
-   "asof": "2026-10-20T02:46:51.000Z"
+   "p": 0.699,
+   "ch": 0.11,
+   "asof": "2026-10-20T03:46:47.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.409,
-   "ch": -0.13,
-   "asof": "2026-10-20T02:47:00.000Z"
+   "p": 1.4084,
+   "ch": -0.17,
+   "asof": "2026-10-20T03:46:50.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8254,
-   "ch": -0.04,
-   "asof": "2026-10-20T02:47:00.000Z"
+   "p": 0.825,
+   "ch": -0.08,
+   "asof": "2026-10-20T03:46:48.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81655.67,
-   "ch": -0.23,
-   "asof": "2026-10-20T02:46:55.000Z"
+   "p": 81913.88,
+   "ch": 0.08,
+   "asof": "2026-10-20T03:46:45.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2396.44,
-   "ch": -0.36,
-   "asof": "2026-10-20T02:46:56.000Z"
+   "p": 2408.59,
+   "ch": 0.15,
+   "asof": "2026-10-20T03:46:49.000Z"
   },
   {
    "s": "S&P 500",
@@ -267,25 +267,25 @@
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 51966.03,
+   "p": 51966,
    "ch": -0.07,
-   "asof": "2026-10-19T20:44:25.000Z"
+   "asof": "2026-10-19T20:00:00.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4155.1,
-   "ch": -0.12,
-   "asof": "2026-10-20T02:36:57.000Z"
+   "p": 4165.2,
+   "ch": 0.12,
+   "asof": "2026-10-20T03:36:49.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 98.38,
-   "ch": -0.16,
-   "asof": "2026-10-20T02:36:59.000Z"
+   "p": 98.6,
+   "ch": 0.06,
+   "asof": "2026-10-20T03:36:42.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4063,
-   "ch": -0.07,
-   "asof": "2026-10-20T02:47:01.000Z"
+   "p": 16.4016,
+   "ch": -0.1,
+   "asof": "2026-10-20T03:46:51.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.95,
-   "ch": 0.02,
-   "asof": "2026-10-20T02:46:57.000Z"
+   "p": 105.16,
+   "ch": 0.22,
+   "asof": "2026-10-20T03:46:45.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3021,
-   "ch": -0.05,
-   "asof": "2026-10-20T02:46:58.000Z"
+   "p": 1.3041,
+   "ch": 0.1,
+   "asof": "2026-10-20T03:46:47.000Z"
   },
   {
    "s": "Apple",
@@ -355,18 +355,18 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.17,
-   "ch": -0.18,
-   "asof": "2026-10-20T02:36:58.000Z"
+   "p": 57.66,
+   "ch": 0.68,
+   "asof": "2026-10-20T03:36:44.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "South Korea central bank to hold rates on October 22, hike in November",
+   "Dollar and euro drift, yen slips as markets seek direction",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRlhEb1c1OS1kZy1wc0paMktybGc1SFAxMlZSLWVEUXZQaHdNOTExdXZOMmtWbWZ1LVNzVEVUOTNSUWxwZ3VMaXFNVDd0VUV3SWdRYTZKcXdaQlB6SWpXeFhsMjcxUkZubVB3R1Y3SUhMY1B3Z29lalI2S2FjLVh3TDNmNTVxbTZHa3pxTl83emVjdjQ5MFNJUnd1NEpIZXJUWUh1ODZPekpZTjR6b01DeWxoa1ZGQQ?oc=5"
+   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazFGS3ZwNDhmME9ZUDdoZVQzMkV3UEJQUEJsTE1LdnFTcjNXRzI2emE2Z3VvZE1YNGRpam95VTF3UGgyTVFjRExnWkJ1TGxpenBQUHFhbmU1MUpEYVhDcURRS05xQ1BycHRUT3F3bExRQjZfaUFVeGlKcHpmaGFEMkVwQ0RxSk5iLU4zaDVaVDJzQzEyQ0R4OVFZeHZuVXJKZ3pESWtudFQ?oc=5"
   ],
   [
    "Forex",
@@ -378,9 +378,9 @@
   [
    "Crypto",
    "med",
-   "Bitcoin Volatility Hits 2.5-Year Low as Traders Brace for 30% Move",
+   "MSCI (MSCI) Tightens Bitcoin Index Rules",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWUhfV09XYkNKY2NzY2JPbDYtejd5LXEwYmFvQ29pNldBXzJKSlJDUjZIVlpWbGdjY3ZmUnk0aG1NZnZVOFBnV2NBejFWcDlSVU1DTzhTemhZZXlRWXRORUtCdXZ0Z0FObGd4Z3JqNmRUazMzcjl3ZFRNLWVISzBJT1NueHpub0ZjSlJxb1VhWUx5UHdOZ0lR?oc=5"
+   "https://news.google.com/rss/articles/CBMingFBVV95cUxPYTBrX0lUUnpuZlNNZmRHZlNHb3ZPZTE2WldSSmxqVFhGdHZIazhLMHJqOUFaUzN1WGZMc0l0ckNzMVZwSDE2WnpTQmRzYWlrVER3ZW1rOER1QWxsMnNEemJTSWNJTVZvWXpMb01jLTU1SnNOcVNMRVEtZHJ1UXQyZklHLWR3dThaQXhSUklXMmpsc3BMdXBCeFo4a2RLdw?oc=5"
   ],
   [
    "Crypto",
