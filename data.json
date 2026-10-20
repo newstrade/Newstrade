@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T16:46:10.771Z",
+ "updated": "2026-10-20T17:43:26.803Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,105 +187,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1235,
-   "ch": 0.16,
-   "asof": "2026-10-20T16:45:25.000Z"
+   "p": 1.1238,
+   "ch": 0.19,
+   "asof": "2026-10-20T17:42:26.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3373,
-   "ch": 0.5,
-   "asof": "2026-10-20T16:45:25.000Z"
+   "p": 1.3379,
+   "ch": 0.54,
+   "asof": "2026-10-20T17:43:26.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.222,
-   "ch": -0.15,
-   "asof": "2026-10-20T16:46:09.000Z"
+   "p": 158.142,
+   "ch": -0.2,
+   "asof": "2026-10-20T17:43:26.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7002,
-   "ch": 0.29,
-   "asof": "2026-10-20T16:45:25.000Z"
+   "p": 0.7005,
+   "ch": 0.33,
+   "asof": "2026-10-20T17:41:26.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4054,
-   "ch": -0.38,
-   "asof": "2026-10-20T16:46:09.000Z"
+   "p": 1.4064,
+   "ch": -0.31,
+   "asof": "2026-10-20T17:43:25.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8262,
-   "ch": 0.06,
-   "asof": "2026-10-20T16:46:08.000Z"
+   "p": 0.8253,
+   "ch": -0.05,
+   "asof": "2026-10-20T17:43:27.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82484.69,
-   "ch": 0.78,
-   "asof": "2026-10-20T16:46:06.000Z"
+   "p": 82756.37,
+   "ch": 1.11,
+   "asof": "2026-10-20T17:43:24.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2441.12,
-   "ch": 1.5,
-   "asof": "2026-10-20T16:46:06.000Z"
+   "p": 2449.32,
+   "ch": 1.84,
+   "asof": "2026-10-20T17:43:21.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7719.37,
-   "ch": 0.37,
-   "asof": "2026-10-20T16:46:00.000Z"
+   "p": 7723.34,
+   "ch": 0.42,
+   "asof": "2026-10-20T17:43:26.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 26475.383,
-   "ch": 0.17,
-   "asof": "2026-10-20T16:46:10.000Z"
+   "p": 26492.271,
+   "ch": 0.23,
+   "asof": "2026-10-20T17:43:24.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52481.83,
-   "ch": 0.99,
-   "asof": "2026-10-20T16:46:10.000Z"
+   "p": 52514.28,
+   "ch": 1.06,
+   "asof": "2026-10-20T17:43:26.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4144.2,
-   "ch": -0.38,
-   "asof": "2026-10-20T16:36:09.000Z"
+   "p": 4141.4,
+   "ch": -0.45,
+   "asof": "2026-10-20T17:33:27.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 97.6,
-   "ch": -0.95,
-   "asof": "2026-10-20T16:36:09.000Z"
+   "p": 97.83,
+   "ch": -0.72,
+   "asof": "2026-10-20T17:33:26.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.3942,
-   "ch": -0.14,
-   "asof": "2026-10-20T16:46:11.000Z"
+   "p": 16.3798,
+   "ch": -0.23,
+   "asof": "2026-10-20T17:43:27.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,49 +315,49 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 106.14,
-   "ch": 1.15,
-   "asof": "2026-10-20T16:46:07.000Z"
+   "p": 106.59,
+   "ch": 1.58,
+   "asof": "2026-10-20T17:43:24.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3225,
-   "ch": 1.52,
-   "asof": "2026-10-20T16:46:09.000Z"
+   "p": 1.3287,
+   "ch": 1.99,
+   "asof": "2026-10-20T17:43:24.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 340.78,
-   "ch": -0.63,
-   "asof": "2026-10-20T16:46:09.000Z"
+   "p": 340.56,
+   "ch": -0.69,
+   "asof": "2026-10-20T17:43:27.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 374.45,
-   "ch": 1.74,
-   "asof": "2026-10-20T16:46:11.000Z"
+   "p": 374.68,
+   "ch": 1.8,
+   "asof": "2026-10-20T17:43:25.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 217.025,
-   "ch": -0.03,
-   "asof": "2026-10-20T16:46:10.000Z"
+   "p": 217.2,
+   "ch": 0.05,
+   "asof": "2026-10-20T17:43:27.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 58.03,
-   "ch": 1.32,
-   "asof": "2026-10-20T16:36:09.000Z"
+   "p": 57.99,
+   "ch": 1.25,
+   "asof": "2026-10-20T17:33:19.000Z"
   }
  ],
  "news": [
@@ -385,14 +385,14 @@
   [
    "Crypto",
    "med",
-   "Ethereum Just Closed Out Its Best Quarter Since 2021. If History Is Any Guide, This Happens Next.",
+   "JPMorgan Says Bitcoin Will Beat Gold and Stocks — After Years of Crypto Skepticism",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3lwMlB3LWI5dmNMcDV5UWNDS1FrU0k5ZUhHTlZUbVVOU05HRU1jdm4zbFIyaWt4SzZsNll1Sjd6c0JXd0diaVlFdGFveDJUUDdlNU9LV3ZqU21mWS1ZbGdRVXotaW93WEZyb1lBSUpGTW5FU293TU82NlhVZ1VYVWhwV25sYWt3QlNwUFVGNTFMR1Z6eXdGT3lRWC1WSkU?oc=5"
+   "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTEtzdm9UbFZodjdoOTFsbS1rQTdGRzBTZHhlbVZ3UFlHRENhNjlwOC1nbVU5dTlVVmhiNnFVNVl5LU40YVZUTVppM21YSlB0NUloTnI4eUtHWExhVmRrV25tTzRFdHJGWV9oeGhERm53WGxxUFdxaEpmbVQ0b0NNSlJyNVVacW9fSDVybk5xNGU5aEdKRVdrLVNhRlM?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Wall Street gains as healthcare stocks rally, oil prices fall",
+   "Wall Street gains ground on healthcare stocks rally, oil retreat",
    "Reuters",
    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2JsXzZ4YTVKcDJjNE9iTW42aU0wY0VOZXRtdDYxTzJTanBUOGZIT1FLSl9FVTNxQ1RpTVFSWHlsejgyR0Y1b3JQWXRlT0dEMjJPWWpXYlpfdFJQaHZKZG5KdUNMdW53NmlMd2RwUWJKWFB3dE9Xc2ZBbnRfalF3cWNzblhxTGJOTGlKYUh1a0FmWC1vaGQydWZXdTMzemJjSVg5NWZ0bw?oc=5"
   ],
@@ -406,7 +406,7 @@
   [
    "Commodities",
    "med",
-   "U.S. crude oil tops $105, Brent crude at five-month highs amid Mideast tensions",
+   "Oil prices fall as traders hope for diplomatic progress in Middle East",
    "CNBC",
    "https://news.google.com/rss/articles/CBMib0FVX3lxTE03NjBGWFYwdTRJdGVxMnJ4QVNWUzNxeW9BUzZUTThjU3V5NThLWDBHdUx2RVhFMEI3WnVsdzBQVWtvZ1FUelQ4bkgyNk9MTmxFeWV4eFRoRWZVV3JQTEpQSVI1aXNpTW9uVk5IX3VNSdIBdEFVX3lxTE5BVFpmcUNCZTlrOXhpOGttMmlaLW03M3pabEk3TzVReVhkYmc4b0xLNU9henJ4Tl9uVkc2OHJ4UjVNUmlYdGp6Y3FyZXFFbVU0ZF9Zb3RELW1Pb3Q2RFlQVHBDUTRrTVVkZHdaUmZkNnI4Y21S?oc=5"
   ],
