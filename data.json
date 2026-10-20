@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T08:49:03.982Z",
+ "updated": "2026-10-20T09:45:23.956Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,33 +187,33 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1235,
-   "ch": 0.16,
-   "asof": "2026-10-20T08:48:25.000Z"
+   "p": 1.1218,
+   "ch": 0.01,
+   "asof": "2026-10-20T09:44:26.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3355,
-   "ch": 0.36,
-   "asof": "2026-10-20T08:48:25.000Z"
+   "p": 1.3345,
+   "ch": 0.29,
+   "asof": "2026-10-20T09:44:26.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.15,
-   "ch": -0.2,
-   "asof": "2026-10-20T08:49:03.000Z"
+   "p": 158.129,
+   "ch": -0.21,
+   "asof": "2026-10-20T09:45:23.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7001,
-   "ch": 0.27,
-   "asof": "2026-10-20T08:47:25.000Z"
+   "p": 0.6992,
+   "ch": 0.14,
+   "asof": "2026-10-20T09:43:26.000Z"
   },
   {
    "s": "USD/CAD",
@@ -221,7 +221,7 @@
    "d": 4,
    "p": 1.4055,
    "ch": -0.38,
-   "asof": "2026-10-20T08:49:03.000Z"
+   "asof": "2026-10-20T09:45:23.000Z"
   },
   {
    "s": "USD/CHF",
@@ -229,23 +229,23 @@
    "d": 4,
    "p": 0.8245,
    "ch": -0.15,
-   "asof": "2026-10-20T08:49:02.000Z"
+   "asof": "2026-10-20T09:45:23.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81410.81,
-   "ch": -0.53,
-   "asof": "2026-10-20T08:48:40.000Z"
+   "p": 81272.56,
+   "ch": -0.7,
+   "asof": "2026-10-20T09:45:18.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2384.4,
-   "ch": -0.86,
-   "asof": "2026-10-20T08:48:39.000Z"
+   "p": 2378.4,
+   "ch": -1.11,
+   "asof": "2026-10-20T09:45:14.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4142.2,
-   "ch": -0.43,
-   "asof": "2026-10-20T08:39:01.000Z"
+   "p": 4139.3,
+   "ch": -0.5,
+   "asof": "2026-10-20T09:35:22.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 99.85,
-   "ch": 1.33,
-   "asof": "2026-10-20T08:39:03.000Z"
+   "p": 100.53,
+   "ch": 2.02,
+   "asof": "2026-10-20T09:35:21.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4145,
-   "ch": -0.02,
-   "asof": "2026-10-20T08:49:04.000Z"
+   "p": 16.4401,
+   "ch": 0.14,
+   "asof": "2026-10-20T09:45:23.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 103.95,
-   "ch": -0.93,
-   "asof": "2026-10-20T08:48:38.000Z"
+   "p": 103.78,
+   "ch": -1.1,
+   "asof": "2026-10-20T09:45:17.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2941,
-   "ch": -0.66,
-   "asof": "2026-10-20T08:48:38.000Z"
+   "p": 1.2899,
+   "ch": -0.99,
+   "asof": "2026-10-20T09:45:15.000Z"
   },
   {
    "s": "Apple",
@@ -355,32 +355,32 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.605,
-   "ch": 0.58,
-   "asof": "2026-10-20T08:39:01.000Z"
+   "p": 57.37,
+   "ch": 0.17,
+   "asof": "2026-10-20T09:35:00.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Yen jumps after JGB auction draws big demand, euro finds relief",
+   "Euro rebounds as French protests ease, dollar slips",
    "Reuters",
    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazFGS3ZwNDhmME9ZUDdoZVQzMkV3UEJQUEJsTE1LdnFTcjNXRzI2emE2Z3VvZE1YNGRpam95VTF3UGgyTVFjRExnWkJ1TGxpenBQUHFhbmU1MUpEYVhDcURRS05xQ1BycHRUT3F3bExRQjZfaUFVeGlKcHpmaGFEMkVwQ0RxSk5iLU4zaDVaVDJzQzEyQ0R4OVFZeHZuVXJKZ3pESWtudFQ?oc=5"
   ],
   [
    "Forex",
    "med",
-   "JPMorgan Nears Nigeria Launch After Deposit With Central Bank",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxORm10YnJROFIzbmpmQ2hXcTZkX01OYXB6S3lsYXhseW5FQ2JZalJnZ1kyM1l6TEVCN0RtZ1diX2F4OWRIeFplNEF5bWRSOHo3OGpJWXRtVXBxTDJGRFJVQTZ0RzVWaTN3S3FEZUFGNEwyWGp1ODBwUEFpVjdrUzBiMC1kbVVXT2dTQ0tZdkgzQXVVYmVrcndtME45TFlBN3dNT01nSEx1WXVYT1dpVXlHdTJ3?oc=5"
+   "Sterling today: Pound edges up as dollar consolidates",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVjZfci1fT0oyTFN2bkowY1VzbFdNUG5XMEpRUXNjM2JDZk5UaFpwU2d5ajk5eUN5RXVMNklGSGd6S1dMdEtDYXFQQUNUTzc4V29pd05qaDRMaDhGa2phMUJYa2FqeXZKbExkbEdwR0Rjd2g5VW5iZjVnSHN6cHdwRUdobjBfV3BHYnlvTWdjZmpPOEphc3RtSTFETzA0YlU0QUdzYQ?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin ETFs Pull $526.6 Million, Their Biggest Day Since September 22",
+   "JPMorgan Bitcoin Forecast Gives BTC a Major Edge Over US Stocks",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcldDeUhOaUZsUm50a0hfckk5enRabXRXb1BUVWktOGlvRzU1YUVwaENVck92RHZVS2dhbFM3TlRWZVp4UXVoNFpoeTRuX3B0SmZBM1BwMDd1TURmdlFuU1NWRy1PaGxSTE4zeGlTYWJXZkhtWkwwaFk1dUpLbGxIZlJvdy10My12UEtkbkFoNmxLZw?oc=5"
+   "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVDBvUlpIempQYmNrZUxqeE11cE14cWcyalZ4cnQzM3NtT2VRdjhRRWxVR3R6SWZxaWFicmVUNGIzTTFpMnJlYUVoWl9BZ2QwZnJENmtjbjhULXZnOGJkSFpwMmdKSFBHeW50RnRlbnE4cUgxUFNaWkNUMEZoV1JhOEFpR0I4SXdPX0Q0OHlVX0xKTEFseVpBcXNXYW9NcTNOZXc?oc=5"
   ],
   [
    "Crypto",
