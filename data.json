@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T19:46:10.457Z",
+ "updated": "2026-10-20T20:47:41.770Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -189,103 +189,103 @@
    "d": 4,
    "p": 1.124,
    "ch": 0.21,
-   "asof": "2026-10-20T19:45:29.000Z"
+   "asof": "2026-10-20T20:47:25.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3382,
+   "p": 1.3381,
    "ch": 0.56,
-   "asof": "2026-10-20T19:45:29.000Z"
+   "asof": "2026-10-20T20:47:25.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.212,
-   "ch": -0.16,
-   "asof": "2026-10-20T19:46:10.000Z"
+   "p": 158.174,
+   "ch": -0.18,
+   "asof": "2026-10-20T20:47:41.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7003,
-   "ch": 0.3,
-   "asof": "2026-10-20T19:45:29.000Z"
+   "p": 0.7006,
+   "ch": 0.34,
+   "asof": "2026-10-20T20:47:25.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4061,
-   "ch": -0.33,
-   "asof": "2026-10-20T19:46:10.000Z"
+   "p": 1.4058,
+   "ch": -0.35,
+   "asof": "2026-10-20T20:47:41.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8246,
-   "ch": -0.13,
-   "asof": "2026-10-20T19:46:10.000Z"
+   "p": 0.8247,
+   "ch": -0.12,
+   "asof": "2026-10-20T20:47:41.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82520.22,
-   "ch": 0.83,
-   "asof": "2026-10-20T19:46:07.000Z"
+   "p": 82705.58,
+   "ch": 1.05,
+   "asof": "2026-10-20T20:47:31.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2436.12,
-   "ch": 1.29,
-   "asof": "2026-10-20T19:46:06.000Z"
+   "p": 2442.69,
+   "ch": 1.56,
+   "asof": "2026-10-20T20:47:38.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7711.45,
-   "ch": 0.27,
-   "asof": "2026-10-20T19:46:09.000Z"
+   "p": 7712.57,
+   "ch": 0.28,
+   "asof": "2026-10-20T20:45:45.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 26422.184,
-   "ch": -0.03,
-   "asof": "2026-10-20T19:46:07.000Z"
+   "p": 26424.816,
+   "ch": -0.02,
+   "asof": "2026-10-20T20:47:40.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52454.29,
-   "ch": 0.94,
-   "asof": "2026-10-20T19:46:10.000Z"
+   "p": 52495.88,
+   "ch": 1.02,
+   "asof": "2026-10-20T20:46:03.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4139.3,
-   "ch": -0.5,
-   "asof": "2026-10-20T19:36:08.000Z"
+   "p": 4141.1,
+   "ch": -0.46,
+   "asof": "2026-10-20T20:37:32.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 98.34,
-   "ch": -0.2,
-   "asof": "2026-10-20T19:36:06.000Z"
+   "p": 98.07,
+   "ch": -0.48,
+   "asof": "2026-10-20T20:37:36.000Z"
   },
   {
    "s": "USD/KES",
@@ -293,15 +293,15 @@
    "d": 2,
    "p": 129.82,
    "ch": 0,
-   "asof": "2026-10-20T19:40:49.000Z"
+   "asof": "2026-10-20T20:14:52.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.3887,
-   "ch": -0.17,
-   "asof": "2026-10-20T19:46:10.000Z"
+   "p": 16.3805,
+   "ch": -0.22,
+   "asof": "2026-10-20T20:47:42.000Z"
   },
   {
    "s": "USD/NGN",
@@ -309,55 +309,55 @@
    "d": 2,
    "p": 1328.56,
    "ch": 0.27,
-   "asof": "2026-10-20T19:40:49.000Z"
+   "asof": "2026-10-20T20:14:52.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 105.93,
-   "ch": 0.95,
-   "asof": "2026-10-20T19:46:09.000Z"
+   "p": 106.45,
+   "ch": 1.45,
+   "asof": "2026-10-20T20:47:38.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3267,
-   "ch": 1.84,
-   "asof": "2026-10-20T19:46:09.000Z"
+   "p": 1.3328,
+   "ch": 2.31,
+   "asof": "2026-10-20T20:47:39.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 339.47,
-   "ch": -1.01,
-   "asof": "2026-10-20T19:46:10.000Z"
+   "p": 339.5,
+   "ch": -1,
+   "asof": "2026-10-20T20:00:01.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 374.98,
-   "ch": 1.88,
-   "asof": "2026-10-20T19:46:10.000Z"
+   "p": 373.71,
+   "ch": 1.54,
+   "asof": "2026-10-20T20:00:00.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 216.577,
-   "ch": -0.24,
-   "asof": "2026-10-20T19:46:09.000Z"
+   "p": 216.47,
+   "ch": -0.29,
+   "asof": "2026-10-20T20:00:01.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.895,
-   "ch": 1.09,
-   "asof": "2026-10-20T19:36:08.000Z"
+   "p": 58.015,
+   "ch": 1.3,
+   "asof": "2026-10-20T20:37:37.000Z"
   }
  ],
  "news": [
@@ -384,24 +384,24 @@
   ],
   [
    "Crypto",
-   "high",
-   "Massive ‘Endgame’ Flip Leaves Bitcoin Suddenly Braced For A $1.5 Trillion Price Crash Shock",
-   "Forbes",
-   "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT2syV1hFUzFYWGVoY0FUNVF5Z3dNYWtoZFQtQ2o4SUQzZ25PTEMzdEZCajFsc0JjVU1zOFpFRE5TaHNDT09WR1pSMGNpMnRPM0VVNzlmTjd5TVdlZ2ZBTlFzb3hvQ3BMMWJjRVBIckg2RFZ5ODBac0ZEa3F4THFVUjczUzczNEc3eG5la1Mwd01Cc3BYZ0szcWk4U0lSX0ZGRElsWlEtdXFaeGVsRzZpSUdCTzJxNEhzQmJyMjN2d09hTVVJWDlQSGdBMlpFSEtJTk16X3EyU1BzeEE?oc=5"
+   "med",
+   "Current price of Ethereum for October 20, 2026",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqQjZXRjctR1NwY1RjSlZsN3VhU2YzTk5MSzU0dlFObXdiWEYzM3BoRWdDYnFtbWRMSTNualZhUkZRWjZ2bXQ3eGVMZlBZamx5MmJzQjMyR2N4UnhtdDVkbjlRUUNMenR2?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Wall Street rises with investors rotating into healthcare and value stocks",
+   "Dow leads Wall Street higher, investors focus on healthcare stocks",
    "Reuters",
    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2JsXzZ4YTVKcDJjNE9iTW42aU0wY0VOZXRtdDYxTzJTanBUOGZIT1FLSl9FVTNxQ1RpTVFSWHlsejgyR0Y1b3JQWXRlT0dEMjJPWWpXYlpfdFJQaHZKZG5KdUNMdW53NmlMd2RwUWJKWFB3dE9Xc2ZBbnRfalF3cWNzblhxTGJOTGlKYUh1a0FmWC1vaGQydWZXdTMzemJjSVg5NWZ0bw?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Ray-Ban Maker EssilorLuxottica’s Sales Rise, Buoyed by Smartglasses",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUmZjOHc3cGNabG41VGQ2X1NiX1ZwRm9nOXluaDY4SEdZcnI5MlhrQXJnWGZGYnFqa0pTM2tha1lwX1BMR2JnaFlfVWdkT2o2aGVpRkpmcEl1U3hsRzVoQWdsWlRnT3Z4LUtsNFJlR1ZFYWxZbkM4UGp6ZGNzLXlUaWlZY1drUDVDZG5tYnF6OURRZm1kT2lQMHhwelNIUU1oNzNZeHBWZ0tTZHZIZEtyUEFn?oc=5"
+   "Wall Street brings blockchain into the fold",
+   "Axios",
+   "https://news.google.com/rss/articles/CBMiekFVX3lxTE43R0VuUEtWNFdqaW1NUHBhZkJmT0NQRjR1dUNBSGtiNXBXYXJTWlUzMHJmX0tuMjFESDVSQkgySTgzdkV4VE1EX3kyNHpWRWpWdnhDQ29PaWs2bTh4R01mcXJxb3hVVlRnbkt6c21ncVFMeTIyU2xxUEtR?oc=5"
   ],
   [
    "Commodities",
