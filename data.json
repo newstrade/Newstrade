@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T06:56:53.586Z",
+ "updated": "2026-10-20T07:52:04.062Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -87,7 +87,7 @@
    "tag": "GBP",
    "imp": "med",
    "name": "Retail Sales m/m",
-   "fc": "-0.2%",
+   "fc": "-0.1%",
    "prev": "0.5%",
    "act": ""
   },
@@ -96,7 +96,7 @@
    "tag": "EUR",
    "imp": "med",
    "name": "French Flash Manufacturing PMI",
-   "fc": "50.6",
+   "fc": "50.5",
    "prev": "50.3",
    "act": ""
   },
@@ -105,7 +105,7 @@
    "tag": "EUR",
    "imp": "med",
    "name": "French Flash Services PMI",
-   "fc": "50.8",
+   "fc": "50.7",
    "prev": "51.4",
    "act": ""
   },
@@ -123,7 +123,7 @@
    "tag": "EUR",
    "imp": "med",
    "name": "German Flash Services PMI",
-   "fc": "52.6",
+   "fc": "52.5",
    "prev": "52.9",
    "act": ""
   },
@@ -150,7 +150,7 @@
    "tag": "USD",
    "imp": "med",
    "name": "Flash Manufacturing PMI",
-   "fc": "55.5",
+   "fc": "55.4",
    "prev": "57.0",
    "act": ""
   },
@@ -159,7 +159,7 @@
    "tag": "USD",
    "imp": "med",
    "name": "Flash Services PMI",
-   "fc": "58.0",
+   "fc": "57.8",
    "prev": "58.7",
    "act": ""
   },
@@ -189,7 +189,7 @@
    "d": 4,
    "p": 1.1231,
    "ch": 0.12,
-   "asof": "2026-10-20T06:56:28.000Z"
+   "asof": "2026-10-20T07:51:29.000Z"
   },
   {
    "s": "GBP/USD",
@@ -197,15 +197,15 @@
    "d": 4,
    "p": 1.3351,
    "ch": 0.33,
-   "asof": "2026-10-20T06:56:28.000Z"
+   "asof": "2026-10-20T07:51:29.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.159,
-   "ch": -0.19,
-   "asof": "2026-10-20T06:56:53.000Z"
+   "p": 158.089,
+   "ch": -0.23,
+   "asof": "2026-10-20T07:52:02.000Z"
   },
   {
    "s": "AUD/USD",
@@ -213,39 +213,39 @@
    "d": 4,
    "p": 0.6999,
    "ch": 0.24,
-   "asof": "2026-10-20T06:55:28.000Z"
+   "asof": "2026-10-20T07:51:29.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.408,
-   "ch": -0.2,
-   "asof": "2026-10-20T06:56:53.000Z"
+   "p": 1.4063,
+   "ch": -0.32,
+   "asof": "2026-10-20T07:52:03.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8258,
-   "ch": 0.01,
-   "asof": "2026-10-20T06:56:53.000Z"
+   "p": 0.8244,
+   "ch": -0.16,
+   "asof": "2026-10-20T07:52:03.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81697.65,
-   "ch": -0.18,
-   "asof": "2026-10-20T06:56:43.000Z"
+   "p": 81478.21,
+   "ch": -0.45,
+   "asof": "2026-10-20T07:51:57.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2394.62,
-   "ch": -0.43,
-   "asof": "2026-10-20T06:56:37.000Z"
+   "p": 2388.64,
+   "ch": -0.68,
+   "asof": "2026-10-20T07:51:55.000Z"
   },
   {
    "s": "S&P 500",
@@ -253,7 +253,7 @@
    "d": 2,
    "p": 7690.73,
    "ch": 0.41,
-   "asof": "2026-10-19T20:44:14.000Z"
+   "asof": "2026-10-19T20:00:00.000Z"
   },
   {
    "s": "Nasdaq",
@@ -267,25 +267,25 @@
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 51966.03,
+   "p": 51966,
    "ch": -0.07,
-   "asof": "2026-10-19T20:44:25.000Z"
+   "asof": "2026-10-19T20:00:00.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4151.4,
-   "ch": -0.21,
-   "asof": "2026-10-20T06:46:49.000Z"
+   "p": 4140.5,
+   "ch": -0.47,
+   "asof": "2026-10-20T07:42:02.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 98.17,
-   "ch": -0.38,
-   "asof": "2026-10-20T06:46:52.000Z"
+   "p": 99.12,
+   "ch": 0.59,
+   "asof": "2026-10-20T07:42:03.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.3836,
-   "ch": -0.2,
-   "asof": "2026-10-20T06:56:54.000Z"
+   "p": 16.4064,
+   "ch": -0.07,
+   "asof": "2026-10-20T07:52:04.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.53,
-   "ch": -0.38,
-   "asof": "2026-10-20T06:56:39.000Z"
+   "p": 104.32,
+   "ch": -0.58,
+   "asof": "2026-10-20T07:51:54.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3,
-   "ch": -0.21,
-   "asof": "2026-10-20T06:56:39.000Z"
+   "p": 1.2954,
+   "ch": -0.56,
+   "asof": "2026-10-20T07:52:04.000Z"
   },
   {
    "s": "Apple",
@@ -355,16 +355,16 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.63,
-   "ch": 0.62,
-   "asof": "2026-10-20T06:46:46.000Z"
+   "p": 57.475,
+   "ch": 0.35,
+   "asof": "2026-10-20T07:42:04.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Dollar and euro drift, yen slips as markets seek direction",
+   "Yen jumps after JGB auction draws big demand, euro finds relief",
    "Reuters",
    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazFGS3ZwNDhmME9ZUDdoZVQzMkV3UEJQUEJsTE1LdnFTcjNXRzI2emE2Z3VvZE1YNGRpam95VTF3UGgyTVFjRExnWkJ1TGxpenBQUHFhbmU1MUpEYVhDcURRS05xQ1BycHRUT3F3bExRQjZfaUFVeGlKcHpmaGFEMkVwQ0RxSk5iLU4zaDVaVDJzQzEyQ0R4OVFZeHZuVXJKZ3pESWtudFQ?oc=5"
   ],
@@ -378,16 +378,16 @@
   [
    "Crypto",
    "med",
-   "Is Korea’s Chip Selloff a Crypto Buying Opportunity? Tom Lee’s Case and Its Catch",
+   "Bitcoin ETFs Pull $526.6 Million, Their Biggest Day Since September 22",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxOUWp6VE9jV214bkhqWkdRdDVFNDdnVnk0TldMTHg1b2h5VER5MUswdk50dUhNb0lSRVpzcVA2aTNWaUFWZDFzaUhnY2M0VFRKZXExcXV2VDVZc05DcU0zSlZvV1B4eDdid3pLbDlnVDUydW1UVmtBWWJlQ2g2amF1OEtyS3ZGYjNIWi1HeWtsVjFWNlNvTjlzelBMdmxzZw?oc=5"
+   "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcldDeUhOaUZsUm50a0hfckk5enRabXRXb1BUVWktOGlvRzU1YUVwaENVck92RHZVS2dhbFM3TlRWZVp4UXVoNFpoeTRuX3B0SmZBM1BwMDd1TURmdlFuU1NWRy1PaGxSTE4zeGlTYWJXZkhtWkwwaFk1dUpLbGxIZlJvdy10My12UEtkbkFoNmxLZw?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcVZSc3AzamZnZTJIcHgtT2JvT01kRE1tU2dZMWt3M2R6U3JvczlHLU9tUGJYMVh6MVNhRmtfVUpMWnFuTlFCZjRDUnRSalotazJPUFFaam1HOElwbGhlR1JYczVwWElfRjhMenJHTzJwSDQxcm0wcjR3ckFSVC1zSTlPTkRVM01vXzhpdnlxazJicEprSXBLdWtZUERMajZURElXQ1YtY0RPWWtId2s1ZjBxcnF4dm9FNUx6Zmp4SDZ4cHVXbUE?oc=5"
+   "BlackRock's IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025",
+   "The Block",
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxPekpIWFJCVjVhcjFIRjZqci1nUk43djNFLXlxTVNOaElOZjlpWUxTZVlJSTY4SFZEZnN0c0ZhTVpqQnZXV2FhWVVhOHFpVTQ3a1hWTmFPY2U3Uzl4MTlreGhFU3lrWjFlTTlMNTJpakV3b0RMTzRvWXFtY184UktPMXhjdXVjaVl0Q3JSV1pMV1prYlFnRm5ldA?oc=5"
   ],
   [
    "Stocks",
@@ -399,9 +399,9 @@
   [
    "Stocks",
    "med",
-   "Where to Find Durable Dividends in Today’s Stock Market",
-   "Morningstar",
-   "https://news.google.com/rss/articles/CBMilwFBVV95cUxON3kzX01OcnBaV29HbjBaTm0zRkt2WUJFVlB3c0lhMmxhcVZVQm1COUN1NWU0d2piYXRQVEpsZFdUSzV0VXhOZlBNSlNHSXY4X3VqeFRybzJYNlNVTnVBUTZWZE0xdlZpNzFUY3JWNmZlcC1fQ193TWNEVW1ic2dYSG1QTHBOcFRwVFhhRk55QllUeXBlaGZV?oc=5"
+   "Stock Market: Will S&P 500 Open Up or Down Today?",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTTlSOUotSHVkWGJlVGY3TWJ2YzZPMGdBaW1ua08zSng3bkFNcWtnaVhibmQwcW1FNmZKaGMxZVRCdUtvZ0FyaTA0RUEwT3dVSHNNcUJhSFBNWHgtQ2liOE1OVklWV214N3JBNmpXUkhNZzlUN2E3NVZFblQ5Ym1mSzQyT3Y4RkQyeE1WYmRwRkhuZw?oc=5"
   ],
   [
    "Commodities",
