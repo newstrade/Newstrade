@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T20:47:41.770Z",
+ "updated": "2026-10-20T21:45:41.497Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -189,63 +189,63 @@
    "d": 4,
    "p": 1.124,
    "ch": 0.21,
-   "asof": "2026-10-20T20:47:25.000Z"
+   "asof": "2026-10-20T21:45:26.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3381,
-   "ch": 0.56,
-   "asof": "2026-10-20T20:47:25.000Z"
+   "p": 1.3383,
+   "ch": 0.57,
+   "asof": "2026-10-20T21:45:26.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.174,
-   "ch": -0.18,
-   "asof": "2026-10-20T20:47:41.000Z"
+   "p": 158.123,
+   "ch": -0.21,
+   "asof": "2026-10-20T21:45:28.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7006,
-   "ch": 0.34,
-   "asof": "2026-10-20T20:47:25.000Z"
+   "p": 0.7007,
+   "ch": 0.36,
+   "asof": "2026-10-20T21:45:26.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4058,
-   "ch": -0.35,
-   "asof": "2026-10-20T20:47:41.000Z"
+   "p": 1.406,
+   "ch": -0.34,
+   "asof": "2026-10-20T21:45:36.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8247,
-   "ch": -0.12,
-   "asof": "2026-10-20T20:47:41.000Z"
+   "p": 0.8245,
+   "ch": -0.15,
+   "asof": "2026-10-20T21:45:37.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82705.58,
-   "ch": 1.05,
-   "asof": "2026-10-20T20:47:31.000Z"
+   "p": 82771.18,
+   "ch": 1.13,
+   "asof": "2026-10-20T21:45:36.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2442.69,
-   "ch": 1.56,
-   "asof": "2026-10-20T20:47:38.000Z"
+   "p": 2448.36,
+   "ch": 1.8,
+   "asof": "2026-10-20T21:45:36.000Z"
   },
   {
    "s": "S&P 500",
@@ -261,7 +261,7 @@
    "d": 2,
    "p": 26424.816,
    "ch": -0.02,
-   "asof": "2026-10-20T20:47:40.000Z"
+   "asof": "2026-10-20T21:15:59.000Z"
   },
   {
    "s": "Dow Jones",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4141.1,
-   "ch": -0.46,
-   "asof": "2026-10-20T20:37:32.000Z"
+   "p": 4142.5,
+   "ch": -0.42,
+   "asof": "2026-10-20T20:59:59.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 98.07,
-   "ch": -0.48,
-   "asof": "2026-10-20T20:37:36.000Z"
+   "p": 98.18,
+   "ch": -0.37,
+   "asof": "2026-10-20T20:59:55.000Z"
   },
   {
    "s": "USD/KES",
@@ -293,15 +293,15 @@
    "d": 2,
    "p": 129.82,
    "ch": 0,
-   "asof": "2026-10-20T20:14:52.000Z"
+   "asof": "2026-10-20T21:39:15.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.3805,
-   "ch": -0.22,
-   "asof": "2026-10-20T20:47:42.000Z"
+   "p": 16.3778,
+   "ch": -0.24,
+   "asof": "2026-10-20T21:45:13.000Z"
   },
   {
    "s": "USD/NGN",
@@ -309,23 +309,23 @@
    "d": 2,
    "p": 1328.56,
    "ch": 0.27,
-   "asof": "2026-10-20T20:14:52.000Z"
+   "asof": "2026-10-20T21:39:15.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 106.45,
-   "ch": 1.45,
-   "asof": "2026-10-20T20:47:38.000Z"
+   "p": 106.48,
+   "ch": 1.48,
+   "asof": "2026-10-20T21:45:34.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3328,
-   "ch": 2.31,
-   "asof": "2026-10-20T20:47:39.000Z"
+   "p": 1.3302,
+   "ch": 2.11,
+   "asof": "2026-10-20T21:45:32.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 58.015,
-   "ch": 1.3,
-   "asof": "2026-10-20T20:37:37.000Z"
+   "p": 58.14,
+   "ch": 1.51,
+   "asof": "2026-10-20T20:59:59.000Z"
   }
  ],
  "news": [
@@ -385,9 +385,9 @@
   [
    "Crypto",
    "med",
-   "Current price of Ethereum for October 20, 2026",
-   "Fortune",
-   "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqQjZXRjctR1NwY1RjSlZsN3VhU2YzTk5MSzU0dlFObXdiWEYzM3BoRWdDYnFtbWRMSTNualZhUkZRWjZ2bXQ3eGVMZlBZamx5MmJzQjMyR2N4UnhtdDVkbjlRUUNMenR2?oc=5"
+   "Token Accumulators Are Upping the Ante With Yields Rising",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWHpNOHJENFZwTmhRS1daYWpSQjBzTEdkTFBqM2l1N3YyelVuc0ZtRzlUTjRUUjBmMTVYYWFabzFUUW9kVTJOLVN1OWVDY0F1SHNlNG85R0V2ay1PVFlYVEctWDBVeDZlSVlfZVJxX0R6ZGtqU0JWNjRucGc1UkdqU1NndWl6d1FGSm03Y3d5LW1yMG94SGcxV1o0M2JRTmNqMHY3WTNaM3BLdm1uR2NXOURuOA?oc=5"
   ],
   [
    "Stocks",
@@ -399,9 +399,9 @@
   [
    "Stocks",
    "med",
-   "Wall Street brings blockchain into the fold",
-   "Axios",
-   "https://news.google.com/rss/articles/CBMiekFVX3lxTE43R0VuUEtWNFdqaW1NUHBhZkJmT0NQRjR1dUNBSGtiNXBXYXJTWlUzMHJmX0tuMjFESDVSQkgySTgzdkV4VE1EX3kyNHpWRWpWdnhDQ29PaWs2bTh4R01mcXJxb3hVVlRnbkt6c21ncVFMeTIyU2xxUEtR?oc=5"
+   "Exclusive | Musk Ordered Starlink Slowdown That Blindsided Ukraine",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMidkFVX3lxTE05TXhCNE5nTDBJcEZteGFUWGtLMHY5bmlkOXBBajNqMlpqbkF4Q2wwOVZjN2E2YWhSU2p6YmJoTmpwUW1VMkVqUEhSZjc3N1hMdVZwR3RjazBCdHRVZmptaEtpN2dtV3hzcHYwb2NadVlYZFlaMkE?oc=5"
   ],
   [
    "Commodities",
