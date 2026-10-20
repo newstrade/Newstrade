@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T09:45:23.956Z",
+ "updated": "2026-10-20T10:45:37.088Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1218,
-   "ch": 0.01,
-   "asof": "2026-10-20T09:44:26.000Z"
+   "p": 1.1215,
+   "ch": -0.02,
+   "asof": "2026-10-20T10:45:27.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3345,
-   "ch": 0.29,
-   "asof": "2026-10-20T09:44:26.000Z"
+   "p": 1.3343,
+   "ch": 0.27,
+   "asof": "2026-10-20T10:45:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.129,
-   "ch": -0.21,
-   "asof": "2026-10-20T09:45:23.000Z"
+   "p": 158.09,
+   "ch": -0.23,
+   "asof": "2026-10-20T10:45:36.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6992,
-   "ch": 0.14,
-   "asof": "2026-10-20T09:43:26.000Z"
+   "p": 0.6993,
+   "ch": 0.16,
+   "asof": "2026-10-20T10:45:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4055,
-   "ch": -0.38,
-   "asof": "2026-10-20T09:45:23.000Z"
+   "p": 1.4048,
+   "ch": -0.43,
+   "asof": "2026-10-20T10:45:36.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8245,
-   "ch": -0.15,
-   "asof": "2026-10-20T09:45:23.000Z"
+   "p": 0.8243,
+   "ch": -0.17,
+   "asof": "2026-10-20T10:45:37.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81272.56,
-   "ch": -0.7,
-   "asof": "2026-10-20T09:45:18.000Z"
+   "p": 81405.35,
+   "ch": -0.54,
+   "asof": "2026-10-20T10:45:30.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2378.4,
-   "ch": -1.11,
-   "asof": "2026-10-20T09:45:14.000Z"
+   "p": 2380.94,
+   "ch": -1,
+   "asof": "2026-10-20T10:45:29.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4139.3,
-   "ch": -0.5,
-   "asof": "2026-10-20T09:35:22.000Z"
+   "p": 4137.8,
+   "ch": -0.54,
+   "asof": "2026-10-20T10:35:36.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 100.53,
-   "ch": 2.02,
-   "asof": "2026-10-20T09:35:21.000Z"
+   "p": 100.74,
+   "ch": 2.23,
+   "asof": "2026-10-20T10:35:29.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4401,
-   "ch": 0.14,
-   "asof": "2026-10-20T09:45:23.000Z"
+   "p": 16.4571,
+   "ch": 0.24,
+   "asof": "2026-10-20T10:45:37.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 103.78,
-   "ch": -1.1,
-   "asof": "2026-10-20T09:45:17.000Z"
+   "p": 103.83,
+   "ch": -1.05,
+   "asof": "2026-10-20T10:45:32.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2899,
-   "ch": -0.99,
-   "asof": "2026-10-20T09:45:15.000Z"
+   "p": 1.2901,
+   "ch": -0.97,
+   "asof": "2026-10-20T10:45:25.000Z"
   },
   {
    "s": "Apple",
@@ -355,18 +355,18 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.37,
-   "ch": 0.17,
-   "asof": "2026-10-20T09:35:00.000Z"
+   "p": 57.26,
+   "ch": -0.02,
+   "asof": "2026-10-20T10:35:31.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Euro rebounds as French protests ease, dollar slips",
+   "Brazil central bank looks to encourage responsible lending in consumer debt crackdown, sources say",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazFGS3ZwNDhmME9ZUDdoZVQzMkV3UEJQUEJsTE1LdnFTcjNXRzI2emE2Z3VvZE1YNGRpam95VTF3UGgyTVFjRExnWkJ1TGxpenBQUHFhbmU1MUpEYVhDcURRS05xQ1BycHRUT3F3bExRQjZfaUFVeGlKcHpmaGFEMkVwQ0RxSk5iLU4zaDVaVDJzQzEyQ0R4OVFZeHZuVXJKZ3pESWtudFQ?oc=5"
+   "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbVNIX1FUZlA3bUZzWWJoT3VRSXRxTUtQZnE3akZ1T05ZRGVQdXBPY0RYVGhjWXRMUWctcGx3akhycVJQT1VPSXRXalRsUi1ET0J4SDdsLWZMNmNRZU9KSmQ0cU5NOGNFcDRkb0JQTDZDNWJwOFNTM0J5Z2FkOU0zTWExcUNObEctaWsyRDFfaUJ0UDlpcnQ2MHlQc3ExVVFjejRzdEZQNjVxWGx4Y0JNVUZuOS1PU1IydmVKcDN1RGFvNHFSc3VHUkRn?oc=5"
   ],
   [
    "Forex",
@@ -406,7 +406,7 @@
   [
    "Commodities",
    "med",
-   "Brent crude holds near five-month high on Middle East tension",
+   "Brent hits five-month high as attacks on ships, Saudi sites fuel supply worries",
    "Reuters",
    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZlA3RXBMd0lXRU1feWpodXpZQ2tnUERkUHFQSlFGX2hCMjdrOVdhRVd2eVk3dmhLYklUdVM1WGtoXzc0cUt2OG44WjBYVFVZazFvQWo1UmJWRlliNzJHWlZBU1hScTU1RU9sVEdDVllsSWE4UXh5b0ZHX0VlU01fNDc3ckpxRkw3ZGdaM0xxMW1qOEhWck1XYUlSVkJWeVZyZWRRSkpqdTFQSmZhejlBRmkxZUJmMGtPVWx6Ym82SnNTcElaWGc?oc=5"
   ],
