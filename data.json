@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T00:59:02.223Z",
+ "updated": "2026-10-20T01:46:33.857Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,25 +187,25 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.122,
-   "ch": 0.03,
-   "asof": "2026-10-20T00:58:48.000Z"
+   "p": 1.1221,
+   "ch": 0.04,
+   "asof": "2026-10-20T01:45:49.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3314,
-   "ch": 0.05,
-   "asof": "2026-10-20T00:58:48.000Z"
+   "p": 1.3315,
+   "ch": 0.06,
+   "asof": "2026-10-20T01:45:49.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.568,
-   "ch": 0.07,
-   "asof": "2026-10-20T00:59:01.000Z"
+   "p": 158.548,
+   "ch": 0.06,
+   "asof": "2026-10-20T01:46:33.000Z"
   },
   {
    "s": "AUD/USD",
@@ -213,39 +213,39 @@
    "d": 4,
    "p": 0.698,
    "ch": -0.03,
-   "asof": "2026-10-20T00:58:48.000Z"
+   "asof": "2026-10-20T01:44:49.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4095,
-   "ch": -0.09,
-   "asof": "2026-10-20T00:59:02.000Z"
+   "p": 1.4092,
+   "ch": -0.11,
+   "asof": "2026-10-20T01:46:33.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8259,
-   "ch": 0.02,
-   "asof": "2026-10-20T00:59:02.000Z"
+   "p": 0.826,
+   "ch": 0.04,
+   "asof": "2026-10-20T01:46:33.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81617.11,
-   "ch": -0.28,
-   "asof": "2026-10-20T00:58:38.000Z"
+   "p": 81607.38,
+   "ch": -0.29,
+   "asof": "2026-10-20T01:46:28.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2398.56,
-   "ch": -0.27,
-   "asof": "2026-10-20T00:58:38.000Z"
+   "p": 2395.63,
+   "ch": -0.39,
+   "asof": "2026-10-20T01:46:34.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4154.4,
-   "ch": -0.14,
-   "asof": "2026-10-20T00:48:48.000Z"
+   "p": 4140.5,
+   "ch": -0.47,
+   "asof": "2026-10-20T01:36:24.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 98.49,
-   "ch": -0.05,
-   "asof": "2026-10-20T00:48:46.000Z"
+   "p": 98.91,
+   "ch": 0.38,
+   "asof": "2026-10-20T01:36:32.000Z"
   },
   {
    "s": "USD/KES",
@@ -293,15 +293,15 @@
    "d": 2,
    "p": 129.82,
    "ch": 0,
-   "asof": "2026-10-19T21:05:36.000Z"
+   "asof": "2026-10-20T01:32:39.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4234,
-   "ch": 0.04,
-   "asof": "2026-10-20T00:59:03.000Z"
+   "p": 16.4145,
+   "ch": -0.02,
+   "asof": "2026-10-20T01:46:34.000Z"
   },
   {
    "s": "USD/NGN",
@@ -309,23 +309,23 @@
    "d": 2,
    "p": 1325.04,
    "ch": 0,
-   "asof": "2026-10-19T21:05:36.000Z"
+   "asof": "2026-10-20T01:32:39.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.62,
-   "ch": -0.29,
-   "asof": "2026-10-20T00:58:34.000Z"
+   "p": 104.66,
+   "ch": -0.26,
+   "asof": "2026-10-20T01:46:32.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2968,
-   "ch": -0.46,
-   "asof": "2026-10-20T00:58:38.000Z"
+   "p": 1.3002,
+   "ch": -0.2,
+   "asof": "2026-10-20T01:46:31.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.025,
-   "ch": -0.43,
-   "asof": "2026-10-20T00:48:28.000Z"
+   "p": 56.73,
+   "ch": -0.95,
+   "asof": "2026-10-20T01:36:25.000Z"
   }
  ],
  "news": [
@@ -378,9 +378,9 @@
   [
    "Crypto",
    "med",
-   "Current price of Ethereum for October 19, 2026",
+   "Current price of Bitcoin for October 19, 2026",
    "Fortune",
-   "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNWWd3blY0NUhldlZKclJveGd4Ym1iRHBWWjVVSkdlcTdKbVptaC1xUUswbnQwR1B3aXNjTXBzNWV4eC1QamJYazhHaDNEZ3JaYlFscXhIWDA0NG9jeWlCa2lEQWlFT0It?oc=5"
+   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vb3A0Q24zaWUwM0E5LXNKeEc3VW5RMF9OZEh3UDZ2TE42RlhTelFvakpHWFQzZTc1WEFIVlBzV25XZVpJUTlxX0RXUnAtblluQUtQWGV5QVdLOGtmNmlINDVvc2tRZk0?oc=5"
   ],
   [
    "Crypto",
