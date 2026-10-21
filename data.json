@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T11:46:45.800Z",
+ "updated": "2026-10-21T12:57:40.698Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1236,
+   "p": 1.1235,
    "ch": -0.04,
-   "asof": "2026-10-21T11:46:28.000Z"
+   "asof": "2026-10-21T12:57:25.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.34,
-   "ch": 0.16,
-   "asof": "2026-10-21T11:46:28.000Z"
+   "p": 1.3399,
+   "ch": 0.15,
+   "asof": "2026-10-21T12:57:25.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.944,
-   "ch": -0.12,
-   "asof": "2026-10-21T11:46:45.000Z"
+   "p": 157.906,
+   "ch": -0.14,
+   "asof": "2026-10-21T12:57:40.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7033,
-   "ch": 0.39,
-   "asof": "2026-10-21T11:45:28.000Z"
+   "p": 0.7037,
+   "ch": 0.44,
+   "asof": "2026-10-21T12:57:25.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4044,
-   "ch": -0.12,
-   "asof": "2026-10-21T11:46:45.000Z"
+   "p": 1.4051,
+   "ch": -0.07,
+   "asof": "2026-10-21T12:57:40.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8243,
-   "ch": 0,
-   "asof": "2026-10-21T11:46:45.000Z"
+   "p": 0.8238,
+   "ch": -0.06,
+   "asof": "2026-10-21T12:57:40.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 83345.39,
-   "ch": 0.49,
-   "asof": "2026-10-21T11:46:42.000Z"
+   "p": 83380.86,
+   "ch": 0.53,
+   "asof": "2026-10-21T12:57:35.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2459.87,
-   "ch": 0.54,
-   "asof": "2026-10-21T11:46:44.000Z"
+   "p": 2464.87,
+   "ch": 0.74,
+   "asof": "2026-10-21T12:57:34.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4151.7,
-   "ch": 0.22,
-   "asof": "2026-10-21T11:36:45.000Z"
+   "p": 4145.3,
+   "ch": 0.07,
+   "asof": "2026-10-21T12:47:40.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 98.63,
-   "ch": 0.83,
-   "asof": "2026-10-21T11:36:44.000Z"
+   "p": 98.04,
+   "ch": 0.22,
+   "asof": "2026-10-21T12:47:41.000Z"
   },
   {
    "s": "USD/KES",
@@ -293,39 +293,39 @@
    "d": 2,
    "p": 129.82,
    "ch": 0,
-   "asof": "2026-10-21T06:48:09.000Z"
+   "asof": "2026-10-21T12:50:16.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4195,
-   "ch": 0.24,
-   "asof": "2026-10-21T11:46:46.000Z"
+   "p": 16.3684,
+   "ch": -0.07,
+   "asof": "2026-10-21T12:57:42.000Z"
   },
   {
    "s": "USD/NGN",
    "m": "Forex",
    "d": 2,
-   "p": 1328.56,
-   "ch": 0,
-   "asof": "2026-10-21T02:39:18.000Z"
+   "p": 1330.84,
+   "ch": 0.17,
+   "asof": "2026-10-21T12:50:16.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 106.63,
-   "ch": 0.2,
-   "asof": "2026-10-21T11:46:42.000Z"
+   "p": 106.79,
+   "ch": 0.35,
+   "asof": "2026-10-21T12:57:32.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3553,
-   "ch": 1.56,
-   "asof": "2026-10-21T11:46:40.000Z"
+   "p": 1.356,
+   "ch": 1.61,
+   "asof": "2026-10-21T12:57:38.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.775,
-   "ch": -0.39,
-   "asof": "2026-10-21T11:36:33.000Z"
+   "p": 57.575,
+   "ch": -0.73,
+   "asof": "2026-10-21T12:47:41.000Z"
   }
  ],
  "news": [
@@ -399,9 +399,16 @@
   [
    "Stocks",
    "med",
-   "Nasdaq futures lead gains as SpaceX, Super Micro results lift AI trade",
+   "Nasdaq futures lead gains as SpaceX, Super Micro results lift AI stocks",
    "Reuters",
    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZUJTOXdaa0JmVzZubm12MGt4VnNSemsyOW1fQXpCMnhEc25HSVJRZk93d2NYUXQ3eHBuQklaNE1FT1QyQ1NqdTFkdExDbmoxY2JtOWhLQkVtYXczMHh3a3VsZmhub1JFc0FIZHN1eEcwc3FRZVZWQnBoSjFjekFYTUN6X2d5WHJUWGpDU2paekhhU24zenhNbWpXUmtfdmo5cTFIZVZwTXdiRzZoeUtiazhHWkJEWEVZLTVmQmRMcw?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Saudi crude oil exports hit five-month high in August, data shows",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxNekotZUduQW5FQm0wOVZHbVlzT3U0OWxVdVhNNDRfUjZlVjlxZmNMWEh2M09yTGhwNUhSOGlGQWJDTkg4NDBxdVNSNC1oZWN5cldTZ0xBSzFlYTNXRjBUOVpuMlYzWUo1aWEyaDJSM2NlSURCSFhQWlRHallSdU43TUU0ckpkXzI0UWhINjZqbW9IU0FhcUZjdlhNbi15djVCSktpVEE0LXNXOGFITzluWDBTRQ?oc=5"
   ],
   [
    "Commodities",
@@ -409,13 +416,6 @@
    "Oil prices climb as traders assess Middle East developments",
    "CNBC",
    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMGJ5Y1pPUDFBa2J6dUEwc0RnYmVRWnNFQmhTNjhsa1ItUVBFZG14cGVzTU1kZ205RDN4Mmcyd1pzQjRJNGl6N2F1Nng2WlBGSWVZd2JBSXVYWmFNTnpZRWxBZTVqUmdaVFNRRUEwczJtcC1PcnhDSkN3RXU2eWllNlZGcFQyQzVzaXA3V09PTXYwVVAx0gGaAUFVX3lxTE95am5EZGd5cEZod2RCX0FMZTdIOE1paDJvTUQ2OERsckxsYVZON19rZ0JWbTZYWDhVZXlqU0dNRm0ydlp6dUVxQkcwU1VtbWFRWE9kRk5PLUNubG9MSWF5anBIQThhQ0FKS0UzaHVRdXRRN0V2Nkl2SFVHV05JaThJZFlMT2tsY1ZxdUxDUUJZRFBpN1hHSjJ2TkE?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Oil prices jump $2 as Iran knocks hopes of diplomatic progress",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNTdIRmp3MTB3c3JZNGxXMUl1Wk5haXFwcjdJNXgtQnJkOEM4aWVVWG5tai03TmhHSWZidkliV1VlRkRvOVJCX3Q3QXhCWVdZeXlYQmViOUdOaU85anVWMXpSWFNCOHAtVU5id3Fad1BhX1BzVEt6S1A4N2s1YjJocFh6QXFTVXhHdDJJVzZBX21WUQ?oc=5"
   ]
  ]
 }
