@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T04:45:35.393Z",
+ "updated": "2026-10-21T05:45:01.806Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,9 +187,9 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1228,
-   "ch": -0.11,
-   "asof": "2026-10-21T04:45:30.000Z"
+   "p": 1.1227,
+   "ch": -0.12,
+   "asof": "2026-10-21T05:44:26.000Z"
   },
   {
    "s": "GBP/USD",
@@ -197,23 +197,23 @@
    "d": 4,
    "p": 1.3375,
    "ch": -0.03,
-   "asof": "2026-10-21T04:45:30.000Z"
+   "asof": "2026-10-21T05:44:26.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.092,
-   "ch": -0.03,
-   "asof": "2026-10-21T04:45:35.000Z"
+   "p": 158.154,
+   "ch": 0.01,
+   "asof": "2026-10-21T05:45:01.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7014,
-   "ch": 0.11,
-   "asof": "2026-10-21T04:45:30.000Z"
+   "p": 0.7017,
+   "ch": 0.16,
+   "asof": "2026-10-21T05:43:26.000Z"
   },
   {
    "s": "USD/CAD",
@@ -221,31 +221,31 @@
    "d": 4,
    "p": 1.4062,
    "ch": 0.01,
-   "asof": "2026-10-21T04:45:33.000Z"
+   "asof": "2026-10-21T05:45:01.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8255,
-   "ch": 0.15,
-   "asof": "2026-10-21T04:45:31.000Z"
+   "p": 0.8257,
+   "ch": 0.17,
+   "asof": "2026-10-21T05:45:01.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82699.99,
-   "ch": -0.29,
-   "asof": "2026-10-21T04:45:32.000Z"
+   "p": 82633.46,
+   "ch": -0.37,
+   "asof": "2026-10-21T05:44:59.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2441.28,
-   "ch": -0.22,
-   "asof": "2026-10-21T04:45:31.000Z"
+   "p": 2438.28,
+   "ch": -0.34,
+   "asof": "2026-10-21T05:44:56.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4135.9,
-   "ch": -0.16,
-   "asof": "2026-10-21T04:35:28.000Z"
+   "p": 4144.1,
+   "ch": 0.04,
+   "asof": "2026-10-21T05:34:58.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 99.17,
-   "ch": 1.38,
-   "asof": "2026-10-21T04:35:28.000Z"
+   "p": 99.03,
+   "ch": 1.24,
+   "asof": "2026-10-21T05:34:55.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4005,
-   "ch": 0.12,
-   "asof": "2026-10-21T04:45:34.000Z"
+   "p": 16.4033,
+   "ch": 0.14,
+   "asof": "2026-10-21T05:45:01.000Z"
   },
   {
    "s": "USD/NGN",
@@ -317,15 +317,15 @@
    "d": 2,
    "p": 105.7,
    "ch": -0.68,
-   "asof": "2026-10-21T04:45:22.000Z"
+   "asof": "2026-10-21T05:44:56.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3321,
-   "ch": -0.18,
-   "asof": "2026-10-21T04:45:29.000Z"
+   "p": 1.3341,
+   "ch": -0.03,
+   "asof": "2026-10-21T05:44:56.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.49,
-   "ch": -0.88,
-   "asof": "2026-10-21T04:35:19.000Z"
+   "p": 57.625,
+   "ch": -0.65,
+   "asof": "2026-10-21T05:34:53.000Z"
   }
  ],
  "news": [
@@ -385,9 +385,9 @@
   [
    "Crypto",
    "med",
-   "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVTA0ODdEQWdWTkZYUUJPS25Na2h5SXJZWE1ldGZfUURkUm5tbGc4MldlUFlIV1QxSTVZRjVzRXdBUEJDNm1qVjE1NUxINnZ6dVpzekFuTTNUMFVWN2VfaFJBUlg0MDVYbjQyR1hJdm04d2V4RVJLWkZwVjI2ZTNOdDlEZGMxNjY1TVBLSHdSRm1kNmZLQ3UzejNKOWdPdmNPZmxsLVN2MTVfeVB4S3BBRVFvTWhmZw?oc=5"
+   "Munger Protégé Li Lu Calls Crypto “Fundamentally Bogus” and Predicts Its Demise",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa0QyTU8tT2k0bDZOSnNLNUo0bk5ZY3J5LTMteWduMDBwZGJXclJYNjk1bmljQ3JzbWE3X0NzR3N1WFl5VFJ0LXpHZHJQN3dnQ3piSHlXRUI1aUlxT2x5a3pYUk9XS0RObFZlbG1MSlRvZlFpelFLQy0xU1Q2V25qeTlrVDNEb1k3QzV4Sw?oc=5"
   ],
   [
    "Stocks",
@@ -413,9 +413,9 @@
   [
    "Commodities",
    "med",
-   "Current price of oil as of Oct. 20, 2026",
-   "Fortune",
-   "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rTUlwQUZDRU1uLS1LYTNKdWdDSG5xUGxVaGVDTk9ESXhNczk1UHE1UXZoaE9EQTlJeTFVSmhhWUlyVWlmM0ItYkZyQ0lCd0U2NnNyX0ZMYUhYLWdCYjdOcnV3?oc=5"
+   "EU Stands Firm Against Arctic Oil and Gas Drilling Despite Energy Crisis",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX0gyS2pJYjQwMlpiVy1EX0k4M2pHVTJ2ejU0ZGFMTkNiZjRaU1k2VnZYeTIxRlNLNnRYRlpsNVNqRVpqT2JmdzdPQk9EV012eXE5VkRlVko1QkRhRUw2cWdyaEFBa2k3QThGS1hXR1ctVHd1Q3IxQUFXa2pzMFlkWW5NMHlZTWN1QVRYckJiZ2VlZXA5eVQ3cXRCeGJBX2Nkd3lvSnlsNFJFWVpEVDE2N01BT1hBVDNyZWFUZ2tGaEQ5UDNLYmRB0gHMAUFVX3lxTE04Yjhxc0ZJVlJiY0ZneFJlWTFya0tqemNGYmRHT3pPLWtRY3d2Z0UtUGQ5TXJUNDdEeFdZLXhKT3E2YlEtd3AtbWlMQWRpUXhFSFBYMTZOTTVfQzN3cWp0U1hqNWxDdDdVMU9lakUyTlBwRXFPQm11VkJ2NEhabk5Vc0tOaFlNYnBwQ0U4d1R4eTFYWGtyTU4zMmF2SmwwOGVLWlB6clMxWUVSZlNsU2lsVThRVEh4VUlTSkQ5aVlmRGVQcHBVeU9OVWtkTA?oc=5"
   ]
  ]
 }
