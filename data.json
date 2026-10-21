@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T20:47:34.970Z",
+ "updated": "2026-10-21T21:47:41.316Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1237,
-   "ch": -0.03,
-   "asof": "2026-10-21T20:47:25.000Z"
+   "p": 1.1236,
+   "ch": -0.04,
+   "asof": "2026-10-21T21:47:27.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3396,
-   "ch": 0.13,
-   "asof": "2026-10-21T20:47:25.000Z"
+   "p": 1.3393,
+   "ch": 0.1,
+   "asof": "2026-10-21T21:47:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.128,
-   "ch": 0,
-   "asof": "2026-10-21T20:47:32.000Z"
+   "p": 158.076,
+   "ch": -0.04,
+   "asof": "2026-10-21T21:47:37.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7032,
-   "ch": 0.37,
-   "asof": "2026-10-21T20:47:25.000Z"
+   "p": 0.7028,
+   "ch": 0.31,
+   "asof": "2026-10-21T21:47:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4045,
-   "ch": -0.11,
-   "asof": "2026-10-21T20:47:33.000Z"
+   "p": 1.4041,
+   "ch": -0.14,
+   "asof": "2026-10-21T21:47:36.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8244,
-   "ch": 0.01,
-   "asof": "2026-10-21T20:47:32.000Z"
+   "p": 0.8238,
+   "ch": -0.06,
+   "asof": "2026-10-21T21:47:40.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 84623.7,
-   "ch": 2.03,
-   "asof": "2026-10-21T20:47:29.000Z"
+   "p": 84742.52,
+   "ch": 2.17,
+   "asof": "2026-10-21T21:47:36.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2492.41,
-   "ch": 1.87,
-   "asof": "2026-10-21T20:47:31.000Z"
+   "p": 2497.72,
+   "ch": 2.09,
+   "asof": "2026-10-21T21:47:38.000Z"
   },
   {
    "s": "S&P 500",
@@ -261,7 +261,7 @@
    "d": 2,
    "p": 26702.857,
    "ch": 1.05,
-   "asof": "2026-10-21T20:47:31.000Z"
+   "asof": "2026-10-21T21:15:59.000Z"
   },
   {
    "s": "Dow Jones",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4150.7,
-   "ch": 0.2,
-   "asof": "2026-10-21T20:37:18.000Z"
+   "p": 4159.5,
+   "ch": 0.41,
+   "asof": "2026-10-21T20:59:57.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 97.59,
-   "ch": -0.24,
-   "asof": "2026-10-21T20:37:29.000Z"
+   "p": 97.71,
+   "ch": -0.11,
+   "asof": "2026-10-21T20:59:59.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.3676,
-   "ch": -0.08,
-   "asof": "2026-10-21T20:47:34.000Z"
+   "p": 16.3691,
+   "ch": -0.07,
+   "asof": "2026-10-21T21:47:40.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 108.17,
-   "ch": 1.64,
-   "asof": "2026-10-21T20:47:23.000Z"
+   "p": 108.13,
+   "ch": 1.6,
+   "asof": "2026-10-21T21:47:37.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3864,
-   "ch": 3.89,
-   "asof": "2026-10-21T20:47:29.000Z"
+   "p": 1.3819,
+   "ch": 3.55,
+   "asof": "2026-10-21T21:47:31.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.95,
-   "ch": -0.09,
-   "asof": "2026-10-21T20:37:25.000Z"
+   "p": 58.115,
+   "ch": 0.2,
+   "asof": "2026-10-21T20:59:55.000Z"
   }
  ],
  "news": [
@@ -378,7 +378,7 @@
   [
    "Crypto",
    "med",
-   "Trump to tout crackdown on overseas crypto scams",
+   "Trump says fraud investigations make 'very big dent' in overseas scams",
    "Reuters",
    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV1R4TWFDN2k5T1RwZjQ4dUxmeF9QY2x6SWdzYmhnRFhLY3hwVWUxN1pUcFVEd0tKSS13MUVPRTRCU0RKeUlKcFBZWGFUWjN1VW5fYzBMWGhhclo4QmZOaV94SmtXRGlVRUExS1BkaFRNZk45TDAwbjVfM1Uwd0V2cUtVa2ZLTHlyVHdhWWRtbEwwSWNvdmxTbUs4UQ?oc=5"
   ],
@@ -392,7 +392,7 @@
   [
    "Stocks",
    "med",
-   "Nasdaq leads Wall Street to higher close as SpaceX, Super Micro boost AI sentiment",
+   "Nasdaq leads Wall Street gains as SpaceX, Super Micro boost AI sentiment",
    "Reuters",
    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZUJTOXdaa0JmVzZubm12MGt4VnNSemsyOW1fQXpCMnhEc25HSVJRZk93d2NYUXQ3eHBuQklaNE1FT1QyQ1NqdTFkdExDbmoxY2JtOWhLQkVtYXczMHh3a3VsZmhub1JFc0FIZHN1eEcwc3FRZVZWQnBoSjFjekFYTUN6X2d5WHJUWGpDU2paekhhU24zenhNbWpXUmtfdmo5cTFIZVZwTXdiRzZoeUtiazhHWkJEWEVZLTVmQmRMcw?oc=5"
   ],
@@ -413,9 +413,9 @@
   [
    "Commodities",
    "med",
-   "Saudi crude oil exports hit five-month high in August, data shows",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxNekotZUduQW5FQm0wOVZHbVlzT3U0OWxVdVhNNDRfUjZlVjlxZmNMWEh2M09yTGhwNUhSOGlGQWJDTkg4NDBxdVNSNC1oZWN5cldTZ0xBSzFlYTNXRjBUOVpuMlYzWUo1aWEyaDJSM2NlSURCSFhQWlRHallSdU43TUU0ckpkXzI0UWhINjZqbW9IU0FhcUZjdlhNbi15djVCSktpVEE0LXNXOGFITzluWDBTRQ?oc=5"
+   "India's Top State Refiner to Reduce Middle East Term Oil Purchases",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNEpEZS1HbGNoS0pUWXNINHBGenZwZFdnaHNjbTZLNXFPLUxGc0RHeHJWWDNLVVZaenFNSGFNWVJwMWx6WDZDMjdxckc2UzRnSTlUekU2dTFEN1RTMVZzTjJLX3lCYThJcFdZZ0hiYlhhblY4cnJ0aUpYZDd1ZFpyMmNKOVotX04yVlpMajFZaENvUVhKRzJuS1FpZ3NWOEZyVjM5R28zek1jdVVJZW9JQ0JkRS0zZWl6MXlMcVhR0gHDAUFVX3lxTE1GU3ZCa2NkZm9CMFh1Skk0eWtzU0NvWm5MeVNsUTVQeEUzUFJSTTE4bU5oSWY2dVJBMEFoeWFsMzN2VldHemFUWHpKT2dYQ3RjMGdpWDRHWGVYNmNvUmd2ZF8wb29BeGQwVkx5RGl5c2cwYllVU3FFdUdGTDF4VWdhMnVLM180SDBkWDRrOFRjZGUxc290R20yT0V4TVBJOFcxSG5vcmljV1p6dmJwMzc3QkNkT0hBNnlXbkUtOXcxbXV2MA?oc=5"
   ]
  ]
 }
