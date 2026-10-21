@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T07:54:38.951Z",
+ "updated": "2026-10-21T08:50:45.000Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.123,
-   "ch": -0.09,
-   "asof": "2026-10-21T07:54:28.000Z"
+   "p": 1.1226,
+   "ch": -0.12,
+   "asof": "2026-10-21T08:50:30.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3386,
-   "ch": 0.05,
-   "asof": "2026-10-21T07:54:28.000Z"
+   "p": 1.3398,
+   "ch": 0.14,
+   "asof": "2026-10-21T08:50:30.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.11,
-   "ch": -0.02,
-   "asof": "2026-10-21T07:54:38.000Z"
+   "p": 158.158,
+   "ch": 0.02,
+   "asof": "2026-10-21T08:50:44.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7028,
-   "ch": 0.31,
-   "asof": "2026-10-21T07:53:28.000Z"
+   "p": 0.7029,
+   "ch": 0.33,
+   "asof": "2026-10-21T08:49:30.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4053,
-   "ch": -0.06,
-   "asof": "2026-10-21T07:54:38.000Z"
+   "p": 1.405,
+   "ch": -0.08,
+   "asof": "2026-10-21T08:50:44.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8247,
-   "ch": 0.05,
-   "asof": "2026-10-21T07:54:38.000Z"
+   "p": 0.8246,
+   "ch": 0.04,
+   "asof": "2026-10-21T08:50:42.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 83062.99,
-   "ch": 0.15,
-   "asof": "2026-10-21T07:54:35.000Z"
+   "p": 83578.38,
+   "ch": 0.77,
+   "asof": "2026-10-21T08:50:43.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2454.29,
-   "ch": 0.31,
-   "asof": "2026-10-21T07:54:33.000Z"
+   "p": 2461.45,
+   "ch": 0.6,
+   "asof": "2026-10-21T08:50:39.000Z"
   },
   {
    "s": "S&P 500",
@@ -253,7 +253,7 @@
    "d": 2,
    "p": 7712.57,
    "ch": 0.28,
-   "asof": "2026-10-20T20:00:00.000Z"
+   "asof": "2026-10-20T20:45:45.000Z"
   },
   {
    "s": "Nasdaq",
@@ -267,25 +267,25 @@
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52495.9,
+   "p": 52495.88,
    "ch": 1.02,
-   "asof": "2026-10-20T20:00:00.000Z"
+   "asof": "2026-10-20T20:46:03.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4138.8,
-   "ch": -0.09,
-   "asof": "2026-10-21T07:44:31.000Z"
+   "p": 4140.5,
+   "ch": -0.05,
+   "asof": "2026-10-21T08:40:37.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 98.59,
-   "ch": 0.79,
-   "asof": "2026-10-21T07:44:36.000Z"
+   "p": 99,
+   "ch": 1.21,
+   "asof": "2026-10-21T08:40:42.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4019,
-   "ch": 0.13,
-   "asof": "2026-10-21T07:54:38.000Z"
+   "p": 16.4108,
+   "ch": 0.19,
+   "asof": "2026-10-21T08:50:45.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 106.75,
-   "ch": 0.31,
-   "asof": "2026-10-21T07:54:35.000Z"
+   "p": 107.06,
+   "ch": 0.6,
+   "asof": "2026-10-21T08:50:43.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.343,
-   "ch": 0.64,
-   "asof": "2026-10-21T07:54:34.000Z"
+   "p": 1.3526,
+   "ch": 1.36,
+   "asof": "2026-10-21T08:50:41.000Z"
   },
   {
    "s": "Apple",
@@ -355,25 +355,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.485,
-   "ch": -0.89,
-   "asof": "2026-10-21T07:44:28.000Z"
+   "p": 57.44,
+   "ch": -0.97,
+   "asof": "2026-10-21T08:40:33.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Indonesia's central bank keeps main rate unchanged, hikes deposit facility rate",
+   "Former Hungarian central bank chief Matolcsy detained, news site Telex says",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbjl2OVZIN3QyVWh2TlJoS3VMZzYxa1N0cWZJRUxmeDVwanFSMU1RN3pDTVBHaXFJOGZqdno0cUVKT1ZCblNfTlVmbFRqZzBxNl9aM19jMkRPN1g5X1FmYUJRQVRzNXZJMkJJLUlZSllSNXIzSmt3M29tYWZmWkF4cUxlQVowb1hMN1ZzdXNJVTBJN25wTUEyaXpwS3R1aUR0RmZCYXdQc3hZd0FUY2czVUYwU2lSdjNLa3kzY2JCSG1UZUFCZW9mY1dzMV8?oc=5"
+   "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMkxqQkdiOXBuOUE1R0tpenMtMFdRM2lDRzkweHB5cm93clBRM2h4dEI3M1pFZ0V4QlVyNXA1dzZPWGFiOThtbUVGQTBNVmJfZ2F0UXQyOTRXa3FiS0RMSGxpZ1duMVdGQW84cEd3NkxRQ25IajVnbTdmakFJUnFPb0ZwOWRLZTl6VmVFWVp6OXc0RlhYZFRxcEpvN1N5clJKTzAtNUtrNGJ5bVRPNm1nczgtbDJxQVlQWVFNOXRmbDVTckVDN0E?oc=5"
   ],
   [
    "Forex",
    "med",
-   "Former Hungarian Central Bank Governor Detained, Report Says",
+   "Ukraine’s Anti-Graft Agencies Search Central Bank Building",
    "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaG9RSHFLM3FOVENNTUFNa0laYWJxbkZwbFVGZ2ZkWDdnNE9GNGRyYzRKYkpLY2VWcG5jSmdhWEllZ0p4OEJXTEVBc3NVaUxmeHBVYXVFYWttUzNYbEVxLTIzSkdwSkdSRFRkTVZfTzNmY3R1NGJQUE95X1dKUXQ4cDRDRnFUWDFfUTh6elFaTHhpSWtfSXl2MTVKbzR5WlZxMGlrWXE3RXJTcG1WdkpQZFByYw?oc=5"
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVmlBUFJIVk9tM2xuNTlHdThrUTlsdGcwM2xMbHp1RURsN3h2WFh2dmxsX0Q0VGtfbEpTSVNpZWtLMVJJNzFrazdhc1RLWEF1cUJzQWNWLTB1dG03MUplV1R0bUlKd0hsUXYtT1VTaGFKYWJkT3JJODhpR0c0OUFEWlpMVnd2OFY3T0NYWVlBU0Uzd1ZxVFZYYWlNQVlHNEI2SVVvSTdQX2NIYnlYR2c?oc=5"
   ],
   [
    "Crypto",
@@ -392,16 +392,16 @@
   [
    "Stocks",
    "med",
-   "Dow outperforms as Wall Street rises, healthcare stocks lead gains",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2JsXzZ4YTVKcDJjNE9iTW42aU0wY0VOZXRtdDYxTzJTanBUOGZIT1FLSl9FVTNxQ1RpTVFSWHlsejgyR0Y1b3JQWXRlT0dEMjJPWWpXYlpfdFJQaHZKZG5KdUNMdW53NmlMd2RwUWJKWFB3dE9Xc2ZBbnRfalF3cWNzblhxTGJOTGlKYUh1a0FmWC1vaGQydWZXdTMzemJjSVg5NWZ0bw?oc=5"
+   "Exclusive | Musk Ordered Starlink Slowdown That Blindsided Ukraine",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMidkFVX3lxTE05TXhCNE5nTDBJcEZteGFUWGtLMHY5bmlkOXBBajNqMlpqbkF4Q2wwOVZjN2E2YWhSU2p6YmJoTmpwUW1VMkVqUEhSZjc3N1hMdVZwR3RjazBCdHRVZmptaEtpN2dtV3hzcHYwb2NadVlYZFlaMkE?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Wall Street Trading Desks Get Undermined",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdG0xMWVJbnlMNHp4TlRMYkhyUnBXYmE3T1NoWHM0Rzl3UFVWUHlPZE5CWUtyYm9ycm9qWjlEXzFSZy1XbTZHTE5xbUoxNlp4WUU0Wkp6TVc4RE4wRkF5bjllUm1yYU9ya19tTlRXZGJzMndrOEtHaTh4NlAtdmNrWFRIWWk2Tm5WbG1jWWF5NjY?oc=5"
+   "Dow outperforms as Wall Street rises, healthcare stocks lead gains",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2JsXzZ4YTVKcDJjNE9iTW42aU0wY0VOZXRtdDYxTzJTanBUOGZIT1FLSl9FVTNxQ1RpTVFSWHlsejgyR0Y1b3JQWXRlT0dEMjJPWWpXYlpfdFJQaHZKZG5KdUNMdW53NmlMd2RwUWJKWFB3dE9Xc2ZBbnRfalF3cWNzblhxTGJOTGlKYUh1a0FmWC1vaGQydWZXdTMzemJjSVg5NWZ0bw?oc=5"
   ],
   [
    "Commodities",
@@ -413,9 +413,9 @@
   [
    "Commodities",
    "med",
-   "Current price of oil as of October 20, 2026",
-   "Fortune",
-   "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rTUlwQUZDRU1uLS1LYTNKdWdDSG5xUGxVaGVDTk9ESXhNczk1UHE1UXZoaE9EQTlJeTFVSmhhWUlyVWlmM0ItYkZyQ0lCd0U2NnNyX0ZMYUhYLWdCYjdOcnV3?oc=5"
+   "Stocktwits Midweek Energy Roundup: Brent Crosses $110 A Barrel, Musk’s Comments On Power For AI, Key Earnings Check",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1B4X0RiUVJJNjhvdk9hLXA0Tk13UnI0MG1FSTdVdjZXc2s1VjRBY2l4UUczNFpRVDhNeEZrclRDa21ud1hmV2FxQUZ1akZVOWh4ejRxV2JkSzNVQnduVUpKYUxvWl9YdUVaSnkyVFEtZnVKOUgyQjNDR1BkNGdrcVBhVDNIQ21yM0VPcWs5SDd2N3ZrV2h3NDJ1TS0?oc=5"
   ]
  ]
 }
