@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T03:46:57.150Z",
+ "updated": "2026-10-21T04:45:35.393Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,9 +187,9 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1231,
-   "ch": -0.08,
-   "asof": "2026-10-21T03:46:28.000Z"
+   "p": 1.1228,
+   "ch": -0.11,
+   "asof": "2026-10-21T04:45:30.000Z"
   },
   {
    "s": "GBP/USD",
@@ -197,55 +197,55 @@
    "d": 4,
    "p": 1.3375,
    "ch": -0.03,
-   "asof": "2026-10-21T03:46:28.000Z"
+   "asof": "2026-10-21T04:45:30.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.139,
-   "ch": 0,
-   "asof": "2026-10-21T03:46:57.000Z"
+   "p": 158.092,
+   "ch": -0.03,
+   "asof": "2026-10-21T04:45:35.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7019,
-   "ch": 0.19,
-   "asof": "2026-10-21T03:45:28.000Z"
+   "p": 0.7014,
+   "ch": 0.11,
+   "asof": "2026-10-21T04:45:30.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4061,
-   "ch": 0,
-   "asof": "2026-10-21T03:46:57.000Z"
+   "p": 1.4062,
+   "ch": 0.01,
+   "asof": "2026-10-21T04:45:33.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8256,
-   "ch": 0.16,
-   "asof": "2026-10-21T03:46:55.000Z"
+   "p": 0.8255,
+   "ch": 0.15,
+   "asof": "2026-10-21T04:45:31.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82685.48,
-   "ch": -0.31,
-   "asof": "2026-10-21T03:46:55.000Z"
+   "p": 82699.99,
+   "ch": -0.29,
+   "asof": "2026-10-21T04:45:32.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2444.59,
-   "ch": -0.09,
-   "asof": "2026-10-21T03:46:49.000Z"
+   "p": 2441.28,
+   "ch": -0.22,
+   "asof": "2026-10-21T04:45:31.000Z"
   },
   {
    "s": "S&P 500",
@@ -253,7 +253,7 @@
    "d": 2,
    "p": 7712.57,
    "ch": 0.28,
-   "asof": "2026-10-20T20:00:00.000Z"
+   "asof": "2026-10-20T20:45:45.000Z"
   },
   {
    "s": "Nasdaq",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4141.8,
-   "ch": -0.02,
-   "asof": "2026-10-21T03:36:46.000Z"
+   "p": 4135.9,
+   "ch": -0.16,
+   "asof": "2026-10-21T04:35:28.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 99.24,
-   "ch": 1.45,
-   "asof": "2026-10-21T03:36:38.000Z"
+   "p": 99.17,
+   "ch": 1.38,
+   "asof": "2026-10-21T04:35:28.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.3968,
-   "ch": 0.1,
-   "asof": "2026-10-21T03:46:57.000Z"
+   "p": 16.4005,
+   "ch": 0.12,
+   "asof": "2026-10-21T04:45:34.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 105.92,
-   "ch": -0.47,
-   "asof": "2026-10-21T03:46:54.000Z"
+   "p": 105.7,
+   "ch": -0.68,
+   "asof": "2026-10-21T04:45:22.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3314,
-   "ch": -0.23,
-   "asof": "2026-10-21T03:46:55.000Z"
+   "p": 1.3321,
+   "ch": -0.18,
+   "asof": "2026-10-21T04:45:29.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.695,
-   "ch": -0.53,
-   "asof": "2026-10-21T03:36:08.000Z"
+   "p": 57.49,
+   "ch": -0.88,
+   "asof": "2026-10-21T04:35:19.000Z"
   }
  ],
  "news": [
@@ -378,16 +378,16 @@
   [
    "Crypto",
    "med",
-   "Token Accumulators Are Upping the Ante With Yields Rising",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWHpNOHJENFZwTmhRS1daYWpSQjBzTEdkTFBqM2l1N3YyelVuc0ZtRzlUTjRUUjBmMTVYYWFabzFUUW9kVTJOLVN1OWVDY0F1SHNlNG85R0V2ay1PVFlYVEctWDBVeDZlSVlfZVJxX0R6ZGtqU0JWNjRucGc1UkdqU1NndWl6d1FGSm03Y3d5LW1yMG94SGcxV1o0M2JRTmNqMHY3WTNaM3BLdm1uR2NXOURuOA?oc=5"
+   "Crypto exchanges race to offer prediction markets to US customers",
+   "Financial Times",
+   "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWkZHanZpdTBZaDlzQ241Y3ltUE53a1NoM1VDa2lLT08zbTRzTUhMaVRTTGktTUE4eUJpOFl3ZjlXM3FiZ0tLcEZSc2h3NjJMUUd5c3RDd005blVLTmZST1BGOXNHZnVOYXRYaUNfS2hlRUw4UW5pVUUyRW13UEE2QjN5YVk?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Jim Cramer Prefers Gold to Bitcoin for Portfolio Insurance, but Backs 2 ‘Vetted’ Cryptos",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1JSYllRWGhZRTNRalNRUTJBWmdIQXZabGtGOTdpUy1XdllEVlNKcG81T2FvY1hGVXdHUlIxV2RkREN3NlZtMld4elB5MGpvNzlSVFpIUWNtRmxZazFtaHdvajRQbllrYWkzN2pJTGxJajEzQWZ5ODVLTEM5NHBfczExZ0RCb2cteWMtcWU5OWprU1l5MTRrY3BCOUs?oc=5"
+   "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVTA0ODdEQWdWTkZYUUJPS25Na2h5SXJZWE1ldGZfUURkUm5tbGc4MldlUFlIV1QxSTVZRjVzRXdBUEJDNm1qVjE1NUxINnZ6dVpzekFuTTNUMFVWN2VfaFJBUlg0MDVYbjQyR1hJdm04d2V4RVJLWkZwVjI2ZTNOdDlEZGMxNjY1TVBLSHdSRm1kNmZLQ3UzejNKOWdPdmNPZmxsLVN2MTVfeVB4S3BBRVFvTWhmZw?oc=5"
   ],
   [
    "Stocks",
@@ -399,9 +399,9 @@
   [
    "Stocks",
    "med",
-   "U.S. Stocks Mixed as Strong Earnings Offset AI Credit Fears",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDRUVjRlc3JBSWk3Q3F4QkpoekUzZGVUNHM2UmJnZlNJcm5XZmdKa2h1NlFJX19TYkpmd010QUpqZHN5WC1uY0FrWnZTM1pPSXJCQng1MGlIRkxDeFBKLTdta1dVUDhqN05DMk5aTGt6ZkVZTTBQWllOQVNFR2ZPY3pqdDVEVGxtcXNHcnRzV1FqNmV2MWtrN0VMekJ4bU1ETmZ4TA?oc=5"
+   "How Long Could You Wait for the S&P 500 to Recover From a 10% Drop?",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQVhCZHdVZUFzNDFDczBGTjJCVzFBS1hGTUUzeDZFV2ZwOWNSYnBhemJheHJfM1RtYm5yZ0lVWGkxUEd0WkhlWU10RVB5cVB1UUcyQUdVdUdGMjBXVFVPVDFkdHpQRnRRbWZxZ09HVWxXLS1Qc1p0VWhWdnIwVS1XcWJHeGVPSUlnc0dMREpYZw?oc=5"
   ],
   [
    "Commodities",
