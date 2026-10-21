@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T06:58:59.437Z",
+ "updated": "2026-10-21T07:54:38.951Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1223,
-   "ch": -0.15,
-   "asof": "2026-10-21T06:58:27.000Z"
+   "p": 1.123,
+   "ch": -0.09,
+   "asof": "2026-10-21T07:54:28.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3376,
-   "ch": -0.02,
-   "asof": "2026-10-21T06:58:27.000Z"
+   "p": 1.3386,
+   "ch": 0.05,
+   "asof": "2026-10-21T07:54:28.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.157,
-   "ch": 0.01,
-   "asof": "2026-10-21T06:58:59.000Z"
+   "p": 158.11,
+   "ch": -0.02,
+   "asof": "2026-10-21T07:54:38.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7019,
-   "ch": 0.19,
-   "asof": "2026-10-21T06:57:27.000Z"
+   "p": 0.7028,
+   "ch": 0.31,
+   "asof": "2026-10-21T07:53:28.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.406,
-   "ch": -0.01,
-   "asof": "2026-10-21T06:58:58.000Z"
+   "p": 1.4053,
+   "ch": -0.06,
+   "asof": "2026-10-21T07:54:38.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8252,
-   "ch": 0.11,
-   "asof": "2026-10-21T06:58:59.000Z"
+   "p": 0.8247,
+   "ch": 0.05,
+   "asof": "2026-10-21T07:54:38.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82712.15,
-   "ch": -0.27,
-   "asof": "2026-10-21T06:58:54.000Z"
+   "p": 83062.99,
+   "ch": 0.15,
+   "asof": "2026-10-21T07:54:35.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2438.71,
-   "ch": -0.33,
-   "asof": "2026-10-21T06:58:53.000Z"
+   "p": 2454.29,
+   "ch": 0.31,
+   "asof": "2026-10-21T07:54:33.000Z"
   },
   {
    "s": "S&P 500",
@@ -253,7 +253,7 @@
    "d": 2,
    "p": 7712.57,
    "ch": 0.28,
-   "asof": "2026-10-20T20:45:45.000Z"
+   "asof": "2026-10-20T20:00:00.000Z"
   },
   {
    "s": "Nasdaq",
@@ -267,25 +267,25 @@
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52495.88,
+   "p": 52495.9,
    "ch": 1.02,
-   "asof": "2026-10-20T20:46:03.000Z"
+   "asof": "2026-10-20T20:00:00.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4131.5,
-   "ch": -0.27,
-   "asof": "2026-10-21T06:48:58.000Z"
+   "p": 4138.8,
+   "ch": -0.09,
+   "asof": "2026-10-21T07:44:31.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 99.25,
-   "ch": 1.46,
-   "asof": "2026-10-21T06:48:52.000Z"
+   "p": 98.59,
+   "ch": 0.79,
+   "asof": "2026-10-21T07:44:36.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4135,
-   "ch": 0.2,
-   "asof": "2026-10-21T06:58:59.000Z"
+   "p": 16.4019,
+   "ch": 0.13,
+   "asof": "2026-10-21T07:54:38.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 105.9,
-   "ch": -0.49,
-   "asof": "2026-10-21T06:58:42.000Z"
+   "p": 106.75,
+   "ch": 0.31,
+   "asof": "2026-10-21T07:54:35.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3328,
-   "ch": -0.13,
-   "asof": "2026-10-21T06:58:43.000Z"
+   "p": 1.343,
+   "ch": 0.64,
+   "asof": "2026-10-21T07:54:34.000Z"
   },
   {
    "s": "Apple",
@@ -355,25 +355,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.325,
-   "ch": -1.16,
-   "asof": "2026-10-21T06:48:58.000Z"
+   "p": 57.485,
+   "ch": -0.89,
+   "asof": "2026-10-21T07:44:28.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Breakingviews - COMMENTARY: Nvidia emerges as the central bank of AI",
+   "Indonesia's central bank keeps main rate unchanged, hikes deposit facility rate",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYlBQZWpwdUJacndaVm1uenphRkZIRXpUMk9aRF9kZURpUm1tUEYtMkJMZ2hzSW5mUFpISFA5d0JtTV9xSm81OVJ2TklDNjAyaE1pSE9XQzJmdlptZTJqNHNiTFRGdzFTeTdSMDFqNnNrUm5INW5ma1VzYUVRUGNYV1YyTTRuTFE5ZU56cFF4N3EtVVNKa0E?oc=5"
+   "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbjl2OVZIN3QyVWh2TlJoS3VMZzYxa1N0cWZJRUxmeDVwanFSMU1RN3pDTVBHaXFJOGZqdno0cUVKT1ZCblNfTlVmbFRqZzBxNl9aM19jMkRPN1g5X1FmYUJRQVRzNXZJMkJJLUlZSllSNXIzSmt3M29tYWZmWkF4cUxlQVowb1hMN1ZzdXNJVTBJN25wTUEyaXpwS3R1aUR0RmZCYXdQc3hZd0FUY2czVUYwU2lSdjNLa3kzY2JCSG1UZUFCZW9mY1dzMV8?oc=5"
   ],
   [
    "Forex",
    "med",
-   "Republic of Moldova Recognizes North Carolina State Partnership Program Director",
-   "National Guard.mil",
-   "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRjk4VklWNGJtN0FreXRwOVpYbk5WcTM1MF9adEZpbUNJeUpEZHR3NDZmTjRMbVdWeFU2UTNnY1ZOYWUtVXJFM2d4NUEtZWdTMXI1R3pLY29CeDZuSDVhRGsxaGdPazMyQTdrUnZqLUZtSnoxWjFGSk5WeDZsSHJmTTM2VUE5a2l3eG1TYUJGRWZSd2phS19Md29xM19XNFk4Wkt3LUxkMTZxRWVFM1JrMno2Z2tyTWdwLUNyY2labnM0Q0M2VS1tc2VBR1hGazZjempoS1hoanhneUhfQmc?oc=5"
+   "Former Hungarian Central Bank Governor Detained, Report Says",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaG9RSHFLM3FOVENNTUFNa0laYWJxbkZwbFVGZ2ZkWDdnNE9GNGRyYzRKYkpLY2VWcG5jSmdhWEllZ0p4OEJXTEVBc3NVaUxmeHBVYXVFYWttUzNYbEVxLTIzSkdwSkdSRFRkTVZfTzNmY3R1NGJQUE95X1dKUXQ4cDRDRnFUWDFfUTh6elFaTHhpSWtfSXl2MTVKbzR5WlZxMGlrWXE3RXJTcG1WdkpQZFByYw?oc=5"
   ],
   [
    "Crypto",
