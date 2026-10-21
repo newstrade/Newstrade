@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T09:47:31.382Z",
+ "updated": "2026-10-21T10:46:56.826Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1225,
-   "ch": -0.13,
-   "asof": "2026-10-21T09:47:26.000Z"
+   "p": 1.123,
+   "ch": -0.09,
+   "asof": "2026-10-21T10:46:27.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3396,
-   "ch": 0.13,
-   "asof": "2026-10-21T09:46:26.000Z"
+   "p": 1.3391,
+   "ch": 0.09,
+   "asof": "2026-10-21T10:46:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.119,
-   "ch": -0.01,
-   "asof": "2026-10-21T09:47:30.000Z"
+   "p": 158.087,
+   "ch": -0.03,
+   "asof": "2026-10-21T10:46:56.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7029,
-   "ch": 0.33,
-   "asof": "2026-10-21T09:47:26.000Z"
+   "p": 0.7033,
+   "ch": 0.39,
+   "asof": "2026-10-21T10:45:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4055,
-   "ch": -0.04,
-   "asof": "2026-10-21T09:47:30.000Z"
+   "p": 1.4046,
+   "ch": -0.11,
+   "asof": "2026-10-21T10:46:56.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8253,
-   "ch": 0.12,
-   "asof": "2026-10-21T09:47:30.000Z"
+   "p": 0.8251,
+   "ch": 0.1,
+   "asof": "2026-10-21T10:46:47.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 83341.63,
-   "ch": 0.48,
-   "asof": "2026-10-21T09:47:27.000Z"
+   "p": 83354.05,
+   "ch": 0.5,
+   "asof": "2026-10-21T10:46:50.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2457.28,
-   "ch": 0.43,
-   "asof": "2026-10-21T09:47:17.000Z"
+   "p": 2454.42,
+   "ch": 0.32,
+   "asof": "2026-10-21T10:46:49.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4140.4,
-   "ch": -0.05,
-   "asof": "2026-10-21T09:37:19.000Z"
+   "p": 4141.2,
+   "ch": -0.03,
+   "asof": "2026-10-21T10:36:56.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 99.06,
-   "ch": 1.27,
-   "asof": "2026-10-21T09:37:26.000Z"
+   "p": 100.03,
+   "ch": 2.26,
+   "asof": "2026-10-21T10:36:49.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4088,
-   "ch": 0.18,
-   "asof": "2026-10-21T09:47:31.000Z"
+   "p": 16.416,
+   "ch": 0.22,
+   "asof": "2026-10-21T10:46:56.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 106.69,
-   "ch": 0.25,
-   "asof": "2026-10-21T09:47:29.000Z"
+   "p": 106.52,
+   "ch": 0.09,
+   "asof": "2026-10-21T10:46:52.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3576,
-   "ch": 1.73,
-   "asof": "2026-10-21T09:47:24.000Z"
+   "p": 1.3579,
+   "ch": 1.75,
+   "asof": "2026-10-21T10:46:51.000Z"
   },
   {
    "s": "Apple",
@@ -355,25 +355,32 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.525,
-   "ch": -0.82,
-   "asof": "2026-10-21T09:37:19.000Z"
+   "p": 57.56,
+   "ch": -0.76,
+   "asof": "2026-10-21T10:36:34.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Former Hungarian central bank chief Matolcsy detained in foundations probe",
+   "India should let exchange rate move as first line of defence in ongoing shock, IMF official says",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMkxqQkdiOXBuOUE1R0tpenMtMFdRM2lDRzkweHB5cm93clBRM2h4dEI3M1pFZ0V4QlVyNXA1dzZPWGFiOThtbUVGQTBNVmJfZ2F0UXQyOTRXa3FiS0RMSGxpZ1duMVdGQW84cEd3NkxRQ25IajVnbTdmakFJUnFPb0ZwOWRLZTl6VmVFWVp6OXc0RlhYZFRxcEpvN1N5clJKTzAtNUtrNGJ5bVRPNm1nczgtbDJxQVlQWVFNOXRmbDVTckVDN0E?oc=5"
+   "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZlpyZnA3Yjc3Uzhzc3JzZ1ozVWItb3lkdnVCUTBYTTN2WUViSGRzRkxhU0c2ekpjOGxXenJRdzAxYkVScTEwOWpWQ3pFZGRJUkxlXzUzcUVCcno2cDVrdHp3b1R5UTZqVHdxY1NxbkxPeGZFbTBNeWtLVi1fVF9ZRmMzeS0yRFFtRUpKRFEteXJSX2hSRHFZdktpMllLeE5KQ09XUk5CWWJJNV9fYWgxZ21OMWF5TVJ4STg3Tg?oc=5"
   ],
   [
    "Forex",
    "med",
-   "Former Hungarian Central Bank Governor Detained, Report Says",
+   "Ukraine’s Anti-Graft Agencies Search Central Bank Building",
    "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaG9RSHFLM3FOVENNTUFNa0laYWJxbkZwbFVGZ2ZkWDdnNE9GNGRyYzRKYkpLY2VWcG5jSmdhWEllZ0p4OEJXTEVBc3NVaUxmeHBVYXVFYWttUzNYbEVxLTIzSkdwSkdSRFRkTVZfTzNmY3R1NGJQUE95X1dKUXQ4cDRDRnFUWDFfUTh6elFaTHhpSWtfSXl2MTVKbzR5WlZxMGlrWXE3RXJTcG1WdkpQZFByYw?oc=5"
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVmlBUFJIVk9tM2xuNTlHdThrUTlsdGcwM2xMbHp1RURsN3h2WFh2dmxsX0Q0VGtfbEpTSVNpZWtLMVJJNzFrazdhc1RLWEF1cUJzQWNWLTB1dG03MUplV1R0bUlKd0hsUXYtT1VTaGFKYWJkT3JJODhpR0c0OUFEWlpMVnd2OFY3T0NYWVlBU0Uzd1ZxVFZYYWlNQVlHNEI2SVVvSTdQX2NIYnlYR2c?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "The Next Generation of Crypto Winners Could Be Very Different",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYktMYmFlZUdKYkM1djh1OTY5ODJPN2h6ZEtockxtdGg4SnRDWlpFOHlxRnJUaWZKeEs1SzQwN0tRNEdhZEMwMEZaZ2tsV0kyRE5XMzhnS1l5S2VFY0l3ZVFMTXdTel8tVXhTaHhvTldDdUhxSW16OTdzMnFHODhQWVkweWRxdmVxZGp0VVdkbmRBRjB4NkpZUXNHQU9Va1gzX0JV?oc=5"
   ],
   [
    "Crypto",
@@ -381,13 +388,6 @@
    "Crypto exchanges race to offer prediction markets to US customers",
    "Financial Times",
    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWkZHanZpdTBZaDlzQ241Y3ltUE53a1NoM1VDa2lLT08zbTRzTUhMaVRTTGktTUE4eUJpOFl3ZjlXM3FiZ0tLcEZSc2h3NjJMUUd5c3RDd005blVLTmZST1BGOXNHZnVOYXRYaUNfS2hlRUw4UW5pVUUyRW13UEE2QjN5YVk?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "JPMorgan Asset Management Sets a 10% Base Case for Bitcoin, Still Sees No Clear Portfolio Role",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU1JUbGl3SlB0cW1ZbGozWGo1Z0IwNlR1VGN4WXpQX1VieE1jcm1MZVk4RHpCa01PUW1wQTBYeHl5YTRYZmhmOXNGMFJZZ0c1Mk9YOE9iUktiU0tJTENNamw2cHZWUXdKNHktZjVSNDUyS3RaUms5Nlp3THNURTZkOVNDTXNUTnlIa2xFQVNXSjdWZXQ2ZVo4NWN2QU9wQXM?oc=5"
   ],
   [
    "Stocks",
@@ -406,16 +406,16 @@
   [
    "Commodities",
    "med",
-   "Oil prices climb as traders assess Middle East developments",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMGJ5Y1pPUDFBa2J6dUEwc0RnYmVRWnNFQmhTNjhsa1ItUVBFZG14cGVzTU1kZ205RDN4Mmcyd1pzQjRJNGl6N2F1Nng2WlBGSWVZd2JBSXVYWmFNTnpZRWxBZTVqUmdaVFNRRUEwczJtcC1PcnhDSkN3RXU2eWllNlZGcFQyQzVzaXA3V09PTXYwVVAx0gGaAUFVX3lxTE95am5EZGd5cEZod2RCX0FMZTdIOE1paDJvTUQ2OERsckxsYVZON19rZ0JWbTZYWDhVZXlqU0dNRm0ydlp6dUVxQkcwU1VtbWFRWE9kRk5PLUNubG9MSWF5anBIQThhQ0FKS0UzaHVRdXRRN0V2Nkl2SFVHV05JaThJZFlMT2tsY1ZxdUxDUUJZRFBpN1hHSjJ2TkE?oc=5"
+   "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
+   "Kitco",
+   "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Oil rises on Middle East supply fears, US inventory drawdowns",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNTdIRmp3MTB3c3JZNGxXMUl1Wk5haXFwcjdJNXgtQnJkOEM4aWVVWG5tai03TmhHSWZidkliV1VlRkRvOVJCX3Q3QXhCWVdZeXlYQmViOUdOaU85anVWMXpSWFNCOHAtVU5id3Fad1BhX1BzVEt6S1A4N2s1YjJocFh6QXFTVXhHdDJJVzZBX21WUQ?oc=5"
+   "Oil prices climb as traders assess Middle East developments",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMGJ5Y1pPUDFBa2J6dUEwc0RnYmVRWnNFQmhTNjhsa1ItUVBFZG14cGVzTU1kZ205RDN4Mmcyd1pzQjRJNGl6N2F1Nng2WlBGSWVZd2JBSXVYWmFNTnpZRWxBZTVqUmdaVFNRRUEwczJtcC1PcnhDSkN3RXU2eWllNlZGcFQyQzVzaXA3V09PTXYwVVAx0gGaAUFVX3lxTE95am5EZGd5cEZod2RCX0FMZTdIOE1paDJvTUQ2OERsckxsYVZON19rZ0JWbTZYWDhVZXlqU0dNRm0ydlp6dUVxQkcwU1VtbWFRWE9kRk5PLUNubG9MSWF5anBIQThhQ0FKS0UzaHVRdXRRN0V2Nkl2SFVHV05JaThJZFlMT2tsY1ZxdUxDUUJZRFBpN1hHSjJ2TkE?oc=5"
   ]
  ]
 }
