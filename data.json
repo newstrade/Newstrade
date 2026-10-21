@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T01:47:12.466Z",
+ "updated": "2026-10-21T02:45:07.103Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1228,
-   "ch": -0.11,
-   "asof": "2026-10-21T01:46:26.000Z"
+   "p": 1.123,
+   "ch": -0.09,
+   "asof": "2026-10-21T02:44:27.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3372,
-   "ch": -0.05,
-   "asof": "2026-10-21T01:46:26.000Z"
+   "p": 1.3375,
+   "ch": -0.03,
+   "asof": "2026-10-21T02:44:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.339,
-   "ch": 0.13,
-   "asof": "2026-10-21T01:47:11.000Z"
+   "p": 158.208,
+   "ch": 0.05,
+   "asof": "2026-10-21T02:45:06.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.702,
-   "ch": 0.2,
-   "asof": "2026-10-21T01:45:26.000Z"
+   "p": 0.7021,
+   "ch": 0.21,
+   "asof": "2026-10-21T02:43:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4064,
-   "ch": 0.02,
-   "asof": "2026-10-21T01:47:12.000Z"
+   "p": 1.4062,
+   "ch": 0.01,
+   "asof": "2026-10-21T02:45:06.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8262,
-   "ch": 0.23,
-   "asof": "2026-10-21T01:47:12.000Z"
+   "p": 0.8258,
+   "ch": 0.18,
+   "asof": "2026-10-21T02:45:06.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82950.86,
-   "ch": 0.01,
-   "asof": "2026-10-21T01:47:06.000Z"
+   "p": 82687.1,
+   "ch": -0.31,
+   "asof": "2026-10-21T02:45:04.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2453.13,
-   "ch": 0.26,
-   "asof": "2026-10-21T01:47:10.000Z"
+   "p": 2445.26,
+   "ch": -0.06,
+   "asof": "2026-10-21T02:45:06.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4141.9,
-   "ch": -0.02,
-   "asof": "2026-10-21T01:37:09.000Z"
+   "p": 4134.9,
+   "ch": -0.19,
+   "asof": "2026-10-21T02:35:03.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 98.83,
-   "ch": 1.03,
-   "asof": "2026-10-21T01:37:09.000Z"
+   "p": 99.19,
+   "ch": 1.4,
+   "asof": "2026-10-21T02:35:04.000Z"
   },
   {
    "s": "USD/KES",
@@ -293,15 +293,15 @@
    "d": 2,
    "p": 129.82,
    "ch": 0,
-   "asof": "2026-10-21T01:05:24.000Z"
+   "asof": "2026-10-21T02:39:19.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.3907,
-   "ch": 0.06,
-   "asof": "2026-10-21T01:47:13.000Z"
+   "p": 16.3956,
+   "ch": 0.09,
+   "asof": "2026-10-21T02:45:07.000Z"
   },
   {
    "s": "USD/NGN",
@@ -309,23 +309,23 @@
    "d": 2,
    "p": 1328.56,
    "ch": 0,
-   "asof": "2026-10-21T01:05:24.000Z"
+   "asof": "2026-10-21T02:39:18.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 106.74,
-   "ch": 0.3,
-   "asof": "2026-10-21T01:47:11.000Z"
+   "p": 106.1,
+   "ch": -0.3,
+   "asof": "2026-10-21T02:45:04.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3382,
-   "ch": 0.28,
-   "asof": "2026-10-21T01:47:10.000Z"
+   "p": 1.3334,
+   "ch": -0.08,
+   "asof": "2026-10-21T02:45:01.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.88,
-   "ch": -0.21,
-   "asof": "2026-10-21T01:37:11.000Z"
+   "p": 57.61,
+   "ch": -0.67,
+   "asof": "2026-10-21T02:35:03.000Z"
   }
  ],
  "news": [
@@ -385,9 +385,9 @@
   [
    "Crypto",
    "med",
-   "Webull to debut crypto-linked perpetual futures in November",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQnU0YmVvcFVMMHlzTV9BdWNGdm0wXzJWOXNldUxJNkUwcExnczVWRzRDaGRwdEVNU252VENjVmpNV19fWEUwc3FBYmRZa0NsTWw2Z0NIdTNDb1lzMTFFSjVHdHlwYTQ4M2lhMmxzVWk4V3BGLWJxbmVsclZaQzNDNWVPS0ZWYld1TVpmeThWcjZOamdTSG9Cb3A3LWFFSkU?oc=5"
+   "Jim Cramer Prefers Gold to Bitcoin for Portfolio Insurance, but Backs 2 ‘Vetted’ Cryptos",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN1JSYllRWGhZRTNRalNRUTJBWmdIQXZabGtGOTdpUy1XdllEVlNKcG81T2FvY1hGVXdHUlIxV2RkREN3NlZtMld4elB5MGpvNzlSVFpIUWNtRmxZazFtaHdvajRQbllrYWkzN2pJTGxJajEzQWZ5ODVLTEM5NHBfczExZ0RCb2cteWMtcWU5OWprU1l5MTRrY3BCOUs?oc=5"
   ],
   [
    "Stocks",
