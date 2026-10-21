@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T05:45:01.806Z",
+ "updated": "2026-10-21T06:58:59.437Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1227,
-   "ch": -0.12,
-   "asof": "2026-10-21T05:44:26.000Z"
+   "p": 1.1223,
+   "ch": -0.15,
+   "asof": "2026-10-21T06:58:27.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3375,
-   "ch": -0.03,
-   "asof": "2026-10-21T05:44:26.000Z"
+   "p": 1.3376,
+   "ch": -0.02,
+   "asof": "2026-10-21T06:58:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.154,
+   "p": 158.157,
    "ch": 0.01,
-   "asof": "2026-10-21T05:45:01.000Z"
+   "asof": "2026-10-21T06:58:59.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7017,
-   "ch": 0.16,
-   "asof": "2026-10-21T05:43:26.000Z"
+   "p": 0.7019,
+   "ch": 0.19,
+   "asof": "2026-10-21T06:57:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4062,
-   "ch": 0.01,
-   "asof": "2026-10-21T05:45:01.000Z"
+   "p": 1.406,
+   "ch": -0.01,
+   "asof": "2026-10-21T06:58:58.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8257,
-   "ch": 0.17,
-   "asof": "2026-10-21T05:45:01.000Z"
+   "p": 0.8252,
+   "ch": 0.11,
+   "asof": "2026-10-21T06:58:59.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82633.46,
-   "ch": -0.37,
-   "asof": "2026-10-21T05:44:59.000Z"
+   "p": 82712.15,
+   "ch": -0.27,
+   "asof": "2026-10-21T06:58:54.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2438.28,
-   "ch": -0.34,
-   "asof": "2026-10-21T05:44:56.000Z"
+   "p": 2438.71,
+   "ch": -0.33,
+   "asof": "2026-10-21T06:58:53.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4144.1,
-   "ch": 0.04,
-   "asof": "2026-10-21T05:34:58.000Z"
+   "p": 4131.5,
+   "ch": -0.27,
+   "asof": "2026-10-21T06:48:58.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 99.03,
-   "ch": 1.24,
-   "asof": "2026-10-21T05:34:55.000Z"
+   "p": 99.25,
+   "ch": 1.46,
+   "asof": "2026-10-21T06:48:52.000Z"
   },
   {
    "s": "USD/KES",
@@ -293,15 +293,15 @@
    "d": 2,
    "p": 129.82,
    "ch": 0,
-   "asof": "2026-10-21T02:39:19.000Z"
+   "asof": "2026-10-21T06:48:09.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4033,
-   "ch": 0.14,
-   "asof": "2026-10-21T05:45:01.000Z"
+   "p": 16.4135,
+   "ch": 0.2,
+   "asof": "2026-10-21T06:58:59.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 105.7,
-   "ch": -0.68,
-   "asof": "2026-10-21T05:44:56.000Z"
+   "p": 105.9,
+   "ch": -0.49,
+   "asof": "2026-10-21T06:58:42.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3341,
-   "ch": -0.03,
-   "asof": "2026-10-21T05:44:56.000Z"
+   "p": 1.3328,
+   "ch": -0.13,
+   "asof": "2026-10-21T06:58:43.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.625,
-   "ch": -0.65,
-   "asof": "2026-10-21T05:34:53.000Z"
+   "p": 57.325,
+   "ch": -1.16,
+   "asof": "2026-10-21T06:48:58.000Z"
   }
  ],
  "news": [
@@ -399,23 +399,23 @@
   [
    "Stocks",
    "med",
-   "How Long Could You Wait for the S&P 500 to Recover From a 10% Drop?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQVhCZHdVZUFzNDFDczBGTjJCVzFBS1hGTUUzeDZFV2ZwOWNSYnBhemJheHJfM1RtYm5yZ0lVWGkxUEd0WkhlWU10RVB5cVB1UUcyQUdVdUdGMjBXVFVPVDFkdHpQRnRRbWZxZ09HVWxXLS1Qc1p0VWhWdnIwVS1XcWJHeGVPSUlnc0dMREpYZw?oc=5"
+   "Wall Street Trading Desks Get Undermined",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdG0xMWVJbnlMNHp4TlRMYkhyUnBXYmE3T1NoWHM0Rzl3UFVWUHlPZE5CWUtyYm9ycm9qWjlEXzFSZy1XbTZHTE5xbUoxNlp4WUU0Wkp6TVc4RE4wRkF5bjllUm1yYU9ya19tTlRXZGJzMndrOEtHaTh4NlAtdmNrWFRIWWk2Tm5WbG1jWWF5NjY?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Oil prices fall as traders hope for diplomatic progress in Middle East",
+   "Oil prices climb as traders assess Middle East developments",
    "CNBC",
-   "https://news.google.com/rss/articles/CBMib0FVX3lxTE03NjBGWFYwdTRJdGVxMnJ4QVNWUzNxeW9BUzZUTThjU3V5NThLWDBHdUx2RVhFMEI3WnVsdzBQVWtvZ1FUelQ4bkgyNk9MTmxFeWV4eFRoRWZVV3JQTEpQSVI1aXNpTW9uVk5IX3VNSdIBdEFVX3lxTE5BVFpmcUNCZTlrOXhpOGttMmlaLW03M3pabEk3TzVReVhkYmc4b0xLNU9henJ4Tl9uVkc2OHJ4UjVNUmlYdGp6Y3FyZXFFbVU0ZF9Zb3RELW1Pb3Q2RFlQVHBDUTRrTVVkZHdaUmZkNnI4Y21S?oc=5"
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMGJ5Y1pPUDFBa2J6dUEwc0RnYmVRWnNFQmhTNjhsa1ItUVBFZG14cGVzTU1kZ205RDN4Mmcyd1pzQjRJNGl6N2F1Nng2WlBGSWVZd2JBSXVYWmFNTnpZRWxBZTVqUmdaVFNRRUEwczJtcC1PcnhDSkN3RXU2eWllNlZGcFQyQzVzaXA3V09PTXYwVVAx0gGaAUFVX3lxTE95am5EZGd5cEZod2RCX0FMZTdIOE1paDJvTUQ2OERsckxsYVZON19rZ0JWbTZYWDhVZXlqU0dNRm0ydlp6dUVxQkcwU1VtbWFRWE9kRk5PLUNubG9MSWF5anBIQThhQ0FKS0UzaHVRdXRRN0V2Nkl2SFVHV05JaThJZFlMT2tsY1ZxdUxDUUJZRFBpN1hHSjJ2TkE?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "EU Stands Firm Against Arctic Oil and Gas Drilling Despite Energy Crisis",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX0gyS2pJYjQwMlpiVy1EX0k4M2pHVTJ2ejU0ZGFMTkNiZjRaU1k2VnZYeTIxRlNLNnRYRlpsNVNqRVpqT2JmdzdPQk9EV012eXE5VkRlVko1QkRhRUw2cWdyaEFBa2k3QThGS1hXR1ctVHd1Q3IxQUFXa2pzMFlkWW5NMHlZTWN1QVRYckJiZ2VlZXA5eVQ3cXRCeGJBX2Nkd3lvSnlsNFJFWVpEVDE2N01BT1hBVDNyZWFUZ2tGaEQ5UDNLYmRB0gHMAUFVX3lxTE04Yjhxc0ZJVlJiY0ZneFJlWTFya0tqemNGYmRHT3pPLWtRY3d2Z0UtUGQ5TXJUNDdEeFdZLXhKT3E2YlEtd3AtbWlMQWRpUXhFSFBYMTZOTTVfQzN3cWp0U1hqNWxDdDdVMU9lakUyTlBwRXFPQm11VkJ2NEhabk5Vc0tOaFlNYnBwQ0U4d1R4eTFYWGtyTU4zMmF2SmwwOGVLWlB6clMxWUVSZlNsU2lsVThRVEh4VUlTSkQ5aVlmRGVQcHBVeU9OVWtkTA?oc=5"
+   "Current price of oil as of October 20, 2026",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rTUlwQUZDRU1uLS1LYTNKdWdDSG5xUGxVaGVDTk9ESXhNczk1UHE1UXZoaE9EQTlJeTFVSmhhWUlyVWlmM0ItYkZyQ0lCd0U2NnNyX0ZMYUhYLWdCYjdOcnV3?oc=5"
   ]
  ]
 }
