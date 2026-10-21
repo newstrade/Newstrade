@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T23:41:02.698Z",
+ "updated": "2026-10-21T00:58:15.331Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1232,
-   "ch": -0.07,
-   "asof": "2026-10-20T23:40:28.000Z"
+   "p": 1.1231,
+   "ch": -0.08,
+   "asof": "2026-10-21T00:57:25.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3373,
-   "ch": -0.04,
-   "asof": "2026-10-20T23:40:28.000Z"
+   "p": 1.3375,
+   "ch": -0.03,
+   "asof": "2026-10-21T00:57:25.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.271,
-   "ch": 0.09,
-   "asof": "2026-10-20T23:41:00.000Z"
+   "p": 158.366,
+   "ch": 0.15,
+   "asof": "2026-10-21T00:58:14.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7011,
-   "ch": 0.07,
-   "asof": "2026-10-20T23:39:28.000Z"
+   "p": 0.7015,
+   "ch": 0.13,
+   "asof": "2026-10-21T00:57:25.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4065,
-   "ch": 0.03,
-   "asof": "2026-10-20T23:41:02.000Z"
+   "p": 1.4063,
+   "ch": 0.01,
+   "asof": "2026-10-21T00:58:15.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8255,
-   "ch": 0.15,
-   "asof": "2026-10-20T23:41:02.000Z"
+   "p": 0.8257,
+   "ch": 0.17,
+   "asof": "2026-10-21T00:58:15.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82844.64,
-   "ch": 1.22,
-   "asof": "2026-10-20T23:40:59.000Z"
+   "p": 82977.09,
+   "ch": 0.04,
+   "asof": "2026-10-21T00:58:10.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2445.4,
-   "ch": 1.68,
-   "asof": "2026-10-20T23:40:59.000Z"
+   "p": 2450.51,
+   "ch": 0.16,
+   "asof": "2026-10-21T00:58:11.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4134.3,
-   "ch": -0.2,
-   "asof": "2026-10-20T23:31:00.000Z"
+   "p": 4137.6,
+   "ch": -0.12,
+   "asof": "2026-10-21T00:48:10.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 98.35,
-   "ch": 0.54,
-   "asof": "2026-10-20T23:30:50.000Z"
+   "p": 98.39,
+   "ch": 0.58,
+   "asof": "2026-10-21T00:48:10.000Z"
   },
   {
    "s": "USD/KES",
@@ -293,15 +293,15 @@
    "d": 2,
    "p": 129.82,
    "ch": 0,
-   "asof": "2026-10-20T21:39:15.000Z"
+   "asof": "2026-10-21T00:31:12.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.3924,
-   "ch": 0.08,
-   "asof": "2026-10-20T23:41:02.000Z"
+   "p": 16.3909,
+   "ch": 0.07,
+   "asof": "2026-10-21T00:58:16.000Z"
   },
   {
    "s": "USD/NGN",
@@ -309,23 +309,23 @@
    "d": 2,
    "p": 1328.56,
    "ch": 0,
-   "asof": "2026-10-20T21:39:15.000Z"
+   "asof": "2026-10-21T00:31:12.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 106.37,
-   "ch": 1.37,
-   "asof": "2026-10-20T23:40:57.000Z"
+   "p": 106.55,
+   "ch": 0.12,
+   "asof": "2026-10-21T00:58:15.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3331,
-   "ch": 2.33,
-   "asof": "2026-10-20T23:40:54.000Z"
+   "p": 1.3359,
+   "ch": 0.11,
+   "asof": "2026-10-21T00:58:15.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.945,
-   "ch": -0.09,
-   "asof": "2026-10-20T23:30:33.000Z"
+   "p": 58.08,
+   "ch": 0.14,
+   "asof": "2026-10-21T00:47:17.000Z"
   }
  ],
  "news": [
@@ -371,9 +371,9 @@
   [
    "Forex",
    "med",
-   "Poland's parliament sets November date for vote on central bank chief's tribunal referral",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZkhKUk5XSjJ1QXE0Y0x1Y0tURkZ6ODFiUmF2TVEtcFZ2azJNZFRxMTB5cTFiZEx2OWoxRG1KOFJHeE5wVndxYkl4WnU5VklZalZwcXRvN2VYS05IZ3MycVNjWjE5ZzZnTER5RlhHZ21iNEpZVmN1X2NfZUlQcmM4U2otU3N1eUR5dHBucVN3T25vbmp3N3dxYjEybEJEM196d0JvNEdNSTFFMzRGMFRmTl90dnl3ZFJvcnAwMzMzTGw2R1VnQjRNR1p5LXZNZw?oc=5"
+   "Republic of Moldova Recognizes North Carolina State Partnership Program Director",
+   "National Guard.mil",
+   "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRjk4VklWNGJtN0FreXRwOVpYbk5WcTM1MF9adEZpbUNJeUpEZHR3NDZmTjRMbVdWeFU2UTNnY1ZOYWUtVXJFM2d4NUEtZWdTMXI1R3pLY29CeDZuSDVhRGsxaGdPazMyQTdrUnZqLUZtSnoxWjFGSk5WeDZsSHJmTTM2VUE5a2l3eG1TYUJGRWZSd2phS19Md29xM19XNFk4Wkt3LUxkMTZxRWVFM1JrMno2Z2tyTWdwLUNyY2labnM0Q0M2VS1tc2VBR1hGazZjempoS1hoanhneUhfQmc?oc=5"
   ],
   [
    "Crypto",
@@ -399,9 +399,9 @@
   [
    "Stocks",
    "med",
-   "Exclusive | Musk Ordered Starlink Slowdown That Blindsided Ukraine",
+   "U.S. Stocks Mixed as Strong Earnings Offset AI Credit Fears",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMidkFVX3lxTE05TXhCNE5nTDBJcEZteGFUWGtLMHY5bmlkOXBBajNqMlpqbkF4Q2wwOVZjN2E2YWhSU2p6YmJoTmpwUW1VMkVqUEhSZjc3N1hMdVZwR3RjazBCdHRVZmptaEtpN2dtV3hzcHYwb2NadVlYZFlaMkE?oc=5"
+   "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDRUVjRlc3JBSWk3Q3F4QkpoekUzZGVUNHM2UmJnZlNJcm5XZmdKa2h1NlFJX19TYkpmd010QUpqZHN5WC1uY0FrWnZTM1pPSXJCQng1MGlIRkxDeFBKLTdta1dVUDhqN05DMk5aTGt6ZkVZTTBQWllOQVNFR2ZPY3pqdDVEVGxtcXNHcnRzV1FqNmV2MWtrN0VMekJ4bU1ETmZ4TA?oc=5"
   ],
   [
    "Commodities",
