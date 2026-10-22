@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T06:59:44.731Z",
+ "updated": "2026-10-22T07:55:21.437Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,9 +187,9 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1247,
-   "ch": 0.11,
-   "asof": "2026-10-22T06:59:28.000Z"
+   "p": 1.124,
+   "ch": 0.04,
+   "asof": "2026-10-22T07:54:29.000Z"
   },
   {
    "s": "GBP/USD",
@@ -197,55 +197,55 @@
    "d": 4,
    "p": 1.3407,
    "ch": 0.1,
-   "asof": "2026-10-22T06:59:28.000Z"
+   "asof": "2026-10-22T07:54:29.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.085,
-   "ch": -0.62,
-   "asof": "2026-10-22T06:59:43.000Z"
+   "p": 157.287,
+   "ch": -0.49,
+   "asof": "2026-10-22T07:55:21.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.702,
-   "ch": -0.13,
-   "asof": "2026-10-22T06:59:28.000Z"
+   "p": 0.7016,
+   "ch": -0.18,
+   "asof": "2026-10-22T07:53:29.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4019,
-   "ch": -0.19,
-   "asof": "2026-10-22T06:59:43.000Z"
+   "p": 1.4016,
+   "ch": -0.21,
+   "asof": "2026-10-22T07:55:20.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8206,
-   "ch": -0.42,
-   "asof": "2026-10-22T06:59:44.000Z"
+   "p": 0.8209,
+   "ch": -0.39,
+   "asof": "2026-10-22T07:55:20.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82401.01,
-   "ch": -1.93,
-   "asof": "2026-10-22T06:59:42.000Z"
+   "p": 82152.57,
+   "ch": -2.23,
+   "asof": "2026-10-22T07:55:15.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2430.43,
-   "ch": -1.66,
-   "asof": "2026-10-22T06:59:42.000Z"
+   "p": 2427.74,
+   "ch": -1.76,
+   "asof": "2026-10-22T07:55:14.000Z"
   },
   {
    "s": "S&P 500",
@@ -253,7 +253,7 @@
    "d": 2,
    "p": 7757.17,
    "ch": 0.58,
-   "asof": "2026-10-21T20:31:21.000Z"
+   "asof": "2026-10-21T20:00:00.000Z"
   },
   {
    "s": "Nasdaq",
@@ -267,25 +267,25 @@
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52856.09,
+   "p": 52856.1,
    "ch": 0.69,
-   "asof": "2026-10-21T20:36:48.000Z"
+   "asof": "2026-10-21T20:00:00.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4108.5,
-   "ch": -1,
-   "asof": "2026-10-22T06:49:44.000Z"
+   "p": 4107,
+   "ch": -1.04,
+   "asof": "2026-10-22T07:45:15.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 99.34,
-   "ch": 2.25,
-   "asof": "2026-10-22T06:49:40.000Z"
+   "p": 99.74,
+   "ch": 2.67,
+   "asof": "2026-10-22T07:45:19.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.438,
-   "ch": 0.42,
-   "asof": "2026-10-22T06:59:45.000Z"
+   "p": 16.4794,
+   "ch": 0.67,
+   "asof": "2026-10-22T07:55:21.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.51,
-   "ch": -2.15,
-   "asof": "2026-10-22T06:59:38.000Z"
+   "p": 104.33,
+   "ch": -2.32,
+   "asof": "2026-10-22T07:55:17.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3403,
-   "ch": -1.71,
-   "asof": "2026-10-22T06:59:34.000Z"
+   "p": 1.3383,
+   "ch": -1.86,
+   "asof": "2026-10-22T07:55:10.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 56.255,
-   "ch": -2.52,
-   "asof": "2026-10-22T06:49:42.000Z"
+   "p": 56.05,
+   "ch": -2.88,
+   "asof": "2026-10-22T07:45:00.000Z"
   }
  ],
  "news": [
@@ -385,9 +385,9 @@
   [
    "Crypto",
    "med",
-   "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNklOMzdjQ1FwMUdDV3kxMXBBNTd6Q3dXZHlTRlVLcjVBbFhKOU5Yclh6UHFoRHFueGdrLTc0OFdRMTR3bHFPbGJqYnp3dHA3Rk44ak5Da1o3N0FWeE04OEZrNldGa1ZLdnZPazE2MHJFbFBPWC1UanZDUlFmSGFFcW5IanRPVUtOMHJtV3lLTWJXRTJ2Q1FzakRJc0ZKVjRqNTllNXNmcm5XX2p1ZWlxVmppR0JmWEthVDdWeldMa2xzdw?oc=5"
+   "Prediction: What Will 0.1 Bitcoin Be Worth by 2030?",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS2FnQXJuQklBaTNYUDR0dGtOUXFvZ2dQbXRCMU1MMDlmOU54M3ozb2JnQTZTRHBoZjJpckpjTllDUkJMLXBoNENXTGQwczdtWDFTLVN6Rm1PV3dUcHhMZl9uR2xTMVd5OG5OU2JuQWd5OE5MMlBGZDFNSXc4UWRTTEtTcFVaTE5zV0V1b3pDUU56WXhuTmlLZA?oc=5"
   ],
   [
    "Stocks",
@@ -399,7 +399,7 @@
   [
    "Stocks",
    "med",
-   "US Stock Futures Slip as Tech Earnings Rally Fades: Markets Wrap",
+   "AI Trade Stumbles After Tech Earnings, Oil Rallies: Markets Wrap",
    "Bloomberg.com",
    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeTBrLWVPck50dERfQ3N3cFhBMFpUN3lfZFFOeXZLM0lDR0lOSFp2Vnd0OHFaWU5JQ092UHg4XzlXQlEtN2JQNG1oWnpFYWFKSUFoYmZkT1FqTHR1bXR5b010d3ZvSENDZ0phTk04R1k5aUg4Z2ZTb1p2MmQ2LW53Ulk5NktSU0prZWwtMkFIZFo1SDll?oc=5"
   ],
