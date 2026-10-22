@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T01:46:53.077Z",
+ "updated": "2026-10-22T02:45:42.517Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1233,
-   "ch": -0.02,
-   "asof": "2026-10-22T01:46:26.000Z"
+   "p": 1.1242,
+   "ch": 0.06,
+   "asof": "2026-10-22T02:45:28.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3388,
-   "ch": -0.04,
-   "asof": "2026-10-22T01:46:26.000Z"
+   "p": 1.3392,
+   "ch": -0.01,
+   "asof": "2026-10-22T02:45:28.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.084,
-   "ch": 0.01,
-   "asof": "2026-10-22T01:46:53.000Z"
+   "p": 157.934,
+   "ch": -0.08,
+   "asof": "2026-10-22T02:45:38.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7023,
-   "ch": -0.09,
-   "asof": "2026-10-22T01:45:26.000Z"
+   "p": 0.702,
+   "ch": -0.13,
+   "asof": "2026-10-22T02:45:28.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4045,
-   "ch": 0,
-   "asof": "2026-10-22T01:46:52.000Z"
+   "p": 1.4038,
+   "ch": -0.05,
+   "asof": "2026-10-22T02:45:42.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8244,
-   "ch": 0.04,
-   "asof": "2026-10-22T01:46:52.000Z"
+   "p": 0.8234,
+   "ch": -0.08,
+   "asof": "2026-10-22T02:45:42.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 83607.9,
-   "ch": -0.5,
-   "asof": "2026-10-22T01:46:47.000Z"
+   "p": 82853.69,
+   "ch": -1.39,
+   "asof": "2026-10-22T02:45:41.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2453.3,
-   "ch": -0.73,
-   "asof": "2026-10-22T01:46:49.000Z"
+   "p": 2435.88,
+   "ch": -1.44,
+   "asof": "2026-10-22T02:45:37.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4128.3,
-   "ch": -0.52,
-   "asof": "2026-10-22T01:36:50.000Z"
+   "p": 4137.6,
+   "ch": -0.3,
+   "asof": "2026-10-22T02:35:40.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 98.19,
-   "ch": 1.07,
-   "asof": "2026-10-22T01:36:47.000Z"
+   "p": 98.39,
+   "ch": 1.28,
+   "asof": "2026-10-22T02:35:41.000Z"
   },
   {
    "s": "USD/KES",
@@ -293,15 +293,15 @@
    "d": 2,
    "p": 129.82,
    "ch": 0,
-   "asof": "2026-10-22T01:46:05.000Z"
+   "asof": "2026-10-22T02:32:30.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.3747,
-   "ch": 0.03,
-   "asof": "2026-10-22T01:46:53.000Z"
+   "p": 16.3863,
+   "ch": 0.11,
+   "asof": "2026-10-22T02:45:42.000Z"
   },
   {
    "s": "USD/NGN",
@@ -309,23 +309,23 @@
    "d": 2,
    "p": 1330.84,
    "ch": 0,
-   "asof": "2026-10-22T01:46:05.000Z"
+   "asof": "2026-10-22T02:32:30.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 106.26,
-   "ch": -0.51,
-   "asof": "2026-10-22T01:46:50.000Z"
+   "p": 105.4,
+   "ch": -1.31,
+   "asof": "2026-10-22T02:45:40.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3518,
-   "ch": -0.87,
-   "asof": "2026-10-22T01:46:51.000Z"
+   "p": 1.3429,
+   "ch": -1.52,
+   "asof": "2026-10-22T02:45:39.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.315,
-   "ch": -0.68,
-   "asof": "2026-10-22T01:36:24.000Z"
+   "p": 56.94,
+   "ch": -1.33,
+   "asof": "2026-10-22T02:35:43.000Z"
   }
  ],
  "news": [
@@ -370,10 +370,10 @@
   ],
   [
    "Forex",
-   "med",
-   "Ukraine's anti-corruption police search central bank, governor says no link to bank activity",
+   "high",
+   "Dip in the dollar takes a breather with Fed in focus",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM2tYZkRHNmZIa1FlcUU0TWprVnlXb2pzMDVFM2tmM1FfOTAxTHp6ZjFxc3dQZHRCZHRaN0VlTWhFYVZWOTBqczFGcTV5ZVJWelE2RmRHelcwQVhrdkFGVWJDWmdMY184ajFDLXliQVhrU2pXX0VPejhzakhVZUR0UE51SmJiMnk3YzdWa0FoQ0dYRWNrcVYtLTVzaWlsRkUxS1VzUFVB?oc=5"
+   "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeE9SaFExZHZyS2plVTA2NHNkbDFpcGpBSVVhc3J2NmZrRmtMRW1uY0FUU0JDMGtFQncxcnB3bUlFY21oa3V2VTZtOWsxcEVrWFhfOWZOd2oxY09XaWtpQ2ltWnE2NFFTYmg0OVNhaHJLVFdocG9NdGh1N3hjVzRPZUJlVW8wRFU3N24zR0tZbjk2bkNGVFhXaE1qbw?oc=5"
   ],
   [
    "Crypto",
@@ -385,9 +385,9 @@
   [
    "Crypto",
    "med",
-   "Prediction: What Will 0.1 Bitcoin Be Worth by 2030?",
+   "Bitcoin Price Analysis: Recent Buyers Break Even Near $87,700. Could Their Selling Stop BTC’s Rally?",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS2FnQXJuQklBaTNYUDR0dGtOUXFvZ2dQbXRCMU1MMDlmOU54M3ozb2JnQTZTRHBoZjJpckpjTllDUkJMLXBoNENXTGQwczdtWDFTLVN6Rm1PV3dUcHhMZl9uR2xTMVd5OG5OU2JuQWd5OE5MMlBGZDFNSXc4UWRTTEtTcFVaTE5zV0V1b3pDUU56WXhuTmlLZA?oc=5"
+   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWndHOUc2dEFHQlhkRlQ0ZFBTajRTbWJfbVFPTUJIU0F5UGR1andMYkhlT0xGS1JOZXJoeTM2ODF0R0hvOG5wbHZyRjFaYUtPRnN4dTd0Njd0SXFXYlVRb2FOSk5oV2p2bUhTd2dBcTVnWVp3aFVjOUE4VmRnOUktU25xTWVKdjVvSkdxNi1CSUtvVkJOZzAwUEp6dnF1ZUpUZHdZ?oc=5"
   ],
   [
    "Stocks",
@@ -413,9 +413,9 @@
   [
    "Commodities",
    "med",
-   "Saudi crude oil exports hit five-month high in August, data shows",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxNekotZUduQW5FQm0wOVZHbVlzT3U0OWxVdVhNNDRfUjZlVjlxZmNMWEh2M09yTGhwNUhSOGlGQWJDTkg4NDBxdVNSNC1oZWN5cldTZ0xBSzFlYTNXRjBUOVpuMlYzWUo1aWEyaDJSM2NlSURCSFhQWlRHallSdU43TUU0ckpkXzI0UWhINjZqbW9IU0FhcUZjdlhNbi15djVCSktpVEE0LXNXOGFITzluWDBTRQ?oc=5"
+   "U.S. Energy Red Tape Gives China an Edge",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNEdtS1UzdG9KV1UtUGJjbzNDWEo0Vk5KelJIYmV6N01naGQ1QklBVFRtSS03UVdxejhkRGVzb2tXTjYzcU9pM0RVQ3FOcEhfR0padHdKaTVPTnV2QXdXQ1F3cmREQ2VYNXNYZlpneWMxUkhub1lmem5PRXNTQVV1UHNSMk1TYzdaM1RUdGxPNNIBlAFBVV95cUxPUEtoUTZnT2hFTTFwQUE1bEJTN1luOGVvZkxuMTB1dEd1NmVMYWpIenB4STVwd1NMcXMzdlN0elZOM2MxREJyNldKaFJ3b0tGYmNxUlJBTXpHNVdRZDZJZVhrekl4VmpKOXN1T2ptN2FQcFNNM1h1Slh6NVVzQ1ZDNTFMazZ0Y3htUGR2cjd2V3FHb1ZB?oc=5"
   ]
  ]
 }
