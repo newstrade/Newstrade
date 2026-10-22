@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T14:48:32.005Z",
+ "updated": "2026-10-22T15:47:48.779Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,105 +187,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1197,
-   "ch": -0.34,
-   "asof": "2026-10-22T14:48:28.000Z"
+   "p": 1.1211,
+   "ch": -0.21,
+   "asof": "2026-10-22T15:47:25.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3358,
-   "ch": -0.27,
-   "asof": "2026-10-22T14:48:28.000Z"
+   "p": 1.3374,
+   "ch": -0.15,
+   "asof": "2026-10-22T15:47:25.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.154,
-   "ch": -0.57,
-   "asof": "2026-10-22T14:48:32.000Z"
+   "p": 157.123,
+   "ch": -0.59,
+   "asof": "2026-10-22T15:47:48.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.701,
-   "ch": -0.27,
-   "asof": "2026-10-22T14:47:28.000Z"
+   "p": 0.702,
+   "ch": -0.13,
+   "asof": "2026-10-22T15:47:25.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4031,
-   "ch": -0.1,
-   "asof": "2026-10-22T14:48:32.000Z"
+   "p": 1.4025,
+   "ch": -0.14,
+   "asof": "2026-10-22T15:47:47.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8234,
-   "ch": -0.08,
-   "asof": "2026-10-22T14:48:32.000Z"
+   "p": 0.8228,
+   "ch": -0.16,
+   "asof": "2026-10-22T15:47:47.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81660.86,
-   "ch": -2.81,
-   "asof": "2026-10-22T14:48:31.000Z"
+   "p": 81453.65,
+   "ch": -3.06,
+   "asof": "2026-10-22T15:47:42.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2404.8,
-   "ch": -2.69,
-   "asof": "2026-10-22T14:48:27.000Z"
+   "p": 2392.19,
+   "ch": -3.2,
+   "asof": "2026-10-22T15:47:43.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7646.84,
-   "ch": -1.42,
-   "asof": "2026-10-22T14:48:32.000Z"
+   "p": 7659.99,
+   "ch": -1.25,
+   "asof": "2026-10-22T15:47:47.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 26084.48,
-   "ch": -2.32,
-   "asof": "2026-10-22T14:48:28.000Z"
+   "p": 26113.732,
+   "ch": -2.21,
+   "asof": "2026-10-22T15:47:45.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52561.58,
-   "ch": -0.56,
-   "asof": "2026-10-22T14:48:32.000Z"
+   "p": 52747.91,
+   "ch": -0.2,
+   "asof": "2026-10-22T15:47:48.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4067.5,
-   "ch": -1.99,
-   "asof": "2026-10-22T14:38:31.000Z"
+   "p": 4068.9,
+   "ch": -1.95,
+   "asof": "2026-10-22T15:37:45.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 98.44,
-   "ch": 1.33,
-   "asof": "2026-10-22T14:38:33.000Z"
+   "p": 98.23,
+   "ch": 1.11,
+   "asof": "2026-10-22T15:37:45.000Z"
   },
   {
    "s": "USD/KES",
@@ -293,15 +293,15 @@
    "d": 2,
    "p": 129.81,
    "ch": -0.01,
-   "asof": "2026-10-22T14:22:53.000Z"
+   "asof": "2026-10-22T14:58:58.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5211,
-   "ch": 0.93,
-   "asof": "2026-10-22T14:48:33.000Z"
+   "p": 16.4988,
+   "ch": 0.79,
+   "asof": "2026-10-22T15:47:48.000Z"
   },
   {
    "s": "USD/NGN",
@@ -309,55 +309,55 @@
    "d": 2,
    "p": 1329.43,
    "ch": -0.11,
-   "asof": "2026-10-22T14:22:53.000Z"
+   "asof": "2026-10-22T14:58:58.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.18,
-   "ch": -2.46,
-   "asof": "2026-10-22T14:48:30.000Z"
+   "p": 104.31,
+   "ch": -2.34,
+   "asof": "2026-10-22T15:47:46.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3197,
-   "ch": -3.22,
-   "asof": "2026-10-22T14:48:33.000Z"
+   "p": 1.3188,
+   "ch": -3.29,
+   "asof": "2026-10-22T15:47:41.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 343.37,
-   "ch": -0.18,
-   "asof": "2026-10-22T14:48:32.000Z"
+   "p": 345.13,
+   "ch": 0.33,
+   "asof": "2026-10-22T15:47:45.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 386.54,
-   "ch": 0.02,
-   "asof": "2026-10-22T14:48:34.000Z"
+   "p": 383.205,
+   "ch": -0.84,
+   "asof": "2026-10-22T15:47:48.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 213.235,
-   "ch": -3.94,
-   "asof": "2026-10-22T14:48:33.000Z"
+   "p": 212.97,
+   "ch": -4.05,
+   "asof": "2026-10-22T15:47:49.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 55.255,
-   "ch": -4.25,
-   "asof": "2026-10-22T14:38:31.000Z"
+   "p": 55.33,
+   "ch": -4.12,
+   "asof": "2026-10-22T15:37:43.000Z"
   }
  ],
  "news": [
@@ -392,16 +392,23 @@
   [
    "Stocks",
    "med",
-   "Wall St opens lower as AI jitters return, oil rises",
+   "Nasdaq leads Wall Street lower on AI spending jitters; oil prices rebound",
    "Reuters",
    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Nasdaq leads Wall Street lower on AI spending jitters; oil prices rebound",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYzlYMElEZWpheDcybHdGNUJyelJDb1JNSVlBbHZQWXd5Znp3OGNWSnYyZ2MzRElldkFsblhleUtJZGxTYUVuQ01TZnoyeUxra29SRGZnc2JWRHo2NU5NMmY0YXhoeTBpY0xzd0Z0cWxXUFhIdHJNeHFOdHJiSEdVdXdyeTFfcGJnM2xVdWN0MkdPUVNRVGc?oc=5"
+   "Stocks Slide After Mideast Tensions Push Oil Higher",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDB3cDByVmVJQWQ4bzhobm83ZDVVN3MtYXh0VjlYT0xtakhpVkNrUFFHbVpWZEp2UHdpeWIwX0h2eVJqSzdod0t1Y3JxcVBaTzZlUFRKTFNkMDE4LVYxMHNjRGlYb0FsOVdqMnJuVzdHMk0xNVVxWXh4Y0tidlFtbXBUa1lXTVJGOXc1c0VvbjJ6eGVINVY0cEpFZHEtakM1UkFwdVZLVW4ySWlxV0RwNHpnNkpKcUsyRXU4RXN2Zm03QTQ?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Brent crude tops $112 after Trump says no negotiations with Iran, something will happen 'fairly soon'",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUjhnTDQ4QTM5cWtlRjN1MXFlOU5yQVlVd3F0M0pDNExkV29mV1duQUpSUjFiaXFuajRkNHRSc1EtaTBzemJOUElXbDhYUTRnSWlrdm1TRUxtQXEwdjM3blp5QnlVOFZJWnAyYjY1dTRwX3UycVZoMHJIWFZaUEZJNnRn0gGHAUFVX3lxTFBBRTI0YmhMaFkybjlPdGczT3I3cVlXX2xLcktrcjJEUVNueUY3QmNldksyRjFaWGtvUm1KUjVua2VibWMxcU5FWHpBakZCSWt2MXhUM0ZYd1FJeE1sLUtwREJ2Y1lldkxOdXZ6UGFqS2pwUksxZS1YLU1XUFNsTzBBMUJwRXAydw?oc=5"
   ],
   [
    "Commodities",
@@ -409,13 +416,6 @@
    "Brent hits five-month high on escalating Middle East conflict",
    "Reuters",
    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzBEdGVKYmZ3VVpJajg0TW5DN2VHVEM2aDVTcFJKQVduMnVMTU5NbVcyMGxBanBHY3VvMzJQR1VrQWM4b0hLeG1YaTFWcldTeU9yTlBXc3FiR1FtcUp0SmxhRkJkWmpmZ2x6X3VGZHZEUDNLTE9LTFZNSlBWWjNJVGtaV3YwWkc4QVhxbHozYkx5THpZMVlYVDAtd0dqbUMyOUcyVk91NEYxaFFCZklRWWhjQm5qN2NvVHdWdnZIQVJSMk0?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Is this Prince Harry or David Brent in The Office? Either way, we’re watching a masterclass in awkwardness",
-   "The Guardian",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1ZzaHNpTXlXbGdXMG5acTh6Vi1XaHAzakF4d1ZNRTVHeGFpNFVEd2dZYkRQMnc5R0ZjU1lBNUdQOW9lam1yY2V4cTBYYzFDQUhGMDJsQVF4OWd1cURBdXQyNDhaLTZMSXIyUUNNZkhpc0JWWVJTTDJUdzRYX1ZmZGtrZ3BHRFcxLXFFLW0wUXBwQ2xXWHFTcA?oc=5"
   ]
  ]
 }
