@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T20:45:08.476Z",
+ "updated": "2026-10-22T21:44:36.248Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1217,
-   "ch": -0.16,
-   "asof": "2026-10-22T20:44:26.000Z"
+   "p": 1.122,
+   "ch": -0.13,
+   "asof": "2026-10-22T21:44:27.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3399,
-   "ch": 0.04,
-   "asof": "2026-10-22T20:44:26.000Z"
+   "p": 1.3397,
+   "ch": 0.02,
+   "asof": "2026-10-22T21:44:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 156.806,
-   "ch": -0.79,
-   "asof": "2026-10-22T20:45:05.000Z"
+   "p": 156.78,
+   "ch": -0.81,
+   "asof": "2026-10-22T21:44:28.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7022,
-   "ch": -0.1,
-   "asof": "2026-10-22T20:43:26.000Z"
+   "p": 0.702,
+   "ch": -0.13,
+   "asof": "2026-10-22T21:43:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4015,
-   "ch": -0.21,
-   "asof": "2026-10-22T20:45:07.000Z"
+   "p": 1.4006,
+   "ch": -0.28,
+   "asof": "2026-10-22T21:44:36.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8207,
-   "ch": -0.41,
-   "asof": "2026-10-22T20:45:08.000Z"
+   "p": 0.8199,
+   "ch": -0.51,
+   "asof": "2026-10-22T21:44:28.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81179.44,
-   "ch": -3.39,
-   "asof": "2026-10-22T20:45:04.000Z"
+   "p": 81385.51,
+   "ch": -3.14,
+   "asof": "2026-10-22T21:44:31.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2380.14,
-   "ch": -3.69,
-   "asof": "2026-10-22T20:45:03.000Z"
+   "p": 2390.19,
+   "ch": -3.28,
+   "asof": "2026-10-22T21:44:28.000Z"
   },
   {
    "s": "S&P 500",
@@ -261,7 +261,7 @@
    "d": 2,
    "p": 26008.86,
    "ch": -2.6,
-   "asof": "2026-10-22T20:45:08.000Z"
+   "asof": "2026-10-22T21:15:59.000Z"
   },
   {
    "s": "Dow Jones",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4037.9,
-   "ch": -2.7,
-   "asof": "2026-10-22T20:35:01.000Z"
+   "p": 4039.8,
+   "ch": -2.66,
+   "asof": "2026-10-22T20:59:59.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 99.05,
-   "ch": 1.96,
-   "asof": "2026-10-22T20:35:06.000Z"
+   "p": 99.1,
+   "ch": 2.01,
+   "asof": "2026-10-22T20:59:59.000Z"
   },
   {
    "s": "USD/KES",
@@ -293,15 +293,15 @@
    "d": 2,
    "p": 129.81,
    "ch": -0.01,
-   "asof": "2026-10-22T20:31:24.000Z"
+   "asof": "2026-10-22T21:23:43.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4947,
-   "ch": 0.77,
-   "asof": "2026-10-22T20:45:08.000Z"
+   "p": 16.4777,
+   "ch": 0.66,
+   "asof": "2026-10-22T21:43:41.000Z"
   },
   {
    "s": "USD/NGN",
@@ -309,23 +309,23 @@
    "d": 2,
    "p": 1329.43,
    "ch": -0.11,
-   "asof": "2026-10-22T20:31:24.000Z"
+   "asof": "2026-10-22T21:23:43.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 103.09,
-   "ch": -3.48,
-   "asof": "2026-10-22T20:45:03.000Z"
+   "p": 103.46,
+   "ch": -3.13,
+   "asof": "2026-10-22T21:44:35.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2974,
-   "ch": -4.86,
-   "asof": "2026-10-22T20:45:03.000Z"
+   "p": 1.3048,
+   "ch": -4.31,
+   "asof": "2026-10-22T21:44:28.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 54.58,
-   "ch": -5.42,
-   "asof": "2026-10-22T20:34:11.000Z"
+   "p": 54.63,
+   "ch": -5.34,
+   "asof": "2026-10-22T20:59:54.000Z"
   }
  ],
  "news": [
@@ -371,9 +371,9 @@
   [
    "Forex",
    "med",
-   "Yen jumps as oil, AI and France worries rattle markets",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ29vMWJYR01abURrT0JTbGQ3cXNkWjM3RllSbUpnREJlU3g1dDdfUTdkOFd3TDgwWnZVLW4zY2Q3LURhUHhuakVGY1JIRkxrUmx0bUhuSGZKR2ZVZEw5Z2RESW1DQjdFUHZfNEtub2JFejBpMGVmUGtJYjJNdmRoYXE0NGk4cXgzWFRXbnF1T0h0NjQxbE9fZ3lvV0w?oc=5"
+   "Yen Jumps as Traders Seek Safety Amid Global Risk Averse Pivot",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNzhiRVUtTkNvb0FhSnFXZkF4NUhicFRqQU91UGhuS21xVXA5SDBjWFZybVpOVUFvX3pwQjJPeVJIanNBTlg5RWw4d1JoeDhjcEZWRjdJVldPWWt4UWQzVURJczQxdWg5RHNpU0JYd2QwNHhZYkVQNXRXcWRQY0ZKakc5ZGh6NmNwck53NzNWbm00eGtMMl9LX0lPV3haVUFwV1ZNb0dTQ2ZWcE0?oc=5"
   ],
   [
    "Crypto",
@@ -385,9 +385,9 @@
   [
    "Crypto",
    "med",
-   "Bitcoin Falls Below $83,000 as AI Jitters Weigh on Sentiment",
+   "Fifteen-Minute Prediction Market Bets Scratch the Bitcoin Itch",
    "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEg5MlR0cUtacXN1aGtzX2FxMFdqYkhhSGNPQnhkZHNLb0FqSVNuQS1FdHViQi0xcVlpeUhHUFpYRHM5YUkxVWtfV1ZkTExvbUhDMm52eVFJYldwQ1hFUWNNeXVWVU8zcFJIWkZ4RTV1S3BTUEVNS0htMjVUaFU3cHNoUzZYSk4tWmJLSERYUm5kaElhdnBfQ1BSTFIwNHJWcXU0a3FBXy1nZDd6X2U4?oc=5"
+   "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUS16bUtiXzBpVWNGX0VqNkxlXzd2WWwzbkdVZ0ZnN3BmT0dGNnpkR2h0QlJMQXBjRFhUcFE3NnBPVmtoaGppazlQeVBKUEIyU09jd0Q0T1NiV1A1Wnd3OGw4NUJXUk9NWm9QbXA1b3VnSGQ3RHhfRU1QQV9qRE44dFh0NjZHczUxbWxEUFo2ZnJGcm43Nll6ZDUtTWx6a3ZPcWptNHE5MUZoTkxpeFV4dzhaMVFKbHc?oc=5"
   ],
   [
    "Stocks",
@@ -406,16 +406,16 @@
   [
    "Commodities",
    "med",
-   "Is this Prince Harry or David Brent in The Office? Either way, we’re watching a masterclass in awkwardness",
-   "The Guardian",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1ZzaHNpTXlXbGdXMG5acTh6Vi1XaHAzakF4d1ZNRTVHeGFpNFVEd2dZYkRQMnc5R0ZjU1lBNUdQOW9lam1yY2V4cTBYYzFDQUhGMDJsQVF4OWd1cURBdXQyNDhaLTZMSXIyUUNNZkhpc0JWWVJTTDJUdzRYX1ZmZGtrZ3BHRFcxLXFFLW0wUXBwQ2xXWHFTcA?oc=5"
+   "Brent hits five-month high on escalating Middle East conflict",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaUJCYWJFR1VUQ2JfYVlWWVBxSzYwMnEzcVQxUU9faWFiYm9qNGxZd2NrX3c1MDZULThNTHRmdG9LOHoxbDdGaHlHcms5aGo0QWxWVGJrSzZSREl6QjJ6eWNGclhyVWpSa0VtMHBIVnBJc2J5YWNMUzdCSVhneWtkTFpqT19Bdw?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Still Bullish Into Year-End: Thoughts on the Kospi Bottoming and Brent Topping",
-   "Barron's",
-   "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZVlDWmRRbW9jQjhLUmlMbmJBZl9xUHNqVG52bThya1NHMHJxSG1oSEhpeTFzaTB6LWZGVVk5Y1JuQkNSOWhGSlpRQXpnandiNWhXcVJrLU4xRDNzRTIwNTNNS2pOMDFFY0QxUFJWeE1kY3NBMVZ5LXZPa3RkWnY1bDdva2JWT2pYOXc1RQ?oc=5"
+   "Is this Prince Harry or David Brent in The Office? Either way, we’re watching a masterclass in awkwardness",
+   "The Guardian",
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1ZzaHNpTXlXbGdXMG5acTh6Vi1XaHAzakF4d1ZNRTVHeGFpNFVEd2dZYkRQMnc5R0ZjU1lBNUdQOW9lam1yY2V4cTBYYzFDQUhGMDJsQVF4OWd1cURBdXQyNDhaLTZMSXIyUUNNZkhpc0JWWVJTTDJUdzRYX1ZmZGtrZ3BHRFcxLXFFLW0wUXBwQ2xXWHFTcA?oc=5"
   ]
  ]
 }
