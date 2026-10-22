@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T05:44:39.440Z",
+ "updated": "2026-10-22T06:59:44.731Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1246,
-   "ch": 0.1,
-   "asof": "2026-10-22T05:44:26.000Z"
+   "p": 1.1247,
+   "ch": 0.11,
+   "asof": "2026-10-22T06:59:28.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3397,
-   "ch": 0.02,
-   "asof": "2026-10-22T05:44:26.000Z"
+   "p": 1.3407,
+   "ch": 0.1,
+   "asof": "2026-10-22T06:59:28.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.431,
-   "ch": -0.4,
-   "asof": "2026-10-22T05:44:39.000Z"
+   "p": 157.085,
+   "ch": -0.62,
+   "asof": "2026-10-22T06:59:43.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7017,
-   "ch": -0.17,
-   "asof": "2026-10-22T05:43:26.000Z"
+   "p": 0.702,
+   "ch": -0.13,
+   "asof": "2026-10-22T06:59:28.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4031,
-   "ch": -0.1,
-   "asof": "2026-10-22T05:44:38.000Z"
+   "p": 1.4019,
+   "ch": -0.19,
+   "asof": "2026-10-22T06:59:43.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8222,
-   "ch": -0.23,
-   "asof": "2026-10-22T05:44:39.000Z"
+   "p": 0.8206,
+   "ch": -0.42,
+   "asof": "2026-10-22T06:59:44.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82709.83,
-   "ch": -1.56,
-   "asof": "2026-10-22T05:44:38.000Z"
+   "p": 82401.01,
+   "ch": -1.93,
+   "asof": "2026-10-22T06:59:42.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2436.29,
-   "ch": -1.42,
-   "asof": "2026-10-22T05:44:34.000Z"
+   "p": 2430.43,
+   "ch": -1.66,
+   "asof": "2026-10-22T06:59:42.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4100.8,
-   "ch": -1.19,
-   "asof": "2026-10-22T05:34:37.000Z"
+   "p": 4108.5,
+   "ch": -1,
+   "asof": "2026-10-22T06:49:44.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 99.01,
-   "ch": 1.91,
-   "asof": "2026-10-22T05:34:24.000Z"
+   "p": 99.34,
+   "ch": 2.25,
+   "asof": "2026-10-22T06:49:40.000Z"
   },
   {
    "s": "USD/KES",
@@ -293,15 +293,15 @@
    "d": 2,
    "p": 129.82,
    "ch": 0,
-   "asof": "2026-10-22T02:32:30.000Z"
+   "asof": "2026-10-22T06:35:20.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4166,
-   "ch": 0.29,
-   "asof": "2026-10-22T05:44:39.000Z"
+   "p": 16.438,
+   "ch": 0.42,
+   "asof": "2026-10-22T06:59:45.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.97,
-   "ch": -1.72,
-   "asof": "2026-10-22T05:44:38.000Z"
+   "p": 104.51,
+   "ch": -2.15,
+   "asof": "2026-10-22T06:59:38.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.344,
-   "ch": -1.44,
-   "asof": "2026-10-22T05:44:36.000Z"
+   "p": 1.3403,
+   "ch": -1.71,
+   "asof": "2026-10-22T06:59:34.000Z"
   },
   {
    "s": "Apple",
@@ -355,25 +355,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 56.245,
-   "ch": -2.54,
-   "asof": "2026-10-22T05:34:35.000Z"
+   "p": 56.255,
+   "ch": -2.52,
+   "asof": "2026-10-22T06:49:42.000Z"
   }
  ],
  "news": [
+  [
+   "Forex",
+   "high",
+   "Yen rallies as dollar wobbles toward Fed meeting",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeE9SaFExZHZyS2plVTA2NHNkbDFpcGpBSVVhc3J2NmZrRmtMRW1uY0FUU0JDMGtFQncxcnB3bUlFY21oa3V2VTZtOWsxcEVrWFhfOWZOd2oxY09XaWtpQ2ltWnE2NFFTYmg0OVNhaHJLVFdocG9NdGh1N3hjVzRPZUJlVW8wRFU3N24zR0tZbjk2bkNGVFhXaE1qbw?oc=5"
+  ],
   [
    "Forex",
    "med",
    "Singapore Dollar Gains on Yen as Carry Funder, Analysts Say",
    "Bloomberg.com",
    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQktUelFYbk5qWWE1YmlCelJfcHFnZlJzX01JZEJ6YWhCYWlNRjYxMUJQa3pkTDBiNUItbDRnSEROREE5NEhTcHFHV0ZhQkRsRHpqZElGd1Z6ZG9HNGhaWmlEYm9lc1VIMDBOOGZqa0I1VFg3ZTBFNWg0bHRyRmNYV0l4cS0wMUtEemVOSGJQbm5uZVJWZEJNd3d2UFBhYjl1VUNORjR4NDN4Wl9uTFE?oc=5"
-  ],
-  [
-   "Forex",
-   "high",
-   "Dip in the dollar takes a breather with Fed in focus",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeE9SaFExZHZyS2plVTA2NHNkbDFpcGpBSVVhc3J2NmZrRmtMRW1uY0FUU0JDMGtFQncxcnB3bUlFY21oa3V2VTZtOWsxcEVrWFhfOWZOd2oxY09XaWtpQ2ltWnE2NFFTYmg0OVNhaHJLVFdocG9NdGh1N3hjVzRPZUJlVW8wRFU3N24zR0tZbjk2bkNGVFhXaE1qbw?oc=5"
   ],
   [
    "Crypto",
@@ -399,9 +399,16 @@
   [
    "Stocks",
    "med",
-   "Exclusive | Airfield Attack Marked Opening Shot in Putin’s Stepped-Up Sabotage Campaign",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYlQ5Z0VfM3VUbVBRTG1GZGRKT2FFZVZMeGxiN1hrNEJzZnVrNnZJOWV2allkU1NhSUZ1a0NSX19UZTdTNU1iSDVVMTJzMVpXX2V6X2tnRFZUOUgxVHFfTXliQnRfclA5R1I5R0Y0ODhOQ2NPOE9tMDlHdkMzVGRnUVJoR3Z1ek5vT0xfN3AweXZpdXdoTVRqcE82TlRHOFhTTDdHdlVfYkNjMVVVbGtPVHE2cm14YXBxUFJ2Qw?oc=5"
+   "US Stock Futures Slip as Tech Earnings Rally Fades: Markets Wrap",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeTBrLWVPck50dERfQ3N3cFhBMFpUN3lfZFFOeXZLM0lDR0lOSFp2Vnd0OHFaWU5JQ092UHg4XzlXQlEtN2JQNG1oWnpFYWFKSUFoYmZkT1FqTHR1bXR5b010d3ZvSENDZ0phTk04R1k5aUg4Z2ZTb1p2MmQ2LW53Ulk5NktSU0prZWwtMkFIZFo1SDll?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUjhnTDQ4QTM5cWtlRjN1MXFlOU5yQVlVd3F0M0pDNExkV29mV1duQUpSUjFiaXFuajRkNHRSc1EtaTBzemJOUElXbDhYUTRnSWlrdm1TRUxtQXEwdjM3blp5QnlVOFZJWnAyYjY1dTRwX3UycVZoMHJIWFZaUEZJNnRn0gGHAUFVX3lxTFBBRTI0YmhMaFkybjlPdGczT3I3cVlXX2xLcktrcjJEUVNueUY3QmNldksyRjFaWGtvUm1KUjVua2VibWMxcU5FWHpBakZCSWt2MXhUM0ZYd1FJeE1sLUtwREJ2Y1lldkxOdXZ6UGFqS2pwUksxZS1YLU1XUFNsTzBBMUJwRXAydw?oc=5"
   ],
   [
    "Commodities",
@@ -409,13 +416,6 @@
    "U.S. Crude Oil Stockpiles Post Large Weekly Drop",
    "WSJ",
    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMEY4UmZnX3BONHF6Z0J6SW96Ny1DWTFIeDkxSGR2X0xoZlpPSTQwaWwyaVBxMHg1MDc3N3h5Z3R0TDd1YWlDVUZCUURQUFdSd2NiQ05mN2ZUNVFQbTFLWWo4VThWNkVNMk84WFp1MTFJa0oxUVo4SWZRZnZkM0EwMlN6VnJRZjRxeHdXREZVMlo4bWZ1am54QW0zc2k?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Rupee traders weigh Jio IPO flows against oil price risks",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOVNZbG9QbzVrUDFGaTZHVkJwZ0cyZHRYa0RwQjlwU0xQXzYtc1hDaHZCMjhuLU5nS0o5Uk1BamlZSlB0T0dYU1Y5U1FTRU1YQ2lLNlQyOUF3THZRSElCX0prb1ZrUzZQNm5vUGhnMVo5QVl6NkdyekloV2JIbjl1VWhLWTBrdDV6Yjc5d0x5cFFRWmYxX2RXcVhJTkhrQWpNaE1DbWlHaVU?oc=5"
   ]
  ]
 }
