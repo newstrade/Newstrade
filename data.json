@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T03:47:42.893Z",
+ "updated": "2026-10-22T04:45:51.899Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1249,
-   "ch": 0.12,
-   "asof": "2026-10-22T03:47:29.000Z"
+   "p": 1.1247,
+   "ch": 0.11,
+   "asof": "2026-10-22T04:45:25.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3401,
-   "ch": 0.05,
-   "asof": "2026-10-22T03:47:29.000Z"
+   "p": 1.3398,
+   "ch": 0.03,
+   "asof": "2026-10-22T04:45:25.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.682,
-   "ch": -0.24,
-   "asof": "2026-10-22T03:47:42.000Z"
+   "p": 157.712,
+   "ch": -0.22,
+   "asof": "2026-10-22T04:45:52.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7013,
-   "ch": -0.23,
-   "asof": "2026-10-22T03:47:29.000Z"
+   "p": 0.7018,
+   "ch": -0.16,
+   "asof": "2026-10-22T04:45:25.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4036,
-   "ch": -0.06,
-   "asof": "2026-10-22T03:47:42.000Z"
+   "p": 1.4034,
+   "ch": -0.08,
+   "asof": "2026-10-22T04:45:51.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8225,
-   "ch": -0.19,
-   "asof": "2026-10-22T03:47:42.000Z"
+   "p": 0.8228,
+   "ch": -0.16,
+   "asof": "2026-10-22T04:45:51.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 82848.18,
-   "ch": -1.4,
-   "asof": "2026-10-22T03:47:38.000Z"
+   "p": 82749.74,
+   "ch": -1.52,
+   "asof": "2026-10-22T04:45:40.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2441.48,
-   "ch": -1.21,
-   "asof": "2026-10-22T03:47:38.000Z"
+   "p": 2440.59,
+   "ch": -1.24,
+   "asof": "2026-10-22T04:45:41.000Z"
   },
   {
    "s": "S&P 500",
@@ -253,7 +253,7 @@
    "d": 2,
    "p": 7757.17,
    "ch": 0.58,
-   "asof": "2026-10-21T20:00:00.000Z"
+   "asof": "2026-10-21T20:31:21.000Z"
   },
   {
    "s": "Nasdaq",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4108,
-   "ch": -1.01,
-   "asof": "2026-10-22T03:37:41.000Z"
+   "p": 4105.7,
+   "ch": -1.07,
+   "asof": "2026-10-22T04:35:49.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 98.52,
-   "ch": 1.41,
-   "asof": "2026-10-22T03:37:40.000Z"
+   "p": 98.57,
+   "ch": 1.46,
+   "asof": "2026-10-22T04:35:52.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.3986,
-   "ch": 0.18,
-   "asof": "2026-10-22T03:47:43.000Z"
+   "p": 16.3956,
+   "ch": 0.16,
+   "asof": "2026-10-22T04:45:51.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 105.36,
-   "ch": -1.35,
-   "asof": "2026-10-22T03:47:32.000Z"
+   "p": 105.3,
+   "ch": -1.41,
+   "asof": "2026-10-22T04:45:50.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.343,
-   "ch": -1.51,
-   "asof": "2026-10-22T03:47:40.000Z"
+   "p": 1.3448,
+   "ch": -1.38,
+   "asof": "2026-10-22T04:45:46.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 56.425,
-   "ch": -2.23,
-   "asof": "2026-10-22T03:37:42.000Z"
+   "p": 56.38,
+   "ch": -2.3,
+   "asof": "2026-10-22T04:35:39.000Z"
   }
  ],
  "news": [
@@ -378,16 +378,16 @@
   [
    "Crypto",
    "med",
-   "Trump says fraud investigations make 'very big dent' in overseas scams",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV1R4TWFDN2k5T1RwZjQ4dUxmeF9QY2x6SWdzYmhnRFhLY3hwVWUxN1pUcFVEd0tKSS13MUVPRTRCU0RKeUlKcFBZWGFUWjN1VW5fYzBMWGhhclo4QmZOaV94SmtXRGlVRUExS1BkaFRNZk45TDAwbjVfM1Uwd0V2cUtVa2ZLTHlyVHdhWWRtbEwwSWNvdmxTbUs4UQ?oc=5"
+   "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNklOMzdjQ1FwMUdDV3kxMXBBNTd6Q3dXZHlTRlVLcjVBbFhKOU5Yclh6UHFoRHFueGdrLTc0OFdRMTR3bHFPbGJqYnp3dHA3Rk44ak5Da1o3N0FWeE04OEZrNldGa1ZLdnZPazE2MHJFbFBPWC1UanZDUlFmSGFFcW5IanRPVUtOMHJtV3lLTWJXRTJ2Q1FzakRJc0ZKVjRqNTllNXNmcm5XX2p1ZWlxVmppR0JmWEthVDdWeldMa2xzdw?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Prediction: What Will 0.1 Bitcoin Be Worth by 2030?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS2FnQXJuQklBaTNYUDR0dGtOUXFvZ2dQbXRCMU1MMDlmOU54M3ozb2JnQTZTRHBoZjJpckpjTllDUkJMLXBoNENXTGQwczdtWDFTLVN6Rm1PV3dUcHhMZl9uR2xTMVd5OG5OU2JuQWd5OE5MMlBGZDFNSXc4UWRTTEtTcFVaTE5zV0V1b3pDUU56WXhuTmlLZA?oc=5"
+   "Trump says fraud investigations make 'very big dent' in overseas scams",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV1R4TWFDN2k5T1RwZjQ4dUxmeF9QY2x6SWdzYmhnRFhLY3hwVWUxN1pUcFVEd0tKSS13MUVPRTRCU0RKeUlKcFBZWGFUWjN1VW5fYzBMWGhhclo4QmZOaV94SmtXRGlVRUExS1BkaFRNZk45TDAwbjVfM1Uwd0V2cUtVa2ZLTHlyVHdhWWRtbEwwSWNvdmxTbUs4UQ?oc=5"
   ],
   [
    "Stocks",
@@ -399,9 +399,9 @@
   [
    "Stocks",
    "med",
-   "S&P 500, Nasdaq Gain, Powered By Meta, Tesla Stock — SPCX, META, TSLA, SKYD, IBM In Focus",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxONjQyd3F1UEZZNnhKMnA3YmhnSmxHWjlGQmpfcVRXZlFlaHVFMG5ySk1oRkQ3YWtPbmdLaVpTNkZLQnIteXBiU1hIa2xibUFwZ2xiTEsyaXlZN3htczcteEdYQ1pLN0J1WjlzSDFBbzFON2p5QVhURXNyUkV0aU1BSWRCWF9jekNidXY4Nkdvdm5YMmpQ?oc=5"
+   "U.S. Stocks Rise as SpaceX Spurs AI Relief Rally",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQXlQTUUtU01KenNVZFNOejNKWk5YbjRrUjFWcHJJTkdUbUdVSUF6cklCSFZRVmllbmNXcXV4dlczbjlEZmhpaGJfam9rSkVrMlVzczBLRmcxVmowVlgzRFpyM0hYMnI4VTZWVDZmS2hqcjFtby1BMUZxalF5bXBJTFZSWVotVkVuUC1tY21PT0Z6RWRhT3c?oc=5"
   ],
   [
    "Commodities",
@@ -413,9 +413,9 @@
   [
    "Commodities",
    "med",
-   "Rupee traders weigh Jio IPO flows against oil price risks",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOVNZbG9QbzVrUDFGaTZHVkJwZ0cyZHRYa0RwQjlwU0xQXzYtc1hDaHZCMjhuLU5nS0o5Uk1BamlZSlB0T0dYU1Y5U1FTRU1YQ2lLNlQyOUF3THZRSElCX0prb1ZrUzZQNm5vUGhnMVo5QVl6NkdyekloV2JIbjl1VWhLWTBrdDV6Yjc5d0x5cFFRWmYxX2RXcVhJTkhrQWpNaE1DbWlHaVU?oc=5"
+   "U.S. Energy Red Tape Gives China an Edge",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNEdtS1UzdG9KV1UtUGJjbzNDWEo0Vk5KelJIYmV6N01naGQ1QklBVFRtSS03UVdxejhkRGVzb2tXTjYzcU9pM0RVQ3FOcEhfR0padHdKaTVPTnV2QXdXQ1F3cmREQ2VYNXNYZlpneWMxUkhub1lmem5PRXNTQVV1UHNSMk1TYzdaM1RUdGxPNNIBlAFBVV95cUxPUEtoUTZnT2hFTTFwQUE1bEJTN1luOGVvZkxuMTB1dEd1NmVMYWpIenB4STVwd1NMcXMzdlN0elZOM2MxREJyNldKaFJ3b0tGYmNxUlJBTXpHNVdRZDZJZVhrekl4VmpKOXN1T2ptN2FQcFNNM1h1Slh6NVVzQ1ZDNTFMazZ0Y3htUGR2cjd2V3FHb1ZB?oc=5"
   ]
  ]
 }
