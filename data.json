@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T21:44:36.248Z",
+ "updated": "2026-10-22T22:43:30.959Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,25 +187,25 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.122,
-   "ch": -0.13,
-   "asof": "2026-10-22T21:44:27.000Z"
+   "p": 1.1225,
+   "ch": -0.09,
+   "asof": "2026-10-22T22:43:28.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3397,
-   "ch": 0.02,
-   "asof": "2026-10-22T21:44:27.000Z"
+   "p": 1.3404,
+   "ch": 0.07,
+   "asof": "2026-10-22T22:43:28.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 156.78,
-   "ch": -0.81,
-   "asof": "2026-10-22T21:44:28.000Z"
+   "p": 156.636,
+   "ch": -0.9,
+   "asof": "2026-10-22T22:43:29.000Z"
   },
   {
    "s": "AUD/USD",
@@ -213,39 +213,39 @@
    "d": 4,
    "p": 0.702,
    "ch": -0.13,
-   "asof": "2026-10-22T21:43:27.000Z"
+   "asof": "2026-10-22T22:43:28.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4006,
-   "ch": -0.28,
-   "asof": "2026-10-22T21:44:36.000Z"
+   "p": 1.4004,
+   "ch": -0.29,
+   "asof": "2026-10-22T22:43:30.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8199,
-   "ch": -0.51,
-   "asof": "2026-10-22T21:44:28.000Z"
+   "p": 0.82,
+   "ch": -0.5,
+   "asof": "2026-10-22T22:43:30.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81385.51,
-   "ch": -3.14,
-   "asof": "2026-10-22T21:44:31.000Z"
+   "p": 81210.71,
+   "ch": -3.35,
+   "asof": "2026-10-22T22:43:28.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2390.19,
-   "ch": -3.28,
-   "asof": "2026-10-22T21:44:28.000Z"
+   "p": 2381.32,
+   "ch": -3.64,
+   "asof": "2026-10-22T22:43:24.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4039.8,
-   "ch": -2.66,
-   "asof": "2026-10-22T20:59:59.000Z"
+   "p": 4044.3,
+   "ch": -0.4,
+   "asof": "2026-10-22T22:33:30.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 99.1,
-   "ch": 2.01,
-   "asof": "2026-10-22T20:59:59.000Z"
+   "p": 99.01,
+   "ch": -0.46,
+   "asof": "2026-10-22T22:33:26.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4777,
-   "ch": 0.66,
-   "asof": "2026-10-22T21:43:41.000Z"
+   "p": 16.4822,
+   "ch": 0.69,
+   "asof": "2026-10-22T22:43:30.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,9 +315,9 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 103.46,
-   "ch": -3.13,
-   "asof": "2026-10-22T21:44:35.000Z"
+   "p": 103.24,
+   "ch": -3.34,
+   "asof": "2026-10-22T22:43:20.000Z"
   },
   {
    "s": "XRP",
@@ -325,7 +325,7 @@
    "d": 4,
    "p": 1.3048,
    "ch": -4.31,
-   "asof": "2026-10-22T21:44:28.000Z"
+   "asof": "2026-10-22T22:43:29.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 54.63,
-   "ch": -5.34,
-   "asof": "2026-10-22T20:59:54.000Z"
+   "p": 54.64,
+   "ch": -0.67,
+   "asof": "2026-10-22T22:33:20.000Z"
   }
  ],
  "news": [
@@ -413,9 +413,9 @@
   [
    "Commodities",
    "med",
-   "Is this Prince Harry or David Brent in The Office? Either way, we’re watching a masterclass in awkwardness",
-   "The Guardian",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1ZzaHNpTXlXbGdXMG5acTh6Vi1XaHAzakF4d1ZNRTVHeGFpNFVEd2dZYkRQMnc5R0ZjU1lBNUdQOW9lam1yY2V4cTBYYzFDQUhGMDJsQVF4OWd1cURBdXQyNDhaLTZMSXIyUUNNZkhpc0JWWVJTTDJUdzRYX1ZmZGtrZ3BHRFcxLXFFLW0wUXBwQ2xXWHFTcA?oc=5"
+   "Still Bullish Into Year-End: Thoughts on the Kospi Bottoming and Brent Topping",
+   "Barron's",
+   "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZVlDWmRRbW9jQjhLUmlMbmJBZl9xUHNqVG52bThya1NHMHJxSG1oSEhpeTFzaTB6LWZGVVk5Y1JuQkNSOWhGSlpRQXpnandiNWhXcVJrLU4xRDNzRTIwNTNNS2pOMDFFY0QxUFJWeE1kY3NBMVZ5LXZPa3RkWnY1bDdva2JWT2pYOXc1RQ?oc=5"
   ]
  ]
 }
