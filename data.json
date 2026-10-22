@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T00:57:27.004Z",
+ "updated": "2026-10-22T01:46:53.077Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,41 +187,41 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1236,
-   "ch": 0.01,
-   "asof": "2026-10-22T00:57:25.000Z"
+   "p": 1.1233,
+   "ch": -0.02,
+   "asof": "2026-10-22T01:46:26.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3395,
-   "ch": 0.01,
-   "asof": "2026-10-22T00:56:25.000Z"
+   "p": 1.3388,
+   "ch": -0.04,
+   "asof": "2026-10-22T01:46:26.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.167,
-   "ch": 0.07,
-   "asof": "2026-10-22T00:57:26.000Z"
+   "p": 158.084,
+   "ch": 0.01,
+   "asof": "2026-10-22T01:46:53.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7033,
-   "ch": 0.06,
-   "asof": "2026-10-22T00:57:25.000Z"
+   "p": 0.7023,
+   "ch": -0.09,
+   "asof": "2026-10-22T01:45:26.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4042,
-   "ch": -0.02,
-   "asof": "2026-10-22T00:57:26.000Z"
+   "p": 1.4045,
+   "ch": 0,
+   "asof": "2026-10-22T01:46:52.000Z"
   },
   {
    "s": "USD/CHF",
@@ -229,23 +229,23 @@
    "d": 4,
    "p": 0.8244,
    "ch": 0.04,
-   "asof": "2026-10-22T00:57:23.000Z"
+   "asof": "2026-10-22T01:46:52.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 84192.81,
-   "ch": 0.2,
-   "asof": "2026-10-22T00:57:23.000Z"
+   "p": 83607.9,
+   "ch": -0.5,
+   "asof": "2026-10-22T01:46:47.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2474.25,
-   "ch": 0.12,
-   "asof": "2026-10-22T00:57:24.000Z"
+   "p": 2453.3,
+   "ch": -0.73,
+   "asof": "2026-10-22T01:46:49.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4132.4,
-   "ch": -0.42,
-   "asof": "2026-10-22T00:47:23.000Z"
+   "p": 4128.3,
+   "ch": -0.52,
+   "asof": "2026-10-22T01:36:50.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 98.07,
-   "ch": 0.95,
-   "asof": "2026-10-22T00:47:10.000Z"
+   "p": 98.19,
+   "ch": 1.07,
+   "asof": "2026-10-22T01:36:47.000Z"
   },
   {
    "s": "USD/KES",
@@ -293,15 +293,15 @@
    "d": 2,
    "p": 129.82,
    "ch": 0,
-   "asof": "2026-10-22T00:32:28.000Z"
+   "asof": "2026-10-22T01:46:05.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.3755,
-   "ch": 0.04,
-   "asof": "2026-10-22T00:57:27.000Z"
+   "p": 16.3747,
+   "ch": 0.03,
+   "asof": "2026-10-22T01:46:53.000Z"
   },
   {
    "s": "USD/NGN",
@@ -309,23 +309,23 @@
    "d": 2,
    "p": 1330.84,
    "ch": 0,
-   "asof": "2026-10-22T00:32:28.000Z"
+   "asof": "2026-10-22T01:46:05.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 107.26,
-   "ch": 0.43,
-   "asof": "2026-10-22T00:57:19.000Z"
+   "p": 106.26,
+   "ch": -0.51,
+   "asof": "2026-10-22T01:46:50.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3641,
-   "ch": 0.03,
-   "asof": "2026-10-22T00:57:20.000Z"
+   "p": 1.3518,
+   "ch": -0.87,
+   "asof": "2026-10-22T01:46:51.000Z"
   },
   {
    "s": "Apple",
@@ -355,25 +355,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 57.485,
-   "ch": -0.39,
-   "asof": "2026-10-22T00:47:17.000Z"
+   "p": 57.315,
+   "ch": -0.68,
+   "asof": "2026-10-22T01:36:24.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Ukraine's anti-corruption police search central bank, governor says no link to bank activity",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM2tYZkRHNmZIa1FlcUU0TWprVnlXb2pzMDVFM2tmM1FfOTAxTHp6ZjFxc3dQZHRCZHRaN0VlTWhFYVZWOTBqczFGcTV5ZVJWelE2RmRHelcwQVhrdkFGVWJDWmdMY184ajFDLXliQVhrU2pXX0VPejhzakhVZUR0UE51SmJiMnk3YzdWa0FoQ0dYRWNrcVYtLTVzaWlsRkUxS1VzUFVB?oc=5"
+   "Singapore Dollar Gains on Yen as Carry Funder, Analysts Say",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQktUelFYbk5qWWE1YmlCelJfcHFnZlJzX01JZEJ6YWhCYWlNRjYxMUJQa3pkTDBiNUItbDRnSEROREE5NEhTcHFHV0ZhQkRsRHpqZElGd1Z6ZG9HNGhaWmlEYm9lc1VIMDBOOGZqa0I1VFg3ZTBFNWg0bHRyRmNYV0l4cS0wMUtEemVOSGJQbm5uZVJWZEJNd3d2UFBhYjl1VUNORjR4NDN4Wl9uTFE?oc=5"
   ],
   [
    "Forex",
    "med",
-   "Nvidia Is AI’s Central Bank. Now Jensen Huang Must Step Up",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY2tqVW5kZ3c4OEhReHAxR3M5a3NXZnVyTTM3LTdsZjduQnJmZHZkNkNsVk1COWU1Ri1UVF90TE5xR2MwbkpiX1dHU0locHh5TGQwMGFucy1xQ05WNndXRHJHdEwyc0s3NE1WaHdMaXpjbC1keEluc2s4UnRQMzQ2S2ZHeTNMYk9TOV80VmFJT0RHUF9LUTZZRV82SENHZGs3ZkZNTzJZVHNnWjIyZWo0cA?oc=5"
+   "Ukraine's anti-corruption police search central bank, governor says no link to bank activity",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM2tYZkRHNmZIa1FlcUU0TWprVnlXb2pzMDVFM2tmM1FfOTAxTHp6ZjFxc3dQZHRCZHRaN0VlTWhFYVZWOTBqczFGcTV5ZVJWelE2RmRHelcwQVhrdkFGVWJDWmdMY184ajFDLXliQVhrU2pXX0VPejhzakhVZUR0UE51SmJiMnk3YzdWa0FoQ0dYRWNrcVYtLTVzaWlsRkUxS1VzUFVB?oc=5"
   ],
   [
    "Crypto",
@@ -385,9 +385,9 @@
   [
    "Crypto",
    "med",
-   "Bitcoin Price Analysis: Recent Buyers Break Even Near $87,700. Could Their Selling Stop BTC’s Rally?",
+   "Prediction: What Will 0.1 Bitcoin Be Worth by 2030?",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWndHOUc2dEFHQlhkRlQ0ZFBTajRTbWJfbVFPTUJIU0F5UGR1andMYkhlT0xGS1JOZXJoeTM2ODF0R0hvOG5wbHZyRjFaYUtPRnN4dTd0Njd0SXFXYlVRb2FOSk5oV2p2bUhTd2dBcTVnWVp3aFVjOUE4VmRnOUktU25xTWVKdjVvSkdxNi1CSUtvVkJOZzAwUEp6dnF1ZUpUZHdZ?oc=5"
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS2FnQXJuQklBaTNYUDR0dGtOUXFvZ2dQbXRCMU1MMDlmOU54M3ozb2JnQTZTRHBoZjJpckpjTllDUkJMLXBoNENXTGQwczdtWDFTLVN6Rm1PV3dUcHhMZl9uR2xTMVd5OG5OU2JuQWd5OE5MMlBGZDFNSXc4UWRTTEtTcFVaTE5zV0V1b3pDUU56WXhuTmlLZA?oc=5"
   ],
   [
    "Stocks",
@@ -399,9 +399,9 @@
   [
    "Stocks",
    "med",
-   "Mark Zuckerberg Discussed Leaving California Over Wealth Tax",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxONGt2WUlGbDBhQmRsak9lV3JCdS1TZFNLa2lPVW5xcTRaT0FWT1d0Y1FhU1cydkR4cVQwTTJ0MTFBMjhrSDRxRWhUUkY1c0d5ek9ZNG5JM3doQzRvcmpObzdLNnViQmhXQWhvd2FVcEFIU0gtLXVDbGFoNEZTNWlmSjI1d0xSR092cWpybm9CQm8xUUFtQkU3LUZLTjEzeGc?oc=5"
+   "US Stock Futures Slip as Tech Earnings Rally Fades: Markets Wrap",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeTBrLWVPck50dERfQ3N3cFhBMFpUN3lfZFFOeXZLM0lDR0lOSFp2Vnd0OHFaWU5JQ092UHg4XzlXQlEtN2JQNG1oWnpFYWFKSUFoYmZkT1FqTHR1bXR5b010d3ZvSENDZ0phTk04R1k5aUg4Z2ZTb1p2MmQ2LW53Ulk5NktSU0prZWwtMkFIZFo1SDll?oc=5"
   ],
   [
    "Commodities",
