@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T19:46:00.740Z",
+ "updated": "2026-10-22T20:45:08.476Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,105 +187,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1221,
-   "ch": -0.12,
-   "asof": "2026-10-22T19:45:30.000Z"
+   "p": 1.1217,
+   "ch": -0.16,
+   "asof": "2026-10-22T20:44:26.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3397,
-   "ch": 0.02,
-   "asof": "2026-10-22T19:45:30.000Z"
+   "p": 1.3399,
+   "ch": 0.04,
+   "asof": "2026-10-22T20:44:26.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 156.847,
-   "ch": -0.77,
-   "asof": "2026-10-22T19:45:59.000Z"
+   "p": 156.806,
+   "ch": -0.79,
+   "asof": "2026-10-22T20:45:05.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.702,
-   "ch": -0.13,
-   "asof": "2026-10-22T19:45:30.000Z"
+   "p": 0.7022,
+   "ch": -0.1,
+   "asof": "2026-10-22T20:43:26.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4007,
-   "ch": -0.27,
-   "asof": "2026-10-22T19:46:00.000Z"
+   "p": 1.4015,
+   "ch": -0.21,
+   "asof": "2026-10-22T20:45:07.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8205,
-   "ch": -0.44,
-   "asof": "2026-10-22T19:46:00.000Z"
+   "p": 0.8207,
+   "ch": -0.41,
+   "asof": "2026-10-22T20:45:08.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81287.34,
-   "ch": -3.26,
-   "asof": "2026-10-22T19:45:51.000Z"
+   "p": 81179.44,
+   "ch": -3.39,
+   "asof": "2026-10-22T20:45:04.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2380.13,
+   "p": 2380.14,
    "ch": -3.69,
-   "asof": "2026-10-22T19:45:57.000Z"
+   "asof": "2026-10-22T20:45:03.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7645.49,
-   "ch": -1.44,
-   "asof": "2026-10-22T19:46:00.000Z"
+   "p": 7663.43,
+   "ch": -1.21,
+   "asof": "2026-10-22T20:31:48.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 25943.34,
-   "ch": -2.84,
-   "asof": "2026-10-22T19:45:59.000Z"
+   "p": 26008.86,
+   "ch": -2.6,
+   "asof": "2026-10-22T20:45:08.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52795.84,
-   "ch": -0.11,
-   "asof": "2026-10-22T19:46:00.000Z"
+   "p": 52867.98,
+   "ch": 0.02,
+   "asof": "2026-10-22T20:31:52.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4041.4,
-   "ch": -2.62,
-   "asof": "2026-10-22T19:36:00.000Z"
+   "p": 4037.9,
+   "ch": -2.7,
+   "asof": "2026-10-22T20:35:01.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 99.4,
-   "ch": 2.32,
-   "asof": "2026-10-22T19:36:00.000Z"
+   "p": 99.05,
+   "ch": 1.96,
+   "asof": "2026-10-22T20:35:06.000Z"
   },
   {
    "s": "USD/KES",
@@ -293,15 +293,15 @@
    "d": 2,
    "p": 129.81,
    "ch": -0.01,
-   "asof": "2026-10-22T19:13:39.000Z"
+   "asof": "2026-10-22T20:31:24.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4963,
-   "ch": 0.78,
-   "asof": "2026-10-22T19:46:01.000Z"
+   "p": 16.4947,
+   "ch": 0.77,
+   "asof": "2026-10-22T20:45:08.000Z"
   },
   {
    "s": "USD/NGN",
@@ -309,55 +309,55 @@
    "d": 2,
    "p": 1329.43,
    "ch": -0.11,
-   "asof": "2026-10-22T19:13:39.000Z"
+   "asof": "2026-10-22T20:31:24.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 103.29,
-   "ch": -3.29,
-   "asof": "2026-10-22T19:45:56.000Z"
+   "p": 103.09,
+   "ch": -3.48,
+   "asof": "2026-10-22T20:45:03.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3045,
-   "ch": -4.34,
-   "asof": "2026-10-22T19:45:56.000Z"
+   "p": 1.2974,
+   "ch": -4.86,
+   "asof": "2026-10-22T20:45:03.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 347.682,
-   "ch": 1.07,
-   "asof": "2026-10-22T19:46:01.000Z"
+   "p": 348.22,
+   "ch": 1.23,
+   "asof": "2026-10-22T20:00:01.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 377.49,
-   "ch": -2.32,
-   "asof": "2026-10-22T19:46:00.000Z"
+   "p": 374.58,
+   "ch": -3.08,
+   "asof": "2026-10-22T20:00:00.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 211.87,
-   "ch": -4.55,
-   "asof": "2026-10-22T19:46:00.000Z"
+   "p": 212.21,
+   "ch": -4.4,
+   "asof": "2026-10-22T20:00:00.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 54.67,
-   "ch": -5.27,
-   "asof": "2026-10-22T19:35:46.000Z"
+   "p": 54.58,
+   "ch": -5.42,
+   "asof": "2026-10-22T20:34:11.000Z"
   }
  ],
  "news": [
@@ -371,9 +371,9 @@
   [
    "Forex",
    "med",
-   "Yen Jumps as Traders Seek Safety Amid Global Risk Averse Pivot",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNzhiRVUtTkNvb0FhSnFXZkF4NUhicFRqQU91UGhuS21xVXA5SDBjWFZybVpOVUFvX3pwQjJPeVJIanNBTlg5RWw4d1JoeDhjcEZWRjdJVldPWWt4UWQzVURJczQxdWg5RHNpU0JYd2QwNHhZYkVQNXRXcWRQY0ZKakc5ZGh6NmNwck53NzNWbm00eGtMMl9LX0lPV3haVUFwV1ZNb0dTQ2ZWcE0?oc=5"
+   "Yen jumps as oil, AI and France worries rattle markets",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ29vMWJYR01abURrT0JTbGQ3cXNkWjM3RllSbUpnREJlU3g1dDdfUTdkOFd3TDgwWnZVLW4zY2Q3LURhUHhuakVGY1JIRkxrUmx0bUhuSGZKR2ZVZEw5Z2RESW1DQjdFUHZfNEtub2JFejBpMGVmUGtJYjJNdmRoYXE0NGk4cXgzWFRXbnF1T0h0NjQxbE9fZ3lvV0w?oc=5"
   ],
   [
    "Crypto",
@@ -385,14 +385,14 @@
   [
    "Crypto",
    "med",
-   "Solana Is Faster and Cheaper Than Ethereum. So Why Is ETH Worth 5 Times More?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVFYybl90Q0FvQ3JvWHdEYktMRUFQYVdZN3FJUkNQdXJHTWVXR0NkdDJxVmdlaWdOZkJQU0JSbUFmdEdoUHhnTm5HMkp4NFIzRUVaSy1LQ1ZPQ3RTNC01d0pFNnhNWU5HcV9sUXVHY2pucURjZHktbGNHVV9aV2tmSk9PTUxTTVJfNkY2VVJaLUtKV1k4YnhkbDliVXJtSkIt?oc=5"
+   "Bitcoin Falls Below $83,000 as AI Jitters Weigh on Sentiment",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEg5MlR0cUtacXN1aGtzX2FxMFdqYkhhSGNPQnhkZHNLb0FqSVNuQS1FdHViQi0xcVlpeUhHUFpYRHM5YUkxVWtfV1ZkTExvbUhDMm52eVFJYldwQ1hFUWNNeXVWVU8zcFJIWkZ4RTV1S3BTUEVNS0htMjVUaFU3cHNoUzZYSk4tWmJLSERYUm5kaElhdnBfQ1BSTFIwNHJWcXU0a3FBXy1nZDd6X2U4?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Wall Street sinks as Nasdaq falls over 2% on AI cost worries",
+   "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
    "Reuters",
    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5"
   ],
