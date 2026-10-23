@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T19:44:10.941Z",
+ "updated": "2026-10-23T20:47:09.940Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,105 +187,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1197,
-   "ch": -0.22,
-   "asof": "2026-10-23T19:43:25.000Z"
+   "p": 1.1196,
+   "ch": -0.23,
+   "asof": "2026-10-23T20:46:26.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3373,
-   "ch": -0.16,
-   "asof": "2026-10-23T19:43:25.000Z"
+   "p": 1.3365,
+   "ch": -0.22,
+   "asof": "2026-10-23T20:46:26.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 156.873,
-   "ch": 0.06,
-   "asof": "2026-10-23T19:44:10.000Z"
+   "p": 156.823,
+   "ch": 0.03,
+   "asof": "2026-10-23T20:47:08.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.704,
-   "ch": 0.3,
-   "asof": "2026-10-23T19:43:25.000Z"
+   "p": 0.7037,
+   "ch": 0.26,
+   "asof": "2026-10-23T20:45:26.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4001,
-   "ch": -0.04,
-   "asof": "2026-10-23T19:44:09.000Z"
+   "p": 1.4011,
+   "ch": 0.04,
+   "asof": "2026-10-23T20:47:08.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8252,
-   "ch": 0.66,
-   "asof": "2026-10-23T19:44:10.000Z"
+   "p": 0.8254,
+   "ch": 0.68,
+   "asof": "2026-10-23T20:47:07.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81205.96,
-   "ch": -0.14,
-   "asof": "2026-10-23T19:44:08.000Z"
+   "p": 81386.63,
+   "ch": 0.09,
+   "asof": "2026-10-23T20:47:03.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2393.89,
-   "ch": 0.32,
-   "asof": "2026-10-23T19:44:06.000Z"
+   "p": 2400.12,
+   "ch": 0.58,
+   "asof": "2026-10-23T20:47:03.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7625.78,
-   "ch": -0.49,
-   "asof": "2026-10-23T19:44:10.000Z"
+   "p": 7623.68,
+   "ch": -0.52,
+   "asof": "2026-10-23T20:38:21.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 25957.014,
-   "ch": -0.2,
-   "asof": "2026-10-23T19:44:08.000Z"
+   "p": 25955.342,
+   "ch": -0.21,
+   "asof": "2026-10-23T20:47:07.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52251.26,
-   "ch": -1.17,
-   "asof": "2026-10-23T19:44:11.000Z"
+   "p": 52215.16,
+   "ch": -1.23,
+   "asof": "2026-10-23T20:42:55.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4012.1,
-   "ch": -1.19,
-   "asof": "2026-10-23T19:34:07.000Z"
+   "p": 4008.5,
+   "ch": -1.28,
+   "asof": "2026-10-23T20:37:06.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 103.53,
-   "ch": 4.08,
-   "asof": "2026-10-23T19:34:09.000Z"
+   "p": 103.33,
+   "ch": 3.88,
+   "asof": "2026-10-23T20:37:07.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.596,
-   "ch": 0.73,
-   "asof": "2026-10-23T19:44:11.000Z"
+   "p": 16.5867,
+   "ch": 0.67,
+   "asof": "2026-10-23T20:47:09.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,65 +315,65 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 103.63,
-   "ch": 0.08,
-   "asof": "2026-10-23T19:44:04.000Z"
+   "p": 103.78,
+   "ch": 0.23,
+   "asof": "2026-10-23T20:47:06.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3011,
-   "ch": -0.5,
-   "asof": "2026-10-23T19:44:05.000Z"
+   "p": 1.3075,
+   "ch": -0.01,
+   "asof": "2026-10-23T20:47:08.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 347.5,
-   "ch": -0.21,
-   "asof": "2026-10-23T19:44:12.000Z"
+   "p": 347.725,
+   "ch": -0.14,
+   "asof": "2026-10-23T20:00:01.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 372.075,
-   "ch": -0.67,
-   "asof": "2026-10-23T19:44:12.000Z"
+   "p": 372.22,
+   "ch": -0.63,
+   "asof": "2026-10-23T20:00:00.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 211.44,
-   "ch": -0.36,
-   "asof": "2026-10-23T19:44:12.000Z"
+   "p": 210.96,
+   "ch": -0.59,
+   "asof": "2026-10-23T20:00:00.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 54.055,
-   "ch": -1.73,
-   "asof": "2026-10-23T19:34:07.000Z"
+   "p": 53.96,
+   "ch": -1.9,
+   "asof": "2026-10-23T20:37:06.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Euro sinks on French debt worries; yen gains on AI rout",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxNRU4zMGRzLXpsS3VUeXg0YlJGV1NNYnZCUTZaOVJhSm5KQkUxcExfVEZ0cmsyUkFHX2JubWJKV3RwVkpVd3dodmFLcHV2YU83S1JQSGF4YzlnOUdldHBHeks2bFpZLVJBVGhDeGxONTd1S05KSkxTZlhqYWFqZXA3bmloWDhhVEdQa3dpcllLbk16eURmMzhpUzJueE9vZw?oc=5"
+   "Russia’s Central Bank Sees Only Modest Further Drop in Key Rate",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTBua2dpZkdVZVpzX1IzMFRqbEg1ZG5jRkpBcWNBcmtCckNubkh3UlpsRDhTamE2bTh4WHZtOXFYdHNiUUFZVGs2LUxkajhJY2JKUkYxbzdrTG93N3hzOUhsdHNINUVOSkduUF9PVGxpSzBPYUE5SVFfNFU4ZWZMMGdKRWE5MnpVSW9Gb1QzZmdtWmpndkgzQWx6cU1nOTkwZ21odktpdUhpRmF5bHZMNQ?oc=5"
   ],
   [
    "Forex",
    "med",
-   "Russia’s Central Bank Sees Only Modest Further Drop in Key Rate",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTBua2dpZkdVZVpzX1IzMFRqbEg1ZG5jRkpBcWNBcmtCckNubkh3UlpsRDhTamE2bTh4WHZtOXFYdHNiUUFZVGs2LUxkajhJY2JKUkYxbzdrTG93N3hzOUhsdHNINUVOSkduUF9PVGxpSzBPYUE5SVFfNFU4ZWZMMGdKRWE5MnpVSW9Gb1QzZmdtWmpndkgzQWx6cU1nOTkwZ21odktpdUhpRmF5bHZMNQ?oc=5"
+   "Euro sinks on French debt worries; yen gains on AI rout",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMingFBVV95cUxNRU4zMGRzLXpsS3VUeXg0YlJGV1NNYnZCUTZaOVJhSm5KQkUxcExfVEZ0cmsyUkFHX2JubWJKV3RwVkpVd3dodmFLcHV2YU83S1JQSGF4YzlnOUdldHBHeks2bFpZLVJBVGhDeGxONTd1S05KSkxTZlhqYWFqZXA3bmloWDhhVEdQa3dpcllLbk16eURmMzhpUzJueE9vZw?oc=5"
   ],
   [
    "Crypto",
@@ -385,23 +385,23 @@
   [
    "Crypto",
    "med",
-   "Current price of Ethereum for October 23, 2026",
+   "Current price of Ethereum for Oct. 23, 2026",
    "Fortune",
    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LbEd5S2cwRjNCZkp3LTFfWUJqa3AwTWY3cHdCZGd2cWJ2bWtjcHNReFRlcTV5THlaamY5S3hXYVdJSFlacUY1MDdoSmRqLW5aTGx3dXVIUFBKelBrcVU4a3g1cDdoa0Mx?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Dow, S&P 500 fall, tech steadies to end rocky week",
+   "S&P 500 closes lower to end rocky week",
    "Reuters",
    "https://news.google.com/rss/articles/CBMingFBVV95cUxQR01KeXBjdXBubVRzTlJfWWJTMHctb2hFS2pVT21ydWtZNzBaMldxd1c2ZUJGNWhIeGV6MUxvQVZvSl9GdFh5QThQbFpuT0IwYi02Y3JGM19YSWJ3LXMtb29RbS1WZUljdGtsS2dockxHVm5SWnBSMzJpM0Y4RFItdW5SMzFsdXg2LWtrYWE1SC1TQlkxOERJZHNtQVREdw?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Moderna’s Cancer-Vaccine Leak Spurs Panic Selling. Wall Street Wanted a Cure.",
-   "Barron's",
-   "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTW5URDR6c0JIbW1KRXVlZUV5eDh4UFlWYTVucmcwTGduaHplaUZrdlJoN1dzdHdYTHdESDR1SkpLaVgyVHhGbERwZUpPeElickdZZ3JJeHBfM2FwYkt3a28tM2hwVmpRRXY0T2txamt6VDhzYnA4dWVjMTBKQ0pEMFdqOV9NbE44?oc=5"
+   "Exclusive | Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaXJlSTBTVHFScmtRbGRyTnkyTWlkQ0FrMnBhXzY1TmNlQVFmUUpud1N4RFR2TklOeXBLRzZSajJvbzNJYW9hN2JjbWdEbElRbzkwR1BSQzlhQWVKbWV6YmNRa2M3Z0oxVmhyT1JaOW5pODNzblBVNjVBbmVJOWxQbVBXS2NyU3VTcFlKLWFZLWN3NDllTWdSRmRzU3llcTN4b3lKc3JrTQ?oc=5"
   ],
   [
    "Commodities",
