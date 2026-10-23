@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T07:53:39.600Z",
+ "updated": "2026-10-23T08:49:07.876Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1201,
-   "ch": -0.19,
-   "asof": "2026-10-23T07:53:25.000Z"
+   "p": 1.1193,
+   "ch": -0.26,
+   "asof": "2026-10-23T08:47:26.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3377,
-   "ch": -0.13,
-   "asof": "2026-10-23T07:53:25.000Z"
+   "p": 1.338,
+   "ch": -0.11,
+   "asof": "2026-10-23T08:47:26.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.078,
-   "ch": 0.19,
-   "asof": "2026-10-23T07:53:39.000Z"
+   "p": 156.754,
+   "ch": -0.01,
+   "asof": "2026-10-23T08:47:48.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7023,
-   "ch": 0.06,
-   "asof": "2026-10-23T07:53:25.000Z"
+   "p": 0.702,
+   "ch": 0.01,
+   "asof": "2026-10-23T08:47:26.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4011,
-   "ch": 0.04,
-   "asof": "2026-10-23T07:53:39.000Z"
+   "p": 1.4016,
+   "ch": 0.07,
+   "asof": "2026-10-23T08:47:47.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.823,
-   "ch": 0.39,
-   "asof": "2026-10-23T07:53:39.000Z"
+   "p": 0.8233,
+   "ch": 0.43,
+   "asof": "2026-10-23T08:47:47.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81501.66,
-   "ch": 0.23,
-   "asof": "2026-10-23T07:53:37.000Z"
+   "p": 81764.92,
+   "ch": 0.55,
+   "asof": "2026-10-23T08:49:02.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2398.25,
-   "ch": 0.5,
-   "asof": "2026-10-23T07:53:35.000Z"
+   "p": 2408.05,
+   "ch": 0.91,
+   "asof": "2026-10-23T08:49:02.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4033.9,
-   "ch": -0.65,
-   "asof": "2026-10-23T07:43:32.000Z"
+   "p": 4027.9,
+   "ch": -0.8,
+   "asof": "2026-10-23T08:37:41.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 100.47,
-   "ch": 1.01,
-   "asof": "2026-10-23T07:43:26.000Z"
+   "p": 100.32,
+   "ch": 0.85,
+   "asof": "2026-10-23T08:37:44.000Z"
   },
   {
    "s": "USD/KES",
@@ -293,15 +293,15 @@
    "d": 2,
    "p": 129.81,
    "ch": 0,
-   "asof": "2026-10-23T06:05:19.000Z"
+   "asof": "2026-10-23T08:29:31.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5473,
-   "ch": 0.43,
-   "asof": "2026-10-23T07:53:40.000Z"
+   "p": 16.5575,
+   "ch": 0.49,
+   "asof": "2026-10-23T08:47:48.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.19,
-   "ch": 0.62,
-   "asof": "2026-10-23T07:53:39.000Z"
+   "p": 104.75,
+   "ch": 1.16,
+   "asof": "2026-10-23T08:49:03.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3212,
-   "ch": 1.03,
-   "asof": "2026-10-23T07:53:36.000Z"
+   "p": 1.3269,
+   "ch": 1.47,
+   "asof": "2026-10-23T08:49:01.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 54.05,
-   "ch": -1.74,
-   "asof": "2026-10-23T07:43:02.000Z"
+   "p": 53.88,
+   "ch": -2.05,
+   "asof": "2026-10-23T08:37:45.000Z"
   }
  ],
  "news": [
@@ -371,7 +371,7 @@
   [
    "Forex",
    "med",
-   "Yen set for weekly gain as AI jitters spur safe-haven rush",
+   "Euro set for weekly drop, yen eyes biggest gain since early September",
    "Reuters",
    "https://news.google.com/rss/articles/CBMingFBVV95cUxNRU4zMGRzLXpsS3VUeXg0YlJGV1NNYnZCUTZaOVJhSm5KQkUxcExfVEZ0cmsyUkFHX2JubWJKV3RwVkpVd3dodmFLcHV2YU83S1JQSGF4YzlnOUdldHBHeks2bFpZLVJBVGhDeGxONTd1S05KSkxTZlhqYWFqZXA3bmloWDhhVEdQa3dpcllLbk16eURmMzhpUzJueE9vZw?oc=5"
   ],
