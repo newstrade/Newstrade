@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T03:47:05.292Z",
+ "updated": "2026-10-23T04:45:38.115Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1218,
-   "ch": -0.04,
-   "asof": "2026-10-23T03:46:30.000Z"
+   "p": 1.1213,
+   "ch": -0.08,
+   "asof": "2026-10-23T04:45:26.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3396,
-   "ch": 0.01,
-   "asof": "2026-10-23T03:46:30.000Z"
+   "p": 1.3391,
+   "ch": -0.03,
+   "asof": "2026-10-23T04:45:26.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 156.872,
-   "ch": 0.06,
-   "asof": "2026-10-23T03:47:05.000Z"
+   "p": 156.916,
+   "ch": 0.09,
+   "asof": "2026-10-23T04:45:38.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7019,
-   "ch": 0,
-   "asof": "2026-10-23T03:45:30.000Z"
+   "p": 0.7008,
+   "ch": -0.16,
+   "asof": "2026-10-23T04:45:26.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4006,
-   "ch": 0,
-   "asof": "2026-10-23T03:47:05.000Z"
+   "p": 1.4009,
+   "ch": 0.02,
+   "asof": "2026-10-23T04:45:37.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.821,
-   "ch": 0.15,
-   "asof": "2026-10-23T03:47:05.000Z"
+   "p": 0.8213,
+   "ch": 0.18,
+   "asof": "2026-10-23T04:45:37.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81849.44,
-   "ch": 0.66,
-   "asof": "2026-10-23T03:46:59.000Z"
+   "p": 81556.09,
+   "ch": 0.3,
+   "asof": "2026-10-23T04:45:33.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2410.31,
-   "ch": 1.01,
-   "asof": "2026-10-23T03:47:01.000Z"
+   "p": 2395.43,
+   "ch": 0.38,
+   "asof": "2026-10-23T04:45:29.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4032.6,
-   "ch": -0.68,
-   "asof": "2026-10-23T03:37:04.000Z"
+   "p": 4019.5,
+   "ch": -1.01,
+   "asof": "2026-10-23T04:35:37.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 100.01,
-   "ch": 0.54,
-   "asof": "2026-10-23T03:36:39.000Z"
+   "p": 100.15,
+   "ch": 0.68,
+   "asof": "2026-10-23T04:35:31.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5049,
-   "ch": 0.17,
-   "asof": "2026-10-23T03:47:06.000Z"
+   "p": 16.5141,
+   "ch": 0.23,
+   "asof": "2026-10-23T04:45:38.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.22,
-   "ch": 0.65,
-   "asof": "2026-10-23T03:47:01.000Z"
+   "p": 103.84,
+   "ch": 0.29,
+   "asof": "2026-10-23T04:45:34.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3212,
-   "ch": 1.03,
-   "asof": "2026-10-23T03:46:59.000Z"
+   "p": 1.3172,
+   "ch": 0.73,
+   "asof": "2026-10-23T04:45:29.000Z"
   },
   {
    "s": "Apple",
@@ -355,25 +355,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 54.1,
-   "ch": -1.65,
-   "asof": "2026-10-23T03:36:58.000Z"
+   "p": 53.685,
+   "ch": -2.4,
+   "asof": "2026-10-23T04:35:37.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Rifts emerge in Libya as eastern parliament backs central bank chief's resignation",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUmZZVFpPdHR0ZXM0QllwRldsMlJCd3lxcU9BTHY5RE1IOTNNUFdMbTd1cVFzWG1ZUURydWpVU0NJM0M5a1BKZEw2cklMV25udUlqUk9WMkJXd1RHZEVuODBSMlJwNm1tekNVTWwwdzdsVEw1eHJyYzdVQ3E3czNFSnE5NzByUi1XY1g3aUZBaGtGRC04LUlQaXlZYjExRV8xMEFpb1dBVnhRLTNJdHBYVTJxdy1sSmRtWkhQa1JEU1hnaDNsVWNleA?oc=5"
+   "Yen Strengthens on French Debt Woes, Hits One-Year High Against Euro",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2hmYU9LR1JPN1c1UVA0WTlNUVdzelpVcjc5UTMzS1lsdUVYYWpJN25QemlvbnpWckdLN2tybThTWUYxam1sbkNDZkZVMUszejN0clEtVkJMb1NFcktCVmFJVkZueWI5WHRIZEhzY0xRZUZNWk9rRFhoTmFQVDdCUWJlSWY0QUdERU5UVTZoMWZXcWVrcmlDVHRaX2pJUHRqaHQwMDZLLU9BaTR2TlhJYWFNVDRBQQ?oc=5"
   ],
   [
    "Forex",
    "med",
-   "Yen Hits One-Month High as US Tech Rout Revives Haven Appeal",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb1J1X09MVHdyQXBxb21ZR045OUU2MTlIYTJYOHdlVGVqQlhyazMzaWZmd0RDZTJydHhwLU10ZU1aWlFBQjdRN095UzZVMG1kUkhzLXJwY3UwNWM0R0VLTTR0aWxVU3FlNk9hMjZVMUNTaUVGUk40MVQyaTBBNGVXdGpUdzNTTHhOTkgyYm4xcGJEUE9nWEg0NllUTnZ3VVNQSDBXQlV0M3NQcUNOd2t6Tw?oc=5"
+   "Rifts emerge in Libya as eastern parliament backs central bank chief's resignation",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUmZZVFpPdHR0ZXM0QllwRldsMlJCd3lxcU9BTHY5RE1IOTNNUFdMbTd1cVFzWG1ZUURydWpVU0NJM0M5a1BKZEw2cklMV25udUlqUk9WMkJXd1RHZEVuODBSMlJwNm1tekNVTWwwdzdsVEw1eHJyYzdVQ3E3czNFSnE5NzByUi1XY1g3aUZBaGtGRC04LUlQaXlZYjExRV8xMEFpb1dBVnhRLTNJdHBYVTJxdy1sSmRtWkhQa1JEU1hnaDNsVWNleA?oc=5"
   ],
   [
    "Crypto",
@@ -385,9 +385,9 @@
   [
    "Crypto",
    "med",
-   "Prediction: What Would Have to Happen for Bitcoin to Hit $150,000?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxOelhsXzh1RFBpd1ZqYjVvdTZkUFZNWVRpMVYzbVM4eVRMZWZDWHYtWEdVMW5IbW5feGczMXZBekgyc3Z0N3MtS3RIa3dNNXRWNmI2LURzZXVWZGw4a2JQSzNqRFN4S2NxZElwd3ZDZVk2VjBWY0t6SUFWVTRaV1hhQ2RUbDNJZTJYNl9kQ0s4RGFDNkIxXzd3VGpTaF9Rc0U?oc=5"
+   "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNzYzWUFrLXBTRV9vWnZhZGJFbmhrcTVkN2NwVUgxWUd5TS1yeV9yMy1fREZzMWRCUUNmZjFQUjUwSFp2Yzd0M3ZILU9yN09XbmQtUXBYUG5pMjJQS2hiX1BPSDNJck5uZ0gtczYwZHJ6WDhVUlM0WHNVYzFtNWJuMGZFR0RHa2hNTDBQRVptM0JSRjFqSk9UdmliQWxLZTZWSzFnTGQwdUFoSlhtLU1oS1c2TjBfeWo3YVE?oc=5"
   ],
   [
    "Stocks",
@@ -399,9 +399,9 @@
   [
    "Stocks",
    "med",
-   "Nasdaq: 3 Key Takeaways for Long-Term Investors",
+   "Nasdaq Futures Rise After Chip Selloff While S&P 500, Dow Track Mixed Open: SLV, GLD, SOXL, BE In Focus",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdzZ2c2FURmthNTBmaUtxcDNzZi1sbVRzeUFYd0tHczI5SmgzQTU3UDNBRkFjWHpyVDV3Z0RKSmpybXdyOXRXYl95STdST2ZvbkZrMFZTaEd0M0x3UGpibEFWa3h2TjhrNU9OTGlnX3UxZlpMWXp6b1B3bGxpRjQ2cW1zMnlmYm1KUGktLVZSVGVIN2dXam5n?oc=5"
+   "https://news.google.com/rss/articles/CBMingFBVV95cUxNZmEydE1RYUllMnZsQ05JS2c2eDFxYzhNckdZa0ItYmFzSklxUE01dC1leW9uWGk0dHZzcFBkTlZ4U1pXb09NN2lNb2dPTkQwM1BIczZkelhJVnVUSHltN1pXNU1fUUl1MDVGM3gxYTE1dV9QdmdCNEhQRGVXVWFBc3RHVjFKOGdIS1FhVHAzWVBrbnhndE02MFVoWW1YUQ?oc=5"
   ],
   [
    "Commodities",
@@ -413,9 +413,9 @@
   [
    "Commodities",
    "med",
-   "Asian Stocks to Slide on Tech Rout, Bonds Rally: Markets Wrap",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZGVVVVZBVjRRcTNYSXJlNS0tV0E5MkEwOVlGcTh3anZ1eC16ZEdSYmp5ODRIcUo1T3BkU01vNkpTTmJxOUFELVFUUG9SS0o2SDNSWHQ5bE9PVGp3a29vLUROenZwc2FBTnhMQ3VOR1B4SVJiZjFvaDV6TjMwUlg3dUlQcmlkdUJXZU5PbXE2YWtrZXN1?oc=5"
+   "Oil little changed as supply concern lingers amid Houthi attacks on Saudi Arabia",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR2dZUC10TmJYRUk2RmM5WWpxaUx2XzBPZ0ZTV3hIR3BkaGFvZ3B2T1hhd0xEcXZOWk5LdXhLLUF5QU9XdTRQdnRyTk9jcmVNMEZvZlZBRW8xcG1TVW1fTkY2UnFrcXlVWlUwbDhRYk9pcW1fdEdzMVNRR2ZhYVl2T0RZa09uZTktZGFWRVRWSEpGeFhYVXVPR09zNDVaTVdiNDdRRHg3VFNyZWNNWVBmdkxGMWFOa05yN2NBRnRVZjF3eF9i?oc=5"
   ]
  ]
 }
