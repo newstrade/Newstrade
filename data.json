@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T04:45:38.115Z",
+ "updated": "2026-10-23T05:45:06.240Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -189,63 +189,63 @@
    "d": 4,
    "p": 1.1213,
    "ch": -0.08,
-   "asof": "2026-10-23T04:45:26.000Z"
+   "asof": "2026-10-23T05:44:27.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3391,
-   "ch": -0.03,
-   "asof": "2026-10-23T04:45:26.000Z"
+   "p": 1.339,
+   "ch": -0.04,
+   "asof": "2026-10-23T05:44:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 156.916,
+   "p": 156.912,
    "ch": 0.09,
-   "asof": "2026-10-23T04:45:38.000Z"
+   "asof": "2026-10-23T05:45:06.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7008,
-   "ch": -0.16,
-   "asof": "2026-10-23T04:45:26.000Z"
+   "p": 0.7015,
+   "ch": -0.06,
+   "asof": "2026-10-23T05:43:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4009,
-   "ch": 0.02,
-   "asof": "2026-10-23T04:45:37.000Z"
+   "p": 1.4011,
+   "ch": 0.04,
+   "asof": "2026-10-23T05:45:06.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8213,
-   "ch": 0.18,
-   "asof": "2026-10-23T04:45:37.000Z"
+   "p": 0.8219,
+   "ch": 0.26,
+   "asof": "2026-10-23T05:45:06.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81556.09,
-   "ch": 0.3,
-   "asof": "2026-10-23T04:45:33.000Z"
+   "p": 81698.99,
+   "ch": 0.47,
+   "asof": "2026-10-23T05:45:00.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2395.43,
-   "ch": 0.38,
-   "asof": "2026-10-23T04:45:29.000Z"
+   "p": 2402.8,
+   "ch": 0.69,
+   "asof": "2026-10-23T05:45:00.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4019.5,
-   "ch": -1.01,
-   "asof": "2026-10-23T04:35:37.000Z"
+   "p": 4034.5,
+   "ch": -0.64,
+   "asof": "2026-10-23T05:35:05.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 100.15,
-   "ch": 0.68,
-   "asof": "2026-10-23T04:35:31.000Z"
+   "p": 100.54,
+   "ch": 1.08,
+   "asof": "2026-10-23T05:35:02.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5141,
-   "ch": 0.23,
-   "asof": "2026-10-23T04:45:38.000Z"
+   "p": 16.5105,
+   "ch": 0.21,
+   "asof": "2026-10-23T05:45:06.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 103.84,
-   "ch": 0.29,
-   "asof": "2026-10-23T04:45:34.000Z"
+   "p": 104.38,
+   "ch": 0.81,
+   "asof": "2026-10-23T05:45:00.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3172,
-   "ch": 0.73,
-   "asof": "2026-10-23T04:45:29.000Z"
+   "p": 1.3269,
+   "ch": 1.47,
+   "asof": "2026-10-23T05:45:05.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.685,
-   "ch": -2.4,
-   "asof": "2026-10-23T04:35:37.000Z"
+   "p": 54.4,
+   "ch": -1.1,
+   "asof": "2026-10-23T05:35:05.000Z"
   }
  ],
  "news": [
@@ -378,16 +378,16 @@
   [
    "Crypto",
    "med",
-   "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTnZoMlNpT2lKa1pvWFFBNW84S2J2ZmlJZkNPdDVicUZDWHh2aVBJTjVPNFM0SVBVRE12WEVJT00wclVFQU9wVy1VblcwZTJxNXpvN2k1MExON0xGQnlQdkF1NVpacVhQT0haZldYVE9lZVJhSzZpLXpLNVBBQWJqSdIBhgFBVV95cUxPVllqMkNqeG9Gb3hMeHRBUGdiV1hIbXFmSl9OT29US3NYNm9pZ05VcXNrelc3X1NCUWdyeVNzVzd6Zk1URFhQaE9SRG5xcHNCeGFLLS1qSEdnbGRCM3BUT180UlJQVG1RVVhVaVBxSjZ4R0JTMVpxSW04cDN2ZFE3bi1aaU1IQQ?oc=5"
+   "What’s Next for Bitcoin? WisdomTree’s Take on Risks, Regulation, and Investing",
+   "Morningstar",
+   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX3B0dVBtLXBhT1lJbHpWcG5IUXluZktWZ2xNQjVYU1ZpNWVTcWs0Zjl6WDkybmhiM19OUDg1b2gxUHBBemdsT0hKQ0w0cXdaazhPbG5uem9FalRVTHNBN0FpVnc3dGtIeGk3SUs1dGlzMUNmNGpOMDhSOWlqRHRsZmhZMk1qa08zbU1sb3o5Ri1QNG8zcjZiMmRUQUpIUGVhWUViZWZxb3prY1E?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNzYzWUFrLXBTRV9vWnZhZGJFbmhrcTVkN2NwVUgxWUd5TS1yeV9yMy1fREZzMWRCUUNmZjFQUjUwSFp2Yzd0M3ZILU9yN09XbmQtUXBYUG5pMjJQS2hiX1BPSDNJck5uZ0gtczYwZHJ6WDhVUlM0WHNVYzFtNWJuMGZFR0RHa2hNTDBQRVptM0JSRjFqSk9UdmliQWxLZTZWSzFnTGQwdUFoSlhtLU1oS1c2TjBfeWo3YVE?oc=5"
+   "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTnZoMlNpT2lKa1pvWFFBNW84S2J2ZmlJZkNPdDVicUZDWHh2aVBJTjVPNFM0SVBVRE12WEVJT00wclVFQU9wVy1VblcwZTJxNXpvN2k1MExON0xGQnlQdkF1NVpacVhQT0haZldYVE9lZVJhSzZpLXpLNVBBQWJqSdIBhgFBVV95cUxPVllqMkNqeG9Gb3hMeHRBUGdiV1hIbXFmSl9OT29US3NYNm9pZ05VcXNrelc3X1NCUWdyeVNzVzd6Zk1URFhQaE9SRG5xcHNCeGFLLS1qSEdnbGRCM3BUT180UlJQVG1RVVhVaVBxSjZ4R0JTMVpxSW04cDN2ZFE3bi1aaU1IQQ?oc=5"
   ],
   [
    "Stocks",
@@ -413,7 +413,7 @@
   [
    "Commodities",
    "med",
-   "Oil little changed as supply concern lingers amid Houthi attacks on Saudi Arabia",
+   "Oil prices rise as supply concerns linger amid Houthi attacks on Saudi Arabia",
    "Reuters",
    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR2dZUC10TmJYRUk2RmM5WWpxaUx2XzBPZ0ZTV3hIR3BkaGFvZ3B2T1hhd0xEcXZOWk5LdXhLLUF5QU9XdTRQdnRyTk9jcmVNMEZvZlZBRW8xcG1TVW1fTkY2UnFrcXlVWlUwbDhRYk9pcW1fdEdzMVNRR2ZhYVl2T0RZa09uZTktZGFWRVRWSEpGeFhYVXVPR09zNDVaTVdiNDdRRHg3VFNyZWNNWVBmdkxGMWFOa05yN2NBRnRVZjF3eF9i?oc=5"
   ]
