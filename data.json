@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T01:01:30.140Z",
+ "updated": "2026-10-23T01:49:33.000Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1222,
-   "ch": 0,
-   "asof": "2026-10-23T01:01:26.000Z"
+   "p": 1.1221,
+   "ch": -0.01,
+   "asof": "2026-10-23T01:49:27.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3403,
-   "ch": 0.06,
-   "asof": "2026-10-23T01:01:26.000Z"
+   "p": 1.3401,
+   "ch": 0.04,
+   "asof": "2026-10-23T01:49:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 156.444,
-   "ch": -0.21,
-   "asof": "2026-10-23T01:01:29.000Z"
+   "p": 156.666,
+   "ch": -0.07,
+   "asof": "2026-10-23T01:49:32.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7023,
-   "ch": 0.06,
-   "asof": "2026-10-23T01:01:26.000Z"
+   "p": 0.7024,
+   "ch": 0.07,
+   "asof": "2026-10-23T01:49:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4,
-   "ch": -0.04,
-   "asof": "2026-10-23T01:01:29.000Z"
+   "p": 1.4003,
+   "ch": -0.02,
+   "asof": "2026-10-23T01:49:30.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8203,
-   "ch": 0.06,
-   "asof": "2026-10-23T01:01:28.000Z"
+   "p": 0.8207,
+   "ch": 0.11,
+   "asof": "2026-10-23T01:49:32.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81417.25,
-   "ch": 0.12,
-   "asof": "2026-10-23T01:01:25.000Z"
+   "p": 81483.83,
+   "ch": 0.21,
+   "asof": "2026-10-23T01:49:31.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2394.1,
-   "ch": 0.33,
-   "asof": "2026-10-23T01:01:24.000Z"
+   "p": 2397.55,
+   "ch": 0.47,
+   "asof": "2026-10-23T01:49:27.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4044.3,
-   "ch": -0.4,
-   "asof": "2026-10-23T00:51:27.000Z"
+   "p": 4025.4,
+   "ch": -0.86,
+   "asof": "2026-10-23T01:39:31.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 99.24,
-   "ch": -0.23,
-   "asof": "2026-10-23T00:51:26.000Z"
+   "p": 99.78,
+   "ch": 0.31,
+   "asof": "2026-10-23T01:39:31.000Z"
   },
   {
    "s": "USD/KES",
@@ -293,15 +293,15 @@
    "d": 2,
    "p": 129.81,
    "ch": 0,
-   "asof": "2026-10-23T00:54:13.000Z"
+   "asof": "2026-10-23T01:47:36.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4908,
-   "ch": 0.09,
-   "asof": "2026-10-23T01:01:30.000Z"
+   "p": 16.5015,
+   "ch": 0.15,
+   "asof": "2026-10-23T01:49:32.000Z"
   },
   {
    "s": "USD/NGN",
@@ -309,23 +309,23 @@
    "d": 2,
    "p": 1329.43,
    "ch": 0,
-   "asof": "2026-10-23T00:54:13.000Z"
+   "asof": "2026-10-23T01:47:36.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.01,
-   "ch": 0.45,
-   "asof": "2026-10-23T01:01:25.000Z"
+   "p": 104.26,
+   "ch": 0.69,
+   "asof": "2026-10-23T01:49:28.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3118,
-   "ch": 0.31,
-   "asof": "2026-10-23T01:01:26.000Z"
+   "p": 1.3162,
+   "ch": 0.65,
+   "asof": "2026-10-23T01:49:32.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 54.68,
-   "ch": -0.59,
-   "asof": "2026-10-23T00:51:27.000Z"
+   "p": 54.115,
+   "ch": -1.62,
+   "asof": "2026-10-23T01:39:31.000Z"
   }
  ],
  "news": [
@@ -399,9 +399,9 @@
   [
    "Stocks",
    "med",
-   "U.S. Stocks Fall as Tech Selloff Deepens",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDB3cDByVmVJQWQ4bzhobm83ZDVVN3MtYXh0VjlYT0xtakhpVkNrUFFHbVpWZEp2UHdpeWIwX0h2eVJqSzdod0t1Y3JxcVBaTzZlUFRKTFNkMDE4LVYxMHNjRGlYb0FsOVdqMnJuVzdHMk0xNVVxWXh4Y0tidlFtbXBUa1lXTVJGOXc1c0VvbjJ6eGVINVY0cEpFZHEtakM1UkFwdVZLVW4ySWlxV0RwNHpnNkpKcUsyRXU4RXN2Zm03QTQ?oc=5"
+   "Nasdaq 100 Clocks Worst Day In Four Months As Investors Grow Weary Of Capex, Elevated Debt — META, SPCX, BE, MRNA In Focus",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRzlfQ1ItMS1TRWVZMW9QcFdpNkZrOUVUMHM5c25wck4tU09jYWZyNXc5YTdYQmJ0dDdRbHVFajRhZ0VicWEzV21ycDhLTXZtRXNNeDQwQmpCZXhDa3hUV1NzVjNBMFFCRWdmaWdYQ3dDY0s0TjZNcVcyUVgya3BFMENRWnNkZF9BNjl2MVpJejJQdlphMS1V?oc=5"
   ],
   [
    "Commodities",
@@ -413,9 +413,9 @@
   [
    "Commodities",
    "med",
-   "Still Bullish Into Year-End: Thoughts on the Kospi Bottoming and Brent Topping",
-   "Barron's",
-   "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZVlDWmRRbW9jQjhLUmlMbmJBZl9xUHNqVG52bThya1NHMHJxSG1oSEhpeTFzaTB6LWZGVVk5Y1JuQkNSOWhGSlpRQXpnandiNWhXcVJrLU4xRDNzRTIwNTNNS2pOMDFFY0QxUFJWeE1kY3NBMVZ5LXZPa3RkWnY1bDdva2JWT2pYOXc1RQ?oc=5"
+   "Oil little changed as supply concern lingers amid Houthi attacks on Saudi Arabia",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR2dZUC10TmJYRUk2RmM5WWpxaUx2XzBPZ0ZTV3hIR3BkaGFvZ3B2T1hhd0xEcXZOWk5LdXhLLUF5QU9XdTRQdnRyTk9jcmVNMEZvZlZBRW8xcG1TVW1fTkY2UnFrcXlVWlUwbDhRYk9pcW1fdEdzMVNRR2ZhYVl2T0RZa09uZTktZGFWRVRWSEpGeFhYVXVPR09zNDVaTVdiNDdRRHg3VFNyZWNNWVBmdkxGMWFOa05yN2NBRnRVZjF3eF9i?oc=5"
   ]
  ]
 }
