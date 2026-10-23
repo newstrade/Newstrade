@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T22:43:32.423Z",
+ "updated": "2026-10-23T23:41:25.921Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -235,17 +235,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81011.87,
-   "ch": -0.37,
-   "asof": "2026-10-23T22:43:28.000Z"
+   "p": 80860.99,
+   "ch": -0.56,
+   "asof": "2026-10-23T23:41:20.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2380.04,
-   "ch": -0.26,
-   "asof": "2026-10-23T22:43:25.000Z"
+   "p": 2377.51,
+   "ch": -0.37,
+   "asof": "2026-10-23T23:41:22.000Z"
   },
   {
    "s": "S&P 500",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 102.87,
-   "ch": -0.65,
-   "asof": "2026-10-23T22:43:28.000Z"
+   "p": 102.5,
+   "ch": -1.01,
+   "asof": "2026-10-23T23:41:23.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.299,
-   "ch": -0.66,
-   "asof": "2026-10-23T22:43:21.000Z"
+   "p": 1.2907,
+   "ch": -1.3,
+   "asof": "2026-10-23T23:41:16.000Z"
   },
   {
    "s": "Apple",
@@ -363,10 +363,10 @@
  "news": [
   [
    "Forex",
-   "med",
-   "Euro sinks on French debt worries; yen gains on AI rout",
+   "high",
+   "Russian central bank keeps key rate on hold at 14%, raises 2026 inflation forecast",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxNRU4zMGRzLXpsS3VUeXg0YlJGV1NNYnZCUTZaOVJhSm5KQkUxcExfVEZ0cmsyUkFHX2JubWJKV3RwVkpVd3dodmFLcHV2YU83S1JQSGF4YzlnOUdldHBHeks2bFpZLVJBVGhDeGxONTd1S05KSkxTZlhqYWFqZXA3bmloWDhhVEdQa3dpcllLbk16eURmMzhpUzJueE9vZw?oc=5"
+   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ1lYMHE1UVNEa0dXTWVkQjZ0OUJIOVNQRm5laTJuRlZpakY2R012ekNrRmZ6LTdNYmNqLVBCOFBJekpQWXFrejA0Y0xjZ2UwVjR1d2QtZ1NxYi1GUFBFa3NSNy12anA5WE84amszX2t4Z1JoZXRndDVBcS1NTDluU2NuODd1b25GSWNpNjNSdFc3cF9sQlp2RUx1VTI3U3piNkstRGdZN0ZHTkwxLVhaNFRTM0szQjdKT2lN?oc=5"
   ],
   [
    "Forex",
@@ -378,16 +378,16 @@
   [
    "Crypto",
    "med",
-   "Is Ethereum a Buy Under $2,400? We Asked Grok AI",
+   "Which Crypto Under $1 Has the Most Upside in 2026?",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikwFBVV95cUxONjBCeGdlSHpmdGRTQ2ZDNWJxQWlVQ0JMd1lWZjU3alNWYzFub0lidzFNWG9XNG5EeFhRSkRXSzdBTkYxZ3dJOUNoVl9TeFNJU003aWlnT3JzbEVidjV5X1hfTTFJSW5NTkZpLThDVUlndURWNzlaMjBrbUs5cGdlWVgyN2RGMTZLMm9WbW9XX05lVk0?oc=5"
+   "https://news.google.com/rss/articles/CBMilgFBVV95cUxPam1zRk1RbVVGZzcwenRQbmZlV1JrWWhFcnpxZ3lIRFZzZVRCVDBReWxGQnRsY3kxeUg2bkt1UjlEVFdpTnlNQ2YxcUpZSXNxOWg0Rmc5bEp2UWlBdndZd3k2YlZCZy12bkdTMldKREU1eUFtRlEtM3RSbWdSNk1jSHhvSktzVXM0WnlJUkxRMHI1cmZxTFE?oc=5"
   ],
   [
    "Crypto",
-   "high",
-   "Bitcoin Investors Look To Mid-Term And Fed Meeting Results Amid Range-Bound Trading",
+   "med",
+   "Why Good Crypto Projects Keep Making Bad Investments",
    "Forbes",
-   "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNTZFSmhOSDZBMmxpMzQ5X3NSVWlQdmJqbUhXYVRlOHNkVThscERzWFFKdE56UkE5LU0yWXNKTi1WR0hVbVowM0dIVmNScGtuOUR6dXlQTl8waVFHcmVPQVJqYk50UWpGei0zM09FWFlEc0QzZ3JkMmhLSzVIN2JsU2RhcmJJcW9JdXJxLS1zVG5BQ0M0XzBCeWcwYThnM0VrM0tJX214WUdRalZNWkdLWmE5bnRfT0pUclQ1a2N4R3Fpd0xoekhEcGN6bERhZ2JXbkdQcm5R?oc=5"
+   "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSHR6NG9wTXBBV3dxb2RGeS0xd25xVlVxc1lhbnpOeGRxcFEyT3I0YzZqaWlVZjRGUDNGcVhMcFN4cGJoaW1hTFlnZU9PVTktN1RocndqTmYzXzVFUnJXbDE3b2ZOTjdTY1VhLUlGZmZYVWNGdVFQOTBYUGpGX2pKZ0dXNXVGV0QtVGkzUldoWVlHNGtVd1BGbVBVNFJ0OGRhN3lxU1ZuMzNZclRH?oc=5"
   ],
   [
    "Stocks",
@@ -399,9 +399,9 @@
   [
    "Stocks",
    "med",
-   "AI pixie dust is losing its stock market power",
-   "Axios",
-   "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ILUtHNDlPMWRZdXNwQXlnTnQtVE8zTTJBUmtzVTVudzJMRTV1dHRsRFFsd3puWEJGR0Q0dTZtMXYtbGM3Z3hPZUg1MUR4dVZCMzJGOUMwcWU2MVp3YzR6Tm5fYUZwN3d4Y2NvaDFLV3U?oc=5"
+   "S&P 500 closes lower to end rocky week",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYWdSNkxXdTJSVW4zU1F3VXFmRUtqSUVKd3Rsano5NFBBc2ZnV0RGOGxnNHAwRTZTbmh1czNuZWliTW5CbnBWaFdueUxWYjdFMGZ4THpnaXBzLXV1QzVENS16NjZld3dqa25UdDhzQjVuVXpxNUdBUkdCXzNFaFQyUTFFZ1NhcUh3ODFJVXRyTkE?oc=5"
   ],
   [
    "Commodities",
