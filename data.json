@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T13:52:36.636Z",
+ "updated": "2026-10-23T14:51:45.789Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,105 +187,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1203,
-   "ch": -0.17,
-   "asof": "2026-10-23T13:52:28.000Z"
+   "p": 1.1207,
+   "ch": -0.13,
+   "asof": "2026-10-23T14:51:29.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3376,
-   "ch": -0.14,
-   "asof": "2026-10-23T13:52:28.000Z"
+   "p": 1.3387,
+   "ch": -0.06,
+   "asof": "2026-10-23T14:51:29.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 156.695,
-   "ch": -0.05,
-   "asof": "2026-10-23T13:52:36.000Z"
+   "p": 156.816,
+   "ch": 0.03,
+   "asof": "2026-10-23T14:51:45.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.703,
-   "ch": 0.16,
-   "asof": "2026-10-23T13:51:28.000Z"
+   "p": 0.7034,
+   "ch": 0.21,
+   "asof": "2026-10-23T14:51:29.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3975,
-   "ch": -0.22,
-   "asof": "2026-10-23T13:52:36.000Z"
+   "p": 1.3979,
+   "ch": -0.19,
+   "asof": "2026-10-23T14:51:46.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8239,
-   "ch": 0.5,
-   "asof": "2026-10-23T13:52:36.000Z"
+   "p": 0.8244,
+   "ch": 0.56,
+   "asof": "2026-10-23T14:51:45.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81847.12,
-   "ch": 0.65,
-   "asof": "2026-10-23T13:52:34.000Z"
+   "p": 81683.26,
+   "ch": 0.45,
+   "asof": "2026-10-23T14:51:42.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2410.4,
-   "ch": 1.01,
-   "asof": "2026-10-23T13:52:34.000Z"
+   "p": 2406.49,
+   "ch": 0.85,
+   "asof": "2026-10-23T14:51:44.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7635.14,
-   "ch": -0.37,
-   "asof": "2026-10-23T13:52:36.000Z"
+   "p": 7649.66,
+   "ch": -0.18,
+   "asof": "2026-10-23T14:51:45.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 25994.791,
-   "ch": -0.05,
-   "asof": "2026-10-23T13:52:31.000Z"
+   "p": 26086.133,
+   "ch": 0.3,
+   "asof": "2026-10-23T14:51:42.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52338.4,
-   "ch": -1,
-   "asof": "2026-10-23T13:52:37.000Z"
+   "p": 52295.6,
+   "ch": -1.08,
+   "asof": "2026-10-23T14:51:46.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4037.2,
-   "ch": -0.57,
-   "asof": "2026-10-23T13:42:35.000Z"
+   "p": 4010.6,
+   "ch": -1.23,
+   "asof": "2026-10-23T14:41:46.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 102.22,
-   "ch": 2.76,
-   "asof": "2026-10-23T13:42:37.000Z"
+   "p": 102.45,
+   "ch": 3,
+   "asof": "2026-10-23T14:41:44.000Z"
   },
   {
    "s": "USD/KES",
@@ -293,15 +293,15 @@
    "d": 2,
    "p": 129.79,
    "ch": -0.02,
-   "asof": "2026-10-23T13:50:31.000Z"
+   "asof": "2026-10-23T14:25:48.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5879,
-   "ch": 0.68,
-   "asof": "2026-10-23T13:52:37.000Z"
+   "p": 16.6089,
+   "ch": 0.81,
+   "asof": "2026-10-23T14:51:46.000Z"
   },
   {
    "s": "USD/NGN",
@@ -309,55 +309,55 @@
    "d": 2,
    "p": 1353.91,
    "ch": 1.84,
-   "asof": "2026-10-23T13:41:45.000Z"
+   "asof": "2026-10-23T14:25:48.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.92,
-   "ch": 1.33,
-   "asof": "2026-10-23T13:52:35.000Z"
+   "p": 104.71,
+   "ch": 1.13,
+   "asof": "2026-10-23T14:51:41.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3196,
-   "ch": 0.91,
-   "asof": "2026-10-23T13:52:31.000Z"
+   "p": 1.3141,
+   "ch": 0.49,
+   "asof": "2026-10-23T14:51:42.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 349.63,
-   "ch": 0.4,
-   "asof": "2026-10-23T13:52:30.000Z"
+   "p": 347.82,
+   "ch": -0.11,
+   "asof": "2026-10-23T14:51:46.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 367.6,
-   "ch": -1.86,
-   "asof": "2026-10-23T13:52:37.000Z"
+   "p": 373.71,
+   "ch": -0.23,
+   "asof": "2026-10-23T14:51:46.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 212.53,
-   "ch": 0.15,
-   "asof": "2026-10-23T13:52:37.000Z"
+   "p": 213.15,
+   "ch": 0.44,
+   "asof": "2026-10-23T14:51:45.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.935,
-   "ch": -1.95,
-   "asof": "2026-10-23T13:42:35.000Z"
+   "p": 53.89,
+   "ch": -2.03,
+   "asof": "2026-10-23T14:41:46.000Z"
   }
  ],
  "news": [
@@ -378,30 +378,30 @@
   [
    "Crypto",
    "med",
-   "Bitcoin Billionaires Are Racing to Ride a 3,000% Crypto Boom",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTkxCUm5VMmc3LUtHeDlxOHJfUjVTVjJnV043VlgyUlhZQkxnbTlpRmxGdkxkcGxCeFVPWVlVQW1CQ1Q1aWJwNTVBNWlfWnl1X2psUUU0Y1hJQkpJb292UzlxRVNFRnZUVkF3b1Q1SkljYkxLbjJFcTZUS3dfdkUzRS1ObWZCX2FJUENaMVljUGpUU3FDVk5mdV9kMXhyNVE1bTc5LXcwbll2WERUZEFF?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "Current price of Ethereum for Oct. 23, 2026",
+   "Current price of Ethereum for October 23, 2026",
    "Fortune",
    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LbEd5S2cwRjNCZkp3LTFfWUJqa3AwTWY3cHdCZGd2cWJ2bWtjcHNReFRlcTV5THlaamY5S3hXYVdJSFlacUY1MDdoSmRqLW5aTGx3dXVIUFBKelBrcVU4a3g1cDdoa0Mx?oc=5"
   ],
   [
+   "Crypto",
+   "med",
+   "What’s Next for Bitcoin? WisdomTree’s Take on Risks, Regulation, and Investing",
+   "Morningstar",
+   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemg4djNHYm5KVGlvc082U1ZieVl2MGxKb0pwVXkxTHNlUmhxcEZHZWFaNmVJc2JDN1dzSzJXWnZlaGFTUFlZV0RweTdhLXF1Z3JFb2M0cVFUUE5ZUVBMcGhKMEwyR0FFOVdfQjg4RWF5Sy1JQ0dpZklXLVFfU3hma0lIREp3STBqcHdYMzg3NXkwVi1pby1oMFBseVNHQXhzMlE5RjhSdWxTd3M?oc=5"
+  ],
+  [
    "Stocks",
    "med",
-   "Wall St opens lower after AI rout; SpaceX worries hit telecoms",
+   "Wall St dips after AI-led selloff; SpaceX worries hit telecoms",
    "Reuters",
    "https://news.google.com/rss/articles/CBMingFBVV95cUxQR01KeXBjdXBubVRzTlJfWWJTMHctb2hFS2pVT21ydWtZNzBaMldxd1c2ZUJGNWhIeGV6MUxvQVZvSl9GdFh5QThQbFpuT0IwYi02Y3JGM19YSWJ3LXMtb29RbS1WZUljdGtsS2dockxHVm5SWnBSMzJpM0Y4RFItdW5SMzFsdXg2LWtrYWE1SC1TQlkxOERJZHNtQVREdw?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Watch Q&A: Indonesia’s Stock Market Selloff",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMk9oaDVERFpBdUZ3a1pVUzduNmZWcVJCbHRNbWt5Umd1akVoV3FSZkpNSDJMY2JocU9NLVgtWjNHd2NNYWd0c2dDR1RmdDZlWjVfZWRWbXZ3RmpnVVZCWXFRQXpWVDMyM2pORnhXOWlwZDZRc1oySmdSRTlXZGFXOEI4Q1ZSWTN0U3JRcHVOUWFhLXI3Q2c?oc=5"
+   "Stock Market Reels From 2 World-Changing Factors",
+   "Barron's",
+   "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOGlvV050ZVRGQnBFS0YtbDVGTFpZME5zOWdzMEZ6cnNyS29ETEFlQ28zSXVSczc4WFJhN2NiaE9WZ1lrN1dfeHBBNHRsUC1zaDBmWTNXV24tUzJNNkhkZ09EZTUxczlzT2h3Q2ZidE5JbzNBTF94ZkdnUHhKMFFKcw?oc=5"
   ],
   [
    "Commodities",
@@ -413,9 +413,9 @@
   [
    "Commodities",
    "med",
-   "Brent Hits $114 as Houthi Attacks Threaten Saudi Energy Infrastructure",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVXp4ZEdPLTA3dlp1dndrT0JRWGF6UlRQaXAybzkwZl9iQVc1SHlXQzllV2FuaHhEUVotUEVpcU9ZNnJjMlBMRFFMMnlkeUhlT0FQVHE0Rms5bWhOb1BpYWdwTDgyblNYZ01YZ2tmWmFzUC05aDV4dW1pUXdiTFhfSjV2RW8zSzVnM0Myd2FTX0l3bTQ4bXdpWjBNODlyWm5wLTRfU0VnNXdIRk5jVnRBaGtBazUxUVd2enNxeVl5WFJ1cVXSAcgBQVVfeXFMT1BKTTBwRTFqOXJSbEZ3UTZVT3dkanlreS1FeXpKOHZVZXptZG0tR2tYdEpZVTY4RDdLbDlfXzRBLUNxeG41T2lLUGVlTVVzMGxWY29MNzFsZk9aa3A0eE05TENDQ05uNGZVc25VdE1QN2JRZXpiZmdqa3l1UVk3T2htaURPSVgxdENrN2pTa1kwS05pZG5SaGxoby12S18yaGo2aHZHdHRGLXI1dFhsem5QcXVsMzBTazdjZXFMRndWbEVXdHM2bTQ?oc=5"
+   "Oil price rises above $115 a barrel amid fears US will renew strikes on Iran",
+   "The Guardian",
+   "https://news.google.com/rss/articles/CBMingFBVV95cUxPbjhUWEhFUEhXV2ZVbHVLbmtmUVdDeUxTRzlsZEdYY3JYd09YdVBYOTE0RVFlYnZZUkNNSmZ2MkRTamo3c0g4bTJrNllYbWpXWXBVMHl2MnNrNnlwVGJMdWYwN3I0alFzaTE4M2FXdWM5WEp2ZXFLWHdDUGRsOGRQWG53R2hwTTg5b1RqenVCNkEyd2NzZ3lmdm8yQWRBUQ?oc=5"
   ]
  ]
 }
