@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T06:57:44.447Z",
+ "updated": "2026-10-23T07:53:39.600Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1213,
-   "ch": -0.08,
-   "asof": "2026-10-23T06:57:29.000Z"
+   "p": 1.1201,
+   "ch": -0.19,
+   "asof": "2026-10-23T07:53:25.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3384,
-   "ch": -0.08,
-   "asof": "2026-10-23T06:57:29.000Z"
+   "p": 1.3377,
+   "ch": -0.13,
+   "asof": "2026-10-23T07:53:25.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.069,
+   "p": 157.078,
    "ch": 0.19,
-   "asof": "2026-10-23T06:57:44.000Z"
+   "asof": "2026-10-23T07:53:39.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7024,
-   "ch": 0.07,
-   "asof": "2026-10-23T06:57:29.000Z"
+   "p": 0.7023,
+   "ch": 0.06,
+   "asof": "2026-10-23T07:53:25.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4015,
-   "ch": 0.06,
-   "asof": "2026-10-23T06:57:44.000Z"
+   "p": 1.4011,
+   "ch": 0.04,
+   "asof": "2026-10-23T07:53:39.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8229,
-   "ch": 0.38,
-   "asof": "2026-10-23T06:57:43.000Z"
+   "p": 0.823,
+   "ch": 0.39,
+   "asof": "2026-10-23T07:53:39.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81764.97,
-   "ch": 0.55,
-   "asof": "2026-10-23T06:57:39.000Z"
+   "p": 81501.66,
+   "ch": 0.23,
+   "asof": "2026-10-23T07:53:37.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2405.94,
-   "ch": 0.82,
-   "asof": "2026-10-23T06:57:38.000Z"
+   "p": 2398.25,
+   "ch": 0.5,
+   "asof": "2026-10-23T07:53:35.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4031.4,
-   "ch": -0.71,
-   "asof": "2026-10-23T06:47:44.000Z"
+   "p": 4033.9,
+   "ch": -0.65,
+   "asof": "2026-10-23T07:43:32.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 100.63,
-   "ch": 1.17,
-   "asof": "2026-10-23T06:47:44.000Z"
+   "p": 100.47,
+   "ch": 1.01,
+   "asof": "2026-10-23T07:43:26.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.506,
-   "ch": 0.18,
-   "asof": "2026-10-23T06:57:45.000Z"
+   "p": 16.5473,
+   "ch": 0.43,
+   "asof": "2026-10-23T07:53:40.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.52,
-   "ch": 0.94,
-   "asof": "2026-10-23T06:57:39.000Z"
+   "p": 104.19,
+   "ch": 0.62,
+   "asof": "2026-10-23T07:53:39.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3272,
-   "ch": 1.49,
-   "asof": "2026-10-23T06:57:42.000Z"
+   "p": 1.3212,
+   "ch": 1.03,
+   "asof": "2026-10-23T07:53:36.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 54.185,
-   "ch": -1.49,
-   "asof": "2026-10-23T06:47:42.000Z"
+   "p": 54.05,
+   "ch": -1.74,
+   "asof": "2026-10-23T07:43:02.000Z"
   }
  ],
  "news": [
@@ -385,9 +385,9 @@
   [
    "Crypto",
    "med",
-   "This Top Investment Strategist Thinks a Bitcoin Supercycle Is Coming Soon. Here's Why He's Wrong.",
+   "Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkp5OXNfMHFLUU9oSFlYT3RxZnJHX1VxTjZfOUw1X2pxcERqV2JSVUZMbDR3MzBnd04yVDNQOEtSbGo3RmRpSXFFLXhrR0E1N1ZwNzhwN09BUFFKakw2NG00QjZLN0pJSGtzU0Noc3pzUDBXOWVfLUs3Zi1kalBWNV9BZmZJRlgwTy1PMHVpazVCek9Qb19PRHcyQy1oRVlRZDZLX3lTV1g?oc=5"
+   "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbXFUdG1TaTRveTk3VUhFclVvNVNiUzNHZHA1Tm12SVF6X1I5ZVJoVHl5eW90UWZoVnBZN1ZlM2RDX19FMXRGVFI0LXV5Z3lqc0QybW1BU1NnWGRnUWpnd2dFMlB0TGV3TmMyUnJpTDJyaDN3YlI5dmhMUG9CODJZRHJKTnNxMUVwVHp4OHRpSEJaUmVXS3hPY21B?oc=5"
   ],
   [
    "Stocks",
@@ -406,16 +406,16 @@
   [
    "Commodities",
    "med",
-   "Oil prices rise as supply concerns linger amid Houthi attacks on Saudi Arabia",
+   "Oil prices rise more than 1% as supply concerns linger",
    "Reuters",
    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR2dZUC10TmJYRUk2RmM5WWpxaUx2XzBPZ0ZTV3hIR3BkaGFvZ3B2T1hhd0xEcXZOWk5LdXhLLUF5QU9XdTRQdnRyTk9jcmVNMEZvZlZBRW8xcG1TVW1fTkY2UnFrcXlVWlUwbDhRYk9pcW1fdEdzMVNRR2ZhYVl2T0RZa09uZTktZGFWRVRWSEpGeFhYVXVPR09zNDVaTVdiNDdRRHg3VFNyZWNNWVBmdkxGMWFOa05yN2NBRnRVZjF3eF9i?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Citi's $60 Oil Call Meets $112 Brent",
+   "Brent Hits $114 as Houthi Attacks Threaten Saudi Energy Infrastructure",
    "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVXEyVEdqNXdrUlh6Y2lIMGtyZWgzR1J4NFRtRVhkemdLZmJMR1J0RVZ1d24wOVVfZjA5NXJiX0lXZk9yeVRUMTlfUFFrUElQaDF5UU8ybHphS3h0R1dIVDc1MXRtNjAtRGJaUVRmQjlQbzhuOHVHUS1TNjMyMEhkZ1lXS19kcFpqekZEa3ZWVWVRdFXSAZgBQVVfeXFMTkVNSWVqZk4zYnRFQ0JoUlNJTHRmVVppNnFCUmJ3VWthRUxyQ1pSMHp2VmprVXkzRVNSbnN6UkFYOUw2b1p6azBmRW84TXN1bVhVOE42MWF6M1B3QlFyd0txM0pKd0o2cS0zVTN3Sng1MmpPVjIweEE1R0p2UU4tZGRES2x1ZXNIa1FFbUhtbnBNYTdZTFZrQVo?oc=5"
+   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVXp4ZEdPLTA3dlp1dndrT0JRWGF6UlRQaXAybzkwZl9iQVc1SHlXQzllV2FuaHhEUVotUEVpcU9ZNnJjMlBMRFFMMnlkeUhlT0FQVHE0Rms5bWhOb1BpYWdwTDgyblNYZ01YZ2tmWmFzUC05aDV4dW1pUXdiTFhfSjV2RW8zSzVnM0Myd2FTX0l3bTQ4bXdpWjBNODlyWm5wLTRfU0VnNXdIRk5jVnRBaGtBazUxUVd2enNxeVl5WFJ1cVXSAcgBQVVfeXFMT1BKTTBwRTFqOXJSbEZ3UTZVT3dkanlreS1FeXpKOHZVZXptZG0tR2tYdEpZVTY4RDdLbDlfXzRBLUNxeG41T2lLUGVlTVVzMGxWY29MNzFsZk9aa3A0eE05TENDQ05uNGZVc25VdE1QN2JRZXpiZmdqa3l1UVk3T2htaURPSVgxdENrN2pTa1kwS05pZG5SaGxoby12S18yaGo2aHZHdHRGLXI1dFhsem5QcXVsMzBTazdjZXFMRndWbEVXdHM2bTQ?oc=5"
   ]
  ]
 }
