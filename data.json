@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T09:46:59.425Z",
+ "updated": "2026-10-23T10:44:51.690Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1203,
-   "ch": -0.17,
-   "asof": "2026-10-23T09:46:27.000Z"
+   "p": 1.1202,
+   "ch": -0.18,
+   "asof": "2026-10-23T10:44:29.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3382,
-   "ch": -0.1,
-   "asof": "2026-10-23T09:46:27.000Z"
+   "p": 1.3379,
+   "ch": -0.12,
+   "asof": "2026-10-23T10:44:29.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 156.548,
-   "ch": -0.14,
-   "asof": "2026-10-23T09:46:57.000Z"
+   "p": 156.757,
+   "ch": -0.01,
+   "asof": "2026-10-23T10:44:51.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7018,
-   "ch": -0.01,
-   "asof": "2026-10-23T09:45:27.000Z"
+   "p": 0.7021,
+   "ch": 0.03,
+   "asof": "2026-10-23T10:43:29.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4001,
-   "ch": -0.04,
-   "asof": "2026-10-23T09:46:58.000Z"
+   "p": 1.4004,
+   "ch": -0.01,
+   "asof": "2026-10-23T10:44:51.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8217,
-   "ch": 0.23,
-   "asof": "2026-10-23T09:46:59.000Z"
+   "p": 0.8231,
+   "ch": 0.4,
+   "asof": "2026-10-23T10:44:51.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81507.99,
-   "ch": 0.24,
-   "asof": "2026-10-23T09:46:57.000Z"
+   "p": 81594.19,
+   "ch": 0.34,
+   "asof": "2026-10-23T10:44:49.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2395.15,
-   "ch": 0.37,
-   "asof": "2026-10-23T09:46:53.000Z"
+   "p": 2396.46,
+   "ch": 0.43,
+   "asof": "2026-10-23T10:44:40.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4040.6,
-   "ch": -0.49,
-   "asof": "2026-10-23T09:36:57.000Z"
+   "p": 4036.6,
+   "ch": -0.59,
+   "asof": "2026-10-23T10:34:46.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 101.18,
-   "ch": 1.72,
-   "asof": "2026-10-23T09:36:57.000Z"
+   "p": 101.06,
+   "ch": 1.6,
+   "asof": "2026-10-23T10:34:50.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5676,
-   "ch": 0.55,
-   "asof": "2026-10-23T09:46:59.000Z"
+   "p": 16.5548,
+   "ch": 0.48,
+   "asof": "2026-10-23T10:44:52.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.08,
-   "ch": 0.52,
-   "asof": "2026-10-23T09:46:53.000Z"
+   "p": 104.06,
+   "ch": 0.5,
+   "asof": "2026-10-23T10:44:50.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3172,
-   "ch": 0.73,
-   "asof": "2026-10-23T09:46:53.000Z"
+   "p": 1.3195,
+   "ch": 0.9,
+   "asof": "2026-10-23T10:44:50.000Z"
   },
   {
    "s": "Apple",
@@ -355,25 +355,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.945,
-   "ch": -1.93,
-   "asof": "2026-10-23T09:36:57.000Z"
+   "p": 53.83,
+   "ch": -2.14,
+   "asof": "2026-10-23T10:34:43.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Yen Strengthens on French Debt Woes, Hits One-Year High Against Euro",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2hmYU9LR1JPN1c1UVA0WTlNUVdzelpVcjc5UTMzS1lsdUVYYWpJN25QemlvbnpWckdLN2tybThTWUYxam1sbkNDZkZVMUszejN0clEtVkJMb1NFcktCVmFJVkZueWI5WHRIZEhzY0xRZUZNWk9rRFhoTmFQVDdCUWJlSWY0QUdERU5UVTZoMWZXcWVrcmlDVHRaX2pJUHRqaHQwMDZLLU9BaTR2TlhJYWFNVDRBQQ?oc=5"
+   "Sterling edges up to fresh 17-month high versus euro after UK data",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTnJQUGVyMnI5c00yTDVhSktCN3lpeGRYb20yT0w5VlVmMGNXdkp3VmRqOGNuUVdXSEE1V3BLd011ZTFBMERRTW9HYnExalZGNzdwVDRwOXZKdWx2X2QtcFJrSnd5VUFlX2t2VHJMRTdYZTVyc2J2alp3VC1FbmxaNjJDdDJmTDNPTkFabDBHTzR3Y2lpbjJuSHljdlJNSWZvRHF0TDhQV3c3N29f?oc=5"
   ],
   [
    "Forex",
    "med",
-   "Euro set for weekly drop, yen eyes biggest gain since early September",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxNRU4zMGRzLXpsS3VUeXg0YlJGV1NNYnZCUTZaOVJhSm5KQkUxcExfVEZ0cmsyUkFHX2JubWJKV3RwVkpVd3dodmFLcHV2YU83S1JQSGF4YzlnOUdldHBHeks2bFpZLVJBVGhDeGxONTd1S05KSkxTZlhqYWFqZXA3bmloWDhhVEdQa3dpcllLbk16eURmMzhpUzJueE9vZw?oc=5"
+   "Yen Strengthens on French Debt Woes, Hits One-Year High Against Euro",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2hmYU9LR1JPN1c1UVA0WTlNUVdzelpVcjc5UTMzS1lsdUVYYWpJN25QemlvbnpWckdLN2tybThTWUYxam1sbkNDZkZVMUszejN0clEtVkJMb1NFcktCVmFJVkZueWI5WHRIZEhzY0xRZUZNWk9rRFhoTmFQVDdCUWJlSWY0QUdERU5UVTZoMWZXcWVrcmlDVHRaX2pJUHRqaHQwMDZLLU9BaTR2TlhJYWFNVDRBQQ?oc=5"
   ],
   [
    "Crypto",
@@ -385,9 +385,9 @@
   [
    "Crypto",
    "med",
-   "Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027.",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbXFUdG1TaTRveTk3VUhFclVvNVNiUzNHZHA1Tm12SVF6X1I5ZVJoVHl5eW90UWZoVnBZN1ZlM2RDX19FMXRGVFI0LXV5Z3lqc0QybW1BU1NnWGRnUWpnd2dFMlB0TGV3TmMyUnJpTDJyaDN3YlI5dmhMUG9CODJZRHJKTnNxMUVwVHp4OHRpSEJaUmVXS3hPY21B?oc=5"
+   "Bitcoin Billionaires Are Racing to Ride a 3,000% Crypto Boom",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTkxCUm5VMmc3LUtHeDlxOHJfUjVTVjJnV043VlgyUlhZQkxnbTlpRmxGdkxkcGxCeFVPWVlVQW1CQ1Q1aWJwNTVBNWlfWnl1X2psUUU0Y1hJQkpJb292UzlxRVNFRnZUVkF3b1Q1SkljYkxLbjJFcTZUS3dfdkUzRS1ObWZCX2FJUENaMVljUGpUU3FDVk5mdV9kMXhyNVE1bTc5LXcwbll2WERUZEFF?oc=5"
   ],
   [
    "Stocks",
@@ -399,9 +399,9 @@
   [
    "Stocks",
    "med",
-   "Stock Market: Will S&P 500 Open Up or Down Today?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYjBnQkU3ZVEtNmhsYnNWWUd4NklTNjJNLU5LVGxaeS1iODcyYlRqMG1xWVB2UXBTU215bnlza01ORzRBellFQkppbl9WZTNLeFlPMl9zRW5jckFrUEFNOG14WFVXYnktcnZlRTRPaUN4Z21kemd2VGh5Uy1WNm9LR0V3YVNybDlwVVZveGdSbUJ4UQ?oc=5"
+   "Nasdaq Futures Steady as AI Selloff Pauses",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ0VLcjUyVmtISG5uUVBpbjNndFBQV1ZqV3RqY0xwZjhvVFlfZ3dFdjYtNV9CNHdVek4wMUtYQnFLc0xEcnpZTWZRLWw3cm01cG9YaU4zcjdLeVFKZEE2MlNwWXJHaWY4M0IxS25iSjlCbUdmYmZBdVFrY0lFZmQ2RUtYc2NGV21FcjNWQU4wMA?oc=5"
   ],
   [
    "Commodities",
@@ -413,7 +413,7 @@
   [
    "Commodities",
    "med",
-   "Oil prices rise more than 1% as supply concerns linger",
+   "Brent crude hits more than five-month high on concern over Middle East escalation",
    "Reuters",
    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR2dZUC10TmJYRUk2RmM5WWpxaUx2XzBPZ0ZTV3hIR3BkaGFvZ3B2T1hhd0xEcXZOWk5LdXhLLUF5QU9XdTRQdnRyTk9jcmVNMEZvZlZBRW8xcG1TVW1fTkY2UnFrcXlVWlUwbDhRYk9pcW1fdEdzMVNRR2ZhYVl2T0RZa09uZTktZGFWRVRWSEpGeFhYVXVPR09zNDVaTVdiNDdRRHg3VFNyZWNNWVBmdkxGMWFOa05yN2NBRnRVZjF3eF9i?oc=5"
   ]
