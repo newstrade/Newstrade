@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T10:44:51.690Z",
+ "updated": "2026-10-23T11:46:51.532Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,25 +187,25 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1202,
-   "ch": -0.18,
-   "asof": "2026-10-23T10:44:29.000Z"
+   "p": 1.1197,
+   "ch": -0.22,
+   "asof": "2026-10-23T11:46:25.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3379,
-   "ch": -0.12,
-   "asof": "2026-10-23T10:44:29.000Z"
+   "p": 1.3372,
+   "ch": -0.17,
+   "asof": "2026-10-23T11:46:25.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 156.757,
-   "ch": -0.01,
-   "asof": "2026-10-23T10:44:51.000Z"
+   "p": 156.857,
+   "ch": 0.05,
+   "asof": "2026-10-23T11:46:51.000Z"
   },
   {
    "s": "AUD/USD",
@@ -213,39 +213,39 @@
    "d": 4,
    "p": 0.7021,
    "ch": 0.03,
-   "asof": "2026-10-23T10:43:29.000Z"
+   "asof": "2026-10-23T11:45:25.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4004,
-   "ch": -0.01,
-   "asof": "2026-10-23T10:44:51.000Z"
+   "p": 1.3998,
+   "ch": -0.06,
+   "asof": "2026-10-23T11:46:51.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8231,
-   "ch": 0.4,
-   "asof": "2026-10-23T10:44:51.000Z"
+   "p": 0.8241,
+   "ch": 0.52,
+   "asof": "2026-10-23T11:46:51.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81594.19,
-   "ch": 0.34,
-   "asof": "2026-10-23T10:44:49.000Z"
+   "p": 81576.29,
+   "ch": 0.32,
+   "asof": "2026-10-23T11:46:47.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2396.46,
-   "ch": 0.43,
-   "asof": "2026-10-23T10:44:40.000Z"
+   "p": 2399.9,
+   "ch": 0.57,
+   "asof": "2026-10-23T11:46:46.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4036.6,
-   "ch": -0.59,
-   "asof": "2026-10-23T10:34:46.000Z"
+   "p": 4037,
+   "ch": -0.58,
+   "asof": "2026-10-23T11:36:51.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 101.06,
-   "ch": 1.6,
-   "asof": "2026-10-23T10:34:50.000Z"
+   "p": 100.95,
+   "ch": 1.49,
+   "asof": "2026-10-23T11:36:41.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5548,
-   "ch": 0.48,
-   "asof": "2026-10-23T10:44:52.000Z"
+   "p": 16.5779,
+   "ch": 0.62,
+   "asof": "2026-10-23T11:46:52.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.06,
-   "ch": 0.5,
-   "asof": "2026-10-23T10:44:50.000Z"
+   "p": 104.31,
+   "ch": 0.74,
+   "asof": "2026-10-23T11:46:48.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3195,
-   "ch": 0.9,
-   "asof": "2026-10-23T10:44:50.000Z"
+   "p": 1.3193,
+   "ch": 0.89,
+   "asof": "2026-10-23T11:46:44.000Z"
   },
   {
    "s": "Apple",
@@ -355,9 +355,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.83,
-   "ch": -2.14,
-   "asof": "2026-10-23T10:34:43.000Z"
+   "p": 53.98,
+   "ch": -1.87,
+   "asof": "2026-10-23T11:36:51.000Z"
   }
  ],
  "news": [
@@ -378,9 +378,9 @@
   [
    "Crypto",
    "med",
-   "What’s Next for Bitcoin? WisdomTree’s Take on Risks, Regulation, and Investing",
-   "Morningstar",
-   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX3B0dVBtLXBhT1lJbHpWcG5IUXluZktWZ2xNQjVYU1ZpNWVTcWs0Zjl6WDkybmhiM19OUDg1b2gxUHBBemdsT0hKQ0w0cXdaazhPbG5uem9FalRVTHNBN0FpVnc3dGtIeGk3SUs1dGlzMUNmNGpOMDhSOWlqRHRsZmhZMk1qa08zbU1sb3o5Ri1QNG8zcjZiMmRUQUpIUGVhWUViZWZxb3prY1E?oc=5"
+   "Current price of Ethereum for Oct. 23, 2026",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LbEd5S2cwRjNCZkp3LTFfWUJqa3AwTWY3cHdCZGd2cWJ2bWtjcHNReFRlcTV5THlaamY5S3hXYVdJSFlacUY1MDdoSmRqLW5aTGx3dXVIUFBKelBrcVU4a3g1cDdoa0Mx?oc=5"
   ],
   [
    "Crypto",
