@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T17:43:34.636Z",
+ "updated": "2026-10-23T18:53:30.000Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,105 +187,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1193,
-   "ch": -0.26,
-   "asof": "2026-10-23T17:43:28.000Z"
+   "p": 1.1197,
+   "ch": -0.22,
+   "asof": "2026-10-23T18:52:29.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3364,
-   "ch": -0.23,
-   "asof": "2026-10-23T17:43:28.000Z"
+   "p": 1.3372,
+   "ch": -0.17,
+   "asof": "2026-10-23T18:52:29.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 156.884,
-   "ch": 0.07,
-   "asof": "2026-10-23T17:43:33.000Z"
+   "p": 156.84,
+   "ch": 0.04,
+   "asof": "2026-10-23T18:53:28.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7031,
-   "ch": 0.17,
-   "asof": "2026-10-23T17:43:28.000Z"
+   "p": 0.7038,
+   "ch": 0.27,
+   "asof": "2026-10-23T18:53:29.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4013,
-   "ch": 0.05,
-   "asof": "2026-10-23T17:43:34.000Z"
+   "p": 1.3996,
+   "ch": -0.07,
+   "asof": "2026-10-23T18:53:29.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8254,
-   "ch": 0.68,
-   "asof": "2026-10-23T17:43:33.000Z"
+   "p": 0.8252,
+   "ch": 0.66,
+   "asof": "2026-10-23T18:53:29.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81479.43,
-   "ch": 0.2,
-   "asof": "2026-10-23T17:43:31.000Z"
+   "p": 81398.66,
+   "ch": 0.1,
+   "asof": "2026-10-23T18:53:27.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2402.64,
-   "ch": 0.69,
-   "asof": "2026-10-23T17:43:28.000Z"
+   "p": 2401.16,
+   "ch": 0.62,
+   "asof": "2026-10-23T18:53:25.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7628.82,
-   "ch": -0.45,
-   "asof": "2026-10-23T17:43:34.000Z"
+   "p": 7631.67,
+   "ch": -0.41,
+   "asof": "2026-10-23T18:53:29.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 25984.658,
-   "ch": -0.09,
-   "asof": "2026-10-23T17:43:34.000Z"
+   "p": 25986.867,
+   "ch": -0.08,
+   "asof": "2026-10-23T18:53:27.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52240.31,
-   "ch": -1.19,
-   "asof": "2026-10-23T17:43:33.000Z"
+   "p": 52293.57,
+   "ch": -1.09,
+   "asof": "2026-10-23T18:53:29.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4010.2,
+   "p": 4010.1,
    "ch": -1.24,
-   "asof": "2026-10-23T17:33:27.000Z"
+   "asof": "2026-10-23T18:43:15.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 103.23,
-   "ch": 3.78,
-   "asof": "2026-10-23T17:33:33.000Z"
+   "p": 103.3,
+   "ch": 3.85,
+   "asof": "2026-10-23T18:43:29.000Z"
   },
   {
    "s": "USD/KES",
@@ -293,15 +293,15 @@
    "d": 2,
    "p": 129.79,
    "ch": -0.02,
-   "asof": "2026-10-23T15:28:24.000Z"
+   "asof": "2026-10-23T18:38:51.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5997,
-   "ch": 0.75,
-   "asof": "2026-10-23T17:43:34.000Z"
+   "p": 16.5899,
+   "ch": 0.69,
+   "asof": "2026-10-23T18:53:30.000Z"
   },
   {
    "s": "USD/NGN",
@@ -309,64 +309,64 @@
    "d": 2,
    "p": 1353.91,
    "ch": 1.84,
-   "asof": "2026-10-23T15:28:24.000Z"
+   "asof": "2026-10-23T18:38:51.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.26,
-   "ch": 0.69,
-   "asof": "2026-10-23T17:43:29.000Z"
+   "p": 104.01,
+   "ch": 0.45,
+   "asof": "2026-10-23T18:53:27.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3076,
-   "ch": -0.01,
-   "asof": "2026-10-23T17:43:31.000Z"
+   "p": 1.3092,
+   "ch": 0.12,
+   "asof": "2026-10-23T18:53:23.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 346.065,
-   "ch": -0.62,
-   "asof": "2026-10-23T17:43:33.000Z"
+   "p": 346.24,
+   "ch": -0.57,
+   "asof": "2026-10-23T18:53:30.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 370.9,
-   "ch": -0.98,
-   "asof": "2026-10-23T17:43:33.000Z"
+   "p": 372.25,
+   "ch": -0.62,
+   "asof": "2026-10-23T18:53:30.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 211.74,
-   "ch": -0.22,
-   "asof": "2026-10-23T17:43:34.000Z"
+   "p": 211.87,
+   "ch": -0.16,
+   "asof": "2026-10-23T18:53:30.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.995,
-   "ch": -1.84,
-   "asof": "2026-10-23T17:33:21.000Z"
+   "p": 54.035,
+   "ch": -1.77,
+   "asof": "2026-10-23T18:43:24.000Z"
   }
  ],
  "news": [
   [
    "Forex",
-   "high",
-   "Russian central bank keeps key rate on hold at 14%, raises 2026 inflation forecast",
+   "med",
+   "Euro sinks on French debt worries; yen gains on AI rout",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ1lYMHE1UVNEa0dXTWVkQjZ0OUJIOVNQRm5laTJuRlZpakY2R012ekNrRmZ6LTdNYmNqLVBCOFBJekpQWXFrejA0Y0xjZ2UwVjR1d2QtZ1NxYi1GUFBFa3NSNy12anA5WE84amszX2t4Z1JoZXRndDVBcS1NTDluU2NuODd1b25GSWNpNjNSdFc3cF9sQlp2RUx1VTI3U3piNkstRGdZN0ZHTkwxLVhaNFRTM0szQjdKT2lN?oc=5"
+   "https://news.google.com/rss/articles/CBMingFBVV95cUxNRU4zMGRzLXpsS3VUeXg0YlJGV1NNYnZCUTZaOVJhSm5KQkUxcExfVEZ0cmsyUkFHX2JubWJKV3RwVkpVd3dodmFLcHV2YU83S1JQSGF4YzlnOUdldHBHeks2bFpZLVJBVGhDeGxONTd1S05KSkxTZlhqYWFqZXA3bmloWDhhVEdQa3dpcllLbk16eURmMzhpUzJueE9vZw?oc=5"
   ],
   [
    "Forex",
@@ -392,16 +392,16 @@
   [
    "Stocks",
    "med",
-   "Nasdaq ticks up as tech stocks steady; SpaceX worries hit telecoms",
+   "Dow, S&P 500 fall, tech steadies to end rocky week",
    "Reuters",
    "https://news.google.com/rss/articles/CBMingFBVV95cUxQR01KeXBjdXBubVRzTlJfWWJTMHctb2hFS2pVT21ydWtZNzBaMldxd1c2ZUJGNWhIeGV6MUxvQVZvSl9GdFh5QThQbFpuT0IwYi02Y3JGM19YSWJ3LXMtb29RbS1WZUljdGtsS2dockxHVm5SWnBSMzJpM0Y4RFItdW5SMzFsdXg2LWtrYWE1SC1TQlkxOERJZHNtQVREdw?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Stock Market Reels From 2 World-Changing Factors",
+   "Moderna’s Cancer-Vaccine Leak Spurs Panic Selling. Wall Street Wanted a Cure.",
    "Barron's",
-   "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOGlvV050ZVRGQnBFS0YtbDVGTFpZME5zOWdzMEZ6cnNyS29ETEFlQ28zSXVSczc4WFJhN2NiaE9WZ1lrN1dfeHBBNHRsUC1zaDBmWTNXV24tUzJNNkhkZ09EZTUxczlzT2h3Q2ZidE5JbzNBTF94ZkdnUHhKMFFKcw?oc=5"
+   "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTW5URDR6c0JIbW1KRXVlZUV5eDh4UFlWYTVucmcwTGduaHplaUZrdlJoN1dzdHdYTHdESDR1SkpLaVgyVHhGbERwZUpPeElickdZZ3JJeHBfM2FwYkt3a28tM2hwVmpRRXY0T2txamt6VDhzYnA4dWVjMTBKQ0pEMFdqOV9NbE44?oc=5"
   ],
   [
    "Commodities",
