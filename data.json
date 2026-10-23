@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T11:46:51.532Z",
+ "updated": "2026-10-23T12:55:51.634Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -187,65 +187,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1197,
-   "ch": -0.22,
-   "asof": "2026-10-23T11:46:25.000Z"
+   "p": 1.1212,
+   "ch": -0.09,
+   "asof": "2026-10-23T12:55:26.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3372,
-   "ch": -0.17,
-   "asof": "2026-10-23T11:46:25.000Z"
+   "p": 1.3388,
+   "ch": -0.05,
+   "asof": "2026-10-23T12:55:26.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 156.857,
-   "ch": 0.05,
-   "asof": "2026-10-23T11:46:51.000Z"
+   "p": 156.364,
+   "ch": -0.26,
+   "asof": "2026-10-23T12:55:46.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7021,
-   "ch": 0.03,
-   "asof": "2026-10-23T11:45:25.000Z"
+   "p": 0.7031,
+   "ch": 0.17,
+   "asof": "2026-10-23T12:55:26.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3998,
-   "ch": -0.06,
-   "asof": "2026-10-23T11:46:51.000Z"
+   "p": 1.397,
+   "ch": -0.26,
+   "asof": "2026-10-23T12:55:51.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8241,
-   "ch": 0.52,
-   "asof": "2026-10-23T11:46:51.000Z"
+   "p": 0.822,
+   "ch": 0.27,
+   "asof": "2026-10-23T12:55:50.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81576.29,
-   "ch": 0.32,
-   "asof": "2026-10-23T11:46:47.000Z"
+   "p": 81635.86,
+   "ch": 0.39,
+   "asof": "2026-10-23T12:55:47.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2399.9,
-   "ch": 0.57,
-   "asof": "2026-10-23T11:46:46.000Z"
+   "p": 2398.53,
+   "ch": 0.51,
+   "asof": "2026-10-23T12:55:44.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,17 +275,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4037,
-   "ch": -0.58,
-   "asof": "2026-10-23T11:36:51.000Z"
+   "p": 4044,
+   "ch": -0.4,
+   "asof": "2026-10-23T12:45:49.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 100.95,
-   "ch": 1.49,
-   "asof": "2026-10-23T11:36:41.000Z"
+   "p": 101.21,
+   "ch": 1.75,
+   "asof": "2026-10-23T12:45:40.000Z"
   },
   {
    "s": "USD/KES",
@@ -299,9 +299,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5779,
-   "ch": 0.62,
-   "asof": "2026-10-23T11:46:52.000Z"
+   "p": 16.5689,
+   "ch": 0.56,
+   "asof": "2026-10-23T12:55:52.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 104.31,
-   "ch": 0.74,
-   "asof": "2026-10-23T11:46:48.000Z"
+   "p": 104.27,
+   "ch": 0.7,
+   "asof": "2026-10-23T12:55:40.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3193,
-   "ch": 0.89,
-   "asof": "2026-10-23T11:46:44.000Z"
+   "p": 1.3151,
+   "ch": 0.57,
+   "asof": "2026-10-23T12:55:46.000Z"
   },
   {
    "s": "Apple",
@@ -355,32 +355,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.98,
-   "ch": -1.87,
-   "asof": "2026-10-23T11:36:51.000Z"
+   "p": 53.95,
+   "ch": -1.92,
+   "asof": "2026-10-23T12:45:32.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Sterling edges up to fresh 17-month high versus euro after UK data",
+   "Euro set for weekly drop against dollar, yen as France concerns resurface",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTnJQUGVyMnI5c00yTDVhSktCN3lpeGRYb20yT0w5VlVmMGNXdkp3VmRqOGNuUVdXSEE1V3BLd011ZTFBMERRTW9HYnExalZGNzdwVDRwOXZKdWx2X2QtcFJrSnd5VUFlX2t2VHJMRTdYZTVyc2J2alp3VC1FbmxaNjJDdDJmTDNPTkFabDBHTzR3Y2lpbjJuSHljdlJNSWZvRHF0TDhQV3c3N29f?oc=5"
+   "https://news.google.com/rss/articles/CBMingFBVV95cUxNRU4zMGRzLXpsS3VUeXg0YlJGV1NNYnZCUTZaOVJhSm5KQkUxcExfVEZ0cmsyUkFHX2JubWJKV3RwVkpVd3dodmFLcHV2YU83S1JQSGF4YzlnOUdldHBHeks2bFpZLVJBVGhDeGxONTd1S05KSkxTZlhqYWFqZXA3bmloWDhhVEdQa3dpcllLbk16eURmMzhpUzJueE9vZw?oc=5"
   ],
   [
    "Forex",
    "med",
-   "Yen Strengthens on French Debt Woes, Hits One-Year High Against Euro",
+   "Russia’s Central Bank Sees Only Modest Further Drop in Key Rate",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2hmYU9LR1JPN1c1UVA0WTlNUVdzelpVcjc5UTMzS1lsdUVYYWpJN25QemlvbnpWckdLN2tybThTWUYxam1sbkNDZkZVMUszejN0clEtVkJMb1NFcktCVmFJVkZueWI5WHRIZEhzY0xRZUZNWk9rRFhoTmFQVDdCUWJlSWY0QUdERU5UVTZoMWZXcWVrcmlDVHRaX2pJUHRqaHQwMDZLLU9BaTR2TlhJYWFNVDRBQQ?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "Current price of Ethereum for Oct. 23, 2026",
-   "Fortune",
-   "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LbEd5S2cwRjNCZkp3LTFfWUJqa3AwTWY3cHdCZGd2cWJ2bWtjcHNReFRlcTV5THlaamY5S3hXYVdJSFlacUY1MDdoSmRqLW5aTGx3dXVIUFBKelBrcVU4a3g1cDdoa0Mx?oc=5"
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTBua2dpZkdVZVpzX1IzMFRqbEg1ZG5jRkpBcWNBcmtCckNubkh3UlpsRDhTamE2bTh4WHZtOXFYdHNiUUFZVGs2LUxkajhJY2JKUkYxbzdrTG93N3hzOUhsdHNINUVOSkduUF9PVGxpSzBPYUE5SVFfNFU4ZWZMMGdKRWE5MnpVSW9Gb1QzZmdtWmpndkgzQWx6cU1nOTkwZ21odktpdUhpRmF5bHZMNQ?oc=5"
   ],
   [
    "Crypto",
@@ -390,32 +383,39 @@
    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTkxCUm5VMmc3LUtHeDlxOHJfUjVTVjJnV043VlgyUlhZQkxnbTlpRmxGdkxkcGxCeFVPWVlVQW1CQ1Q1aWJwNTVBNWlfWnl1X2psUUU0Y1hJQkpJb292UzlxRVNFRnZUVkF3b1Q1SkljYkxLbjJFcTZUS3dfdkUzRS1ObWZCX2FJUENaMVljUGpUU3FDVk5mdV9kMXhyNVE1bTc5LXcwbll2WERUZEFF?oc=5"
   ],
   [
-   "Stocks",
+   "Crypto",
    "med",
-   "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5"
+   "Current price of Ethereum for Oct. 23, 2026",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LbEd5S2cwRjNCZkp3LTFfWUJqa3AwTWY3cHdCZGd2cWJ2bWtjcHNReFRlcTV5THlaamY5S3hXYVdJSFlacUY1MDdoSmRqLW5aTGx3dXVIUFBKelBrcVU4a3g1cDdoa0Mx?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Nasdaq Futures Steady as AI Selloff Pauses",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ0VLcjUyVmtISG5uUVBpbjNndFBQV1ZqV3RqY0xwZjhvVFlfZ3dFdjYtNV9CNHdVek4wMUtYQnFLc0xEcnpZTWZRLWw3cm01cG9YaU4zcjdLeVFKZEE2MlNwWXJHaWY4M0IxS25iSjlCbUdmYmZBdVFrY0lFZmQ2RUtYc2NGV21FcjNWQU4wMA?oc=5"
+   "Wall Street futures dip after AI rout, telecoms slide",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMingFBVV95cUxQR01KeXBjdXBubVRzTlJfWWJTMHctb2hFS2pVT21ydWtZNzBaMldxd1c2ZUJGNWhIeGV6MUxvQVZvSl9GdFh5QThQbFpuT0IwYi02Y3JGM19YSWJ3LXMtb29RbS1WZUljdGtsS2dockxHVm5SWnBSMzJpM0Y4RFItdW5SMzFsdXg2LWtrYWE1SC1TQlkxOERJZHNtQVREdw?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
+   "Watch Q&A: Indonesia’s Stock Market Selloff",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMk9oaDVERFpBdUZ3a1pVUzduNmZWcVJCbHRNbWt5Umd1akVoV3FSZkpNSDJMY2JocU9NLVgtWjNHd2NNYWd0c2dDR1RmdDZlWjVfZWRWbXZ3RmpnVVZCWXFRQXpWVDMyM2pORnhXOWlwZDZRc1oySmdSRTlXZGFXOEI4Q1ZSWTN0U3JRcHVOUWFhLXI3Q2c?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "U.S. oil holds above $100, Brent at five-month high as Iran says it’s prepared for warfare",
+   "U.S. oil rises above $100, Brent at five-month high as Iran says it’s prepared for warfare",
    "CNBC",
    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVBHUDhjeG5sQkpOblUzQm9hSTdWRkduWHJwNXdibUgyM1FHNEtJeFpnWEVQclk1czRKV2hLbHNGS2FYem5sRzJ0N0sxakctZld4QmN4UnozQ2h3ZGFBcE1NZDdESDVRTkVQSTRVMUdxbUtHTnk2anV6Z3h4cmtmOU5COXTSAYoBQVVfeXFMT1RHRzc0UlM1VlFlakxiSU51Mk9FTXNoYndtX2tpb3RNQVNRQ1J5dGs2YnFYQUFxa0I3UUV4OHNkZFBRTVhGcjJ2SWpuQldna1VuM2VqQngyMHJXTW1YWXlPbUY4UE9CZklMbFdwQzdiMGlhS0xteVoydTEwNGlKdzhDSFRKQnZiNXJR?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Brent crude hits more than five-month high on concern over Middle East escalation",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR2dZUC10TmJYRUk2RmM5WWpxaUx2XzBPZ0ZTV3hIR3BkaGFvZ3B2T1hhd0xEcXZOWk5LdXhLLUF5QU9XdTRQdnRyTk9jcmVNMEZvZlZBRW8xcG1TVW1fTkY2UnFrcXlVWlUwbDhRYk9pcW1fdEdzMVNRR2ZhYVl2T0RZa09uZTktZGFWRVRWSEpGeFhYVXVPR09zNDVaTVdiNDdRRHg3VFNyZWNNWVBmdkxGMWFOa05yN2NBRnRVZjF3eF9i?oc=5"
+   "Brent Hits $114 as Houthi Attacks Threaten Saudi Energy Infrastructure",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVXp4ZEdPLTA3dlp1dndrT0JRWGF6UlRQaXAybzkwZl9iQVc1SHlXQzllV2FuaHhEUVotUEVpcU9ZNnJjMlBMRFFMMnlkeUhlT0FQVHE0Rms5bWhOb1BpYWdwTDgyblNYZ01YZ2tmWmFzUC05aDV4dW1pUXdiTFhfSjV2RW8zSzVnM0Myd2FTX0l3bTQ4bXdpWjBNODlyWm5wLTRfU0VnNXdIRk5jVnRBaGtBazUxUVd2enNxeVl5WFJ1cVXSAcgBQVVfeXFMT1BKTTBwRTFqOXJSbEZ3UTZVT3dkanlreS1FeXpKOHZVZXptZG0tR2tYdEpZVTY4RDdLbDlfXzRBLUNxeG41T2lLUGVlTVVzMGxWY29MNzFsZk9aa3A0eE05TENDQ05uNGZVc25VdE1QN2JRZXpiZmdqa3l1UVk3T2htaURPSVgxdENrN2pTa1kwS05pZG5SaGxoby12S18yaGo2aHZHdHRGLXI1dFhsem5QcXVsMzBTazdjZXFMRndWbEVXdHM2bTQ?oc=5"
   ]
  ]
 }
