@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T07:45:10.876Z",
+ "updated": "2026-10-24T08:46:04.440Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -235,17 +235,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80733.97,
-   "ch": -0.43,
-   "asof": "2026-10-24T07:45:05.000Z"
+   "p": 80522.08,
+   "ch": -0.69,
+   "asof": "2026-10-24T08:46:00.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2376.61,
-   "ch": -0.33,
-   "asof": "2026-10-24T07:45:04.000Z"
+   "p": 2364.14,
+   "ch": -0.85,
+   "asof": "2026-10-24T08:45:59.000Z"
   },
   {
    "s": "S&P 500",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 102.01,
-   "ch": -0.75,
-   "asof": "2026-10-24T07:45:06.000Z"
+   "p": 101.7,
+   "ch": -1.05,
+   "asof": "2026-10-24T08:46:00.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2848,
-   "ch": -0.7,
-   "asof": "2026-10-24T07:44:55.000Z"
+   "p": 1.2786,
+   "ch": -1.18,
+   "asof": "2026-10-24T08:45:55.000Z"
   },
   {
    "s": "Apple",
@@ -385,9 +385,9 @@
   [
    "Crypto",
    "med",
-   "Bitcoin Usually Bottoms After Midterm Elections. What Happens if This Cycle Breaks the Pattern?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQmhCRDI1clFnSHpoaXV2em5xX1FLRlpBWDlSTlItWnE2eDhFbTRBV3BzNm1fRDF4Tlh1ZnQ5YXQ1bkkxSnRSNVhRNXZLMlR0cl9tQlEyRnlMQWQySTdodDFQWnVNVTBlVlBwNnlhUk1GOUtVczhDZXN1SGxwS1g3UktYTnFHb1l3UWVGczV0bUN1d2sxdHFJZ1Bka3FxTTMxWmpsWDZnTWhFdw?oc=5"
+   "Current price of Bitcoin for October 23, 2026",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4blhzWGdOeXlGSUFHRG0ybXQ3UGlPUk9POVpMU201ajcxTmltaDBrOU5RQ0daSkhRY2NxdERCUG9ZTFZPY3J5SGd5X1NoU09CSWNDbzlobkhVS2V2RVV3UGc5d1ExMkU?oc=5"
   ],
   [
    "Stocks",
@@ -406,9 +406,9 @@
   [
    "Commodities",
    "med",
-   "Oil prices jump $3 on Houthi attacks, oil spill, highest settlement since April",
+   "Brent crude tops $116 as traders price escalating Middle East conflict",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOHpyOVBKMGxIbF9oUXluaUVMeGxfQlFjdEZHLUY3WHBia0lnMzVSbVNmX2YwcWVISVdORlcxaDdydXFRb0hsdURFV21td3dyb1RpVGs3Q1RHM2JQRm9JR3VuWm1NLWt2bnJhQnpQOWwxdVgxNjZ1Y05tSEx0eFA1RGZ1ODFWcjlPZFFhYjdWT08tUQ?oc=5"
+   "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGZKbUc5SzJVQVNZX0VMSjRlVERhSkxKOWppN3pvcVo5b05xbWhYaDZtS2VXY1ZiRHVqM3ZyVXFNSF9MTmFjWFNHbGhDMG1CR1BBXy1nSkVuVWdyZ2JySHdrMTFuY1h6cmhyZTBMZDFzTzh3NGxHcHR2Nld3LS1sOEtGX3Nxd0VTR21YUE9sN3htMDRKeW82b2NxdkVoNUc3WXlETlVXZTktVHJHdUNha2Vmc1lGZUpkYWgxbQ?oc=5"
   ],
   [
    "Commodities",
