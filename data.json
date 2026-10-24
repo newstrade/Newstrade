@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T01:50:32.314Z",
+ "updated": "2026-10-24T02:45:13.730Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -235,17 +235,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80790.4,
-   "ch": -0.36,
-   "asof": "2026-10-24T01:50:28.000Z"
+   "p": 80833.6,
+   "ch": -0.3,
+   "asof": "2026-10-24T02:45:11.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2377.81,
-   "ch": -0.28,
-   "asof": "2026-10-24T01:50:30.000Z"
+   "p": 2379.24,
+   "ch": -0.22,
+   "asof": "2026-10-24T02:45:10.000Z"
   },
   {
    "s": "S&P 500",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 102.46,
-   "ch": -0.31,
-   "asof": "2026-10-24T01:50:27.000Z"
+   "p": 102.42,
+   "ch": -0.35,
+   "asof": "2026-10-24T02:45:09.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2906,
-   "ch": -0.25,
-   "asof": "2026-10-24T01:50:26.000Z"
+   "p": 1.2914,
+   "ch": -0.19,
+   "asof": "2026-10-24T02:45:07.000Z"
   },
   {
    "s": "Apple",
@@ -363,10 +363,10 @@
  "news": [
   [
    "Forex",
-   "med",
-   "Euro sinks on French debt worries; yen gains on AI rout",
+   "high",
+   "Russian central bank keeps key rate on hold at 14%, raises 2026 inflation forecast",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxNRU4zMGRzLXpsS3VUeXg0YlJGV1NNYnZCUTZaOVJhSm5KQkUxcExfVEZ0cmsyUkFHX2JubWJKV3RwVkpVd3dodmFLcHV2YU83S1JQSGF4YzlnOUdldHBHeks2bFpZLVJBVGhDeGxONTd1S05KSkxTZlhqYWFqZXA3bmloWDhhVEdQa3dpcllLbk16eURmMzhpUzJueE9vZw?oc=5"
+   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ1lYMHE1UVNEa0dXTWVkQjZ0OUJIOVNQRm5laTJuRlZpakY2R012ekNrRmZ6LTdNYmNqLVBCOFBJekpQWXFrejA0Y0xjZ2UwVjR1d2QtZ1NxYi1GUFBFa3NSNy12anA5WE84amszX2t4Z1JoZXRndDVBcS1NTDluU2NuODd1b25GSWNpNjNSdFc3cF9sQlp2RUx1VTI3U3piNkstRGdZN0ZHTkwxLVhaNFRTM0szQjdKT2lN?oc=5"
   ],
   [
    "Forex",
@@ -378,16 +378,16 @@
   [
    "Crypto",
    "med",
-   "What Is the Best Crypto to Buy With $500 Right Now?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZEVjWGtMVHZqN09WbmFaa1lDa2Vma01PNXIxNkFON3JZWFhjTUpiMUFQN2F5YzlQcHJjNGFTVUlpVzAwOGhjcy1icDlPU3hObVdKY1U0ekJiRkU4aTdaRDEwTFdUSEVMWHZGdTU1UEU2MUtuTE9HbEVUQVdGSHNXU0ZVdU9fWTR5dFJVam1FbGh6UQ?oc=5"
+   "Argentinian judge drops fraud investigation into Milei over crypto scandal",
+   "Al Jazeera",
+   "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHU5M3hnTDZhTGdwWFFRZ1EyNEFyV1hkX1JNTEpUdEQtdmc0TE5GMExYbEdhTVNPLUVFWmRfTG85YXV4akRTOWdCajFoeUFzZzQ1SmU1eVl2RVdINDYta3ZQR3h1SnN4UjQycjVlcUJMRGFfQ1phZHBCY2t0bC1OWDA4eU5RcHlJbllsdkxGaVRNRkhKem9NNElqMlBRMEVjMXR4TUVUdFV1Y1I3YlFfcVRFX1UzVm_SAbwBQVVfeXFMUDh6NC1xQjFZM0tzeEc5SE9YVGlpZUFsUU1vVlVnd0lhWXBpSXdyLWFGYjlCVXQzdE5EYV9zbU11ZGc0T0xaanlGM0dJZnVjcG1IbE5kRDZRSzdZRUwzZ3RXTUhIRVRHUjhKdzFFcDA0anJ5eXdwdEthM0NrQ29KeVNhOGU0RS1wOXN1TFh6cndVN2FxTkxpOERwXzR6dXBJSFlEQS1zcnVWak5aWUZyWWhPQklDZUUwcGlhZGs?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Why Good Crypto Projects Keep Making Bad Investments",
-   "Forbes",
-   "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSHR6NG9wTXBBV3dxb2RGeS0xd25xVlVxc1lhbnpOeGRxcFEyT3I0YzZqaWlVZjRGUDNGcVhMcFN4cGJoaW1hTFlnZU9PVTktN1RocndqTmYzXzVFUnJXbDE3b2ZOTjdTY1VhLUlGZmZYVWNGdVFQOTBYUGpGX2pKZ0dXNXVGV0QtVGkzUldoWVlHNGtVd1BGbVBVNFJ0OGRhN3lxU1ZuMzNZclRH?oc=5"
+   "Bitcoin Usually Bottoms After Midterm Elections. What Happens if This Cycle Breaks the Pattern?",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQmhCRDI1clFnSHpoaXV2em5xX1FLRlpBWDlSTlItWnE2eDhFbTRBV3BzNm1fRDF4Tlh1ZnQ5YXQ1bkkxSnRSNVhRNXZLMlR0cl9tQlEyRnlMQWQySTdodDFQWnVNVTBlVlBwNnlhUk1GOUtVczhDZXN1SGxwS1g3UktYTnFHb1l3UWVGczV0bUN1d2sxdHFJZ1Bka3FxTTMxWmpsWDZnTWhFdw?oc=5"
   ],
   [
    "Stocks",
@@ -406,16 +406,16 @@
   [
    "Commodities",
    "med",
-   "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVBHUDhjeG5sQkpOblUzQm9hSTdWRkduWHJwNXdibUgyM1FHNEtJeFpnWEVQclk1czRKV2hLbHNGS2FYem5sRzJ0N0sxakctZld4QmN4UnozQ2h3ZGFBcE1NZDdESDVRTkVQSTRVMUdxbUtHTnk2anV6Z3h4cmtmOU5COXTSAYoBQVVfeXFMT1RHRzc0UlM1VlFlakxiSU51Mk9FTXNoYndtX2tpb3RNQVNRQ1J5dGs2YnFYQUFxa0I3UUV4OHNkZFBRTVhGcjJ2SWpuQldna1VuM2VqQngyMHJXTW1YWXlPbUY4UE9CZklMbFdwQzdiMGlhS0xteVoydTEwNGlKdzhDSFRKQnZiNXJR?oc=5"
+   "Brent crude jumps to highest since April on Houthi attacks, UAE oil spill",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOHpyOVBKMGxIbF9oUXluaUVMeGxfQlFjdEZHLUY3WHBia0lnMzVSbVNmX2YwcWVISVdORlcxaDdydXFRb0hsdURFV21td3dyb1RpVGs3Q1RHM2JQRm9JR3VuWm1NLWt2bnJhQnpQOWwxdVgxNjZ1Y05tSEx0eFA1RGZ1ODFWcjlPZFFhYjdWT08tUQ?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Brent crude tops $116 as traders price escalating Middle East conflict",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGZKbUc5SzJVQVNZX0VMSjRlVERhSkxKOWppN3pvcVo5b05xbWhYaDZtS2VXY1ZiRHVqM3ZyVXFNSF9MTmFjWFNHbGhDMG1CR1BBXy1nSkVuVWdyZ2JySHdrMTFuY1h6cmhyZTBMZDFzTzh3NGxHcHR2Nld3LS1sOEtGX3Nxd0VTR21YUE9sN3htMDRKeW82b2NxdkVoNUc3WXlETlVXZTktVHJHdUNha2Vmc1lGZUpkYWgxbQ?oc=5"
+   "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVBHUDhjeG5sQkpOblUzQm9hSTdWRkduWHJwNXdibUgyM1FHNEtJeFpnWEVQclk1czRKV2hLbHNGS2FYem5sRzJ0N0sxakctZld4QmN4UnozQ2h3ZGFBcE1NZDdESDVRTkVQSTRVMUdxbUtHTnk2anV6Z3h4cmtmOU5COXTSAYoBQVVfeXFMT1RHRzc0UlM1VlFlakxiSU51Mk9FTXNoYndtX2tpb3RNQVNRQ1J5dGs2YnFYQUFxa0I3UUV4OHNkZFBRTVhGcjJ2SWpuQldna1VuM2VqQngyMHJXTW1YWXlPbUY4UE9CZklMbFdwQzdiMGlhS0xteVoydTEwNGlKdzhDSFRKQnZiNXJR?oc=5"
   ]
  ]
 }
