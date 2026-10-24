@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T09:44:29.980Z",
+ "updated": "2026-10-24T10:44:08.604Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -235,17 +235,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80397.5,
-   "ch": -0.84,
-   "asof": "2026-10-24T09:44:27.000Z"
+   "p": 80555.77,
+   "ch": -0.65,
+   "asof": "2026-10-24T10:44:05.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2356.77,
-   "ch": -1.16,
-   "asof": "2026-10-24T09:44:27.000Z"
+   "p": 2367.95,
+   "ch": -0.69,
+   "asof": "2026-10-24T10:44:01.000Z"
   },
   {
    "s": "S&P 500",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 101.04,
-   "ch": -1.69,
-   "asof": "2026-10-24T09:44:21.000Z"
+   "p": 101.59,
+   "ch": -1.15,
+   "asof": "2026-10-24T10:44:02.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2724,
-   "ch": -1.66,
-   "asof": "2026-10-24T09:44:25.000Z"
+   "p": 1.28,
+   "ch": -1.07,
+   "asof": "2026-10-24T10:43:55.000Z"
   },
   {
    "s": "Apple",
@@ -371,16 +371,9 @@
   [
    "Forex",
    "med",
-   "Russia’s Central Bank Sees Only Modest Further Drop in Key Rate",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTBua2dpZkdVZVpzX1IzMFRqbEg1ZG5jRkpBcWNBcmtCckNubkh3UlpsRDhTamE2bTh4WHZtOXFYdHNiUUFZVGs2LUxkajhJY2JKUkYxbzdrTG93N3hzOUhsdHNINUVOSkduUF9PVGxpSzBPYUE5SVFfNFU4ZWZMMGdKRWE5MnpVSW9Gb1QzZmdtWmpndkgzQWx6cU1nOTkwZ21odktpdUhpRmF5bHZMNQ?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "Argentinian judge drops fraud investigation into Milei over crypto scandal",
-   "Al Jazeera",
-   "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHU5M3hnTDZhTGdwWFFRZ1EyNEFyV1hkX1JNTEpUdEQtdmc0TE5GMExYbEdhTVNPLUVFWmRfTG85YXV4akRTOWdCajFoeUFzZzQ1SmU1eVl2RVdINDYta3ZQR3h1SnN4UjQycjVlcUJMRGFfQ1phZHBCY2t0bC1OWDA4eU5RcHlJbllsdkxGaVRNRkhKem9NNElqMlBRMEVjMXR4TUVUdFV1Y1I3YlFfcVRFX1UzVm_SAbwBQVVfeXFMUDh6NC1xQjFZM0tzeEc5SE9YVGlpZUFsUU1vVlVnd0lhWXBpSXdyLWFGYjlCVXQzdE5EYV9zbU11ZGc0T0xaanlGM0dJZnVjcG1IbE5kRDZRSzdZRUwzZ3RXTUhIRVRHUjhKdzFFcDA0anJ5eXdwdEthM0NrQ29KeVNhOGU0RS1wOXN1TFh6cndVN2FxTkxpOERwXzR6dXBJSFlEQS1zcnVWak5aWUZyWWhPQklDZUUwcGlhZGs?oc=5"
+   "Sterling Bay lands $79M refi for Fulton Market office high-rise",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMikwFBVV95cUxONWF2M3VJM2t2bWRHd05HTVFnTWxnRVh0Z2VzTHplWGpxVkctMmV3M2lmcDNqNGFQd2VhVmNTVmlOT203Tk53R3B0cEs0S0lPemhrUzEwR3NveEZjTllDVnYxbzQ3WHdRdzYxTjFWSU1fMXhlVERtRmd0NU1nTTBUd1FRTTdodHpicENsNHRUWVVxVk0?oc=5"
   ],
   [
    "Crypto",
@@ -388,6 +381,13 @@
    "Current price of Bitcoin for October 23, 2026",
    "Fortune",
    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4blhzWGdOeXlGSUFHRG0ybXQ3UGlPUk9POVpMU201ajcxTmltaDBrOU5RQ0daSkhRY2NxdERCUG9ZTFZPY3J5SGd5X1NoU09CSWNDbzlobkhVS2V2RVV3UGc5d1ExMkU?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "What Happened to Uptober? Bitcoin May Be Down in October, But Here Are 3 Reasons to Remain Bullish on BTC.",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTlVxTVlUTjRqR3Nha3o3MS1lN25xRjE1Yl9LRmU1UXQ1dHlIV1BkanNmYUJ2WXlDWHNIdmtTS1lWeUdUTkkyNzFhZkUzS29KZnlMaHRmbm85a0ZXWFp5VGxqTzg4QWtUdTU3OUNUZVF4MUZfM3JjSW4xNVFCNTVOeG8zdkR1OEYtZkd1LTd0QVoyZ3FVN2ExQXlBek5kbjA?oc=5"
   ],
   [
    "Stocks",
