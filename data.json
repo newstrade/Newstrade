@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:43:12.588Z",
+ "updated": "2026-10-24T15:43:41.883Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -235,17 +235,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80110.17,
-   "ch": -1.2,
-   "asof": "2026-10-24T14:43:06.000Z"
+   "p": 79342.81,
+   "ch": -2.14,
+   "asof": "2026-10-24T15:43:35.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2342.17,
-   "ch": -1.77,
-   "asof": "2026-10-24T14:43:07.000Z"
+   "p": 2291.73,
+   "ch": -3.89,
+   "asof": "2026-10-24T15:43:38.000Z"
   },
   {
    "s": "S&P 500",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 100.44,
-   "ch": -2.27,
-   "asof": "2026-10-24T14:43:07.000Z"
+   "p": 99.04,
+   "ch": -3.64,
+   "asof": "2026-10-24T15:43:41.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2742,
-   "ch": -1.52,
-   "asof": "2026-10-24T14:43:06.000Z"
+   "p": 1.2588,
+   "ch": -2.71,
+   "asof": "2026-10-24T15:43:38.000Z"
   },
   {
    "s": "Apple",
@@ -363,24 +363,24 @@
  "news": [
   [
    "Forex",
-   "high",
-   "Russian central bank keeps key rate on hold at 14%, raises 2026 inflation forecast",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ1lYMHE1UVNEa0dXTWVkQjZ0OUJIOVNQRm5laTJuRlZpakY2R012ekNrRmZ6LTdNYmNqLVBCOFBJekpQWXFrejA0Y0xjZ2UwVjR1d2QtZ1NxYi1GUFBFa3NSNy12anA5WE84amszX2t4Z1JoZXRndDVBcS1NTDluU2NuODd1b25GSWNpNjNSdFc3cF9sQlp2RUx1VTI3U3piNkstRGdZN0ZHTkwxLVhaNFRTM0szQjdKT2lN?oc=5"
+   "med",
+   "Japan is not out of room to defend the yen despite busy 2026 intervention year",
+   "investingLive",
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdWdDcXY3MURMdjVaV29WclZ4czBNbHhBOE5DRFNneGVhNy0xZFFaV2NrMHNnZng0d0xfZUFBTlhrZ2pLY0ZUMlB6QmFlQVpSMXl6Y1d6VDVlSF9XRkpreDJYenRYaHljeWZzUHVYWUd2a1BKYkF1OFVHOEdwb0k2bDJGNmg1NGREMlhyX0VKOFNwSERZU2V3TkhnQmEwSm00SFlXc2FSZDVOQ2JpQnBsYg?oc=5"
   ],
   [
    "Crypto",
    "high",
-   "Bitcoin ‘Going To Zero’—Sudden Shock Flip Sparks Imminent Price Crash Fears",
-   "Forbes",
-   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2RMVU11Wll4Q2RwVzVXT0lKNUJRSVFLUFVSTndSSWo0WnJNTVpMa2N3RXoxSFhUTzJIUThLMzh6WHNHSW9VazRRalFKWHpzVDkxVk84T2NmZktpUUg3LWVoOE9iMWtreFN3bTRDYUZMcGJJZlNLRkFBZDNDVjBJdnNTWDIwQmVjLTg5WEhRVHEydlBDaDBKTVpnNU1CSVpvWDdoYjB4UGI4MnNwN0d6ZFZZYjNVeUFnOHVTSUZrSDhuU1o5dDlYSA?oc=5"
+   "Bitcoin Faces Make-or-Break Weekend as Market Crash Fears Grow",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTkUwU1JWR212NHV1M0loaUpEcnloQmJnVGlvWTV6MUxwR3VFdEFlcGVvOVFIelR4cXlBLUt5c2xlaFp6N1Z3WDVILWdzYVhteXpxN3lydUJvV0pXZjJpZklIaU1ZZGlUM2Iwd2FyMUExQzVzWEV3SFZ2ODFydHBpWXFfY2xUQ1BvbktlTkFya19jZ2lqNkhIaW9obW80R0ND?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Is Bitcoin a Buy Right Now?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbERtMndtNUtLYmtlbTcyLUdkWHFLaVlnQ2VpZVdNMl9yWGRqUXEwVGJMeHdwVDBWVVY5aXE1eGtHbmdFMm5NOGlsT1ZsbXUxV2xSRVVCSW5hSU9TZ1pMNldhWmNUMS1zUDZzbVJ2enZxRldxZUd1RHBqOXI3OTJwY1lqbWUtUTA?oc=5"
+   "Bitcoin price news: BTC falls below $80,000 on renewed Middle East worries",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY2t0UU51ZnVfTTRnQm16dnpFQjY5SVl5MEg4eW5iU1YwYXF2NFRTUlUyMWxNWHlxc2xQdm1rS3k3YkFpVEhoSXhFRFJwQlRRVFBsTl9jNmY4SnZsR0tTUk9fZDI1ZXZ1dE5sdGdxbE8zajZOXzI5ZW1qbjZqYlpOR2hfUFNYYkUxTHZxUG1mcGhtMURUM294ZDhUdGk4R01FY2xRemxMWnVmS0ttOHFkWGdrYVBxSkE4b1VqS1hDRmVOdV8xM1FBTHpWS2hsVUo2?oc=5"
   ],
   [
    "Stocks",
