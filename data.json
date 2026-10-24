@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T22:41:32.903Z",
+ "updated": "2026-10-24T23:37:47.735Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -235,17 +235,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80498.23,
-   "ch": -0.72,
-   "asof": "2026-10-24T22:41:30.000Z"
+   "p": 80796.12,
+   "ch": -0.35,
+   "asof": "2026-10-24T23:37:46.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2341.28,
-   "ch": -1.81,
-   "asof": "2026-10-24T22:41:30.000Z"
+   "p": 2357.33,
+   "ch": -1.14,
+   "asof": "2026-10-24T23:37:43.000Z"
   },
   {
    "s": "S&P 500",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 101.58,
-   "ch": -1.16,
-   "asof": "2026-10-24T22:41:28.000Z"
+   "p": 102.33,
+   "ch": -0.43,
+   "asof": "2026-10-24T23:37:35.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2919,
-   "ch": -0.15,
-   "asof": "2026-10-24T22:41:27.000Z"
+   "p": 1.2996,
+   "ch": 0.44,
+   "asof": "2026-10-24T23:37:44.000Z"
   },
   {
    "s": "Apple",
@@ -392,16 +392,9 @@
   [
    "Stocks",
    "med",
-   "Ukraine’s Military Starlink Is Working Again, Kyiv Says",
+   "U.S. Stocks Fall as Tech Selloff Deepens",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcnEyMDNVYmxJajlNX3VGZkh3TEgwZGdDU1dsRUZCbk8xXzZxcUhvTG5GelhLXzZkYzRMQnJBRk14Z2o4akdHZEU0bHNqT1poLTVYaDk4YTRKZ0NZRVQ1RE1FUG5MVGExNEhfU2NteExXXzJvTlRaWGVGaXczV0pDSy0wbV9ZZFA5Y2QtZnBOY3NhNWNWTlB2T1NURQ?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Fuel Oil Becomes Asia's Next Cost Shock",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM2hKMUJuYjJfamtkTGdCUkJUMElXLWZFVW5ZNkhaU3RfMkdMaDdndnBHZnFWaks1YjE3TkRhaDlXOE43RW5NRHNncXpqT2RLd2VJNW5lRHdXMjRlTm5MeEl5UGpETlE3SWdhVVFjUHFjLUNqekdVcU9MMy1GVW5jbVFvM3k1Si00RzQxU0130gGOAUFVX3lxTE0zaEoxQm5iMl9qa2RMZ0JSQlQwSVctZkVVblk2SFpTdF8yR0xoN2d2cEdmcVZqSzViMTdORGFoOVc4TjdFbk1Ec2dxempPZEt3ZUk1bmVEd1cyNGVObkx4SXlQakROUTdJZ2FVUWNQcWMtQ2p6R1VxT0wzLUZVbmNtUW8zeTVKLTRHNDFTTXc?oc=5"
+   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDB3cDByVmVJQWQ4bzhobm83ZDVVN3MtYXh0VjlYT0xtakhpVkNrUFFHbVpWZEp2UHdpeWIwX0h2eVJqSzdod0t1Y3JxcVBaTzZlUFRKTFNkMDE4LVYxMHNjRGlYb0FsOVdqMnJuVzdHMk0xNVVxWXh4Y0tidlFtbXBUa1lXTVJGOXc1c0VvbjJ6eGVINVY0cEpFZHEtakM1UkFwdVZLVW4ySWlxV0RwNHpnNkpKcUsyRXU4RXN2Zm03QTQ?oc=5"
   ],
   [
    "Commodities",
@@ -409,6 +402,13 @@
    "Gold Price Tests $4,000 Support as Bearish Gaps Signal Further Downside Risks",
    "Investing.com",
    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbzBQSnVoSVpPT1VWQ2UtVDVDUTZqSGJKQnBxNUxmNzhtdlF3X3VUTHdRVG5wZmRYRW5SSGxPOTRqYS01TktUTkRiYlV2WDBITzNsbDd5MHlxWFZWYUpSQ1oxam1td3JJSHpEMHF1RVd4UXl5VHNiaUFBVHd3RUx0TUdid2o0V2lDdEhfYmdIcW9YeEN1MnBNTjB2c1FRb1NZYjYwSmRPWmN6b3JmeWRrMFQ5LUJpQXZTU3liWQ?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Chart of the day: Gold price eyes $4,200 breakout, but buyers still face two major hurdles",
+   "investingLive",
+   "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOER5UkJFZFQ0TFdXaXBaaW40TXNHYWFGeU9HQTlQcnlraURWQTFPZFJfY0pKZUVJdWZwSGpiS0hmMXFLT2xHX2xXX1kxVEtxMTZrR1VCQ21TclRBTFQwQTlvbFJGellfUkd1X0NTeFNHMmQ5dGtQMDZyOEJpX0lRSUM0a1NxYmJVREl3WWQzZDdHbUNMRjdYUF9zYTZDdWs0NXFVTGdlYWo3YjBYVEVoM0R4eFhnYkF5ZGVITlE4ejdBZFpDc1ZwYTlnQW94dw?oc=5"
   ]
  ]
 }
