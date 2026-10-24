@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T13:42:16.003Z",
+ "updated": "2026-10-24T14:43:12.588Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -235,17 +235,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80584.51,
-   "ch": -0.61,
-   "asof": "2026-10-24T13:42:10.000Z"
+   "p": 80110.17,
+   "ch": -1.2,
+   "asof": "2026-10-24T14:43:06.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2363.11,
-   "ch": -0.89,
-   "asof": "2026-10-24T13:42:14.000Z"
+   "p": 2342.17,
+   "ch": -1.77,
+   "asof": "2026-10-24T14:43:07.000Z"
   },
   {
    "s": "S&P 500",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 101.17,
-   "ch": -1.56,
-   "asof": "2026-10-24T13:42:14.000Z"
+   "p": 100.44,
+   "ch": -2.27,
+   "asof": "2026-10-24T14:43:07.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.281,
-   "ch": -1,
-   "asof": "2026-10-24T13:42:07.000Z"
+   "p": 1.2742,
+   "ch": -1.52,
+   "asof": "2026-10-24T14:43:06.000Z"
   },
   {
    "s": "Apple",
@@ -369,11 +369,11 @@
    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ1lYMHE1UVNEa0dXTWVkQjZ0OUJIOVNQRm5laTJuRlZpakY2R012ekNrRmZ6LTdNYmNqLVBCOFBJekpQWXFrejA0Y0xjZ2UwVjR1d2QtZ1NxYi1GUFBFa3NSNy12anA5WE84amszX2t4Z1JoZXRndDVBcS1NTDluU2NuODd1b25GSWNpNjNSdFc3cF9sQlp2RUx1VTI3U3piNkstRGdZN0ZHTkwxLVhaNFRTM0szQjdKT2lN?oc=5"
   ],
   [
-   "Forex",
-   "med",
-   "Sterling Bay lands $79M refi for Fulton Market office high-rise",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikwFBVV95cUxONWF2M3VJM2t2bWRHd05HTVFnTWxnRVh0Z2VzTHplWGpxVkctMmV3M2lmcDNqNGFQd2VhVmNTVmlOT203Tk53R3B0cEs0S0lPemhrUzEwR3NveEZjTllDVnYxbzQ3WHdRdzYxTjFWSU1fMXhlVERtRmd0NU1nTTBUd1FRTTdodHpicENsNHRUWVVxVk0?oc=5"
+   "Crypto",
+   "high",
+   "Bitcoin ‘Going To Zero’—Sudden Shock Flip Sparks Imminent Price Crash Fears",
+   "Forbes",
+   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2RMVU11Wll4Q2RwVzVXT0lKNUJRSVFLUFVSTndSSWo0WnJNTVpMa2N3RXoxSFhUTzJIUThLMzh6WHNHSW9VazRRalFKWHpzVDkxVk84T2NmZktpUUg3LWVoOE9iMWtreFN3bTRDYUZMcGJJZlNLRkFBZDNDVjBJdnNTWDIwQmVjLTg5WEhRVHEydlBDaDBKTVpnNU1CSVpvWDdoYjB4UGI4MnNwN0d6ZFZZYjNVeUFnOHVTSUZrSDhuU1o5dDlYSA?oc=5"
   ],
   [
    "Crypto",
@@ -381,13 +381,6 @@
    "Is Bitcoin a Buy Right Now?",
    "Yahoo Finance",
    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbERtMndtNUtLYmtlbTcyLUdkWHFLaVlnQ2VpZVdNMl9yWGRqUXEwVGJMeHdwVDBWVVY5aXE1eGtHbmdFMm5NOGlsT1ZsbXUxV2xSRVVCSW5hSU9TZ1pMNldhWmNUMS1zUDZzbVJ2enZxRldxZUd1RHBqOXI3OTJwY1lqbWUtUTA?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions",
-   "Bloomberg",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHZ6VVBXaDh1SXE5ZTBFa3pJS2ExLWR4b1FFWVJVNlJqRThrWGlxRlVZd0ZKaEhlSnJKMGNPaktXODdmZFR2aWl3WUFlOXNMczFkNXN2SXktQWhvLVJEOFhSaHVaRU96NDlNVWZGdi1mRGo1NHFuSFJKQm1MRHg2NE5jbFVGOTEwd0NRRloxQTd1NlhydW9YaW8zMlRNcFNkVUtpeUNwUDM5MnBNYlozYUVDUQ?oc=5"
   ],
   [
    "Stocks",
@@ -413,9 +406,9 @@
   [
    "Commodities",
    "med",
-   "Middle East Physical Crude Slides While Brent Hits Five-Month High",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMUZGVDlfZm51RzhmVXJTeDVWWVE2Z0FQUF9jVmhZcnFxOHJTTkJoZDdJV2ZnOUZ5X3J1TC1ZQmNCSDFsMmJKSDFsYkxKM0VaUjRuM1pzTDh3M1I1TnpjQzF5cURVUXJLcDdFcHNud0VaSU42XzRWdS1laFVweHVqSFFHdzJrdWMzSmh2Q0NqUDNJTVhtVG5paFhTaFk2Ynp6VkRQMjFGUk5yeUNQNHg4MFF6c1YwTW9vR0NlM2NkSdIBxAFBVV95cUxNSjUzZzlZbHVJd1RHSF9vdVZJaWpENVVYeldYYzN3RjFlQU5KUG90TzZkM3BEZnNRSjRiUWFybXh5X2xwMXIzWnM2NDByM21WSHpUNms4RGJOb2RWakQwWmRMVzFNcWJxMTN2WnR1aDNpYWZMc1p4WUQtY0Y3bW16cXNLX2pKcUZSdllzNHpNU0FEVTZWMDBGclhOSGhEbERUZEJ2Z0J5YXpfVjBIbkhNUXptNjBBRzVfR2lLdUo4UVB0anU0?oc=5"
+   "Gold Price Tests $4,000 Support as Bearish Gaps Signal Further Downside Risks",
+   "Investing.com",
+   "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbzBQSnVoSVpPT1VWQ2UtVDVDUTZqSGJKQnBxNUxmNzhtdlF3X3VUTHdRVG5wZmRYRW5SSGxPOTRqYS01TktUTkRiYlV2WDBITzNsbDd5MHlxWFZWYUpSQ1oxam1td3JJSHpEMHF1RVd4UXl5VHNiaUFBVHd3RUx0TUdid2o0V2lDdEhfYmdIcW9YeEN1MnBNTjB2c1FRb1NZYjYwSmRPWmN6b3JmeWRrMFQ5LUJpQXZTU3liWQ?oc=5"
   ]
  ]
 }
