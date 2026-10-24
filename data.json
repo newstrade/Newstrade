@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T11:44:17.612Z",
+ "updated": "2026-10-24T12:52:56.169Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -189,7 +189,7 @@
    "d": 4,
    "p": 1.1204,
    "ch": -0.16,
-   "asof": "2026-10-23T21:29:27.000Z"
+   "asof": "2026-10-23T21:29:44.000Z"
   },
   {
    "s": "GBP/USD",
@@ -197,7 +197,7 @@
    "d": 4,
    "p": 1.3375,
    "ch": -0.15,
-   "asof": "2026-10-23T21:29:27.000Z"
+   "asof": "2026-10-23T21:29:44.000Z"
   },
   {
    "s": "USD/JPY",
@@ -213,7 +213,7 @@
    "d": 4,
    "p": 0.7038,
    "ch": 0.27,
-   "asof": "2026-10-24T04:49:29.000Z"
+   "asof": "2026-10-24T12:52:44.000Z"
   },
   {
    "s": "USD/CAD",
@@ -221,7 +221,7 @@
    "d": 4,
    "p": 1.4004,
    "ch": -0.01,
-   "asof": "2026-10-24T04:21:13.000Z"
+   "asof": "2026-10-24T12:36:11.000Z"
   },
   {
    "s": "USD/CHF",
@@ -229,23 +229,23 @@
    "d": 4,
    "p": 0.8241,
    "ch": 0.52,
-   "asof": "2026-10-24T04:21:13.000Z"
+   "asof": "2026-10-24T12:36:39.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80507.97,
-   "ch": -0.71,
-   "asof": "2026-10-24T11:44:14.000Z"
+   "p": 80719.98,
+   "ch": -0.44,
+   "asof": "2026-10-24T12:52:54.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2362.27,
-   "ch": -0.93,
-   "asof": "2026-10-24T11:44:13.000Z"
+   "p": 2368.59,
+   "ch": -0.67,
+   "asof": "2026-10-24T12:52:53.000Z"
   },
   {
    "s": "S&P 500",
@@ -253,7 +253,7 @@
    "d": 2,
    "p": 7623.68,
    "ch": -0.52,
-   "asof": "2026-10-23T20:38:20.000Z"
+   "asof": "2026-10-23T20:38:21.000Z"
   },
   {
    "s": "Nasdaq",
@@ -301,7 +301,7 @@
    "d": 3,
    "p": 16.5804,
    "ch": 0.63,
-   "asof": "2026-10-24T04:21:13.000Z"
+   "asof": "2026-10-24T12:36:13.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 101.2,
-   "ch": -1.53,
-   "asof": "2026-10-24T11:44:18.000Z"
+   "p": 101.53,
+   "ch": -1.21,
+   "asof": "2026-10-24T12:52:51.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2773,
-   "ch": -1.28,
-   "asof": "2026-10-24T11:44:17.000Z"
+   "p": 1.2841,
+   "ch": -0.76,
+   "asof": "2026-10-24T12:52:51.000Z"
   },
   {
    "s": "Apple",
@@ -378,16 +378,23 @@
   [
    "Crypto",
    "med",
-   "Bitcoin Usually Bottoms After Midterm Elections. What Happens if This Cycle Breaks the Pattern?",
+   "Is Bitcoin a Buy Right Now?",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQmhCRDI1clFnSHpoaXV2em5xX1FLRlpBWDlSTlItWnE2eDhFbTRBV3BzNm1fRDF4Tlh1ZnQ5YXQ1bkkxSnRSNVhRNXZLMlR0cl9tQlEyRnlMQWQySTdodDFQWnVNVTBlVlBwNnlhUk1GOUtVczhDZXN1SGxwS1g3UktYTnFHb1l3UWVGczV0bUN1d2sxdHFJZ1Bka3FxTTMxWmpsWDZnTWhFdw?oc=5"
+   "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbERtMndtNUtLYmtlbTcyLUdkWHFLaVlnQ2VpZVdNMl9yWGRqUXEwVGJMeHdwVDBWVVY5aXE1eGtHbmdFMm5NOGlsT1ZsbXUxV2xSRVVCSW5hSU9TZ1pMNldhWmNUMS1zUDZzbVJ2enZxRldxZUd1RHBqOXI3OTJwY1lqbWUtUTA?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "What Happened to Uptober? Bitcoin May Be Down in October, But Here Are 3 Reasons to Remain Bullish on BTC.",
-   "The Motley Fool",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZGdCdkViczFwTGVNd0R4NEdnUzZ1TG9CSEJjZ1FGRFBlNmVEdFBuMm90eFg1YjZBcU5Gcmw4UkczSHFEaDJZVno3eHhId2FFSjhqYTN1WGpVREwtT2Q4ZUFGNEFwRVFEVUp0NURzS3BxdmFwWGFpTXFFTzFIX3FsU014c0xFdnMycDlWSmw0bHdmdWdqOWlIdw?oc=5"
+   "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions",
+   "Bloomberg",
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHZ6VVBXaDh1SXE5ZTBFa3pJS2ExLWR4b1FFWVJVNlJqRThrWGlxRlVZd0ZKaEhlSnJKMGNPaktXODdmZFR2aWl3WUFlOXNMczFkNXN2SXktQWhvLVJEOFhSaHVaRU96NDlNVWZGdi1mRGo1NHFuSFJKQm1MRHg2NE5jbFVGOTEwd0NRRloxQTd1NlhydW9YaW8zMlRNcFNkVUtpeUNwUDM5MnBNYlozYUVDUQ?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
+   "U.S. Stocks Fall as Tech Selloff Deepens",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDB3cDByVmVJQWQ4bzhobm83ZDVVN3MtYXh0VjlYT0xtakhpVkNrUFFHbVpWZEp2UHdpeWIwX0h2eVJqSzdod0t1Y3JxcVBaTzZlUFRKTFNkMDE4LVYxMHNjRGlYb0FsOVdqMnJuVzdHMk0xNVVxWXh4Y0tidlFtbXBUa1lXTVJGOXc1c0VvbjJ6eGVINVY0cEpFZHEtakM1UkFwdVZLVW4ySWlxV0RwNHpnNkpKcUsyRXU4RXN2Zm03QTQ?oc=5"
   ],
   [
    "Stocks",
@@ -395,13 +402,6 @@
    "Wall Street closes lower to end rocky week",
    "Reuters",
    "https://news.google.com/rss/articles/CBMingFBVV95cUxQR01KeXBjdXBubVRzTlJfWWJTMHctb2hFS2pVT21ydWtZNzBaMldxd1c2ZUJGNWhIeGV6MUxvQVZvSl9GdFh5QThQbFpuT0IwYi02Y3JGM19YSWJ3LXMtb29RbS1WZUljdGtsS2dockxHVm5SWnBSMzJpM0Y4RFItdW5SMzFsdXg2LWtrYWE1SC1TQlkxOERJZHNtQVREdw?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Looking Beyond the S&P 500? These 2 International ETFs Offer Very Different Opportunities",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimgFBVV95cUxPalN0d1RKcm1FUUJJLWw2bDJ6ODVfTmlKZ0pBZ0doeXc4VWpEYnRfN2J5X1I4MDBzaVk2YnQwNHVBaGhBUGswY2tsUnRWUWFRLWdKbjhUTGVzNG83OEtIUzU4LU1BMmZRZEZSakI0ZWNRTVJTaV8wUlFxZDlNVkxKbUFwaTB4akNvVWtMRzJqUWdoQTNqV3dlSFNn?oc=5"
   ],
   [
    "Commodities",
