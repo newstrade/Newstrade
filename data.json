@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T20:40:43.540Z",
+ "updated": "2026-10-24T21:42:57.643Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -213,7 +213,7 @@
    "d": 4,
    "p": 0.7038,
    "ch": 0.27,
-   "asof": "2026-10-24T13:04:44.000Z"
+   "asof": "2026-10-24T21:30:42.000Z"
   },
   {
    "s": "USD/CAD",
@@ -221,7 +221,7 @@
    "d": 4,
    "p": 1.4004,
    "ch": -0.01,
-   "asof": "2026-10-24T12:36:11.000Z"
+   "asof": "2026-10-24T21:00:50.000Z"
   },
   {
    "s": "USD/CHF",
@@ -229,23 +229,23 @@
    "d": 4,
    "p": 0.8241,
    "ch": 0.52,
-   "asof": "2026-10-24T12:36:39.000Z"
+   "asof": "2026-10-24T21:40:20.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80467.17,
-   "ch": -0.76,
-   "asof": "2026-10-24T20:40:39.000Z"
+   "p": 80283.22,
+   "ch": -0.98,
+   "asof": "2026-10-24T21:42:55.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2342.76,
-   "ch": -1.75,
-   "asof": "2026-10-24T20:40:41.000Z"
+   "p": 2336.28,
+   "ch": -2.02,
+   "asof": "2026-10-24T21:42:52.000Z"
   },
   {
    "s": "S&P 500",
@@ -301,7 +301,7 @@
    "d": 3,
    "p": 16.5804,
    "ch": 0.63,
-   "asof": "2026-10-24T12:36:13.000Z"
+   "asof": "2026-10-24T21:00:20.000Z"
   },
   {
    "s": "USD/NGN",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 101.36,
-   "ch": -1.38,
-   "asof": "2026-10-24T20:40:40.000Z"
+   "p": 101.25,
+   "ch": -1.49,
+   "asof": "2026-10-24T21:42:52.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2902,
-   "ch": -0.28,
-   "asof": "2026-10-24T20:40:41.000Z"
+   "p": 1.2911,
+   "ch": -0.22,
+   "asof": "2026-10-24T21:42:56.000Z"
   },
   {
    "s": "Apple",
@@ -377,10 +377,10 @@
   ],
   [
    "Crypto",
-   "high",
-   "Bitcoin Faces Make-or-Break Weekend as Market Crash Fears Grow",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTkUwU1JWR212NHV1M0loaUpEcnloQmJnVGlvWTV6MUxwR3VFdEFlcGVvOVFIelR4cXlBLUt5c2xlaFp6N1Z3WDVILWdzYVhteXpxN3lydUJvV0pXZjJpZklIaU1ZZGlUM2Iwd2FyMUExQzVzWEV3SFZ2ODFydHBpWXFfY2xUQ1BvbktlTkFya19jZ2lqNkhIaW9obW80R0ND?oc=5"
+   "med",
+   "An OpenAI Model Spent Ethereum Without Permission. Here's What That Means For Crypto Investors.",
+   "The Motley Fool",
+   "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVFRjb3dHLTBpMXpRajBGZnY1dEN5QzNhdjlwc3FDUnZnRTl1cU12dWpkWUFWaFZuMHpvcG1uSXIwZC00NlZGM1BUYjQ2aXVqcmFMVmJPRmN5VV9ObzJMcm1LYm43VzhwTjdDRWtMbndFbzN2TDVYVmV1bUo3QXN3SF9LVVdSVElBRjBOa283cGxpTVQ2dmpV?oc=5"
   ],
   [
    "Stocks",
@@ -392,9 +392,9 @@
   [
    "Stocks",
    "med",
-   "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQUFnNnBmeFFYOGM4WGYtQjlTaTNpcWhhdDZVbnFYZHRyb29fOUE3YV96eENvNE1haVBuNWJVOG0zdVZMYktYMkkzaFZrWmRlZHR5am94b0RPVEtVTXV1MzRPOHNRVmpWS1NVYmpRTmk3YlFzRGh3OEczWXlUZjJvUVV2UDdFbjhCQ3JaOW8wZkEyaEZEaEtkREs0U2VQXzUxUW94NDhRYnp6d0RXbGRmZHJwd2YweDA3ZW9VT2ZQOXZPM2c?oc=5"
+   "The Nasdaq Just Had Its Worst Day in 4 Months. Here's the Level That Would Signal a Correction, and What History Says Investors Can Do About It.",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcWtnRXRlZk9iei01RTZRREZZMzFhZVhtcFNMWW8zZXpJUnlrb0dlUlhQSHVBVmppWDhpZXdtV2VsNHVzRUhUM05aU0lWeVlHckk5NC1EdHZEYWdCTkx5aGhyUmVnZUt6NEtXb1ZyM1FiaFJ3Y1VWTm9SLWY1azAyQW5RdjE2Z0dsOHlTUHpRTGlPRXgt?oc=5"
   ],
   [
    "Commodities",
