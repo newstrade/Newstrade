@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T17:40:47.400Z",
+ "updated": "2026-10-24T18:46:10.185Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -235,17 +235,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80068.68,
-   "ch": -1.25,
-   "asof": "2026-10-24T17:40:36.000Z"
+   "p": 80250.67,
+   "ch": -1.02,
+   "asof": "2026-10-24T18:46:04.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2313.54,
-   "ch": -2.97,
-   "asof": "2026-10-24T17:40:35.000Z"
+   "p": 2330.02,
+   "ch": -2.28,
+   "asof": "2026-10-24T18:46:08.000Z"
   },
   {
    "s": "S&P 500",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 100.08,
-   "ch": -2.62,
-   "asof": "2026-10-24T17:40:44.000Z"
+   "p": 100.94,
+   "ch": -1.79,
+   "asof": "2026-10-24T18:46:05.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2734,
-   "ch": -1.58,
-   "asof": "2026-10-24T17:40:42.000Z"
+   "p": 1.2827,
+   "ch": -0.86,
+   "asof": "2026-10-24T18:46:06.000Z"
   },
   {
    "s": "Apple",
@@ -385,9 +385,9 @@
   [
    "Stocks",
    "med",
-   "Wall Street closes lower to end rocky week",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxQR01KeXBjdXBubVRzTlJfWWJTMHctb2hFS2pVT21ydWtZNzBaMldxd1c2ZUJGNWhIeGV6MUxvQVZvSl9GdFh5QThQbFpuT0IwYi02Y3JGM19YSWJ3LXMtb29RbS1WZUljdGtsS2dockxHVm5SWnBSMzJpM0Y4RFItdW5SMzFsdXg2LWtrYWE1SC1TQlkxOERJZHNtQVREdw?oc=5"
+   "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQUFnNnBmeFFYOGM4WGYtQjlTaTNpcWhhdDZVbnFYZHRyb29fOUE3YV96eENvNE1haVBuNWJVOG0zdVZMYktYMkkzaFZrWmRlZHR5am94b0RPVEtVTXV1MzRPOHNRVmpWS1NVYmpRTmk3YlFzRGh3OEczWXlUZjJvUVV2UDdFbjhCQ3JaOW8wZkEyaEZEaEtkREs0U2VQXzUxUW94NDhRYnp6d0RXbGRmZHJwd2YweDA3ZW9VT2ZQOXZPM2c?oc=5"
   ],
   [
    "Commodities",
