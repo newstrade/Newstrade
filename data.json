@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T08:46:04.440Z",
+ "updated": "2026-10-24T09:44:29.980Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -235,17 +235,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80522.08,
-   "ch": -0.69,
-   "asof": "2026-10-24T08:46:00.000Z"
+   "p": 80397.5,
+   "ch": -0.84,
+   "asof": "2026-10-24T09:44:27.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2364.14,
-   "ch": -0.85,
-   "asof": "2026-10-24T08:45:59.000Z"
+   "p": 2356.77,
+   "ch": -1.16,
+   "asof": "2026-10-24T09:44:27.000Z"
   },
   {
    "s": "S&P 500",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 101.7,
-   "ch": -1.05,
-   "asof": "2026-10-24T08:46:00.000Z"
+   "p": 101.04,
+   "ch": -1.69,
+   "asof": "2026-10-24T09:44:21.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2786,
-   "ch": -1.18,
-   "asof": "2026-10-24T08:45:55.000Z"
+   "p": 1.2724,
+   "ch": -1.66,
+   "asof": "2026-10-24T09:44:25.000Z"
   },
   {
    "s": "Apple",
@@ -413,9 +413,9 @@
   [
    "Commodities",
    "med",
-   "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVBHUDhjeG5sQkpOblUzQm9hSTdWRkduWHJwNXdibUgyM1FHNEtJeFpnWEVQclk1czRKV2hLbHNGS2FYem5sRzJ0N0sxakctZld4QmN4UnozQ2h3ZGFBcE1NZDdESDVRTkVQSTRVMUdxbUtHTnk2anV6Z3h4cmtmOU5COXTSAYoBQVVfeXFMT1RHRzc0UlM1VlFlakxiSU51Mk9FTXNoYndtX2tpb3RNQVNRQ1J5dGs2YnFYQUFxa0I3UUV4OHNkZFBRTVhGcjJ2SWpuQldna1VuM2VqQngyMHJXTW1YWXlPbUY4UE9CZklMbFdwQzdiMGlhS0xteVoydTEwNGlKdzhDSFRKQnZiNXJR?oc=5"
+   "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+   "The Guardian",
+   "https://news.google.com/rss/articles/CBMingFBVV95cUxPbjhUWEhFUEhXV2ZVbHVLbmtmUVdDeUxTRzlsZEdYY3JYd09YdVBYOTE0RVFlYnZZUkNNSmZ2MkRTamo3c0g4bTJrNllYbWpXWXBVMHl2MnNrNnlwVGJMdWYwN3I0alFzaTE4M2FXdWM5WEp2ZXFLWHdDUGRsOGRQWG53R2hwTTg5b1RqenVCNkEyd2NzZ3lmdm8yQWRBUQ?oc=5"
   ]
  ]
 }
