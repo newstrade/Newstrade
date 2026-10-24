@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T10:44:08.604Z",
+ "updated": "2026-10-24T11:44:17.612Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -235,17 +235,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80555.77,
-   "ch": -0.65,
-   "asof": "2026-10-24T10:44:05.000Z"
+   "p": 80507.97,
+   "ch": -0.71,
+   "asof": "2026-10-24T11:44:14.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2367.95,
-   "ch": -0.69,
-   "asof": "2026-10-24T10:44:01.000Z"
+   "p": 2362.27,
+   "ch": -0.93,
+   "asof": "2026-10-24T11:44:13.000Z"
   },
   {
    "s": "S&P 500",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 101.59,
-   "ch": -1.15,
-   "asof": "2026-10-24T10:44:02.000Z"
+   "p": 101.2,
+   "ch": -1.53,
+   "asof": "2026-10-24T11:44:18.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.28,
-   "ch": -1.07,
-   "asof": "2026-10-24T10:43:55.000Z"
+   "p": 1.2773,
+   "ch": -1.28,
+   "asof": "2026-10-24T11:44:17.000Z"
   },
   {
    "s": "Apple",
@@ -378,16 +378,16 @@
   [
    "Crypto",
    "med",
-   "Current price of Bitcoin for October 23, 2026",
-   "Fortune",
-   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4blhzWGdOeXlGSUFHRG0ybXQ3UGlPUk9POVpMU201ajcxTmltaDBrOU5RQ0daSkhRY2NxdERCUG9ZTFZPY3J5SGd5X1NoU09CSWNDbzlobkhVS2V2RVV3UGc5d1ExMkU?oc=5"
+   "Bitcoin Usually Bottoms After Midterm Elections. What Happens if This Cycle Breaks the Pattern?",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQmhCRDI1clFnSHpoaXV2em5xX1FLRlpBWDlSTlItWnE2eDhFbTRBV3BzNm1fRDF4Tlh1ZnQ5YXQ1bkkxSnRSNVhRNXZLMlR0cl9tQlEyRnlMQWQySTdodDFQWnVNVTBlVlBwNnlhUk1GOUtVczhDZXN1SGxwS1g3UktYTnFHb1l3UWVGczV0bUN1d2sxdHFJZ1Bka3FxTTMxWmpsWDZnTWhFdw?oc=5"
   ],
   [
    "Crypto",
    "med",
    "What Happened to Uptober? Bitcoin May Be Down in October, But Here Are 3 Reasons to Remain Bullish on BTC.",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTlVxTVlUTjRqR3Nha3o3MS1lN25xRjE1Yl9LRmU1UXQ1dHlIV1BkanNmYUJ2WXlDWHNIdmtTS1lWeUdUTkkyNzFhZkUzS29KZnlMaHRmbm85a0ZXWFp5VGxqTzg4QWtUdTU3OUNUZVF4MUZfM3JjSW4xNVFCNTVOeG8zdkR1OEYtZkd1LTd0QVoyZ3FVN2ExQXlBek5kbjA?oc=5"
+   "The Motley Fool",
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZGdCdkViczFwTGVNd0R4NEdnUzZ1TG9CSEJjZ1FGRFBlNmVEdFBuMm90eFg1YjZBcU5Gcmw4UkczSHFEaDJZVno3eHhId2FFSjhqYTN1WGpVREwtT2Q4ZUFGNEFwRVFEVUp0NURzS3BxdmFwWGFpTXFFTzFIX3FsU014c0xFdnMycDlWSmw0bHdmdWdqOWlIdw?oc=5"
   ],
   [
    "Stocks",
@@ -399,9 +399,9 @@
   [
    "Stocks",
    "med",
-   "If I Could Tell Every Investor 1 Thing About Stock Market Crashes, It Would Be This",
-   "The Motley Fool",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVGZmWWNZNHFfRHVxX3RKZFFGbnhHTXkzYTJMTzREQ012enVTQTNKZ2NkM0ZkNV9scDduXy02MXNyVTJMTERBUjlJUnlnMHp5clBQLUlpS2V5R2g5eUlmRHhfUXk2d2dKUVpldWNJTzFaTEVCS0VYd3ZSaGJtZWRFNjlYOFhJa2phV3lpOVJmamhzcXJlRUk1eg?oc=5"
+   "Looking Beyond the S&P 500? These 2 International ETFs Offer Very Different Opportunities",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMimgFBVV95cUxPalN0d1RKcm1FUUJJLWw2bDJ6ODVfTmlKZ0pBZ0doeXc4VWpEYnRfN2J5X1I4MDBzaVk2YnQwNHVBaGhBUGswY2tsUnRWUWFRLWdKbjhUTGVzNG83OEtIUzU4LU1BMmZRZEZSakI0ZWNRTVJTaV8wUlFxZDlNVkxKbUFwaTB4akNvVWtMRzJqUWdoQTNqV3dlSFNn?oc=5"
   ],
   [
    "Commodities",
@@ -413,9 +413,9 @@
   [
    "Commodities",
    "med",
-   "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
-   "The Guardian",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxPbjhUWEhFUEhXV2ZVbHVLbmtmUVdDeUxTRzlsZEdYY3JYd09YdVBYOTE0RVFlYnZZUkNNSmZ2MkRTamo3c0g4bTJrNllYbWpXWXBVMHl2MnNrNnlwVGJMdWYwN3I0alFzaTE4M2FXdWM5WEp2ZXFLWHdDUGRsOGRQWG53R2hwTTg5b1RqenVCNkEyd2NzZ3lmdm8yQWRBUQ?oc=5"
+   "Middle East Physical Crude Slides While Brent Hits Five-Month High",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMUZGVDlfZm51RzhmVXJTeDVWWVE2Z0FQUF9jVmhZcnFxOHJTTkJoZDdJV2ZnOUZ5X3J1TC1ZQmNCSDFsMmJKSDFsYkxKM0VaUjRuM1pzTDh3M1I1TnpjQzF5cURVUXJLcDdFcHNud0VaSU42XzRWdS1laFVweHVqSFFHdzJrdWMzSmh2Q0NqUDNJTVhtVG5paFhTaFk2Ynp6VkRQMjFGUk5yeUNQNHg4MFF6c1YwTW9vR0NlM2NkSdIBxAFBVV95cUxNSjUzZzlZbHVJd1RHSF9vdVZJaWpENVVYeldYYzN3RjFlQU5KUG90TzZkM3BEZnNRSjRiUWFybXh5X2xwMXIzWnM2NDByM21WSHpUNms4RGJOb2RWakQwWmRMVzFNcWJxMTN2WnR1aDNpYWZMc1p4WUQtY0Y3bW16cXNLX2pKcUZSdllzNHpNU0FEVTZWMDBGclhOSGhEbERUZEJ2Z0J5YXpfVjBIbkhNUXptNjBBRzVfR2lLdUo4UVB0anU0?oc=5"
   ]
  ]
 }
