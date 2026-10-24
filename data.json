@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T18:46:10.185Z",
+ "updated": "2026-10-24T19:38:39.212Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -235,17 +235,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80250.67,
-   "ch": -1.02,
-   "asof": "2026-10-24T18:46:04.000Z"
+   "p": 80437.22,
+   "ch": -0.79,
+   "asof": "2026-10-24T19:38:37.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2330.02,
-   "ch": -2.28,
-   "asof": "2026-10-24T18:46:08.000Z"
+   "p": 2337.82,
+   "ch": -1.96,
+   "asof": "2026-10-24T19:38:31.000Z"
   },
   {
    "s": "S&P 500",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 100.94,
-   "ch": -1.79,
-   "asof": "2026-10-24T18:46:05.000Z"
+   "p": 101.05,
+   "ch": -1.68,
+   "asof": "2026-10-24T19:38:38.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2827,
-   "ch": -0.86,
-   "asof": "2026-10-24T18:46:06.000Z"
+   "p": 1.2889,
+   "ch": -0.39,
+   "asof": "2026-10-24T19:38:38.000Z"
   },
   {
    "s": "Apple",
@@ -362,6 +362,13 @@
  ],
  "news": [
   [
+   "Forex",
+   "med",
+   "Israel central bank rejects Netanyahu’s plan to use crypto to evade sanctions",
+   "Financial Times",
+   "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUo3Rnllc2dMYUJwa2U1anpZUEVrbTZzNy1vWU5mZ005ZVJtUGJ3Rzl6Y1NodkZhNGNmYUxEQ3g1dU10WTJZNVVOOWRuU0gySlIxVm9qQ1pYZ2RfMEt0WHRIbnR6NWhrVENjRlhvRjlzZkxLQUoyOFVpRzFXcTItdmNtNWQ?oc=5"
+  ],
+  [
    "Crypto",
    "med",
    "Bitcoin price news: BTC falls below $80,000 on renewed Middle East worries",
@@ -392,9 +399,9 @@
   [
    "Commodities",
    "med",
-   "Brent crude tops $116 as traders price escalating Middle East conflict",
+   "Oil prices jump $3 on Houthi attacks, oil spill, highest settlement since April",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGZKbUc5SzJVQVNZX0VMSjRlVERhSkxKOWppN3pvcVo5b05xbWhYaDZtS2VXY1ZiRHVqM3ZyVXFNSF9MTmFjWFNHbGhDMG1CR1BBXy1nSkVuVWdyZ2JySHdrMTFuY1h6cmhyZTBMZDFzTzh3NGxHcHR2Nld3LS1sOEtGX3Nxd0VTR21YUE9sN3htMDRKeW82b2NxdkVoNUc3WXlETlVXZTktVHJHdUNha2Vmc1lGZUpkYWgxbQ?oc=5"
+   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOHpyOVBKMGxIbF9oUXluaUVMeGxfQlFjdEZHLUY3WHBia0lnMzVSbVNmX2YwcWVISVdORlcxaDdydXFRb0hsdURFV21td3dyb1RpVGs3Q1RHM2JQRm9JR3VuWm1NLWt2bnJhQnpQOWwxdVgxNjZ1Y05tSEx0eFA1RGZ1ODFWcjlPZFFhYjdWT08tUQ?oc=5"
   ],
   [
    "Commodities",
