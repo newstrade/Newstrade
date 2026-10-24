@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T05:45:00.719Z",
+ "updated": "2026-10-24T06:54:52.148Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -235,17 +235,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80657.99,
-   "ch": -0.52,
-   "asof": "2026-10-24T05:44:50.000Z"
+   "p": 80669.41,
+   "ch": -0.51,
+   "asof": "2026-10-24T06:54:48.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2374.59,
-   "ch": -0.41,
-   "asof": "2026-10-24T05:44:54.000Z"
+   "p": 2374.21,
+   "ch": -0.43,
+   "asof": "2026-10-24T06:54:40.000Z"
   },
   {
    "s": "S&P 500",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 102.23,
-   "ch": -0.53,
-   "asof": "2026-10-24T05:44:55.000Z"
+   "p": 101.95,
+   "ch": -0.8,
+   "asof": "2026-10-24T06:54:44.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2885,
-   "ch": -0.42,
-   "asof": "2026-10-24T05:44:49.000Z"
+   "p": 1.2871,
+   "ch": -0.52,
+   "asof": "2026-10-24T06:54:41.000Z"
   },
   {
    "s": "Apple",
@@ -385,9 +385,9 @@
   [
    "Crypto",
    "med",
-   "Why Good Crypto Projects Keep Making Bad Investments",
-   "Forbes",
-   "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSHR6NG9wTXBBV3dxb2RGeS0xd25xVlVxc1lhbnpOeGRxcFEyT3I0YzZqaWlVZjRGUDNGcVhMcFN4cGJoaW1hTFlnZU9PVTktN1RocndqTmYzXzVFUnJXbDE3b2ZOTjdTY1VhLUlGZmZYVWNGdVFQOTBYUGpGX2pKZ0dXNXVGV0QtVGkzUldoWVlHNGtVd1BGbVBVNFJ0OGRhN3lxU1ZuMzNZclRH?oc=5"
+   "Bitcoin Usually Bottoms After Midterm Elections. What Happens if This Cycle Breaks the Pattern?",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQmhCRDI1clFnSHpoaXV2em5xX1FLRlpBWDlSTlItWnE2eDhFbTRBV3BzNm1fRDF4Tlh1ZnQ5YXQ1bkkxSnRSNVhRNXZLMlR0cl9tQlEyRnlMQWQySTdodDFQWnVNVTBlVlBwNnlhUk1GOUtVczhDZXN1SGxwS1g3UktYTnFHb1l3UWVGczV0bUN1d2sxdHFJZ1Bka3FxTTMxWmpsWDZnTWhFdw?oc=5"
   ],
   [
    "Stocks",
@@ -399,16 +399,9 @@
   [
    "Stocks",
    "med",
-   "AI pixie dust is losing its stock market power",
-   "Axios",
-   "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ILUtHNDlPMWRZdXNwQXlnTnQtVE8zTTJBUmtzVTVudzJMRTV1dHRsRFFsd3puWEJGR0Q0dTZtMXYtbGM3Z3hPZUg1MUR4dVZCMzJGOUMwcWU2MVp3YzR6Tm5fYUZwN3d4Y2NvaDFLV3U?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVBHUDhjeG5sQkpOblUzQm9hSTdWRkduWHJwNXdibUgyM1FHNEtJeFpnWEVQclk1czRKV2hLbHNGS2FYem5sRzJ0N0sxakctZld4QmN4UnozQ2h3ZGFBcE1NZDdESDVRTkVQSTRVMUdxbUtHTnk2anV6Z3h4cmtmOU5COXTSAYoBQVVfeXFMT1RHRzc0UlM1VlFlakxiSU51Mk9FTXNoYndtX2tpb3RNQVNRQ1J5dGs2YnFYQUFxa0I3UUV4OHNkZFBRTVhGcjJ2SWpuQldna1VuM2VqQngyMHJXTW1YWXlPbUY4UE9CZklMbFdwQzdiMGlhS0xteVoydTEwNGlKdzhDSFRKQnZiNXJR?oc=5"
+   "If I Could Tell Every Investor 1 Thing About Stock Market Crashes, It Would Be This",
+   "The Motley Fool",
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVGZmWWNZNHFfRHVxX3RKZFFGbnhHTXkzYTJMTzREQ012enVTQTNKZ2NkM0ZkNV9scDduXy02MXNyVTJMTERBUjlJUnlnMHp5clBQLUlpS2V5R2g5eUlmRHhfUXk2d2dKUVpldWNJTzFaTEVCS0VYd3ZSaGJtZWRFNjlYOFhJa2phV3lpOVJmamhzcXJlRUk1eg?oc=5"
   ],
   [
    "Commodities",
@@ -416,6 +409,13 @@
    "Oil prices jump $3 on Houthi attacks, oil spill, highest settlement since April",
    "Yahoo Finance",
    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOHpyOVBKMGxIbF9oUXluaUVMeGxfQlFjdEZHLUY3WHBia0lnMzVSbVNmX2YwcWVISVdORlcxaDdydXFRb0hsdURFV21td3dyb1RpVGs3Q1RHM2JQRm9JR3VuWm1NLWt2bnJhQnpQOWwxdVgxNjZ1Y05tSEx0eFA1RGZ1ODFWcjlPZFFhYjdWT08tUQ?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVBHUDhjeG5sQkpOblUzQm9hSTdWRkduWHJwNXdibUgyM1FHNEtJeFpnWEVQclk1czRKV2hLbHNGS2FYem5sRzJ0N0sxakctZld4QmN4UnozQ2h3ZGFBcE1NZDdESDVRTkVQSTRVMUdxbUtHTnk2anV6Z3h4cmtmOU5COXTSAYoBQVVfeXFMT1RHRzc0UlM1VlFlakxiSU51Mk9FTXNoYndtX2tpb3RNQVNRQ1J5dGs2YnFYQUFxa0I3UUV4OHNkZFBRTVhGcjJ2SWpuQldna1VuM2VqQngyMHJXTW1YWXlPbUY4UE9CZklMbFdwQzdiMGlhS0xteVoydTEwNGlKdzhDSFRKQnZiNXJR?oc=5"
   ]
  ]
 }
