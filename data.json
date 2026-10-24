@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T04:44:15.606Z",
+ "updated": "2026-10-24T05:45:00.719Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -213,7 +213,7 @@
    "d": 4,
    "p": 0.7038,
    "ch": 0.27,
-   "asof": "2026-10-24T04:43:29.000Z"
+   "asof": "2026-10-24T04:49:29.000Z"
   },
   {
    "s": "USD/CAD",
@@ -235,17 +235,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80780.45,
-   "ch": -0.37,
-   "asof": "2026-10-24T04:44:11.000Z"
+   "p": 80657.99,
+   "ch": -0.52,
+   "asof": "2026-10-24T05:44:50.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2380.38,
-   "ch": -0.17,
-   "asof": "2026-10-24T04:44:11.000Z"
+   "p": 2374.59,
+   "ch": -0.41,
+   "asof": "2026-10-24T05:44:54.000Z"
   },
   {
    "s": "S&P 500",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 102.64,
-   "ch": -0.13,
-   "asof": "2026-10-24T04:44:09.000Z"
+   "p": 102.23,
+   "ch": -0.53,
+   "asof": "2026-10-24T05:44:55.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2898,
-   "ch": -0.32,
-   "asof": "2026-10-24T04:43:59.000Z"
+   "p": 1.2885,
+   "ch": -0.42,
+   "asof": "2026-10-24T05:44:49.000Z"
   },
   {
    "s": "Apple",
@@ -385,9 +385,9 @@
   [
    "Crypto",
    "med",
-   "Bitcoin Usually Bottoms After Midterm Elections. What Happens if This Cycle Breaks the Pattern?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQmhCRDI1clFnSHpoaXV2em5xX1FLRlpBWDlSTlItWnE2eDhFbTRBV3BzNm1fRDF4Tlh1ZnQ5YXQ1bkkxSnRSNVhRNXZLMlR0cl9tQlEyRnlMQWQySTdodDFQWnVNVTBlVlBwNnlhUk1GOUtVczhDZXN1SGxwS1g3UktYTnFHb1l3UWVGczV0bUN1d2sxdHFJZ1Bka3FxTTMxWmpsWDZnTWhFdw?oc=5"
+   "Why Good Crypto Projects Keep Making Bad Investments",
+   "Forbes",
+   "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSHR6NG9wTXBBV3dxb2RGeS0xd25xVlVxc1lhbnpOeGRxcFEyT3I0YzZqaWlVZjRGUDNGcVhMcFN4cGJoaW1hTFlnZU9PVTktN1RocndqTmYzXzVFUnJXbDE3b2ZOTjdTY1VhLUlGZmZYVWNGdVFQOTBYUGpGX2pKZ0dXNXVGV0QtVGkzUldoWVlHNGtVd1BGbVBVNFJ0OGRhN3lxU1ZuMzNZclRH?oc=5"
   ],
   [
    "Stocks",
@@ -413,9 +413,9 @@
   [
    "Commodities",
    "med",
-   "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
-   "The Guardian",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxPbjhUWEhFUEhXV2ZVbHVLbmtmUVdDeUxTRzlsZEdYY3JYd09YdVBYOTE0RVFlYnZZUkNNSmZ2MkRTamo3c0g4bTJrNllYbWpXWXBVMHl2MnNrNnlwVGJMdWYwN3I0alFzaTE4M2FXdWM5WEp2ZXFLWHdDUGRsOGRQWG53R2hwTTg5b1RqenVCNkEyd2NzZ3lmdm8yQWRBUQ?oc=5"
+   "Oil prices jump $3 on Houthi attacks, oil spill, highest settlement since April",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOHpyOVBKMGxIbF9oUXluaUVMeGxfQlFjdEZHLUY3WHBia0lnMzVSbVNmX2YwcWVISVdORlcxaDdydXFRb0hsdURFV21td3dyb1RpVGs3Q1RHM2JQRm9JR3VuWm1NLWt2bnJhQnpQOWwxdVgxNjZ1Y05tSEx0eFA1RGZ1ODFWcjlPZFFhYjdWT08tUQ?oc=5"
   ]
  ]
 }
