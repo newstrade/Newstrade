@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T16:44:39.777Z",
+ "updated": "2026-10-24T17:40:47.400Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -235,17 +235,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 79776.07,
-   "ch": -1.61,
-   "asof": "2026-10-24T16:44:33.000Z"
+   "p": 80068.68,
+   "ch": -1.25,
+   "asof": "2026-10-24T17:40:36.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2302.01,
-   "ch": -3.46,
-   "asof": "2026-10-24T16:44:33.000Z"
+   "p": 2313.54,
+   "ch": -2.97,
+   "asof": "2026-10-24T17:40:35.000Z"
   },
   {
    "s": "S&P 500",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 99.89,
-   "ch": -2.81,
-   "asof": "2026-10-24T16:44:36.000Z"
+   "p": 100.08,
+   "ch": -2.62,
+   "asof": "2026-10-24T17:40:44.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2678,
-   "ch": -2.02,
-   "asof": "2026-10-24T16:44:34.000Z"
+   "p": 1.2734,
+   "ch": -1.58,
+   "asof": "2026-10-24T17:40:42.000Z"
   },
   {
    "s": "Apple",
@@ -399,9 +399,9 @@
   [
    "Commodities",
    "med",
-   "Oil prices jump $3 on Houthi attacks, oil spill, highest settlement since April",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOHpyOVBKMGxIbF9oUXluaUVMeGxfQlFjdEZHLUY3WHBia0lnMzVSbVNmX2YwcWVISVdORlcxaDdydXFRb0hsdURFV21td3dyb1RpVGs3Q1RHM2JQRm9JR3VuWm1NLWt2bnJhQnpQOWwxdVgxNjZ1Y05tSEx0eFA1RGZ1ODFWcjlPZFFhYjdWT08tUQ?oc=5"
+   "Gold Price Tests $4,000 Support as Bearish Gaps Signal Further Downside Risks",
+   "Investing.com",
+   "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbzBQSnVoSVpPT1VWQ2UtVDVDUTZqSGJKQnBxNUxmNzhtdlF3X3VUTHdRVG5wZmRYRW5SSGxPOTRqYS01TktUTkRiYlV2WDBITzNsbDd5MHlxWFZWYUpSQ1oxam1td3JJSHpEMHF1RVd4UXl5VHNiaUFBVHd3RUx0TUdid2o0V2lDdEhfYmdIcW9YeEN1MnBNTjB2c1FRb1NZYjYwSmRPWmN6b3JmeWRrMFQ5LUJpQXZTU3liWQ?oc=5"
   ]
  ]
 }
