@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T14:43:13.184Z",
+ "updated": "2026-10-25T15:44:25.330Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80324.92,
-   "ch": -0.55,
-   "asof": "2026-10-25T14:43:09.000Z"
+   "p": 80556.85,
+   "ch": -0.26,
+   "asof": "2026-10-25T15:44:22.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2334.39,
-   "ch": -0.91,
-   "asof": "2026-10-25T14:43:08.000Z"
+   "p": 2343.57,
+   "ch": -0.52,
+   "asof": "2026-10-25T15:44:20.000Z"
   },
   {
    "s": "S&P 500",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 100.94,
-   "ch": -1.3,
-   "asof": "2026-10-25T14:43:11.000Z"
+   "p": 101.56,
+   "ch": -0.69,
+   "asof": "2026-10-25T15:44:19.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2949,
-   "ch": -0.27,
-   "asof": "2026-10-25T14:43:10.000Z"
+   "p": 1.2991,
+   "ch": 0.05,
+   "asof": "2026-10-25T15:44:08.000Z"
   },
   {
    "s": "Apple",
@@ -523,16 +523,16 @@
   [
    "Commodities",
    "med",
-   "3 Oil Stocks Worth Watching As Brent Crude Tests $117",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUUNoQnhNMEw1OW9ETlhtc2JSN0pnVHp3ZmpvVHFfdXVEYjJZeHU5dXVtNE9VT3lrRl8wUE5yZWJUVjlJMkk3YnM4X3FnUTRqekRTd1RZaWhncjlnQ19TSTVvRFc5ZlNKNTBiU0R1S0c1OURualdHN3NBOWZQb1ZoeVJmSUktbnlyRkM2cw?oc=5"
+   "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMingFBVV95cUxORUF5TG56V3NCLUlWZDEwR1d1Z3J4bEtUSFh2eThCWW9QOTREd3pqX21CN3p1cGNwZTNWVDU5NW52NU1XdkNSNWVBbVo4N2dOZUZGM1o3M0FUUWNNelg2ekNySlVtMHJPVkxTd1lEQ0hxc0RyaFV4NjFBUFpuZ3U1cXBlbkowclJsNkRmVEtGcTNjR3lfZTB0U1FlU0Vsd9IBowFBVV95cUxNdDZ3cW15VlNTc1lKcW5UTi0weUFWMFdESWN0Z3IzR3hJbnBGWFlpM09YZ20wT0NFUkJROWJjTG1aVnJvZV9ZY1kzRzc5WTdwWk9yREljeE9wX0wxSzRwajQ4bUN3NUdaSThzLTBTSzNaZmVNcHljRlB2eFhkcFhBMFlVc2ZKWHBEbE01Z3lOX1ZqNkZsTDZiQnFRSEZKVGlVa3pZ?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxORUF5TG56V3NCLUlWZDEwR1d1Z3J4bEtUSFh2eThCWW9QOTREd3pqX21CN3p1cGNwZTNWVDU5NW52NU1XdkNSNWVBbVo4N2dOZUZGM1o3M0FUUWNNelg2ekNySlVtMHJPVkxTd1lEQ0hxc0RyaFV4NjFBUFpuZ3U1cXBlbkowclJsNkRmVEtGcTNjR3lfZTB0U1FlU0Vsd9IBowFBVV95cUxNdDZ3cW15VlNTc1lKcW5UTi0weUFWMFdESWN0Z3IzR3hJbnBGWFlpM09YZ20wT0NFUkJROWJjTG1aVnJvZV9ZY1kzRzc5WTdwWk9yREljeE9wX0wxSzRwajQ4bUN3NUdaSThzLTBTSzNaZmVNcHljRlB2eFhkcFhBMFlVc2ZKWHBEbE01Z3lOX1ZqNkZsTDZiQnFRSEZKVGlVa3pZ?oc=5"
+   "3 Oil Stocks Worth Watching As Brent Crude Tests $117",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUUNoQnhNMEw1OW9ETlhtc2JSN0pnVHp3ZmpvVHFfdXVEYjJZeHU5dXVtNE9VT3lrRl8wUE5yZWJUVjlJMkk3YnM4X3FnUTRqekRTd1RZaWhncjlnQ19TSTVvRFc5ZlNKNTBiU0R1S0c1OURualdHN3NBOWZQb1ZoeVJmSUktbnlyRkM2cw?oc=5"
   ]
  ]
 }
