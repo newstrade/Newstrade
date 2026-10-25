@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T12:52:20.962Z",
+ "updated": "2026-10-25T13:43:17.729Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80345.4,
-   "ch": -0.53,
-   "asof": "2026-10-25T12:52:18.000Z"
+   "p": 80298.25,
+   "ch": -0.58,
+   "asof": "2026-10-25T13:43:10.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2331.51,
-   "ch": -1.03,
-   "asof": "2026-10-25T12:52:09.000Z"
+   "p": 2332.77,
+   "ch": -0.98,
+   "asof": "2026-10-25T13:43:13.000Z"
   },
   {
    "s": "S&P 500",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 100.9,
-   "ch": -1.34,
-   "asof": "2026-10-25T12:52:15.000Z"
+   "p": 100.95,
+   "ch": -1.29,
+   "asof": "2026-10-25T13:43:08.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2961,
-   "ch": -0.18,
-   "asof": "2026-10-25T12:51:52.000Z"
+   "p": 1.2966,
+   "ch": -0.14,
+   "asof": "2026-10-25T13:43:10.000Z"
   },
   {
    "s": "Apple",
@@ -488,9 +488,9 @@
   [
    "Forex",
    "med",
-   "Japan is not out of room to defend the yen despite busy 2026 intervention year",
-   "investingLive",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdWdDcXY3MURMdjVaV29WclZ4czBNbHhBOE5DRFNneGVhNy0xZFFaV2NrMHNnZng0d0xfZUFBTlhrZ2pLY0ZUMlB6QmFlQVpSMXl6Y1d6VDVlSF9XRkpreDJYenRYaHljeWZzUHVYWUd2a1BKYkF1OFVHOEdwb0k2bDJGNmg1NGREMlhyX0VKOFNwSERZU2V3TkhnQmEwSm00SFlXc2FSZDVOQ2JpQnBsYg?oc=5"
+   "GBP/USD (GBPUSD=X) live rate, chart and news",
+   "Yahoo Finance Singapore",
+   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45cXk5ODVxV3l3RWQ1Vl9aYzVSaGpNQmV0aUxPN1l6bllfNmxRR2xNcXFGVmczOEJFbnlIcThZVGtWcmJlSUZNc0lpbEJJbDJReG5VeFRWZ1g0QQ?oc=5"
   ],
   [
    "Crypto",
@@ -509,16 +509,16 @@
   [
    "Stocks",
    "med",
-   "We're Witnessing the Stock Market Do Something for Only the 3rd Time in the Last 100 Years, and History Is Crystal Clear on What's Next for Stocks",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFp0VlhTd09jSU5WTjFiNU9HOW9VTjBrTlNsMkpKajktdmRiRmttOGxfS0JzdElJYzdrbF8yYUJtWDNmTV9NUEk2ejZzWHR0dFBhZk1VUHM2YkxnaDB2TmN4aXFnQVFYSktQdTFmc21HbFg5T0FMR05nNXJRQ3g3THhQejN0ZkttTzZMVDh5OTNFQlMyTUZOTTFOaHpPRkZGajZwR3dn?oc=5"
+   "Why economic health no longer dictates stock-market returns",
+   "MarketWatch",
+   "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmdRa3dCZW9HRGI2b2JEQmxqRm5CcGxrZUxHUWpmMDZueW45NUVGM21QYzU0d0dWa0ZTX1RxbnNuajZHWDRpeDZqWWU4SWxRX1FJUXRhRzNLZVY0Z1N0Mks3NDlqZ2w2eFpOdkVuY1g0ZmplTjFOWFFXM1Frc3J1WXQwMFdlak9SYWJYZjZpMWFFa0V6ejlKU3VkQjdPWlNRRUU0Yw?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Why economic health no longer dictates stock-market returns",
-   "MarketWatch",
-   "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmdRa3dCZW9HRGI2b2JEQmxqRm5CcGxrZUxHUWpmMDZueW45NUVGM21QYzU0d0dWa0ZTX1RxbnNuajZHWDRpeDZqWWU4SWxRX1FJUXRhRzNLZVY0Z1N0Mks3NDlqZ2w2eFpOdkVuY1g0ZmplTjFOWFFXM1Frc3J1WXQwMFdlak9SYWJYZjZpMWFFa0V6ejlKU3VkQjdPWlNRRUU0Yw?oc=5"
+   "We're Witnessing the Stock Market Do Something for Only the 3rd Time in the Last 100 Years, and History Is Crystal Clear on What's Next for Stocks",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFp0VlhTd09jSU5WTjFiNU9HOW9VTjBrTlNsMkpKajktdmRiRmttOGxfS0JzdElJYzdrbF8yYUJtWDNmTV9NUEk2ejZzWHR0dFBhZk1VUHM2YkxnaDB2TmN4aXFnQVFYSktQdTFmc21HbFg5T0FMR05nNXJRQ3g3THhQejN0ZkttTzZMVDh5OTNFQlMyTUZOTTFOaHpPRkZGajZwR3dn?oc=5"
   ],
   [
    "Commodities",
