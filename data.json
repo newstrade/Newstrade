@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T00:53:40.717Z",
+ "updated": "2026-10-25T01:42:43.685Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -195,9 +195,9 @@
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3375,
-   "ch": -0.15,
-   "asof": "2026-10-23T21:29:44.000Z"
+   "p": 1.3374,
+   "ch": -0.16,
+   "asof": "2026-10-25T01:41:46.000Z"
   },
   {
    "s": "USD/JPY",
@@ -235,17 +235,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80783.3,
-   "ch": 0.02,
-   "asof": "2026-10-25T00:53:35.000Z"
+   "p": 80720.59,
+   "ch": -0.06,
+   "asof": "2026-10-25T01:42:35.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2358.66,
-   "ch": 0.12,
-   "asof": "2026-10-25T00:53:32.000Z"
+   "p": 2356.71,
+   "ch": 0.04,
+   "asof": "2026-10-25T01:42:41.000Z"
   },
   {
    "s": "S&P 500",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 102.39,
-   "ch": 0.12,
-   "asof": "2026-10-25T00:53:32.000Z"
+   "p": 102.29,
+   "ch": 0.02,
+   "asof": "2026-10-25T01:42:39.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3036,
-   "ch": 0.4,
-   "asof": "2026-10-25T00:53:36.000Z"
+   "p": 1.3013,
+   "ch": 0.22,
+   "asof": "2026-10-25T01:42:37.000Z"
   },
   {
    "s": "Apple",
@@ -401,7 +401,7 @@
    "med",
    "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
    "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdDZ3cW15VlNTc1lKcW5UTi0weUFWMFdESWN0Z3IzR3hJbnBGWFlpM09YZ20wT0NFUkJROWJjTG1aVnJvZV9ZY1kzRzc5WTdwWk9yREljeE9wX0wxSzRwajQ4bUN3NUdaSThzLTBTSzNaZmVNcHljRlB2eFhkcFhBMFlVc2ZKWHBEbE01Z3lOX1ZqNkZsTDZiQnFRSEZKVGlVa3pZ0gGjAUFVX3lxTE10NndxbXlWU1NzWUpxblROLTB5QVYwV0RJY3RncjNHeElucEZYWWkzT1hnbTBPQ0VSQlE5YmNMbVpWcm9lX1ljWTNHNzlZN3BaT3JESWN4T3BfTDFLNHBqNDhtQ3c1R1pJOHMtMFNLM1pmZU1weWNGUHZ4WGRwWEEwWVVzZkpYcERsTTVneU5fVmo2RmxMNmJCcVFIRkpUaVVrelk?oc=5"
+   "https://news.google.com/rss/articles/CBMingFBVV95cUxORUF5TG56V3NCLUlWZDEwR1d1Z3J4bEtUSFh2eThCWW9QOTREd3pqX21CN3p1cGNwZTNWVDU5NW52NU1XdkNSNWVBbVo4N2dOZUZGM1o3M0FUUWNNelg2ekNySlVtMHJPVkxTd1lEQ0hxc0RyaFV4NjFBUFpuZ3U1cXBlbkowclJsNkRmVEtGcTNjR3lfZTB0U1FlU0Vsd9IBowFBVV95cUxNdDZ3cW15VlNTc1lKcW5UTi0weUFWMFdESWN0Z3IzR3hJbnBGWFlpM09YZ20wT0NFUkJROWJjTG1aVnJvZV9ZY1kzRzc5WTdwWk9yREljeE9wX0wxSzRwajQ4bUN3NUdaSThzLTBTSzNaZmVNcHljRlB2eFhkcFhBMFlVc2ZKWHBEbE01Z3lOX1ZqNkZsTDZiQnFRSEZKVGlVa3pZ?oc=5"
   ],
   [
    "Commodities",
