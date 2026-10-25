@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T19:39:19.410Z",
+ "updated": "2026-10-25T20:41:45.498Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -312,57 +312,57 @@
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3381,
+   "p": 1.3382,
    "ch": -0.1,
-   "asof": "2026-10-25T19:38:44.000Z"
+   "asof": "2026-10-25T20:40:45.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 156.813,
-   "ch": 0.02,
-   "asof": "2026-10-25T19:31:31.000Z"
+   "p": 156.834,
+   "ch": 0.04,
+   "asof": "2026-10-25T20:05:01.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7027,
-   "ch": 0.11,
-   "asof": "2026-10-25T19:38:44.000Z"
+   "p": 0.703,
+   "ch": 0.16,
+   "asof": "2026-10-25T20:40:45.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4025,
-   "ch": 0.14,
-   "asof": "2026-10-25T19:39:15.000Z"
+   "p": 1.4041,
+   "ch": 0.25,
+   "asof": "2026-10-25T20:41:28.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8237,
-   "ch": 0.48,
-   "asof": "2026-10-25T19:14:28.000Z"
+   "p": 0.8234,
+   "ch": 0.44,
+   "asof": "2026-10-25T20:40:00.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80489.3,
-   "ch": -0.35,
-   "asof": "2026-10-25T19:39:16.000Z"
+   "p": 80432.1,
+   "ch": -0.42,
+   "asof": "2026-10-25T20:41:42.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2348.52,
-   "ch": -0.31,
-   "asof": "2026-10-25T19:39:12.000Z"
+   "p": 2346.18,
+   "ch": -0.41,
+   "asof": "2026-10-25T20:41:40.000Z"
   },
   {
    "s": "S&P 500",
@@ -410,15 +410,15 @@
    "d": 2,
    "p": 129.79,
    "ch": -0.02,
-   "asof": "2026-10-25T13:52:00.000Z"
+   "asof": "2026-10-25T20:02:06.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.595,
-   "ch": 0.72,
-   "asof": "2026-10-25T18:02:09.000Z"
+   "p": 16.5802,
+   "ch": 0.63,
+   "asof": "2026-10-25T20:02:06.000Z"
   },
   {
    "s": "USD/NGN",
@@ -426,23 +426,23 @@
    "d": 2,
    "p": 1353.91,
    "ch": 1.84,
-   "asof": "2026-10-25T13:52:00.000Z"
+   "asof": "2026-10-25T20:02:06.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 101.66,
-   "ch": -0.6,
-   "asof": "2026-10-25T19:39:15.000Z"
+   "p": 101.63,
+   "ch": -0.63,
+   "asof": "2026-10-25T20:41:44.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2993,
-   "ch": 0.06,
-   "asof": "2026-10-25T19:39:13.000Z"
+   "p": 1.2984,
+   "ch": 0,
+   "asof": "2026-10-25T20:41:28.000Z"
   },
   {
    "s": "Apple",
@@ -523,16 +523,16 @@
   [
    "Commodities",
    "med",
-   "COP31 Host Urges NATO Nations to Spend More on Climate Than Defense",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWFJCVkRCTllxN0lfeWdoeGlNRkZOTE96RGFENFQ3a2lScXNqdkVLQTh5ZnZHMXVHaDl6LUFvWE1pbkZRR19nVWRuVnB2ZXVSUW9WVUVURE00cnFmQXZVSW9ZVHdXWm9xbHlFTldLdjV2eWhDZmVENHA3cjhROUMySHZOOHpWYU1GN0xnZTAzZWVFZG5fNW44dTBrNHJtNFUySHkwdFFNbmJyeG1sbjl6dXpNY1BMQdIBuwFBVV95cUxPRm5KVlBTeU9nandrclYyOGNlM1ZJcm9pRHF0ZlY5MUk5ZTZFSm1peXJsbTFoeWFLM3dVbFJpUmc5R3VWOU9sTmZwRklickNuZDJRT2h3YVlXT19wRUtrTGFVTXdsendQODVISEU2dkR2STRYSXVHQXJQZVJSdVhZbDdyU3lQcWluTTQ3UXRaamh2aVdHZVV6RmQxRlljTzY0cXNHU0M5ZWdsVm9JbWFOdTdCN1hFZF9DOW84?oc=5"
+   "3 Oil Stocks Worth Watching As Brent Crude Tests $117",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUUNoQnhNMEw1OW9ETlhtc2JSN0pnVHp3ZmpvVHFfdXVEYjJZeHU5dXVtNE9VT3lrRl8wUE5yZWJUVjlJMkk3YnM4X3FnUTRqekRTd1RZaWhncjlnQ19TSTVvRFc5ZlNKNTBiU0R1S0c1OURualdHN3NBOWZQb1ZoeVJmSUktbnlyRkM2cw?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "3 Oil Stocks Worth Watching As Brent Crude Tests $117",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUUNoQnhNMEw1OW9ETlhtc2JSN0pnVHp3ZmpvVHFfdXVEYjJZeHU5dXVtNE9VT3lrRl8wUE5yZWJUVjlJMkk3YnM4X3FnUTRqekRTd1RZaWhncjlnQ19TSTVvRFc5ZlNKNTBiU0R1S0c1OURualdHN3NBOWZQb1ZoeVJmSUktbnlyRkM2cw?oc=5"
+   "COP31 Host Urges NATO Nations to Spend More on Climate Than Defense",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWFJCVkRCTllxN0lfeWdoeGlNRkZOTE96RGFENFQ3a2lScXNqdkVLQTh5ZnZHMXVHaDl6LUFvWE1pbkZRR19nVWRuVnB2ZXVSUW9WVUVURE00cnFmQXZVSW9ZVHdXWm9xbHlFTldLdjV2eWhDZmVENHA3cjhROUMySHZOOHpWYU1GN0xnZTAzZWVFZG5fNW44dTBrNHJtNFUySHkwdFFNbmJyeG1sbjl6dXpNY1BMQdIBuwFBVV95cUxPRm5KVlBTeU9nandrclYyOGNlM1ZJcm9pRHF0ZlY5MUk5ZTZFSm1peXJsbTFoeWFLM3dVbFJpUmc5R3VWOU9sTmZwRklickNuZDJRT2h3YVlXT19wRUtrTGFVTXdsendQODVISEU2dkR2STRYSXVHQXJQZVJSdVhZbDdyU3lQcWluTTQ3UXRaamh2aVdHZVV6RmQxRlljTzY0cXNHU0M5ZWdsVm9JbWFOdTdCN1hFZF9DOW84?oc=5"
   ]
  ]
 }
