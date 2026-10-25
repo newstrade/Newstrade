@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T13:43:17.729Z",
+ "updated": "2026-10-25T14:43:13.184Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -336,9 +336,9 @@
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4004,
-   "ch": -0.01,
-   "asof": "2026-10-25T05:21:14.000Z"
+   "p": 1.4002,
+   "ch": -0.03,
+   "asof": "2026-10-25T13:51:26.000Z"
   },
   {
    "s": "USD/CHF",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80298.25,
-   "ch": -0.58,
-   "asof": "2026-10-25T13:43:10.000Z"
+   "p": 80324.92,
+   "ch": -0.55,
+   "asof": "2026-10-25T14:43:09.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2332.77,
-   "ch": -0.98,
-   "asof": "2026-10-25T13:43:13.000Z"
+   "p": 2334.39,
+   "ch": -0.91,
+   "asof": "2026-10-25T14:43:08.000Z"
   },
   {
    "s": "S&P 500",
@@ -410,15 +410,15 @@
    "d": 2,
    "p": 129.79,
    "ch": -0.02,
-   "asof": "2026-10-23T21:28:52.000Z"
+   "asof": "2026-10-25T13:52:00.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5804,
+   "p": 16.5802,
    "ch": 0.63,
-   "asof": "2026-10-25T05:21:14.000Z"
+   "asof": "2026-10-25T13:51:26.000Z"
   },
   {
    "s": "USD/NGN",
@@ -426,23 +426,23 @@
    "d": 2,
    "p": 1353.91,
    "ch": 1.84,
-   "asof": "2026-10-23T21:28:52.000Z"
+   "asof": "2026-10-25T13:52:00.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 100.95,
-   "ch": -1.29,
-   "asof": "2026-10-25T13:43:08.000Z"
+   "p": 100.94,
+   "ch": -1.3,
+   "asof": "2026-10-25T14:43:11.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2966,
-   "ch": -0.14,
-   "asof": "2026-10-25T13:43:10.000Z"
+   "p": 1.2949,
+   "ch": -0.27,
+   "asof": "2026-10-25T14:43:10.000Z"
   },
   {
    "s": "Apple",
@@ -509,16 +509,16 @@
   [
    "Stocks",
    "med",
-   "Why economic health no longer dictates stock-market returns",
-   "MarketWatch",
-   "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmdRa3dCZW9HRGI2b2JEQmxqRm5CcGxrZUxHUWpmMDZueW45NUVGM21QYzU0d0dWa0ZTX1RxbnNuajZHWDRpeDZqWWU4SWxRX1FJUXRhRzNLZVY0Z1N0Mks3NDlqZ2w2eFpOdkVuY1g0ZmplTjFOWFFXM1Frc3J1WXQwMFdlak9SYWJYZjZpMWFFa0V6ejlKU3VkQjdPWlNRRUU0Yw?oc=5"
+   "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "We're Witnessing the Stock Market Do Something for Only the 3rd Time in the Last 100 Years, and History Is Crystal Clear on What's Next for Stocks",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFp0VlhTd09jSU5WTjFiNU9HOW9VTjBrTlNsMkpKajktdmRiRmttOGxfS0JzdElJYzdrbF8yYUJtWDNmTV9NUEk2ejZzWHR0dFBhZk1VUHM2YkxnaDB2TmN4aXFnQVFYSktQdTFmc21HbFg5T0FMR05nNXJRQ3g3THhQejN0ZkttTzZMVDh5OTNFQlMyTUZOTTFOaHpPRkZGajZwR3dn?oc=5"
+   "Wall Street Week Ahead",
+   "Seeking Alpha",
+   "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YMGtWWE5MNlFFakY0ZENSTUlqRVplSHJGUnhFTTIyMXRUVlNIWEV1YmkzYnBDUjBLcEk4YXlxYkxZS3hrVFNtSV9JVFZuNUpuZHp3bUtLa0wzSzJkOUlNTkkyMzZ3OUVNdHIyU1plQm4?oc=5"
   ],
   [
    "Commodities",
