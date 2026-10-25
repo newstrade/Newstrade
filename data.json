@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T17:41:14.606Z",
+ "updated": "2026-10-25T18:47:33.179Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,17 +304,17 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1204,
-   "ch": -0.16,
-   "asof": "2026-10-23T21:29:44.000Z"
+   "p": 1.1216,
+   "ch": -0.05,
+   "asof": "2026-10-25T18:46:43.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3374,
-   "ch": -0.16,
-   "asof": "2026-10-25T02:07:42.000Z"
+   "p": 1.3372,
+   "ch": -0.17,
+   "asof": "2026-10-25T18:46:43.000Z"
   },
   {
    "s": "USD/JPY",
@@ -328,41 +328,41 @@
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7038,
-   "ch": 0.27,
-   "asof": "2026-10-25T05:50:45.000Z"
+   "p": 0.7034,
+   "ch": 0.21,
+   "asof": "2026-10-25T18:46:43.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4002,
-   "ch": -0.03,
-   "asof": "2026-10-25T13:51:26.000Z"
+   "p": 1.4016,
+   "ch": 0.07,
+   "asof": "2026-10-25T18:47:18.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8241,
-   "ch": 0.52,
-   "asof": "2026-10-25T05:21:14.000Z"
+   "p": 0.8229,
+   "ch": 0.38,
+   "asof": "2026-10-25T18:47:32.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80643.98,
-   "ch": -0.16,
-   "asof": "2026-10-25T17:41:10.000Z"
+   "p": 80576.7,
+   "ch": -0.24,
+   "asof": "2026-10-25T18:47:25.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2354.03,
-   "ch": -0.07,
-   "asof": "2026-10-25T17:41:08.000Z"
+   "p": 2353.74,
+   "ch": -0.09,
+   "asof": "2026-10-25T18:47:25.000Z"
   },
   {
    "s": "S&P 500",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5802,
-   "ch": 0.63,
-   "asof": "2026-10-25T13:51:26.000Z"
+   "p": 16.595,
+   "ch": 0.72,
+   "asof": "2026-10-25T18:02:09.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 101.77,
-   "ch": -0.49,
-   "asof": "2026-10-25T17:41:06.000Z"
+   "p": 101.82,
+   "ch": -0.44,
+   "asof": "2026-10-25T18:47:28.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3031,
-   "ch": 0.36,
-   "asof": "2026-10-25T17:41:12.000Z"
+   "p": 1.3008,
+   "ch": 0.18,
+   "asof": "2026-10-25T18:47:25.000Z"
   },
   {
    "s": "Apple",
@@ -487,10 +487,10 @@
   ],
   [
    "Forex",
-   "med",
-   "Japan is not out of room to defend the yen despite busy 2026 intervention year",
+   "high",
+   "EUR/USD consolidates at the lows as France's budget and US CPI remain in focus",
    "investingLive",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdWdDcXY3MURMdjVaV29WclZ4czBNbHhBOE5DRFNneGVhNy0xZFFaV2NrMHNnZng0d0xfZUFBTlhrZ2pLY0ZUMlB6QmFlQVpSMXl6Y1d6VDVlSF9XRkpreDJYenRYaHljeWZzUHVYWUd2a1BKYkF1OFVHOEdwb0k2bDJGNmg1NGREMlhyX0VKOFNwSERZU2V3TkhnQmEwSm00SFlXc2FSZDVOQ2JpQnBsYg?oc=5"
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZnRJR2RkTUlsMnpnRmhqUkNETlBhWVFKSjdmeG5lRzRwdXNyd05LOG9BSEFXakUwMTdNRGJjVHJVRXlHbnI5Qlk0VmRyUE1MRnNWZl93d2R3cGsyeTBPRHduZzFDZkdaUklPVmh0YkJyRGQ1Sk8wUENRc25PZW5KTzFxXzJJdFJVOXpYWmpMei1wZmRuVlpzbEFEbFVMcndFTV9IQjhzYWpVb2R1N2R2aA?oc=5"
   ],
   [
    "Crypto",
@@ -502,16 +502,9 @@
   [
    "Crypto",
    "med",
-   "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHZ6VVBXaDh1SXE5ZTBFa3pJS2ExLWR4b1FFWVJVNlJqRThrWGlxRlVZd0ZKaEhlSnJKMGNPaktXODdmZFR2aWl3WUFlOXNMczFkNXN2SXktQWhvLVJEOFhSaHVaRU96NDlNVWZGdi1mRGo1NHFuSFJKQm1MRHg2NE5jbFVGOTEwd0NRRloxQTd1NlhydW9YaW8zMlRNcFNkVUtpeUNwUDM5MnBNYlozYUVDUQ?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Here are 4 big things we're watching in the stock market this week",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWUdMX3FGQkxvTENaOUh4b1RLUlVDUWdhcGQ3Y0xXMkxOdlNEdmlaTXFVX0M5OXhYUDRBWUJlVlNoQjI1cFE3SXVEaWdxeXY0eTdWQ2VlaXRKck1Ha2xXWEs1ZkMtQmJva1dzTXVjNTZwM0JYZ3BTcnc4NTFSMHdnUjUtVG9BNVpzU0ZvR1RQQl9MLUhjNjZUQWNHeFRSODVNUHh6ZzluZVFfQURpeWRVSm5LOE4zTGc?oc=5"
+   "NC woman lost all her savings at a gas-station bitcoin machine. A new law could force refunds — but not until January",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeU52Y1NGT0Z6NjhqVVVJcjdjODVjZGlFMjUyWng0VkJtMEhadFdYNUZDVmlWdm5vLS1HZkhNTkdLc0ZMSHFOZDNzYU56UjJpbkNFVFUzcGQtV1JBVGxIRU5oSUhBb1Q5cUcySjZpcUcxY3BfQjN5ek1fNjVJR2k5bmxQUlBaX2FVYllqOElWTGtMUmNK?oc=5"
   ],
   [
    "Stocks",
@@ -521,18 +514,25 @@
    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaWRZdXBZdXRIbF8xRlFhQjJvRlhGWWxmTXVUQzNzMThPaUZLTXpkN3VjZzRwYndYMjcxVXVMbFhrNmJROGt4Tm9CVGozTG91aXJyamE4YWVtUDRwZFFhcHl1NVVSNVB1aGZybTFkVERueS1jeVlIZ09UZFd2a3FWRzZMMGRKQkVxWC1lMm5mS0FrLUhkQ1E?oc=5"
   ],
   [
+   "Stocks",
+   "med",
+   "Wall Street Week Ahead",
+   "Seeking Alpha",
+   "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YMGtWWE5MNlFFakY0ZENSTUlqRVplSHJGUnhFTTIyMXRUVlNIWEV1YmkzYnBDUjBLcEk4YXlxYkxZS3hrVFNtSV9JVFZuNUpuZHp3bUtLa0wzSzJkOUlNTkkyMzZ3OUVNdHIyU1plQm4?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "COP31 Host Urges NATO Nations to Spend More on Climate Than Defense",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWFJCVkRCTllxN0lfeWdoeGlNRkZOTE96RGFENFQ3a2lScXNqdkVLQTh5ZnZHMXVHaDl6LUFvWE1pbkZRR19nVWRuVnB2ZXVSUW9WVUVURE00cnFmQXZVSW9ZVHdXWm9xbHlFTldLdjV2eWhDZmVENHA3cjhROUMySHZOOHpWYU1GN0xnZTAzZWVFZG5fNW44dTBrNHJtNFUySHkwdFFNbmJyeG1sbjl6dXpNY1BMQdIBuwFBVV95cUxPRm5KVlBTeU9nandrclYyOGNlM1ZJcm9pRHF0ZlY5MUk5ZTZFSm1peXJsbTFoeWFLM3dVbFJpUmc5R3VWOU9sTmZwRklickNuZDJRT2h3YVlXT19wRUtrTGFVTXdsendQODVISEU2dkR2STRYSXVHQXJQZVJSdVhZbDdyU3lQcWluTTQ3UXRaamh2aVdHZVV6RmQxRlljTzY0cXNHU0M5ZWdsVm9JbWFOdTdCN1hFZF9DOW84?oc=5"
+  ],
+  [
    "Commodities",
    "med",
    "3 Oil Stocks Worth Watching As Brent Crude Tests $117",
    "Yahoo Finance",
    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUUNoQnhNMEw1OW9ETlhtc2JSN0pnVHp3ZmpvVHFfdXVEYjJZeHU5dXVtNE9VT3lrRl8wUE5yZWJUVjlJMkk3YnM4X3FnUTRqekRTd1RZaWhncjlnQ19TSTVvRFc5ZlNKNTBiU0R1S0c1OURualdHN3NBOWZQb1ZoeVJmSUktbnlyRkM2cw?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxORUF5TG56V3NCLUlWZDEwR1d1Z3J4bEtUSFh2eThCWW9QOTREd3pqX21CN3p1cGNwZTNWVDU5NW52NU1XdkNSNWVBbVo4N2dOZUZGM1o3M0FUUWNNelg2ekNySlVtMHJPVkxTd1lEQ0hxc0RyaFV4NjFBUFpuZ3U1cXBlbkowclJsNkRmVEtGcTNjR3lfZTB0U1FlU0Vsd9IBowFBVV95cUxNdDZ3cW15VlNTc1lKcW5UTi0weUFWMFdESWN0Z3IzR3hJbnBGWFlpM09YZ20wT0NFUkJROWJjTG1aVnJvZV9ZY1kzRzc5WTdwWk9yREljeE9wX0wxSzRwajQ4bUN3NUdaSThzLTBTSzNaZmVNcHljRlB2eFhkcFhBMFlVc2ZKWHBEbE01Z3lOX1ZqNkZsTDZiQnFRSEZKVGlVa3pZ?oc=5"
   ]
  ]
 }
