@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T21:42:50.691Z",
+ "updated": "2026-10-25T22:40:20.773Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1222,
-   "ch": 0,
-   "asof": "2026-10-25T21:42:46.000Z"
+   "p": 1.1211,
+   "ch": -0.1,
+   "asof": "2026-10-25T22:39:42.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3366,
-   "ch": -0.22,
-   "asof": "2026-10-25T21:42:46.000Z"
+   "p": 1.3372,
+   "ch": -0.17,
+   "asof": "2026-10-25T22:39:42.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.028,
-   "ch": 0.16,
-   "asof": "2026-10-25T21:42:49.000Z"
+   "p": 156.865,
+   "ch": 0.06,
+   "asof": "2026-10-25T22:40:20.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7038,
-   "ch": 0.27,
-   "asof": "2026-10-25T21:42:46.000Z"
+   "p": 0.7041,
+   "ch": 0.31,
+   "asof": "2026-10-25T22:38:42.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4035,
-   "ch": 0.21,
-   "asof": "2026-10-25T21:42:46.000Z"
+   "p": 1.4014,
+   "ch": 0.06,
+   "asof": "2026-10-25T22:40:20.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8241,
-   "ch": 0.52,
-   "asof": "2026-10-25T21:42:49.000Z"
+   "p": 0.825,
+   "ch": 0.63,
+   "asof": "2026-10-25T22:40:19.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80307.12,
-   "ch": -0.57,
-   "asof": "2026-10-25T21:42:45.000Z"
+   "p": 80426.86,
+   "ch": -0.43,
+   "asof": "2026-10-25T22:40:15.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2335.08,
-   "ch": -0.88,
-   "asof": "2026-10-25T21:42:45.000Z"
+   "p": 2342.79,
+   "ch": -0.55,
+   "asof": "2026-10-25T22:40:14.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,17 +392,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4007.9,
-   "ch": 0,
-   "asof": "2026-10-23T20:59:58.000Z"
+   "p": 4012.3,
+   "ch": 0.11,
+   "asof": "2026-10-25T22:30:18.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 103.27,
-   "ch": 0,
-   "asof": "2026-10-23T20:59:58.000Z"
+   "p": 101.78,
+   "ch": -1.44,
+   "asof": "2026-10-25T22:30:19.000Z"
   },
   {
    "s": "USD/KES",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.57,
-   "ch": 0.57,
-   "asof": "2026-10-25T21:30:24.000Z"
+   "p": 16.562,
+   "ch": 0.52,
+   "asof": "2026-10-25T22:40:20.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 101.24,
-   "ch": -1.01,
-   "asof": "2026-10-25T21:42:46.000Z"
+   "p": 101.53,
+   "ch": -0.72,
+   "asof": "2026-10-25T22:40:12.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2954,
-   "ch": -0.24,
-   "asof": "2026-10-25T21:42:48.000Z"
+   "p": 1.2988,
+   "ch": 0.03,
+   "asof": "2026-10-25T22:40:15.000Z"
   },
   {
    "s": "Apple",
@@ -472,9 +472,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.949,
-   "ch": 0,
-   "asof": "2026-10-23T20:59:52.000Z"
+   "p": 54.125,
+   "ch": 0.33,
+   "asof": "2026-10-25T22:30:16.000Z"
   }
  ],
  "news": [
@@ -495,23 +495,16 @@
   [
    "Crypto",
    "med",
-   "Netanyahu rebuked for plan to use crypto to bypass economic sanctions",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEZIYi1YYkZXSDlUeWN0cUgzdzdudTFUNlF5bHE1eVM4Z1NZeUFxVWZrVXp3d0N1dnRRWU5iYzZSc3J5QlJiQ3c4bllDUXFJcFFFdjNGeTFPbGhxc2VRZjYzV1dLSmtKX2JqQlpfd2U4RTFmWUhoRGFtVUVtVWRSc0NBZjc0NjhUdUVLNmM2dDVBYUxLOWRob3BwWkY2bnBKSlhnSGc0aXVfTEZ5RjBsTDJ3?oc=5"
+   "Mike Alfred Says He Would Bet $1 Million Bitcoin Reaches $100,000 Before $60,000",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcHRYS3c4QmVuSmEyQ1N1Q0FQWjdneXhfUERJejFSRnFxS0xpblgxWUprM3g5RVRMUVRGUko3Ty1zc2U1NWxWS3lMSUt4UlFrQWotR2VZbG9qTTB5T1M5QnlkV3lZZU9aNjFfTXJvTnNSaGltc2JabXBQd3U0a09KT0hnZW43bFVSRkZuZUtLZWI?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "What Will 10 Ethereum (ETH) Be Worth by 2030?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWDBMcWtOc3hrWFkzX2plZmRqVFVzVmxVTmY4alVLdjJDREIxSHF0X2lsckQ0WFFaX3g3MEJ0TERhbG5fSjJiU3ZkWXJoQXV2V0l0WW1SZzFxa3JFU1FrcUpZZF80LVNkZEVhbm8zWm1xU0haYi1YdW9YNFNoZHlfbjhVQjh4dzI4dGZBZXk0cmdUTHFVUWc?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Here are 4 big things we're watching in the stock market this week",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWUdMX3FGQkxvTENaOUh4b1RLUlVDUWdhcGQ3Y0xXMkxOdlNEdmlaTXFVX0M5OXhYUDRBWUJlVlNoQjI1cFE3SXVEaWdxeXY0eTdWQ2VlaXRKck1Ha2xXWEs1ZkMtQmJva1dzTXVjNTZwM0JYZ3BTcnc4NTFSMHdnUjUtVG9BNVpzU0ZvR1RQQl9MLUhjNjZUQWNHeFRSODVNUHh6ZzluZVFfQURpeWRVSm5LOE4zTGc?oc=5"
+   "Netanyahu rebuked for plan to use crypto to bypass economic sanctions",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEZIYi1YYkZXSDlUeWN0cUgzdzdudTFUNlF5bHE1eVM4Z1NZeUFxVWZrVXp3d0N1dnRRWU5iYzZSc3J5QlJiQ3c4bllDUXFJcFFFdjNGeTFPbGhxc2VRZjYzV1dLSmtKX2JqQlpfd2U4RTFmWUhoRGFtVUVtVWRSc0NBZjc0NjhUdUVLNmM2dDVBYUxLOWRob3BwWkY2bnBKSlhnSGc0aXVfTEZ5RjBsTDJ3?oc=5"
   ],
   [
    "Stocks",
@@ -521,18 +514,25 @@
    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaWRZdXBZdXRIbF8xRlFhQjJvRlhGWWxmTXVUQzNzMThPaUZLTXpkN3VjZzRwYndYMjcxVXVMbFhrNmJROGt4Tm9CVGozTG91aXJyamE4YWVtUDRwZFFhcHl1NVVSNVB1aGZybTFkVERueS1jeVlIZ09UZFd2a3FWRzZMMGRKQkVxWC1lMm5mS0FrLUhkQ1E?oc=5"
   ],
   [
+   "Stocks",
+   "med",
+   "Power Outages Leave Kyiv Dreading Its Worst Winter of the War",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMinAFBVV95cUxPazkyOWh6YWJnMGtOY19fQUdsa0xHVDdicnBmOHpiSW40QnU5U2pCQU43UnFRNG0tT2pWQjB0bUJFYUIxNXBjMUZTU2M1SlJqeUI1MkhfNlRsYUJhdHhTRWNBY1Z3WWRsUmJyeGt6RExxS2FsXzRZNUNGOXZRNzBlQXN6R2pnem9JNUFrYjBVSUEzeFd1UV9wVXpRVkU?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "US Equity Futures Climb as Crude Oil Price Dips: Markets Wrap",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGVmU0kxdjhvRF9ZU0VaeFFkODlaUTRlN1dQaHNSV1JiOTBwSV9nb1RKejQ2clRzQ0doN3VjVEtHb0RaTlVBNUdhMFI3aUtTRHB1dEE3NWdXZS1ZbktuMVUtYnE0ellyLWlNa29aWThtQkdSQW5FRzFIVUZlb3hEUlg1czdXd3FyV0VwNW0wVEMyTUg4ZEpoTVg0SzIyZ0VmLTAxOUlPTUtLXy1kS0ozbw?oc=5"
+  ],
+  [
    "Commodities",
    "med",
    "3 Oil Stocks Worth Watching As Brent Crude Tests $117",
    "Yahoo Finance",
    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUUNoQnhNMEw1OW9ETlhtc2JSN0pnVHp3ZmpvVHFfdXVEYjJZeHU5dXVtNE9VT3lrRl8wUE5yZWJUVjlJMkk3YnM4X3FnUTRqekRTd1RZaWhncjlnQ19TSTVvRFc5ZlNKNTBiU0R1S0c1OURualdHN3NBOWZQb1ZoeVJmSUktbnlyRkM2cw?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "COP31 Host Urges NATO Nations to Spend More on Climate Than Defense",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWFJCVkRCTllxN0lfeWdoeGlNRkZOTE96RGFENFQ3a2lScXNqdkVLQTh5ZnZHMXVHaDl6LUFvWE1pbkZRR19nVWRuVnB2ZXVSUW9WVUVURE00cnFmQXZVSW9ZVHdXWm9xbHlFTldLdjV2eWhDZmVENHA3cjhROUMySHZOOHpWYU1GN0xnZTAzZWVFZG5fNW44dTBrNHJtNFUySHkwdFFNbmJyeG1sbjl6dXpNY1BMQdIBuwFBVV95cUxPRm5KVlBTeU9nandrclYyOGNlM1ZJcm9pRHF0ZlY5MUk5ZTZFSm1peXJsbTFoeWFLM3dVbFJpUmc5R3VWOU9sTmZwRklickNuZDJRT2h3YVlXT19wRUtrTGFVTXdsendQODVISEU2dkR2STRYSXVHQXJQZVJSdVhZbDdyU3lQcWluTTQ3UXRaamh2aVdHZVV6RmQxRlljTzY0cXNHU0M5ZWdsVm9JbWFOdTdCN1hFZF9DOW84?oc=5"
   ]
  ]
 }
