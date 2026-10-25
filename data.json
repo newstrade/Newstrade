@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T02:45:18.343Z",
+ "updated": "2026-10-25T03:46:37.473Z",
  "events": [
   {
    "iso": "2026-10-19T08:30:00-04:00",
@@ -235,17 +235,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80842.79,
-   "ch": 0.09,
-   "asof": "2026-10-25T02:45:16.000Z"
+   "p": 80803.5,
+   "ch": 0.04,
+   "asof": "2026-10-25T03:46:31.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2364.07,
-   "ch": 0.35,
-   "asof": "2026-10-25T02:45:06.000Z"
+   "p": 2359.9,
+   "ch": 0.18,
+   "asof": "2026-10-25T03:46:33.000Z"
   },
   {
    "s": "S&P 500",
@@ -315,17 +315,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 102.36,
-   "ch": 0.09,
-   "asof": "2026-10-25T02:45:16.000Z"
+   "p": 102.34,
+   "ch": 0.07,
+   "asof": "2026-10-25T03:46:36.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3084,
-   "ch": 0.77,
-   "asof": "2026-10-25T02:45:02.000Z"
+   "p": 1.3101,
+   "ch": 0.9,
+   "asof": "2026-10-25T03:46:14.000Z"
   },
   {
    "s": "Apple",
@@ -377,17 +377,17 @@
   ],
   [
    "Crypto",
-   "high",
-   "Bitcoin Faces Make-or-Break Weekend as Market Crash Fears Grow",
+   "med",
+   "Bitcoin Price on Its 18th Birthday: Here's What History Predicts for BTC",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTkUwU1JWR212NHV1M0loaUpEcnloQmJnVGlvWTV6MUxwR3VFdEFlcGVvOVFIelR4cXlBLUt5c2xlaFp6N1Z3WDVILWdzYVhteXpxN3lydUJvV0pXZjJpZklIaU1ZZGlUM2Iwd2FyMUExQzVzWEV3SFZ2ODFydHBpWXFfY2xUQ1BvbktlTkFya19jZ2lqNkhIaW9obW80R0ND?oc=5"
+   "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTjJBcVI4dDU1eFh5NDFFQjFYZ2pxVXFyUnU2Ni12M0tIb2xmY2NHUXZEVF92YkxWYUNsTHB0SVVxZHZBWl96dUZXOHBxb1RFSHlTQ0FCZDM3eUtfb05zT3pNX2tRRjlSZ08yMWJael9vaGJyNDdHQ1JnSVItR3J1X0VURXFjQ2QxUmRzQUNVTDBoSGNiYzZ1RGJYSUwxQnc?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
+   "With Disruption on Every Side, Food Markets Are Somehow Eerily Quiet | Climate & Energy for Oct. 22",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5"
+   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONFk4RnZnbE9OY01MRlI0d0htSlBHQmxhajR3bWppWDAyd29IRXBsT1loNmo4YkdMRm5xdFVhZ2JDT1hVemxLREhLcUgtckVWa2FXWlE2OFNJVDNkOWlkNG54QnJuOUR1b3FHQUlSalNGY0JZcVV5bnRjZmUzSzZ6eGpwY0w4VjN5SGY2dzhpVmxoeUREOGRraDBGLUotV1NEYkxQZXd4a2t6ZjJ0OS1qUXhQZnlTSzB3ZmxtNEtlYWF5UQ?oc=5"
   ],
   [
    "Stocks",
@@ -406,9 +406,9 @@
   [
    "Commodities",
    "med",
-   "Fuel Oil Becomes Asia's Next Cost Shock",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM2hKMUJuYjJfamtkTGdCUkJUMElXLWZFVW5ZNkhaU3RfMkdMaDdndnBHZnFWaks1YjE3TkRhaDlXOE43RW5NRHNncXpqT2RLd2VJNW5lRHdXMjRlTm5MeEl5UGpETlE3SWdhVVFjUHFjLUNqekdVcU9MMy1GVW5jbVFvM3k1Si00RzQxU0130gGOAUFVX3lxTE0zaEoxQm5iMl9qa2RMZ0JSQlQwSVctZkVVblk2SFpTdF8yR0xoN2d2cEdmcVZqSzViMTdORGFoOVc4TjdFbk1Ec2dxempPZEt3ZUk1bmVEd1cyNGVObkx4SXlQakROUTdJZ2FVUWNQcWMtQ2p6R1VxT0wzLUZVbmNtUW8zeTVKLTRHNDFTTXc?oc=5"
+   "Gold Price Canada Today | Live Gold Price in CAD",
+   "Kitco",
+   "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5"
   ]
  ]
 }
