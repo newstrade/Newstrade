@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T09:44:35.881Z",
+ "updated": "2026-10-25T10:43:45.770Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80155.03,
-   "ch": -0.76,
-   "asof": "2026-10-25T09:44:30.000Z"
+   "p": 80215.5,
+   "ch": -0.69,
+   "asof": "2026-10-25T10:43:42.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2323.98,
-   "ch": -1.35,
-   "asof": "2026-10-25T09:44:30.000Z"
+   "p": 2324.93,
+   "ch": -1.31,
+   "asof": "2026-10-25T10:43:36.000Z"
   },
   {
    "s": "S&P 500",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 100.6,
-   "ch": -1.63,
-   "asof": "2026-10-25T09:44:32.000Z"
+   "p": 100.67,
+   "ch": -1.56,
+   "asof": "2026-10-25T10:43:36.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2891,
-   "ch": -0.72,
-   "asof": "2026-10-25T09:44:05.000Z"
+   "p": 1.2913,
+   "ch": -0.55,
+   "asof": "2026-10-25T10:43:32.000Z"
   },
   {
    "s": "Apple",
@@ -502,23 +502,23 @@
   [
    "Crypto",
    "med",
-   "Bitcoin price news: BTC falls below $80,000 on renewed Middle East worries",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY2t0UU51ZnVfTTRnQm16dnpFQjY5SVl5MEg4eW5iU1YwYXF2NFRTUlUyMWxNWHlxc2xQdm1rS3k3YkFpVEhoSXhFRFJwQlRRVFBsTl9jNmY4SnZsR0tTUk9fZDI1ZXZ1dE5sdGdxbE8zajZOXzI5ZW1qbjZqYlpOR2hfUFNYYkUxTHZxUG1mcGhtMURUM294ZDhUdGk4R01FY2xRemxMWnVmS0ttOHFkWGdrYVBxSkE4b1VqS1hDRmVOdV8xM1FBTHpWS2hsVUo2?oc=5"
+   "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHZ6VVBXaDh1SXE5ZTBFa3pJS2ExLWR4b1FFWVJVNlJqRThrWGlxRlVZd0ZKaEhlSnJKMGNPaktXODdmZFR2aWl3WUFlOXNMczFkNXN2SXktQWhvLVJEOFhSaHVaRU96NDlNVWZGdi1mRGo1NHFuSFJKQm1MRHg2NE5jbFVGOTEwd0NRRloxQTd1NlhydW9YaW8zMlRNcFNkVUtpeUNwUDM5MnBNYlozYUVDUQ?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Meet the Ultra-High-Yield Dividend Stock That Has Doubled the S&P 500's Returns This Year",
+   "3 AI Stocks That Can Beat the Nasdaq Composite in 2027",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWRvdkEwRWJIUjkzRjF5Nkd1aC1NNTVoMDVLZjlwWVgtTUJ3ZkJ1NGVfb1ZPcFNMTFR4NUlQVGd2LUFET1l6SnpKOHczY2F6X1IyWXNtUmNRU2FBRGwwWXllVWpNWWM4YUhuYkM0OUxPMWJBVENBZVNVSy1JSXZxQWZ3UWNxT3FqVndheEctYVBpekMyQ1ZKdllBZw?oc=5"
+   "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZWNJdW9yelBsTWJlWndkUzlxS3ZNZFpOWC1tZ2R4OE52bklTUkR0LXFIa0N3cmZSSUhDSEJRY2RpQlFfWVAwT1AtN0VUZmltMENOYXlFbVJDeVVfNVRWbDhnQXNZWUl1X1VCUDZxQ28xMTNyb3B3el9qQTdHZklvR1ZvME9JU0Vjdnh6UVFzeEE?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
+   "SK Hynix Pauses IPO of Memory-Chip Unit as AI Valuation Fears Mount",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWE9EOHNwRFRHSUJvQzhaNTByNHIxdFVEM3JVbEFsUXpQdDQzQ1lsaVpBYmRHdWlVTVhVZG5rWG0yMzIyU3ZCcGlSZ2VaRmlOWlJ3Z0ZfUzJ6bWFRWFdOcWR0Q2hRall5YzZ3ZUFmanNWaHo0WkFSMnQ1LXRvX2lLUGp5U2x3bC1ZVXdtd3EwcjZTZGxLYUNXMWt3TDNDcVhmM0dv?oc=5"
   ],
   [
    "Commodities",
