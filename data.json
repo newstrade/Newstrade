@@ -1,184 +1,301 @@
 {
- "updated": "2026-10-25T03:46:37.473Z",
+ "updated": "2026-10-25T04:45:26.477Z",
  "events": [
   {
-   "iso": "2026-10-19T08:30:00-04:00",
-   "tag": "CAD",
-   "imp": "high",
-   "name": "CPI m/m",
-   "fc": "0.2%",
-   "prev": "-0.1%",
-   "act": ""
-  },
-  {
-   "iso": "2026-10-19T08:30:00-04:00",
-   "tag": "CAD",
-   "imp": "high",
-   "name": "Median CPI y/y",
-   "fc": "2.0%",
-   "prev": "2.0%",
-   "act": ""
-  },
-  {
-   "iso": "2026-10-19T08:30:00-04:00",
-   "tag": "CAD",
-   "imp": "high",
-   "name": "Trimmed CPI y/y",
-   "fc": "1.9%",
-   "prev": "1.9%",
-   "act": ""
-  },
-  {
-   "iso": "2026-10-19T08:30:00-04:00",
-   "tag": "CAD",
+   "iso": "2026-10-27T10:00:00-04:00",
+   "tag": "USD",
    "imp": "med",
-   "name": "Common CPI y/y",
-   "fc": "2.6%",
-   "prev": "2.6%",
+   "name": "CB Consumer Confidence",
+   "fc": "80.5",
+   "prev": "81.9",
    "act": ""
   },
   {
-   "iso": "2026-10-20T02:00:00-04:00",
-   "tag": "GBP",
+   "iso": "2026-10-27T20:15:00-04:00",
+   "tag": "AUD",
    "imp": "med",
-   "name": "Average Earnings Index 3m/y",
-   "fc": "3.8%",
-   "prev": "3.9%",
-   "act": ""
-  },
-  {
-   "iso": "2026-10-21T02:00:00-04:00",
-   "tag": "GBP",
-   "imp": "high",
-   "name": "CPI y/y",
-   "fc": "3.4%",
-   "prev": "3.1%",
-   "act": ""
-  },
-  {
-   "iso": "2026-10-21T09:00:00-04:00",
-   "tag": "GBP",
-   "imp": "med",
-   "name": "BOE Gov Bailey Speaks",
+   "name": "RBA Gov Bullock Speaks",
    "fc": "",
    "prev": "",
    "act": ""
   },
   {
-   "iso": "2026-10-21T17:45:00-04:00",
+   "iso": "2026-10-27T20:30:00-04:00",
+   "tag": "AUD",
+   "imp": "high",
+   "name": "CPI m/m",
+   "fc": "0.7%",
+   "prev": "0.4%",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-27T20:30:00-04:00",
+   "tag": "AUD",
+   "imp": "high",
+   "name": "CPI y/y",
+   "fc": "4.2%",
+   "prev": "4.0%",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-27T20:30:00-04:00",
+   "tag": "AUD",
+   "imp": "high",
+   "name": "Trimmed Mean CPI m/m",
+   "fc": "0.3%",
+   "prev": "0.2%",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-27T21:00:00-04:00",
    "tag": "NZD",
    "imp": "high",
-   "name": "CPI q/q",
-   "fc": "0.8%",
+   "name": "Official Cash Rate",
+   "fc": "3.00%",
+   "prev": "2.75%",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-27T21:00:00-04:00",
+   "tag": "NZD",
+   "imp": "high",
+   "name": "RBNZ Rate Statement",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-27T22:00:00-04:00",
+   "tag": "NZD",
+   "imp": "high",
+   "name": "RBNZ Press Conference",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-28T08:30:00-04:00",
+   "tag": "GBP",
+   "imp": "high",
+   "name": "Annual Budget Release",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-28T08:30:00-04:00",
+   "tag": "GBP",
+   "imp": "med",
+   "name": "Autumn Forecast Statement",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-28T09:45:00-04:00",
+   "tag": "CAD",
+   "imp": "high",
+   "name": "BOC Monetary Policy Report",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-28T09:45:00-04:00",
+   "tag": "CAD",
+   "imp": "high",
+   "name": "BOC Rate Statement",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-28T09:45:00-04:00",
+   "tag": "CAD",
+   "imp": "high",
+   "name": "Overnight Rate",
+   "fc": "2.50%",
+   "prev": "2.25%",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-28T10:30:00-04:00",
+   "tag": "CAD",
+   "imp": "high",
+   "name": "BOC Press Conference",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-28T14:00:00-04:00",
+   "tag": "USD",
+   "imp": "high",
+   "name": "Federal Funds Rate",
+   "fc": "4.00%",
+   "prev": "4.00%",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-28T14:00:00-04:00",
+   "tag": "USD",
+   "imp": "high",
+   "name": "FOMC Statement",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-28T14:30:00-04:00",
+   "tag": "USD",
+   "imp": "high",
+   "name": "FOMC Press Conference",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-29T08:30:00-04:00",
+   "tag": "USD",
+   "imp": "high",
+   "name": "Advance GDP q/q",
+   "fc": "3.2%",
    "prev": "1.5%",
    "act": ""
   },
   {
-   "iso": "2026-10-22T08:30:00-04:00",
+   "iso": "2026-10-29T08:30:00-04:00",
+   "tag": "USD",
+   "imp": "high",
+   "name": "Core PCE Price Index m/m",
+   "fc": "0.3%",
+   "prev": "0.2%",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-29T08:30:00-04:00",
+   "tag": "USD",
+   "imp": "med",
+   "name": "Advance GDP Price Index q/q",
+   "fc": "3.5%",
+   "prev": "6.2%",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-29T08:30:00-04:00",
    "tag": "USD",
    "imp": "med",
    "name": "Unemployment Claims",
-   "fc": "200K",
-   "prev": "199K",
+   "fc": "198K",
+   "prev": "194K",
    "act": ""
   },
   {
-   "iso": "2026-10-23T02:00:00-04:00",
-   "tag": "GBP",
-   "imp": "med",
-   "name": "Retail Sales m/m",
-   "fc": "-0.1%",
-   "prev": "0.5%",
-   "act": ""
-  },
-  {
-   "iso": "2026-10-23T03:15:00-04:00",
+   "iso": "2026-10-29T09:15:00-04:00",
    "tag": "EUR",
-   "imp": "med",
-   "name": "French Flash Manufacturing PMI",
-   "fc": "50.5",
-   "prev": "50.3",
+   "imp": "high",
+   "name": "Main Refinancing Rate",
+   "fc": "2.65%",
+   "prev": "2.65%",
    "act": ""
   },
   {
-   "iso": "2026-10-23T03:15:00-04:00",
+   "iso": "2026-10-29T09:15:00-04:00",
    "tag": "EUR",
-   "imp": "med",
-   "name": "French Flash Services PMI",
-   "fc": "50.7",
-   "prev": "51.4",
-   "act": ""
-  },
-  {
-   "iso": "2026-10-23T03:30:00-04:00",
-   "tag": "EUR",
-   "imp": "med",
-   "name": "German Flash Manufacturing PMI",
-   "fc": "53.5",
-   "prev": "53.8",
-   "act": ""
-  },
-  {
-   "iso": "2026-10-23T03:30:00-04:00",
-   "tag": "EUR",
-   "imp": "med",
-   "name": "German Flash Services PMI",
-   "fc": "52.5",
-   "prev": "52.9",
-   "act": ""
-  },
-  {
-   "iso": "2026-10-23T04:30:00-04:00",
-   "tag": "GBP",
-   "imp": "med",
-   "name": "Flash Manufacturing PMI",
-   "fc": "51.8",
-   "prev": "52.0",
-   "act": ""
-  },
-  {
-   "iso": "2026-10-23T04:30:00-04:00",
-   "tag": "GBP",
-   "imp": "med",
-   "name": "Flash Services PMI",
-   "fc": "51.8",
-   "prev": "51.7",
-   "act": ""
-  },
-  {
-   "iso": "2026-10-23T09:45:00-04:00",
-   "tag": "USD",
-   "imp": "med",
-   "name": "Flash Manufacturing PMI",
-   "fc": "55.4",
-   "prev": "57.0",
-   "act": ""
-  },
-  {
-   "iso": "2026-10-23T09:45:00-04:00",
-   "tag": "USD",
-   "imp": "med",
-   "name": "Flash Services PMI",
-   "fc": "57.9",
-   "prev": "58.7",
-   "act": ""
-  },
-  {
-   "iso": "2026-10-23T10:00:00-04:00",
-   "tag": "USD",
-   "imp": "med",
-   "name": "Revised UoM Consumer Sentiment",
-   "fc": "46.3",
-   "prev": "46.3",
-   "act": ""
-  },
-  {
-   "iso": "2026-10-23T10:00:00-04:00",
-   "tag": "USD",
-   "imp": "med",
-   "name": "Revised UoM Inflation Expectations",
+   "imp": "high",
+   "name": "Monetary Policy Statement",
    "fc": "",
-   "prev": "4.7%",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-29T09:45:00-04:00",
+   "tag": "EUR",
+   "imp": "high",
+   "name": "ECB Press Conference",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-29T19:30:00-04:00",
+   "tag": "JPY",
+   "imp": "med",
+   "name": "Tokyo Core CPI y/y",
+   "fc": "2.6%",
+   "prev": "2.7%",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-29T22:30:00-04:00",
+   "tag": "JPY",
+   "imp": "high",
+   "name": "BOJ Policy Rate",
+   "fc": "<1.25%",
+   "prev": "<1.25%",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-29T22:30:00-04:00",
+   "tag": "JPY",
+   "imp": "high",
+   "name": "Monetary Policy Statement",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-29T22:31:00-04:00",
+   "tag": "JPY",
+   "imp": "high",
+   "name": "BOJ Outlook Report",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-30T01:30:00-04:00",
+   "tag": "JPY",
+   "imp": "high",
+   "name": "BOJ Press Conference",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-30T02:29:00-04:00",
+   "tag": "EUR",
+   "imp": "med",
+   "name": "German Prelim CPI m/m",
+   "fc": "0.1%",
+   "prev": "0.6%",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-30T05:00:00-04:00",
+   "tag": "EUR",
+   "imp": "med",
+   "name": "German Prelim GDP q/q",
+   "fc": "0.1%",
+   "prev": "0.2%",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-30T08:30:00-04:00",
+   "tag": "CAD",
+   "imp": "med",
+   "name": "GDP m/m",
+   "fc": "0.2%",
+   "prev": "0.0%",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-30T08:30:00-04:00",
+   "tag": "USD",
+   "imp": "med",
+   "name": "Employment Cost Index q/q",
+   "fc": "0.8%",
+   "prev": "0.9%",
    "act": ""
   }
  ],
@@ -235,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80803.5,
-   "ch": 0.04,
-   "asof": "2026-10-25T03:46:31.000Z"
+   "p": 80825.89,
+   "ch": 0.07,
+   "asof": "2026-10-25T04:45:23.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2359.9,
-   "ch": 0.18,
-   "asof": "2026-10-25T03:46:33.000Z"
+   "p": 2365.43,
+   "ch": 0.41,
+   "asof": "2026-10-25T04:45:21.000Z"
   },
   {
    "s": "S&P 500",
@@ -315,9 +432,9 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 102.34,
-   "ch": 0.07,
-   "asof": "2026-10-25T03:46:36.000Z"
+   "p": 102.54,
+   "ch": 0.26,
+   "asof": "2026-10-25T04:45:16.000Z"
   },
   {
    "s": "XRP",
@@ -325,7 +442,7 @@
    "d": 4,
    "p": 1.3101,
    "ch": 0.9,
-   "asof": "2026-10-25T03:46:14.000Z"
+   "asof": "2026-10-25T04:45:22.000Z"
   },
   {
    "s": "Apple",
@@ -392,9 +509,9 @@
   [
    "Stocks",
    "med",
-   "Before You Buy the Vanguard S&P 500 ETF, There's 1 Sneaky Risk Investors Should Know",
+   "Prediction: The Stock Market Will Soar After Midterm Elections",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikAFBVV95cUxOellkTWRVUld5cVJrVnZTOTFMNTE1ZmFweENDbHhEeXJrYXVTZWVyWDNDZ3VfRG82YXNGa2haMGJVQzltV3BMSllmdm1YODg5eEdpZE5YLXRYeFFoU0lVQnhRdXg5NGktSlRJV0RuVERTY3VwNDdYLVl1Y20xV0M2MEhNa0d2RWkwNjR5cUpsUzY?oc=5"
+   "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbnk3MGlfamUxQlpHU1FlTDhyME9QYXVsU0J3VVFrZFlzT2E4NElsN0V5b0p6WDVKUGJsdWs2VjZrZXBjSHBWUHprcXpkUHBaMWxZUTJHWmdTcmh6cy1mVk93cm0yN1JPRzNubXZ4VGJ6VGIzV3NIUGtoeE9rTFRmUHQwVVQzNGhaV1Bnei1zcXZ3UzF4U2dndnJVYlAwM09fbWlB?oc=5"
   ],
   [
    "Commodities",
@@ -406,9 +523,9 @@
   [
    "Commodities",
    "med",
-   "Gold Price Canada Today | Live Gold Price in CAD",
-   "Kitco",
-   "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5"
+   "Fuel Oil Becomes Asia's Next Cost Shock",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM2hKMUJuYjJfamtkTGdCUkJUMElXLWZFVW5ZNkhaU3RfMkdMaDdndnBHZnFWaks1YjE3TkRhaDlXOE43RW5NRHNncXpqT2RLd2VJNW5lRHdXMjRlTm5MeEl5UGpETlE3SWdhVVFjUHFjLUNqekdVcU9MMy1GVW5jbVFvM3k1Si00RzQxU0130gGOAUFVX3lxTE0zaEoxQm5iMl9qa2RMZ0JSQlQwSVctZkVVblk2SFpTdF8yR0xoN2d2cEdmcVZqSzViMTdORGFoOVc4TjdFbk1Ec2dxempPZEt3ZUk1bmVEd1cyNGVObkx4SXlQakROUTdJZ2FVUWNQcWMtQ2p6R1VxT0wzLUZVbmNtUW8zeTVKLTRHNDFTTXc?oc=5"
   ]
  ]
 }
