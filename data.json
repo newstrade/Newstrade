@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T06:55:45.977Z",
+ "updated": "2026-10-25T07:46:52.841Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80396.96,
-   "ch": -0.46,
-   "asof": "2026-10-25T06:55:39.000Z"
+   "p": 80595.21,
+   "ch": -0.22,
+   "asof": "2026-10-25T07:46:49.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2338.01,
-   "ch": -0.75,
-   "asof": "2026-10-25T06:55:38.000Z"
+   "p": 2346.87,
+   "ch": -0.38,
+   "asof": "2026-10-25T07:46:44.000Z"
   },
   {
    "s": "S&P 500",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 101.25,
-   "ch": -1,
-   "asof": "2026-10-25T06:55:39.000Z"
+   "p": 101.71,
+   "ch": -0.55,
+   "asof": "2026-10-25T07:46:43.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2943,
-   "ch": -0.32,
-   "asof": "2026-10-25T06:55:41.000Z"
+   "p": 1.3023,
+   "ch": 0.3,
+   "asof": "2026-10-25T07:46:50.000Z"
   },
   {
    "s": "Apple",
@@ -488,23 +488,23 @@
   [
    "Crypto",
    "med",
+   "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHZ6VVBXaDh1SXE5ZTBFa3pJS2ExLWR4b1FFWVJVNlJqRThrWGlxRlVZd0ZKaEhlSnJKMGNPaktXODdmZFR2aWl3WUFlOXNMczFkNXN2SXktQWhvLVJEOFhSaHVaRU96NDlNVWZGdi1mRGo1NHFuSFJKQm1MRHg2NE5jbFVGOTEwd0NRRloxQTd1NlhydW9YaW8zMlRNcFNkVUtpeUNwUDM5MnBNYlozYUVDUQ?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
    "Bitcoin price news: BTC falls below $80,000 on renewed Middle East worries",
    "CoinDesk",
    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY2t0UU51ZnVfTTRnQm16dnpFQjY5SVl5MEg4eW5iU1YwYXF2NFRTUlUyMWxNWHlxc2xQdm1rS3k3YkFpVEhoSXhFRFJwQlRRVFBsTl9jNmY4SnZsR0tTUk9fZDI1ZXZ1dE5sdGdxbE8zajZOXzI5ZW1qbjZqYlpOR2hfUFNYYkUxTHZxUG1mcGhtMURUM294ZDhUdGk4R01FY2xRemxMWnVmS0ttOHFkWGdrYVBxSkE4b1VqS1hDRmVOdV8xM1FBTHpWS2hsVUo2?oc=5"
   ],
   [
-   "Crypto",
-   "med",
-   "Bitcoin Price on Its 18th Birthday: Here's What History Predicts for BTC",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTjJBcVI4dDU1eFh5NDFFQjFYZ2pxVXFyUnU2Ni12M0tIb2xmY2NHUXZEVF92YkxWYUNsTHB0SVVxZHZBWl96dUZXOHBxb1RFSHlTQ0FCZDM3eUtfb05zT3pNX2tRRjlSZ08yMWJael9vaGJyNDdHQ1JnSVItR3J1X0VURXFjQ2QxUmRzQUNVTDBoSGNiYzZ1RGJYSUwxQnc?oc=5"
-  ],
-  [
    "Stocks",
    "med",
-   "With Disruption on Every Side, Food Markets Are Somehow Eerily Quiet | Climate & Energy for Oct. 22",
+   "The Earnings Boom Is Heavily Reliant on Just a Handful of Stocks",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONFk4RnZnbE9OY01MRlI0d0htSlBHQmxhajR3bWppWDAyd29IRXBsT1loNmo4YkdMRm5xdFVhZ2JDT1hVemxLREhLcUgtckVWa2FXWlE2OFNJVDNkOWlkNG54QnJuOUR1b3FHQUlSalNGY0JZcVV5bnRjZmUzSzZ6eGpwY0w4VjN5SGY2dzhpVmxoeUREOGRraDBGLUotV1NEYkxQZXd4a2t6ZjJ0OS1qUXhQZnlTSzB3ZmxtNEtlYWF5UQ?oc=5"
+   "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaHhLUi1IeDVOLXZPSmlYYVpxRnZDUVBiMDRTTUdtMnQxRE5DcEUyenlyaWhZWXdfVno3ZU5FUzZUYkg4ODVlY0VDV0hneFdYUG1nX090Wml0dmk4b2NBM2k2QzA2VV9FNUVtM2lVczJGbjc2c3EyVmN2LVVGeUh0ZXllRnMxaUFfcVIyQmVuYXVPVGROeEk4akxUbmxKcElHUXU4eE42TFBwdkVj?oc=5"
   ],
   [
    "Stocks",
