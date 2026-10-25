@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T11:42:59.813Z",
+ "updated": "2026-10-25T12:52:20.962Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80345.05,
+   "p": 80345.4,
    "ch": -0.53,
-   "asof": "2026-10-25T11:42:57.000Z"
+   "asof": "2026-10-25T12:52:18.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2329.94,
-   "ch": -1.1,
-   "asof": "2026-10-25T11:42:56.000Z"
+   "p": 2331.51,
+   "ch": -1.03,
+   "asof": "2026-10-25T12:52:09.000Z"
   },
   {
    "s": "S&P 500",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 100.81,
-   "ch": -1.43,
-   "asof": "2026-10-25T11:42:49.000Z"
+   "p": 100.9,
+   "ch": -1.34,
+   "asof": "2026-10-25T12:52:15.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2939,
-   "ch": -0.35,
-   "asof": "2026-10-25T11:42:52.000Z"
+   "p": 1.2961,
+   "ch": -0.18,
+   "asof": "2026-10-25T12:51:52.000Z"
   },
   {
    "s": "Apple",
@@ -488,9 +488,9 @@
   [
    "Forex",
    "med",
-   "Israeli central bank rejects Benjamin Netanyahu’s plan to use crypto to evade sanctions",
-   "Financial Times",
-   "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUo3Rnllc2dMYUJwa2U1anpZUEVrbTZzNy1vWU5mZ005ZVJtUGJ3Rzl6Y1NodkZhNGNmYUxEQ3g1dU10WTJZNVVOOWRuU0gySlIxVm9qQ1pYZ2RfMEt0WHRIbnR6NWhrVENjRlhvRjlzZkxLQUoyOFVpRzFXcTItdmNtNWQ?oc=5"
+   "Japan is not out of room to defend the yen despite busy 2026 intervention year",
+   "investingLive",
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdWdDcXY3MURMdjVaV29WclZ4czBNbHhBOE5DRFNneGVhNy0xZFFaV2NrMHNnZng0d0xfZUFBTlhrZ2pLY0ZUMlB6QmFlQVpSMXl6Y1d6VDVlSF9XRkpreDJYenRYaHljeWZzUHVYWUd2a1BKYkF1OFVHOEdwb0k2bDJGNmg1NGREMlhyX0VKOFNwSERZU2V3TkhnQmEwSm00SFlXc2FSZDVOQ2JpQnBsYg?oc=5"
   ],
   [
    "Crypto",
@@ -502,9 +502,9 @@
   [
    "Crypto",
    "med",
-   "JPMorgan projects 10% annual Bitcoin returns over the next decade — but won't recommend buying it",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU3EtWnZ6WHo2Zm83emc4RklNdVE1d3RYUWxYbUhvczVlQzRIajRxOTdKTnpPTXkwajUya0ZvWWFjY3VoSDlxRkxvdGVWbkxvZGxVNXZPUUt5ZWVkYjIzS214NmFmVm9CM052UnFOZE8yLUFmcEw2aGdlcmwwUTNIODlfZmVZd0hLajJUS0xORHVmMzNJejdRMTZJWDhHQURhS0E?oc=5"
+   "Netanyahu rebuked for plan to use crypto to bypass economic sanctions",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEZIYi1YYkZXSDlUeWN0cUgzdzdudTFUNlF5bHE1eVM4Z1NZeUFxVWZrVXp3d0N1dnRRWU5iYzZSc3J5QlJiQ3c4bllDUXFJcFFFdjNGeTFPbGhxc2VRZjYzV1dLSmtKX2JqQlpfd2U4RTFmWUhoRGFtVUVtVWRSc0NBZjc0NjhUdUVLNmM2dDVBYUxLOWRob3BwWkY2bnBKSlhnSGc0aXVfTEZ5RjBsTDJ3?oc=5"
   ],
   [
    "Stocks",
@@ -516,9 +516,9 @@
   [
    "Stocks",
    "med",
-   "Trump Must Sit for Deposition in BBC Lawsuit, Judge Orders",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWwyM1NZZ21aY011bTEtVnU0dVYxOWlFTnQ0bmFQRi1GOUo2UGtiVTlSSFRJRTQ3S3ZFWFVpTGNLcnNEZ05tRkNoY2RXeGEycW5hdHVvQk0tVnE5cDlZMHZPelR4Z2k5bm1raGlnS19sQ3c4UnlxMjJySF9oYW50eDh4SUtPbGc5MjBlWTBpN1ZtWmxydmR3NFM3bw?oc=5"
+   "Why economic health no longer dictates stock-market returns",
+   "MarketWatch",
+   "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmdRa3dCZW9HRGI2b2JEQmxqRm5CcGxrZUxHUWpmMDZueW45NUVGM21QYzU0d0dWa0ZTX1RxbnNuajZHWDRpeDZqWWU4SWxRX1FJUXRhRzNLZVY0Z1N0Mks3NDlqZ2w2eFpOdkVuY1g0ZmplTjFOWFFXM1Frc3J1WXQwMFdlak9SYWJYZjZpMWFFa0V6ejlKU3VkQjdPWlNRRUU0Yw?oc=5"
   ],
   [
    "Commodities",
