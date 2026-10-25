@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T20:41:45.498Z",
+ "updated": "2026-10-25T21:42:50.691Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1218,
-   "ch": -0.04,
-   "asof": "2026-10-25T19:20:43.000Z"
+   "p": 1.1222,
+   "ch": 0,
+   "asof": "2026-10-25T21:42:46.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3382,
-   "ch": -0.1,
-   "asof": "2026-10-25T20:40:45.000Z"
+   "p": 1.3366,
+   "ch": -0.22,
+   "asof": "2026-10-25T21:42:46.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 156.834,
-   "ch": 0.04,
-   "asof": "2026-10-25T20:05:01.000Z"
+   "p": 157.028,
+   "ch": 0.16,
+   "asof": "2026-10-25T21:42:49.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.703,
-   "ch": 0.16,
-   "asof": "2026-10-25T20:40:45.000Z"
+   "p": 0.7038,
+   "ch": 0.27,
+   "asof": "2026-10-25T21:42:46.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4041,
-   "ch": 0.25,
-   "asof": "2026-10-25T20:41:28.000Z"
+   "p": 1.4035,
+   "ch": 0.21,
+   "asof": "2026-10-25T21:42:46.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8234,
-   "ch": 0.44,
-   "asof": "2026-10-25T20:40:00.000Z"
+   "p": 0.8241,
+   "ch": 0.52,
+   "asof": "2026-10-25T21:42:49.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80432.1,
-   "ch": -0.42,
-   "asof": "2026-10-25T20:41:42.000Z"
+   "p": 80307.12,
+   "ch": -0.57,
+   "asof": "2026-10-25T21:42:45.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2346.18,
-   "ch": -0.41,
-   "asof": "2026-10-25T20:41:40.000Z"
+   "p": 2335.08,
+   "ch": -0.88,
+   "asof": "2026-10-25T21:42:45.000Z"
   },
   {
    "s": "S&P 500",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5802,
-   "ch": 0.63,
-   "asof": "2026-10-25T20:02:06.000Z"
+   "p": 16.57,
+   "ch": 0.57,
+   "asof": "2026-10-25T21:30:24.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 101.63,
-   "ch": -0.63,
-   "asof": "2026-10-25T20:41:44.000Z"
+   "p": 101.24,
+   "ch": -1.01,
+   "asof": "2026-10-25T21:42:46.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2984,
-   "ch": 0,
-   "asof": "2026-10-25T20:41:28.000Z"
+   "p": 1.2954,
+   "ch": -0.24,
+   "asof": "2026-10-25T21:42:48.000Z"
   },
   {
    "s": "Apple",
@@ -481,9 +481,9 @@
   [
    "Forex",
    "med",
-   "EUR/USD (EURUSD=X) live rate, chart and news",
-   "Yahoo Finance UK",
-   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MVm5mak5jUHN2V1ktajNpZjdHRjVKUlFWLTZsTWtROWp6M2xWU2xaM3Y2NHZOVDRKLXl6UkxaYmJJeVFsQ3dsWUE1Mmlsa2tCNkNZaEJseTF5Zw?oc=5"
+   "Monday open indicative forex prices, 26 October 2026",
+   "investingLive",
+   "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSXdVRmN6dFh3dHlMNzR3NllnVU5fWl9KdTFEN3dSUlI3dWpxR0kyRXgwZlFoVy0wUmc5SXNWLWdyaUllMU1JRy1ZcUYwT1FXa182NlRMa3JWTGVFMFNteGJsenhQenhaRWxGZVlvNDA2cndRbUxPU3UwdEpVb1hiTlEyLUE1cldEUzk5bQ?oc=5"
   ],
   [
    "Forex",
@@ -502,16 +502,9 @@
   [
    "Crypto",
    "med",
-   "NC woman lost all her savings at a gas-station bitcoin machine. A new law could force refunds — but not until January",
+   "What Will 10 Ethereum (ETH) Be Worth by 2030?",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeU52Y1NGT0Z6NjhqVVVJcjdjODVjZGlFMjUyWng0VkJtMEhadFdYNUZDVmlWdm5vLS1HZkhNTkdLc0ZMSHFOZDNzYU56UjJpbkNFVFUzcGQtV1JBVGxIRU5oSUhBb1Q5cUcySjZpcUcxY3BfQjN5ek1fNjVJR2k5bmxQUlBaX2FVYllqOElWTGtMUmNK?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Up 35%, How Long Can Coca-Cola Continue Crushing the S&P 500?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaWRZdXBZdXRIbF8xRlFhQjJvRlhGWWxmTXVUQzNzMThPaUZLTXpkN3VjZzRwYndYMjcxVXVMbFhrNmJROGt4Tm9CVGozTG91aXJyamE4YWVtUDRwZFFhcHl1NVVSNVB1aGZybTFkVERueS1jeVlIZ09UZFd2a3FWRzZMMGRKQkVxWC1lMm5mS0FrLUhkQ1E?oc=5"
+   "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWDBMcWtOc3hrWFkzX2plZmRqVFVzVmxVTmY4alVLdjJDREIxSHF0X2lsckQ0WFFaX3g3MEJ0TERhbG5fSjJiU3ZkWXJoQXV2V0l0WW1SZzFxa3JFU1FrcUpZZF80LVNkZEVhbm8zWm1xU0haYi1YdW9YNFNoZHlfbjhVQjh4dzI4dGZBZXk0cmdUTHFVUWc?oc=5"
   ],
   [
    "Stocks",
@@ -519,6 +512,13 @@
    "Here are 4 big things we're watching in the stock market this week",
    "CNBC",
    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWUdMX3FGQkxvTENaOUh4b1RLUlVDUWdhcGQ3Y0xXMkxOdlNEdmlaTXFVX0M5OXhYUDRBWUJlVlNoQjI1cFE3SXVEaWdxeXY0eTdWQ2VlaXRKck1Ha2xXWEs1ZkMtQmJva1dzTXVjNTZwM0JYZ3BTcnc4NTFSMHdnUjUtVG9BNVpzU0ZvR1RQQl9MLUhjNjZUQWNHeFRSODVNUHh6ZzluZVFfQURpeWRVSm5LOE4zTGc?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
+   "Up 35%, How Long Can Coca-Cola Continue Crushing the S&P 500?",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaWRZdXBZdXRIbF8xRlFhQjJvRlhGWWxmTXVUQzNzMThPaUZLTXpkN3VjZzRwYndYMjcxVXVMbFhrNmJROGt4Tm9CVGozTG91aXJyamE4YWVtUDRwZFFhcHl1NVVSNVB1aGZybTFkVERueS1jeVlIZ09UZFd2a3FWRzZMMGRKQkVxWC1lMm5mS0FrLUhkQ1E?oc=5"
   ],
   [
    "Commodities",
