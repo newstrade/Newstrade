@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T10:43:45.770Z",
+ "updated": "2026-10-25T11:42:59.813Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80215.5,
-   "ch": -0.69,
-   "asof": "2026-10-25T10:43:42.000Z"
+   "p": 80345.05,
+   "ch": -0.53,
+   "asof": "2026-10-25T11:42:57.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2324.93,
-   "ch": -1.31,
-   "asof": "2026-10-25T10:43:36.000Z"
+   "p": 2329.94,
+   "ch": -1.1,
+   "asof": "2026-10-25T11:42:56.000Z"
   },
   {
    "s": "S&P 500",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 100.67,
-   "ch": -1.56,
-   "asof": "2026-10-25T10:43:36.000Z"
+   "p": 100.81,
+   "ch": -1.43,
+   "asof": "2026-10-25T11:42:49.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2913,
-   "ch": -0.55,
-   "asof": "2026-10-25T10:43:32.000Z"
+   "p": 1.2939,
+   "ch": -0.35,
+   "asof": "2026-10-25T11:42:52.000Z"
   },
   {
    "s": "Apple",
@@ -495,30 +495,30 @@
   [
    "Crypto",
    "med",
-   "SEC Approves Leveraged Bitcoin and Ethereum Funds for Trading. But Are These ETFs Worth Buying?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcERwb1gtZDlLV2R2MFFHMDBOa29UZVFTVjFMaGxFNE53Wk55RUM2eGk3WUhxb0F0Q3hnUnRJV1B6LVR3Nzc3NEtndlh6ZG1RRm85T01VWF9TY3ZqaVM2czR1WlU2THExRUJDa3JwWHduTlBzeTRjQ1EtRFdqRUlOR1dOQUR0R1hZMEF3dW0wR3BCdmlmNTZqdTVucTNJQnFNQ1Ata3BvTQ?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
    "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions",
    "Bloomberg.com",
    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHZ6VVBXaDh1SXE5ZTBFa3pJS2ExLWR4b1FFWVJVNlJqRThrWGlxRlVZd0ZKaEhlSnJKMGNPaktXODdmZFR2aWl3WUFlOXNMczFkNXN2SXktQWhvLVJEOFhSaHVaRU96NDlNVWZGdi1mRGo1NHFuSFJKQm1MRHg2NE5jbFVGOTEwd0NRRloxQTd1NlhydW9YaW8zMlRNcFNkVUtpeUNwUDM5MnBNYlozYUVDUQ?oc=5"
   ],
   [
-   "Stocks",
+   "Crypto",
    "med",
-   "3 AI Stocks That Can Beat the Nasdaq Composite in 2027",
+   "JPMorgan projects 10% annual Bitcoin returns over the next decade — but won't recommend buying it",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZWNJdW9yelBsTWJlWndkUzlxS3ZNZFpOWC1tZ2R4OE52bklTUkR0LXFIa0N3cmZSSUhDSEJRY2RpQlFfWVAwT1AtN0VUZmltMENOYXlFbVJDeVVfNVRWbDhnQXNZWUl1X1VCUDZxQ28xMTNyb3B3el9qQTdHZklvR1ZvME9JU0Vjdnh6UVFzeEE?oc=5"
+   "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU3EtWnZ6WHo2Zm83emc4RklNdVE1d3RYUWxYbUhvczVlQzRIajRxOTdKTnpPTXkwajUya0ZvWWFjY3VoSDlxRkxvdGVWbkxvZGxVNXZPUUt5ZWVkYjIzS214NmFmVm9CM052UnFOZE8yLUFmcEw2aGdlcmwwUTNIODlfZmVZd0hLajJUS0xORHVmMzNJejdRMTZJWDhHQURhS0E?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "SK Hynix Pauses IPO of Memory-Chip Unit as AI Valuation Fears Mount",
+   "We're Witnessing the Stock Market Do Something for Only the 3rd Time in the Last 100 Years, and History Is Crystal Clear on What's Next for Stocks",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFp0VlhTd09jSU5WTjFiNU9HOW9VTjBrTlNsMkpKajktdmRiRmttOGxfS0JzdElJYzdrbF8yYUJtWDNmTV9NUEk2ejZzWHR0dFBhZk1VUHM2YkxnaDB2TmN4aXFnQVFYSktQdTFmc21HbFg5T0FMR05nNXJRQ3g3THhQejN0ZkttTzZMVDh5OTNFQlMyTUZOTTFOaHpPRkZGajZwR3dn?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
+   "Trump Must Sit for Deposition in BBC Lawsuit, Judge Orders",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWE9EOHNwRFRHSUJvQzhaNTByNHIxdFVEM3JVbEFsUXpQdDQzQ1lsaVpBYmRHdWlVTVhVZG5rWG0yMzIyU3ZCcGlSZ2VaRmlOWlJ3Z0ZfUzJ6bWFRWFdOcWR0Q2hRall5YzZ3ZUFmanNWaHo0WkFSMnQ1LXRvX2lLUGp5U2x3bC1ZVXdtd3EwcjZTZGxLYUNXMWt3TDNDcVhmM0dv?oc=5"
+   "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWwyM1NZZ21aY011bTEtVnU0dVYxOWlFTnQ0bmFQRi1GOUo2UGtiVTlSSFRJRTQ3S3ZFWFVpTGNLcnNEZ05tRkNoY2RXeGEycW5hdHVvQk0tVnE5cDlZMHZPelR4Z2k5bm1raGlnS19sQ3c4UnlxMjJySF9oYW50eDh4SUtPbGc5MjBlWTBpN1ZtWmxydmR3NFM3bw?oc=5"
   ],
   [
    "Commodities",
