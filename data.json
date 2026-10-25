@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T04:45:26.477Z",
+ "updated": "2026-10-25T05:43:22.612Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -330,7 +330,7 @@
    "d": 4,
    "p": 0.7038,
    "ch": 0.27,
-   "asof": "2026-10-24T21:30:42.000Z"
+   "asof": "2026-10-25T05:42:45.000Z"
   },
   {
    "s": "USD/CAD",
@@ -338,7 +338,7 @@
    "d": 4,
    "p": 1.4004,
    "ch": -0.01,
-   "asof": "2026-10-24T21:00:50.000Z"
+   "asof": "2026-10-25T05:21:14.000Z"
   },
   {
    "s": "USD/CHF",
@@ -346,23 +346,23 @@
    "d": 4,
    "p": 0.8241,
    "ch": 0.52,
-   "asof": "2026-10-24T21:40:20.000Z"
+   "asof": "2026-10-25T05:21:14.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80825.89,
-   "ch": 0.07,
-   "asof": "2026-10-25T04:45:23.000Z"
+   "p": 80509.91,
+   "ch": -0.32,
+   "asof": "2026-10-25T05:43:20.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2365.43,
-   "ch": 0.41,
-   "asof": "2026-10-25T04:45:21.000Z"
+   "p": 2350.55,
+   "ch": -0.22,
+   "asof": "2026-10-25T05:43:18.000Z"
   },
   {
    "s": "S&P 500",
@@ -418,7 +418,7 @@
    "d": 3,
    "p": 16.5804,
    "ch": 0.63,
-   "asof": "2026-10-24T21:00:20.000Z"
+   "asof": "2026-10-25T05:21:14.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 102.54,
-   "ch": 0.26,
-   "asof": "2026-10-25T04:45:16.000Z"
+   "p": 101.87,
+   "ch": -0.39,
+   "asof": "2026-10-25T05:43:19.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3101,
-   "ch": 0.9,
-   "asof": "2026-10-25T04:45:22.000Z"
+   "p": 1.3023,
+   "ch": 0.3,
+   "asof": "2026-10-25T05:43:10.000Z"
   },
   {
    "s": "Apple",
@@ -519,13 +519,6 @@
    "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
    "Crude Oil Prices Today | OilPrice.com",
    "https://news.google.com/rss/articles/CBMingFBVV95cUxORUF5TG56V3NCLUlWZDEwR1d1Z3J4bEtUSFh2eThCWW9QOTREd3pqX21CN3p1cGNwZTNWVDU5NW52NU1XdkNSNWVBbVo4N2dOZUZGM1o3M0FUUWNNelg2ekNySlVtMHJPVkxTd1lEQ0hxc0RyaFV4NjFBUFpuZ3U1cXBlbkowclJsNkRmVEtGcTNjR3lfZTB0U1FlU0Vsd9IBowFBVV95cUxNdDZ3cW15VlNTc1lKcW5UTi0weUFWMFdESWN0Z3IzR3hJbnBGWFlpM09YZ20wT0NFUkJROWJjTG1aVnJvZV9ZY1kzRzc5WTdwWk9yREljeE9wX0wxSzRwajQ4bUN3NUdaSThzLTBTSzNaZmVNcHljRlB2eFhkcFhBMFlVc2ZKWHBEbE01Z3lOX1ZqNkZsTDZiQnFRSEZKVGlVa3pZ?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Fuel Oil Becomes Asia's Next Cost Shock",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM2hKMUJuYjJfamtkTGdCUkJUMElXLWZFVW5ZNkhaU3RfMkdMaDdndnBHZnFWaks1YjE3TkRhaDlXOE43RW5NRHNncXpqT2RLd2VJNW5lRHdXMjRlTm5MeEl5UGpETlE3SWdhVVFjUHFjLUNqekdVcU9MMy1GVW5jbVFvM3k1Si00RzQxU0130gGOAUFVX3lxTE0zaEoxQm5iMl9qa2RMZ0JSQlQwSVctZkVVblk2SFpTdF8yR0xoN2d2cEdmcVZqSzViMTdORGFoOVc4TjdFbk1Ec2dxempPZEt3ZUk1bmVEd1cyNGVObkx4SXlQakROUTdJZ2FVUWNQcWMtQ2p6R1VxT0wzLUZVbmNtUW8zeTVKLTRHNDFTTXc?oc=5"
   ]
  ]
 }
