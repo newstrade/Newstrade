@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T08:45:37.028Z",
+ "updated": "2026-10-25T09:44:35.881Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80390.22,
-   "ch": -0.47,
-   "asof": "2026-10-25T08:45:31.000Z"
+   "p": 80155.03,
+   "ch": -0.76,
+   "asof": "2026-10-25T09:44:30.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2337.33,
-   "ch": -0.78,
-   "asof": "2026-10-25T08:45:28.000Z"
+   "p": 2323.98,
+   "ch": -1.35,
+   "asof": "2026-10-25T09:44:30.000Z"
   },
   {
    "s": "S&P 500",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 101.02,
-   "ch": -1.22,
-   "asof": "2026-10-25T08:45:35.000Z"
+   "p": 100.6,
+   "ch": -1.63,
+   "asof": "2026-10-25T09:44:32.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2966,
-   "ch": -0.14,
-   "asof": "2026-10-25T08:45:28.000Z"
+   "p": 1.2891,
+   "ch": -0.72,
+   "asof": "2026-10-25T09:44:05.000Z"
   },
   {
    "s": "Apple",
@@ -481,23 +481,30 @@
   [
    "Forex",
    "med",
+   "EUR/USD (EURUSD=X) live rate, chart and news",
+   "Yahoo Finance UK",
+   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MVm5mak5jUHN2V1ktajNpZjdHRjVKUlFWLTZsTWtROWp6M2xWU2xaM3Y2NHZOVDRKLXl6UkxaYmJJeVFsQ3dsWUE1Mmlsa2tCNkNZaEJseTF5Zw?oc=5"
+  ],
+  [
+   "Forex",
+   "med",
    "Israeli central bank rejects Benjamin Netanyahu’s plan to use crypto to evade sanctions",
    "Financial Times",
    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUo3Rnllc2dMYUJwa2U1anpZUEVrbTZzNy1vWU5mZ005ZVJtUGJ3Rzl6Y1NodkZhNGNmYUxEQ3g1dU10WTJZNVVOOWRuU0gySlIxVm9qQ1pYZ2RfMEt0WHRIbnR6NWhrVENjRlhvRjlzZkxLQUoyOFVpRzFXcTItdmNtNWQ?oc=5"
   ],
   [
    "Crypto",
-   "high",
-   "Bitcoin ‘Going To Zero’—Sudden Shock Flip Sparks Imminent Price Crash Fears",
-   "Forbes",
-   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2RMVU11Wll4Q2RwVzVXT0lKNUJRSVFLUFVSTndSSWo0WnJNTVpMa2N3RXoxSFhUTzJIUThLMzh6WHNHSW9VazRRalFKWHpzVDkxVk84T2NmZktpUUg3LWVoOE9iMWtreFN3bTRDYUZMcGJJZlNLRkFBZDNDVjBJdnNTWDIwQmVjLTg5WEhRVHEydlBDaDBKTVpnNU1CSVpvWDdoYjB4UGI4MnNwN0d6ZFZZYjNVeUFnOHVTSUZrSDhuU1o5dDlYSA?oc=5"
+   "med",
+   "SEC Approves Leveraged Bitcoin and Ethereum Funds for Trading. But Are These ETFs Worth Buying?",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcERwb1gtZDlLV2R2MFFHMDBOa29UZVFTVjFMaGxFNE53Wk55RUM2eGk3WUhxb0F0Q3hnUnRJV1B6LVR3Nzc3NEtndlh6ZG1RRm85T01VWF9TY3ZqaVM2czR1WlU2THExRUJDa3JwWHduTlBzeTRjQ1EtRFdqRUlOR1dOQUR0R1hZMEF3dW0wR3BCdmlmNTZqdTVucTNJQnFNQ1Ata3BvTQ?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHZ6VVBXaDh1SXE5ZTBFa3pJS2ExLWR4b1FFWVJVNlJqRThrWGlxRlVZd0ZKaEhlSnJKMGNPaktXODdmZFR2aWl3WUFlOXNMczFkNXN2SXktQWhvLVJEOFhSaHVaRU96NDlNVWZGdi1mRGo1NHFuSFJKQm1MRHg2NE5jbFVGOTEwd0NRRloxQTd1NlhydW9YaW8zMlRNcFNkVUtpeUNwUDM5MnBNYlozYUVDUQ?oc=5"
+   "Bitcoin price news: BTC falls below $80,000 on renewed Middle East worries",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY2t0UU51ZnVfTTRnQm16dnpFQjY5SVl5MEg4eW5iU1YwYXF2NFRTUlUyMWxNWHlxc2xQdm1rS3k3YkFpVEhoSXhFRFJwQlRRVFBsTl9jNmY4SnZsR0tTUk9fZDI1ZXZ1dE5sdGdxbE8zajZOXzI5ZW1qbjZqYlpOR2hfUFNYYkUxTHZxUG1mcGhtMURUM294ZDhUdGk4R01FY2xRemxMWnVmS0ttOHFkWGdrYVBxSkE4b1VqS1hDRmVOdV8xM1FBTHpWS2hsVUo2?oc=5"
   ],
   [
    "Stocks",
