@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T18:47:33.179Z",
+ "updated": "2026-10-25T19:39:19.410Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1216,
-   "ch": -0.05,
-   "asof": "2026-10-25T18:46:43.000Z"
+   "p": 1.1218,
+   "ch": -0.04,
+   "asof": "2026-10-25T19:20:43.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3372,
-   "ch": -0.17,
-   "asof": "2026-10-25T18:46:43.000Z"
+   "p": 1.3381,
+   "ch": -0.1,
+   "asof": "2026-10-25T19:38:44.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 156.814,
+   "p": 156.813,
    "ch": 0.02,
-   "asof": "2026-10-23T20:59:50.000Z"
+   "asof": "2026-10-25T19:31:31.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7034,
-   "ch": 0.21,
-   "asof": "2026-10-25T18:46:43.000Z"
+   "p": 0.7027,
+   "ch": 0.11,
+   "asof": "2026-10-25T19:38:44.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4016,
-   "ch": 0.07,
-   "asof": "2026-10-25T18:47:18.000Z"
+   "p": 1.4025,
+   "ch": 0.14,
+   "asof": "2026-10-25T19:39:15.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8229,
-   "ch": 0.38,
-   "asof": "2026-10-25T18:47:32.000Z"
+   "p": 0.8237,
+   "ch": 0.48,
+   "asof": "2026-10-25T19:14:28.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80576.7,
-   "ch": -0.24,
-   "asof": "2026-10-25T18:47:25.000Z"
+   "p": 80489.3,
+   "ch": -0.35,
+   "asof": "2026-10-25T19:39:16.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2353.74,
-   "ch": -0.09,
-   "asof": "2026-10-25T18:47:25.000Z"
+   "p": 2348.52,
+   "ch": -0.31,
+   "asof": "2026-10-25T19:39:12.000Z"
   },
   {
    "s": "S&P 500",
@@ -393,7 +393,7 @@
    "m": "Commodities",
    "d": 2,
    "p": 4007.9,
-   "ch": -1.29,
+   "ch": 0,
    "asof": "2026-10-23T20:59:58.000Z"
   },
   {
@@ -401,7 +401,7 @@
    "m": "Commodities",
    "d": 2,
    "p": 103.27,
-   "ch": 3.82,
+   "ch": 0,
    "asof": "2026-10-23T20:59:58.000Z"
   },
   {
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 101.82,
-   "ch": -0.44,
-   "asof": "2026-10-25T18:47:28.000Z"
+   "p": 101.66,
+   "ch": -0.6,
+   "asof": "2026-10-25T19:39:15.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3008,
-   "ch": 0.18,
-   "asof": "2026-10-25T18:47:25.000Z"
+   "p": 1.2993,
+   "ch": 0.06,
+   "asof": "2026-10-25T19:39:13.000Z"
   },
   {
    "s": "Apple",
@@ -473,7 +473,7 @@
    "m": "Commodities",
    "d": 3,
    "p": 53.949,
-   "ch": -1.92,
+   "ch": 0,
    "asof": "2026-10-23T20:59:52.000Z"
   }
  ],
@@ -516,9 +516,9 @@
   [
    "Stocks",
    "med",
-   "Wall Street Week Ahead",
-   "Seeking Alpha",
-   "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YMGtWWE5MNlFFakY0ZENSTUlqRVplSHJGUnhFTTIyMXRUVlNIWEV1YmkzYnBDUjBLcEk4YXlxYkxZS3hrVFNtSV9JVFZuNUpuZHp3bUtLa0wzSzJkOUlNTkkyMzZ3OUVNdHIyU1plQm4?oc=5"
+   "Here are 4 big things we're watching in the stock market this week",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWUdMX3FGQkxvTENaOUh4b1RLUlVDUWdhcGQ3Y0xXMkxOdlNEdmlaTXFVX0M5OXhYUDRBWUJlVlNoQjI1cFE3SXVEaWdxeXY0eTdWQ2VlaXRKck1Ha2xXWEs1ZkMtQmJva1dzTXVjNTZwM0JYZ3BTcnc4NTFSMHdnUjUtVG9BNVpzU0ZvR1RQQl9MLUhjNjZUQWNHeFRSODVNUHh6ZzluZVFfQURpeWRVSm5LOE4zTGc?oc=5"
   ],
   [
    "Commodities",
