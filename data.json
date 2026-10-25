@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T15:44:25.330Z",
+ "updated": "2026-10-25T16:45:04.303Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80556.85,
-   "ch": -0.26,
-   "asof": "2026-10-25T15:44:22.000Z"
+   "p": 80489.89,
+   "ch": -0.35,
+   "asof": "2026-10-25T16:44:58.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2343.57,
-   "ch": -0.52,
-   "asof": "2026-10-25T15:44:20.000Z"
+   "p": 2340.57,
+   "ch": -0.64,
+   "asof": "2026-10-25T16:45:00.000Z"
   },
   {
    "s": "S&P 500",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 101.56,
-   "ch": -0.69,
-   "asof": "2026-10-25T15:44:19.000Z"
+   "p": 101.28,
+   "ch": -0.97,
+   "asof": "2026-10-25T16:45:02.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2991,
-   "ch": 0.05,
-   "asof": "2026-10-25T15:44:08.000Z"
+   "p": 1.2974,
+   "ch": -0.08,
+   "asof": "2026-10-25T16:44:57.000Z"
   },
   {
    "s": "Apple",
@@ -509,9 +509,9 @@
   [
    "Stocks",
    "med",
-   "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5"
+   "Up 35%, How Long Can Coca-Cola Continue Crushing the S&P 500?",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaWRZdXBZdXRIbF8xRlFhQjJvRlhGWWxmTXVUQzNzMThPaUZLTXpkN3VjZzRwYndYMjcxVXVMbFhrNmJROGt4Tm9CVGozTG91aXJyamE4YWVtUDRwZFFhcHl1NVVSNVB1aGZybTFkVERueS1jeVlIZ09UZFd2a3FWRzZMMGRKQkVxWC1lMm5mS0FrLUhkQ1E?oc=5"
   ],
   [
    "Stocks",
