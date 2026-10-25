@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T16:45:04.303Z",
+ "updated": "2026-10-25T17:41:14.606Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80489.89,
-   "ch": -0.35,
-   "asof": "2026-10-25T16:44:58.000Z"
+   "p": 80643.98,
+   "ch": -0.16,
+   "asof": "2026-10-25T17:41:10.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2340.57,
-   "ch": -0.64,
-   "asof": "2026-10-25T16:45:00.000Z"
+   "p": 2354.03,
+   "ch": -0.07,
+   "asof": "2026-10-25T17:41:08.000Z"
   },
   {
    "s": "S&P 500",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 101.28,
-   "ch": -0.97,
-   "asof": "2026-10-25T16:45:02.000Z"
+   "p": 101.77,
+   "ch": -0.49,
+   "asof": "2026-10-25T17:41:06.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2974,
-   "ch": -0.08,
-   "asof": "2026-10-25T16:44:57.000Z"
+   "p": 1.3031,
+   "ch": 0.36,
+   "asof": "2026-10-25T17:41:12.000Z"
   },
   {
    "s": "Apple",
@@ -488,16 +488,9 @@
   [
    "Forex",
    "med",
-   "GBP/USD (GBPUSD=X) live rate, chart and news",
-   "Yahoo Finance Singapore",
-   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45cXk5ODVxV3l3RWQ1Vl9aYzVSaGpNQmV0aUxPN1l6bllfNmxRR2xNcXFGVmczOEJFbnlIcThZVGtWcmJlSUZNc0lpbEJJbDJReG5VeFRWZ1g0QQ?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHZ6VVBXaDh1SXE5ZTBFa3pJS2ExLWR4b1FFWVJVNlJqRThrWGlxRlVZd0ZKaEhlSnJKMGNPaktXODdmZFR2aWl3WUFlOXNMczFkNXN2SXktQWhvLVJEOFhSaHVaRU96NDlNVWZGdi1mRGo1NHFuSFJKQm1MRHg2NE5jbFVGOTEwd0NRRloxQTd1NlhydW9YaW8zMlRNcFNkVUtpeUNwUDM5MnBNYlozYUVDUQ?oc=5"
+   "Japan is not out of room to defend the yen despite busy 2026 intervention year",
+   "investingLive",
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdWdDcXY3MURMdjVaV29WclZ4czBNbHhBOE5DRFNneGVhNy0xZFFaV2NrMHNnZng0d0xfZUFBTlhrZ2pLY0ZUMlB6QmFlQVpSMXl6Y1d6VDVlSF9XRkpreDJYenRYaHljeWZzUHVYWUd2a1BKYkF1OFVHOEdwb0k2bDJGNmg1NGREMlhyX0VKOFNwSERZU2V3TkhnQmEwSm00SFlXc2FSZDVOQ2JpQnBsYg?oc=5"
   ],
   [
    "Crypto",
@@ -507,6 +500,20 @@
    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEZIYi1YYkZXSDlUeWN0cUgzdzdudTFUNlF5bHE1eVM4Z1NZeUFxVWZrVXp3d0N1dnRRWU5iYzZSc3J5QlJiQ3c4bllDUXFJcFFFdjNGeTFPbGhxc2VRZjYzV1dLSmtKX2JqQlpfd2U4RTFmWUhoRGFtVUVtVWRSc0NBZjc0NjhUdUVLNmM2dDVBYUxLOWRob3BwWkY2bnBKSlhnSGc0aXVfTEZ5RjBsTDJ3?oc=5"
   ],
   [
+   "Crypto",
+   "med",
+   "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHZ6VVBXaDh1SXE5ZTBFa3pJS2ExLWR4b1FFWVJVNlJqRThrWGlxRlVZd0ZKaEhlSnJKMGNPaktXODdmZFR2aWl3WUFlOXNMczFkNXN2SXktQWhvLVJEOFhSaHVaRU96NDlNVWZGdi1mRGo1NHFuSFJKQm1MRHg2NE5jbFVGOTEwd0NRRloxQTd1NlhydW9YaW8zMlRNcFNkVUtpeUNwUDM5MnBNYlozYUVDUQ?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
+   "Here are 4 big things we're watching in the stock market this week",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWUdMX3FGQkxvTENaOUh4b1RLUlVDUWdhcGQ3Y0xXMkxOdlNEdmlaTXFVX0M5OXhYUDRBWUJlVlNoQjI1cFE3SXVEaWdxeXY0eTdWQ2VlaXRKck1Ha2xXWEs1ZkMtQmJva1dzTXVjNTZwM0JYZ3BTcnc4NTFSMHdnUjUtVG9BNVpzU0ZvR1RQQl9MLUhjNjZUQWNHeFRSODVNUHh6ZzluZVFfQURpeWRVSm5LOE4zTGc?oc=5"
+  ],
+  [
    "Stocks",
    "med",
    "Up 35%, How Long Can Coca-Cola Continue Crushing the S&P 500?",
@@ -514,11 +521,11 @@
    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaWRZdXBZdXRIbF8xRlFhQjJvRlhGWWxmTXVUQzNzMThPaUZLTXpkN3VjZzRwYndYMjcxVXVMbFhrNmJROGt4Tm9CVGozTG91aXJyamE4YWVtUDRwZFFhcHl1NVVSNVB1aGZybTFkVERueS1jeVlIZ09UZFd2a3FWRzZMMGRKQkVxWC1lMm5mS0FrLUhkQ1E?oc=5"
   ],
   [
-   "Stocks",
+   "Commodities",
    "med",
-   "Wall Street Week Ahead",
-   "Seeking Alpha",
-   "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YMGtWWE5MNlFFakY0ZENSTUlqRVplSHJGUnhFTTIyMXRUVlNIWEV1YmkzYnBDUjBLcEk4YXlxYkxZS3hrVFNtSV9JVFZuNUpuZHp3bUtLa0wzSzJkOUlNTkkyMzZ3OUVNdHIyU1plQm4?oc=5"
+   "3 Oil Stocks Worth Watching As Brent Crude Tests $117",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUUNoQnhNMEw1OW9ETlhtc2JSN0pnVHp3ZmpvVHFfdXVEYjJZeHU5dXVtNE9VT3lrRl8wUE5yZWJUVjlJMkk3YnM4X3FnUTRqekRTd1RZaWhncjlnQ19TSTVvRFc5ZlNKNTBiU0R1S0c1OURualdHN3NBOWZQb1ZoeVJmSUktbnlyRkM2cw?oc=5"
   ],
   [
    "Commodities",
@@ -526,13 +533,6 @@
    "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
    "Crude Oil Prices Today | OilPrice.com",
    "https://news.google.com/rss/articles/CBMingFBVV95cUxORUF5TG56V3NCLUlWZDEwR1d1Z3J4bEtUSFh2eThCWW9QOTREd3pqX21CN3p1cGNwZTNWVDU5NW52NU1XdkNSNWVBbVo4N2dOZUZGM1o3M0FUUWNNelg2ekNySlVtMHJPVkxTd1lEQ0hxc0RyaFV4NjFBUFpuZ3U1cXBlbkowclJsNkRmVEtGcTNjR3lfZTB0U1FlU0Vsd9IBowFBVV95cUxNdDZ3cW15VlNTc1lKcW5UTi0weUFWMFdESWN0Z3IzR3hJbnBGWFlpM09YZ20wT0NFUkJROWJjTG1aVnJvZV9ZY1kzRzc5WTdwWk9yREljeE9wX0wxSzRwajQ4bUN3NUdaSThzLTBTSzNaZmVNcHljRlB2eFhkcFhBMFlVc2ZKWHBEbE01Z3lOX1ZqNkZsTDZiQnFRSEZKVGlVa3pZ?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "3 Oil Stocks Worth Watching As Brent Crude Tests $117",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUUNoQnhNMEw1OW9ETlhtc2JSN0pnVHp3ZmpvVHFfdXVEYjJZeHU5dXVtNE9VT3lrRl8wUE5yZWJUVjlJMkk3YnM4X3FnUTRqekRTd1RZaWhncjlnQ19TSTVvRFc5ZlNKNTBiU0R1S0c1OURualdHN3NBOWZQb1ZoeVJmSUktbnlyRkM2cw?oc=5"
   ]
  ]
 }
