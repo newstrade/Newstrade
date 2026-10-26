@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-26T13:32:08.355Z",
+ "updated": "2026-10-26T15:42:43.944Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
    "tag": "USD",
    "imp": "med",
    "name": "CB Consumer Confidence",
-   "fc": "80.5",
+   "fc": "80.7",
    "prev": "81.9",
    "act": ""
   },
@@ -304,105 +304,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1189,
-   "ch": -0.13,
-   "asof": "2026-10-26T13:31:46.000Z"
+   "p": 1.1182,
+   "ch": -0.2,
+   "asof": "2026-10-26T15:41:44.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3342,
-   "ch": -0.25,
-   "asof": "2026-10-26T13:31:46.000Z"
+   "p": 1.3347,
+   "ch": -0.21,
+   "asof": "2026-10-26T15:41:44.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.439,
-   "ch": 0.4,
-   "asof": "2026-10-26T13:32:08.000Z"
+   "p": 157.552,
+   "ch": 0.47,
+   "asof": "2026-10-26T15:42:43.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7023,
-   "ch": -0.21,
-   "asof": "2026-10-26T13:30:46.000Z"
+   "p": 0.702,
+   "ch": -0.26,
+   "asof": "2026-10-26T15:40:44.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.403,
-   "ch": 0.2,
-   "asof": "2026-10-26T13:32:08.000Z"
+   "p": 1.4037,
+   "ch": 0.25,
+   "asof": "2026-10-26T15:42:43.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.826,
-   "ch": 0.23,
-   "asof": "2026-10-26T13:32:08.000Z"
+   "p": 0.8275,
+   "ch": 0.41,
+   "asof": "2026-10-26T15:42:43.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 79612.05,
-   "ch": -0.53,
-   "asof": "2026-10-26T13:32:05.000Z"
+   "p": 80520.72,
+   "ch": 0.6,
+   "asof": "2026-10-26T15:42:41.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2305.44,
-   "ch": -0.93,
-   "asof": "2026-10-26T13:32:03.000Z"
+   "p": 2332.71,
+   "ch": 0.24,
+   "asof": "2026-10-26T15:42:39.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7641.32,
-   "ch": 0.23,
-   "asof": "2026-10-26T13:32:08.000Z"
+   "p": 7694.15,
+   "ch": 0.92,
+   "asof": "2026-10-26T15:42:43.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 26000.629,
-   "ch": 0.17,
-   "asof": "2026-10-26T13:32:05.000Z"
+   "p": 26273.22,
+   "ch": 1.22,
+   "asof": "2026-10-26T15:42:43.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52409.28,
-   "ch": 0.37,
-   "asof": "2026-10-26T13:32:08.000Z"
+   "p": 52399.71,
+   "ch": 0.35,
+   "asof": "2026-10-26T15:42:44.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4024.1,
-   "ch": 0.4,
-   "asof": "2026-10-26T13:22:08.000Z"
+   "p": 4032.9,
+   "ch": 0.62,
+   "asof": "2026-10-26T15:32:42.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 101.78,
-   "ch": -1.44,
-   "asof": "2026-10-26T13:22:07.000Z"
+   "p": 102.02,
+   "ch": -1.21,
+   "asof": "2026-10-26T15:32:43.000Z"
   },
   {
    "s": "USD/KES",
@@ -410,71 +410,71 @@
    "d": 2,
    "p": 129.79,
    "ch": 0,
-   "asof": "2026-10-26T10:39:03.000Z"
+   "asof": "2026-10-26T15:15:35.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6487,
-   "ch": 0.41,
-   "asof": "2026-10-26T13:32:09.000Z"
+   "p": 16.6357,
+   "ch": 0.33,
+   "asof": "2026-10-26T15:42:44.000Z"
   },
   {
    "s": "USD/NGN",
    "m": "Forex",
    "d": 2,
-   "p": 1353.91,
-   "ch": 0,
-   "asof": "2026-10-26T02:17:03.000Z"
+   "p": 1346.33,
+   "ch": -0.56,
+   "asof": "2026-10-26T15:15:34.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 100.79,
-   "ch": -0.45,
-   "asof": "2026-10-26T13:32:03.000Z"
+   "p": 102.04,
+   "ch": 0.78,
+   "asof": "2026-10-26T15:42:40.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.286,
-   "ch": -0.65,
-   "asof": "2026-10-26T13:32:07.000Z"
+   "p": 1.2994,
+   "ch": 0.39,
+   "asof": "2026-10-26T15:42:40.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 342.34,
-   "ch": -1.55,
-   "asof": "2026-10-26T13:32:09.000Z"
+   "p": 345.485,
+   "ch": -0.64,
+   "asof": "2026-10-26T15:42:44.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 386.836,
-   "ch": 3.93,
-   "asof": "2026-10-26T13:32:09.000Z"
+   "p": 394.69,
+   "ch": 6.04,
+   "asof": "2026-10-26T15:42:44.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 213.337,
-   "ch": 1.13,
-   "asof": "2026-10-26T13:32:09.000Z"
+   "p": 216.34,
+   "ch": 2.55,
+   "asof": "2026-10-26T15:42:44.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.795,
-   "ch": -0.29,
-   "asof": "2026-10-26T13:22:04.000Z"
+   "p": 54.295,
+   "ch": 0.64,
+   "asof": "2026-10-26T15:32:35.000Z"
   }
  ],
  "news": [
@@ -495,30 +495,30 @@
   [
    "Crypto",
    "med",
-   "Current price of Ethereum for Oct 26, 2026",
+   "Current price of Bitcoin for October 26, 2026",
    "Fortune",
-   "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNMkw0eXJZU2dCeEhaaVAtUXhQN2dmXzdNcUFTeG82QXNWaUJpRGZnWXR5ZHFXSlkxcVhIYUxEd2l6S3R6Xy02ZHF5ZmZfTHNSSzBILVBSbmtyVlMxd253SlpLaWRjdUVu?oc=5"
+   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5scU51cEwzRE0yakN1aXgwY2lVX1pyOGI0NTQ2Nnc1RTJKVGNoVTdpUklZM2laX1h4MWVxTWp3SjVHS2hYWHEwazBsemZQNGV5MFZZZ3JwWlA4WTJRVjEya1pxV1hHQ2s?oc=5"
   ],
   [
    "Crypto",
-   "med",
-   "Over 11 million BTC can't be linked to any known owner",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcWxSckhpMG9CRTRWaGJvb2dwazlWRENWcThLUm1SaXk0THR3anNsR3BsMk5pNmpvT0t0OXdkQXNoc2EyUUlBRXVWNnVjZ3Q1R0Noc3ZXR3cwZEF1eFRKUXZsOTNNZjFOc1BwTmZoWUZNNGlfbWxQbmo1QnVqSjRSVHlNVWFOMHpSb2JoZ00yWVVyRUtqb3RPcHZScURSdzJjR2k5bHdsS0gtRWZ1RlhqRjd5Ml9BNlVjRERIREdrR3FmelVsSkY4?oc=5"
+   "high",
+   "‘Guppy-Level Death’—Elon Musk Stokes Imminent Price Crash Fears As Bitcoin Suddenly Plummets",
+   "Forbes",
+   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSUU1WjhqQVRuTU1vTDZsWWN1NDdnaVdidk94ZjhoQW9UT0pidlo5Mm9rcTFpTElzM19NTDNWX0NydDBQTFhmVmc2bmtzY0RfOXBJa2dIMmNZWTFEYnIxNFZSdXJRZk9XODdyUVlFc1dzZERaZzMxY3luOGFQbExjRWZ4aVR5enRhWDh6MGF2YmtPSkJYZFVVVGg0VnVFdG9ucUFHVlRMSnBvOGFpVV9VTWdkRnpraEJOQWhyNlJSUU1aTmhDTzEyNA?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Dow Jones, Nasdaq, S&P 500 weekly preview: Markets brace for pivotal earnings week",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS2ZvdTh2eEZDbVpMeHE1cWctZ2tjdnctYy1kY053T0I5OGstZWY0dDJNOEdjbzRLa25QRTU4TVBzdVFvOUxveXY2bUM3X19LdXk2UklleEhZaGUxdU9YRENSRldLVWwtQ2l2QmE1UEZUenlRMzBqV2JYMTRGeWFwTHRIejJlcmRkX01xYlgzVlo?oc=5"
+   "AI giant Anthropic unveils plans for blockbuster share listing",
+   "BBC",
+   "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpRThpZzljUDVhR2FLUnEzald0ZTRNU09RTDIyazJvSDVmazJ4NGtleVFjY0dXRFNBX0gzQkZzTFNBQ1N5cEdxbG1jeU1DMXpYRGNTUS1kSHhiNHM?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "The stock market’s biggest test in weeks is here",
-   "MarketWatch",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLXlYYWMzNHVvTGR2d1dMMkdCdVY1WE5tbUR5NXZpRE1sbXR5dVBwNnNkV3ViTmY4cGZURzJGc0Noa2NZUHNLd3VrYWZLeWY5QXc3YVFJNk1PeTBXMFlTX2dycjZSNmpnMmZhQlp4Y3pKREhFcDBEUTNsd0d3R2ZYNnFZU1B0aVhORWNVZEtMbGhIMW16?oc=5"
+   "AI stocks rise as Anthropic nears Wall Street debut amid investor caution",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNVdGRWF4eUpFNlQ2QkxGSWVrdlZZMU9OVlgtNkduS1JrMVdzQ0VJRVJPak4xcERFNENPWGE3YUM3VHpSSnFybzZJRWRTSW53eWwzTW1jLTR5dmpjelcxam96czEycUZ3a1piY2kwcC15WTR3ZFJUeGdIUkxuLXl6b0d4dGJ0T0hWcUl0ejVSMzI1UlpJdzRnZ09Td05wRDlJbVJaT0ktM3Z4Q2ZNdnNSWnA1bkZGVl9iYVI1TEtCc0VhRjRJ?oc=5"
   ],
   [
    "Commodities",
@@ -530,9 +530,9 @@
   [
    "Commodities",
    "med",
-   "Oil price falls back as traders remain focused on Middle East conflict",
-   "Financial Times",
-   "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0tHRndOUXpFUzZURmdJMWlMMk5sZ0Y0MlpXRjc2cldBMmhBZTFhbDFNUFprUUJiRExfUVFIZ1pTQ1d1YUFsaVBhRUVYZlZ6RDB3RGdOaFJIUHJYVndmZDYxVXNTMXZfeWZhRTNkeEhQVVpnZElIVVlSbHI4cF96b0JzQmc?oc=5"
+   "Oil prices fall as Saudi defense minister travels to Iran for talks to de-escalate conflict",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlb3RFQnktc2pYOXZaNjR1cFFxcDVpV2poRDN6X0tJNGhGX2NCX05kSlVtaGNialZPc1E3R3g2LXZuWmpidDRobThNdzROYUFWQkFFUVBnUW9SajI4WEs0UmtiZjhPdWVvUzRlQWtWRmvSAXZBVV95cUxOY0FTdGxTWkFDWFllVFg2SDZiQVVTRWxYY1NXTW5uSmJWVEh5OGEtSjRBajhfLWtlUzRUclBnSUFPTWFPcmI0Yl9NZ3dUY1gzWk90RTY0SDQydDlfbXVGU21UVVU1dmxFb3FyQzR0d2xJUkd1NUhR?oc=5"
   ]
  ]
 }
