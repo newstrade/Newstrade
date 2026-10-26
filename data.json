@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T01:55:53.946Z",
+ "updated": "2026-10-26T02:48:42.530Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1225,
-   "ch": 0.19,
-   "asof": "2026-10-26T01:55:46.000Z"
+   "p": 1.1228,
+   "ch": 0.21,
+   "asof": "2026-10-26T02:47:42.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3383,
-   "ch": 0.06,
-   "asof": "2026-10-26T01:55:46.000Z"
+   "p": 1.3386,
+   "ch": 0.08,
+   "asof": "2026-10-26T02:47:42.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 156.878,
-   "ch": 0.04,
-   "asof": "2026-10-26T01:55:53.000Z"
+   "p": 156.711,
+   "ch": -0.07,
+   "asof": "2026-10-26T02:48:42.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7032,
-   "ch": -0.09,
-   "asof": "2026-10-26T01:54:46.000Z"
+   "p": 0.703,
+   "ch": -0.11,
+   "asof": "2026-10-26T02:46:42.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4002,
-   "ch": 0,
-   "asof": "2026-10-26T01:55:52.000Z"
+   "p": 1.4,
+   "ch": -0.01,
+   "asof": "2026-10-26T02:48:41.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.824,
-   "ch": -0.01,
-   "asof": "2026-10-26T01:55:54.000Z"
+   "p": 0.8233,
+   "ch": -0.1,
+   "asof": "2026-10-26T02:48:42.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 79669.34,
-   "ch": -0.46,
-   "asof": "2026-10-26T01:55:50.000Z"
+   "p": 79536.72,
+   "ch": -0.63,
+   "asof": "2026-10-26T02:48:38.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2313.89,
-   "ch": -0.57,
-   "asof": "2026-10-26T01:55:50.000Z"
+   "p": 2301,
+   "ch": -1.12,
+   "asof": "2026-10-26T02:48:39.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,17 +392,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3998,
-   "ch": -0.25,
-   "asof": "2026-10-26T01:45:52.000Z"
+   "p": 4006.7,
+   "ch": -0.03,
+   "asof": "2026-10-26T02:38:42.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 101.66,
-   "ch": -1.56,
-   "asof": "2026-10-26T01:45:41.000Z"
+   "p": 101.13,
+   "ch": -2.07,
+   "asof": "2026-10-26T02:38:43.000Z"
   },
   {
    "s": "USD/KES",
@@ -410,15 +410,15 @@
    "d": 2,
    "p": 129.79,
    "ch": 0,
-   "asof": "2026-10-26T01:43:43.000Z"
+   "asof": "2026-10-26T02:17:03.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6139,
-   "ch": 0.2,
-   "asof": "2026-10-26T01:55:54.000Z"
+   "p": 16.6085,
+   "ch": 0.17,
+   "asof": "2026-10-26T02:48:43.000Z"
   },
   {
    "s": "USD/NGN",
@@ -426,23 +426,23 @@
    "d": 2,
    "p": 1353.91,
    "ch": 0,
-   "asof": "2026-10-26T01:43:43.000Z"
+   "asof": "2026-10-26T02:17:03.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 101.01,
-   "ch": -0.23,
-   "asof": "2026-10-26T01:55:51.000Z"
+   "p": 100.61,
+   "ch": -0.63,
+   "asof": "2026-10-26T02:48:38.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2879,
-   "ch": -0.5,
-   "asof": "2026-10-26T01:55:46.000Z"
+   "p": 1.2828,
+   "ch": -0.9,
+   "asof": "2026-10-26T02:48:35.000Z"
   },
   {
    "s": "Apple",
@@ -472,25 +472,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.74,
-   "ch": -0.39,
-   "asof": "2026-10-26T01:45:42.000Z"
+   "p": 53.825,
+   "ch": -0.23,
+   "asof": "2026-10-26T02:38:39.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Goldman Says Yen Becoming Better Hedge Against AI Market Shock",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTjhjQksyclkzMVcxLTdYS3BnMWZidHJ1WXFuc2M1dFQ5bDI2SThvNzN1YUY3Znl0NmtCeDFDMGxYcGxuM1BPSm4tSVJkQXNlTERJcVdvODFkSXNwM3JVSlVHbHpqVE1LWHMzejVEdnNMMEUzdVNkZ2pvV2RFd0dZRVJhd3lES1B2VGNJa01QTzQzQkQtMjVVT0UxRmpZNDJuWEpoNkJ0dW5HRW9BZ0JsZDh0UQ?oc=5"
+   "Stocks sink as traders brace for tech earnings, central bank decisions",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLVNoTlJHZGFtWmdpYnQwcG4tR2ZqQ1E3U0FWczVCbjFDNVRJNXctLWtDYTY5TnhFdjdFaEYwakJTY0JNUzFXS1RKeHdkdmtCeWcyaVJNWElzOVBhVHFTaGZ5UmxUUHc0ZUVnTVpWWFB2NHR3dFF4WENadnZDYWFsSG5fR2o4Uk1wcWlwaHFGdXdRX3BOYmxoMF9aTQ?oc=5"
   ],
   [
    "Forex",
    "med",
-   "Asian stocks slip as AI earnings, central bank decisions loom (SP500:) (SP500:)",
-   "Seeking Alpha",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWnZMd2w2T3h5NVdFTDRqbFlYcVR5eGRMbmV0NXBGZUpIYWRfMnhpeGtacWFjY2FpSnYtQnhnd1hpWkVFbE1FZVpfUll5SS1OcGFBMzZsRklGM3FQYUJmSG5STUZxSTlsUU1TZk9CaDktaG53SHJxZWZVcEx1elpNZnpNRlJwSkJzWWdkek1INFgxeklEQXBnME9qSnlkdFE?oc=5"
+   "Goldman Says Yen Becoming Better Hedge Against AI Market Shock",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTjhjQksyclkzMVcxLTdYS3BnMWZidHJ1WXFuc2M1dFQ5bDI2SThvNzN1YUY3Znl0NmtCeDFDMGxYcGxuM1BPSm4tSVJkQXNlTERJcVdvODFkSXNwM3JVSlVHbHpqVE1LWHMzejVEdnNMMEUzdVNkZ2pvV2RFd0dZRVJhd3lES1B2VGNJa01QTzQzQkQtMjVVT0UxRmpZNDJuWEpoNkJ0dW5HRW9BZ0JsZDh0UQ?oc=5"
   ],
   [
    "Crypto",
@@ -516,9 +516,9 @@
   [
    "Stocks",
    "med",
-   "Power Outages Leave Kyiv Dreading Its Worst Winter of the War",
+   "American Express to Cut 5% of Global Workforce",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMinAFBVV95cUxPazkyOWh6YWJnMGtOY19fQUdsa0xHVDdicnBmOHpiSW40QnU5U2pCQU43UnFRNG0tT2pWQjB0bUJFYUIxNXBjMUZTU2M1SlJqeUI1MkhfNlRsYUJhdHhTRWNBY1Z3WWRsUmJyeGt6RExxS2FsXzRZNUNGOXZRNzBlQXN6R2pnem9JNUFrYjBVSUEzeFd1UV9wVXpRVkU?oc=5"
+   "https://news.google.com/rss/articles/CBMitAFBVV95cUxONmpaSkFKXzhJclpJSlJYeTlsZlFMQmd6Tmo5UG53V05tREY5cWNxY2h5T1VYd0x3SnpxNUpmbDlHbk5KV0NSZlBLVDdZemU3VTNWTENFMW5PMVd1TmwybGs5VXBqSm1udHV4dktCUVFLb1BId29QclFDajI0TEp6UU55ckhBQ3JTbG9yRWQ0SWU4LW5kd2NXMGNLN3F0VndnTnhhbDExcEpWQVR2N3ZOWE9fUkM?oc=5"
   ],
   [
    "Commodities",
@@ -530,9 +530,9 @@
   [
    "Commodities",
    "med",
-   "US Equity Futures Climb as Crude Oil Price Dips: Markets Wrap",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGVmU0kxdjhvRF9ZU0VaeFFkODlaUTRlN1dQaHNSV1JiOTBwSV9nb1RKejQ2clRzQ0doN3VjVEtHb0RaTlVBNUdhMFI3aUtTRHB1dEE3NWdXZS1ZbktuMVUtYnE0ellyLWlNa29aWThtQkdSQW5FRzFIVUZlb3hEUlg1czdXd3FyV0VwNW0wVEMyTUg4ZEpoTVg0SzIyZ0VmLTAxOUlPTUtLXy1kS0ozbw?oc=5"
+   "Asia Is Building the World's Next $15 Trillion Energy Market",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRXd2VnM1bkZhSUxMMUxkTUJvZlRDeVNQTlRiRDZOY0tZQjRza2ZjZ3ZvS1dCVTk3X2NWYldlRThuVk01RTlUYjA3VkFNMlNKNG5tekVINjVVRFhQQXZONUFVUEk1V2FtN2dmd0FOOG1fQ2tDbnl6aElPRUZYWjdLclRxRVJ1MlpnTTQ1eVZRcUd5TTY4dTB6S3V0VWQ0elFJanQ3Ni0yVFl3QdIBrwFBVV95cUxNc3E3VEJFRS1sT1hsNnA1bHBXdnd2aXAyTnlTVDZzY3pBZkZFdGdpNWhYMTJIYTA3eHE4RkRieWZaMWZHeXZkTm80UzlpNUhSNEhabHF3RlkwblJvZzdISE9PUmFzQVVFNmNZZTdndExiRUhNcEVVUUlOb3FBdnF2UzNielprdmY4ektweU9IekZZa2FsTnRsc3RucGF1Z2JudGtJNFBSVUtQRHRPSVZr?oc=5"
   ]
  ]
 }
