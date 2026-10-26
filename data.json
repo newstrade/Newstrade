@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T23:38:32.444Z",
+ "updated": "2026-10-26T01:08:39.590Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1212,
-   "ch": -0.09,
-   "asof": "2026-10-25T23:37:43.000Z"
+   "p": 1.1223,
+   "ch": 0.17,
+   "asof": "2026-10-26T01:07:45.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.337,
-   "ch": -0.19,
-   "asof": "2026-10-25T23:37:43.000Z"
+   "p": 1.3385,
+   "ch": 0.07,
+   "asof": "2026-10-26T01:07:45.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 156.888,
-   "ch": 0.07,
-   "asof": "2026-10-25T23:38:31.000Z"
+   "p": 156.966,
+   "ch": 0.1,
+   "asof": "2026-10-26T01:08:39.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7031,
-   "ch": 0.17,
-   "asof": "2026-10-25T23:36:43.000Z"
+   "p": 0.7032,
+   "ch": -0.09,
+   "asof": "2026-10-26T01:06:45.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4019,
-   "ch": 0.09,
-   "asof": "2026-10-25T23:38:31.000Z"
+   "p": 1.3996,
+   "ch": -0.04,
+   "asof": "2026-10-26T01:08:38.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8245,
-   "ch": 0.57,
-   "asof": "2026-10-25T23:38:32.000Z"
+   "p": 0.8237,
+   "ch": -0.05,
+   "asof": "2026-10-26T01:08:39.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80163.31,
-   "ch": -0.75,
-   "asof": "2026-10-25T23:38:26.000Z"
+   "p": 79919.42,
+   "ch": -0.15,
+   "asof": "2026-10-26T01:08:38.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2331.23,
-   "ch": -1.04,
-   "asof": "2026-10-25T23:38:30.000Z"
+   "p": 2317.14,
+   "ch": -0.43,
+   "asof": "2026-10-26T01:08:33.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,57 +392,57 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4012,
-   "ch": 0.1,
-   "asof": "2026-10-25T23:28:20.000Z"
+   "p": 3999.4,
+   "ch": -0.21,
+   "asof": "2026-10-26T00:58:39.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 102.29,
-   "ch": -0.95,
-   "asof": "2026-10-25T23:28:25.000Z"
+   "p": 101.68,
+   "ch": -1.54,
+   "asof": "2026-10-26T00:58:39.000Z"
   },
   {
    "s": "USD/KES",
    "m": "Forex",
    "d": 2,
    "p": 129.79,
-   "ch": -0.02,
-   "asof": "2026-10-25T20:02:06.000Z"
+   "ch": 0,
+   "asof": "2026-10-26T01:04:12.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6116,
-   "ch": 0.82,
-   "asof": "2026-10-25T23:38:33.000Z"
+   "p": 16.6282,
+   "ch": 0.29,
+   "asof": "2026-10-26T01:08:40.000Z"
   },
   {
    "s": "USD/NGN",
    "m": "Forex",
    "d": 2,
    "p": 1353.91,
-   "ch": 1.84,
-   "asof": "2026-10-25T20:02:06.000Z"
+   "ch": 0,
+   "asof": "2026-10-26T01:04:12.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 101.27,
-   "ch": -0.98,
-   "asof": "2026-10-25T23:38:28.000Z"
+   "p": 101.02,
+   "ch": -0.23,
+   "asof": "2026-10-26T01:08:35.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2951,
-   "ch": -0.26,
-   "asof": "2026-10-25T23:38:28.000Z"
+   "p": 1.2875,
+   "ch": -0.53,
+   "asof": "2026-10-26T01:08:33.000Z"
   },
   {
    "s": "Apple",
@@ -472,18 +472,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 54.025,
-   "ch": 0.14,
-   "asof": "2026-10-25T23:28:18.000Z"
+   "p": 53.94,
+   "ch": -0.02,
+   "asof": "2026-10-26T00:58:20.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Monday open indicative forex prices, 26 October 2026",
-   "investingLive",
-   "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSXdVRmN6dFh3dHlMNzR3NllnVU5fWl9KdTFEN3dSUlI3dWpxR0kyRXgwZlFoVy0wUmc5SXNWLWdyaUllMU1JRy1ZcUYwT1FXa182NlRMa3JWTGVFMFNteGJsenhQenhaRWxGZVlvNDA2cndRbUxPU3UwdEpVb1hiTlEyLUE1cldEUzk5bQ?oc=5"
+   "Goldman Says Yen Becoming Better Hedge Against AI Market Shock",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTjhjQksyclkzMVcxLTdYS3BnMWZidHJ1WXFuc2M1dFQ5bDI2SThvNzN1YUY3Znl0NmtCeDFDMGxYcGxuM1BPSm4tSVJkQXNlTERJcVdvODFkSXNwM3JVSlVHbHpqVE1LWHMzejVEdnNMMEUzdVNkZ2pvV2RFd0dZRVJhd3lES1B2VGNJa01QTzQzQkQtMjVVT0UxRmpZNDJuWEpoNkJ0dW5HRW9BZ0JsZDh0UQ?oc=5"
+  ],
+  [
+   "Forex",
+   "med",
+   "Asian stocks slip as AI earnings, central bank decisions loom (SP500:) (SP500:)",
+   "Seeking Alpha",
+   "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWnZMd2w2T3h5NVdFTDRqbFlYcVR5eGRMbmV0NXBGZUpIYWRfMnhpeGtacWFjY2FpSnYtQnhnd1hpWkVFbE1FZVpfUll5SS1OcGFBMzZsRklGM3FQYUJmSG5STUZxSTlsUU1TZk9CaDktaG53SHJxZWZVcEx1elpNZnpNRlJwSkJzWWdkek1INFgxeklEQXBnME9qSnlkdFE?oc=5"
   ],
   [
    "Crypto",
@@ -502,30 +509,30 @@
   [
    "Stocks",
    "med",
-   "American Express to Cut 5% of Global Workforce",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMitAFBVV95cUxONmpaSkFKXzhJclpJSlJYeTlsZlFMQmd6Tmo5UG53V05tREY5cWNxY2h5T1VYd0x3SnpxNUpmbDlHbk5KV0NSZlBLVDdZemU3VTNWTENFMW5PMVd1TmwybGs5VXBqSm1udHV4dktCUVFLb1BId29QclFDajI0TEp6UU55ckhBQ3JTbG9yRWQ0SWU4LW5kd2NXMGNLN3F0VndnTnhhbDExcEpWQVR2N3ZOWE9fUkM?oc=5"
+   "Vanguard S&P 500 ETF Long-Term Outlook: What Historical Trends Suggest for Patient Investors",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMUFiTURtaF9pQTBCVUg5YlVYaTFaNTAyTVlUWWxOcWRHNWFWM3ZPMGVwV1lvTFhoSTFRcklYNmdkYS1qQk1nZUIxOEQ1Mi00WExQSF9TTEhuaGlJemRRTzRFY0o3dFViWmtQampKWkhpZVdEcGNNOEFVUktBc1MwQ0ZMd29zV3djclVBUUNvUUlTUQ?oc=5"
   ],
   [
    "Stocks",
-   "high",
-   "Australian Stock Market Today: ASX Futures Slip As Fed Path Keeps Volatility Elevated",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN0lpSlR0bTVNYTlISzhGeHZNZDhlXzdIN19tbjFyNHhxT1poM2EzaGZvYnRpOTdKTElVdDk5N05LcmdELWVoLUJ4MmpaWjNTLWMwWmxlWVhSSmdOM2tJeTI4SXNzZW9kdDYzNnNROGRQS21HaU1TZTZOMzVpcDYzVm1STFBFeHA0d3Y4UU5wMElaQkZCVWJRWGZwdVBjaTA?oc=5"
+   "med",
+   "Microsoft, Alphabet, and Amazon Make Up About 15% of the S&P 500. All 3 Report Earnings Within 2 Days.",
+   "The Motley Fool",
+   "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMm9DT3FtbEdGLS1RTVJOSnBQM1M3ZW9ablFCMjhUOVlOZkdWU1l5Z2xRUFQ5bGJsSHowOU5aUTZUTHVPTi1rLXZnRXlleXVfRzZXbW9waHhlaE9rSUgtdmlRdk12OWlveEUxM1B6VUljTUtCOUF6c01aTFRIM20xUGVQeHFvdFZseXJQQVZYaHZpVUk1NmMxR3JXekpaalJlWjdnSUswaDE0UU11Q1BKUXNid3VrdXhRaGxwTENWLWFicEFwV0tuZjN4aUJfdW9pSFNxcDNzR2d6c3RX?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "US Equity Futures Climb as Crude Oil Price Dips: Markets Wrap",
+   "Asian shares make cautious start, Brent eases from six-month high",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMifkFVX3lxTE90MHowUDNReVJUUkkxWEZhTnAyYnZZNGNXQjJPVWt0QjgtaERfUHM4bERQd2k2NW5kMXR5dld0NHpsYnBhOENieXU1VU9saFBya202TXRjUktMa0l6OXF0OEZFUDdxR3FtSTdCLUxRVGpZNnBndExIcGVEZmtXZw?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "US Stock Futures Climb as Crude Oil Price Dips: Markets Wrap",
    "Bloomberg.com",
    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGVmU0kxdjhvRF9ZU0VaeFFkODlaUTRlN1dQaHNSV1JiOTBwSV9nb1RKejQ2clRzQ0doN3VjVEtHb0RaTlVBNUdhMFI3aUtTRHB1dEE3NWdXZS1ZbktuMVUtYnE0ellyLWlNa29aWThtQkdSQW5FRzFIVUZlb3hEUlg1czdXd3FyV0VwNW0wVEMyTUg4ZEpoTVg0SzIyZ0VmLTAxOUlPTUtLXy1kS0ozbw?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Britain's Renewable Energy Boom Is Hitting a Grid Bottleneck",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXprOTFnMk16QjVhVURTa29sLU13MFB6cHVsbmVYNXh6NFVlQzV4R0o5ZjlfVWNjYnJzUjJYWVB5R0hjbkNyWVJuWVEwRm1VWEtCczVvaUo5VGdjOGpVQnpLT29uX3c1NE9zeURpTG9tc2dsd2ptNkliS0hlMzRHUnh4aXRONXdSNEtBMVU1OVVIVUVxMDNnZ0ZzN2FfVjBJaXVxbFdyNFNyLVXSAbABQVVfeXFMTXpCU3BFRWFPRXdoeTlwRnBPOXF0aVJMc2hraUVhcTREdHNSZ2xxdjdybVhWU0dNZEFJUW5hV0xpTENqenY1bDc3cGh6Vzl6Z1J0ZkZab25wRmxMcFY5RFA4MXpfN0d6ZXVjcG4zcmZqSTA3dE0zb3FDVUNLMVZMc3QzWnh4MzRzQXVjUld3dTc5QlEwV25xRWZvcDE5TUlYSWhSNDdUMU1obFJqWFo3eVU?oc=5"
   ]
  ]
 }
