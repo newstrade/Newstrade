@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-26T19:00:44.951Z",
+ "updated": "2026-10-26T19:51:43.799Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
    "tag": "USD",
    "imp": "med",
    "name": "CB Consumer Confidence",
-   "fc": "80.7",
+   "fc": "81.2",
    "prev": "81.9",
    "act": ""
   },
@@ -304,121 +304,121 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1186,
-   "ch": -0.16,
-   "asof": "2026-10-26T19:00:44.000Z"
+   "p": 1.1183,
+   "ch": -0.19,
+   "asof": "2026-10-26T19:50:45.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.335,
-   "ch": -0.19,
-   "asof": "2026-10-26T19:00:44.000Z"
+   "p": 1.3347,
+   "ch": -0.21,
+   "asof": "2026-10-26T19:50:45.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.438,
-   "ch": 0.4,
-   "asof": "2026-10-26T19:00:44.000Z"
+   "p": 157.471,
+   "ch": 0.42,
+   "asof": "2026-10-26T19:51:43.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7024,
-   "ch": -0.2,
-   "asof": "2026-10-26T19:00:44.000Z"
+   "p": 0.7021,
+   "ch": -0.24,
+   "asof": "2026-10-26T19:50:45.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4021,
-   "ch": 0.14,
-   "asof": "2026-10-26T19:00:45.000Z"
+   "p": 1.4017,
+   "ch": 0.11,
+   "asof": "2026-10-26T19:51:43.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8274,
-   "ch": 0.4,
-   "asof": "2026-10-26T19:00:45.000Z"
+   "p": 0.8275,
+   "ch": 0.41,
+   "asof": "2026-10-26T19:51:42.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 79821.45,
-   "ch": -0.27,
-   "asof": "2026-10-26T19:00:42.000Z"
+   "p": 79846.19,
+   "ch": -0.24,
+   "asof": "2026-10-26T19:51:32.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2310.25,
-   "ch": -0.73,
-   "asof": "2026-10-26T19:00:41.000Z"
+   "p": 2312.88,
+   "ch": -0.61,
+   "asof": "2026-10-26T19:51:39.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7672.63,
-   "ch": 0.64,
-   "asof": "2026-10-26T19:00:45.000Z"
+   "p": 7676.02,
+   "ch": 0.69,
+   "asof": "2026-10-26T19:51:43.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 26168.553,
-   "ch": 0.82,
-   "asof": "2026-10-26T19:00:43.000Z"
+   "p": 26183.945,
+   "ch": 0.88,
+   "asof": "2026-10-26T19:51:42.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52306.19,
-   "ch": 0.17,
-   "asof": "2026-10-26T19:00:44.000Z"
+   "p": 52321.19,
+   "ch": 0.2,
+   "asof": "2026-10-26T19:51:43.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4027.5,
-   "ch": 0.49,
-   "asof": "2026-10-26T18:50:41.000Z"
+   "p": 4026.2,
+   "ch": 0.46,
+   "asof": "2026-10-26T19:41:35.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 102.01,
-   "ch": -1.22,
-   "asof": "2026-10-26T18:50:45.000Z"
+   "p": 101.99,
+   "ch": -1.24,
+   "asof": "2026-10-26T19:41:43.000Z"
   },
   {
    "s": "USD/KES",
    "m": "Forex",
    "d": 2,
-   "p": 129.79,
-   "ch": 0,
-   "asof": "2026-10-26T18:10:39.000Z"
+   "p": 129.8,
+   "ch": 0.01,
+   "asof": "2026-10-26T19:39:36.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6461,
-   "ch": 0.4,
-   "asof": "2026-10-26T19:00:46.000Z"
+   "p": 16.6477,
+   "ch": 0.41,
+   "asof": "2026-10-26T19:51:44.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,49 +432,49 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 100.21,
-   "ch": -1.03,
-   "asof": "2026-10-26T19:00:41.000Z"
+   "p": 100.32,
+   "ch": -0.92,
+   "asof": "2026-10-26T19:51:39.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2907,
-   "ch": -0.29,
-   "asof": "2026-10-26T19:00:43.000Z"
+   "p": 1.2914,
+   "ch": -0.23,
+   "asof": "2026-10-26T19:51:43.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 342.86,
-   "ch": -1.4,
-   "asof": "2026-10-26T19:00:45.000Z"
+   "p": 344.575,
+   "ch": -0.91,
+   "asof": "2026-10-26T19:51:44.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 393.713,
-   "ch": 5.77,
-   "asof": "2026-10-26T19:00:46.000Z"
+   "p": 392.22,
+   "ch": 5.37,
+   "asof": "2026-10-26T19:51:38.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 216.11,
-   "ch": 2.44,
-   "asof": "2026-10-26T19:00:45.000Z"
+   "p": 216.335,
+   "ch": 2.55,
+   "asof": "2026-10-26T19:51:44.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 54.02,
-   "ch": 0.13,
-   "asof": "2026-10-26T18:50:38.000Z"
+   "p": 53.94,
+   "ch": -0.02,
+   "asof": "2026-10-26T19:41:38.000Z"
   }
  ],
  "news": [
@@ -495,23 +495,23 @@
   [
    "Crypto",
    "med",
-   "If Crypto Falls Another 20%, Which Holds Up Best: Ethereum, Sui or Avalanche? Grok AI Ranks Them",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaDdkZEttM2ZLSXI5dlFoOUp3QTZrcDI0ZzVDbnBUWU8tVi1tREZHWjFBMGRubThfd0ItOVZfQXlueHF5anpqRVRuNEd2Q3ZFZDFOaTNHcno3MjRlMUhOSWVsNGhvWFRqY3lGNFRlczBfS3dsUWh3T2pYLXFRX2gxUEZDY05oQjNXQ0ZZbGxPZm13R01pWlVEYjFB?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
    "Dutch Investors Poised to Flee Crypto Over Wealth-Tax Carveout",
    "Bloomberg.com",
    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaGxVT3NMRHpzbks4bEZtZTF3R3U0Y1RTZ1FmbGNsUTBFSWdMdW9lRy0zLUJnODNYcENIdTIyYW5QZmpiNS1rby05QTJ6YldvakZFWkl5U2NhMHRVMEVha2g5TjY3RmttbjBOQmhOZGhvXy03UTZXS1p6VmFkMThMdkNaaXZQMjlQNTlHZ0kzS2xTZnhxRkpxN283MWtxbzZoV0VMaTBMSjNjcEJWUWM3ODByWQ?oc=5"
   ],
   [
+   "Crypto",
+   "med",
+   "If Crypto Falls Another 20%, Which Holds Up Best: Ethereum, Sui or Avalanche? Grok AI Ranks Them",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaDdkZEttM2ZLSXI5dlFoOUp3QTZrcDI0ZzVDbnBUWU8tVi1tREZHWjFBMGRubThfd0ItOVZfQXlueHF5anpqRVRuNEd2Q3ZFZDFOaTNHcno3MjRlMUhOSWVsNGhvWFRqY3lGNFRlczBfS3dsUWh3T2pYLXFRX2gxUEZDY05oQjNXQ0ZZbGxPZm13R01pWlVEYjFB?oc=5"
+  ],
+  [
    "Stocks",
    "med",
-   "AI stocks rise as Anthropic nears Wall Street debut amid investor caution",
+   "Equities climb as Anthropic's IPO filing buoys AI stocks",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNVdGRWF4eUpFNlQ2QkxGSWVrdlZZMU9OVlgtNkduS1JrMVdzQ0VJRVJPak4xcERFNENPWGE3YUM3VHpSSnFybzZJRWRTSW53eWwzTW1jLTR5dmpjelcxam96czEycUZ3a1piY2kwcC15WTR3ZFJUeGdIUkxuLXl6b0d4dGJ0T0hWcUl0ejVSMzI1UlpJdzRnZ09Td05wRDlJbVJaT0ktM3Z4Q2ZNdnNSWnA1bkZGVl9iYVI1TEtCc0VhRjRJ?oc=5"
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVlfUU5UYnVIOHVRRHJCaWJNQ0NtM0V5aXdZUE5QSEhGVTAxWmdXcU1KeGVEaEtYTXlEal9YNjMwblR6bGZQcm5HODd6N2xnNUppZzdXMDVTSWwtZEc3a3p3Q0M4VzRtaHo3QTd1VDJpaGNPQmw0WjFNaEMyQ2JyOVpGcmZEbktIdk45OHp4blZxdzc5UllRT2V1cnllVTVVTjVYZm1IZ0VjWDlwTnc?oc=5"
   ],
   [
    "Stocks",
