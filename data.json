@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T03:49:34.009Z",
+ "updated": "2026-10-26T04:48:37.532Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1226,
-   "ch": 0.2,
-   "asof": "2026-10-26T03:48:44.000Z"
+   "p": 1.1225,
+   "ch": 0.19,
+   "asof": "2026-10-26T04:47:45.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3382,
-   "ch": 0.05,
-   "asof": "2026-10-26T03:48:44.000Z"
+   "p": 1.3381,
+   "ch": 0.04,
+   "asof": "2026-10-26T04:47:45.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 156.789,
-   "ch": -0.02,
-   "asof": "2026-10-26T03:49:33.000Z"
+   "p": 156.895,
+   "ch": 0.05,
+   "asof": "2026-10-26T04:48:36.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7032,
-   "ch": -0.09,
-   "asof": "2026-10-26T03:48:44.000Z"
+   "p": 0.7034,
+   "ch": -0.06,
+   "asof": "2026-10-26T04:46:45.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4004,
-   "ch": 0.01,
-   "asof": "2026-10-26T03:49:32.000Z"
+   "p": 1.4005,
+   "ch": 0.02,
+   "asof": "2026-10-26T04:48:36.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8236,
-   "ch": -0.06,
-   "asof": "2026-10-26T03:49:32.000Z"
+   "p": 0.8238,
+   "ch": -0.04,
+   "asof": "2026-10-26T04:48:33.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 79412,
-   "ch": -0.78,
-   "asof": "2026-10-26T03:49:15.000Z"
+   "p": 79845.57,
+   "ch": -0.24,
+   "asof": "2026-10-26T04:48:35.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2299.17,
-   "ch": -1.2,
-   "asof": "2026-10-26T03:49:14.000Z"
+   "p": 2312.18,
+   "ch": -0.64,
+   "asof": "2026-10-26T04:48:31.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,17 +392,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4026,
-   "ch": 0.45,
-   "asof": "2026-10-26T03:39:32.000Z"
+   "p": 4025.2,
+   "ch": 0.43,
+   "asof": "2026-10-26T04:38:25.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 100.83,
-   "ch": -2.36,
-   "asof": "2026-10-26T03:39:30.000Z"
+   "p": 101,
+   "ch": -2.2,
+   "asof": "2026-10-26T04:38:33.000Z"
   },
   {
    "s": "USD/KES",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6045,
-   "ch": 0.15,
-   "asof": "2026-10-26T03:49:33.000Z"
+   "p": 16.5957,
+   "ch": 0.09,
+   "asof": "2026-10-26T04:48:36.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 99.97,
-   "ch": -1.26,
-   "asof": "2026-10-26T03:49:15.000Z"
+   "p": 100.92,
+   "ch": -0.32,
+   "asof": "2026-10-26T04:48:33.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2756,
-   "ch": -1.45,
-   "asof": "2026-10-26T03:49:11.000Z"
+   "p": 1.2838,
+   "ch": -0.82,
+   "asof": "2026-10-26T04:48:32.000Z"
   },
   {
    "s": "Apple",
@@ -472,18 +472,18 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 54.325,
-   "ch": 0.7,
-   "asof": "2026-10-26T03:39:31.000Z"
+   "p": 54.265,
+   "ch": 0.59,
+   "asof": "2026-10-26T04:37:17.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Goldman Says Yen Becoming Better Hedge Against AI Market Shock",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTjhjQksyclkzMVcxLTdYS3BnMWZidHJ1WXFuc2M1dFQ5bDI2SThvNzN1YUY3Znl0NmtCeDFDMGxYcGxuM1BPSm4tSVJkQXNlTERJcVdvODFkSXNwM3JVSlVHbHpqVE1LWHMzejVEdnNMMEUzdVNkZ2pvV2RFd0dZRVJhd3lES1B2VGNJa01QTzQzQkQtMjVVT0UxRmpZNDJuWEpoNkJ0dW5HRW9BZ0JsZDh0UQ?oc=5"
+   "Currency markets subdued ahead of pivotal central bank week",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlRGQXNlMDJDS0ZlQnJqVlI0Q3FOUUhyZmpfcUY2TDJNOTA5a0NDMEc5QWpKZ3NrQlZ0QWJSMERlU2wzQlFxcWF0OVFRVlNOSUYydEdiaU5LaTFvVDMxTk5NWTF6NVVFZEdRcW8tOHpZRnlmWDhiRnV3QlllYnVtVldqTGllWmY2RnF1MWVlMFRBT0xWbHliN3pWM3NhQnNzRV80ZHJ5T0M?oc=5"
   ],
   [
    "Forex",
@@ -495,16 +495,16 @@
   [
    "Crypto",
    "med",
-   "Bitcoin Whales Hold Back as Retail Deposits Hit 6-Month High",
+   "Bitcoin Falls Below $80,000: Is Benjamin Cowen's Bearish Q4 Roadmap Playing Out?",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLTk2UUMyVHhvYlVoU1YzVERzQXJHNkh2Y3VmX3c3MTBXX3ZfVzJ1d0I5OU44Z2FHa1pfUE1KRHhMb25VaW1vWllfRHYyNV9wcl93UTdPVHBsOWRYYVdIb1BhMHYtcExaSXVIeEZrSnF0ekVtTDBQUEhLLUlfRnRnNmhZUi1NcnluM1FBX3c4c0pCOXlUSmVtbVZCcTY?oc=5"
+   "https://news.google.com/rss/articles/CBMilgFBVV95cUxObUZCaTVZNlhldzJiS0ZmMkEtc1ZCVVE4aUNsNUEwaGxGRnl2Mmg3QjlzbXhBSzZEWjhldmFDUlpUU3gzLXdGVWV1UzFSeUt5TVJPTXZYTTRTdFRqcjlsMTNubFZDNDNlSjdoc193cER6dzlTdENzMS0ybkNlazJtUTdjMzlNbmJQaS10QXFSbzNWQXJJeHc?oc=5"
   ],
   [
    "Crypto",
-   "med",
-   "Netanyahu rebuked for plan to use crypto to bypass economic sanctions",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEZIYi1YYkZXSDlUeWN0cUgzdzdudTFUNlF5bHE1eVM4Z1NZeUFxVWZrVXp3d0N1dnRRWU5iYzZSc3J5QlJiQ3c4bllDUXFJcFFFdjNGeTFPbGhxc2VRZjYzV1dLSmtKX2JqQlpfd2U4RTFmWUhoRGFtVUVtVWRSc0NBZjc0NjhUdUVLNmM2dDVBYUxLOWRob3BwWkY2bnBKSlhnSGc0aXVfTEZ5RjBsTDJ3?oc=5"
+   "high",
+   "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa3RORC0wdG9lUUR3S2gwbHRkY0lKRlozQW44VWp6a21mUTgtVkJGRWxrajZMcUhvVzU3SXgxTE5iVTB3M2MxeXVES3lLUFBIdERIdk5wUW9JRGtWMnVqM3JpZmsweERVcEhLaEx0ckRlbHppX2ZPSkowbTdNaFRkNDRoeEhmMlpYODRGVlI0cnJETmRhTFlRSzhHUE94V1Jsa01kMWQ2THVxUHBQSWY0U2R2VQ?oc=5"
   ],
   [
    "Stocks",
@@ -516,14 +516,14 @@
   [
    "Stocks",
    "med",
-   "Nasdaq Strengthens Asia-Pacific Leadership Team",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeTJETlEzYkV1YWtpZUctUTRXbzFnUkZETWUzZnkwcGZLWmpaRmx0bkJGOVMzSGZJY0p1MjVzcm9DeUJXUWkzUlZHZmN0TDhjSkMyV3B3TDFCdHlmZ2lWTVp4bmpRRUJvYUkwQ1BvNjJiekk5MnpqaEppZFNoYXFBSU9DU2RYWEVfLUVFWERTWU1vR1pnNkpONnYzNmxzNnpjcWRfVzUwcFl1T1k?oc=5"
+   "Netflix Just Posted a Record Margin. So Why Is Wall Street Panicking?",
+   "The Motley Fool",
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdzVWMEx5YkYxbzhmbzlid0tTcGlveWR2RmptVm03cFpWc2ZvR1hmQU84dEF3QTJYMVVSajBvN3VnTEpWLU5EaWZYN1BvaWNodURXUFRPTUE4YWhsZTFxWW5wbnJpWlJaYTRmRkpvUzM5UFZMcVN4VnRUeWE5cVprdUZNc2lwVXRsZXk0NTc0RUFsaS1hMlZDLQ?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Asian shares make cautious start, Brent eases from six-month high",
+   "Stocks trade cautiously in Asia, Brent off six-month top",
    "Reuters",
    "https://news.google.com/rss/articles/CBMifkFVX3lxTE90MHowUDNReVJUUkkxWEZhTnAyYnZZNGNXQjJPVWt0QjgtaERfUHM4bERQd2k2NW5kMXR5dld0NHpsYnBhOENieXU1VU9saFBya202TXRjUktMa0l6OXF0OEZFUDdxR3FtSTdCLUxRVGpZNnBndExIcGVEZmtXZw?oc=5"
   ],
