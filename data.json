@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T22:47:13.938Z",
+ "updated": "2026-10-27T23:43:01.865Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1135,
-   "ch": -0.39,
-   "asof": "2026-10-27T22:46:44.000Z"
+   "p": 1.1131,
+   "ch": -0.43,
+   "asof": "2026-10-27T23:42:45.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3308,
-   "ch": -0.25,
-   "asof": "2026-10-27T22:46:44.000Z"
+   "p": 1.3306,
+   "ch": -0.27,
+   "asof": "2026-10-27T23:42:45.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.938,
-   "ch": 0.3,
-   "asof": "2026-10-27T22:47:12.000Z"
+   "p": 157.977,
+   "ch": 0.32,
+   "asof": "2026-10-27T23:43:02.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7031,
-   "ch": 0.2,
-   "asof": "2026-10-27T22:46:44.000Z"
+   "p": 0.7032,
+   "ch": 0.21,
+   "asof": "2026-10-27T23:42:45.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4046,
-   "ch": 0.24,
-   "asof": "2026-10-27T22:47:12.000Z"
+   "p": 1.4051,
+   "ch": 0.28,
+   "asof": "2026-10-27T23:43:02.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8288,
-   "ch": 0.27,
-   "asof": "2026-10-27T22:47:10.000Z"
+   "p": 0.8289,
+   "ch": 0.28,
+   "asof": "2026-10-27T23:43:02.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80759.12,
-   "ch": 0.94,
-   "asof": "2026-10-27T22:47:10.000Z"
+   "p": 80826.01,
+   "ch": 1.02,
+   "asof": "2026-10-27T23:42:57.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2346.15,
-   "ch": 1.11,
-   "asof": "2026-10-27T22:47:06.000Z"
+   "p": 2348.07,
+   "ch": 1.19,
+   "asof": "2026-10-27T23:43:00.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,17 +392,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4074.8,
-   "ch": 0,
-   "asof": "2026-10-27T22:37:07.000Z"
+   "p": 4072.6,
+   "ch": -0.05,
+   "asof": "2026-10-27T23:32:57.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 99.92,
-   "ch": 0.02,
-   "asof": "2026-10-27T22:36:51.000Z"
+   "p": 99.98,
+   "ch": 0.08,
+   "asof": "2026-10-27T23:32:18.000Z"
   },
   {
    "s": "USD/KES",
@@ -410,15 +410,15 @@
    "d": 2,
    "p": 129.86,
    "ch": 0.05,
-   "asof": "2026-10-27T22:15:25.000Z"
+   "asof": "2026-10-27T23:22:17.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6222,
-   "ch": -0.12,
-   "asof": "2026-10-27T22:47:13.000Z"
+   "p": 16.6395,
+   "ch": -0.02,
+   "asof": "2026-10-27T23:43:02.000Z"
   },
   {
    "s": "USD/NGN",
@@ -426,23 +426,23 @@
    "d": 2,
    "p": 1340.31,
    "ch": -0.45,
-   "asof": "2026-10-27T22:15:25.000Z"
+   "asof": "2026-10-27T23:22:17.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 101.13,
-   "ch": 0.37,
-   "asof": "2026-10-27T22:47:10.000Z"
+   "p": 101.18,
+   "ch": 0.42,
+   "asof": "2026-10-27T23:42:55.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3224,
-   "ch": 1.23,
-   "asof": "2026-10-27T22:47:11.000Z"
+   "p": 1.3279,
+   "ch": 1.65,
+   "asof": "2026-10-27T23:42:57.000Z"
   },
   {
    "s": "Apple",
@@ -472,25 +472,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 54.55,
-   "ch": 0.07,
-   "asof": "2026-10-27T22:36:58.000Z"
+   "p": 54.485,
+   "ch": -0.05,
+   "asof": "2026-10-27T23:32:05.000Z"
   }
  ],
  "news": [
+  [
+   "Forex",
+   "high",
+   "ECB Expected to Leave Key Rate Unchanged Amid French Bond Drama",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYXZzbXVham1ZQ3ZRZEJzSGxNSmZUMnRfblVxa1JEbjRUM3o3YWZXOVBHZ1RYU0RvZHU1YjdTQ1BDZGV3VjFqODRVeEhISG5hVGowVlY2VVVWcy1iSVg4WmNFYXl3VDdLRkRYbndjZW1Pbkl0dHpGVlJHUGRUTDVrTmhHdkZhRktLTnREY2VqdE5MUVNCZ3ZFMGUxY0tJU1dzYWlZbk1QNHlBbklyVlBvY3VB?oc=5"
+  ],
   [
    "Forex",
    "med",
    "Poorer Brazilians devote four times more income to credit card debt, central bank says",
    "Reuters",
    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcHhTdWhkbjVIbnJ1NFVfN2YwYUtEQlVQTWhWVW93TGdKdWJVVlRVX0t2anMySThWOVpkRkdaelMtb3ZYS3E5QUQzNFhKMndFY2l0d3ZpWHh6eTQ4ZUJvQlY3R25odnRuQV8tVzFlelFPQkxnSVpsQXV0S1YzZUIxMU90WktKSjA5ZjY2cmw2elkwd29aLUZHaFlCM0JhVVdqTGg0VUg4WDNxNTI1ZjZvMF9JUkpJd0VMdXZsWGZLdmJUUEZaUkpB?oc=5"
-  ],
-  [
-   "Forex",
-   "high",
-   "Chile Holds Key Rate as Growth Fades and Inflation Picks Up",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWd4LVBwZWpaYk51cm1ySXo2aDBkajctcERHUzUwTzMxNHBncENYWUtCSUZRNXZHYkVYdHJwc2FMT3JkUmJ3Mkd5UUtZdTkxQ0ZxYTJlc1pLWWN6ODY0NDZzSjVZc2xKOTdkdmZvcUFlQjY2eG9vdUNYXzR2SkplSEcybXgwYm42UGRobWZCd0xpWXd5eFNRUENkWm40MFpncERuQXplVTN3YXNNTG5Gck9vOW8?oc=5"
   ],
   [
    "Crypto",
@@ -516,9 +516,9 @@
   [
    "Stocks",
    "med",
-   "GM shifts into Wall Street's tech lane",
-   "Axios",
-   "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QR19MWmRrN2ZLSW5Vd2kxbjAyR0swekVzYWVIb05FV09yNmxZWVFNb0liSVVHMXFTd1lNUGlxN3NuS2ZNZnhJTzlDZTFxTkl0QXljb1ViY29JVzlEaVlxSnBLMXlEaklqa3Rv?oc=5"
+   "Asian Stocks Set to Gain on Resurgent AI Optimism: Markets Wrap",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdFZXQ0F0WGVCT3FPRFB5RndJRUYtdHFQNVlfVmxJV1dmd0ZKMklnSl8yYnV6Z0N0bERBbmVhenJGS3dTOF95VERJeC0xektmNXVOSzJzTUVySzRSYWRIWHl6RGNxU1o2eWRmcU5EcEN3OTlzaldJUERqdWloQ1pRa1Q2ZUI4YUZCejlrUzk3NzBRdmdf?oc=5"
   ],
   [
    "Commodities",
