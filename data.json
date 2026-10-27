@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T09:52:10.811Z",
+ "updated": "2026-10-27T10:50:46.849Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1145,
-   "ch": -0.3,
-   "asof": "2026-10-27T09:51:42.000Z"
+   "p": 1.1151,
+   "ch": -0.25,
+   "asof": "2026-10-27T10:50:43.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3315,
-   "ch": -0.2,
-   "asof": "2026-10-27T09:51:42.000Z"
+   "p": 1.3316,
+   "ch": -0.19,
+   "asof": "2026-10-27T10:50:43.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.696,
-   "ch": 0.15,
-   "asof": "2026-10-27T09:52:09.000Z"
+   "p": 157.678,
+   "ch": 0.13,
+   "asof": "2026-10-27T10:50:46.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7029,
-   "ch": 0.17,
-   "asof": "2026-10-27T09:50:42.000Z"
+   "p": 0.7035,
+   "ch": 0.26,
+   "asof": "2026-10-27T10:50:43.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4021,
-   "ch": 0.06,
-   "asof": "2026-10-27T09:52:09.000Z"
+   "p": 1.4014,
+   "ch": 0.01,
+   "asof": "2026-10-27T10:50:46.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8285,
-   "ch": 0.23,
-   "asof": "2026-10-27T09:52:10.000Z"
+   "p": 0.8284,
+   "ch": 0.22,
+   "asof": "2026-10-27T10:50:46.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 79541.46,
-   "ch": -0.58,
-   "asof": "2026-10-27T09:52:05.000Z"
+   "p": 79863.15,
+   "ch": -0.18,
+   "asof": "2026-10-27T10:50:45.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2303.78,
-   "ch": -0.72,
-   "asof": "2026-10-27T09:51:56.000Z"
+   "p": 2313.01,
+   "ch": -0.32,
+   "asof": "2026-10-27T10:50:43.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,17 +392,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4009.7,
-   "ch": -0.71,
-   "asof": "2026-10-27T09:41:52.000Z"
+   "p": 4013.3,
+   "ch": -0.62,
+   "asof": "2026-10-27T10:40:42.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 102.12,
-   "ch": 0.35,
-   "asof": "2026-10-27T09:42:10.000Z"
+   "p": 101.78,
+   "ch": 0.02,
+   "asof": "2026-10-27T10:40:43.000Z"
   },
   {
    "s": "USD/KES",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6824,
-   "ch": 0.24,
-   "asof": "2026-10-27T09:52:11.000Z"
+   "p": 16.6542,
+   "ch": 0.07,
+   "asof": "2026-10-27T10:50:46.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 99.5,
-   "ch": -1.25,
-   "asof": "2026-10-27T09:51:57.000Z"
+   "p": 100.05,
+   "ch": -0.7,
+   "asof": "2026-10-27T10:50:35.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2919,
-   "ch": -1.11,
-   "asof": "2026-10-27T09:52:06.000Z"
+   "p": 1.2999,
+   "ch": -0.49,
+   "asof": "2026-10-27T10:50:36.000Z"
   },
   {
    "s": "Apple",
@@ -474,14 +474,14 @@
    "d": 3,
    "p": 53.265,
    "ch": -1.98,
-   "asof": "2026-10-27T09:42:02.000Z"
+   "asof": "2026-10-27T10:40:42.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Yen eases on risk-on mood ahead of central bank bonanza",
+   "Dollar firms ahead of central bank meetings, steadier stocks stall safe haven play",
    "Reuters",
    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVDhUYWVaR1lyeGFScDAxOG1INFBuME5XaHhvOFNZTnhjUXFCTHVGX2k1cEJzSUMwUmpQblFZWE1WU2Z6Q0dnZTRmc2lCSEE1RklYN3VZdWV3aVRLblJ4aTFudW1aUkxUVWZXWUl6Ql8zQkVEaDBJakY4SnhyUmRwb1BQcHpKSHlOWG5DeDN3QVFIb1MyMU5mcDlESEdQS1BwdHhpaThFZjZDMDIweVVYX1VQX1VEdVdh?oc=5"
   ],
@@ -495,23 +495,16 @@
   [
    "Crypto",
    "med",
-   "Bitcoin and ETH Holders Could Face a Deeper Pullback, Ansem Warns",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYVlwbEFkNzdjTTJSSklWZ1ZsTWV0UlAzOUREcF9sU2pRMk5Fc1hFS25scXFURzlWX1ZuOVFJU0hjd2hBTVVkdlloRHl5Y1pYYTlmbGNTWjI3NWhSdFJmQ2xRRllHMkdqQXlLQzZLZGliTEJ4RTIzYjBSOU15YkU1QWRCazlwdFRjSlUwY1FrSTBCVV8wbzZZNW04SQ?oc=5"
+   "The ultra-wealthy crypto executives who are spending big on the midterms",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdl9uZnNNN3FkWnI1VG8xRkxyTXF5dnJwWEMxYVpXLWZIUUt5N0QwX3pYQWlzdzFRN3hlOXNHcmt6VmZCbTkyQnJnWF9yRXRxTDlPa1JuSFF0Vjk5VFZGRmZYdG5SRDdIcERBLWhrQVpaMmViU21uNXc1NkpDS0Y0Tmd0ZTgwTmFWQzIwaV8tM3JjNnhIQXJKRXU2Y3J2d24xVmp3Yk9ueV9WckhNT1JQbmNNZDQ?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Now is the time to accumulate bitcoin, Galaxy says",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQkpGaHRTUmZXV1lZYmZfUWRzTi1ic2VpUXVpYVhWVW1qaUMyTlp2NnYxRkEzY29YWUk2bzhQYkx4RGlHMWRJcWFVakh6SGdWZEtyck8wU3MxVGhhQlJtWll2a29ieFdlNGlNTUV2SHU5WENaR2x6ZHhCQXo5VW1uWmZNMmotNlBPcXpyMmdpbVFCaHpUS3FkVg?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Asian Stocks to Gain as Anthropic Files for IPO: Markets Wrap",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTFLZTJNckNaRFN0TG9fLXJTY3h3VkVRSnZfMDJfLVkxOTNsU01IbWtXbDZQUTFIOXJXWENhY2NIX0ZuLUdLSHJMemcyUkNEZklQdUQxZlpHUWNwaVE3WFp1dk1meVZwejRrSUF1dEhFdDBjNUp3WVdqVnNBamJfQjFrN2g5b3QwZFBUMHZjYVU2aGhK?oc=5"
+   "Bitcoin and ETH Holders Could Face a Deeper Pullback, Ansem Warns",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYVlwbEFkNzdjTTJSSklWZ1ZsTWV0UlAzOUREcF9sU2pRMk5Fc1hFS25scXFURzlWX1ZuOVFJU0hjd2hBTVVkdlloRHl5Y1pYYTlmbGNTWjI3NWhSdFJmQ2xRRllHMkdqQXlLQzZLZGliTEJ4RTIzYjBSOU15YkU1QWRCazlwdFRjSlUwY1FrSTBCVV8wbzZZNW04SQ?oc=5"
   ],
   [
    "Stocks",
@@ -519,6 +512,13 @@
    "Anthropic’s ‘Adjusted’ Profit Exposes Wall Street’s Earnings Game",
    "WSJ",
    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSWx5Q3UtbEx6dUhyUV9zMm5WUWhDUGI3ZWpIdnlzbklmVXVzWnV5SFAyTEo1MTRSUUhrSWhleHZMYUpvTTdNOEwxMnlMRTBLRHB1ZXVMMGdpd1FKZnY1eHNIdkRSUHdEdWFUWkJqbFAxd2VYWXJ1NjlKQzYzQ3I2Q3R6eldQS2duckRoV2hyOE5PSTFCYTk0MENRTGVnejdmVWpqNDJrbXdWVWRV?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
+   "GM to transfer stock listing to Nasdaq",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZm9hYk1yQ3dNekhqMHROb3lfbGN4RDVGSFVSVFZkay05TWdfN3FTNnhTTXZIZ3lUM05kR0NCSVRmUlU4OWh4RWtidE5hZlZHaXJzSFU2dk5Wb25Dc044b0xPOWgySXpaRWRTbEhwcWdxN3RtQk1fcldpOFdNS0g4cVJ0MzZDWHJRYVVGMGFEdlIxa2dESjZnNnVCNTY1b1E?oc=5"
   ],
   [
    "Commodities",
@@ -530,9 +530,9 @@
   [
    "Commodities",
    "med",
-   "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHd1Q1FTWEFlUlUtZ1FQRWJfYm1QYm5KZW1jTVA2cS01R0cxb0xsNVNrdXJVNm44VTd2ZWN4WnY1R0tla0JuM3NVUmpBVF9GLTl2WEdFRmNUTFpEVUpHVHQzdUREUFBwN2ZEZ2xGcThUa0lKamdzaEY2c19pRy1PcXZCd2hPUmRfTmQ4bUNGWkFPbTM3Z04zLXB2bUdtclBvVmpmQmhqcEloSTJUOHg2ZzRsbEI?oc=5"
+   "OPEC+ oil producers set to keep output targets steady at Sunday meeting, sources say",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMk1rLTI4Z1oza3I5SDJ2YUR0WUhiQ0RmWV9KLUpCSHMyY1FoSFgwWUFOc010MzIyWThVNEZvRFl0YzBzNHFmazA3ZEV2ZzRPX2pNWU9GSVd5Z1VnaVRGdmdSZDVEVVlGTmxuNVlsdzNSMGlBdW5UYVRpelBBXzhLOWkwd2pST0NmQjRMek82VS1ncXZTWjk5Q09reDQtQmNON3NfRF9ld1FUWG1hQW5QRFZySkdIM1VKRzVvbGZLVEE0V1hPQ2dsTkNnZw?oc=5"
   ]
  ]
 }
