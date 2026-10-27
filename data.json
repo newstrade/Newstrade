@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T18:56:02.857Z",
+ "updated": "2026-10-27T19:51:07.947Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,105 +304,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1138,
-   "ch": -0.37,
-   "asof": "2026-10-27T18:55:45.000Z"
+   "p": 1.114,
+   "ch": -0.35,
+   "asof": "2026-10-27T19:50:46.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3312,
-   "ch": -0.22,
-   "asof": "2026-10-27T18:55:45.000Z"
+   "p": 1.3317,
+   "ch": -0.19,
+   "asof": "2026-10-27T19:50:46.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.94,
-   "ch": 0.3,
-   "asof": "2026-10-27T18:56:02.000Z"
+   "p": 157.925,
+   "ch": 0.29,
+   "asof": "2026-10-27T19:51:07.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7029,
-   "ch": 0.17,
-   "asof": "2026-10-27T18:54:45.000Z"
+   "p": 0.7031,
+   "ch": 0.2,
+   "asof": "2026-10-27T19:50:46.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4052,
-   "ch": 0.29,
-   "asof": "2026-10-27T18:56:02.000Z"
+   "p": 1.405,
+   "ch": 0.27,
+   "asof": "2026-10-27T19:51:07.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8287,
-   "ch": 0.25,
-   "asof": "2026-10-27T18:56:01.000Z"
+   "p": 0.8285,
+   "ch": 0.23,
+   "asof": "2026-10-27T19:51:07.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80535.06,
-   "ch": 0.66,
-   "asof": "2026-10-27T18:55:59.000Z"
+   "p": 80640.86,
+   "ch": 0.79,
+   "asof": "2026-10-27T19:51:04.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2341.56,
-   "ch": 0.91,
-   "asof": "2026-10-27T18:55:58.000Z"
+   "p": 2344.88,
+   "ch": 1.05,
+   "asof": "2026-10-27T19:51:05.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7720.19,
-   "ch": 0.57,
-   "asof": "2026-10-27T18:56:02.000Z"
+   "p": 7729.94,
+   "ch": 0.69,
+   "asof": "2026-10-27T19:51:07.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 26479.008,
-   "ch": 1.18,
-   "asof": "2026-10-27T18:55:52.000Z"
+   "p": 26502.842,
+   "ch": 1.27,
+   "asof": "2026-10-27T19:51:07.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52375.61,
-   "ch": 0.03,
-   "asof": "2026-10-27T18:56:02.000Z"
+   "p": 52437.39,
+   "ch": 0.14,
+   "asof": "2026-10-27T19:51:08.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4068.8,
-   "ch": 0.75,
-   "asof": "2026-10-27T18:45:57.000Z"
+   "p": 4076.2,
+   "ch": 0.94,
+   "asof": "2026-10-27T19:41:05.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 99.98,
-   "ch": -1.75,
-   "asof": "2026-10-27T18:46:00.000Z"
+   "p": 99.81,
+   "ch": -1.92,
+   "asof": "2026-10-27T19:41:04.000Z"
   },
   {
    "s": "USD/KES",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6234,
-   "ch": -0.11,
-   "asof": "2026-10-27T18:56:02.000Z"
+   "p": 16.6214,
+   "ch": -0.13,
+   "asof": "2026-10-27T19:51:08.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,49 +432,49 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 100.82,
-   "ch": 0.06,
-   "asof": "2026-10-27T18:55:57.000Z"
+   "p": 101.03,
+   "ch": 0.27,
+   "asof": "2026-10-27T19:51:00.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3221,
-   "ch": 1.21,
-   "asof": "2026-10-27T18:55:59.000Z"
+   "p": 1.3215,
+   "ch": 1.16,
+   "asof": "2026-10-27T19:51:07.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 346.23,
-   "ch": 0.67,
-   "asof": "2026-10-27T18:56:03.000Z"
+   "p": 347.17,
+   "ch": 0.95,
+   "asof": "2026-10-27T19:51:08.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 407.29,
-   "ch": 4,
-   "asof": "2026-10-27T18:56:00.000Z"
+   "p": 407.235,
+   "ch": 3.99,
+   "asof": "2026-10-27T19:51:07.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 217.733,
-   "ch": 0.8,
-   "asof": "2026-10-27T18:56:01.000Z"
+   "p": 218.015,
+   "ch": 0.93,
+   "asof": "2026-10-27T19:51:08.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 54.28,
-   "ch": -0.11,
-   "asof": "2026-10-27T18:44:25.000Z"
+   "p": 54.535,
+   "ch": 0.36,
+   "asof": "2026-10-27T19:40:40.000Z"
   }
  ],
  "news": [
@@ -530,9 +530,9 @@
   [
    "Commodities",
    "med",
-   "Saudi Aramco Offers Discounted Oil to Europe as Exports Recover",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUjFneGNqZVVyREJMWUgyd0dtY1pHS0stTGN2aUx2SmpyUmg2WmQyY3JNSTlYWjY2Vm5weldvRlRDaFpON21tS1R5aUZFU0lOTDU0bmJaeG11ek53aElUTGRmVTVvMFFXeHlHWm1FY05GYldnMWNiSThJaWV5M0NkMVEtcGkxOVJHZDlfUkkwaDRhOUxzSVlrb2NwcWJUUDJBYWd5YmQtVDlWclE3UUhQeVJ3eVdRb3hLZjBZ0gHAAUFVX3lxTFBtVXN0cnVKYlM1NUxrRzE5SnV2UlpXd25tZ0I4OEFIUkcxOUNaVklna3RIdDFld0lmRkhqTC1IbmpsZWtBRmJaVVEyeS1ydDNGUnB3REpVVW1hMlZqcC02VTlocTRHRVZBTHpNSFVEcXozWEozZWxKNWRTMUxSWDN4TzRWaGNLLU1qN0IxZEVSNkhBV3RzdG15dzlkUWRyX0dsdDlyTVU0b2xnSjlxb09Jb29od0tFeGRQMTFhd3ljRw?oc=5"
+   "A hidden ‘triple top’ in oil price charts suggests the rally has run out of gas",
+   "MarketWatch",
+   "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeHVEdllwcy1UaUgyRjVxdGE3VjBsVmVabEJJVnM2MUhBSlhjYkdPbzBJM253RC1UR1VnUVdJQ1BabTZJRkV6eG1jQlh2emhRSEVIVGE4WnJVaXo3QlExOE5ETGpwYm1kWjhoZEVQWDVBbU1zVFdqQkpYN1R3SVNrNHpJQUYxeUw4cGxKdXlVUFFGRnJoWW80REZ1OXVWMEw1VlRGQXY4RG8zQjhVQlFzT0hhUGZHRWRXSUg3dA?oc=5"
   ]
  ]
 }
