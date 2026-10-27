@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T13:00:07.624Z",
+ "updated": "2026-10-27T14:01:08.785Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,105 +304,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1154,
-   "ch": -0.22,
-   "asof": "2026-10-27T12:59:41.000Z"
+   "p": 1.1147,
+   "ch": -0.29,
+   "asof": "2026-10-27T14:00:43.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3332,
-   "ch": -0.07,
-   "asof": "2026-10-27T12:59:41.000Z"
+   "p": 1.3319,
+   "ch": -0.17,
+   "asof": "2026-10-27T14:00:43.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.811,
-   "ch": 0.22,
-   "asof": "2026-10-27T13:00:07.000Z"
+   "p": 157.912,
+   "ch": 0.28,
+   "asof": "2026-10-27T14:01:09.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7036,
-   "ch": 0.27,
-   "asof": "2026-10-27T12:58:41.000Z"
+   "p": 0.7031,
+   "ch": 0.2,
+   "asof": "2026-10-27T14:00:43.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4022,
-   "ch": 0.07,
-   "asof": "2026-10-27T13:00:07.000Z"
+   "p": 1.4034,
+   "ch": 0.16,
+   "asof": "2026-10-27T14:01:09.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8285,
-   "ch": 0.23,
-   "asof": "2026-10-27T13:00:07.000Z"
+   "p": 0.8292,
+   "ch": 0.31,
+   "asof": "2026-10-27T14:01:08.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80220.79,
-   "ch": 0.26,
-   "asof": "2026-10-27T13:00:06.000Z"
+   "p": 79821.76,
+   "ch": -0.23,
+   "asof": "2026-10-27T14:01:03.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2331.09,
-   "ch": 0.46,
-   "asof": "2026-10-27T13:00:05.000Z"
+   "p": 2314.86,
+   "ch": -0.24,
+   "asof": "2026-10-27T14:01:04.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7676.77,
-   "ch": 0.7,
-   "asof": "2026-10-26T20:43:43.000Z"
+   "p": 7684.05,
+   "ch": 0.09,
+   "asof": "2026-10-27T14:01:09.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 26169.38,
-   "ch": 0.82,
-   "asof": "2026-10-26T21:15:59.000Z"
+   "p": 26247.32,
+   "ch": 0.3,
+   "asof": "2026-10-27T14:01:07.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52361.58,
-   "ch": 0.28,
-   "asof": "2026-10-26T20:43:41.000Z"
+   "p": 52274.11,
+   "ch": -0.17,
+   "asof": "2026-10-27T14:01:09.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4037.7,
+   "p": 4037.6,
    "ch": -0.02,
-   "asof": "2026-10-27T12:50:06.000Z"
+   "asof": "2026-10-27T13:51:06.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 101.02,
-   "ch": -0.73,
-   "asof": "2026-10-27T12:50:07.000Z"
+   "p": 101.4,
+   "ch": -0.35,
+   "asof": "2026-10-27T13:51:01.000Z"
   },
   {
    "s": "USD/KES",
@@ -410,15 +410,15 @@
    "d": 2,
    "p": 129.86,
    "ch": 0.05,
-   "asof": "2026-10-27T12:24:06.000Z"
+   "asof": "2026-10-27T13:57:59.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6451,
-   "ch": 0.02,
-   "asof": "2026-10-27T13:00:08.000Z"
+   "p": 16.649,
+   "ch": 0.04,
+   "asof": "2026-10-27T14:01:09.000Z"
   },
   {
    "s": "USD/NGN",
@@ -426,71 +426,71 @@
    "d": 2,
    "p": 1340.31,
    "ch": -0.45,
-   "asof": "2026-10-27T12:24:06.000Z"
+   "asof": "2026-10-27T13:57:59.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 100.77,
-   "ch": 0.01,
-   "asof": "2026-10-27T13:00:00.000Z"
+   "p": 99.85,
+   "ch": -0.9,
+   "asof": "2026-10-27T14:01:05.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3127,
-   "ch": 0.49,
-   "asof": "2026-10-27T13:00:04.000Z"
+   "p": 1.3072,
+   "ch": 0.07,
+   "asof": "2026-10-27T14:01:05.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 343.91,
-   "ch": -1.1,
-   "asof": "2026-10-26T20:00:01.000Z"
+   "p": 343.37,
+   "ch": -0.16,
+   "asof": "2026-10-27T14:01:00.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 391.62,
-   "ch": 5.21,
-   "asof": "2026-10-26T20:00:00.000Z"
+   "p": 402.17,
+   "ch": 2.69,
+   "asof": "2026-10-27T14:01:06.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 216,
-   "ch": 2.39,
-   "asof": "2026-10-26T20:00:00.000Z"
+   "p": 215.835,
+   "ch": -0.08,
+   "asof": "2026-10-27T14:01:09.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.72,
-   "ch": -1.14,
-   "asof": "2026-10-27T12:49:55.000Z"
+   "p": 53.89,
+   "ch": -0.83,
+   "asof": "2026-10-27T13:51:05.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Taiwan central bank sees strong tech demand driving exports into 2027",
+   "POLL Strong dollar, high yields drag on gold outlook, but central-bank demand lends support",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX0tXRFhXZDRFQUlCYmE1dG9LaG9pcUZSMElqMEd4TXFFX3VmV2xFSFpBMVVnT0tOTDUtWUJ5OHVSUUlUQm5SQ3lIb3JzTmpyNHRlNXRLQ0dhU0E2RzR3Q2ZEZGw0VlRVeHI3Q2FxX1YxbjJMUFB1dzQxbG1jU3hBdEFmcnBYalZmVDFKLXNnODRNdjNJUlp2b2JhZGZieklsb3pnTmxrX0JDbV9nYi1SUi1aMGFoMVRuazZqaUluQUpxUQ?oc=5"
+   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY2N0dGg4Q1VsMUJXaTJYb1J4cjJiQjRGYS16djR0Nnh5VGVsQmFRZXctU0w3UUpfclljaFp4ZW5DVFZTLVYzTUlSWDY5Q0JsQ0JLYjF5aFJoVDBpOGhrWnkxdEZKdUtpQzNPc1kxRGdGRkdTZENtM25LLUNYNTdlMjNnMHdUcU52VVlFTkNXRUJKMDFhWEhFalptcGZvQ0FZeUl1UHF5T3Z2UmpWOUR6ekJmMnlHblRWQU1MUzFUaXZiUzA?oc=5"
   ],
   [
    "Forex",
-   "high",
-   "Sterling today: Pound dips on firm dollar as Fed, budget loom",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWjZkcXpoYTNxWlh1UnN2ejhJN3ZVYlNVQzlnU2RxM09mUHlvNllYbHdrOXhLcUVDWWlCbHlublVoMXJiM3pSeFMzNk9uV05JUTJnY18tTDFuamxYekROWXNIcnZMcHlncEtUbGhydDgwQkFBcmdDWjk3T2c3WW9DN2pYOVRqTDhmM0UwNFE0LTRCUGlrQWQ2LUJORUQ0UWg1?oc=5"
+   "med",
+   "Poorer Brazilians devote four times more income to credit card debt, central bank says",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcHhTdWhkbjVIbnJ1NFVfN2YwYUtEQlVQTWhWVW93TGdKdWJVVlRVX0t2anMySThWOVpkRkdaelMtb3ZYS3E5QUQzNFhKMndFY2l0d3ZpWHh6eTQ4ZUJvQlY3R25odnRuQV8tVzFlelFPQkxnSVpsQXV0S1YzZUIxMU90WktKSjA5ZjY2cmw2elkwd29aLUZHaFlCM0JhVVdqTGg0VUg4WDNxNTI1ZjZvMF9JUkpJd0VMdXZsWGZLdmJUUEZaUkpB?oc=5"
   ],
   [
    "Crypto",
@@ -509,16 +509,16 @@
   [
    "Stocks",
    "med",
-   "GM will switch to Nasdaq from the NYSE on Nov. 17",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MZ2owdURqOGNmS0VjcmNRVC1KN0M4bHk0TDR4bFMycFM4QTZEQW0yVm9QbnZkXzZEOHRqVGxxY2RQX0R5b3BzaVM5X0FPV2gxQUdHRk1MU0FYVkNiRC1zRXl3cDBIdTBwMFdYOVRobVUxcGfSAXhBVV95cUxQai1qNng2OEZDSHZRcnRJd0VPOEtpV01HUFBXOGFnQkhpcF96LWc4NXcwa2JQRXhVa2k4ZXN5YWhYVngwX1R5aV9yQXQxTHNyR29Za3drdnItdDZ3QTREZVlnTTBwUThBTEY0SExyVnVvN2xtcHI5SEM?oc=5"
+   "GM moves to Nasdaq as first legacy automaker on the exchange",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZm9hYk1yQ3dNekhqMHROb3lfbGN4RDVGSFVSVFZkay05TWdfN3FTNnhTTXZIZ3lUM05kR0NCSVRmUlU4OWh4RWtidE5hZlZHaXJzSFU2dk5Wb25Dc044b0xPOWgySXpaRWRTbEhwcWdxN3RtQk1fcldpOFdNS0g4cVJ0MzZDWHJRYVVGMGFEdlIxa2dESjZnNnVCNTY1b1E?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "GM moves to Nasdaq as first legacy automaker on the exchange",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZm9hYk1yQ3dNekhqMHROb3lfbGN4RDVGSFVSVFZkay05TWdfN3FTNnhTTXZIZ3lUM05kR0NCSVRmUlU4OWh4RWtidE5hZlZHaXJzSFU2dk5Wb25Dc044b0xPOWgySXpaRWRTbEhwcWdxN3RtQk1fcldpOFdNS0g4cVJ0MzZDWHJRYVVGMGFEdlIxa2dESjZnNnVCNTY1b1E?oc=5"
+   "Opinion | Viktor Orbán, U.N. Secretary-General?",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX3dROHZ1TUtuNUVDZDlyeHNtR0VkYXY4WFhld2tKZTEwS3lwVGp3Z25KeUI0ZXV2N2ZZTmM0dmIwRlBCZ2owOWFSTTZLTTVmNzNJWDdlNHRoZlRMbTR1SXVZWnFFaEdjaU5Oc21IMThYU1hSUVFTYzAxQ3NEU3RETlYxbFN4V0tQYzZrN2R4NWs?oc=5"
   ],
   [
    "Commodities",
@@ -530,9 +530,9 @@
   [
    "Commodities",
    "med",
-   "Oil rises as hopes for diplomacy offset impact of renewed Houthi attacks",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOamRMeXF1dF9xaFlNcFlIalRnaGZBQUs2SUwtNThkNExtMzBQa2dYdExLbnJVckRGM3BpMWpjWkhGbEdQUGFHQ1FOWER6SUhadU04ams5RkNXR0tOVDdRTkExX2xnRWhCd3gxUl9icTE4Sk5nSHZFVU1vXzVidVRhOEdESWJCRGR2M3Z3NDVVY2JjZ1dQdjRGelQwTTVnakd6ckIzd2x4bEo5VnFnTjNRaHdNajdIZElQb2pnampYMDZnZW81OTR0NQ?oc=5"
+   "India Rejects Claims of U.S. Pressure Over Russian Oil Purchases",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZS1KWFNZVzM0ZnN6cHV2aEJ1RWN3bEF2alFJSzVCUzFiMGZES0ZLbzJBeGtRbUNNMXhfS1BnMG15UEJmVEo0TEFhZVd1Y1lFV0YwQXB3djF0bTVJWjY1RHUyYkliRGd1d2hxWFRwNjdvSjc0M01DSWw0b2ZyMkRtSVB2WDBFclVXQXhPTTBObW56NGx0YXZwZDg2dWlEQ0FSeVF2UFBIcUZZVkcwRFNkQ0dyVXkwMUFJckHSAb8BQVVfeXFMT1o1dm81OVByMnBFTndYLUZiV0ZhMzJaRHJMS2hLWXRFNFI4YjFHRjNiM3JZZ05aQUF5TjZyTUU2emQ1Xy1ERkM3eTVUd0loNGdveXJEWkwwMmllS0VLTDczMEhCOTRRUkU5T2FxS2htTFBWMDk1QWxXQmVtUGhYREtpN1Q1aTIwQ0Z3N1c2d0daeWszQ0lpRjRHekNiQklRVE9keXRqRklNaDB5Z1VDWjJPTnZKSnRfdEJVMXVUYXM?oc=5"
   ]
  ]
 }
