@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T21:47:32.354Z",
+ "updated": "2026-10-27T22:47:13.938Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.113,
-   "ch": -0.44,
-   "asof": "2026-10-27T21:46:43.000Z"
+   "p": 1.1135,
+   "ch": -0.39,
+   "asof": "2026-10-27T22:46:44.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3306,
-   "ch": -0.27,
-   "asof": "2026-10-27T21:46:43.000Z"
+   "p": 1.3308,
+   "ch": -0.25,
+   "asof": "2026-10-27T22:46:44.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.899,
-   "ch": 0.27,
-   "asof": "2026-10-27T21:47:25.000Z"
+   "p": 157.938,
+   "ch": 0.3,
+   "asof": "2026-10-27T22:47:12.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.703,
-   "ch": 0.19,
-   "asof": "2026-10-27T21:46:43.000Z"
+   "p": 0.7031,
+   "ch": 0.2,
+   "asof": "2026-10-27T22:46:44.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4045,
+   "p": 1.4046,
    "ch": 0.24,
-   "asof": "2026-10-27T21:47:28.000Z"
+   "asof": "2026-10-27T22:47:12.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8282,
-   "ch": 0.19,
-   "asof": "2026-10-27T21:47:26.000Z"
+   "p": 0.8288,
+   "ch": 0.27,
+   "asof": "2026-10-27T22:47:10.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80929.35,
-   "ch": 1.15,
-   "asof": "2026-10-27T21:47:23.000Z"
+   "p": 80759.12,
+   "ch": 0.94,
+   "asof": "2026-10-27T22:47:10.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2352.51,
-   "ch": 1.38,
-   "asof": "2026-10-27T21:47:28.000Z"
+   "p": 2346.15,
+   "ch": 1.11,
+   "asof": "2026-10-27T22:47:06.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,17 +392,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4073.1,
-   "ch": 0.86,
-   "asof": "2026-10-27T20:59:59.000Z"
+   "p": 4074.8,
+   "ch": 0,
+   "asof": "2026-10-27T22:37:07.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 100.2,
-   "ch": -1.53,
-   "asof": "2026-10-27T20:59:48.000Z"
+   "p": 99.92,
+   "ch": 0.02,
+   "asof": "2026-10-27T22:36:51.000Z"
   },
   {
    "s": "USD/KES",
@@ -410,15 +410,15 @@
    "d": 2,
    "p": 129.86,
    "ch": 0.05,
-   "asof": "2026-10-27T14:15:16.000Z"
+   "asof": "2026-10-27T22:15:25.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6103,
-   "ch": -0.19,
-   "asof": "2026-10-27T21:47:19.000Z"
+   "p": 16.6222,
+   "ch": -0.12,
+   "asof": "2026-10-27T22:47:13.000Z"
   },
   {
    "s": "USD/NGN",
@@ -426,23 +426,23 @@
    "d": 2,
    "p": 1340.31,
    "ch": -0.45,
-   "asof": "2026-10-27T14:15:16.000Z"
+   "asof": "2026-10-27T22:15:25.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 101.46,
-   "ch": 0.7,
-   "asof": "2026-10-27T21:47:28.000Z"
+   "p": 101.13,
+   "ch": 0.37,
+   "asof": "2026-10-27T22:47:10.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3243,
-   "ch": 1.38,
-   "asof": "2026-10-27T21:47:26.000Z"
+   "p": 1.3224,
+   "ch": 1.23,
+   "asof": "2026-10-27T22:47:11.000Z"
   },
   {
    "s": "Apple",
@@ -472,9 +472,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 54.495,
-   "ch": 0.28,
-   "asof": "2026-10-27T20:59:56.000Z"
+   "p": 54.55,
+   "ch": 0.07,
+   "asof": "2026-10-27T22:36:58.000Z"
   }
  ],
  "news": [
@@ -487,10 +487,10 @@
   ],
   [
    "Forex",
-   "med",
-   "Dollar edges higher as focus turns to central bank meetings",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiogFBVV95cUxORG1ZMjV3ZUQzaXY5eFBQZnk4a0ZiaG1FZHlQTUVkNUMxU040VTgyel9xWF9vTHdBSHBCb253ZVVHdDVYbUZ6enBTQTF1NnZjWlpIVWhPTkRaMTBxNFVjSERfTWJwMDNPdHN5V3ZfdjNHYXYwRzZCejVHd3RLc3J2cjV3Zm1hY1JqN24yZkxHcEdmVEFpdWhSaWxuVl9nVjdMQ2c?oc=5"
+   "high",
+   "Chile Holds Key Rate as Growth Fades and Inflation Picks Up",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWd4LVBwZWpaYk51cm1ySXo2aDBkajctcERHUzUwTzMxNHBncENYWUtCSUZRNXZHYkVYdHJwc2FMT3JkUmJ3Mkd5UUtZdTkxQ0ZxYTJlc1pLWWN6ODY0NDZzSjVZc2xKOTdkdmZvcUFlQjY2eG9vdUNYXzR2SkplSEcybXgwYm42UGRobWZCd0xpWXd5eFNRUENkWm40MFpncERuQXplVTN3YXNNTG5Gck9vOW8?oc=5"
   ],
   [
    "Crypto",
@@ -502,9 +502,9 @@
   [
    "Crypto",
    "med",
-   "Robinhood (HOOD) earnings: Crypto revenue slumps, but tops diminished forecasts",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSUprc3Q3UzByMVpfeDlaejFjS0dRUmJ1RElKaXZKd0QzRjNybVV5dTBreW4tMW1TNE1IbTFuMi1EVzhPZTZ5cE9hZHJDOXQ0RnZMSkhOS0lKSS1Ta2ZQM0hfem40Xzdkb2FwM2dVcWtJRlZqRk92NG51VWNSZWotNGhFZFJWekYzZDNYMEVnNmVzaVRXMnY4aVV2ckVJczYtZXJsYVQzckdDb05qMXZqREVWRXlVb0JfeVRoVlN3VU8xY0k?oc=5"
+   "Crypto Market Today, Oct. 27: Bitcoin Bounces Back, but Whales Are Turning Bearish For the First Time Since June",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZk1xMS1NWXBEc25SdnR2bC1xN0c4dWFiZGlwVkJydHJZMXdzcFNFYVlkd0hnQkhrbkk1R0dfNl92ZHc0N2VUeEF4MmNNazNHM1VlQm41ZjB0cTFwbFlKQURHTG5FWWJOQTFxMGlFYzBEaDFLSkJVYzNnM3pNWXY3WUw2RkZBV1NyXzJFNTE4UzdvNDdjUkE?oc=5"
   ],
   [
    "Stocks",
@@ -523,16 +523,16 @@
   [
    "Commodities",
    "med",
-   "A hidden ‘triple top’ in oil price charts suggests the rally has run out of gas",
-   "MarketWatch",
-   "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeHVEdllwcy1UaUgyRjVxdGE3VjBsVmVabEJJVnM2MUhBSlhjYkdPbzBJM253RC1UR1VnUVdJQ1BabTZJRkV6eG1jQlh2emhRSEVIVGE4WnJVaXo3QlExOE5ETGpwYm1kWjhoZEVQWDVBbU1zVFdqQkpYN1R3SVNrNHpJQUYxeUw4cGxKdXlVUFFGRnJoWW80REZ1OXVWMEw1VlRGQXY4RG8zQjhVQlFzT0hhUGZHRWRXSUg3dA?oc=5"
+   "US Crude Oil Inventories Buck Analyst Expectations",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc084RVVPTTl1MnQxeHEybWJvTUV5RTBnN1JmS2VIQm1iUThlLXJVek03YkFUdkdSMHFOSGtObnFwS0hoTFpaZVpYRkZHRVpEN2VIcjJDekFPR0IzWnRDRmU2cjJNZHNkNnNYNVYwYWZJS1gzZEpUaUczZFd4NUtlV0E5dHRxeEdQV3lDZU5vb0pqbVcwNVBNSzVqN2VJSm1XTGZMbGl0NTc5d9IBrwFBVV95cUxQUDgxcXBhbkk4U09ZdnBlcGY0amZ5Z3RiSF9ObWNhNTlDUkZlallrV0xLUUtkNDJFQXBlSlF6X1dLcjBtYTR5eWJSSjYybnktSE9aUVFNRE1aekw1N0pHazRwWk44X05ORW9kTWI3ejVzT0U0bHdYTTc2TkhpUmg5RlczX1Q0RXIxRW01NDVQd0gxdTB5YUg4Zk1OZWJWUlA1M1RkTnFtX243cTJPUURJ?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "US Crude Oil Inventories Buck Analyst Expectations",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc084RVVPTTl1MnQxeHEybWJvTUV5RTBnN1JmS2VIQm1iUThlLXJVek03YkFUdkdSMHFOSGtObnFwS0hoTFpaZVpYRkZHRVpEN2VIcjJDekFPR0IzWnRDRmU2cjJNZHNkNnNYNVYwYWZJS1gzZEpUaUczZFd4NUtlV0E5dHRxeEdQV3lDZU5vb0pqbVcwNVBNSzVqN2VJSm1XTGZMbGl0NTc5d9IBrwFBVV95cUxQUDgxcXBhbkk4U09ZdnBlcGY0amZ5Z3RiSF9ObWNhNTlDUkZlallrV0xLUUtkNDJFQXBlSlF6X1dLcjBtYTR5eWJSSjYybnktSE9aUVFNRE1aekw1N0pHazRwWk44X05ORW9kTWI3ejVzT0U0bHdYTTc2TkhpUmg5RlczX1Q0RXIxRW01NDVQd0gxdTB5YUg4Zk1OZWJWUlA1M1RkTnFtX243cTJPUURJ?oc=5"
+   "A hidden ‘triple top’ in oil price charts suggests the rally has run out of gas",
+   "MarketWatch",
+   "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeHVEdllwcy1UaUgyRjVxdGE3VjBsVmVabEJJVnM2MUhBSlhjYkdPbzBJM253RC1UR1VnUVdJQ1BabTZJRkV6eG1jQlh2emhRSEVIVGE4WnJVaXo3QlExOE5ETGpwYm1kWjhoZEVQWDVBbU1zVFdqQkpYN1R3SVNrNHpJQUYxeUw4cGxKdXlVUFFGRnJoWW80REZ1OXVWMEw1VlRGQXY4RG8zQjhVQlFzT0hhUGZHRWRXSUg3dA?oc=5"
   ]
  ]
 }
