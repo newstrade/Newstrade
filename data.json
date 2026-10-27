@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T01:53:02.865Z",
+ "updated": "2026-10-27T02:46:19.868Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1173,
-   "ch": -0.05,
-   "asof": "2026-10-27T01:52:42.000Z"
+   "p": 1.1174,
+   "ch": -0.04,
+   "asof": "2026-10-27T02:43:43.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.334,
-   "ch": -0.01,
-   "asof": "2026-10-27T01:52:42.000Z"
+   "p": 1.3343,
+   "ch": 0.01,
+   "asof": "2026-10-27T02:43:43.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.673,
-   "ch": 0.13,
-   "asof": "2026-10-27T01:53:01.000Z"
+   "p": 157.689,
+   "ch": 0.14,
+   "asof": "2026-10-27T02:44:23.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7025,
-   "ch": 0.11,
-   "asof": "2026-10-27T01:52:42.000Z"
+   "p": 0.7029,
+   "ch": 0.17,
+   "asof": "2026-10-27T02:42:43.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.402,
-   "ch": 0.06,
-   "asof": "2026-10-27T01:53:02.000Z"
+   "p": 1.4014,
+   "ch": 0.01,
+   "asof": "2026-10-27T02:44:23.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.828,
-   "ch": 0.17,
-   "asof": "2026-10-27T01:53:02.000Z"
+   "p": 0.8277,
+   "ch": 0.13,
+   "asof": "2026-10-27T02:44:23.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 79890.24,
-   "ch": -0.15,
-   "asof": "2026-10-27T01:53:00.000Z"
+   "p": 79804.98,
+   "ch": -0.26,
+   "asof": "2026-10-27T02:44:20.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2317.2,
-   "ch": -0.14,
-   "asof": "2026-10-27T01:52:56.000Z"
+   "p": 2313.15,
+   "ch": -0.31,
+   "asof": "2026-10-27T02:44:20.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,17 +392,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4029.3,
+   "p": 4029.1,
    "ch": -0.23,
-   "asof": "2026-10-27T01:43:01.000Z"
+   "asof": "2026-10-27T02:34:19.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 100.95,
-   "ch": -0.8,
-   "asof": "2026-10-27T01:42:54.000Z"
+   "p": 100.88,
+   "ch": -0.86,
+   "asof": "2026-10-27T02:34:21.000Z"
   },
   {
    "s": "USD/KES",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6422,
-   "ch": 0,
-   "asof": "2026-10-27T01:53:02.000Z"
+   "p": 16.6359,
+   "ch": -0.04,
+   "asof": "2026-10-27T02:44:23.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 100.39,
-   "ch": -0.36,
-   "asof": "2026-10-27T01:52:59.000Z"
+   "p": 100.17,
+   "ch": -0.58,
+   "asof": "2026-10-27T02:44:09.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3029,
-   "ch": -0.26,
-   "asof": "2026-10-27T01:52:41.000Z"
+   "p": 1.298,
+   "ch": -0.64,
+   "asof": "2026-10-27T02:44:15.000Z"
   },
   {
    "s": "Apple",
@@ -472,9 +472,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 54.15,
-   "ch": -0.35,
-   "asof": "2026-10-27T01:42:08.000Z"
+   "p": 53.845,
+   "ch": -0.91,
+   "asof": "2026-10-27T02:34:21.000Z"
   }
  ],
  "news": [
@@ -488,16 +488,16 @@
   [
    "Forex",
    "med",
-   "Poland’s Zloty Sinks to Three-Year Low Amid Central Bank Row",
+   "Japanese Yen’s Role in Latin American Carry Trade Withstands Brazil Rout",
    "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxObGYzMzAxemZ1R3llTzBWdDRIZHZkck11SGNXMGEzXzRLb2hRakYtc1gtbnFMbjM2b2gtc0o1UklJN2Vud2hRTnkxM3JhWkQxa3pNc0ljRkZxZUwyTzNZcFdGMU84b2Z3aG04bU85WkFRS2dRaTFzZkVNWi1qT0JLWnoyLUp1c2NaT2NRV0kzUEJCaGtRRmxLN1F3bXFqMnN4TnJ6Sk9UNnJIM05WM0MwOA?oc=5"
+   "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQTQ2N29zeVVLU0YwR3ZIcVhXaGxVNjQwY3hja2ZseUctWGxkV2k4anc2TkcwaS1RbnhwUkRMYXNDZy16TFVNbFhpNVppYzNzYVB4aFlQRjJ4VDdzdWlOczJzbWtVZFNwdmg0dkdDTG1UZ2F2VmVlTWljanNhSWtmQ1JMLUtoTGs1bjNMNXJ5cDRDeEZFU1M0ejNMNVZfb2RrQ1Y0VkNTMFJvZUNLbXQ3SVo5LXA?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "What If You Had Put $1,000 Into Bitcoin, Ethereum, XRP and Solana 5 Years Ago?",
+   "10,000 Bitcoin Simulations Say BTC's Median Path to $1M Comes in 2033",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTkx3Z2tmNlBXQTVfbnE1WE1RR3YtTkVVNHVGN0liT3JZb1otdU1KLVJLU0pCWDAtVk9FRmpaNW41MWRHb3JLYzVRUzZyWUFtbDl3eVBCRVp3NkxLOUtkRndvWFhneGl5WGpVVHZab2hoQ3hlZlFFWVdJaWpIdW85dnMzdHlCOEhMdGJlSTZ3aw?oc=5"
+   "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa1dWQmUydVdjaEkwSVZIMGMyeklabTVWWGpGSGhPUWt1VXh1ZEh2YmJrX3ZZZDhiVEZsQ3BTdWtyOGl6TXdVbW96SWZ1Z0lsb3Q5RVVTbExMRndob0VtRl9JNHU5Q01jWW5WZklOTVQ5ZlhYcXNEaHZuQk1xOTl5X043dVpiZnIwQVk1WUFYbWFod0tGX2g2MFFXU2I?oc=5"
   ],
   [
    "Crypto",
@@ -516,9 +516,9 @@
   [
    "Stocks",
    "med",
-   "Options traders are seizing control of the S&P 500",
-   "MarketWatch",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNE1NQ1NwTHhjQzVaR296U2szb2xmQ2ZGdnNQRld5Q1VRU251Rk1wVElvVTg2eTZtcW1jMzZUVi1Rbk5jU2p5TG5rTF9aT1BhbVZSeEl2WlRyQ2ZPWVdlaGpfUU5HcjRWeUllS3BxSEJGa3JJUTZqZzBGWVhFeWNlenlUR0UzT3RlQzZHRHNRQk90Um5VZjB4WQ?oc=5"
+   "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZU9zQUUycTh6SXBkQ25GQUJKTWJabmR3Q1gtYXlZWDJSUWk2cmxGWWRsUlZlSTdVNEtsdDY5d0hVakZ1ZkVDMDFiV2NrdjFaQnNVZUxRMjNESzluZFVBc0s3YU9pZjNZMVR1WEdIOVFrc2phbnRZYWpuYnRXY29Rd0FiVnItWTR1akVvNXhfWDAyNHJId040M2R0Q29HZTAwVzYxUl9OVy0wNWFrV2M3ME1Td25NUGI5cnhOY2JyQUVFS3ZOUGdEZVh1X2pQZWp4NGc?oc=5"
   ],
   [
    "Commodities",
