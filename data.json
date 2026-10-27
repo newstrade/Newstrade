@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T03:48:03.593Z",
+ "updated": "2026-10-27T04:46:46.176Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1177,
-   "ch": -0.02,
-   "asof": "2026-10-27T03:47:44.000Z"
+   "p": 1.1173,
+   "ch": -0.05,
+   "asof": "2026-10-27T04:45:45.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3346,
-   "ch": 0.03,
-   "asof": "2026-10-27T03:47:44.000Z"
+   "p": 1.3341,
+   "ch": -0.01,
+   "asof": "2026-10-27T04:45:45.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.63,
-   "ch": 0.1,
-   "asof": "2026-10-27T03:48:02.000Z"
+   "p": 157.58,
+   "ch": 0.07,
+   "asof": "2026-10-27T04:46:44.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7034,
-   "ch": 0.24,
-   "asof": "2026-10-27T03:46:44.000Z"
+   "p": 0.7028,
+   "ch": 0.16,
+   "asof": "2026-10-27T04:44:45.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4007,
-   "ch": -0.04,
-   "asof": "2026-10-27T03:48:02.000Z"
+   "p": 1.4013,
+   "ch": 0.01,
+   "asof": "2026-10-27T04:46:45.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8273,
-   "ch": 0.08,
-   "asof": "2026-10-27T03:48:02.000Z"
+   "p": 0.8275,
+   "ch": 0.11,
+   "asof": "2026-10-27T04:46:45.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 79722.87,
-   "ch": -0.36,
-   "asof": "2026-10-27T03:48:01.000Z"
+   "p": 79510.56,
+   "ch": -0.62,
+   "asof": "2026-10-27T04:46:40.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2312.57,
-   "ch": -0.34,
-   "asof": "2026-10-27T03:47:56.000Z"
+   "p": 2306.41,
+   "ch": -0.6,
+   "asof": "2026-10-27T04:46:40.000Z"
   },
   {
    "s": "S&P 500",
@@ -370,7 +370,7 @@
    "d": 2,
    "p": 7676.77,
    "ch": 0.7,
-   "asof": "2026-10-26T20:00:00.000Z"
+   "asof": "2026-10-26T20:43:43.000Z"
   },
   {
    "s": "Nasdaq",
@@ -384,25 +384,25 @@
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52361.6,
+   "p": 52361.58,
    "ch": 0.28,
-   "asof": "2026-10-26T20:00:00.000Z"
+   "asof": "2026-10-26T20:43:41.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4030.1,
-   "ch": -0.21,
-   "asof": "2026-10-27T03:37:49.000Z"
+   "p": 4032.1,
+   "ch": -0.16,
+   "asof": "2026-10-27T04:36:42.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 100.99,
-   "ch": -0.76,
-   "asof": "2026-10-27T03:38:00.000Z"
+   "p": 100.76,
+   "ch": -0.98,
+   "asof": "2026-10-27T04:36:32.000Z"
   },
   {
    "s": "USD/KES",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6224,
+   "p": 16.6222,
    "ch": -0.12,
-   "asof": "2026-10-27T03:48:03.000Z"
+   "asof": "2026-10-27T04:46:46.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 100,
-   "ch": -0.75,
-   "asof": "2026-10-27T03:48:00.000Z"
+   "p": 99.87,
+   "ch": -0.88,
+   "asof": "2026-10-27T04:46:45.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2992,
-   "ch": -0.55,
-   "asof": "2026-10-27T03:47:45.000Z"
+   "p": 1.2954,
+   "ch": -0.84,
+   "asof": "2026-10-27T04:46:37.000Z"
   },
   {
    "s": "Apple",
@@ -472,9 +472,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.795,
-   "ch": -1,
-   "asof": "2026-10-27T03:37:41.000Z"
+   "p": 53.73,
+   "ch": -1.12,
+   "asof": "2026-10-27T04:36:42.000Z"
   }
  ],
  "news": [
@@ -495,23 +495,16 @@
   [
    "Crypto",
    "med",
-   "Do Bitcoin ETF Flows Really Predict Future Bitcoin Price Moves? This New Research Has Important Implications for BTC Investors.",
+   "The Bitcoin Bull Market Is Finally Here, According to Strategy's Michael Saylor. Could Bitcoin Hit a Price of $100,000 in 2027?",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxPcG9SLXZ2NkdVcFZXS1FRMDVkaWVTVHZKSThjeDVJd2dVS1JINWNEQmJCSXpMR21WUFRzdUNxUFBsZWpGWEp4WVhNcDZFTE1uNVUwQkZrSTVaY1k1bTV1WXVHTnZXOUxJaGJyOXYzTlEyaDlrTk01RUZUVHIwSHBUSzV5RnEyRFhJLXpMNF9kMml6WlF5Y3N3R3BFbWxMUQ?oc=5"
+   "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWi1IOTlwMEFZSjBMUEJlX3l6NkNRaDA5M0VMeWEyNHhwOVNhc01kTjJVVmNNX3JiT19pZXpDX0ladUxPRktZamNkMFIwSmF5WEZGR3loNl9XOE9lXzh1bzRjM01oUWdpVkExNkV4RHNqdlZUdFRpUFVCZXRoVDJfUUdlNzctR1czSkhCenpuZl9zZDJvX2pZaGt4ZFdXWGhjcXhLdg?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Current price of Bitcoin for October 26, 2026",
-   "Fortune",
-   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5scU51cEwzRE0yakN1aXgwY2lVX1pyOGI0NTQ2Nnc1RTJKVGNoVTdpUklZM2laX1h4MWVxTWp3SjVHS2hYWHEwazBsemZQNGV5MFZZZ3JwWlA4WTJRVjEya1pxV1hHQ2s?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Asian Stocks to Gain as Anthropic Files for IPO: Markets Wrap",
+   "Bitcoin Dips Below $80,000 as AI-Related Market Selloff Deepens",
    "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTFLZTJNckNaRFN0TG9fLXJTY3h3VkVRSnZfMDJfLVkxOTNsU01IbWtXbDZQUTFIOXJXWENhY2NIX0ZuLUdLSHJMemcyUkNEZklQdUQxZlpHUWNwaVE3WFp1dk1meVZwejRrSUF1dEhFdDBjNUp3WVdqVnNBamJfQjFrN2g5b3QwZFBUMHZjYVU2aGhK?oc=5"
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT1RlX3A3ZENOMTJhNU5CRi12a0swUnlCSmtzbnJYQnRfQ1Z5NnpBVU9GdkRSUHNEXzZwSS0xc1FGRTlId3FnTWYzY1RCSWZHbkltc1dVRWMtSWNfSXFyLUJkcTRHSUV4MndxNVdONjRkSzBfRU44X1k4YjZqTVFfaWgzWE9QMHd1VWZsS1RUUmpxWTZBcHlHMXMxX25vNzhrOXViWGxXTUlVMUtoV05HQkhUZw?oc=5"
   ],
   [
    "Stocks",
@@ -519,6 +512,13 @@
    "Stock Market Today, Oct. 26: AI Optimism Lifts Nasdaq as Tech Stocks Rebound",
    "Yahoo Finance",
    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOHVuTE8zTkRvajhSYXIxeWtfSmJod0ZDTmRvc2p0RzZBU0ZkU1I4TlpUcTBoc0hNSjZhX3Bkc0Rkc29BWUNYeTBzYXVOdXJzSVkxX1p5X2o5OGlsQ3RleS1zd3ZaR2Z0ejcxTmhqeHFOMVRWeV9pbEYxZEFxYjRLS1k2Yk5GQWZubkJBTG5OQ21QTnVt?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
+   "Anthropic’s IPO Sets Up Defining Moment for Wall Street and AI Boom",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS3FLY3BuUDlrcDFuUnJvU2dEZG16ejUwV0dwQzlWT2JWTndReVcxU2VPMnhhQXQySFROWVNCUG1udmY1aGVaMnl5UVAzcFlteE9TUWtiX1BlMTdGd1NvWlowck1IQ1BMa0w1Rm9Vc2Z5UjVpZGdoVkRTTXQxYmhNcTR5aXI4X1N0dkdXNTFZdWpnQ2ZadzRWWTZiVjJQUENaZlY4dElkdl8xNlI4SFhBWHk5ZFFOQ0Fja2c?oc=5"
   ],
   [
    "Commodities",
@@ -530,9 +530,9 @@
   [
    "Commodities",
    "med",
-   "Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlb3RFQnktc2pYOXZaNjR1cFFxcDVpV2poRDN6X0tJNGhGX2NCX05kSlVtaGNialZPc1E3R3g2LXZuWmpidDRobThNdzROYUFWQkFFUVBnUW9SajI4WEs0UmtiZjhPdWVvUzRlQWtWRmvSAXZBVV95cUxOY0FTdGxTWkFDWFllVFg2SDZiQVVTRWxYY1NXTW5uSmJWVEh5OGEtSjRBajhfLWtlUzRUclBnSUFPTWFPcmI0Yl9NZ3dUY1gzWk90RTY0SDQydDlfbXVGU21UVVU1dmxFb3FyQzR0d2xJUkd1NUhR?oc=5"
+   "Oil eases on Middle East diplomacy hopes, Saudi attacks keep supply worries alive",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOamRMeXF1dF9xaFlNcFlIalRnaGZBQUs2SUwtNThkNExtMzBQa2dYdExLbnJVckRGM3BpMWpjWkhGbEdQUGFHQ1FOWER6SUhadU04ams5RkNXR0tOVDdRTkExX2xnRWhCd3gxUl9icTE4Sk5nSHZFVU1vXzVidVRhOEdESWJCRGR2M3Z3NDVVY2JjZ1dQdjRGelQwTTVnakd6ckIzd2x4bEo5VnFnTjNRaHdNajdIZElQb2pnampYMDZnZW81OTR0NQ?oc=5"
   ]
  ]
 }
