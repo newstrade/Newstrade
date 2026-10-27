@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T01:01:34.094Z",
+ "updated": "2026-10-27T01:53:02.865Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1174,
-   "ch": -0.04,
-   "asof": "2026-10-27T01:00:46.000Z"
+   "p": 1.1173,
+   "ch": -0.05,
+   "asof": "2026-10-27T01:52:42.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3344,
-   "ch": 0.01,
-   "asof": "2026-10-27T01:00:46.000Z"
+   "p": 1.334,
+   "ch": -0.01,
+   "asof": "2026-10-27T01:52:42.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.64,
-   "ch": 0.11,
-   "asof": "2026-10-27T01:01:33.000Z"
+   "p": 157.673,
+   "ch": 0.13,
+   "asof": "2026-10-27T01:53:01.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7019,
-   "ch": 0.03,
-   "asof": "2026-10-27T01:00:46.000Z"
+   "p": 0.7025,
+   "ch": 0.11,
+   "asof": "2026-10-27T01:52:42.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4018,
-   "ch": 0.04,
-   "asof": "2026-10-27T01:01:32.000Z"
+   "p": 1.402,
+   "ch": 0.06,
+   "asof": "2026-10-27T01:53:02.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8278,
-   "ch": 0.15,
-   "asof": "2026-10-27T01:01:31.000Z"
+   "p": 0.828,
+   "ch": 0.17,
+   "asof": "2026-10-27T01:53:02.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80097.91,
-   "ch": 0.11,
-   "asof": "2026-10-27T01:01:27.000Z"
+   "p": 79890.24,
+   "ch": -0.15,
+   "asof": "2026-10-27T01:53:00.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2322.66,
-   "ch": 0.1,
-   "asof": "2026-10-27T01:01:24.000Z"
+   "p": 2317.2,
+   "ch": -0.14,
+   "asof": "2026-10-27T01:52:56.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,17 +392,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4024.2,
-   "ch": -0.35,
-   "asof": "2026-10-27T00:51:23.000Z"
+   "p": 4029.3,
+   "ch": -0.23,
+   "asof": "2026-10-27T01:43:01.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 101.23,
-   "ch": -0.52,
-   "asof": "2026-10-27T00:51:29.000Z"
+   "p": 100.95,
+   "ch": -0.8,
+   "asof": "2026-10-27T01:42:54.000Z"
   },
   {
    "s": "USD/KES",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6447,
-   "ch": 0.01,
-   "asof": "2026-10-27T01:01:33.000Z"
+   "p": 16.6422,
+   "ch": 0,
+   "asof": "2026-10-27T01:53:02.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 100.67,
-   "ch": -0.09,
-   "asof": "2026-10-27T01:01:31.000Z"
+   "p": 100.39,
+   "ch": -0.36,
+   "asof": "2026-10-27T01:52:59.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3062,
-   "ch": -0.01,
-   "asof": "2026-10-27T01:01:29.000Z"
+   "p": 1.3029,
+   "ch": -0.26,
+   "asof": "2026-10-27T01:52:41.000Z"
   },
   {
    "s": "Apple",
@@ -472,9 +472,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 54.035,
-   "ch": -0.56,
-   "asof": "2026-10-27T00:51:03.000Z"
+   "p": 54.15,
+   "ch": -0.35,
+   "asof": "2026-10-27T01:42:08.000Z"
   }
  ],
  "news": [
@@ -495,16 +495,23 @@
   [
    "Crypto",
    "med",
+   "What If You Had Put $1,000 Into Bitcoin, Ethereum, XRP and Solana 5 Years Ago?",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTkx3Z2tmNlBXQTVfbnE1WE1RR3YtTkVVNHVGN0liT3JZb1otdU1KLVJLU0pCWDAtVk9FRmpaNW41MWRHb3JLYzVRUzZyWUFtbDl3eVBCRVp3NkxLOUtkRndvWFhneGl5WGpVVHZab2hoQ3hlZlFFWVdJaWpIdW85dnMzdHlCOEhMdGJlSTZ3aw?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
    "Bitcoin Dips Below $80,000 as AI-Related Market Selloff Deepens",
    "Bloomberg.com",
    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT1RlX3A3ZENOMTJhNU5CRi12a0swUnlCSmtzbnJYQnRfQ1Z5NnpBVU9GdkRSUHNEXzZwSS0xc1FGRTlId3FnTWYzY1RCSWZHbkltc1dVRWMtSWNfSXFyLUJkcTRHSUV4MndxNVdONjRkSzBfRU44X1k4YjZqTVFfaWgzWE9QMHd1VWZsS1RUUmpxWTZBcHlHMXMxX25vNzhrOXViWGxXTUlVMUtoV05HQkhUZw?oc=5"
   ],
   [
-   "Crypto",
+   "Stocks",
    "med",
-   "What If You Had Put $1,000 Into Bitcoin, Ethereum, XRP and Solana 5 Years Ago?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTkx3Z2tmNlBXQTVfbnE1WE1RR3YtTkVVNHVGN0liT3JZb1otdU1KLVJLU0pCWDAtVk9FRmpaNW41MWRHb3JLYzVRUzZyWUFtbDl3eVBCRVp3NkxLOUtkRndvWFhneGl5WGpVVHZab2hoQ3hlZlFFWVdJaWpIdW85dnMzdHlCOEhMdGJlSTZ3aw?oc=5"
+   "Asian Stocks to Gain as Anthropic Files for IPO: Markets Wrap",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTFLZTJNckNaRFN0TG9fLXJTY3h3VkVRSnZfMDJfLVkxOTNsU01IbWtXbDZQUTFIOXJXWENhY2NIX0ZuLUdLSHJMemcyUkNEZklQdUQxZlpHUWNwaVE3WFp1dk1meVZwejRrSUF1dEhFdDBjNUp3WVdqVnNBamJfQjFrN2g5b3QwZFBUMHZjYVU2aGhK?oc=5"
   ],
   [
    "Stocks",
@@ -512,13 +519,6 @@
    "Options traders are seizing control of the S&P 500",
    "MarketWatch",
    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNE1NQ1NwTHhjQzVaR296U2szb2xmQ2ZGdnNQRld5Q1VRU251Rk1wVElvVTg2eTZtcW1jMzZUVi1Rbk5jU2p5TG5rTF9aT1BhbVZSeEl2WlRyQ2ZPWVdlaGpfUU5HcjRWeUllS3BxSEJGa3JJUTZqZzBGWVhFeWNlenlUR0UzT3RlQzZHRHNRQk90Um5VZjB4WQ?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZU9zQUUycTh6SXBkQ25GQUJKTWJabmR3Q1gtYXlZWDJSUWk2cmxGWWRsUlZlSTdVNEtsdDY5d0hVakZ1ZkVDMDFiV2NrdjFaQnNVZUxRMjNESzluZFVBc0s3YU9pZjNZMVR1WEdIOVFrc2phbnRZYWpuYnRXY29Rd0FiVnItWTR1akVvNXhfWDAyNHJId040M2R0Q29HZTAwVzYxUl9OVy0wNWFrV2M3ME1Td25NUGI5cnhOY2JyQUVFS3ZOUGdEZVh1X2pQZWp4NGc?oc=5"
   ],
   [
    "Commodities",
