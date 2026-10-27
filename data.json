@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T06:59:05.373Z",
+ "updated": "2026-10-27T07:56:34.005Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,9 +304,9 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1164,
-   "ch": -0.13,
-   "asof": "2026-10-27T06:58:43.000Z"
+   "p": 1.1167,
+   "ch": -0.11,
+   "asof": "2026-10-27T07:55:45.000Z"
   },
   {
    "s": "GBP/USD",
@@ -314,23 +314,23 @@
    "d": 4,
    "p": 1.3327,
    "ch": -0.11,
-   "asof": "2026-10-27T06:58:43.000Z"
+   "asof": "2026-10-27T07:55:45.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.799,
-   "ch": 0.21,
-   "asof": "2026-10-27T06:59:05.000Z"
+   "p": 157.821,
+   "ch": 0.22,
+   "asof": "2026-10-27T07:56:33.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7021,
-   "ch": 0.06,
-   "asof": "2026-10-27T06:58:43.000Z"
+   "p": 0.7023,
+   "ch": 0.09,
+   "asof": "2026-10-27T07:54:45.000Z"
   },
   {
    "s": "USD/CAD",
@@ -338,31 +338,31 @@
    "d": 4,
    "p": 1.4022,
    "ch": 0.07,
-   "asof": "2026-10-27T06:59:04.000Z"
+   "asof": "2026-10-27T07:56:33.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8282,
-   "ch": 0.19,
-   "asof": "2026-10-27T06:59:04.000Z"
+   "p": 0.8277,
+   "ch": 0.13,
+   "asof": "2026-10-27T07:56:33.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 79516.92,
-   "ch": -0.62,
-   "asof": "2026-10-27T06:58:59.000Z"
+   "p": 79694.03,
+   "ch": -0.39,
+   "asof": "2026-10-27T07:56:30.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2301.33,
-   "ch": -0.82,
-   "asof": "2026-10-27T06:59:00.000Z"
+   "p": 2311.65,
+   "ch": -0.38,
+   "asof": "2026-10-27T07:56:25.000Z"
   },
   {
    "s": "S&P 500",
@@ -384,25 +384,25 @@
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52361.58,
+   "p": 52361.6,
    "ch": 0.28,
-   "asof": "2026-10-26T20:43:41.000Z"
+   "asof": "2026-10-26T20:00:00.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4010,
-   "ch": -0.7,
-   "asof": "2026-10-27T06:49:03.000Z"
+   "p": 4017.1,
+   "ch": -0.53,
+   "asof": "2026-10-27T07:46:18.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 101.62,
-   "ch": -0.14,
-   "asof": "2026-10-27T06:49:02.000Z"
+   "p": 102.26,
+   "ch": 0.49,
+   "asof": "2026-10-27T07:46:33.000Z"
   },
   {
    "s": "USD/KES",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6558,
-   "ch": 0.08,
-   "asof": "2026-10-27T06:59:06.000Z"
+   "p": 16.6621,
+   "ch": 0.12,
+   "asof": "2026-10-27T07:56:34.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 99.4,
-   "ch": -1.35,
-   "asof": "2026-10-27T06:59:01.000Z"
+   "p": 99.98,
+   "ch": -0.77,
+   "asof": "2026-10-27T07:56:31.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2952,
-   "ch": -0.85,
-   "asof": "2026-10-27T06:58:58.000Z"
+   "p": 1.3014,
+   "ch": -0.38,
+   "asof": "2026-10-27T07:56:24.000Z"
   },
   {
    "s": "Apple",
@@ -472,18 +472,18 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 52.75,
-   "ch": -2.93,
-   "asof": "2026-10-27T06:49:03.000Z"
+   "p": 52.905,
+   "ch": -2.64,
+   "asof": "2026-10-27T07:46:05.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Yen eases on risk-on mood ahead of central bank bonanza",
+   "Taiwan central bank sees strong tech demand driving exports into 2027",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVDhUYWVaR1lyeGFScDAxOG1INFBuME5XaHhvOFNZTnhjUXFCTHVGX2k1cEJzSUMwUmpQblFZWE1WU2Z6Q0dnZTRmc2lCSEE1RklYN3VZdWV3aVRLblJ4aTFudW1aUkxUVWZXWUl6Ql8zQkVEaDBJakY4SnhyUmRwb1BQcHpKSHlOWG5DeDN3QVFIb1MyMU5mcDlESEdQS1BwdHhpaThFZjZDMDIweVVYX1VQX1VEdVdh?oc=5"
+   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX0tXRFhXZDRFQUlCYmE1dG9LaG9pcUZSMElqMEd4TXFFX3VmV2xFSFpBMVVnT0tOTDUtWUJ5OHVSUUlUQm5SQ3lIb3JzTmpyNHRlNXRLQ0dhU0E2RzR3Q2ZEZGw0VlRVeHI3Q2FxX1YxbjJMUFB1dzQxbG1jU3hBdEFmcnBYalZmVDFKLXNnODRNdjNJUlp2b2JhZGZieklsb3pnTmxrX0JDbV9nYi1SUi1aMGFoMVRuazZqaUluQUpxUQ?oc=5"
   ],
   [
    "Forex",
@@ -494,24 +494,17 @@
   ],
   [
    "Crypto",
-   "med",
-   "Do Bitcoin ETF Flows Really Predict Future Bitcoin Price Moves? This New Research Has Important Implications for BTC Investors.",
+   "high",
+   "Bitcoin dips below $80k as Strategy pauses buying, Fed caution weighs",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxPcG9SLXZ2NkdVcFZXS1FRMDVkaWVTVHZKSThjeDVJd2dVS1JINWNEQmJCSXpMR21WUFRzdUNxUFBsZWpGWEp4WVhNcDZFTE1uNVUwQkZrSTVaY1k1bTV1WXVHTnZXOUxJaGJyOXYzTlEyaDlrTk01RUZUVHIwSHBUSzV5RnEyRFhJLXpMNF9kMml6WlF5Y3N3R3BFbWxMUQ?oc=5"
+   "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd1dDMG1iT0l0Rm5MOVdMVlBSbHpiZXJaU2M0UERNTV9BdHZPNzBPcUxPNV9YZE1aVUhDaEdEQVd6RmZ0dWt6QUYtMkZsX2JRbDhON0MyaWU0VnB0ZHM2RXNDV05XNHB5bThtWnltdXhzcDFyZDFvZXFqV2VyRDFTQ2daakU1MjlPZ2tZYWpXSEpFdDhhcVVkX1p4R0U?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin Dips Below $80,000 as AI-Related Market Selloff Deepens",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT1RlX3A3ZENOMTJhNU5CRi12a0swUnlCSmtzbnJYQnRfQ1Z5NnpBVU9GdkRSUHNEXzZwSS0xc1FGRTlId3FnTWYzY1RCSWZHbkltc1dVRWMtSWNfSXFyLUJkcTRHSUV4MndxNVdONjRkSzBfRU44X1k4YjZqTVFfaWgzWE9QMHd1VWZsS1RUUmpxWTZBcHlHMXMxX25vNzhrOXViWGxXTUlVMUtoV05HQkhUZw?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Stock Market: Will S&P 500 Open Up or Down Today?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Lbll1V1U1TzVJdlRQQUJKV0FidXhiNDRRcmJFSWpXRnhHd0Z1aW5lUndoa1lRTW5OdmVHTGVpNkJNaWc0VXhlRnNZVXlZQWtVRWE5M2szZUlfc2s2cHpxYjdiNUEzckhBa0xPZU5laGdzRjZFUFdVVA?oc=5"
+   "ETH news: Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGVmQWFIYkx4RHpka2U2OF9ZeDBRSkVoM2g0bmFHa3RsODJPcXVHLVNwYmRjaWZuN1ZKa05VcUJZTUt6YmV0d0hjU2g3OXdCdmxRb0Y2ZVNlQzZUSXVLVFJnUTJDNWtrWHFjMnFpc01VVTdtb1lTNFpEd1VzSHBLVk45bkN6Y09CdDRLc1p0U0hhV1ktS0w4ZnhvU1VNQUdlY2xVYWJZbTg0TF9YNG9MazlmSklrN1E0SDd5OWV3?oc=5"
   ],
   [
    "Stocks",
@@ -521,11 +514,11 @@
    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTFLZTJNckNaRFN0TG9fLXJTY3h3VkVRSnZfMDJfLVkxOTNsU01IbWtXbDZQUTFIOXJXWENhY2NIX0ZuLUdLSHJMemcyUkNEZklQdUQxZlpHUWNwaVE3WFp1dk1meVZwejRrSUF1dEhFdDBjNUp3WVdqVnNBamJfQjFrN2g5b3QwZFBUMHZjYVU2aGhK?oc=5"
   ],
   [
-   "Commodities",
+   "Stocks",
    "med",
-   "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHd1Q1FTWEFlUlUtZ1FQRWJfYm1QYm5KZW1jTVA2cS01R0cxb0xsNVNrdXJVNm44VTd2ZWN4WnY1R0tla0JuM3NVUmpBVF9GLTl2WEdFRmNUTFpEVUpHVHQzdUREUFBwN2ZEZ2xGcThUa0lKamdzaEY2c19pRy1PcXZCd2hPUmRfTmQ4bUNGWkFPbTM3Z04zLXB2bUdtclBvVmpmQmhqcEloSTJUOHg2ZzRsbEI?oc=5"
+   "Stock Market: Will S&P 500 Open Up or Down Today?",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Lbll1V1U1TzVJdlRQQUJKV0FidXhiNDRRcmJFSWpXRnhHd0Z1aW5lUndoa1lRTW5OdmVHTGVpNkJNaWc0VXhlRnNZVXlZQWtVRWE5M2szZUlfc2s2cHpxYjdiNUEzckhBa0xPZU5laGdzRjZFUFdVVA?oc=5"
   ],
   [
    "Commodities",
@@ -533,6 +526,13 @@
    "Oil falls as renewed diplomatic efforts to end Mideast conflict ease supply concerns",
    "CNBC",
    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSTRIVG5pYjdLekMyUVZ2N2dyYlVvUjlPX084ZlFPRUQ0MHFXUkFXNGNmVU0za0E5RUdobHNLbG1JYm5ITWd5QjJwYm1obWU2a1RGVVlVaEdqZEtsNXMtMmNsakZwa1EzTXk4cDRRSG0wOUVQQVVXcE9RZXRlM0lQeHhB0gGHAUFVX3lxTE1zcmUxLTRyRjRWZ3BackRuV0lHRTE2RWFsMnJIYzhSYzdwSUwzMEg4ek93U05iMVB2U2tfemIwUnZMRERfdGVkaTFxQVkxYlZ2VmRGejR2N0dkZng2ZDB5QkVlSGxhODV3NFlpRTU0SjFQQUxnVzY0ck8yc1JiUXFaSFZqc2EyTQ?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHd1Q1FTWEFlUlUtZ1FQRWJfYm1QYm5KZW1jTVA2cS01R0cxb0xsNVNrdXJVNm44VTd2ZWN4WnY1R0tla0JuM3NVUmpBVF9GLTl2WEdFRmNUTFpEVUpHVHQzdUREUFBwN2ZEZ2xGcThUa0lKamdzaEY2c19pRy1PcXZCd2hPUmRfTmQ4bUNGWkFPbTM3Z04zLXB2bUdtclBvVmpmQmhqcEloSTJUOHg2ZzRsbEI?oc=5"
   ]
  ]
 }
