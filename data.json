@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T08:54:34.798Z",
+ "updated": "2026-10-27T09:52:10.811Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1154,
-   "ch": -0.22,
-   "asof": "2026-10-27T08:53:46.000Z"
+   "p": 1.1145,
+   "ch": -0.3,
+   "asof": "2026-10-27T09:51:42.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3319,
-   "ch": -0.17,
-   "asof": "2026-10-27T08:53:46.000Z"
+   "p": 1.3315,
+   "ch": -0.2,
+   "asof": "2026-10-27T09:51:42.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.755,
-   "ch": 0.18,
-   "asof": "2026-10-27T08:54:33.000Z"
+   "p": 157.696,
+   "ch": 0.15,
+   "asof": "2026-10-27T09:52:09.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7026,
-   "ch": 0.13,
-   "asof": "2026-10-27T08:52:46.000Z"
+   "p": 0.7029,
+   "ch": 0.17,
+   "asof": "2026-10-27T09:50:42.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4015,
-   "ch": 0.02,
-   "asof": "2026-10-27T08:54:33.000Z"
+   "p": 1.4021,
+   "ch": 0.06,
+   "asof": "2026-10-27T09:52:09.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8283,
-   "ch": 0.21,
-   "asof": "2026-10-27T08:54:34.000Z"
+   "p": 0.8285,
+   "ch": 0.23,
+   "asof": "2026-10-27T09:52:10.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 79660.62,
-   "ch": -0.44,
-   "asof": "2026-10-27T08:54:33.000Z"
+   "p": 79541.46,
+   "ch": -0.58,
+   "asof": "2026-10-27T09:52:05.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2306.94,
-   "ch": -0.58,
-   "asof": "2026-10-27T08:54:24.000Z"
+   "p": 2303.78,
+   "ch": -0.72,
+   "asof": "2026-10-27T09:51:56.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,17 +392,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4004.9,
-   "ch": -0.83,
-   "asof": "2026-10-27T08:44:24.000Z"
+   "p": 4009.7,
+   "ch": -0.71,
+   "asof": "2026-10-27T09:41:52.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 102.67,
-   "ch": 0.89,
-   "asof": "2026-10-27T08:44:31.000Z"
+   "p": 102.12,
+   "ch": 0.35,
+   "asof": "2026-10-27T09:42:10.000Z"
   },
   {
    "s": "USD/KES",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6849,
-   "ch": 0.25,
-   "asof": "2026-10-27T08:54:34.000Z"
+   "p": 16.6824,
+   "ch": 0.24,
+   "asof": "2026-10-27T09:52:11.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 99.62,
-   "ch": -1.13,
-   "asof": "2026-10-27T08:54:24.000Z"
+   "p": 99.5,
+   "ch": -1.25,
+   "asof": "2026-10-27T09:51:57.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2977,
-   "ch": -0.66,
-   "asof": "2026-10-27T08:54:32.000Z"
+   "p": 1.2919,
+   "ch": -1.11,
+   "asof": "2026-10-27T09:52:06.000Z"
   },
   {
    "s": "Apple",
@@ -472,9 +472,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 52.835,
-   "ch": -2.77,
-   "asof": "2026-10-27T08:44:24.000Z"
+   "p": 53.265,
+   "ch": -1.98,
+   "asof": "2026-10-27T09:42:02.000Z"
   }
  ],
  "news": [
@@ -488,9 +488,9 @@
   [
    "Forex",
    "med",
-   "Japanese Yen’s Role in Latin American Carry Trade Withstands Brazil Rout",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQTQ2N29zeVVLU0YwR3ZIcVhXaGxVNjQwY3hja2ZseUctWGxkV2k4anc2TkcwaS1RbnhwUkRMYXNDZy16TFVNbFhpNVppYzNzYVB4aFlQRjJ4VDdzdWlOczJzbWtVZFNwdmg0dkdDTG1UZ2F2VmVlTWljanNhSWtmQ1JMLUtoTGs1bjNMNXJ5cDRDeEZFU1M0ejNMNVZfb2RrQ1Y0VkNTMFJvZUNLbXQ3SVo5LXA?oc=5"
+   "Japan Vows to Fortify Cyber Defenses as GMO Hack Hits Forex Brokers",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNVNyQzhTdWE5emJCNzR3MWlBZGRvYTl5Sk80LTY1d3JuN3NxTVRWYUIxdkR1bWVLMkYxVktCQzdidkViUjRmaXNxcVRhbFgtcHg2RGh4SXFCYnNPWHg2NUl5OVRTUjhBZFRvU2FxcmVjZlVadFlfR0dHRmRqN3RJaGJwcXl1N3BzbnZvX0o0X2FGQlVaM015VVNDZS1pdG9fSEs1azUzOEpzZWVLZlR4eDVNRHVzUQ?oc=5"
   ],
   [
    "Crypto",
@@ -502,9 +502,9 @@
   [
    "Crypto",
    "med",
-   "ETH news: Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
+   "Now is the time to accumulate bitcoin, Galaxy says",
    "CoinDesk",
-   "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGVmQWFIYkx4RHpka2U2OF9ZeDBRSkVoM2g0bmFHa3RsODJPcXVHLVNwYmRjaWZuN1ZKa05VcUJZTUt6YmV0d0hjU2g3OXdCdmxRb0Y2ZVNlQzZUSXVLVFJnUTJDNWtrWHFjMnFpc01VVTdtb1lTNFpEd1VzSHBLVk45bkN6Y09CdDRLc1p0U0hhV1ktS0w4ZnhvU1VNQUdlY2xVYWJZbTg0TF9YNG9MazlmSklrN1E0SDd5OWV3?oc=5"
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQkpGaHRTUmZXV1lZYmZfUWRzTi1ic2VpUXVpYVhWVW1qaUMyTlp2NnYxRkEzY29YWUk2bzhQYkx4RGlHMWRJcWFVakh6SGdWZEtyck8wU3MxVGhhQlJtWll2a29ieFdlNGlNTUV2SHU5WENaR2x6ZHhCQXo5VW1uWmZNMmotNlBPcXpyMmdpbVFCaHpUS3FkVg?oc=5"
   ],
   [
    "Stocks",
@@ -516,9 +516,9 @@
   [
    "Stocks",
    "med",
-   "France’s Nuclear Forces Bring In Neighbors to Keep Russia in Check",
+   "Anthropic’s ‘Adjusted’ Profit Exposes Wall Street’s Earnings Game",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRlcyVjhVaDliZERCZF9SeERLNEdHblNvbk0wUS1RNExOLS1jMVJ1UU15R3JBZ0FwNm9oQjN3N3RrWmZFa0FmakVNem5QNS11dnFUOFRtZ3Q3REU1MDc2MTVLOXJpQ2Fva0lEYWFIbWtPbXBKWGxzN1hudlV4SFFWTUIzYUlzVVdxaDNTVy10T21halNuV1BRZDRXYzR3bXJ1bWdybVFLUkRtVGM?oc=5"
+   "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSWx5Q3UtbEx6dUhyUV9zMm5WUWhDUGI3ZWpIdnlzbklmVXVzWnV5SFAyTEo1MTRSUUhrSWhleHZMYUpvTTdNOEwxMnlMRTBLRHB1ZXVMMGdpd1FKZnY1eHNIdkRSUHdEdWFUWkJqbFAxd2VYWXJ1NjlKQzYzQ3I2Q3R6eldQS2duckRoV2hyOE5PSTFCYTk0MENRTGVnejdmVWpqNDJrbXdWVWRV?oc=5"
   ],
   [
    "Commodities",
