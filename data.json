@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T05:46:03.705Z",
+ "updated": "2026-10-27T06:59:05.373Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1169,
-   "ch": -0.09,
-   "asof": "2026-10-27T05:45:42.000Z"
+   "p": 1.1164,
+   "ch": -0.13,
+   "asof": "2026-10-27T06:58:43.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3332,
-   "ch": -0.07,
-   "asof": "2026-10-27T05:45:42.000Z"
+   "p": 1.3327,
+   "ch": -0.11,
+   "asof": "2026-10-27T06:58:43.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.674,
-   "ch": 0.13,
-   "asof": "2026-10-27T05:46:03.000Z"
+   "p": 157.799,
+   "ch": 0.21,
+   "asof": "2026-10-27T06:59:05.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7022,
-   "ch": 0.07,
-   "asof": "2026-10-27T05:44:42.000Z"
+   "p": 0.7021,
+   "ch": 0.06,
+   "asof": "2026-10-27T06:58:43.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4015,
-   "ch": 0.02,
-   "asof": "2026-10-27T05:46:03.000Z"
+   "p": 1.4022,
+   "ch": 0.07,
+   "asof": "2026-10-27T06:59:04.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8279,
-   "ch": 0.16,
-   "asof": "2026-10-27T05:46:03.000Z"
+   "p": 0.8282,
+   "ch": 0.19,
+   "asof": "2026-10-27T06:59:04.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 79765.74,
-   "ch": -0.3,
-   "asof": "2026-10-27T05:46:01.000Z"
+   "p": 79516.92,
+   "ch": -0.62,
+   "asof": "2026-10-27T06:58:59.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2309.73,
-   "ch": -0.46,
-   "asof": "2026-10-27T05:45:53.000Z"
+   "p": 2301.33,
+   "ch": -0.82,
+   "asof": "2026-10-27T06:59:00.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,17 +392,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4020.5,
-   "ch": -0.44,
-   "asof": "2026-10-27T05:36:02.000Z"
+   "p": 4010,
+   "ch": -0.7,
+   "asof": "2026-10-27T06:49:03.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 100.81,
-   "ch": -0.93,
-   "asof": "2026-10-27T05:36:03.000Z"
+   "p": 101.62,
+   "ch": -0.14,
+   "asof": "2026-10-27T06:49:02.000Z"
   },
   {
    "s": "USD/KES",
@@ -410,15 +410,15 @@
    "d": 2,
    "p": 129.79,
    "ch": -0.01,
-   "asof": "2026-10-27T02:57:04.000Z"
+   "asof": "2026-10-27T06:53:01.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6437,
-   "ch": 0.01,
-   "asof": "2026-10-27T05:46:03.000Z"
+   "p": 16.6558,
+   "ch": 0.08,
+   "asof": "2026-10-27T06:59:06.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 99.96,
-   "ch": -0.79,
-   "asof": "2026-10-27T05:46:02.000Z"
+   "p": 99.4,
+   "ch": -1.35,
+   "asof": "2026-10-27T06:59:01.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2992,
-   "ch": -0.55,
-   "asof": "2026-10-27T05:45:48.000Z"
+   "p": 1.2952,
+   "ch": -0.85,
+   "asof": "2026-10-27T06:58:58.000Z"
   },
   {
    "s": "Apple",
@@ -472,9 +472,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.335,
-   "ch": -1.85,
-   "asof": "2026-10-27T05:35:48.000Z"
+   "p": 52.75,
+   "ch": -2.93,
+   "asof": "2026-10-27T06:49:03.000Z"
   }
  ],
  "news": [
@@ -487,10 +487,10 @@
   ],
   [
    "Forex",
-   "high",
-   "Asian currencies mixed as dollar holds firm, yen retreats ahead of Fed decision",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMipwFBVV95cUxPajVDREt1Sm00MllOM2hsTi16UEhTejZobWE0Y0JQVmIxbkliQllVU1IyZ2JnOGJOcDlvODk3M0tKWU5PSlpfa05WNzhhcXczMmdEbkR4OWFKa3g4bEFaQlk5d0FTWGV4S0haS0RVRGgzTjdUVTNPakJYUkFZY1dTR3F1MXJVZEZRNlRlVmYwV1VWSDR6TFJJMlF0LUktMUZKVFhEQlpGOA?oc=5"
+   "med",
+   "Japanese Yen’s Role in Latin American Carry Trade Withstands Brazil Rout",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQTQ2N29zeVVLU0YwR3ZIcVhXaGxVNjQwY3hja2ZseUctWGxkV2k4anc2TkcwaS1RbnhwUkRMYXNDZy16TFVNbFhpNVppYzNzYVB4aFlQRjJ4VDdzdWlOczJzbWtVZFNwdmg0dkdDTG1UZ2F2VmVlTWljanNhSWtmQ1JMLUtoTGs1bjNMNXJ5cDRDeEZFU1M0ejNMNVZfb2RrQ1Y0VkNTMFJvZUNLbXQ3SVo5LXA?oc=5"
   ],
   [
    "Crypto",
@@ -509,16 +509,16 @@
   [
    "Stocks",
    "med",
-   "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5"
+   "Stock Market: Will S&P 500 Open Up or Down Today?",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Lbll1V1U1TzVJdlRQQUJKV0FidXhiNDRRcmJFSWpXRnhHd0Z1aW5lUndoa1lRTW5OdmVHTGVpNkJNaWc0VXhlRnNZVXlZQWtVRWE5M2szZUlfc2s2cHpxYjdiNUEzckhBa0xPZU5laGdzRjZFUFdVVA?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "US futures and Asian stocks advance following a rally on Wall Street",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVXZwVXItaU1rRmw2LWluU0RfM1FPVlZnWkhFSVd1bGcyd19XOEpnQUFHeU1iekFiclBaNmJ1VmoyXzBrX0haLTBydUJ6bEdhTFVvaEg2NkJwVVJJSnNjdTVxWE9KYnZpNFZHSXZIa3ZBVGotSWEtbnNWeTAzcldvdjNOeDRpMVdmWE9qc2xLdy1xTkVFRGdCd3VRaW40SWE4QUpaX293?oc=5"
+   "Asian Stocks to Gain as Anthropic Files for IPO: Markets Wrap",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTFLZTJNckNaRFN0TG9fLXJTY3h3VkVRSnZfMDJfLVkxOTNsU01IbWtXbDZQUTFIOXJXWENhY2NIX0ZuLUdLSHJMemcyUkNEZklQdUQxZlpHUWNwaVE3WFp1dk1meVZwejRrSUF1dEhFdDBjNUp3WVdqVnNBamJfQjFrN2g5b3QwZFBUMHZjYVU2aGhK?oc=5"
   ],
   [
    "Commodities",
