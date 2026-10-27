@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T20:48:16.346Z",
+ "updated": "2026-10-27T21:47:32.354Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,9 +304,9 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1128,
-   "ch": -0.46,
-   "asof": "2026-10-27T20:47:42.000Z"
+   "p": 1.113,
+   "ch": -0.44,
+   "asof": "2026-10-27T21:46:43.000Z"
   },
   {
    "s": "GBP/USD",
@@ -314,55 +314,55 @@
    "d": 4,
    "p": 1.3306,
    "ch": -0.27,
-   "asof": "2026-10-27T20:47:42.000Z"
+   "asof": "2026-10-27T21:46:43.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.957,
-   "ch": 0.31,
-   "asof": "2026-10-27T20:48:15.000Z"
+   "p": 157.899,
+   "ch": 0.27,
+   "asof": "2026-10-27T21:47:25.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7027,
-   "ch": 0.14,
-   "asof": "2026-10-27T20:46:42.000Z"
+   "p": 0.703,
+   "ch": 0.19,
+   "asof": "2026-10-27T21:46:43.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4052,
-   "ch": 0.29,
-   "asof": "2026-10-27T20:48:16.000Z"
+   "p": 1.4045,
+   "ch": 0.24,
+   "asof": "2026-10-27T21:47:28.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8294,
-   "ch": 0.34,
-   "asof": "2026-10-27T20:48:16.000Z"
+   "p": 0.8282,
+   "ch": 0.19,
+   "asof": "2026-10-27T21:47:26.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80601.62,
-   "ch": 0.74,
-   "asof": "2026-10-27T20:48:11.000Z"
+   "p": 80929.35,
+   "ch": 1.15,
+   "asof": "2026-10-27T21:47:23.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2339.92,
-   "ch": 0.84,
-   "asof": "2026-10-27T20:48:10.000Z"
+   "p": 2352.51,
+   "ch": 1.38,
+   "asof": "2026-10-27T21:47:28.000Z"
   },
   {
    "s": "S&P 500",
@@ -378,7 +378,7 @@
    "d": 2,
    "p": 26477.81,
    "ch": 1.18,
-   "asof": "2026-10-27T20:48:16.000Z"
+   "asof": "2026-10-27T21:15:59.000Z"
   },
   {
    "s": "Dow Jones",
@@ -386,23 +386,23 @@
    "d": 2,
    "p": 52377.57,
    "ch": 0.03,
-   "asof": "2026-10-27T20:20:00.000Z"
+   "asof": "2026-10-27T20:48:23.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4073.2,
+   "p": 4073.1,
    "ch": 0.86,
-   "asof": "2026-10-27T20:38:14.000Z"
+   "asof": "2026-10-27T20:59:59.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 100.27,
-   "ch": -1.46,
-   "asof": "2026-10-27T20:38:16.000Z"
+   "p": 100.2,
+   "ch": -1.53,
+   "asof": "2026-10-27T20:59:48.000Z"
   },
   {
    "s": "USD/KES",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6346,
-   "ch": -0.05,
-   "asof": "2026-10-27T20:48:16.000Z"
+   "p": 16.6103,
+   "ch": -0.19,
+   "asof": "2026-10-27T21:47:19.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 100.87,
-   "ch": 0.11,
-   "asof": "2026-10-27T20:48:15.000Z"
+   "p": 101.46,
+   "ch": 0.7,
+   "asof": "2026-10-27T21:47:28.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3182,
-   "ch": 0.91,
-   "asof": "2026-10-27T20:48:13.000Z"
+   "p": 1.3243,
+   "ch": 1.38,
+   "asof": "2026-10-27T21:47:26.000Z"
   },
   {
    "s": "Apple",
@@ -472,9 +472,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 54.5,
-   "ch": 0.29,
-   "asof": "2026-10-27T20:38:06.000Z"
+   "p": 54.495,
+   "ch": 0.28,
+   "asof": "2026-10-27T20:59:56.000Z"
   }
  ],
  "news": [
@@ -488,9 +488,9 @@
   [
    "Forex",
    "med",
-   "BlackRock has sights set on a yen stablecoin",
+   "Dollar edges higher as focus turns to central bank meetings",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM1Q0Mk5GamFGNzBHcmdtelpHRnRNRk9EeVFGTzhmSWluVTNlUWd3SGJtQXlyaGVVWGlyRlpKMTdaR1NtdUVNMFRCVEdlZGpTNnZLaU1qenF6UGxveFNvemExVFhscngtOHlweEFmcmZkX2dtZ2c3UEJWT0JvVnVzVUczdjR0dWN4Qmc?oc=5"
+   "https://news.google.com/rss/articles/CBMiogFBVV95cUxORG1ZMjV3ZUQzaXY5eFBQZnk4a0ZiaG1FZHlQTUVkNUMxU040VTgyel9xWF9vTHdBSHBCb253ZVVHdDVYbUZ6enBTQTF1NnZjWlpIVWhPTkRaMTBxNFVjSERfTWJwMDNPdHN5V3ZfdjNHYXYwRzZCejVHd3RLc3J2cjV3Zm1hY1JqN24yZkxHcEdmVEFpdWhSaWxuVl9nVjdMQ2c?oc=5"
   ],
   [
    "Crypto",
@@ -502,23 +502,23 @@
   [
    "Crypto",
    "med",
-   "Robinhood shares fall 5% as crypto slump weighs on profits, offsetting gains in new businesses",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMid0FVX3lxTE05dEtodC1JeDVVZ19PZ0xjb0stbFNWQWw5ZTNRd1RqcU03TmZJaGdFTmp5SGJnWmMxOE8wZ1p0R0ZPMS1RejE2Ny13eUduTFJNTUdfWWs2d2RXSEk0a1d3d0FieXg5c08taEtncU9UTWgwSjlCZnV30gF8QVVfeXFMUFFVVzNFUTJkY0c0X04tazJtOHY1YURSbVFEYUdhSHJQb2ZMTkdUYXNLRXMyc0lSRkN1ZFNZYnAwN283UGtQZG1uOFB0d042ZTJRRzlqZzBnRkxRTXhMV1pVYUtDRTBUaE5fWUNmZUJyM184am5HU2oyTEoyNg?oc=5"
+   "Robinhood (HOOD) earnings: Crypto revenue slumps, but tops diminished forecasts",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSUprc3Q3UzByMVpfeDlaejFjS0dRUmJ1RElKaXZKd0QzRjNybVV5dTBreW4tMW1TNE1IbTFuMi1EVzhPZTZ5cE9hZHJDOXQ0RnZMSkhOS0lKSS1Ta2ZQM0hfem40Xzdkb2FwM2dVcWtJRlZqRk92NG51VWNSZWotNGhFZFJWekYzZDNYMEVnNmVzaVRXMnY4aVV2ckVJczYtZXJsYVQzckdDb05qMXZqREVWRXlVb0JfeVRoVlN3VU8xY0k?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "GM moves to Nasdaq as first legacy automaker on the exchange",
+   "Wall Street ends higher on revived AI momentum",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZm9hYk1yQ3dNekhqMHROb3lfbGN4RDVGSFVSVFZkay05TWdfN3FTNnhTTXZIZ3lUM05kR0NCSVRmUlU4OWh4RWtidE5hZlZHaXJzSFU2dk5Wb25Dc044b0xPOWgySXpaRWRTbEhwcWdxN3RtQk1fcldpOFdNS0g4cVJ0MzZDWHJRYVVGMGFEdlIxa2dESjZnNnVCNTY1b1E?oc=5"
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR21qQWZsLUZqbWRjR2YtQ3FGakpEWWVjSUVFNjVDSi01MnRiWmV3Z2pPQUsyVGhJR3UxQ1o4RjRVa2tCLXNXbnJjNE9fbE5KVzlKTEZtNHpZb3lPR0hXcFFSVGVydlpnR3RQdVM5bDE3aVI3aVowN0NqY3NHb3VDN3hlaXpLTmxkeFc3NE13dUNqYUtIMHNxRFR5M3VYZmpKUDRzVE5WLUdwRHJCeEpQM1pKaw?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "GM to Leave NYSE for Stock Listing on Tech-Focused Nasdaq",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxPakM3cHFBQ2RjNE9MNkVsOEtPbjJHQ3NBMHNMVE1QVURBbWtkOHFjRWVEOTdHV2VKQ2Q1eW9rTXpRdjhFb29Qc2txUkV6MVM5bm5QOGZfdjFlUzRKYlYyMWtfelN1U1prdGFiZWdQWDBlaGVIeFg0bWQtaldEdTdXdFJvYVh4SjA1NEZaajg2V1lHb0c4M09FQ3hRbzRGU0RJa0xwZ1BZa0c5MmV0cHVoTg?oc=5"
+   "GM shifts into Wall Street's tech lane",
+   "Axios",
+   "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QR19MWmRrN2ZLSW5Vd2kxbjAyR0swekVzYWVIb05FV09yNmxZWVFNb0liSVVHMXFTd1lNUGlxN3NuS2ZNZnhJTzlDZTFxTkl0QXljb1ViY29JVzlEaVlxSnBLMXlEaklqa3Rv?oc=5"
   ],
   [
    "Commodities",
@@ -530,9 +530,9 @@
   [
    "Commodities",
    "med",
-   "US Equity Markets End Higher Amid Broad Rally After Drop in Crude Oil Prices",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWEtMbndCLWc2U3Q1ZU1sX21pTndXS0pfT2xWTm9fMF83MHlCWW1BWjRjTGhHSHRGWmhLdVp0MFhlLW5fdzh0NGUwN2VKX25oNHh4MURUWThxazduZXhQaHZyeHBjNHZXOFpVVXc0am5HRUU1di03ZTBfU1hCajBZTm1salkwOERtWlBMNldFV1BEazdORjNocA?oc=5"
+   "US Crude Oil Inventories Buck Analyst Expectations",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc084RVVPTTl1MnQxeHEybWJvTUV5RTBnN1JmS2VIQm1iUThlLXJVek03YkFUdkdSMHFOSGtObnFwS0hoTFpaZVpYRkZHRVpEN2VIcjJDekFPR0IzWnRDRmU2cjJNZHNkNnNYNVYwYWZJS1gzZEpUaUczZFd4NUtlV0E5dHRxeEdQV3lDZU5vb0pqbVcwNVBNSzVqN2VJSm1XTGZMbGl0NTc5d9IBrwFBVV95cUxQUDgxcXBhbkk4U09ZdnBlcGY0amZ5Z3RiSF9ObWNhNTlDUkZlallrV0xLUUtkNDJFQXBlSlF6X1dLcjBtYTR5eWJSSjYybnktSE9aUVFNRE1aekw1N0pHazRwWk44X05ORW9kTWI3ejVzT0U0bHdYTTc2TkhpUmg5RlczX1Q0RXIxRW01NDVQd0gxdTB5YUg4Zk1OZWJWUlA1M1RkTnFtX243cTJPUURJ?oc=5"
   ]
  ]
 }
