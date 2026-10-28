@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T11:54:57.929Z",
+ "updated": "2026-10-28T13:09:10.694Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,25 +304,25 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1132,
-   "ch": 0.01,
-   "asof": "2026-10-28T11:54:46.000Z"
+   "p": 1.1137,
+   "ch": 0.05,
+   "asof": "2026-10-28T13:08:43.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3289,
+   "p": 1.329,
    "ch": -0.14,
-   "asof": "2026-10-28T11:54:46.000Z"
+   "asof": "2026-10-28T13:08:43.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.897,
-   "ch": -0.01,
-   "asof": "2026-10-28T11:54:57.000Z"
+   "p": 157.951,
+   "ch": 0.02,
+   "asof": "2026-10-28T13:09:10.000Z"
   },
   {
    "s": "AUD/USD",
@@ -330,39 +330,39 @@
    "d": 4,
    "p": 0.7037,
    "ch": 0.13,
-   "asof": "2026-10-28T11:54:46.000Z"
+   "asof": "2026-10-28T13:08:43.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4036,
-   "ch": -0.07,
-   "asof": "2026-10-28T11:54:56.000Z"
+   "p": 1.4044,
+   "ch": -0.01,
+   "asof": "2026-10-28T13:09:10.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8298,
-   "ch": 0.19,
-   "asof": "2026-10-28T11:54:55.000Z"
+   "p": 0.8305,
+   "ch": 0.28,
+   "asof": "2026-10-28T13:09:10.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81254.66,
-   "ch": 0.56,
-   "asof": "2026-10-28T11:54:50.000Z"
+   "p": 80583.99,
+   "ch": -0.27,
+   "asof": "2026-10-28T13:09:05.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2360.53,
-   "ch": 0.56,
-   "asof": "2026-10-28T11:54:55.000Z"
+   "p": 2335.74,
+   "ch": -0.49,
+   "asof": "2026-10-28T13:09:10.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,17 +392,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4061.7,
-   "ch": -0.32,
-   "asof": "2026-10-28T11:44:42.000Z"
+   "p": 4066.4,
+   "ch": -0.2,
+   "asof": "2026-10-28T12:59:07.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 101.74,
-   "ch": 1.84,
-   "asof": "2026-10-28T11:44:53.000Z"
+   "p": 102.02,
+   "ch": 2.12,
+   "asof": "2026-10-28T12:59:11.000Z"
   },
   {
    "s": "USD/KES",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6634,
-   "ch": 0.27,
-   "asof": "2026-10-28T11:54:57.000Z"
+   "p": 16.6444,
+   "ch": 0.16,
+   "asof": "2026-10-28T13:09:11.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 102.68,
-   "ch": 1.41,
-   "asof": "2026-10-28T11:54:53.000Z"
+   "p": 101.32,
+   "ch": 0.07,
+   "asof": "2026-10-28T13:09:07.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3243,
-   "ch": -0.4,
-   "asof": "2026-10-28T11:54:46.000Z"
+   "p": 1.3146,
+   "ch": -1.13,
+   "asof": "2026-10-28T13:09:05.000Z"
   },
   {
    "s": "Apple",
@@ -472,9 +472,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.925,
-   "ch": -1.08,
-   "asof": "2026-10-28T11:44:38.000Z"
+   "p": 54.275,
+   "ch": -0.44,
+   "asof": "2026-10-28T12:59:11.000Z"
   }
  ],
  "news": [
@@ -487,24 +487,24 @@
   ],
   [
    "Forex",
-   "high",
-   "Thai central bank keeps interest rate unchanged, as expected",
+   "med",
+   "Singapore central bank tells banks to monitor customers' haze risks",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeDJxN25kZTJfQm51X1lULVAzclQ0WHNMd1RFblduVGU4U0VRU182RHB5T2lLSW03amJjczRORHpXRjRJOWhVcGtUUnpBaXY1VWEtUjBGWFM5WmIxdU1oWmM4ZEpvY0NscmJYdDZHQzdtczZmbGZncU4ydkJpM0s3dVVtMFJaT1lMRmJaaFQ2Zk9JZkx4TmdWVzA2UVNpNzc2N0lqXw?oc=5"
+   "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUDB3VktNT2FRaFR0VGpWa0R3aWpQSDdGcVFGbzZILThYTkNFM2xyRl9wWmFJMTFLRjlFUzh0SFhLWEZ6SE1DeUFQMUJEWGxSOHozTS1HQUsxRXVoZFNrUE1Fc3pyT1k4bU1TekR3Y3BDaVE3ajNZbGU3dnNkUEx3M05HLUJfZ0xubnF5R09CTnhLbTVyY3BybWgybkprd3dTZl90eElMTFQxOUVEYjE5Z19Wb2tSQkE?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Current price of Ethereum for Oct. 28, 2026",
+   "Current price of Ethereum for October 28, 2026",
    "Fortune",
    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qUlM0QmRDX1QySlZCSzJySDAyMTctQkpKMjhqeTRxTzVEWi1ldFJfYlRPX3lPZEVXRHFQczJ1c3FwN0tpV2xESXJJRTFIdE10SEVTUjY4SFdpRzMwOFhudG9LN0ZqVEkw?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Crypto Tax Lobbying Grows Even After Market Structure Fails",
-   "Bloomberg Government News",
-   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeWVXcnRORXRtVUZrWkFjd2NFbzdxUXVhdnYxVnlfRlJSdnlKNUpuNGtqTksxdnBrTHB4N1BaWjdZSFIxSEdRNm9KMENqOFhvNFJZTmhpVTRaLVE5b1RXcmVCd1kzemJXWEVteGw0WUUxV3RvUk9NRUN5RHNvM3RLdnhkcTZCNzdwM0tBWDZNaWMwYXlRQTYxZUVwMmI1aFg4aDhyd19OSlN1dVk?oc=5"
+   "Google to preview a new crypto security system as private-key hacks mount",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZks2YVpRNDRuYkVwb2lnaC05RHRTczN4SUVIM00zdS1GdWdIOXpadC1KclUwa2FLTzZVMnk0b2hRMnA2V3VnVkdNdTlVSDNjQnp0Tk5jcDhGdEtlUUdEazFpMFFRaXhHUi1sbnN2Wk9mM0ZIUXBMRzA3ckZVdzZEUi05SDVGTWp2aTBMNmM5MHNmNVFKRUVfSFg3TERSRzJseS1jNHFXNk5FYm1y?oc=5"
   ],
   [
    "Stocks",
@@ -515,24 +515,24 @@
   ],
   [
    "Stocks",
-   "med",
-   "META_TITLE_QUOTE",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pUnVuQ3AzSDN2ZjNaRU14NEpwR0tOZTJibGx3TGlrM050RW9UdHRSMWZJX0RUcE9TZDU5QkJkWU5SYS1zNW9rR1pTZDRCZw?oc=5"
+   "high",
+   "Nasdaq futures gain as SK Hynix lifts chips ahead of Fed decision, earnings",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
+   "UBS raises Brent outlook, sees oil at $110/bbl by end-2026",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQk1NWVk2NVlpU28wSXlnbk9TTEJ4ZUZLY3BuVjVBbXlieUFMaTZhSUZIZVk5M1o3WGhKNnU3WFUwVnZVdVgtcndueTJpMDBJenZES1pMcXFtNGFxUEJhdjRORG9EOXYxbmRTdlQxdjZtYXE2eGNrOWZKQ2F1dGUtVmR2akR5dlpRWHlTWDVOUDJWQWhqYkhmdERQOUJ4SDZjNm5JM28zTQ?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Oil prices rise as Houthi attacks on Saudi refinery raise supply worries",
    "CNBC",
    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VVTZnQjZMOUgxd3doMmJKclN5eUlkbFJoOE9TZDJQVlN5Zm92aDRIYW5yMWcwTGxtRHBfNW9FQ3NIbTJXSmdJZU9ibE9XZFRaQWJXb3JYbDJWY1l4c2o5OU5xeC1VbmFRN1JmMWZUUG9LNVhCYnk2ZNIBfkFVX3lxTE9PVWR4YV9Fa0UyQi0tN013V0d5bjY3bUJqZ1R2VGlsSHdGOURZVkRTSDhLUkpQS2lyV0ZDVlNua3RRelVoMmV4QUdfZUU5S09oV0ZHQTAzNm1hVWxVTVMzRWd0X2M3b3RfdVFUcFNfckgxMUdKMnNldWo2RWpIdw?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Sanctioned Oil Tankers Find a Lucrative New Trade in the Persian Gulf",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdlpKMG5WOGo5bXVJUnpSWkVyeDREUGJfd3dHR1lHWkFpMmNHNFQzQUxkM283WXdBd1dIN1hjZWYzZkZreGx5OFNuU1FEbGd1ZXBWaWNzTmhOSTRvZnZwREJtelZIVUNZZWNXTnBXSG9nRnVBcG9mWVNIMWZsQVh6dExBUi1MYmZDSlpPWXZUTTIteUtZYmVPMk52azlUUHloRXpZRXB2RlBpLTc1bHVHX0Mxbm5jVG54ekY0YzAzX3NCYlXSAcgBQVVfeXFMT29RMTRPb3N4MktVdUM2QzRCVlZRNEZGZzk1R21MLXhsblBxLS1BUjRtTUxiVERtdVVncHFNZjBLTTJtbDhhTWRpd1ZVaUNzS2s0UC1Pd2Q4TFRpd213UTNuMThsaDZ6UGY1QUhMQl9GYUFlczZES2VWMXVxX2hvbmVEWnRBY0JSdTlVeHFVSG80MlUwbW5ick1Uc3VpbEVRelhSYUxsMnp4MnMyYnZBMWlYVjNyZmJINDdmTlNma1NjcGtCejdLZVI?oc=5"
   ]
  ]
 }
