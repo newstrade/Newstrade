@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T02:04:41.236Z",
+ "updated": "2026-10-28T02:56:36.468Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -177,7 +177,7 @@
    "tag": "USD",
    "imp": "med",
    "name": "Advance GDP Price Index q/q",
-   "fc": "3.3%",
+   "fc": "3.2%",
    "prev": "6.2%",
    "act": ""
   },
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1127,
-   "ch": -0.04,
-   "asof": "2026-10-28T02:03:44.000Z"
+   "p": 1.113,
+   "ch": -0.01,
+   "asof": "2026-10-28T02:55:45.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3302,
-   "ch": -0.05,
-   "asof": "2026-10-28T02:03:44.000Z"
+   "p": 1.3305,
+   "ch": -0.02,
+   "asof": "2026-10-28T02:55:45.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.932,
-   "ch": 0.01,
-   "asof": "2026-10-28T02:04:41.000Z"
+   "p": 157.907,
+   "ch": 0,
+   "asof": "2026-10-28T02:56:34.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7043,
-   "ch": 0.21,
-   "asof": "2026-10-28T02:02:44.000Z"
+   "p": 0.704,
+   "ch": 0.17,
+   "asof": "2026-10-28T02:54:45.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4061,
-   "ch": 0.11,
-   "asof": "2026-10-28T02:04:41.000Z"
+   "p": 1.406,
+   "ch": 0.1,
+   "asof": "2026-10-28T02:56:36.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8298,
-   "ch": 0.19,
-   "asof": "2026-10-28T02:04:41.000Z"
+   "p": 0.8295,
+   "ch": 0.16,
+   "asof": "2026-10-28T02:56:35.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80809.35,
-   "ch": 0.01,
-   "asof": "2026-10-28T02:04:39.000Z"
+   "p": 80858.95,
+   "ch": 0.07,
+   "asof": "2026-10-28T02:56:29.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2352.16,
-   "ch": 0.2,
-   "asof": "2026-10-28T02:04:30.000Z"
+   "p": 2355.68,
+   "ch": 0.35,
+   "asof": "2026-10-28T02:56:26.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,17 +392,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4061.3,
-   "ch": -0.33,
-   "asof": "2026-10-28T01:54:40.000Z"
+   "p": 4061.9,
+   "ch": -0.31,
+   "asof": "2026-10-28T02:46:05.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 101.27,
-   "ch": 1.37,
-   "asof": "2026-10-28T01:54:38.000Z"
+   "p": 101.14,
+   "ch": 1.24,
+   "asof": "2026-10-28T02:46:22.000Z"
   },
   {
    "s": "USD/KES",
@@ -410,15 +410,15 @@
    "d": 2,
    "p": 129.86,
    "ch": 0,
-   "asof": "2026-10-28T01:26:29.000Z"
+   "asof": "2026-10-28T02:16:22.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6611,
-   "ch": 0.26,
-   "asof": "2026-10-28T02:04:42.000Z"
+   "p": 16.6599,
+   "ch": 0.25,
+   "asof": "2026-10-28T02:56:36.000Z"
   },
   {
    "s": "USD/NGN",
@@ -426,23 +426,23 @@
    "d": 2,
    "p": 1340.31,
    "ch": 0,
-   "asof": "2026-10-28T01:26:29.000Z"
+   "asof": "2026-10-28T02:16:22.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 101.56,
-   "ch": 0.3,
-   "asof": "2026-10-28T02:04:36.000Z"
+   "p": 101.59,
+   "ch": 0.33,
+   "asof": "2026-10-28T02:56:30.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3348,
-   "ch": 0.38,
-   "asof": "2026-10-28T02:04:40.000Z"
+   "p": 1.334,
+   "ch": 0.32,
+   "asof": "2026-10-28T02:56:26.000Z"
   },
   {
    "s": "Apple",
@@ -472,9 +472,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 54.245,
-   "ch": -0.49,
-   "asof": "2026-10-28T01:54:39.000Z"
+   "p": 54.13,
+   "ch": -0.7,
+   "asof": "2026-10-28T02:46:31.000Z"
   }
  ],
  "news": [
@@ -501,10 +501,10 @@
   ],
   [
    "Crypto",
-   "med",
-   "Bitcoin’s Road to $100,000 Is Crowded With Would-Be Sellers",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUG5IYkpZcTBXMjBwZXJXRFA2My00XzlURjRRaEJFTXIteEZhLUNEVlZSWVNzWUFwQkFySFZkczBfdEh4d0RCSHFkYXBtdC1QZ04zam5aRVdPeW02TjJ6aEZUaXllVzBwRmRSTExvcmZta1JiX3Q2eEQ4d2FwZy01bnRrTk1ybklEeklvc0Y3aVZHWWV1RVUxcWJTWXNPN1VRZjdxa1VTbS1ZMm5oZ2c?oc=5"
+   "high",
+   "Will China’s Stock Market Crash Hit Bitcoin Price?",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSFhLc1BZU29oRzdyd2FJVzZSWVgxZ3lFRnA0bGt0TkdkYnR3bkxJOW5fLUZSV2pmWmVySVY2emtROXo4VUpDR3lqQ01YSldnUFFCWG1uN0xmYnN6cjBCb3BWYXJlb285c1plZ00yVWp3T0s2M2c1aTZabEtKREtSdUd6a2NMZDZ3NS10Tk0tWWxwZVZ5SmI5dQ?oc=5"
   ],
   [
    "Stocks",
@@ -516,9 +516,9 @@
   [
    "Stocks",
    "med",
-   "Asian Stocks Set to Gain on Resurgent AI Optimism: Markets Wrap",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdFZXQ0F0WGVCT3FPRFB5RndJRUYtdHFQNVlfVmxJV1dmd0ZKMklnSl8yYnV6Z0N0bERBbmVhenJGS3dTOF95VERJeC0xektmNXVOSzJzTUVySzRSYWRIWHl6RGNxU1o2eWRmcU5EcEN3OTlzaldJUERqdWloQ1pRa1Q2ZUI4YUZCejlrUzk3NzBRdmdf?oc=5"
+   "GM shifts into Wall Street's tech lane",
+   "Axios",
+   "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QR19MWmRrN2ZLSW5Vd2kxbjAyR0swekVzYWVIb05FV09yNmxZWVFNb0liSVVHMXFTd1lNUGlxN3NuS2ZNZnhJTzlDZTFxTkl0QXljb1ViY29JVzlEaVlxSnBLMXlEaklqa3Rv?oc=5"
   ],
   [
    "Commodities",
@@ -530,9 +530,9 @@
   [
    "Commodities",
    "med",
-   "A hidden ‘triple top’ in oil price charts suggests the rally has run out of gas",
-   "MarketWatch",
-   "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeHVEdllwcy1UaUgyRjVxdGE3VjBsVmVabEJJVnM2MUhBSlhjYkdPbzBJM253RC1UR1VnUVdJQ1BabTZJRkV6eG1jQlh2emhRSEVIVGE4WnJVaXo3QlExOE5ETGpwYm1kWjhoZEVQWDVBbU1zVFdqQkpYN1R3SVNrNHpJQUYxeUw4cGxKdXlVUFFGRnJoWW80REZ1OXVWMEw1VlRGQXY4RG8zQjhVQlFzT0hhUGZHRWRXSUg3dA?oc=5"
+   "US Equity Markets End Higher Amid Broad Rally After Drop in Crude Oil Prices",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWEtMbndCLWc2U3Q1ZU1sX21pTndXS0pfT2xWTm9fMF83MHlCWW1BWjRjTGhHSHRGWmhLdVp0MFhlLW5fdzh0NGUwN2VKX25oNHh4MURUWThxazduZXhQaHZyeHBjNHZXOFpVVXc0am5HRUU1di03ZTBfU1hCajBZTm1salkwOERtWlBMNldFV1BEazdORjNocA?oc=5"
   ]
  ]
 }
