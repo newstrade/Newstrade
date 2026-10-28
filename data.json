@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T05:54:19.522Z",
+ "updated": "2026-10-28T07:10:42.795Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1121,
-   "ch": -0.09,
-   "asof": "2026-10-28T05:53:43.000Z"
+   "p": 1.1117,
+   "ch": -0.13,
+   "asof": "2026-10-28T07:09:45.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3292,
-   "ch": -0.12,
-   "asof": "2026-10-28T05:53:43.000Z"
+   "p": 1.3278,
+   "ch": -0.23,
+   "asof": "2026-10-28T07:09:45.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.816,
-   "ch": -0.06,
-   "asof": "2026-10-28T05:54:19.000Z"
+   "p": 157.959,
+   "ch": 0.03,
+   "asof": "2026-10-28T07:10:43.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7035,
-   "ch": 0.1,
-   "asof": "2026-10-28T05:52:43.000Z"
+   "p": 0.7033,
+   "ch": 0.07,
+   "asof": "2026-10-28T07:08:45.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4062,
-   "ch": 0.11,
-   "asof": "2026-10-28T05:54:18.000Z"
+   "p": 1.4059,
+   "ch": 0.09,
+   "asof": "2026-10-28T07:10:42.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.83,
-   "ch": 0.22,
-   "asof": "2026-10-28T05:54:18.000Z"
+   "p": 0.8311,
+   "ch": 0.35,
+   "asof": "2026-10-28T07:10:42.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80799.24,
-   "ch": 0,
-   "asof": "2026-10-28T05:54:17.000Z"
+   "p": 80811.66,
+   "ch": 0.01,
+   "asof": "2026-10-28T07:10:37.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2349.51,
-   "ch": 0.09,
-   "asof": "2026-10-28T05:54:15.000Z"
+   "p": 2351.68,
+   "ch": 0.18,
+   "asof": "2026-10-28T07:10:29.000Z"
   },
   {
    "s": "S&P 500",
@@ -370,7 +370,7 @@
    "d": 2,
    "p": 7722.6,
    "ch": 0.6,
-   "asof": "2026-10-27T20:48:15.000Z"
+   "asof": "2026-10-27T20:00:00.000Z"
   },
   {
    "s": "Nasdaq",
@@ -384,25 +384,25 @@
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52377.57,
+   "p": 52377.6,
    "ch": 0.03,
-   "asof": "2026-10-27T20:48:23.000Z"
+   "asof": "2026-10-27T20:00:00.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4048.1,
-   "ch": -0.65,
-   "asof": "2026-10-28T05:44:18.000Z"
+   "p": 4041.8,
+   "ch": -0.8,
+   "asof": "2026-10-28T07:00:40.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 101.55,
-   "ch": 1.65,
-   "asof": "2026-10-28T05:44:06.000Z"
+   "p": 101.77,
+   "ch": 1.87,
+   "asof": "2026-10-28T07:00:44.000Z"
   },
   {
    "s": "USD/KES",
@@ -410,15 +410,15 @@
    "d": 2,
    "p": 129.86,
    "ch": 0,
-   "asof": "2026-10-28T04:00:26.000Z"
+   "asof": "2026-10-28T06:30:50.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6637,
-   "ch": 0.27,
-   "asof": "2026-10-28T05:54:20.000Z"
+   "p": 16.6769,
+   "ch": 0.35,
+   "asof": "2026-10-28T07:10:44.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 101.71,
-   "ch": 0.45,
-   "asof": "2026-10-28T05:54:18.000Z"
+   "p": 101.9,
+   "ch": 0.64,
+   "asof": "2026-10-28T07:10:42.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3243,
-   "ch": -0.4,
-   "asof": "2026-10-28T05:54:10.000Z"
+   "p": 1.3249,
+   "ch": -0.36,
+   "asof": "2026-10-28T07:10:33.000Z"
   },
   {
    "s": "Apple",
@@ -472,9 +472,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.945,
-   "ch": -1.04,
-   "asof": "2026-10-28T05:44:04.000Z"
+   "p": 53.845,
+   "ch": -1.23,
+   "asof": "2026-10-28T07:00:23.000Z"
   }
  ],
  "news": [
@@ -509,23 +509,23 @@
   [
    "Stocks",
    "med",
+   "META_TITLE_QUOTE",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wLXdlSm5MT0hsWEI2RjNWUHB6R3FYWEYzbi0ydDM4NGFScjNIZmYwYlpGQzRVWmdrVHJHcnRJdFdrMkxFczJqYnE2VFNWQQ?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
    "Wall Street ends higher on revived AI momentum",
    "Reuters",
    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR21qQWZsLUZqbWRjR2YtQ3FGakpEWWVjSUVFNjVDSi01MnRiWmV3Z2pPQUsyVGhJR3UxQ1o4RjRVa2tCLXNXbnJjNE9fbE5KVzlKTEZtNHpZb3lPR0hXcFFSVGVydlpnR3RQdVM5bDE3aVI3aVowN0NqY3NHb3VDN3hlaXpLTmxkeFc3NE13dUNqYUtIMHNxRFR5M3VYZmpKUDRzVE5WLUdwRHJCeEpQM1pKaw?oc=5"
   ],
   [
-   "Stocks",
-   "high",
-   "Dow, S&P 500, Nasdaq Futures Mixed Ahead Of Key Tech Results, Fed Rate Decision: SKHY, HOOD, BA, ENPH In Focus",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOHptY3NpaVk3Tmcwdnp5b29CN2w5VFJWRF9ZWVNkUlFHbVhFaHlNQm8yM0w5WmJUaVZucklOaUxXMkxPM3R1NVY1TlNkTGxmeXMzRzdPVlJqbDJnU1AyY0pSZkRkRTBLbWZJaG52aFVyb294cE01Wlo1VzJEbmE1WklUaWtHYjVUQUlabEJFbU5QTzQ?oc=5"
-  ],
-  [
    "Commodities",
    "med",
-   "Oil Holds Decline as Traders Track Result of Israeli Election",
-   "Bloomberg",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWozMmJ3RFc4TndManlWbTRGeDhET1NHdGJDeFpnZVIySnk4OUZheXBfUjJaNWVmUHZId05VZFQ4bkVkZWc0NWxETW50QjhzbTUwTlJYelZMTEk4RUsybjNkel9yMXl4T1l0M0VMdl9OOU1xZmw4Z3dBWUpXZFNKVG5ZT0t5SXhnNzVKRWVvR2VEOHR5WjJQTVE5TURXZw?oc=5"
+   "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VVTZnQjZMOUgxd3doMmJKclN5eUlkbFJoOE9TZDJQVlN5Zm92aDRIYW5yMWcwTGxtRHBfNW9FQ3NIbTJXSmdJZU9ibE9XZFRaQWJXb3JYbDJWY1l4c2o5OU5xeC1VbmFRN1JmMWZUUG9LNVhCYnk2ZNIBfkFVX3lxTE9PVWR4YV9Fa0UyQi0tN013V0d5bjY3bUJqZ1R2VGlsSHdGOURZVkRTSDhLUkpQS2lyV0ZDVlNua3RRelVoMmV4QUdfZUU5S09oV0ZHQTAzNm1hVWxVTVMzRWd0X2M3b3RfdVFUcFNfckgxMUdKMnNldWo2RWpIdw?oc=5"
   ],
   [
    "Commodities",
