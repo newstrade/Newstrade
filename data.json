@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T21:52:14.870Z",
+ "updated": "2026-10-28T22:50:54.412Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1157,
-   "ch": 0.23,
-   "asof": "2026-10-28T21:51:30.000Z"
+   "p": 1.1156,
+   "ch": 0.22,
+   "asof": "2026-10-28T22:50:46.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3327,
-   "ch": 0.14,
-   "asof": "2026-10-28T21:51:30.000Z"
+   "p": 1.3323,
+   "ch": 0.11,
+   "asof": "2026-10-28T22:50:46.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.795,
-   "ch": -0.07,
-   "asof": "2026-10-28T21:52:09.000Z"
+   "p": 157.787,
+   "ch": -0.08,
+   "asof": "2026-10-28T22:50:54.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7056,
-   "ch": 0.4,
-   "asof": "2026-10-28T21:51:30.000Z"
+   "p": 0.7054,
+   "ch": 0.37,
+   "asof": "2026-10-28T22:50:46.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3991,
-   "ch": -0.39,
-   "asof": "2026-10-28T21:52:11.000Z"
+   "p": 1.3989,
+   "ch": -0.41,
+   "asof": "2026-10-28T22:50:53.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8278,
-   "ch": -0.05,
-   "asof": "2026-10-28T21:52:09.000Z"
+   "p": 0.8277,
+   "ch": -0.06,
+   "asof": "2026-10-28T22:50:54.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81278.93,
-   "ch": 0.59,
-   "asof": "2026-10-28T21:52:00.000Z"
+   "p": 81181.27,
+   "ch": 0.47,
+   "asof": "2026-10-28T22:50:49.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2362.63,
-   "ch": 0.65,
-   "asof": "2026-10-28T21:52:10.000Z"
+   "p": 2357.13,
+   "ch": 0.42,
+   "asof": "2026-10-28T22:50:45.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,17 +392,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4081.2,
-   "ch": 0.73,
-   "asof": "2026-10-28T20:59:59.000Z"
+   "p": 4067.6,
+   "ch": 0.39,
+   "asof": "2026-10-28T22:40:53.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 101.94,
-   "ch": -0.82,
-   "asof": "2026-10-28T20:59:58.000Z"
+   "p": 101.95,
+   "ch": -0.81,
+   "asof": "2026-10-28T22:40:15.000Z"
   },
   {
    "s": "USD/KES",
@@ -410,15 +410,15 @@
    "d": 2,
    "p": 129.8,
    "ch": -0.05,
-   "asof": "2026-10-28T21:07:13.000Z"
+   "asof": "2026-10-28T22:02:04.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6119,
-   "ch": -0.04,
-   "asof": "2026-10-28T21:52:09.000Z"
+   "p": 16.6082,
+   "ch": -0.06,
+   "asof": "2026-10-28T22:50:54.000Z"
   },
   {
    "s": "USD/NGN",
@@ -426,23 +426,23 @@
    "d": 2,
    "p": 1341.82,
    "ch": 0.11,
-   "asof": "2026-10-28T21:07:13.000Z"
+   "asof": "2026-10-28T22:02:04.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 102.67,
-   "ch": 1.4,
-   "asof": "2026-10-28T21:52:07.000Z"
+   "p": 102.4,
+   "ch": 1.13,
+   "asof": "2026-10-28T22:50:48.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.332,
-   "ch": 0.17,
-   "asof": "2026-10-28T21:52:12.000Z"
+   "p": 1.3256,
+   "ch": -0.31,
+   "asof": "2026-10-28T22:50:39.000Z"
   },
   {
    "s": "Apple",
@@ -472,25 +472,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 54.04,
-   "ch": 0.7,
-   "asof": "2026-10-28T20:59:57.000Z"
+   "p": 53.9,
+   "ch": 0.44,
+   "asof": "2026-10-28T22:40:45.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Thai Central Bank Holds Rate Steady, Raises Growth Forecasts",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmhMZXQwWDd1WVFOLUZ2MTRSX3hKaTVrM1FPaF9aNW5MMC1yNy1SRU1neU91ZWVkN01FM3dpNkFsTUd0NlNzXzFBbzYxdmpsUXdOSUg2ZnZJTUt4N3BNMTBhemxOWVRjdHIwb3lycS03MjhsLU9JRlpHdl9NVTV6eWlZMGItb1ExaWFpVFNXeUwweUU5WmVqTmVBZnpwM3NkaWNkY1YwNA?oc=5"
+   "Sterling Infrastructure: Q3 Earnings Snapshot",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdnRCVTA2TjM0UmkydGduenVsXzdLM2paX2ZpdXR1czF6STFPVXhyOFAyQjJQQ2xkNnZvSEpfQlRXWElocHdwcGRIV2ZueFJCVnI5U1NBd3UxaXhyczVoVDFQdTJiMlg3MUQxUVdnLUVMaS1nTllBNVo1Z3hLZnJZRnBNNVczUGxIM2pRMWtjQUVNUWttOG5WeTNidVp4bkFfMHozN2FPS0RMUUIxVXc?oc=5"
   ],
   [
    "Forex",
    "med",
-   "Singapore central bank tells banks to monitor customers' haze risks",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUDB3VktNT2FRaFR0VGpWa0R3aWpQSDdGcVFGbzZILThYTkNFM2xyRl9wWmFJMTFLRjlFUzh0SFhLWEZ6SE1DeUFQMUJEWGxSOHozTS1HQUsxRXVoZFNrUE1Fc3pyT1k4bU1TekR3Y3BDaVE3ajNZbGU3dnNkUEx3M05HLUJfZ0xubnF5R09CTnhLbTVyY3BybWgybkprd3dTZl90eElMTFQxOUVEYjE5Z19Wb2tSQkE?oc=5"
+   "Thai Central Bank Holds Rate Steady, Raises Growth Forecasts",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmhMZXQwWDd1WVFOLUZ2MTRSX3hKaTVrM1FPaF9aNW5MMC1yNy1SRU1neU91ZWVkN01FM3dpNkFsTUd0NlNzXzFBbzYxdmpsUXdOSUg2ZnZJTUt4N3BNMTBhemxOWVRjdHIwb3lycS03MjhsLU9JRlpHdl9NVTV6eWlZMGItb1ExaWFpVFNXeUwweUU5WmVqTmVBZnpwM3NkaWNkY1YwNA?oc=5"
   ],
   [
    "Crypto",
@@ -502,9 +502,9 @@
   [
    "Crypto",
    "med",
-   "MicroStrategy Approves Daily Dividends. Will Bitcoin Buying Return?",
+   "Bitcoin Fell Five Days in a Row While Nearly 15,000 BTC Left Exchanges. Is a Bounce Coming?",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ1A2OWxaallCY2VaLS16bVBLLVJlVG1aRG9hMzRpV3VHdGI2b2lBRnVwT3kyR1VIYjZWeXpSYWVfb1ViY3VZS0VvWDZnUjNUMW5rS2JsOExWVU1yYjB1Tk9JOXlJa25XRW1tS2dIRUNLOEFmaExvT2F0X05MV0VjRC1jVXdoYS01ck93YW5oUmY5TENvWkc0VHQ2M2tGaGJ3UGJ0UkJMUWMyX2llNGg0dw?oc=5"
+   "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV2RtUWNxVGlYam45MEktVWpCWGoyQlNUVEhzaUVtM2ttTVVWV1Z3RVJUN2FLam5hLVBENmFsVEhWRFFEdzRFZGNsV1VBQlhzN1V5YVJaZmNzU0pySFhvYm1vTnhMV3FsN1FFejJ2UzFUcnhXeFFpTXdmdnZQTzEwOWxSckRqUXhGMm00Vk81a2JYank4cEE?oc=5"
   ],
   [
    "Stocks",
@@ -515,10 +515,10 @@
   ],
   [
    "Stocks",
-   "med",
-   "EBay Sales Rise on Strength in Collectibles, Live Shopping",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR0QtdDdpajAwVnNMZm1HZDhrSmduWVNhZjhNSlVjcnNRS0FOcHppVVMyb0ViTXJESmlJRUlXU2JXWTQ0VjdodjJNVUwwMnI1dGlDRFA3eHF3eTZrWnRkTEtKLWk0cVhVSEM5aUp6WWJEZWoyVjh6X2d6S0w3Y2tsQ0x3b2EzQzdHcTNvWFBtMzZsZGN5U3o4ZjQwd2ZUVTZ5X0Zidg?oc=5"
+   "high",
+   "Update: S&P 500, Nasdaq Rise For Third Day Following Fed Pause",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVE9pXzV6aEE4Rk1WdmFrSURVMTlTUDgtTmU4c0x2bWdILW1DVzRyZkY1RksxQ2hqNFdqSi1aeXlzd293ei1NZUtaUGtRM3lLYzZQZzRDSEZmRXphNktwNlNjS2ZEMmFHNXJnRjJPekxQTW41c08xYTlZS3pBVDJEY01ZWmpjLV9UX0EzOTNkSlQ5QQ?oc=5"
   ],
   [
    "Commodities",
