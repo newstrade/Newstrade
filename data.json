@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T22:50:54.412Z",
+ "updated": "2026-10-28T23:48:11.675Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1156,
-   "ch": 0.22,
-   "asof": "2026-10-28T22:50:46.000Z"
+   "p": 1.1162,
+   "ch": 0.28,
+   "asof": "2026-10-28T23:47:42.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3323,
-   "ch": 0.11,
-   "asof": "2026-10-28T22:50:46.000Z"
+   "p": 1.333,
+   "ch": 0.17,
+   "asof": "2026-10-28T23:47:42.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.787,
-   "ch": -0.08,
-   "asof": "2026-10-28T22:50:54.000Z"
+   "p": 157.74,
+   "ch": -0.11,
+   "asof": "2026-10-28T23:48:11.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7054,
-   "ch": 0.37,
-   "asof": "2026-10-28T22:50:46.000Z"
+   "p": 0.7057,
+   "ch": 0.41,
+   "asof": "2026-10-28T23:46:42.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3989,
-   "ch": -0.41,
-   "asof": "2026-10-28T22:50:53.000Z"
+   "p": 1.3981,
+   "ch": -0.46,
+   "asof": "2026-10-28T23:48:07.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8277,
-   "ch": -0.06,
-   "asof": "2026-10-28T22:50:54.000Z"
+   "p": 0.8276,
+   "ch": -0.07,
+   "asof": "2026-10-28T23:48:11.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81181.27,
-   "ch": 0.47,
-   "asof": "2026-10-28T22:50:49.000Z"
+   "p": 81200.19,
+   "ch": 0.49,
+   "asof": "2026-10-28T23:48:06.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2357.13,
-   "ch": 0.42,
-   "asof": "2026-10-28T22:50:45.000Z"
+   "p": 2355.54,
+   "ch": 0.35,
+   "asof": "2026-10-28T23:48:04.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,17 +392,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4067.6,
-   "ch": 0.39,
-   "asof": "2026-10-28T22:40:53.000Z"
+   "p": 4065.7,
+   "ch": 0.35,
+   "asof": "2026-10-28T23:38:08.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 101.95,
-   "ch": -0.81,
-   "asof": "2026-10-28T22:40:15.000Z"
+   "p": 101.87,
+   "ch": -0.89,
+   "asof": "2026-10-28T23:37:20.000Z"
   },
   {
    "s": "USD/KES",
@@ -410,15 +410,15 @@
    "d": 2,
    "p": 129.8,
    "ch": -0.05,
-   "asof": "2026-10-28T22:02:04.000Z"
+   "asof": "2026-10-28T23:44:29.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6082,
-   "ch": -0.06,
-   "asof": "2026-10-28T22:50:54.000Z"
+   "p": 16.6068,
+   "ch": -0.07,
+   "asof": "2026-10-28T23:48:11.000Z"
   },
   {
    "s": "USD/NGN",
@@ -426,23 +426,23 @@
    "d": 2,
    "p": 1341.82,
    "ch": 0.11,
-   "asof": "2026-10-28T22:02:04.000Z"
+   "asof": "2026-10-28T23:44:29.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 102.4,
-   "ch": 1.13,
-   "asof": "2026-10-28T22:50:48.000Z"
+   "p": 102.25,
+   "ch": 0.99,
+   "asof": "2026-10-28T23:48:05.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3256,
-   "ch": -0.31,
-   "asof": "2026-10-28T22:50:39.000Z"
+   "p": 1.3239,
+   "ch": -0.43,
+   "asof": "2026-10-28T23:48:10.000Z"
   },
   {
    "s": "Apple",
@@ -472,12 +472,19 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.9,
-   "ch": 0.44,
-   "asof": "2026-10-28T22:40:45.000Z"
+   "p": 53.87,
+   "ch": 0.38,
+   "asof": "2026-10-28T23:38:07.000Z"
   }
  ],
  "news": [
+  [
+   "Forex",
+   "med",
+   "Japan Vows to Fortify Cyber Defenses as GMO Hack Hits Forex Brokers",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNVNyQzhTdWE5emJCNzR3MWlBZGRvYTl5Sk80LTY1d3JuN3NxTVRWYUIxdkR1bWVLMkYxVktCQzdidkViUjRmaXNxcVRhbFgtcHg2RGh4SXFCYnNPWHg2NUl5OVRTUjhBZFRvU2FxcmVjZlVadFlfR0dHRmRqN3RJaGJwcXl1N3BzbnZvX0o0X2FGQlVaM015VVNDZS1pdG9fSEs1azUzOEpzZWVLZlR4eDVNRHVzUQ?oc=5"
+  ],
   [
    "Forex",
    "med",
@@ -486,25 +493,18 @@
    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdnRCVTA2TjM0UmkydGduenVsXzdLM2paX2ZpdXR1czF6STFPVXhyOFAyQjJQQ2xkNnZvSEpfQlRXWElocHdwcGRIV2ZueFJCVnI5U1NBd3UxaXhyczVoVDFQdTJiMlg3MUQxUVdnLUVMaS1nTllBNVo1Z3hLZnJZRnBNNVczUGxIM2pRMWtjQUVNUWttOG5WeTNidVp4bkFfMHozN2FPS0RMUUIxVXc?oc=5"
   ],
   [
-   "Forex",
+   "Crypto",
    "med",
-   "Thai Central Bank Holds Rate Steady, Raises Growth Forecasts",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmhMZXQwWDd1WVFOLUZ2MTRSX3hKaTVrM1FPaF9aNW5MMC1yNy1SRU1neU91ZWVkN01FM3dpNkFsTUd0NlNzXzFBbzYxdmpsUXdOSUg2ZnZJTUt4N3BNMTBhemxOWVRjdHIwb3lycS03MjhsLU9JRlpHdl9NVTV6eWlZMGItb1ExaWFpVFNXeUwweUU5WmVqTmVBZnpwM3NkaWNkY1YwNA?oc=5"
+   "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
+   "Yahoo Finance UK",
+   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NeVkwY1dKeWxrcExZc0dzcnlWSUZ4czQtZHIyX1JYUnp5cWE5WFcwNjl3clkxY3dyUjFtbG1FOU43Ny1leHhSaVpCMzFQREhacmFmaTRR?oc=5"
   ],
   [
    "Crypto",
-   "med",
-   "Watch Fifteen-Minute Bets Scratch the Bitcoin Itch",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ1RQQ0Rzcy16WTRjN3pGdUk4QmdDLXVhZFpDTGtOdklVb19TRkJOMlZlclVkMlotaG1qOU00aWp0VzdOd3laR3FnWG10T2p2bmhmN3A5RmJzc3pITzYxS1ZRMV90dXhYU0RGTHlWWGlWeE5BekJOWEhXRkJZM1ZXV2J3WXEyRDhoMl83NDRYVmFCcEFuU0FtMUpEaWFVQUsz?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "Bitcoin Fell Five Days in a Row While Nearly 15,000 BTC Left Exchanges. Is a Bounce Coming?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV2RtUWNxVGlYam45MEktVWpCWGoyQlNUVEhzaUVtM2ttTVVWV1Z3RVJUN2FLam5hLVBENmFsVEhWRFFEdzRFZGNsV1VBQlhzN1V5YVJaZmNzU0pySFhvYm1vTnhMV3FsN1FFejJ2UzFUcnhXeFFpTXdmdnZQTzEwOWxSckRqUXhGMm00Vk81a2JYank4cEE?oc=5"
+   "high",
+   "Crypto Market Today, Oct. 28: Bitcoin and Altcoins Gain as Fed Decision Clears the Way for Big Tech Earnings",
+   "The Motley Fool",
+   "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTmJ0VE5rbEEtVEU3aXoybnhqXzNCNlltcS15UmUxd2E1eGxsdHBVVHdnSGs0MG5iSGhyUDN4LTZJbzNSdTNFLTk1ckFBQm5Pb0ExWXFMT3BfLVRwZ3FaYXRublNqRGczQ3E4NTBPckZqdFQtdjN0X2dhOXZRNkFEOEQ3bzVRN2lNbVZQQlBtZGlYUEdpeEd2WC1aWEFfN1RyU3NtTFFHR1ZfYXl3VUhXVGU4VzltNk9tS3BYOFJ3R2RGYTcwamR4OHhTWEF2OGNuNVhBYXR3VTRVdUxfY2FiN3FHODVyYmlJS0tGajc4X1RzRWlMNXBaYTdn?oc=5"
   ],
   [
    "Stocks",
@@ -515,10 +515,10 @@
   ],
   [
    "Stocks",
-   "high",
-   "Update: S&P 500, Nasdaq Rise For Third Day Following Fed Pause",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVE9pXzV6aEE4Rk1WdmFrSURVMTlTUDgtTmU4c0x2bWdILW1DVzRyZkY1RksxQ2hqNFdqSi1aeXlzd293ei1NZUtaUGtRM3lLYzZQZzRDSEZmRXphNktwNlNjS2ZEMmFHNXJnRjJPekxQTW41c08xYTlZS3pBVDJEY01ZWmpjLV9UX0EzOTNkSlQ5QQ?oc=5"
+   "med",
+   "U.S. Stocks Fall as Tech Selloff Deepens",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDB3cDByVmVJQWQ4bzhobm83ZDVVN3MtYXh0VjlYT0xtakhpVkNrUFFHbVpWZEp2UHdpeWIwX0h2eVJqSzdod0t1Y3JxcVBaTzZlUFRKTFNkMDE4LVYxMHNjRGlYb0FsOVdqMnJuVzdHMk0xNVVxWXh4Y0tidlFtbXBUa1lXTVJGOXc1c0VvbjJ6eGVINVY0cEpFZHEtakM1UkFwdVZLVW4ySWlxV0RwNHpnNkpKcUsyRXU4RXN2Zm03QTQ?oc=5"
   ],
   [
    "Commodities",
