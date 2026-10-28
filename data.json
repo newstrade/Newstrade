@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T19:01:25.186Z",
+ "updated": "2026-10-28T19:56:13.559Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,105 +304,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1156,
-   "ch": 0.22,
-   "asof": "2026-10-28T19:00:42.000Z"
+   "p": 1.1157,
+   "ch": 0.23,
+   "asof": "2026-10-28T19:55:43.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3318,
-   "ch": 0.08,
-   "asof": "2026-10-28T19:00:42.000Z"
+   "p": 1.3324,
+   "ch": 0.12,
+   "asof": "2026-10-28T19:55:43.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.992,
+   "p": 157.986,
    "ch": 0.05,
-   "asof": "2026-10-28T19:01:25.000Z"
+   "asof": "2026-10-28T19:56:13.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7051,
-   "ch": 0.33,
-   "asof": "2026-10-28T19:00:42.000Z"
+   "p": 0.7057,
+   "ch": 0.41,
+   "asof": "2026-10-28T19:54:43.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4016,
-   "ch": -0.21,
-   "asof": "2026-10-28T19:01:25.000Z"
+   "p": 1.3997,
+   "ch": -0.35,
+   "asof": "2026-10-28T19:56:13.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8288,
-   "ch": 0.07,
-   "asof": "2026-10-28T19:01:25.000Z"
+   "p": 0.8285,
+   "ch": 0.04,
+   "asof": "2026-10-28T19:56:13.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80946.76,
-   "ch": 0.18,
-   "asof": "2026-10-28T19:01:20.000Z"
+   "p": 81450,
+   "ch": 0.8,
+   "asof": "2026-10-28T19:56:12.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2352.16,
-   "ch": 0.2,
-   "asof": "2026-10-28T19:01:21.000Z"
+   "p": 2366.84,
+   "ch": 0.83,
+   "asof": "2026-10-28T19:56:08.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7738.37,
-   "ch": 0.2,
-   "asof": "2026-10-28T19:01:24.000Z"
+   "p": 7743.92,
+   "ch": 0.28,
+   "asof": "2026-10-28T19:56:13.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 26502.227,
-   "ch": 0.09,
-   "asof": "2026-10-28T19:01:25.000Z"
+   "p": 26527.42,
+   "ch": 0.19,
+   "asof": "2026-10-28T19:56:10.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52436.98,
-   "ch": 0.11,
-   "asof": "2026-10-28T19:01:26.000Z"
+   "p": 52521.55,
+   "ch": 0.27,
+   "asof": "2026-10-28T19:56:05.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4064.7,
-   "ch": -0.24,
-   "asof": "2026-10-28T18:51:25.000Z"
+   "p": 4074.4,
+   "ch": 0,
+   "asof": "2026-10-28T19:46:13.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 102.62,
-   "ch": 2.72,
-   "asof": "2026-10-28T18:51:22.000Z"
+   "p": 102.63,
+   "ch": 2.73,
+   "asof": "2026-10-28T19:46:13.000Z"
   },
   {
    "s": "USD/KES",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6248,
-   "ch": 0.04,
-   "asof": "2026-10-28T19:01:26.000Z"
+   "p": 16.6147,
+   "ch": -0.02,
+   "asof": "2026-10-28T19:56:14.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,65 +432,65 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 102.05,
-   "ch": 0.79,
-   "asof": "2026-10-28T19:01:24.000Z"
+   "p": 102.67,
+   "ch": 1.4,
+   "asof": "2026-10-28T19:56:04.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3256,
-   "ch": -0.31,
-   "asof": "2026-10-28T19:01:21.000Z"
+   "p": 1.3329,
+   "ch": 0.24,
+   "asof": "2026-10-28T19:56:02.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 344.401,
-   "ch": -0.78,
-   "asof": "2026-10-28T19:01:24.000Z"
+   "p": 343.835,
+   "ch": -0.94,
+   "asof": "2026-10-28T19:56:13.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 403.175,
-   "ch": -1.05,
-   "asof": "2026-10-28T19:01:25.000Z"
+   "p": 404.495,
+   "ch": -0.73,
+   "asof": "2026-10-28T19:56:14.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 216.13,
-   "ch": -0.83,
-   "asof": "2026-10-28T19:01:24.000Z"
+   "p": 215.01,
+   "ch": -1.34,
+   "asof": "2026-10-28T19:56:14.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.94,
-   "ch": -1.05,
-   "asof": "2026-10-28T18:51:24.000Z"
+   "p": 53.95,
+   "ch": -1.03,
+   "asof": "2026-10-28T19:46:13.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Intesa Sanpaolo Gets European Central Bank Approval to Take Over Monte Dei Paschi",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVWZEaTA5Qnc5NDd2WXh1VWgyTUpTcFBvVExBOHg2TnV3b09vWnpNSVNrWWVHZDZLNWx0MDNGUU93cm5qdHJVQmMtekg1SjZrZEtfTVpCeHQ4VlRxRHRXSHNnbmZXdFNHaEM2alpHTlNQeGZRY09zVU9iWkZicEJWTFppNUcxd185c3VFLWxGcjNYUjVWc1hrNlZtRk9IbTZtQWdQVkQ1aldfU1hXSkFRQkw1bUQwSVB5bW9V?oc=5"
+   "Singapore central bank tells banks to monitor customers' haze risks",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUDB3VktNT2FRaFR0VGpWa0R3aWpQSDdGcVFGbzZILThYTkNFM2xyRl9wWmFJMTFLRjlFUzh0SFhLWEZ6SE1DeUFQMUJEWGxSOHozTS1HQUsxRXVoZFNrUE1Fc3pyT1k4bU1TekR3Y3BDaVE3ajNZbGU3dnNkUEx3M05HLUJfZ0xubnF5R09CTnhLbTVyY3BybWgybkprd3dTZl90eElMTFQxOUVEYjE5Z19Wb2tSQkE?oc=5"
   ],
   [
    "Forex",
    "med",
-   "New Zealand dollar tanks after central bank defies markets' near-certainty it would hike rates",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YMzdkaWRXTFZ5U05JNi1rSVBUWkp3cS1hc0pIRzVzaFlHc2pRTzE4bzZ1WmNOcHJMM0R6dzNKWmZMTTZRandJMllBYjlQREtTTHFpVHJ3bkwzenpiRzRNay1Gbjd2SXVIWHVQMmE1OVZTcHRZ0gF6QVVfeXFMTWhNWmpvQmJ4dktiSGVHV2l1N3FuRjRXRjU4dGlxeWRTcWVjSC1QWlRyQTdFQ2F0WW1CLUpmSUcxbTAtLTJjc2VqUERQcDVKN0g1V2RuUkJKT2JXNDlpLUtFS0RsV0JUVmV0QjhhOC1rRkQwZHUxSlFxRUE?oc=5"
+   "Thai Central Bank Holds Rate Steady, Raises Growth Forecasts",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmhMZXQwWDd1WVFOLUZ2MTRSX3hKaTVrM1FPaF9aNW5MMC1yNy1SRU1neU91ZWVkN01FM3dpNkFsTUd0NlNzXzFBbzYxdmpsUXdOSUg2ZnZJTUt4N3BNMTBhemxOWVRjdHIwb3lycS03MjhsLU9JRlpHdl9NVTV6eWlZMGItb1ExaWFpVFNXeUwweUU5WmVqTmVBZnpwM3NkaWNkY1YwNA?oc=5"
   ],
   [
    "Crypto",
@@ -508,8 +508,8 @@
   ],
   [
    "Stocks",
-   "med",
-   "Wall Street wavers as Federal Reserve holds key rate steady, pending more data",
+   "high",
+   "Wall Street mostly rises as Fed holds key rate steady, deferring next likely hike to December",
    "Reuters",
    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5"
   ],
