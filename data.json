@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T17:01:24.697Z",
+ "updated": "2026-10-28T17:56:21.261Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,121 +304,121 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1151,
-   "ch": 0.18,
-   "asof": "2026-10-28T17:00:44.000Z"
+   "p": 1.114,
+   "ch": 0.08,
+   "asof": "2026-10-28T17:55:45.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3317,
-   "ch": 0.07,
-   "asof": "2026-10-28T17:00:44.000Z"
+   "p": 1.33,
+   "ch": -0.06,
+   "asof": "2026-10-28T17:55:45.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.157,
-   "ch": 0.15,
-   "asof": "2026-10-28T17:01:24.000Z"
+   "p": 158.269,
+   "ch": 0.23,
+   "asof": "2026-10-28T17:56:19.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7045,
-   "ch": 0.24,
-   "asof": "2026-10-28T17:00:44.000Z"
+   "p": 0.7038,
+   "ch": 0.14,
+   "asof": "2026-10-28T17:54:45.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4034,
-   "ch": -0.09,
-   "asof": "2026-10-28T17:01:24.000Z"
+   "p": 1.404,
+   "ch": -0.04,
+   "asof": "2026-10-28T17:56:20.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.829,
-   "ch": 0.1,
-   "asof": "2026-10-28T17:01:24.000Z"
+   "p": 0.8297,
+   "ch": 0.18,
+   "asof": "2026-10-28T17:56:17.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80438,
-   "ch": -0.45,
-   "asof": "2026-10-28T17:01:24.000Z"
+   "p": 80833.23,
+   "ch": 0.04,
+   "asof": "2026-10-28T17:56:20.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2331.49,
-   "ch": -0.68,
-   "asof": "2026-10-28T17:01:21.000Z"
+   "p": 2343.82,
+   "ch": -0.15,
+   "asof": "2026-10-28T17:56:17.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7743.35,
-   "ch": 0.27,
-   "asof": "2026-10-28T17:01:25.000Z"
+   "p": 7739.91,
+   "ch": 0.22,
+   "asof": "2026-10-28T17:56:20.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 26503.318,
-   "ch": 0.1,
-   "asof": "2026-10-28T17:01:23.000Z"
+   "p": 26486.25,
+   "ch": 0.03,
+   "asof": "2026-10-28T17:56:20.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52543.96,
-   "ch": 0.32,
-   "asof": "2026-10-28T17:01:25.000Z"
+   "p": 52532.67,
+   "ch": 0.3,
+   "asof": "2026-10-28T17:56:21.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4052.4,
-   "ch": -0.54,
-   "asof": "2026-10-28T16:51:20.000Z"
+   "p": 4051,
+   "ch": -0.58,
+   "asof": "2026-10-28T17:46:18.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 103.53,
-   "ch": 3.63,
-   "asof": "2026-10-28T16:51:26.000Z"
+   "p": 102.83,
+   "ch": 2.93,
+   "asof": "2026-10-28T17:46:18.000Z"
   },
   {
    "s": "USD/KES",
    "m": "Forex",
    "d": 2,
-   "p": 129.8,
-   "ch": -0.05,
-   "asof": "2026-10-28T14:33:15.000Z"
+   "p": 129.85,
+   "ch": -0.01,
+   "asof": "2026-10-28T17:18:44.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6682,
-   "ch": 0.3,
-   "asof": "2026-10-28T17:01:25.000Z"
+   "p": 16.6818,
+   "ch": 0.38,
+   "asof": "2026-10-28T17:56:21.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,49 +432,49 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 101.05,
-   "ch": -0.2,
-   "asof": "2026-10-28T17:01:23.000Z"
+   "p": 101.68,
+   "ch": 0.42,
+   "asof": "2026-10-28T17:56:16.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3123,
-   "ch": -1.31,
-   "asof": "2026-10-28T17:01:19.000Z"
+   "p": 1.318,
+   "ch": -0.88,
+   "asof": "2026-10-28T17:56:18.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 345.741,
-   "ch": -0.39,
-   "asof": "2026-10-28T17:01:23.000Z"
+   "p": 345.42,
+   "ch": -0.48,
+   "asof": "2026-10-28T17:56:10.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 402.085,
-   "ch": -1.32,
-   "asof": "2026-10-28T17:01:26.000Z"
+   "p": 402.28,
+   "ch": -1.27,
+   "asof": "2026-10-28T17:56:22.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 217.52,
-   "ch": -0.19,
-   "asof": "2026-10-28T17:01:25.000Z"
+   "p": 217.09,
+   "ch": -0.39,
+   "asof": "2026-10-28T17:56:20.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.69,
-   "ch": -1.51,
-   "asof": "2026-10-28T16:51:05.000Z"
+   "p": 53.62,
+   "ch": -1.64,
+   "asof": "2026-10-28T17:46:06.000Z"
   }
  ],
  "news": [
@@ -508,17 +508,17 @@
   ],
   [
    "Stocks",
-   "high",
-   "Wall St treads water as chips rise, megacaps fall ahead of Fed, Big Tech earnings",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5"
-  ],
-  [
-   "Stocks",
    "med",
    "Nasdaq Edges Lower as Tech Rally Stalls Out",
    "WSJ",
    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQS02TUtVR24xWjdGNTJrLXR6bGtDYW5EclpiY2JOMDJvX1lMN1BDd3NEalhRb3lsdUpsNW1Uc0FjdlFDV3pCTHU3aEY0Mm1qajZaMmd0QWNRcl9JVE93M2txc2ExR3JkbU1qUk0tZDFPd1ZsQUx4dEJabmpSQ1RxQkljSVdqdlczX3JNaHVHWTJDMDQ2X285ZDhYZW9LaV9aMlVBVm5lZFJFZw?oc=5"
+  ],
+  [
+   "Stocks",
+   "high",
+   "Wall St treads water as chips rise, megacaps fall ahead of Fed, Big Tech earnings",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5"
   ],
   [
    "Commodities",
@@ -530,9 +530,9 @@
   [
    "Commodities",
    "med",
-   "Oil prices rise as U.S. reportedly tells Gulf countries to prepare for Iran strikes after midterm elections",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VVTZnQjZMOUgxd3doMmJKclN5eUlkbFJoOE9TZDJQVlN5Zm92aDRIYW5yMWcwTGxtRHBfNW9FQ3NIbTJXSmdJZU9ibE9XZFRaQWJXb3JYbDJWY1l4c2o5OU5xeC1VbmFRN1JmMWZUUG9LNVhCYnk2ZNIBfkFVX3lxTE9PVWR4YV9Fa0UyQi0tN013V0d5bjY3bUJqZ1R2VGlsSHdGOURZVkRTSDhLUkpQS2lyV0ZDVlNua3RRelVoMmV4QUdfZUU5S09oV0ZHQTAzNm1hVWxVTVMzRWd0X2M3b3RfdVFUcFNfckgxMUdKMnNldWo2RWpIdw?oc=5"
+   "UBS raises Brent outlook, sees oil at $110/bbl by end-2026",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQk1NWVk2NVlpU28wSXlnbk9TTEJ4ZUZLY3BuVjVBbXlieUFMaTZhSUZIZVk5M1o3WGhKNnU3WFUwVnZVdVgtcndueTJpMDBJenZES1pMcXFtNGFxUEJhdjRORG9EOXYxbmRTdlQxdjZtYXE2eGNrOWZKQ2F1dGUtVmR2akR5dlpRWHlTWDVOUDJWQWhqYkhmdERQOUJ4SDZjNm5JM28zTQ?oc=5"
   ]
  ]
 }
