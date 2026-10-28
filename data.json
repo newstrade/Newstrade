@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T08:09:29.938Z",
+ "updated": "2026-10-28T09:01:26.572Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1126,
+   "p": 1.1127,
    "ch": -0.04,
-   "asof": "2026-10-28T08:08:46.000Z"
+   "asof": "2026-10-28T09:00:43.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3288,
-   "ch": -0.15,
-   "asof": "2026-10-28T08:08:46.000Z"
+   "p": 1.3292,
+   "ch": -0.12,
+   "asof": "2026-10-28T09:00:43.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.779,
-   "ch": -0.08,
-   "asof": "2026-10-28T08:09:28.000Z"
+   "p": 157.685,
+   "ch": -0.14,
+   "asof": "2026-10-28T09:01:26.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7038,
-   "ch": 0.14,
-   "asof": "2026-10-28T08:08:46.000Z"
+   "p": 0.7036,
+   "ch": 0.11,
+   "asof": "2026-10-28T09:00:43.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4062,
-   "ch": 0.11,
-   "asof": "2026-10-28T08:09:29.000Z"
+   "p": 1.4058,
+   "ch": 0.09,
+   "asof": "2026-10-28T09:01:25.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8303,
-   "ch": 0.25,
-   "asof": "2026-10-28T08:09:30.000Z"
+   "p": 0.8304,
+   "ch": 0.27,
+   "asof": "2026-10-28T09:01:26.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81032.13,
-   "ch": 0.29,
-   "asof": "2026-10-28T08:09:24.000Z"
+   "p": 81363.38,
+   "ch": 0.7,
+   "asof": "2026-10-28T09:01:23.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2360.27,
-   "ch": 0.55,
-   "asof": "2026-10-28T08:09:25.000Z"
+   "p": 2366.98,
+   "ch": 0.84,
+   "asof": "2026-10-28T09:01:14.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,17 +392,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4056.6,
-   "ch": -0.44,
-   "asof": "2026-10-28T07:59:29.000Z"
+   "p": 4068.2,
+   "ch": -0.16,
+   "asof": "2026-10-28T08:51:25.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 101.61,
-   "ch": 1.71,
-   "asof": "2026-10-28T07:59:30.000Z"
+   "p": 101.49,
+   "ch": 1.59,
+   "asof": "2026-10-28T08:51:24.000Z"
   },
   {
    "s": "USD/KES",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6477,
-   "ch": 0.18,
-   "asof": "2026-10-28T08:09:30.000Z"
+   "p": 16.6583,
+   "ch": 0.24,
+   "asof": "2026-10-28T09:01:26.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,9 +432,9 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 102.23,
-   "ch": 0.97,
-   "asof": "2026-10-28T08:09:21.000Z"
+   "p": 102.5,
+   "ch": 1.23,
+   "asof": "2026-10-28T09:01:20.000Z"
   },
   {
    "s": "XRP",
@@ -442,7 +442,7 @@
    "d": 4,
    "p": 1.3288,
    "ch": -0.07,
-   "asof": "2026-10-28T08:09:15.000Z"
+   "asof": "2026-10-28T09:01:16.000Z"
   },
   {
    "s": "Apple",
@@ -472,25 +472,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 54,
-   "ch": -0.94,
-   "asof": "2026-10-28T07:59:26.000Z"
+   "p": 54.07,
+   "ch": -0.81,
+   "asof": "2026-10-28T08:51:25.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "New Zealand Central Bank Surprises Markets With Rate Hold",
+   "Thai Central Bank Holds Rate Steady, Raises Growth Forecasts",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVndpQzdYRzRrUTI0MV9nMHdySE1id2Fvc21Wd1dvem00N1FNM2dqTDdCNEw5aHcydjZhR0hoaDlvWGZELWQzX1dMeUV4RUk3eXlHWVlQblI1UmdWaUlyblgzUUUyVGtJaUZ6LVNyb2VXdUw4dzB6NDhJTE12aHJ4c2U0SzBuSG55NlBnMUZ5M2VVd1FXUnMxY0cyUlBrYUxPbExYT0o4cEtfNWtvOWdj?oc=5"
+   "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmhMZXQwWDd1WVFOLUZ2MTRSX3hKaTVrM1FPaF9aNW5MMC1yNy1SRU1neU91ZWVkN01FM3dpNkFsTUd0NlNzXzFBbzYxdmpsUXdOSUg2ZnZJTUt4N3BNMTBhemxOWVRjdHIwb3lycS03MjhsLU9JRlpHdl9NVTV6eWlZMGItb1ExaWFpVFNXeUwweUU5WmVqTmVBZnpwM3NkaWNkY1YwNA?oc=5"
   ],
   [
    "Forex",
-   "med",
-   "Indian central bank likely intervenes to support rupee as oil prices weigh, traders say",
+   "high",
+   "Thai central bank keeps interest rate unchanged, as expected",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaWx4YzZNbFJVcnZQUE43NDdSQUI2ekFvSTdTbFUwZmNIRjNrNFIwVGJkdkp5RzRid2J6eWZPaG5iZkVLNEc1cWNEc3E0RWZ3V0FVUzlQRWNDa1NvaE14N3pyZkl3ZUdXZGFXbFRIR2gzMU1ZR3AtcUJ6ZFZJbTRQeDBCdDRtbXd5TWdmWWl2YjFDcTRKOVpkOG1QdnctNkxxN2p6dm5FY0hSZG1sNVQ0aHNPUVAwYlRraU9WN3RKVWY1WF91TWZJ?oc=5"
+   "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeDJxN25kZTJfQm51X1lULVAzclQ0WHNMd1RFblduVGU4U0VRU182RHB5T2lLSW03amJjczRORHpXRjRJOWhVcGtUUnpBaXY1VWEtUjBGWFM5WmIxdU1oWmM4ZEpvY0NscmJYdDZHQzdtczZmbGZncU4ydkJpM0s3dVVtMFJaT1lMRmJaaFQ2Zk9JZkx4TmdWVzA2UVNpNzc2N0lqXw?oc=5"
   ],
   [
    "Crypto",
@@ -501,17 +501,10 @@
   ],
   [
    "Crypto",
-   "high",
-   "BTC, ETH price news: Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTkNaeE44eFBVY2pMUnFSTkY3ekxfaFZoQWxqQ19Hb193eVYzalI1c2IyUjQzSHY4YVQ0eEZMQVZXd3FGVGRvOFRXSEVSTEdMdXFpQ0ZrWHBvRF9wd0haVUVJcjlfMjk1ejhoaTNGTnhkdVB0bndzWTRnSXppSGpTa194Q1VOcGJqUnVFUVB6QTkwMEQydGFHMUctVUpqWG5tblpBT25yNA?oc=5"
-  ],
-  [
-   "Stocks",
    "med",
-   "META_TITLE_QUOTE",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wLXdlSm5MT0hsWEI2RjNWUHB6R3FYWEYzbi0ydDM4NGFScjNIZmYwYlpGQzRVWmdrVHJHcnRJdFdrMkxFczJqYnE2VFNWQQ?oc=5"
+   "How the New Actively Managed Crypto ETFs Are Valuing Their Assets",
+   "Barron's",
+   "https://news.google.com/rss/articles/CBMiekFVX3lxTE82OHdyclp3ZGdaMy1uRVNPb3IzNVY0YTRMNk1zSzEyZ3gwREZwd0gxMHRDMHZpT01oUGU3a3NOM0xZNFFLaTQ0OTFITU5hYW5Ya2Q2UWtHNXM4WEo1UTcwYUhweXBmeG5mc3pwSmtEZUwtUFhNdEFqNTF3?oc=5"
   ],
   [
    "Stocks",
@@ -521,11 +514,25 @@
    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR21qQWZsLUZqbWRjR2YtQ3FGakpEWWVjSUVFNjVDSi01MnRiWmV3Z2pPQUsyVGhJR3UxQ1o4RjRVa2tCLXNXbnJjNE9fbE5KVzlKTEZtNHpZb3lPR0hXcFFSVGVydlpnR3RQdVM5bDE3aVI3aVowN0NqY3NHb3VDN3hlaXpLTmxkeFc3NE13dUNqYUtIMHNxRFR5M3VYZmpKUDRzVE5WLUdwRHJCeEpQM1pKaw?oc=5"
   ],
   [
+   "Stocks",
+   "med",
+   "France’s Nuclear Forces Bring In Neighbors to Keep Russia in Check",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRlcyVjhVaDliZERCZF9SeERLNEdHblNvbk0wUS1RNExOLS1jMVJ1UU15R3JBZ0FwNm9oQjN3N3RrWmZFa0FmakVNem5QNS11dnFUOFRtZ3Q3REU1MDc2MTVLOXJpQ2Fva0lEYWFIbWtPbXBKWGxzN1hudlV4SFFWTUIzYUlzVVdxaDNTVy10T21halNuV1BRZDRXYzR3bXJ1bWdybVFLUkRtVGM?oc=5"
+  ],
+  [
    "Commodities",
    "med",
    "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
    "CNBC",
    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VVTZnQjZMOUgxd3doMmJKclN5eUlkbFJoOE9TZDJQVlN5Zm92aDRIYW5yMWcwTGxtRHBfNW9FQ3NIbTJXSmdJZU9ibE9XZFRaQWJXb3JYbDJWY1l4c2o5OU5xeC1VbmFRN1JmMWZUUG9LNVhCYnk2ZNIBfkFVX3lxTE9PVWR4YV9Fa0UyQi0tN013V0d5bjY3bUJqZ1R2VGlsSHdGOURZVkRTSDhLUkpQS2lyV0ZDVlNua3RRelVoMmV4QUdfZUU5S09oV0ZHQTAzNm1hVWxVTVMzRWd0X2M3b3RfdVFUcFNfckgxMUdKMnNldWo2RWpIdw?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Oil Stocks Facing Supply Shock as Brent Tops $115",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcHpLZmxZREEyVUEtMS1KMHZnQ1RRakRNb2tlR2VFdDI5VTdZX3dpa1VBUXVqaXFaZHdNSWZZdUZybk5VSUZnWkNmQVhTYV93UjlONTVkVmtlUnNPdFVva050Y2laSmF3dXJkUkFqemg3MFY0ZzQ5MVRkVUtxZERUbDUyLWNTQ1dHcDFaVXcxbEY?oc=5"
   ]
  ]
 }
