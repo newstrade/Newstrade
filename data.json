@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T20:54:25.516Z",
+ "updated": "2026-10-28T21:52:14.870Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -306,23 +306,23 @@
    "d": 4,
    "p": 1.1157,
    "ch": 0.23,
-   "asof": "2026-10-28T20:53:29.000Z"
+   "asof": "2026-10-28T21:51:30.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3329,
-   "ch": 0.16,
-   "asof": "2026-10-28T20:53:29.000Z"
+   "p": 1.3327,
+   "ch": 0.14,
+   "asof": "2026-10-28T21:51:30.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.841,
-   "ch": -0.05,
-   "asof": "2026-10-28T20:54:24.000Z"
+   "p": 157.795,
+   "ch": -0.07,
+   "asof": "2026-10-28T21:52:09.000Z"
   },
   {
    "s": "AUD/USD",
@@ -330,39 +330,39 @@
    "d": 4,
    "p": 0.7056,
    "ch": 0.4,
-   "asof": "2026-10-28T20:53:29.000Z"
+   "asof": "2026-10-28T21:51:30.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3996,
-   "ch": -0.36,
-   "asof": "2026-10-28T20:54:24.000Z"
+   "p": 1.3991,
+   "ch": -0.39,
+   "asof": "2026-10-28T21:52:11.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8281,
-   "ch": -0.01,
-   "asof": "2026-10-28T20:54:26.000Z"
+   "p": 0.8278,
+   "ch": -0.05,
+   "asof": "2026-10-28T21:52:09.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 81108.8,
-   "ch": 0.38,
-   "asof": "2026-10-28T20:54:24.000Z"
+   "p": 81278.93,
+   "ch": 0.59,
+   "asof": "2026-10-28T21:52:00.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2354.81,
-   "ch": 0.32,
-   "asof": "2026-10-28T20:54:21.000Z"
+   "p": 2362.63,
+   "ch": 0.65,
+   "asof": "2026-10-28T21:52:10.000Z"
   },
   {
    "s": "S&P 500",
@@ -370,7 +370,7 @@
    "d": 2,
    "p": 7743.98,
    "ch": 0.28,
-   "asof": "2026-10-28T20:20:01.000Z"
+   "asof": "2026-10-28T21:18:42.000Z"
   },
   {
    "s": "Nasdaq",
@@ -378,7 +378,7 @@
    "d": 2,
    "p": 26549.852,
    "ch": 0.27,
-   "asof": "2026-10-28T20:54:24.000Z"
+   "asof": "2026-10-28T21:15:59.000Z"
   },
   {
    "s": "Dow Jones",
@@ -386,23 +386,23 @@
    "d": 2,
    "p": 52475.1,
    "ch": 0.19,
-   "asof": "2026-10-28T20:20:00.000Z"
+   "asof": "2026-10-28T21:18:52.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4082.3,
-   "ch": 0.19,
-   "asof": "2026-10-28T20:44:19.000Z"
+   "p": 4081.2,
+   "ch": 0.73,
+   "asof": "2026-10-28T20:59:59.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
    "p": 101.94,
-   "ch": 2.04,
-   "asof": "2026-10-28T20:44:21.000Z"
+   "ch": -0.82,
+   "asof": "2026-10-28T20:59:58.000Z"
   },
   {
    "s": "USD/KES",
@@ -410,15 +410,15 @@
    "d": 2,
    "p": 129.8,
    "ch": -0.05,
-   "asof": "2026-10-28T20:47:15.000Z"
+   "asof": "2026-10-28T21:07:13.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6081,
-   "ch": -0.06,
-   "asof": "2026-10-28T20:54:26.000Z"
+   "p": 16.6119,
+   "ch": -0.04,
+   "asof": "2026-10-28T21:52:09.000Z"
   },
   {
    "s": "USD/NGN",
@@ -426,23 +426,23 @@
    "d": 2,
    "p": 1341.82,
    "ch": 0.11,
-   "asof": "2026-10-28T20:47:15.000Z"
+   "asof": "2026-10-28T21:07:13.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 102.24,
-   "ch": 0.98,
-   "asof": "2026-10-28T20:54:21.000Z"
+   "p": 102.67,
+   "ch": 1.4,
+   "asof": "2026-10-28T21:52:07.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3289,
-   "ch": -0.06,
-   "asof": "2026-10-28T20:54:21.000Z"
+   "p": 1.332,
+   "ch": 0.17,
+   "asof": "2026-10-28T21:52:12.000Z"
   },
   {
    "s": "Apple",
@@ -472,9 +472,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 54.08,
-   "ch": -0.79,
-   "asof": "2026-10-28T20:44:10.000Z"
+   "p": 54.04,
+   "ch": 0.7,
+   "asof": "2026-10-28T20:59:57.000Z"
   }
  ],
  "news": [
@@ -502,9 +502,9 @@
   [
    "Crypto",
    "med",
-   "Robinhood shares fall as crypto markets chill drives profit miss",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVk8tZkhrQmxPWHJYNWZPNWtDRlRlS2plbncwdkRab05UbE5xNm1fb3JQTTR0QWRKcUduNmZweS1fdUNIQTRSUE1NX2h2QjloUUxyQ29vek02T1dSaUxQcTVKOExPLURCLXNocW5zU19zZlVzeGNublYyNU52czNsZFZvQkZnWks2R2xMUDJMSEhfRkZlLUs5b2lZbTdvM3lpQkpWWWFzVlFpTVQ0b2FQNGxn?oc=5"
+   "MicroStrategy Approves Daily Dividends. Will Bitcoin Buying Return?",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ1A2OWxaallCY2VaLS16bVBLLVJlVG1aRG9hMzRpV3VHdGI2b2lBRnVwT3kyR1VIYjZWeXpSYWVfb1ViY3VZS0VvWDZnUjNUMW5rS2JsOExWVU1yYjB1Tk9JOXlJa25XRW1tS2dIRUNLOEFmaExvT2F0X05MV0VjRC1jVXdoYS01ck93YW5oUmY5TENvWkc0VHQ2M2tGaGJ3UGJ0UkJMUWMyX2llNGg0dw?oc=5"
   ],
   [
    "Stocks",
@@ -516,9 +516,9 @@
   [
    "Stocks",
    "med",
-   "S&P 500 pulls within 1.2% of its all-time high even as majority of its stocks fell",
-   "Fortune",
-   "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ0RvZlg1ZnByaExDWmlpcU5XRHhFZDFONXFlcmd5Z201TktDQ3c1U0FyV3dHNUdBNGtpcUtvWkNfLTFuSUJPWnV1TG1xQ1lTTXhtMVJoWkowLU9iYlRDZzJ4T0drMTBaZlJCLWF4Y1BmaVlCZmVwbHpYbW5zWGs1Tno0RG94YVBy?oc=5"
+   "EBay Sales Rise on Strength in Collectibles, Live Shopping",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR0QtdDdpajAwVnNMZm1HZDhrSmduWVNhZjhNSlVjcnNRS0FOcHppVVMyb0ViTXJESmlJRUlXU2JXWTQ0VjdodjJNVUwwMnI1dGlDRFA3eHF3eTZrWnRkTEtKLWk0cVhVSEM5aUp6WWJEZWoyVjh6X2d6S0w3Y2tsQ0x3b2EzQzdHcTNvWFBtMzZsZGN5U3o4ZjQwd2ZUVTZ5X0Zidg?oc=5"
   ],
   [
    "Commodities",
