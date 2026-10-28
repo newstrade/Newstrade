@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T07:10:42.795Z",
+ "updated": "2026-10-28T08:09:29.938Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1117,
-   "ch": -0.13,
-   "asof": "2026-10-28T07:09:45.000Z"
+   "p": 1.1126,
+   "ch": -0.04,
+   "asof": "2026-10-28T08:08:46.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3278,
-   "ch": -0.23,
-   "asof": "2026-10-28T07:09:45.000Z"
+   "p": 1.3288,
+   "ch": -0.15,
+   "asof": "2026-10-28T08:08:46.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.959,
-   "ch": 0.03,
-   "asof": "2026-10-28T07:10:43.000Z"
+   "p": 157.779,
+   "ch": -0.08,
+   "asof": "2026-10-28T08:09:28.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7033,
-   "ch": 0.07,
-   "asof": "2026-10-28T07:08:45.000Z"
+   "p": 0.7038,
+   "ch": 0.14,
+   "asof": "2026-10-28T08:08:46.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4059,
-   "ch": 0.09,
-   "asof": "2026-10-28T07:10:42.000Z"
+   "p": 1.4062,
+   "ch": 0.11,
+   "asof": "2026-10-28T08:09:29.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8311,
-   "ch": 0.35,
-   "asof": "2026-10-28T07:10:42.000Z"
+   "p": 0.8303,
+   "ch": 0.25,
+   "asof": "2026-10-28T08:09:30.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80811.66,
-   "ch": 0.01,
-   "asof": "2026-10-28T07:10:37.000Z"
+   "p": 81032.13,
+   "ch": 0.29,
+   "asof": "2026-10-28T08:09:24.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2351.68,
-   "ch": 0.18,
-   "asof": "2026-10-28T07:10:29.000Z"
+   "p": 2360.27,
+   "ch": 0.55,
+   "asof": "2026-10-28T08:09:25.000Z"
   },
   {
    "s": "S&P 500",
@@ -370,7 +370,7 @@
    "d": 2,
    "p": 7722.6,
    "ch": 0.6,
-   "asof": "2026-10-27T20:00:00.000Z"
+   "asof": "2026-10-27T20:48:15.000Z"
   },
   {
    "s": "Nasdaq",
@@ -384,25 +384,25 @@
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52377.6,
+   "p": 52377.57,
    "ch": 0.03,
-   "asof": "2026-10-27T20:00:00.000Z"
+   "asof": "2026-10-27T20:48:23.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4041.8,
-   "ch": -0.8,
-   "asof": "2026-10-28T07:00:40.000Z"
+   "p": 4056.6,
+   "ch": -0.44,
+   "asof": "2026-10-28T07:59:29.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 101.77,
-   "ch": 1.87,
-   "asof": "2026-10-28T07:00:44.000Z"
+   "p": 101.61,
+   "ch": 1.71,
+   "asof": "2026-10-28T07:59:30.000Z"
   },
   {
    "s": "USD/KES",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6769,
-   "ch": 0.35,
-   "asof": "2026-10-28T07:10:44.000Z"
+   "p": 16.6477,
+   "ch": 0.18,
+   "asof": "2026-10-28T08:09:30.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 101.9,
-   "ch": 0.64,
-   "asof": "2026-10-28T07:10:42.000Z"
+   "p": 102.23,
+   "ch": 0.97,
+   "asof": "2026-10-28T08:09:21.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3249,
-   "ch": -0.36,
-   "asof": "2026-10-28T07:10:33.000Z"
+   "p": 1.3288,
+   "ch": -0.07,
+   "asof": "2026-10-28T08:09:15.000Z"
   },
   {
    "s": "Apple",
@@ -472,9 +472,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.845,
-   "ch": -1.23,
-   "asof": "2026-10-28T07:00:23.000Z"
+   "p": 54,
+   "ch": -0.94,
+   "asof": "2026-10-28T07:59:26.000Z"
   }
  ],
  "news": [
@@ -526,13 +526,6 @@
    "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
    "CNBC",
    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VVTZnQjZMOUgxd3doMmJKclN5eUlkbFJoOE9TZDJQVlN5Zm92aDRIYW5yMWcwTGxtRHBfNW9FQ3NIbTJXSmdJZU9ibE9XZFRaQWJXb3JYbDJWY1l4c2o5OU5xeC1VbmFRN1JmMWZUUG9LNVhCYnk2ZNIBfkFVX3lxTE9PVWR4YV9Fa0UyQi0tN013V0d5bjY3bUJqZ1R2VGlsSHdGOURZVkRTSDhLUkpQS2lyV0ZDVlNua3RRelVoMmV4QUdfZUU5S09oV0ZHQTAzNm1hVWxVTVMzRWd0X2M3b3RfdVFUcFNfckgxMUdKMnNldWo2RWpIdw?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "US Crude Oil Inventories Buck Analyst Expectations",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc084RVVPTTl1MnQxeHEybWJvTUV5RTBnN1JmS2VIQm1iUThlLXJVek03YkFUdkdSMHFOSGtObnFwS0hoTFpaZVpYRkZHRVpEN2VIcjJDekFPR0IzWnRDRmU2cjJNZHNkNnNYNVYwYWZJS1gzZEpUaUczZFd4NUtlV0E5dHRxeEdQV3lDZU5vb0pqbVcwNVBNSzVqN2VJSm1XTGZMbGl0NTc5d9IBrwFBVV95cUxQUDgxcXBhbkk4U09ZdnBlcGY0amZ5Z3RiSF9ObWNhNTlDUkZlallrV0xLUUtkNDJFQXBlSlF6X1dLcjBtYTR5eWJSSjYybnktSE9aUVFNRE1aekw1N0pHazRwWk44X05ORW9kTWI3ejVzT0U0bHdYTTc2TkhpUmg5RlczX1Q0RXIxRW01NDVQd0gxdTB5YUg4Zk1OZWJWUlA1M1RkTnFtX243cTJPUURJ?oc=5"
   ]
  ]
 }
