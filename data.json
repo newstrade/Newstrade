@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T19:58:03.628Z",
+ "updated": "2026-10-29T20:55:54.597Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,105 +304,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1166,
-   "ch": 0.08,
-   "asof": "2026-10-29T19:57:45.000Z"
+   "p": 1.1184,
+   "ch": 0.24,
+   "asof": "2026-10-29T20:55:46.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3366,
-   "ch": 0.29,
-   "asof": "2026-10-29T19:57:45.000Z"
+   "p": 1.338,
+   "ch": 0.4,
+   "asof": "2026-10-29T20:55:46.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.966,
-   "ch": 0.13,
-   "asof": "2026-10-29T19:58:01.000Z"
+   "p": 157.694,
+   "ch": -0.04,
+   "asof": "2026-10-29T20:55:53.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7036,
-   "ch": -0.3,
-   "asof": "2026-10-29T19:56:45.000Z"
+   "p": 0.703,
+   "ch": -0.38,
+   "asof": "2026-10-29T20:54:46.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3988,
-   "ch": -0.03,
-   "asof": "2026-10-29T19:58:01.000Z"
+   "p": 1.399,
+   "ch": -0.01,
+   "asof": "2026-10-29T20:55:53.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8262,
-   "ch": -0.17,
-   "asof": "2026-10-29T19:58:01.000Z"
+   "p": 0.8242,
+   "ch": -0.41,
+   "asof": "2026-10-29T20:55:53.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80766.19,
-   "ch": -0.61,
-   "asof": "2026-10-29T19:57:59.000Z"
+   "p": 78980.45,
+   "ch": -2.81,
+   "asof": "2026-10-29T20:55:51.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2333.9,
-   "ch": -0.99,
-   "asof": "2026-10-29T19:57:57.000Z"
+   "p": 2262.86,
+   "ch": -4.01,
+   "asof": "2026-10-29T20:55:50.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7719.4,
-   "ch": -0.32,
-   "asof": "2026-10-29T19:57:53.000Z"
+   "p": 7720.39,
+   "ch": -0.3,
+   "asof": "2026-10-29T20:32:46.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 26177.166,
-   "ch": -1.4,
-   "asof": "2026-10-29T19:57:59.000Z"
+   "p": 26184.725,
+   "ch": -1.38,
+   "asof": "2026-10-29T20:55:53.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52324.83,
-   "ch": -0.29,
-   "asof": "2026-10-29T19:58:01.000Z"
+   "p": 52342.56,
+   "ch": -0.25,
+   "asof": "2026-10-29T20:33:51.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4031.4,
-   "ch": -0.5,
-   "asof": "2026-10-29T19:48:00.000Z"
+   "p": 4034.7,
+   "ch": -0.42,
+   "asof": "2026-10-29T20:45:52.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 102.37,
-   "ch": -0.4,
-   "asof": "2026-10-29T19:47:49.000Z"
+   "p": 102.82,
+   "ch": 0.04,
+   "asof": "2026-10-29T20:45:33.000Z"
   },
   {
    "s": "USD/KES",
@@ -410,15 +410,15 @@
    "d": 2,
    "p": 129.85,
    "ch": 0.04,
-   "asof": "2026-10-29T19:43:55.000Z"
+   "asof": "2026-10-29T20:48:30.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6099,
+   "p": 16.6095,
    "ch": 0.03,
-   "asof": "2026-10-29T19:58:01.000Z"
+   "asof": "2026-10-29T20:55:54.000Z"
   },
   {
    "s": "USD/NGN",
@@ -426,47 +426,47 @@
    "d": 2,
    "p": 1345.27,
    "ch": 0.26,
-   "asof": "2026-10-29T19:43:55.000Z"
+   "asof": "2026-10-29T20:48:30.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 99.94,
-   "ch": -2.32,
-   "asof": "2026-10-29T19:58:00.000Z"
+   "p": 96.6,
+   "ch": -5.58,
+   "asof": "2026-10-29T20:55:54.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2823,
-   "ch": -3.17,
-   "asof": "2026-10-29T19:57:57.000Z"
+   "p": 1.2434,
+   "ch": -6.11,
+   "asof": "2026-10-29T20:55:49.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 348.87,
-   "ch": 1.47,
-   "asof": "2026-10-29T19:58:01.000Z"
+   "p": 348.91,
+   "ch": 1.48,
+   "asof": "2026-10-29T20:00:01.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 403.31,
+   "p": 403.3,
    "ch": -0.23,
-   "asof": "2026-10-29T19:58:00.000Z"
+   "asof": "2026-10-29T20:00:00.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 213.5,
-   "ch": -0.87,
-   "asof": "2026-10-29T19:58:00.000Z"
+   "p": 213.66,
+   "ch": -0.8,
+   "asof": "2026-10-29T20:00:00.000Z"
   },
   {
    "s": "Silver",
@@ -474,17 +474,10 @@
    "d": 3,
    "p": 52.245,
    "ch": -2.65,
-   "asof": "2026-10-29T19:47:59.000Z"
+   "asof": "2026-10-29T20:45:52.000Z"
   }
  ],
  "news": [
-  [
-   "Forex",
-   "high",
-   "ECB Expected to Leave Key Rate Unchanged Amid French Bond Drama",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYXZzbXVham1ZQ3ZRZEJzSGxNSmZUMnRfblVxa1JEbjRUM3o3YWZXOVBHZ1RYU0RvZHU1YjdTQ1BDZGV3VjFqODRVeEhISG5hVGowVlY2VVVWcy1iSVg4WmNFYXl3VDdLRkRYbndjZW1Pbkl0dHpGVlJHUGRUTDVrTmhHdkZhRktLTnREY2VqdE5MUVNCZ3ZFMGUxY0tJU1dzYWlZbk1QNHlBbklyVlBvY3VB?oc=5"
-  ],
   [
    "Forex",
    "high",
@@ -493,23 +486,30 @@
    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaWs3LWxWaXNJdzQ2aGROTlV4a1JtdjBpX21DZmxsYWQ0MF82eWk4b0VxeUVoamFGb3Y4SVBCQlY5ZTltM2t5ajYwYUJ0WlJpeDEtSkY2VFFUN3ZvQ2U1MEQyeWRfMHluY2NMNHlmaTFhWVN5cE1xYWFaazdPeDB0M1ptTEFQNTYxbG9hXzg4dG5lWDVINEJwWWFmbVdEcjdqcTVXOXl0UTVRR1U?oc=5"
   ],
   [
-   "Crypto",
+   "Forex",
    "med",
-   "Crypto exchange HTX ordered to stop doing business in UK",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeUR1NHJHVEcxWGZxMHVWMDViNFY3Ql9WcmJOSFlLQjBPTXVrWDRYNVItTTg0SWtaZTM1azRBSm82SVBIY1ZtZUVqWlFHZTNBOWZLbnFvX1o3Z3d3UnYyTE5fOXo4RHlXSXJELVREUWF6QUhYZ0VEQ1dFZC1IUjFxQS1JTllCMEF5ajk3N3RkWWctbnAxeExRNUV0M0ZueVlOS19rZWhVckFSbVV2RURnbHNZMA?oc=5"
+   "Yen Strengthens on French Debt Woes, Hits One-Year High Against Euro",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2hmYU9LR1JPN1c1UVA0WTlNUVdzelpVcjc5UTMzS1lsdUVYYWpJN25QemlvbnpWckdLN2tybThTWUYxam1sbkNDZkZVMUszejN0clEtVkJMb1NFcktCVmFJVkZueWI5WHRIZEhzY0xRZUZNWk9rRFhoTmFQVDdCUWJlSWY0QUdERU5UVTZoMWZXcWVrcmlDVHRaX2pJUHRqaHQwMDZLLU9BaTR2TlhJYWFNVDRBQQ?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin Traders Brace for Swings on $11 Billion Options Expiry",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdG5PdzNDckU4ZE1DNy1ydWVvdk5kbDFlRks4bkpjMlZHenlQUHZ2YW9IX1hSaEZULVhlU0pFMkZuVExkZlVpbHpuYk01aGFjaENPNVBHc1BJVlhWRERUWUc0b251STh3WmdnRThiZzE0VTJ2Z0RyZzY5R0NZcjhxUUdTRWwxQThZUU03WXVHQlV1cTJxd1ZOV2QybzZXaFJtM0J5VlhNY0R3NVg1UGVnVlhn?oc=5"
+   "Coinbase snaps losing streak with third-quarter profit on crypto trading rebound",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNnRhRU8tc201Q2s0TDltdkFnUmtBWUllUDY5WVpjRGlFeDdRVDlUNGRnVTQyeTFnTlB3SUxacHh4Wm1feHQyc19KSXI4NVRkYUJhSmtQbmt5YWdkcDFsNU9XMHFiNld6R25nRXJ1WGZlUXZ0X3ZHTUhUaGI2bGlBTi1ZVHh0bEFrbVJPRG8zT2wzdkVRelBJR0twVjR5d09LQ0l0OTBNMFFDWHlxcV9YcTloSndaMjBCdFJrYVR1OG1xbEQyd2JYaENB?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "Canada 'Crypto King' Aiden Pleterski found guilty of fraud",
+   "BBC",
+   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TNlJFdHEtZzA4bnppRzBGVXNTMUdvelNHMWN5VkJUdkJyYjZXWDRYVUVqVnE3M3Q5b1JULXE3bWg1VTdKb1hNeGJ6WXB1UnM4RXg2bnlYU2NiN1k?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Wall Street slides as Alphabet revenue miss revives AI capex jitters",
+   "Wall Street ends lower as Alphabet revenue miss revives AI capex jitters",
    "Reuters",
    "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5"
   ],
@@ -530,9 +530,9 @@
   [
    "Commodities",
    "med",
-   "BC-Crude Oil Futures",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUzB6b0t0YU9td3lJcUJ6Tlo1MlFQbFFzSzM5QkttWkM4N1JGOUxZYVFaUGhWVlRGVUowbzRWTWdIN3NzTFk1d3FyQU1CNDBpLTREVmVqSFZZQWlKenV0aDZYYVlhdV9EYTlwTERPMHQ1SnZoS25fU1J4dC1LTEZtRUY3TFZrLUoxd1FoTVZuZEI4Y0xi?oc=5"
+   "Oil prices edge lower as renewed U.S.-Iran peace efforts ease supply fears",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zdnNES2VLOVNQbEJKcncxMVlyamQxU3Jfa0o1MjFNd21YLTZ5dWJKWmpQbnNiWkhGY3Y5QXFXeXZnSU5zQ0VoSHc0QnllUFNNdk1qUkdnSEZGZk15cHAzMnFub0dhSGQ2S2V0Tm9vMNIBdEFVX3lxTE83QURjQjVBRjdxbTJrR0lsWnpKcHNWU1hBNy1Bdnk4VktjTmE1NXp6WWJqLXltUk93OWxRbndlQ1hZaFcwTm9xZ0dBM1phR0VCSVVqT3hFaUJ6ME5GNy1vUExkTW9ja0lsZjhSYWFKeVVqUUlj?oc=5"
   ]
  ]
 }
