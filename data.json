@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T11:54:50.238Z",
+ "updated": "2026-10-29T13:10:57.872Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1146,
-   "ch": -0.1,
-   "asof": "2026-10-29T11:54:43.000Z"
+   "p": 1.1132,
+   "ch": -0.22,
+   "asof": "2026-10-29T13:10:45.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3327,
-   "ch": 0,
-   "asof": "2026-10-29T11:54:43.000Z"
+   "p": 1.3317,
+   "ch": -0.08,
+   "asof": "2026-10-29T13:10:45.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.975,
-   "ch": 0.14,
-   "asof": "2026-10-29T11:54:50.000Z"
+   "p": 158.053,
+   "ch": 0.18,
+   "asof": "2026-10-29T13:10:57.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7036,
-   "ch": -0.3,
-   "asof": "2026-10-29T11:54:43.000Z"
+   "p": 0.7028,
+   "ch": -0.41,
+   "asof": "2026-10-29T13:10:45.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3973,
-   "ch": -0.14,
-   "asof": "2026-10-29T11:54:49.000Z"
+   "p": 1.3995,
+   "ch": 0.02,
+   "asof": "2026-10-29T13:10:58.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8281,
-   "ch": 0.06,
-   "asof": "2026-10-29T11:54:50.000Z"
+   "p": 0.8285,
+   "ch": 0.11,
+   "asof": "2026-10-29T13:10:57.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80071.99,
-   "ch": -1.46,
-   "asof": "2026-10-29T11:54:46.000Z"
+   "p": 80007.1,
+   "ch": -1.54,
+   "asof": "2026-10-29T13:10:56.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2323.21,
-   "ch": -1.45,
-   "asof": "2026-10-29T11:54:44.000Z"
+   "p": 2323.36,
+   "ch": -1.44,
+   "asof": "2026-10-29T13:10:54.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,57 +392,57 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4038.9,
-   "ch": -0.31,
-   "asof": "2026-10-29T11:44:49.000Z"
+   "p": 4035.4,
+   "ch": -0.4,
+   "asof": "2026-10-29T13:00:57.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 101.76,
-   "ch": -0.99,
-   "asof": "2026-10-29T11:44:48.000Z"
+   "p": 101.02,
+   "ch": -1.71,
+   "asof": "2026-10-29T13:00:58.000Z"
   },
   {
    "s": "USD/KES",
    "m": "Forex",
    "d": 2,
-   "p": 129.8,
-   "ch": 0,
-   "asof": "2026-10-29T04:02:44.000Z"
+   "p": 129.85,
+   "ch": 0.04,
+   "asof": "2026-10-29T13:03:25.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6385,
+   "p": 16.6386,
    "ch": 0.21,
-   "asof": "2026-10-29T11:54:50.000Z"
+   "asof": "2026-10-29T13:10:59.000Z"
   },
   {
    "s": "USD/NGN",
    "m": "Forex",
    "d": 2,
-   "p": 1341.82,
-   "ch": 0,
-   "asof": "2026-10-29T04:02:44.000Z"
+   "p": 1345.27,
+   "ch": 0.26,
+   "asof": "2026-10-29T13:04:20.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 100.29,
-   "ch": -1.97,
-   "asof": "2026-10-29T11:54:47.000Z"
+   "p": 100.54,
+   "ch": -1.73,
+   "asof": "2026-10-29T13:10:55.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2906,
-   "ch": -2.55,
-   "asof": "2026-10-29T11:54:46.000Z"
+   "p": 1.2916,
+   "ch": -2.47,
+   "asof": "2026-10-29T13:10:54.000Z"
   },
   {
    "s": "Apple",
@@ -472,18 +472,18 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 52.655,
-   "ch": -1.88,
-   "asof": "2026-10-29T11:44:49.000Z"
+   "p": 52.49,
+   "ch": -2.19,
+   "asof": "2026-10-29T13:00:59.000Z"
   }
  ],
  "news": [
   [
    "Forex",
-   "high",
-   "Taiwan central bank board members flag inflation woes, minutes show",
+   "med",
+   "MSCI warning a 'short-term shock', Indonesia central bank chief reassures businesses",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYkV2cEZSS0M2QUJQUUptRFR0SmJnS3JtRDMxaXJmS2otSGRrVXFOcUI3YzhxUnRBVFB0c1UtQ2NOMTZ5alg4bFl2SzFuQXdjajYtXzJHd0VfSUM3LUg5bzVzMnlLLWJnVmZkVUlHQldiLTVmWGJZVHhpMHh1MGNBWXQtd3U2V0FleVdaOF9xZkpiRV9ieFp1V2hTaVA2Slo2emt3T0VlcXh3b0NzUTdibzRJckx1VHhlcDFXNVRR?oc=5"
+   "https://news.google.com/rss/articles/CBMiugFBVV95cUxQekZ0Z0EwQnVmbEVqREZsVFd6SkNsMmNXbGhNbnhQN3dDYTE2WTNhUzQ3UHVFeVh3MlBRaUY0WktsNkgzSWM2Q1drU0gwUDExbWVpM2NXOU9KUzR1c1Nhby1mSlYtZTVqUnI2UTNGNDB2ZHlYQXVzUy1BTEV1RjBGclBjWWZ2eTB5RGdKd1pHSnJwYXFhOFF2bHhZUjVzZnVyZzdsdlEzbEEwZGwxRG5jT1ZjRGZFa2haaWc?oc=5"
   ],
   [
    "Forex",
@@ -495,22 +495,22 @@
   [
    "Crypto",
    "med",
+   "Bitcoin Traders Brace for Swings on $11 Billion Options Expiry",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdG5PdzNDckU4ZE1DNy1ydWVvdk5kbDFlRks4bkpjMlZHenlQUHZ2YW9IX1hSaEZULVhlU0pFMkZuVExkZlVpbHpuYk01aGFjaENPNVBHc1BJVlhWRERUWUc0b251STh3WmdnRThiZzE0VTJ2Z0RyZzY5R0NZcjhxUUdTRWwxQThZUU03WXVHQlV1cTJxd1ZOV2QybzZXaFJtM0J5VlhNY0R3NVg1UGVnVlhn?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
    "BTC price dips below $80,000, liquidating $356 million in crypto longs",
    "CoinDesk",
    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdm9tYUY0UE5tWUNjSk10VEtPR2JWQWpoMkpaM3UtYXloMHZmemxQLVpzdEtnRWZsdkQzcVBFR0lGSENhanJjZ2QxdGhpWThKU1ZMSW1PSEhES2xhckJTMFJGRU00N2syaXB6aUhHWXRSYzVSWTBzM1JhWEwxVV9RYzFIOEtiMGxsLXNSU21kemxyb19qSVNhNVNEQUs1WHVfODNVajU2aFBXSWRSMzNvSXY1ajZHZlBTY293QU5FVDh3OU5IT0F1RGxkYnpMMEN4d0N3d05pS0hBMzQ?oc=5"
   ],
   [
-   "Crypto",
-   "med",
-   "Bitcoin Traders Brace for Swings on $11 Billion Options Expiry",
-   "Bloomberg",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdG5PdzNDckU4ZE1DNy1ydWVvdk5kbDFlRks4bkpjMlZHenlQUHZ2YW9IX1hSaEZULVhlU0pFMkZuVExkZlVpbHpuYk01aGFjaENPNVBHc1BJVlhWRERUWUc0b251STh3WmdnRThiZzE0VTJ2Z0RyZzY5R0NZcjhxUUdTRWwxQThZUU03WXVHQlV1cTJxd1ZOV2QybzZXaFJtM0J5VlhNY0R3NVg1UGVnVlhn?oc=5"
-  ],
-  [
    "Stocks",
    "med",
    "Tech Rally Stalls as Alphabet, Samsung Disappoint: Markets Wrap",
-   "Bloomberg",
+   "Bloomberg.com",
    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd1B6V3JFX19tOWhyZHVKZzFGZ1k0aXcyNERXb0JrMFNjQVpEaFZMeVMxU1FUVnJpWmFrM3JQbjJ5cXRsU0NBekRsOUM2WEQ2Zlh3MWluWUU2c0poWTk1ZDBGMC13SUtxX1lVdjEtQW1PbWdXRE95ZFJqZ2JmZEwxeW5VbVVORWlzMlJTVHdnZ2NkaWR3?oc=5"
   ],
   [
@@ -530,9 +530,9 @@
   [
    "Commodities",
    "med",
-   "The never-ending absurdity of global oil markets",
-   "The Economist",
-   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR1RNdDk2OTFCcFZfUk5ONWpacU04UzdSWGxodHpWdVJJQ204WjFYRnRIZENvZHJqRnlhcTYxaUZ6dGJsN2l5c3hXRTU2RDlabFBkLTJxTWN3VXpmZndmM1ZzaXNTOW1IQXFzQTUxVWFsSFJjWm1iSUdoeWFvbzdKSzQ4VHZjVEdtWXVxMkpuazRQX2pScVNuOUFQRnFkc3BnNVZQLXNuanVTc0U?oc=5"
+   "EU Rules Out New Climate Finance Pledges at COP31",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWTRURnNUNzJUdUxOaGE4ajEzNUF3T3oxQjEyblFfSmNFZmNGRDgzR1drTGM5c1BnSmZlMU8tVGZSZVBMU3pSTVVpRWF6QzZUd3o1TzU5UGphWm0zTjBjOEIxZkRvUkJIUzBnYWcwSEZZU2h3Wk5ZcGFaVlp4bkNzTXl3YjFmazg2Vm1BR0dJVWRVbGFNLTA4azFnaC1iclkxeDVXQ3czVHrSAa4BQVVfeXFMTzhFd1I0ZTVpLUNGZmxwdUhhTl9sdmtyclBFaV8yNHl6ak02ekdVeVk3SUxTU2xmVDN0QkZHTmx2dkFwSlM4UDlhX19PLUpIY0VJalR6SzRKVVh6VjhFbk80akZFVXZacHNTZDNERmtZWlFZWHQxY2kwVk9wRTlORU1OSGdKZXVSY0JTTml6RGhENmh3VXl6N0pLUXlEZ05WMGlqYjlMZk5uNk1ZV2h3?oc=5"
   ]
  ]
 }
