@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T05:55:20.489Z",
+ "updated": "2026-10-29T07:11:03.189Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1141,
-   "ch": -0.14,
-   "asof": "2026-10-29T05:54:45.000Z"
+   "p": 1.1145,
+   "ch": -0.11,
+   "asof": "2026-10-29T07:10:42.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3313,
-   "ch": -0.11,
-   "asof": "2026-10-29T05:54:45.000Z"
+   "p": 1.3318,
+   "ch": -0.07,
+   "asof": "2026-10-29T07:10:42.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.843,
-   "ch": 0.05,
-   "asof": "2026-10-29T05:55:20.000Z"
+   "p": 157.879,
+   "ch": 0.07,
+   "asof": "2026-10-29T07:11:02.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7051,
-   "ch": -0.09,
-   "asof": "2026-10-29T05:54:45.000Z"
+   "p": 0.7049,
+   "ch": -0.11,
+   "asof": "2026-10-29T07:10:42.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.399,
-   "ch": -0.01,
-   "asof": "2026-10-29T05:55:20.000Z"
+   "p": 1.3994,
+   "ch": 0.01,
+   "asof": "2026-10-29T07:11:02.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8291,
-   "ch": 0.18,
-   "asof": "2026-10-29T05:55:20.000Z"
+   "p": 0.8284,
+   "ch": 0.1,
+   "asof": "2026-10-29T07:11:02.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80124.96,
-   "ch": -1.4,
-   "asof": "2026-10-29T05:55:12.000Z"
+   "p": 79831.4,
+   "ch": -1.76,
+   "asof": "2026-10-29T07:10:58.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2320.56,
-   "ch": -1.56,
-   "asof": "2026-10-29T05:55:15.000Z"
+   "p": 2308.78,
+   "ch": -2.06,
+   "asof": "2026-10-29T07:11:01.000Z"
   },
   {
    "s": "S&P 500",
@@ -370,7 +370,7 @@
    "d": 2,
    "p": 7743.98,
    "ch": 0.28,
-   "asof": "2026-10-28T21:18:42.000Z"
+   "asof": "2026-10-28T20:00:00.000Z"
   },
   {
    "s": "Nasdaq",
@@ -386,23 +386,23 @@
    "d": 2,
    "p": 52475.1,
    "ch": 0.19,
-   "asof": "2026-10-28T21:18:52.000Z"
+   "asof": "2026-10-28T20:00:00.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4044.7,
-   "ch": -0.17,
-   "asof": "2026-10-29T05:45:18.000Z"
+   "p": 4046.2,
+   "ch": -0.13,
+   "asof": "2026-10-29T07:00:59.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 101.17,
-   "ch": -1.57,
-   "asof": "2026-10-29T05:45:20.000Z"
+   "p": 101.45,
+   "ch": -1.29,
+   "asof": "2026-10-29T07:01:02.000Z"
   },
   {
    "s": "USD/KES",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6352,
-   "ch": 0.19,
-   "asof": "2026-10-29T05:55:21.000Z"
+   "p": 16.6203,
+   "ch": 0.1,
+   "asof": "2026-10-29T07:11:03.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 100.27,
-   "ch": -1.99,
-   "asof": "2026-10-29T05:55:16.000Z"
+   "p": 99.81,
+   "ch": -2.44,
+   "asof": "2026-10-29T07:10:56.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2981,
-   "ch": -1.98,
-   "asof": "2026-10-29T05:55:15.000Z"
+   "p": 1.2918,
+   "ch": -2.46,
+   "asof": "2026-10-29T07:10:54.000Z"
   },
   {
    "s": "Apple",
@@ -472,25 +472,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.185,
-   "ch": -0.9,
-   "asof": "2026-10-29T05:45:21.000Z"
+   "p": 52.905,
+   "ch": -1.42,
+   "asof": "2026-10-29T07:01:02.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "high",
-   "Even a dovish BOJ may struggle to push Dollar-Yen beyond 160: Citi",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVJnR1BHc0dvUTFJVUs3N0w5Z2FjTmkyVmtOb1RkTzBLZVUyRlB5M2pfN3ZJeXN4ZUozZDdxR1MtWW5OODNRX3NWaUw3Q0JjazVTN0V4V2RTM2YtSWRaWk1GWk1ydVdYWF9QbjNQVW5fNVFJZ3h6dWtNS0pRZjB5dG02cTlLcnBsbTZDemhkUUxQbXhZR3ZZSXZOZmJIWFVCT3AtS0QzMVFnZl9y?oc=5"
+   "Japan bonds steady ahead of BOJ decision; strong auction lends support",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYU5icjJDV2NBSUUxTk41aWVqRHpxRjBVX0cxdUxBdzRwc1VaMzJXR3FkRXk1eVRxZzlOaFZ3bXlla2NweWlaeWgyOGpFYVVVYUFRdlhTaFl0R1J4MUlndnBTaGdCMDM5ak8zVzhqMkJhZ0NnY00yejRjNjBhWEc4R1JTeVpjaHpCY3pIVUd3ekpRUXMzUVExS1pPODY3Mk5TeHI2a0k4UEhrTDY0d2tPUkQwcFpPdnp6eUp1cUxR?oc=5"
   ],
   [
    "Forex",
    "high",
-   "Euro steady before ECB decision, dollar holds ground as Fed stands pat",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYmVmOE5mU3JyckhjNGlWelQ5QVdhNzkwU0h1Zkd4bjJ6UGszY2lYem1BRmxjWW95VDBrYzg5NXNIWFhFWmNjNmFlUHZleE01YnNOWjRWVV9LWU1SYS1lRlVoRm15U1FrNjdvbkhtVzA4UWNzREJFWjBmUS1vU1FmcEN5a2loa1VsaHRRN190UHZNRmtvTVR1a0RmUlZwTlBPTmtoVFpURGpudw?oc=5"
+   "Even a dovish BOJ may struggle to push Dollar-Yen beyond 160: Citi",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVJnR1BHc0dvUTFJVUs3N0w5Z2FjTmkyVmtOb1RkTzBLZVUyRlB5M2pfN3ZJeXN4ZUozZDdxR1MtWW5OODNRX3NWaUw3Q0JjazVTN0V4V2RTM2YtSWRaWk1GWk1ydVdYWF9QbjNQVW5fNVFJZ3h6dWtNS0pRZjB5dG02cTlLcnBsbTZDemhkUUxQbXhZR3ZZSXZOZmJIWFVCT3AtS0QzMVFnZl9y?oc=5"
   ],
   [
    "Crypto",
@@ -502,7 +502,7 @@
   [
    "Crypto",
    "med",
-   "Bitcoin dips below $80,000, liquidating $356 million in crypto longs",
+   "BTC price dips below $80,000, liquidating $356 million in crypto longs",
    "CoinDesk",
    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdm9tYUY0UE5tWUNjSk10VEtPR2JWQWpoMkpaM3UtYXloMHZmemxQLVpzdEtnRWZsdkQzcVBFR0lGSENhanJjZ2QxdGhpWThKU1ZMSW1PSEhES2xhckJTMFJGRU00N2syaXB6aUhHWXRSYzVSWTBzM1JhWEwxVV9RYzFIOEtiMGxsLXNSU21kemxyb19qSVNhNVNEQUs1WHVfODNVajU2aFBXSWRSMzNvSXY1ajZHZlBTY293QU5FVDh3OU5IT0F1RGxkYnpMMEN4d0N3d05pS0hBMzQ?oc=5"
   ],
