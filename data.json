@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T09:03:39.666Z",
+ "updated": "2026-10-29T10:01:19.268Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1142,
-   "ch": -0.13,
-   "asof": "2026-10-29T09:02:44.000Z"
+   "p": 1.1137,
+   "ch": -0.18,
+   "asof": "2026-10-29T10:00:46.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3313,
+   "p": 1.3312,
    "ch": -0.11,
-   "asof": "2026-10-29T09:02:44.000Z"
+   "asof": "2026-10-29T10:00:46.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.857,
-   "ch": 0.06,
-   "asof": "2026-10-29T09:03:38.000Z"
+   "p": 157.975,
+   "ch": 0.14,
+   "asof": "2026-10-29T10:01:18.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7039,
-   "ch": -0.26,
-   "asof": "2026-10-29T09:02:44.000Z"
+   "p": 0.7035,
+   "ch": -0.31,
+   "asof": "2026-10-29T10:00:46.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3993,
+   "p": 1.3994,
    "ch": 0.01,
-   "asof": "2026-10-29T09:03:39.000Z"
+   "asof": "2026-10-29T10:01:18.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.828,
-   "ch": 0.05,
-   "asof": "2026-10-29T09:03:39.000Z"
+   "p": 0.8289,
+   "ch": 0.16,
+   "asof": "2026-10-29T10:01:17.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80005.43,
-   "ch": -1.55,
-   "asof": "2026-10-29T09:03:36.000Z"
+   "p": 80062.8,
+   "ch": -1.48,
+   "asof": "2026-10-29T10:01:11.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2316.94,
-   "ch": -1.71,
-   "asof": "2026-10-29T09:03:34.000Z"
+   "p": 2317.41,
+   "ch": -1.69,
+   "asof": "2026-10-29T10:01:14.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,17 +392,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4028.1,
-   "ch": -0.58,
-   "asof": "2026-10-29T08:53:38.000Z"
+   "p": 4037.9,
+   "ch": -0.34,
+   "asof": "2026-10-29T09:51:07.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 101.81,
-   "ch": -0.94,
-   "asof": "2026-10-29T08:53:36.000Z"
+   "p": 101.6,
+   "ch": -1.15,
+   "asof": "2026-10-29T09:51:12.000Z"
   },
   {
    "s": "USD/KES",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6419,
-   "ch": 0.23,
-   "asof": "2026-10-29T09:03:40.000Z"
+   "p": 16.6297,
+   "ch": 0.15,
+   "asof": "2026-10-29T10:01:19.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 100.23,
-   "ch": -2.03,
-   "asof": "2026-10-29T09:03:35.000Z"
+   "p": 100.16,
+   "ch": -2.1,
+   "asof": "2026-10-29T10:01:17.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.291,
-   "ch": -2.52,
-   "asof": "2026-10-29T09:03:39.000Z"
+   "p": 1.2906,
+   "ch": -2.55,
+   "asof": "2026-10-29T10:01:15.000Z"
   },
   {
    "s": "Apple",
@@ -472,9 +472,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 52.575,
-   "ch": -2.03,
-   "asof": "2026-10-29T08:53:37.000Z"
+   "p": 52.6,
+   "ch": -1.99,
+   "asof": "2026-10-29T09:51:07.000Z"
   }
  ],
  "news": [
@@ -488,9 +488,9 @@
   [
    "Forex",
    "high",
-   "Japan bonds steady ahead of BOJ decision; strong auction lends support",
+   "Taiwan central bank board members flag inflation woes, minutes show",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYU5icjJDV2NBSUUxTk41aWVqRHpxRjBVX0cxdUxBdzRwc1VaMzJXR3FkRXk1eVRxZzlOaFZ3bXlla2NweWlaeWgyOGpFYVVVYUFRdlhTaFl0R1J4MUlndnBTaGdCMDM5ak8zVzhqMkJhZ0NnY00yejRjNjBhWEc4R1JTeVpjaHpCY3pIVUd3ekpRUXMzUVExS1pPODY3Mk5TeHI2a0k4UEhrTDY0d2tPUkQwcFpPdnp6eUp1cUxR?oc=5"
+   "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYkV2cEZSS0M2QUJQUUptRFR0SmJnS3JtRDMxaXJmS2otSGRrVXFOcUI3YzhxUnRBVFB0c1UtQ2NOMTZ5alg4bFl2SzFuQXdjajYtXzJHd0VfSUM3LUg5bzVzMnlLLWJnVmZkVUlHQldiLTVmWGJZVHhpMHh1MGNBWXQtd3U2V0FleVdaOF9xZkpiRV9ieFp1V2hTaVA2Slo2emt3T0VlcXh3b0NzUTdibzRJckx1VHhlcDFXNVRR?oc=5"
   ],
   [
    "Crypto",
@@ -502,9 +502,9 @@
   [
    "Crypto",
    "med",
-   "Bitcoin Traders Brace for Swings on $11 Billion Options Expiry",
-   "Bloomberg",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdG5PdzNDckU4ZE1DNy1ydWVvdk5kbDFlRks4bkpjMlZHenlQUHZ2YW9IX1hSaEZULVhlU0pFMkZuVExkZlVpbHpuYk01aGFjaENPNVBHc1BJVlhWRERUWUc0b251STh3WmdnRThiZzE0VTJ2Z0RyZzY5R0NZcjhxUUdTRWwxQThZUU03WXVHQlV1cTJxd1ZOV2QybzZXaFJtM0J5VlhNY0R3NVg1UGVnVlhn?oc=5"
+   "Prediction: This Cryptocurrency Will Outperform Bitcoin in 2027",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVFlYZ2lnMkNlbVREV25fR1VZbUhvWTZqbGtwRkZRS2lmWGhWemF2YXlRRkhucE5GUVJkanlCV055eWFsb1R3eS15aTMtZXRwSTR6eXE4LUlHZW5RZ1FxbTNqTDhiQUJEbXJHVk1fUlFvWTgtNFcxQ3ZpVE9kTHVvUGhNZ21FbkRBNjVoem1nUnd3ZkQ0Q0g4Z1FVejlFUzRXSFBxbXdZdmlIZ0c1MlQ0andzcUg?oc=5"
   ],
   [
    "Stocks",
@@ -515,10 +515,10 @@
   ],
   [
    "Stocks",
-   "high",
-   "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5"
+   "med",
+   "Tech Rally Stalls as Alphabet, Samsung Disappoint: Markets Wrap",
+   "Bloomberg",
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd1B6V3JFX19tOWhyZHVKZzFGZ1k0aXcyNERXb0JrMFNjQVpEaFZMeVMxU1FUVnJpWmFrM3JQbjJ5cXRsU0NBekRsOUM2WEQ2Zlh3MWluWUU2c0poWTk1ZDBGMC13SUtxX1lVdjEtQW1PbWdXRE95ZFJqZ2JmZEwxeW5VbVVORWlzMlJTVHdnZ2NkaWR3?oc=5"
   ],
   [
    "Commodities",
