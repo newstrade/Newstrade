@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T21:54:06.638Z",
+ "updated": "2026-10-29T22:52:58.460Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1179,
-   "ch": 0.2,
-   "asof": "2026-10-29T21:53:42.000Z"
+   "p": 1.1196,
+   "ch": 0.35,
+   "asof": "2026-10-29T22:52:43.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3376,
-   "ch": 0.37,
-   "asof": "2026-10-29T21:53:42.000Z"
+   "p": 1.339,
+   "ch": 0.47,
+   "asof": "2026-10-29T22:52:43.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.65,
-   "ch": -0.07,
-   "asof": "2026-10-29T21:54:06.000Z"
+   "p": 157.632,
+   "ch": -0.08,
+   "asof": "2026-10-29T22:52:57.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7031,
-   "ch": -0.37,
-   "asof": "2026-10-29T21:52:42.000Z"
+   "p": 0.7024,
+   "ch": -0.47,
+   "asof": "2026-10-29T22:52:43.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.399,
-   "ch": -0.01,
-   "asof": "2026-10-29T21:53:54.000Z"
+   "p": 1.398,
+   "ch": -0.09,
+   "asof": "2026-10-29T22:52:57.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8239,
-   "ch": -0.45,
-   "asof": "2026-10-29T21:54:06.000Z"
+   "p": 0.8224,
+   "ch": -0.63,
+   "asof": "2026-10-29T22:52:57.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 78903.18,
-   "ch": -2.9,
-   "asof": "2026-10-29T21:54:03.000Z"
+   "p": 78814.52,
+   "ch": -3.01,
+   "asof": "2026-10-29T22:52:50.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2268.26,
-   "ch": -3.78,
-   "asof": "2026-10-29T21:54:00.000Z"
+   "p": 2271.38,
+   "ch": -3.65,
+   "asof": "2026-10-29T22:52:54.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,17 +392,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4033.3,
-   "ch": 0.05,
-   "asof": "2026-10-29T20:59:58.000Z"
+   "p": 4032.7,
+   "ch": 0.03,
+   "asof": "2026-10-29T22:42:51.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 102.86,
-   "ch": 0.84,
-   "asof": "2026-10-29T20:59:57.000Z"
+   "p": 102.87,
+   "ch": 0.85,
+   "asof": "2026-10-29T22:42:45.000Z"
   },
   {
    "s": "USD/KES",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.607,
-   "ch": 0.02,
-   "asof": "2026-10-29T21:54:01.000Z"
+   "p": 16.6057,
+   "ch": 0.01,
+   "asof": "2026-10-29T22:52:57.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 97.14,
-   "ch": -5.05,
-   "asof": "2026-10-29T21:54:01.000Z"
+   "p": 96.7,
+   "ch": -5.48,
+   "asof": "2026-10-29T22:52:53.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2543,
-   "ch": -5.29,
-   "asof": "2026-10-29T21:54:02.000Z"
+   "p": 1.2438,
+   "ch": -6.08,
+   "asof": "2026-10-29T22:52:55.000Z"
   },
   {
    "s": "Apple",
@@ -472,19 +472,12 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 52.22,
-   "ch": -0.31,
-   "asof": "2026-10-29T20:59:48.000Z"
+   "p": 52.02,
+   "ch": -0.69,
+   "asof": "2026-10-29T22:42:47.000Z"
   }
  ],
  "news": [
-  [
-   "Forex",
-   "med",
-   "Japan Vows to Fortify Cyber Defenses as GMO Hack Hits Forex Brokers",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNVNyQzhTdWE5emJCNzR3MWlBZGRvYTl5Sk80LTY1d3JuN3NxTVRWYUIxdkR1bWVLMkYxVktCQzdidkViUjRmaXNxcVRhbFgtcHg2RGh4SXFCYnNPWHg2NUl5OVRTUjhBZFRvU2FxcmVjZlVadFlfR0dHRmRqN3RJaGJwcXl1N3BzbnZvX0o0X2FGQlVaM015VVNDZS1pdG9fSEs1azUzOEpzZWVLZlR4eDVNRHVzUQ?oc=5"
-  ],
   [
    "Forex",
    "high",
@@ -493,18 +486,25 @@
    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaWs3LWxWaXNJdzQ2aGROTlV4a1JtdjBpX21DZmxsYWQ0MF82eWk4b0VxeUVoamFGb3Y4SVBCQlY5ZTltM2t5ajYwYUJ0WlJpeDEtSkY2VFFUN3ZvQ2U1MEQyeWRfMHluY2NMNHlmaTFhWVN5cE1xYWFaazdPeDB0M1ptTEFQNTYxbG9hXzg4dG5lWDVINEJwWWFmbVdEcjdqcTVXOXl0UTVRR1U?oc=5"
   ],
   [
-   "Crypto",
-   "med",
-   "Canada 'Crypto King' Aiden Pleterski found guilty of fraud",
-   "BBC",
-   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TNlJFdHEtZzA4bnppRzBGVXNTMUdvelNHMWN5VkJUdkJyYjZXWDRYVUVqVnE3M3Q5b1JULXE3bWg1VTdKb1hNeGJ6WXB1UnM4RXg2bnlYU2NiN1k?oc=5"
+   "Forex",
+   "high",
+   "ECB Expected to Leave Key Rate Unchanged Amid French Bond Drama",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYXZzbXVham1ZQ3ZRZEJzSGxNSmZUMnRfblVxa1JEbjRUM3o3YWZXOVBHZ1RYU0RvZHU1YjdTQ1BDZGV3VjFqODRVeEhISG5hVGowVlY2VVVWcy1iSVg4WmNFYXl3VDdLRkRYbndjZW1Pbkl0dHpGVlJHUGRUTDVrTmhHdkZhRktLTnREY2VqdE5MUVNCZ3ZFMGUxY0tJU1dzYWlZbk1QNHlBbklyVlBvY3VB?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin’s 18th Birthday Is Not Without Growing Pains",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUkZadUV5SmhsWkdWajRKcmtmbDhGZ01KRkxCaHJqZEpCbjIzVmwxcFZQa3RoR3pzSE4xeXlEUW9mcVpvR1p6Q1RudlRfYmFKb2Fickg5T1I3S1NGNkNKYUtJZ0tVTURIb01Ya2RnZUh6dlc3MHVtYlRBWnF5WmJqeVlEbncybThIUVVlYjdTZ0ZzdVJNZ3BYMEdvVEpaNV92dmpIRGZDeUtaUQ?oc=5"
+   "Binance Founder Says Exchange May Be Victim of Biggest-Ever Crypto Heist",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbEREMjNtM29XdElLQVFoU1JvZ1REMUxNMjZkOHQ2X2x3ZDZsVGI4dHZkVDNKUzkzalFFLTdkVG5mY2NwNGYwQjRSVGN5aVB0ZHdZZkdGa2lFUXBkTS1tcmpmZkZJRGxZYzF0NFRtOGhiSTBIa0pHbjF1VGN5LU9VYy1XN3cyRnJCd3ZkUV84TVlMRUlIZTdBN0VrbjZoVjNkZWZrMzVWaFJOaDJRaUVaSFdDNERpVVg5MnNSXw?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "Coinbase returns to profit as crypto investment gains cushion trading weakness",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNnRhRU8tc201Q2s0TDltdkFnUmtBWUllUDY5WVpjRGlFeDdRVDlUNGRnVTQyeTFnTlB3SUxacHh4Wm1feHQyc19KSXI4NVRkYUJhSmtQbmt5YWdkcDFsNU9XMHFiNld6R25nRXJ1WGZlUXZ0X3ZHTUhUaGI2bGlBTi1ZVHh0bEFrbVJPRG8zT2wzdkVRelBJR0twVjR5d09LQ0l0OTBNMFFDWHlxcV9YcTloSndaMjBCdFJrYVR1OG1xbEQyd2JYaENB?oc=5"
   ],
   [
    "Stocks",
@@ -516,9 +516,9 @@
   [
    "Stocks",
    "med",
-   "Nasdaq 100 Falls 1.5% as AI Trade Shows New Cracks: Markets Wrap",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd1B6V3JFX19tOWhyZHVKZzFGZ1k0aXcyNERXb0JrMFNjQVpEaFZMeVMxU1FUVnJpWmFrM3JQbjJ5cXRsU0NBekRsOUM2WEQ2Zlh3MWluWUU2c0poWTk1ZDBGMC13SUtxX1lVdjEtQW1PbWdXRE95ZFJqZ2JmZEwxeW5VbVVORWlzMlJTVHdnZ2NkaWR3?oc=5"
+   "Hackers Swipe Millions From Polymarket Users in Latest Security Breach",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLUV1aHdGYVNnTVUxXy1OQkJNbkpqeDNBY0JyaGZrd0lxc2ZhWGRlVXJyTjNncVdSc1hpczMwVHg0NkEwQmVnbGUtS3dpWlpWX1cxNE1PbGQ3QTQ4RXQ4eWhaT2ZZOElENXJDdE1GenFYSjNrOURmREtHNkZETm90QXRZdzd1MTJ4MEVJb1lrRGdrWHhzTUlGZllMaDluVnlsb1dr?oc=5"
   ],
   [
    "Commodities",
@@ -530,9 +530,9 @@
   [
    "Commodities",
    "med",
-   "Oil prices edge lower as renewed U.S.-Iran peace efforts ease supply fears",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zdnNES2VLOVNQbEJKcncxMVlyamQxU3Jfa0o1MjFNd21YLTZ5dWJKWmpQbnNiWkhGY3Y5QXFXeXZnSU5zQ0VoSHc0QnllUFNNdk1qUkdnSEZGZk15cHAzMnFub0dhSGQ2S2V0Tm9vMNIBdEFVX3lxTE83QURjQjVBRjdxbTJrR0lsWnpKcHNWU1hBNy1Bdnk4VktjTmE1NXp6WWJqLXltUk93OWxRbndlQ1hZaFcwTm9xZ0dBM1phR0VCSVVqT3hFaUJ6ME5GNy1vUExkTW9ja0lsZjhSYWFKeVVqUUlj?oc=5"
+   "Europe to Release 42 Million Barrels of Oil",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYTM5QzFUZlgycEl4SVI4aDBZTGJMQ0laam9kUEFzTENIMFJYTVBXUVJYeEpfUEJCR1dBTkk2YVJqX3FkNWpMaGJ6YUpfVTUtaHZmQXBFeDVHOC1MVnN6T3J6Z0JQOGtpQ0lOTkhXMkY3YXB0Uk9lRmk4Um0tNXFVanZrR0xoODBsd21JVDRZYlZfdkMxdjQtQmdKQi10aFh10gGmAUFVX3lxTFBNZ0Y4TFh2di1kVUxQYTNfaXg4QVIxMDlKSXVtbFRLWXg4aWs2MmdQdVJlem5BMXZoV3hrcmg3QzFURGQwazh3MWFwNkM4RXpHSE9BNjJjZWMxS0tPQXVqMnhQa2xqMTZLbm0tRlE3OVVzanhucGp5LWRJNmRlcTN0WjJwMDN0T1NwdmV0dWx6WnZuRkhJUDlEcEJaVGd4ekJYWnhhMEE?oc=5"
   ]
  ]
 }
