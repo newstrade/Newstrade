@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T01:10:58.586Z",
+ "updated": "2026-10-29T02:05:36.324Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1141,
-   "ch": -0.14,
-   "asof": "2026-10-29T01:10:44.000Z"
+   "p": 1.1156,
+   "ch": -0.01,
+   "asof": "2026-10-29T02:04:45.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3316,
-   "ch": -0.08,
-   "asof": "2026-10-29T01:10:44.000Z"
+   "p": 1.333,
+   "ch": 0.02,
+   "asof": "2026-10-29T02:04:45.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.968,
-   "ch": 0.13,
-   "asof": "2026-10-29T01:10:57.000Z"
+   "p": 157.725,
+   "ch": -0.02,
+   "asof": "2026-10-29T02:05:35.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7056,
-   "ch": -0.01,
-   "asof": "2026-10-29T01:10:44.000Z"
+   "p": 0.7062,
+   "ch": 0.07,
+   "asof": "2026-10-29T02:04:45.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3985,
-   "ch": -0.05,
-   "asof": "2026-10-29T01:10:58.000Z"
+   "p": 1.3974,
+   "ch": -0.13,
+   "asof": "2026-10-29T02:05:37.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8291,
-   "ch": 0.18,
-   "asof": "2026-10-29T01:10:58.000Z"
+   "p": 0.8276,
+   "ch": 0,
+   "asof": "2026-10-29T02:05:37.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80779.78,
-   "ch": -0.59,
-   "asof": "2026-10-29T01:10:55.000Z"
+   "p": 79925.15,
+   "ch": -1.65,
+   "asof": "2026-10-29T02:05:32.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2340.37,
-   "ch": -0.72,
-   "asof": "2026-10-29T01:10:51.000Z"
+   "p": 2307.6,
+   "ch": -2.11,
+   "asof": "2026-10-29T02:05:36.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,17 +392,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4052.9,
-   "ch": 0.03,
-   "asof": "2026-10-29T01:00:59.000Z"
+   "p": 4076.2,
+   "ch": 0.61,
+   "asof": "2026-10-29T01:55:37.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 101.85,
-   "ch": -0.9,
-   "asof": "2026-10-29T01:00:57.000Z"
+   "p": 101.77,
+   "ch": -0.98,
+   "asof": "2026-10-29T01:55:34.000Z"
   },
   {
    "s": "USD/KES",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.617,
-   "ch": 0.08,
-   "asof": "2026-10-29T01:10:58.000Z"
+   "p": 16.6009,
+   "ch": -0.02,
+   "asof": "2026-10-29T02:05:38.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 101.26,
-   "ch": -1.03,
-   "asof": "2026-10-29T01:10:54.000Z"
+   "p": 99.66,
+   "ch": -2.59,
+   "asof": "2026-10-29T02:05:27.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3133,
-   "ch": -0.83,
-   "asof": "2026-10-29T01:10:55.000Z"
+   "p": 1.2975,
+   "ch": -2.03,
+   "asof": "2026-10-29T02:05:36.000Z"
   },
   {
    "s": "Apple",
@@ -472,25 +472,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.635,
-   "ch": -0.06,
-   "asof": "2026-10-29T01:00:59.000Z"
+   "p": 54.02,
+   "ch": 0.66,
+   "asof": "2026-10-29T01:55:37.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Japan Vows to Fortify Cyber Defenses as GMO Hack Hits Forex Brokers",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNVNyQzhTdWE5emJCNzR3MWlBZGRvYTl5Sk80LTY1d3JuN3NxTVRWYUIxdkR1bWVLMkYxVktCQzdidkViUjRmaXNxcVRhbFgtcHg2RGh4SXFCYnNPWHg2NUl5OVRTUjhBZFRvU2FxcmVjZlVadFlfR0dHRmRqN3RJaGJwcXl1N3BzbnZvX0o0X2FGQlVaM015VVNDZS1pdG9fSEs1azUzOEpzZWVLZlR4eDVNRHVzUQ?oc=5"
+   "New Zealand central bank governor says chances of December hike are 'high'",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObXh0UVJsVGRQT3BramlrcFMwVVd6TjF4UzdJVUo3YlFkMkR6d05felZaZVN6a1NWN2NPd21VckdBVHhPR2FTbVotdmdzSzNNM1c1bGYwOGtEckNCVU94aDE4MGtXSHRsUTFldFZla2s1SWI2OGdNbW5BUEdJd0R4S3lHOHc5ckFVNFhjTXRNSlU0NzRyWjJPMC1pdU9rLUFrdGIzNk9wZk9DaTVZaDhhQmNmaW5fY2lFVWQ4azA1QWl4dw?oc=5"
   ],
   [
    "Forex",
    "med",
-   "New Zealand central bank governor says chances of December hike are 'high'",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObXh0UVJsVGRQT3BramlrcFMwVVd6TjF4UzdJVUo3YlFkMkR6d05felZaZVN6a1NWN2NPd21VckdBVHhPR2FTbVotdmdzSzNNM1c1bGYwOGtEckNCVU94aDE4MGtXSHRsUTFldFZla2s1SWI2OGdNbW5BUEdJd0R4S3lHOHc5ckFVNFhjTXRNSlU0NzRyWjJPMC1pdU9rLUFrdGIzNk9wZk9DaTVZaDhhQmNmaW5fY2lFVWQ4azA1QWl4dw?oc=5"
+   "Sterling Infrastructure: Q3 Earnings Snapshot",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdnRCVTA2TjM0UmkydGduenVsXzdLM2paX2ZpdXR1czF6STFPVXhyOFAyQjJQQ2xkNnZvSEpfQlRXWElocHdwcGRIV2ZueFJCVnI5U1NBd3UxaXhyczVoVDFQdTJiMlg3MUQxUVdnLUVMaS1nTllBNVo1Z3hLZnJZRnBNNVczUGxIM2pRMWtjQUVNUWttOG5WeTNidVp4bkFfMHozN2FPS0RMUUIxVXc?oc=5"
   ],
   [
    "Crypto",
@@ -502,9 +502,9 @@
   [
    "Crypto",
    "med",
-   "3 Reasons Why Bitcoin Is Worth Buying Right Now",
+   "Bitcoin Controls 59.5% of the Crypto Market. Is Altcoin Season Still Possible?",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc1N2aHhHQkN2U3NEZjB6dmhZcm1WTFgxYWxiSlVuVDZrRkE5d1ZSbGc5RjNYYXJTVHEycWFzbVphMUhEOUI5SkxtdF9vS3ZsTC1kRlRPU09rN0hGUG5aN210M3ZzU29YSjZva3M1Y3dGMEtvYUVNNkZ6N0ZYTUlGUWZid2RoTUg1dlFRdzlnbXRSdERGTHBB?oc=5"
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxQelduc3JycTBqYWpVWlRHMEJLMjNnVXZOaVVyMHNfUXYxb28yRUEyR1VNWEpRbTh1cXo5NzJ5cnNIX0NMZVkxS0xkTDVMd00xLXdEa1BwNHY5UE0wN216SUFiU3A0bDMzSTlmV2lFRFVIMWl6ajk3ZXpGZWxBQ3FNX2FoR09OLTRlZndTUFNrWERBMWVGQ2huaQ?oc=5"
   ],
   [
    "Stocks",
@@ -530,9 +530,9 @@
   [
    "Commodities",
    "med",
-   "NEWSLETTER: Reading Gulf anxiety in the oil price",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTWc0WEJYUlFxU0NnSFFxNkk0X2JUanhWZl9qMlMyTnl4dnlaS1Zlbjd4VEdscXpQbVRwSWNMejdZakVHYVVsQWhRQmQwWWVObTNUVV83c3prVVFab25oVXpkTzd3SnJVYUdiZGFpSEljV3NxS2hwRDdzd3FzVzdFdWNiNUdHa3U1aDg1Qw?oc=5"
+   "UBS Sees $110 Brent by Year-End as Gulf Flows Stay Below Prewar Levels",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcVA5TGwwc3Z6QXdGdlNRM3gta2JTSWRZWldsaEJSdF81RW9ZWm9yQW1hV1BzNUNndVlQQVl6UmRSemNkLWZuSWFlVTlPemxzVmZsUUNXTVJLNzdNVlJSRldNenM5N3NyV3JWNllDbHNfY3JLM3phZXVtejFSSFNlaVl0X1N1R1FCWU9VUDhuVmtLSXkweG5sVk1GX2lVa3lqWFN3Q20wYXMyVmJHSmktMXhvOERHUllQX2ZMMUJBV1Q1WU3SAcgBQVVfeXFMTy1naktUQm0wNklXcTZfTmZoSjFHXzd6Y09RSUQ2dy1XRkYzVk5idG9IbDhuOG5HNGdQV2ZxYm1aSFA4Tm90OFhsMGxsbkFMTzFfb0FBWmYyd1JuUXlOT3o2aDQ3SUt4bVJEY09mLWhvTFBmcVVIUzIwN0xHRDVZYXR3VVdkbkFKdzR3ODZMenZid0ZZSGttME43cUtrU3pHcXphZ3k1Y05XaGFNaUJZTWgxaDd0ZG9Zb0cwTjNpcHA3YXZhZVNTV2U?oc=5"
   ]
  ]
 }
