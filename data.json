@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T02:58:07.130Z",
+ "updated": "2026-10-29T03:58:07.649Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1153,
-   "ch": -0.04,
-   "asof": "2026-10-29T02:57:42.000Z"
+   "p": 1.1148,
+   "ch": -0.08,
+   "asof": "2026-10-29T03:57:43.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3326,
-   "ch": -0.01,
-   "asof": "2026-10-29T02:57:42.000Z"
+   "p": 1.3323,
+   "ch": -0.03,
+   "asof": "2026-10-29T03:57:43.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.792,
-   "ch": 0.02,
-   "asof": "2026-10-29T02:58:06.000Z"
+   "p": 157.748,
+   "ch": -0.01,
+   "asof": "2026-10-29T03:58:05.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7059,
-   "ch": 0.03,
-   "asof": "2026-10-29T02:56:42.000Z"
+   "p": 0.7054,
+   "ch": -0.04,
+   "asof": "2026-10-29T03:56:43.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3978,
-   "ch": -0.1,
-   "asof": "2026-10-29T02:58:05.000Z"
+   "p": 1.3984,
+   "ch": -0.06,
+   "asof": "2026-10-29T03:58:07.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.828,
-   "ch": 0.05,
-   "asof": "2026-10-29T02:58:07.000Z"
+   "p": 0.8283,
+   "ch": 0.08,
+   "asof": "2026-10-29T03:58:05.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 79885.77,
-   "ch": -1.69,
-   "asof": "2026-10-29T02:58:03.000Z"
+   "p": 79746.07,
+   "ch": -1.87,
+   "asof": "2026-10-29T03:58:03.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2310.16,
-   "ch": -2,
-   "asof": "2026-10-29T02:58:02.000Z"
+   "p": 2306.1,
+   "ch": -2.17,
+   "asof": "2026-10-29T03:58:00.000Z"
   },
   {
    "s": "S&P 500",
@@ -370,7 +370,7 @@
    "d": 2,
    "p": 7743.98,
    "ch": 0.28,
-   "asof": "2026-10-28T21:18:42.000Z"
+   "asof": "2026-10-28T20:00:00.000Z"
   },
   {
    "s": "Nasdaq",
@@ -386,23 +386,23 @@
    "d": 2,
    "p": 52475.1,
    "ch": 0.19,
-   "asof": "2026-10-28T21:18:52.000Z"
+   "asof": "2026-10-28T20:00:00.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4054.8,
-   "ch": 0.08,
-   "asof": "2026-10-29T02:48:01.000Z"
+   "p": 4053.7,
+   "ch": 0.05,
+   "asof": "2026-10-29T03:48:05.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 101.7,
-   "ch": -1.05,
-   "asof": "2026-10-29T02:48:02.000Z"
+   "p": 101.45,
+   "ch": -1.29,
+   "asof": "2026-10-29T03:48:01.000Z"
   },
   {
    "s": "USD/KES",
@@ -410,15 +410,15 @@
    "d": 2,
    "p": 129.8,
    "ch": 0,
-   "asof": "2026-10-29T02:24:16.000Z"
+   "asof": "2026-10-29T03:42:23.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6112,
-   "ch": 0.04,
-   "asof": "2026-10-29T02:58:07.000Z"
+   "p": 16.621,
+   "ch": 0.1,
+   "asof": "2026-10-29T03:58:07.000Z"
   },
   {
    "s": "USD/NGN",
@@ -426,23 +426,23 @@
    "d": 2,
    "p": 1341.82,
    "ch": 0,
-   "asof": "2026-10-29T02:24:16.000Z"
+   "asof": "2026-10-29T03:42:23.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 99.96,
-   "ch": -2.3,
-   "asof": "2026-10-29T02:58:04.000Z"
+   "p": 99.57,
+   "ch": -2.68,
+   "asof": "2026-10-29T03:58:04.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2949,
-   "ch": -2.22,
-   "asof": "2026-10-29T02:58:02.000Z"
+   "p": 1.2883,
+   "ch": -2.72,
+   "asof": "2026-10-29T03:58:06.000Z"
   },
   {
    "s": "Apple",
@@ -472,25 +472,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.55,
-   "ch": -0.22,
-   "asof": "2026-10-29T02:47:53.000Z"
+   "p": 53.285,
+   "ch": -0.71,
+   "asof": "2026-10-29T03:48:00.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "high",
-   "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
+   "Dollar steady after Fed hold leaves rate path murky",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1HWWRBUzNjbGdKUDV0MlFSWXRsaWQwMXpWQXI?oc=5"
+   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYmVmOE5mU3JyckhjNGlWelQ5QVdhNzkwU0h1Zkd4bjJ6UGszY2lYem1BRmxjWW95VDBrYzg5NXNIWFhFWmNjNmFlUHZleE01YnNOWjRWVV9LWU1SYS1lRlVoRm15U1FrNjdvbkhtVzA4UWNzREJFWjBmUS1vU1FmcEN5a2loa1VsaHRRN190UHZNRmtvTVR1a0RmUlZwTlBPTmtoVFpURGpudw?oc=5"
   ],
   [
    "Forex",
-   "med",
-   "Sterling Infrastructure: Q3 Earnings Snapshot",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdnRCVTA2TjM0UmkydGduenVsXzdLM2paX2ZpdXR1czF6STFPVXhyOFAyQjJQQ2xkNnZvSEpfQlRXWElocHdwcGRIV2ZueFJCVnI5U1NBd3UxaXhyczVoVDFQdTJiMlg3MUQxUVdnLUVMaS1nTllBNVo1Z3hLZnJZRnBNNVczUGxIM2pRMWtjQUVNUWttOG5WeTNidVp4bkFfMHozN2FPS0RMUUIxVXc?oc=5"
+   "high",
+   "Even a dovish BOJ may struggle to push Dollar-Yen beyond 160: Citi",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVJnR1BHc0dvUTFJVUs3N0w5Z2FjTmkyVmtOb1RkTzBLZVUyRlB5M2pfN3ZJeXN4ZUozZDdxR1MtWW5OODNRX3NWaUw3Q0JjazVTN0V4V2RTM2YtSWRaWk1GWk1ydVdYWF9QbjNQVW5fNVFJZ3h6dWtNS0pRZjB5dG02cTlLcnBsbTZDemhkUUxQbXhZR3ZZSXZOZmJIWFVCT3AtS0QzMVFnZl9y?oc=5"
   ],
   [
    "Crypto",
