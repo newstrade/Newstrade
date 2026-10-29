@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T02:05:36.324Z",
+ "updated": "2026-10-29T02:58:07.130Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1156,
-   "ch": -0.01,
-   "asof": "2026-10-29T02:04:45.000Z"
+   "p": 1.1153,
+   "ch": -0.04,
+   "asof": "2026-10-29T02:57:42.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.333,
-   "ch": 0.02,
-   "asof": "2026-10-29T02:04:45.000Z"
+   "p": 1.3326,
+   "ch": -0.01,
+   "asof": "2026-10-29T02:57:42.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.725,
-   "ch": -0.02,
-   "asof": "2026-10-29T02:05:35.000Z"
+   "p": 157.792,
+   "ch": 0.02,
+   "asof": "2026-10-29T02:58:06.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7062,
-   "ch": 0.07,
-   "asof": "2026-10-29T02:04:45.000Z"
+   "p": 0.7059,
+   "ch": 0.03,
+   "asof": "2026-10-29T02:56:42.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3974,
-   "ch": -0.13,
-   "asof": "2026-10-29T02:05:37.000Z"
+   "p": 1.3978,
+   "ch": -0.1,
+   "asof": "2026-10-29T02:58:05.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8276,
-   "ch": 0,
-   "asof": "2026-10-29T02:05:37.000Z"
+   "p": 0.828,
+   "ch": 0.05,
+   "asof": "2026-10-29T02:58:07.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 79925.15,
-   "ch": -1.65,
-   "asof": "2026-10-29T02:05:32.000Z"
+   "p": 79885.77,
+   "ch": -1.69,
+   "asof": "2026-10-29T02:58:03.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2307.6,
-   "ch": -2.11,
-   "asof": "2026-10-29T02:05:36.000Z"
+   "p": 2310.16,
+   "ch": -2,
+   "asof": "2026-10-29T02:58:02.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,17 +392,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4076.2,
-   "ch": 0.61,
-   "asof": "2026-10-29T01:55:37.000Z"
+   "p": 4054.8,
+   "ch": 0.08,
+   "asof": "2026-10-29T02:48:01.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 101.77,
-   "ch": -0.98,
-   "asof": "2026-10-29T01:55:34.000Z"
+   "p": 101.7,
+   "ch": -1.05,
+   "asof": "2026-10-29T02:48:02.000Z"
   },
   {
    "s": "USD/KES",
@@ -410,15 +410,15 @@
    "d": 2,
    "p": 129.8,
    "ch": 0,
-   "asof": "2026-10-29T01:06:33.000Z"
+   "asof": "2026-10-29T02:24:16.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6009,
-   "ch": -0.02,
-   "asof": "2026-10-29T02:05:38.000Z"
+   "p": 16.6112,
+   "ch": 0.04,
+   "asof": "2026-10-29T02:58:07.000Z"
   },
   {
    "s": "USD/NGN",
@@ -426,23 +426,23 @@
    "d": 2,
    "p": 1341.82,
    "ch": 0,
-   "asof": "2026-10-29T01:06:33.000Z"
+   "asof": "2026-10-29T02:24:16.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 99.66,
-   "ch": -2.59,
-   "asof": "2026-10-29T02:05:27.000Z"
+   "p": 99.96,
+   "ch": -2.3,
+   "asof": "2026-10-29T02:58:04.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2975,
-   "ch": -2.03,
-   "asof": "2026-10-29T02:05:36.000Z"
+   "p": 1.2949,
+   "ch": -2.22,
+   "asof": "2026-10-29T02:58:02.000Z"
   },
   {
    "s": "Apple",
@@ -472,18 +472,18 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 54.02,
-   "ch": 0.66,
-   "asof": "2026-10-29T01:55:37.000Z"
+   "p": 53.55,
+   "ch": -0.22,
+   "asof": "2026-10-29T02:47:53.000Z"
   }
  ],
  "news": [
   [
    "Forex",
-   "med",
-   "New Zealand central bank governor says chances of December hike are 'high'",
+   "high",
+   "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObXh0UVJsVGRQT3BramlrcFMwVVd6TjF4UzdJVUo3YlFkMkR6d05felZaZVN6a1NWN2NPd21VckdBVHhPR2FTbVotdmdzSzNNM1c1bGYwOGtEckNCVU94aDE4MGtXSHRsUTFldFZla2s1SWI2OGdNbW5BUEdJd0R4S3lHOHc5ckFVNFhjTXRNSlU0NzRyWjJPMC1pdU9rLUFrdGIzNk9wZk9DaTVZaDhhQmNmaW5fY2lFVWQ4azA1QWl4dw?oc=5"
+   "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1HWWRBUzNjbGdKUDV0MlFSWXRsaWQwMXpWQXI?oc=5"
   ],
   [
    "Forex",
@@ -516,9 +516,9 @@
   [
    "Stocks",
    "med",
-   "U.S. Stocks Fall as Tech Selloff Deepens",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDB3cDByVmVJQWQ4bzhobm83ZDVVN3MtYXh0VjlYT0xtakhpVkNrUFFHbVpWZEp2UHdpeWIwX0h2eVJqSzdod0t1Y3JxcVBaTzZlUFRKTFNkMDE4LVYxMHNjRGlYb0FsOVdqMnJuVzdHMk0xNVVxWXh4Y0tidlFtbXBUa1lXTVJGOXc1c0VvbjJ6eGVINVY0cEpFZHEtakM1UkFwdVZLVW4ySWlxV0RwNHpnNkpKcUsyRXU4RXN2Zm03QTQ?oc=5"
+   "S&P 500, Nasdaq Futures Dip As Weaker-Than-Expected Alphabet Earnings Reignite AI Spending Worries — GOOGL, MSFT, ORCL, NVDA, MRVL In Focus",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSHFrQlZMOWZ1cW96WjF6VHJLWkI0c0dPcmJweHlhU0swOFh5aW9tMDVEM1BpUzNnQndUVEs3cXpsa2hUX0FPMTFIa0pZc3pFWlJBMzRhbFNLTkhrZThfTTVVVzhUTWNyZm9PMkVvOWdGSDNaQkJZbjB1clJiT1RaamRTUGVMX0ptN3ZwUFEtb3lyQVk?oc=5"
   ],
   [
    "Commodities",
@@ -530,9 +530,9 @@
   [
    "Commodities",
    "med",
-   "UBS Sees $110 Brent by Year-End as Gulf Flows Stay Below Prewar Levels",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcVA5TGwwc3Z6QXdGdlNRM3gta2JTSWRZWldsaEJSdF81RW9ZWm9yQW1hV1BzNUNndVlQQVl6UmRSemNkLWZuSWFlVTlPemxzVmZsUUNXTVJLNzdNVlJSRldNenM5N3NyV3JWNllDbHNfY3JLM3phZXVtejFSSFNlaVl0X1N1R1FCWU9VUDhuVmtLSXkweG5sVk1GX2lVa3lqWFN3Q20wYXMyVmJHSmktMXhvOERHUllQX2ZMMUJBV1Q1WU3SAcgBQVVfeXFMTy1naktUQm0wNklXcTZfTmZoSjFHXzd6Y09RSUQ2dy1XRkYzVk5idG9IbDhuOG5HNGdQV2ZxYm1aSFA4Tm90OFhsMGxsbkFMTzFfb0FBWmYyd1JuUXlOT3o2aDQ3SUt4bVJEY09mLWhvTFBmcVVIUzIwN0xHRDVZYXR3VVdkbkFKdzR3ODZMenZid0ZZSGttME43cUtrU3pHcXphZ3k1Y05XaGFNaUJZTWgxaDd0ZG9Zb0cwTjNpcHA3YXZhZVNTV2U?oc=5"
+   "UBS raises Brent outlook, sees oil at $110/bbl by end-2026",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQk1NWVk2NVlpU28wSXlnbk9TTEJ4ZUZLY3BuVjVBbXlieUFMaTZhSUZIZVk5M1o3WGhKNnU3WFUwVnZVdVgtcndueTJpMDBJenZES1pMcXFtNGFxUEJhdjRORG9EOXYxbmRTdlQxdjZtYXE2eGNrOWZKQ2F1dGUtVmR2akR5dlpRWHlTWDVOUDJWQWhqYkhmdERQOUJ4SDZjNm5JM28zTQ?oc=5"
   ]
  ]
 }
