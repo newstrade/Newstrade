@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T04:58:01.096Z",
+ "updated": "2026-10-29T05:55:20.489Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1147,
-   "ch": -0.09,
-   "asof": "2026-10-29T04:57:44.000Z"
+   "p": 1.1141,
+   "ch": -0.14,
+   "asof": "2026-10-29T05:54:45.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3321,
-   "ch": -0.05,
-   "asof": "2026-10-29T04:57:44.000Z"
+   "p": 1.3313,
+   "ch": -0.11,
+   "asof": "2026-10-29T05:54:45.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.795,
-   "ch": 0.02,
-   "asof": "2026-10-29T04:58:00.000Z"
+   "p": 157.843,
+   "ch": 0.05,
+   "asof": "2026-10-29T05:55:20.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7055,
-   "ch": -0.03,
-   "asof": "2026-10-29T04:56:44.000Z"
+   "p": 0.7051,
+   "ch": -0.09,
+   "asof": "2026-10-29T05:54:45.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3981,
-   "ch": -0.08,
-   "asof": "2026-10-29T04:58:00.000Z"
+   "p": 1.399,
+   "ch": -0.01,
+   "asof": "2026-10-29T05:55:20.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8285,
-   "ch": 0.11,
-   "asof": "2026-10-29T04:57:57.000Z"
+   "p": 0.8291,
+   "ch": 0.18,
+   "asof": "2026-10-29T05:55:20.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80139.37,
-   "ch": -1.38,
-   "asof": "2026-10-29T04:58:00.000Z"
+   "p": 80124.96,
+   "ch": -1.4,
+   "asof": "2026-10-29T05:55:12.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2319.05,
-   "ch": -1.62,
-   "asof": "2026-10-29T04:57:56.000Z"
+   "p": 2320.56,
+   "ch": -1.56,
+   "asof": "2026-10-29T05:55:15.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,17 +392,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4052,
-   "ch": 0.01,
-   "asof": "2026-10-29T04:47:59.000Z"
+   "p": 4044.7,
+   "ch": -0.17,
+   "asof": "2026-10-29T05:45:18.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 101.48,
-   "ch": -1.26,
-   "asof": "2026-10-29T04:47:42.000Z"
+   "p": 101.17,
+   "ch": -1.57,
+   "asof": "2026-10-29T05:45:20.000Z"
   },
   {
    "s": "USD/KES",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6169,
-   "ch": 0.08,
-   "asof": "2026-10-29T04:58:01.000Z"
+   "p": 16.6352,
+   "ch": 0.19,
+   "asof": "2026-10-29T05:55:21.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 100.06,
-   "ch": -2.2,
-   "asof": "2026-10-29T04:57:55.000Z"
+   "p": 100.27,
+   "ch": -1.99,
+   "asof": "2026-10-29T05:55:16.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2958,
-   "ch": -2.15,
-   "asof": "2026-10-29T04:57:50.000Z"
+   "p": 1.2981,
+   "ch": -1.98,
+   "asof": "2026-10-29T05:55:15.000Z"
   },
   {
    "s": "Apple",
@@ -472,9 +472,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.325,
-   "ch": -0.64,
-   "asof": "2026-10-29T04:47:58.000Z"
+   "p": 53.185,
+   "ch": -0.9,
+   "asof": "2026-10-29T05:45:21.000Z"
   }
  ],
  "news": [
@@ -488,23 +488,23 @@
   [
    "Forex",
    "high",
-   "Dollar steady after Fed hold leaves rate path murky",
+   "Euro steady before ECB decision, dollar holds ground as Fed stands pat",
    "Reuters",
    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYmVmOE5mU3JyckhjNGlWelQ5QVdhNzkwU0h1Zkd4bjJ6UGszY2lYem1BRmxjWW95VDBrYzg5NXNIWFhFWmNjNmFlUHZleE01YnNOWjRWVV9LWU1SYS1lRlVoRm15U1FrNjdvbkhtVzA4UWNzREJFWjBmUS1vU1FmcEN5a2loa1VsaHRRN190UHZNRmtvTVR1a0RmUlZwTlBPTmtoVFpURGpudw?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
-   "Yahoo Finance UK",
-   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NeVkwY1dKeWxrcExZc0dzcnlWSUZ4czQtZHIyX1JYUnp5cWE5WFcwNjl3clkxY3dyUjFtbG1FOU43Ny1leHhSaVpCMzFQREhacmFmaTRR?oc=5"
+   "Bitcoin Traders Brace for Swings on $11 Billion Options Expiry",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdG5PdzNDckU4ZE1DNy1ydWVvdk5kbDFlRks4bkpjMlZHenlQUHZ2YW9IX1hSaEZULVhlU0pFMkZuVExkZlVpbHpuYk01aGFjaENPNVBHc1BJVlhWRERUWUc0b251STh3WmdnRThiZzE0VTJ2Z0RyZzY5R0NZcjhxUUdTRWwxQThZUU03WXVHQlV1cTJxd1ZOV2QybzZXaFJtM0J5VlhNY0R3NVg1UGVnVlhn?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin Traders Brace for Swings on $11 Billion Options Expiry",
-   "Bloomberg",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdG5PdzNDckU4ZE1DNy1ydWVvdk5kbDFlRks4bkpjMlZHenlQUHZ2YW9IX1hSaEZULVhlU0pFMkZuVExkZlVpbHpuYk01aGFjaENPNVBHc1BJVlhWRERUWUc0b251STh3WmdnRThiZzE0VTJ2Z0RyZzY5R0NZcjhxUUdTRWwxQThZUU03WXVHQlV1cTJxd1ZOV2QybzZXaFJtM0J5VlhNY0R3NVg1UGVnVlhn?oc=5"
+   "Bitcoin dips below $80,000, liquidating $356 million in crypto longs",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdm9tYUY0UE5tWUNjSk10VEtPR2JWQWpoMkpaM3UtYXloMHZmemxQLVpzdEtnRWZsdkQzcVBFR0lGSENhanJjZ2QxdGhpWThKU1ZMSW1PSEhES2xhckJTMFJGRU00N2syaXB6aUhHWXRSYzVSWTBzM1JhWEwxVV9RYzFIOEtiMGxsLXNSU21kemxyb19qSVNhNVNEQUs1WHVfODNVajU2aFBXSWRSMzNvSXY1ajZHZlBTY293QU5FVDh3OU5IT0F1RGxkYnpMMEN4d0N3d05pS0hBMzQ?oc=5"
   ],
   [
    "Stocks",
