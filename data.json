@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T10:01:19.268Z",
+ "updated": "2026-10-29T10:58:42.835Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1137,
-   "ch": -0.18,
-   "asof": "2026-10-29T10:00:46.000Z"
+   "p": 1.1152,
+   "ch": -0.04,
+   "asof": "2026-10-29T10:57:42.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3312,
-   "ch": -0.11,
-   "asof": "2026-10-29T10:00:46.000Z"
+   "p": 1.3325,
+   "ch": -0.02,
+   "asof": "2026-10-29T10:57:42.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.975,
-   "ch": 0.14,
-   "asof": "2026-10-29T10:01:18.000Z"
+   "p": 158.005,
+   "ch": 0.15,
+   "asof": "2026-10-29T10:58:42.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7035,
-   "ch": -0.31,
-   "asof": "2026-10-29T10:00:46.000Z"
+   "p": 0.7038,
+   "ch": -0.27,
+   "asof": "2026-10-29T10:58:42.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3994,
-   "ch": 0.01,
-   "asof": "2026-10-29T10:01:18.000Z"
+   "p": 1.3987,
+   "ch": -0.04,
+   "asof": "2026-10-29T10:58:41.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8289,
-   "ch": 0.16,
-   "asof": "2026-10-29T10:01:17.000Z"
+   "p": 0.8284,
+   "ch": 0.1,
+   "asof": "2026-10-29T10:58:42.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80062.8,
-   "ch": -1.48,
-   "asof": "2026-10-29T10:01:11.000Z"
+   "p": 80165.6,
+   "ch": -1.35,
+   "asof": "2026-10-29T10:58:41.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2317.41,
-   "ch": -1.69,
-   "asof": "2026-10-29T10:01:14.000Z"
+   "p": 2324.25,
+   "ch": -1.4,
+   "asof": "2026-10-29T10:58:41.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,17 +392,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4037.9,
-   "ch": -0.34,
-   "asof": "2026-10-29T09:51:07.000Z"
+   "p": 4039,
+   "ch": -0.31,
+   "asof": "2026-10-29T10:48:29.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 101.6,
-   "ch": -1.15,
-   "asof": "2026-10-29T09:51:12.000Z"
+   "p": 101.53,
+   "ch": -1.22,
+   "asof": "2026-10-29T10:48:34.000Z"
   },
   {
    "s": "USD/KES",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6297,
-   "ch": 0.15,
-   "asof": "2026-10-29T10:01:19.000Z"
+   "p": 16.6151,
+   "ch": 0.07,
+   "asof": "2026-10-29T10:58:42.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 100.16,
-   "ch": -2.1,
-   "asof": "2026-10-29T10:01:17.000Z"
+   "p": 100.41,
+   "ch": -1.86,
+   "asof": "2026-10-29T10:58:39.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2906,
-   "ch": -2.55,
-   "asof": "2026-10-29T10:01:15.000Z"
+   "p": 1.2918,
+   "ch": -2.46,
+   "asof": "2026-10-29T10:58:40.000Z"
   },
   {
    "s": "Apple",
@@ -472,9 +472,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 52.6,
-   "ch": -1.99,
-   "asof": "2026-10-29T09:51:07.000Z"
+   "p": 52.92,
+   "ch": -1.39,
+   "asof": "2026-10-29T10:48:40.000Z"
   }
  ],
  "news": [
@@ -502,16 +502,9 @@
   [
    "Crypto",
    "med",
-   "Prediction: This Cryptocurrency Will Outperform Bitcoin in 2027",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVFlYZ2lnMkNlbVREV25fR1VZbUhvWTZqbGtwRkZRS2lmWGhWemF2YXlRRkhucE5GUVJkanlCV055eWFsb1R3eS15aTMtZXRwSTR6eXE4LUlHZW5RZ1FxbTNqTDhiQUJEbXJHVk1fUlFvWTgtNFcxQ3ZpVE9kTHVvUGhNZ21FbkRBNjVoem1nUnd3ZkQ0Q0g4Z1FVejlFUzRXSFBxbXdZdmlIZ0c1MlQ0andzcUg?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "U.S. Tech Stocks Drop on AI Spending Concerns",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkFuTEkyc1ZYSmVVcjRIZXVWeXNCbEpsUk9HOXJ1LTcxOWk2WnZjWkpreFp3am1kQ0tSWmtuaHNVYmMyb1ROTE43YlU0VGRad21XS3JyYmYyZlV5aWthaWJQMkJjcVRPUW41djFtem94X2cxWE9Qcm9qYjFmLW1nMHRtRnVRakRsVlg0cjl5U0w3QQ?oc=5"
+   "Bitcoin Traders Brace for Swings on $11 Billion Options Expiry",
+   "Bloomberg",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdG5PdzNDckU4ZE1DNy1ydWVvdk5kbDFlRks4bkpjMlZHenlQUHZ2YW9IX1hSaEZULVhlU0pFMkZuVExkZlVpbHpuYk01aGFjaENPNVBHc1BJVlhWRERUWUc0b251STh3WmdnRThiZzE0VTJ2Z0RyZzY5R0NZcjhxUUdTRWwxQThZUU03WXVHQlV1cTJxd1ZOV2QybzZXaFJtM0J5VlhNY0R3NVg1UGVnVlhn?oc=5"
   ],
   [
    "Stocks",
@@ -519,6 +512,13 @@
    "Tech Rally Stalls as Alphabet, Samsung Disappoint: Markets Wrap",
    "Bloomberg",
    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd1B6V3JFX19tOWhyZHVKZzFGZ1k0aXcyNERXb0JrMFNjQVpEaFZMeVMxU1FUVnJpWmFrM3JQbjJ5cXRsU0NBekRsOUM2WEQ2Zlh3MWluWUU2c0poWTk1ZDBGMC13SUtxX1lVdjEtQW1PbWdXRE95ZFJqZ2JmZEwxeW5VbVVORWlzMlJTVHdnZ2NkaWR3?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
+   "U.S. Tech Stocks Drop on AI Spending Concerns",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkFuTEkyc1ZYSmVVcjRIZXVWeXNCbEpsUk9HOXJ1LTcxOWk2WnZjWkpreFp3am1kQ0tSWmtuaHNVYmMyb1ROTE43YlU0VGRad21XS3JyYmYyZlV5aWthaWJQMkJjcVRPUW41djFtem94X2cxWE9Qcm9qYjFmLW1nMHRtRnVRakRsVlg0cjl5U0w3QQ?oc=5"
   ],
   [
    "Commodities",
