@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T11:53:59.621Z",
+ "updated": "2026-10-30T13:08:23.990Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1196,
-   "ch": 0.13,
-   "asof": "2026-10-30T11:53:45.000Z"
+   "p": 1.1174,
+   "ch": -0.06,
+   "asof": "2026-10-30T13:07:42.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3427,
-   "ch": 0.39,
-   "asof": "2026-10-30T11:53:45.000Z"
+   "p": 1.3401,
+   "ch": 0.19,
+   "asof": "2026-10-30T13:07:42.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.059,
-   "ch": -0.37,
-   "asof": "2026-10-30T11:53:59.000Z"
+   "p": 157.214,
+   "ch": -0.28,
+   "asof": "2026-10-30T13:08:23.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7029,
-   "ch": -0.03,
-   "asof": "2026-10-30T11:52:45.000Z"
+   "p": 0.7027,
+   "ch": -0.06,
+   "asof": "2026-10-30T13:06:42.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3963,
-   "ch": -0.17,
-   "asof": "2026-10-30T11:53:59.000Z"
+   "p": 1.3968,
+   "ch": -0.14,
+   "asof": "2026-10-30T13:08:22.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8206,
-   "ch": -0.39,
-   "asof": "2026-10-30T11:53:59.000Z"
+   "p": 0.8229,
+   "ch": -0.11,
+   "asof": "2026-10-30T13:08:24.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77287.65,
-   "ch": -0.65,
-   "asof": "2026-10-30T11:53:57.000Z"
+   "p": 77171.92,
+   "ch": -0.8,
+   "asof": "2026-10-30T13:08:19.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2232.49,
-   "ch": -0.72,
-   "asof": "2026-10-30T11:53:55.000Z"
+   "p": 2227.7,
+   "ch": -0.94,
+   "asof": "2026-10-30T13:08:21.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,17 +392,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3980.7,
-   "ch": -1.26,
-   "asof": "2026-10-30T11:43:57.000Z"
+   "p": 3964.1,
+   "ch": -1.67,
+   "asof": "2026-10-30T12:58:21.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 104.26,
-   "ch": 2.22,
-   "asof": "2026-10-30T11:43:51.000Z"
+   "p": 103.85,
+   "ch": 1.81,
+   "asof": "2026-10-30T12:58:21.000Z"
   },
   {
    "s": "USD/KES",
@@ -410,15 +410,15 @@
    "d": 2,
    "p": 129.8,
    "ch": -0.04,
-   "asof": "2026-10-30T11:51:27.000Z"
+   "asof": "2026-10-30T12:58:44.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6677,
-   "ch": 0.37,
-   "asof": "2026-10-30T11:54:00.000Z"
+   "p": 16.6838,
+   "ch": 0.46,
+   "asof": "2026-10-30T13:08:24.000Z"
   },
   {
    "s": "USD/NGN",
@@ -426,23 +426,23 @@
    "d": 2,
    "p": 1344.94,
    "ch": -0.02,
-   "asof": "2026-10-30T11:51:27.000Z"
+   "asof": "2026-10-30T12:58:44.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 96.43,
-   "ch": 0.99,
-   "asof": "2026-10-30T11:53:57.000Z"
+   "p": 96.49,
+   "ch": 1.05,
+   "asof": "2026-10-30T13:08:21.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2469,
-   "ch": 1,
-   "asof": "2026-10-30T11:53:58.000Z"
+   "p": 1.2421,
+   "ch": 0.61,
+   "asof": "2026-10-30T13:08:18.000Z"
   },
   {
    "s": "Apple",
@@ -472,37 +472,37 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 50.345,
-   "ch": -3.89,
-   "asof": "2026-10-30T11:43:56.000Z"
+   "p": 50.05,
+   "ch": -4.45,
+   "asof": "2026-10-30T12:58:22.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "high",
-   "Yen Extends Gains Against Dollar After BOJ Keeps Rates Steady",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQjl5b1VtRkx0VV9PR2h6SDVuREZrVXVUSEF3WkpTdXRJckxtak9RcEhsazFKbUpqd2ZSZnRadURZNDFtM3JNS3dZcjcxNWV4UDRzT2JwZzh5R2w4a2xtWURxdG8xbU5aQ0tFai1PZnNiSVlFVjVqSlZwTmozVGdvbEJJM2VKTl9nWFJyVW41Z2pPY3pxc2RlY1BraHM5N2FoMHpzSU1PSGFpOEFBT0VR?oc=5"
+   "ECB policymakers bring rate hike debate into the open",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaXBaNVFtei1NSWFTR2VVOHkwRXBVSmpTbHlyREpqbTFZdExYTlY1SFktQ1lmckNKZjVMaTZzWUhvS051WmhJQlBBOXRXZ0pZbHNzRU5fQTdLeGh6eU1HbTdFNkxBY2dzcTUycm1EMnpBZTFuelRnaldGOFc3VU1ZOGxMUU1wXzE4UmY1c1BMZ2FDRjdlOXVlaWZqcl83Ny1KbnRWSA?oc=5"
   ],
   [
    "Forex",
-   "med",
-   "Russia’s Central Bank Sees Only Modest Further Drop in Key Rate",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTBua2dpZkdVZVpzX1IzMFRqbEg1ZG5jRkpBcWNBcmtCckNubkh3UlpsRDhTamE2bTh4WHZtOXFYdHNiUUFZVGs2LUxkajhJY2JKUkYxbzdrTG93N3hzOUhsdHNINUVOSkduUF9PVGxpSzBPYUE5SVFfNFU4ZWZMMGdKRWE5MnpVSW9Gb1QzZmdtWmpndkgzQWx6cU1nOTkwZ21odktpdUhpRmF5bHZMNQ?oc=5"
+   "high",
+   "Yen Extends Gains Against Dollar After BOJ Keeps Rates Steady",
+   "Bloomberg",
+   "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQjl5b1VtRkx0VV9PR2h6SDVuREZrVXVUSEF3WkpTdXRJckxtak9RcEhsazFKbUpqd2ZSZnRadURZNDFtM3JNS3dZcjcxNWV4UDRzT2JwZzh5R2w4a2xtWURxdG8xbU5aQ0tFai1PZnNiSVlFVjVqSlZwTmozVGdvbEJJM2VKTl9nWFJyVW41Z2pPY3pxc2RlY1BraHM5N2FoMHpzSU1PSGFpOEFBT0VR?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Binance Estimates $6.3 Billion Hacked in Crypto's Biggest Heist",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNW1MdGRoUFFwNW96WUJ5SHUzUUdhT1NVeXVZN2dBc0hQeGxzNkNvSTNiMG4xQTFHTTVCdVEwaTdJSmNDaUtXaU5KRWI2VmdSRUNybkNzeHdvbXVaZWZnZ01EbEdzdTZpemNiY0E0dDdTLTNGa3dCNXpqU1JEVXZFOHJGekRMY3hOMUFwRVBGckNZdTd2WUREakdBY1EtRV90SXM5aC1sRFdvMzJGT29wOQ?oc=5"
+   "Binance says $6.3bn stolen in biggest crypto heist in history: What we know",
+   "Al Jazeera",
+   "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVnJ4SFBuOW12Z3RPRkxVWUJBa3VQN1lsV1NQbVhRRHQ5MnVJZUhHQjhJeDNOaThMQ2tCM3hrcnR5VzM5N05Jam9tdW9LWmh0UnpfSXVGNGJDbGxvZE9jUnYtcXhvdzd1RmxCekZzdmcta21EUXVMSEt1Y01KQ0ZuTlQ2T09rU05rd1BKbWQtV3o0aU1RS0Mzdjc2djA0NVZkMXRQa3RSYk84TDFfRHNCcktpZ2xGZ9IBuwFBVV95cUxNcUR4QktscFhVSlZHaEdoVlhSUzNBcWlocW5oY3lHWUY1bjZhS0xNZElsc2pCeER1SGI1WVVnbUZESXIyY3lrVnN4RXlBXzd1RHpJSmVJWFBQdTRfTHZsSnJFMWJoSjdzWUhPWHJ3SmNnRzFxM3hta25CMUY4VmYtRzBKbWtBVFBCLTRXTEJqcUs4aTB0cXhpakxjaEFWV3hxdUZuTlM1RXZMWGozN1V6QmZXRUhMcGNtNGhn?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin, digital assets tumble as Binance says $6.3 billion impacted in suspected record crypto hack",
+   "North Korean hackers linked to record-breaking $6.3 billion Binance crypto heist",
    "Yahoo Finance",
    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT2UxWkZ6bE9JSWJzdHlMUTE4aW04WUlETVFWQ0xjZGF0WXVwbm53RktXclJVdWFzY1ZyV3dXWUVjTTZudXMyZ0w2LVFUV3NMam1LNTNNZldRNXFHUTNQVkpIV1BJZ24wOHd2QjR0OE9WZU90UURsMTB1REV2Uy12Zl9HWGZRU3hWdzVlWnJmd0t6c09aVW9uMGwyNkdKZTJRMUZEZWJndklncXhHV3ZvNVd6UjdCbFAwdUsyd3lzUE9BQkEta0F0V284ZXRxdzBYTkk1aWRRRQ?oc=5"
   ],
@@ -510,7 +510,7 @@
    "Stocks",
    "med",
    "Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap",
-   "Bloomberg.com",
+   "Bloomberg",
    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWZRMVRrOG1xQ1NBUE55MXNIWTFyTFBfUDBwVnUwbDRHOHNibGNUazhpRVVJamItaGc5UndhUngwMTFOLUE1M3dscmdtSDBvWUJrNmoyWnFGZ2tBcm9VZjZ5MXcyQXFuSDZmWmE4WVlheXZBeTVTci1CXzFQMUxnMkpFRXBVTjh0SlI0N0hobUZzOHh3?oc=5"
   ],
   [
@@ -523,16 +523,16 @@
   [
    "Commodities",
    "med",
-   "Brent 2026 view tops $90 for first time since May as MidEast stability remains elusive",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc2tucERiZ1ZmYnJvRTF0cDVtZFJrUTlGNWdxZ1RDdkVQS0VVcUY3SXc1ZEdCZUlJaDdUa1NRVFVtM3F3dkpMbURwSVVhcDBDbmwzaUpCN3E1N2xhc3UtbnVIT3RFZGtzaUhaaUlBTDlqMG9kYjItRnhLOEx4Z1JidUdVOGhnU1NHUEpFNE54TjNCOUVXSVF2eWVkMEhVeFhGZktmMVpoYnFrS1NnM2w4bVRyYk5HWkJqMTJ2elpIQmtXbDUtbnJoSjdB?oc=5"
+   "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHd1Q1FTWEFlUlUtZ1FQRWJfYm1QYm5KZW1jTVA2cS01R0cxb0xsNVNrdXJVNm44VTd2ZWN4WnY1R0tla0JuM3NVUmpBVF9GLTl2WEdFRmNUTFpEVUpHVHQzdUREUFBwN2ZEZ2xGcThUa0lKamdzaEY2c19pRy1PcXZCd2hPUmRfTmQ4bUNGWkFPbTM3Z04zLXB2bUdtclBvVmpmQmhqcEloSTJUOHg2ZzRsbEI?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Oil Prices Rise After Hormuz Tanker Attack, Houthi Claims Stoke Supply Fears",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5"
+   "Brent 2026 view tops $90 for first time since May as MidEast stability remains elusive",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc2tucERiZ1ZmYnJvRTF0cDVtZFJrUTlGNWdxZ1RDdkVQS0VVcUY3SXc1ZEdCZUlJaDdUa1NRVFVtM3F3dkpMbURwSVVhcDBDbmwzaUpCN3E1N2xhc3UtbnVIT3RFZGtzaUhaaUlBTDlqMG9kYjItRnhLOEx4Z1JidUdVOGhnU1NHUEpFNE54TjNCOUVXSVF2eWVkMEhVeFhGZktmMVpoYnFrS1NnM2w4bVRyYk5HWkJqMTJ2elpIQmtXbDUtbnJoSjdB?oc=5"
   ]
  ]
 }
