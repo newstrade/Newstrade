@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T02:58:47.081Z",
+ "updated": "2026-10-30T03:58:48.543Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -227,7 +227,16 @@
    "act": ""
   },
   {
-   "iso": "2026-10-29T22:30:00-04:00",
+   "iso": "2026-10-29T23:02:00-04:00",
+   "tag": "JPY",
+   "imp": "high",
+   "name": "BOJ Outlook Report",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-10-29T23:02:00-04:00",
    "tag": "JPY",
    "imp": "high",
    "name": "BOJ Policy Rate",
@@ -236,19 +245,10 @@
    "act": ""
   },
   {
-   "iso": "2026-10-29T22:30:00-04:00",
+   "iso": "2026-10-29T23:02:00-04:00",
    "tag": "JPY",
    "imp": "high",
    "name": "Monetary Policy Statement",
-   "fc": "",
-   "prev": "",
-   "act": ""
-  },
-  {
-   "iso": "2026-10-29T22:31:00-04:00",
-   "tag": "JPY",
-   "imp": "high",
-   "name": "BOJ Outlook Report",
    "fc": "",
    "prev": "",
    "act": ""
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1199,
-   "ch": 0.16,
-   "asof": "2026-10-30T02:58:43.000Z"
+   "p": 1.1194,
+   "ch": 0.12,
+   "asof": "2026-10-30T03:58:45.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3396,
-   "ch": 0.16,
-   "asof": "2026-10-30T02:58:43.000Z"
+   "p": 1.3392,
+   "ch": 0.13,
+   "asof": "2026-10-30T03:58:45.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.528,
-   "ch": -0.08,
-   "asof": "2026-10-30T02:58:46.000Z"
+   "p": 157.396,
+   "ch": -0.16,
+   "asof": "2026-10-30T03:58:47.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.704,
-   "ch": 0.13,
-   "asof": "2026-10-30T02:58:43.000Z"
+   "p": 0.7042,
+   "ch": 0.16,
+   "asof": "2026-10-30T03:58:45.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3966,
-   "ch": -0.15,
-   "asof": "2026-10-30T02:58:45.000Z"
+   "p": 1.3972,
+   "ch": -0.11,
+   "asof": "2026-10-30T03:58:47.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8212,
-   "ch": -0.32,
-   "asof": "2026-10-30T02:58:46.000Z"
+   "p": 0.8219,
+   "ch": -0.23,
+   "asof": "2026-10-30T03:58:47.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77152.71,
-   "ch": -0.82,
-   "asof": "2026-10-30T02:58:40.000Z"
+   "p": 78012.46,
+   "ch": 0.28,
+   "asof": "2026-10-30T03:58:42.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2203.56,
-   "ch": -2.01,
-   "asof": "2026-10-30T02:58:42.000Z"
+   "p": 2231.79,
+   "ch": -0.75,
+   "asof": "2026-10-30T03:58:43.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,17 +392,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4008.3,
-   "ch": -0.57,
-   "asof": "2026-10-30T02:48:43.000Z"
+   "p": 4002.3,
+   "ch": -0.72,
+   "asof": "2026-10-30T03:48:38.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 103.49,
-   "ch": 1.46,
-   "asof": "2026-10-30T02:48:45.000Z"
+   "p": 103.29,
+   "ch": 1.26,
+   "asof": "2026-10-30T03:48:44.000Z"
   },
   {
    "s": "USD/KES",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.612,
-   "ch": 0.03,
-   "asof": "2026-10-30T02:58:47.000Z"
+   "p": 16.6136,
+   "ch": 0.04,
+   "asof": "2026-10-30T03:58:49.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.07,
-   "ch": -0.44,
-   "asof": "2026-10-30T02:58:44.000Z"
+   "p": 96.96,
+   "ch": 1.54,
+   "asof": "2026-10-30T03:58:44.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.217,
-   "ch": -1.42,
-   "asof": "2026-10-30T02:58:44.000Z"
+   "p": 1.244,
+   "ch": 0.76,
+   "asof": "2026-10-30T03:58:41.000Z"
   },
   {
    "s": "Apple",
@@ -472,32 +472,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 51.38,
-   "ch": -1.91,
-   "asof": "2026-10-30T02:48:40.000Z"
+   "p": 51.39,
+   "ch": -1.89,
+   "asof": "2026-10-30T03:48:35.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "high",
-   "Egypt's central bank makes first rate hike since March 2024",
+   "Yen steady before BOJ, AI jitters drive Treasury rally, weigh on dollar",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaWs3LWxWaXNJdzQ2aGROTlV4a1JtdjBpX21DZmxsYWQ0MF82eWk4b0VxeUVoamFGb3Y4SVBCQlY5ZTltM2t5ajYwYUJ0WlJpeDEtSkY2VFFUN3ZvQ2U1MEQyeWRfMHluY2NMNHlmaTFhWVN5cE1xYWFaazdPeDB0M1ptTEFQNTYxbG9hXzg4dG5lWDVINEJwWWFmbVdEcjdqcTVXOXl0UTVRR1U?oc=5"
+   "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMHRlb2xFdjF1SUl3NUktRkR1WEpsOVktNG9kRlhNQWhVZm0wMGdPdlYzYUpxQVdTV3FnVkF4ekhmOUYyX3R1d1JQTmlGRGdrYVB6LTlWNTA4YXIzb1lOMDF0QW4zb25aaVNkRE5RaWlEQUZteXZMWnVmcGVTU19yVFlBY1FZZFIyWHRaYUhZbERiOHZvdXFhNUtIakZ5UmFjVy1vVzVjZmwzX0NKTHNXWWZFZ2M1bGlIVXNuZ3hn?oc=5"
   ],
   [
    "Forex",
-   "med",
-   "Japan Vows to Fortify Cyber Defenses as GMO Hack Hits Forex Brokers",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNVNyQzhTdWE5emJCNzR3MWlBZGRvYTl5Sk80LTY1d3JuN3NxTVRWYUIxdkR1bWVLMkYxVktCQzdidkViUjRmaXNxcVRhbFgtcHg2RGh4SXFCYnNPWHg2NUl5OVRTUjhBZFRvU2FxcmVjZlVadFlfR0dHRmRqN3RJaGJwcXl1N3BzbnZvX0o0X2FGQlVaM015VVNDZS1pdG9fSEs1azUzOEpzZWVLZlR4eDVNRHVzUQ?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbl9LV3Z6eEFpLVBKcmR2ZG9YM1lNRmZBTGRQUF9qeVRLVmlaYnc2ZDdkNERRd3VPTTNtQ0dkRGluRG56czhmbUJKaFNYU1NSX1k0VllaY2l3bGxpNTBOOG1acWdmcW90ZW5UMVF1OU11OG1HOXhZaEF3b0lucWZpLUpQaldUMEV0V1BXU3lKUXBndXBBMGtyMzJDLVFzSzZ0MGViYlNhMGJETXFUd1l0Q0s2TmNGeDFHS2c?oc=5"
+   "high",
+   "Yen Holds Gains Against Dollar After BOJ Keeps Rates Steady: JPY/USD",
+   "Bloomberg",
+   "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQjl5b1VtRkx0VV9PR2h6SDVuREZrVXVUSEF3WkpTdXRJckxtak9RcEhsazFKbUpqd2ZSZnRadURZNDFtM3JNS3dZcjcxNWV4UDRzT2JwZzh5R2w4a2xtWURxdG8xbU5aQ0tFai1PZnNiSVlFVjVqSlZwTmozVGdvbEJJM2VKTl9nWFJyVW41Z2pPY3pxc2RlY1BraHM5N2FoMHpzSU1PSGFpOEFBT0VR?oc=5"
   ],
   [
    "Crypto",
@@ -505,6 +498,13 @@
    "Bitcoin tumbles below $78,000, extending losses as Binance security scare rattles crypto markets",
    "CNBC",
    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbi1kcVNYWHc2TXJmY2R5ajNFdy0zaUxQZFVZeTEtdmo4Vk1XbGJzM2p2cUdvSU8yS05zdDNaRmR3Z0R6MXpsUGplZVpjcFdVMHJscUZpRFZVdGFMQXdQQzV6NE16QUg0aTBfSU1mUFFCc2IwcGlMMWliV2hqbW5JOUlOSjkzSXVmMFBHbEJwUThkbHkyWnFXd29BeWFtQl9SaGRJWdIBqgFBVV95cUxNR3lRVHNvRWxOY21XeW9NZnFCb2JxRlpSbUxaRXM5NldrMWdIVmJCejhWZ0NZZ21VMWR0d0ZMQUNZTlM5Y3lKZjBKeDJYTkhpaVl5NE5ZZ2hSalhSU0JFemlFdmF5aTZIUjZfUkUySUVEUHhTRkxNZGJCQXk3Rml2S1gyUWw3TmVQR3l1Z2hBQUNTU09Pa1hWcEtWVXhxYTYxa01xSjZxQ3NhZw?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbl9LV3Z6eEFpLVBKcmR2ZG9YM1lNRmZBTGRQUF9qeVRLVmlaYnc2ZDdkNERRd3VPTTNtQ0dkRGluRG56czhmbUJKaFNYU1NSX1k0VllaY2l3bGxpNTBOOG1acWdmcW90ZW5UMVF1OU11OG1HOXhZaEF3b0lucWZpLUpQaldUMEV0V1BXU3lKUXBndXBBMGtyMzJDLVFzSzZ0MGViYlNhMGJETXFUd1l0Q0s2TmNGeDFHS2c?oc=5"
   ],
   [
    "Stocks",
@@ -516,16 +516,9 @@
   [
    "Stocks",
    "med",
-   "Asia Stocks Under Pressure, Haven Bid Boosts Bonds: Markets Wrap",
-   "Bloomberg",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWZRMVRrOG1xQ1NBUE55MXNIWTFyTFBfUDBwVnUwbDRHOHNibGNUazhpRVVJamItaGc5UndhUngwMTFOLUE1M3dscmdtSDBvWUJrNmoyWnFGZ2tBcm9VZjZ5MXcyQXFuSDZmWmE4WVlheXZBeTVTci1CXzFQMUxnMkpFRXBVTjh0SlI0N0hobUZzOHh3?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Oil rises on supply concerns as Houthis attack Saudi Arabia",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE5IUkRJTVJvTFE5SUdOdFFCM2tVN1lKcDI3ci01cjlleVVuXzB1SjI0MDhuWkhwakZFSzl3SGNUZk9uUUYwdHNfMGJOUXExaW1RdmRRVy1Cd0tHb3RqblJCQWczeXdORDVKbVMxMGFrbnVMM3FCY2h5Xzl6T0ZoeTBtbGdnbW9jdWF6VEtqNi14ZnlFaVVpb0xZcHlGTDhtM0ZmY2RYZ2Q?oc=5"
+   "U.S. stock futures sink, Nasdaq down 2% as Amazon, Intel earnings underwhelm",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN3BsVkRQZGpDVUx3bC1nOVUxZFVxcTdNdWk5ZHB6SFJpNjlRNjBoNUNFME9TUENNZXVNczFjeFNHM1c0Wloya2dXenBtSlNHRmV5QTc4bUxLaUJIeTc1ZjFBbFpUNHVUNXJOMl95M3QtZGxOcEpmYWJSczExdVNUeF9sOEhWTUlJMVFCOWhzVU9qcS10SkFF?oc=5"
   ],
   [
    "Commodities",
@@ -533,6 +526,13 @@
    "ANZ Raises Oil Price Forecast as Market Tightens on Iran War",
    "Bloomberg",
    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaVo3eEdoNjYtcFBpS1AwZjJRWUN4N3pXN0tOUHBRcUpSRllDeThuc1ctSk5JTm53Y0l1Qm5yLVFXS1QxWVV1emJLa0RSUzBTS0lBRWFybVRSZlFtcXpKY3pTZDNwdzdKeWo5ZlpLN09LSG92YXBKT0llQXo2ZnpxOUU4cmJINV9raVVYZlkxUjlpc0lmMFd5WUQ2VWJWYzRqNE95aG96Zkk4aTAyejdoNg?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Oil rises on supply concerns as Houthis attack Saudi Arabia",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE5IUkRJTVJvTFE5SUdOdFFCM2tVN1lKcDI3ci01cjlleVVuXzB1SjI0MDhuWkhwakZFSzl3SGNUZk9uUUYwdHNfMGJOUXExaW1RdmRRVy1Cd0tHb3RqblJCQWczeXdORDVKbVMxMGFrbnVMM3FCY2h5Xzl6T0ZoeTBtbGdnbW9jdWF6VEtqNi14ZnlFaVVpb0xZcHlGTDhtM0ZmY2RYZ2Q?oc=5"
   ]
  ]
 }
