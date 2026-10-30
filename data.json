@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T02:08:53.390Z",
+ "updated": "2026-10-30T02:58:47.081Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -306,63 +306,63 @@
    "d": 4,
    "p": 1.1199,
    "ch": 0.16,
-   "asof": "2026-10-30T02:08:42.000Z"
+   "asof": "2026-10-30T02:58:43.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3394,
-   "ch": 0.14,
-   "asof": "2026-10-30T02:08:42.000Z"
+   "p": 1.3396,
+   "ch": 0.16,
+   "asof": "2026-10-30T02:58:43.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.478,
-   "ch": -0.11,
-   "asof": "2026-10-30T02:08:51.000Z"
+   "p": 157.528,
+   "ch": -0.08,
+   "asof": "2026-10-30T02:58:46.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7036,
-   "ch": 0.07,
-   "asof": "2026-10-30T02:08:42.000Z"
+   "p": 0.704,
+   "ch": 0.13,
+   "asof": "2026-10-30T02:58:43.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3964,
-   "ch": -0.16,
-   "asof": "2026-10-30T02:08:53.000Z"
+   "p": 1.3966,
+   "ch": -0.15,
+   "asof": "2026-10-30T02:58:45.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8211,
-   "ch": -0.33,
-   "asof": "2026-10-30T02:08:53.000Z"
+   "p": 0.8212,
+   "ch": -0.32,
+   "asof": "2026-10-30T02:58:46.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 76545.94,
-   "ch": -1.6,
-   "asof": "2026-10-30T02:08:49.000Z"
+   "p": 77152.71,
+   "ch": -0.82,
+   "asof": "2026-10-30T02:58:40.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2190.45,
-   "ch": -2.59,
-   "asof": "2026-10-30T02:08:49.000Z"
+   "p": 2203.56,
+   "ch": -2.01,
+   "asof": "2026-10-30T02:58:42.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,17 +392,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4018.9,
-   "ch": -0.31,
-   "asof": "2026-10-30T01:58:52.000Z"
+   "p": 4008.3,
+   "ch": -0.57,
+   "asof": "2026-10-30T02:48:43.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 104.34,
-   "ch": 2.29,
-   "asof": "2026-10-30T01:58:52.000Z"
+   "p": 103.49,
+   "ch": 1.46,
+   "asof": "2026-10-30T02:48:45.000Z"
   },
   {
    "s": "USD/KES",
@@ -410,15 +410,15 @@
    "d": 2,
    "p": 129.85,
    "ch": 0,
-   "asof": "2026-10-30T01:45:44.000Z"
+   "asof": "2026-10-30T02:49:45.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6092,
-   "ch": 0.01,
-   "asof": "2026-10-30T02:08:53.000Z"
+   "p": 16.612,
+   "ch": 0.03,
+   "asof": "2026-10-30T02:58:47.000Z"
   },
   {
    "s": "USD/NGN",
@@ -426,23 +426,23 @@
    "d": 2,
    "p": 1345.27,
    "ch": 0,
-   "asof": "2026-10-30T01:45:44.000Z"
+   "asof": "2026-10-30T02:49:45.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 93.86,
-   "ch": -1.7,
-   "asof": "2026-10-30T02:08:50.000Z"
+   "p": 95.07,
+   "ch": -0.44,
+   "asof": "2026-10-30T02:58:44.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2111,
-   "ch": -1.9,
-   "asof": "2026-10-30T02:08:50.000Z"
+   "p": 1.217,
+   "ch": -1.42,
+   "asof": "2026-10-30T02:58:44.000Z"
   },
   {
    "s": "Apple",
@@ -472,9 +472,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 51.655,
-   "ch": -1.38,
-   "asof": "2026-10-30T01:58:51.000Z"
+   "p": 51.38,
+   "ch": -1.91,
+   "asof": "2026-10-30T02:48:40.000Z"
   }
  ],
  "news": [
@@ -516,23 +516,23 @@
   [
    "Stocks",
    "med",
-   "20 Years of S&P 500 History Show: This Simple Strategy Is Only 8.3% Less Than \"Perfect\"",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaVB4UVdLQWJJNkx3blIzeGFDMzd6SHNuX2prMUJrMjRjWUU0ZDJFSjBoMmpqVVl6b0lQbWwtTkVWNkpGa1JXcjhGcmtrN1JYTklsd2NIRUZ2dkxFQ3UtdUJ1bUJnU2JUSzZpcFZFQkVWNjFBMGpzMVEyd0tzY2xqTVN6UVpoSFAtVWdxR1ZmX0E?oc=5"
+   "Asia Stocks Under Pressure, Haven Bid Boosts Bonds: Markets Wrap",
+   "Bloomberg",
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWZRMVRrOG1xQ1NBUE55MXNIWTFyTFBfUDBwVnUwbDRHOHNibGNUazhpRVVJamItaGc5UndhUngwMTFOLUE1M3dscmdtSDBvWUJrNmoyWnFGZ2tBcm9VZjZ5MXcyQXFuSDZmWmE4WVlheXZBeTVTci1CXzFQMUxnMkpFRXBVTjh0SlI0N0hobUZzOHh3?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHd1Q1FTWEFlUlUtZ1FQRWJfYm1QYm5KZW1jTVA2cS01R0cxb0xsNVNrdXJVNm44VTd2ZWN4WnY1R0tla0JuM3NVUmpBVF9GLTl2WEdFRmNUTFpEVUpHVHQzdUREUFBwN2ZEZ2xGcThUa0lKamdzaEY2c19pRy1PcXZCd2hPUmRfTmQ4bUNGWkFPbTM3Z04zLXB2bUdtclBvVmpmQmhqcEloSTJUOHg2ZzRsbEI?oc=5"
+   "Oil rises on supply concerns as Houthis attack Saudi Arabia",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE5IUkRJTVJvTFE5SUdOdFFCM2tVN1lKcDI3ci01cjlleVVuXzB1SjI0MDhuWkhwakZFSzl3SGNUZk9uUUYwdHNfMGJOUXExaW1RdmRRVy1Cd0tHb3RqblJCQWczeXdORDVKbVMxMGFrbnVMM3FCY2h5Xzl6T0ZoeTBtbGdnbW9jdWF6VEtqNi14ZnlFaVVpb0xZcHlGTDhtM0ZmY2RYZ2Q?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Agnico Eagle Earnings: Improved on the Stronger Gold Price, but Volumes Softer and Unit Costs Higher",
-   "Morningstar",
-   "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOERuOHJsb1czOFBPWjMxTTBJdzJiVmstRzMtMnRLRVpsNGRqRC14ckx5c1U2aHhBbWdFWEhzVXBiRWxDQ2UzQXJLYjZ5OFZ0Snpad0Vod0U2VXZrRW0xMV9vcVNSelJ5bF9DeTlkQnFiWTBnem14LTdWWkJoNjRZdTVrVldGd2VGYzJkNHVKd0FQOUxQUVkzZXFxeUtmRWQ5aThJQTJZZXFTTmJ3UVFEQjJKVlZ5M1RQaEZVdVZkMjMxd2kyb3c?oc=5"
+   "ANZ Raises Oil Price Forecast as Market Tightens on Iran War",
+   "Bloomberg",
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaVo3eEdoNjYtcFBpS1AwZjJRWUN4N3pXN0tOUHBRcUpSRllDeThuc1ctSk5JTm53Y0l1Qm5yLVFXS1QxWVV1emJLa0RSUzBTS0lBRWFybVRSZlFtcXpKY3pTZDNwdzdKeWo5ZlpLN09LSG92YXBKT0llQXo2ZnpxOUU4cmJINV9raVVYZlkxUjlpc0lmMFd5WUQ2VWJWYzRqNE95aG96Zkk4aTAyejdoNg?oc=5"
   ]
  ]
 }
