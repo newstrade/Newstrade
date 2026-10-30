@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T05:56:02.594Z",
+ "updated": "2026-10-30T07:11:34.465Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -254,7 +254,7 @@
    "act": ""
   },
   {
-   "iso": "2026-10-30T01:30:00-04:00",
+   "iso": "2026-10-30T02:30:00-04:00",
    "tag": "JPY",
    "imp": "high",
    "name": "BOJ Press Conference",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1187,
-   "ch": 0.05,
-   "asof": "2026-10-30T05:55:42.000Z"
+   "p": 1.1188,
+   "ch": 0.06,
+   "asof": "2026-10-30T07:10:44.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3388,
-   "ch": 0.1,
-   "asof": "2026-10-30T05:55:42.000Z"
+   "p": 1.3401,
+   "ch": 0.19,
+   "asof": "2026-10-30T07:10:44.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.626,
-   "ch": -0.01,
-   "asof": "2026-10-30T05:56:02.000Z"
+   "p": 157.643,
+   "ch": 0,
+   "asof": "2026-10-30T07:11:34.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7038,
-   "ch": 0.1,
-   "asof": "2026-10-30T05:54:42.000Z"
+   "p": 0.7033,
+   "ch": 0.03,
+   "asof": "2026-10-30T07:10:44.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.397,
-   "ch": -0.12,
-   "asof": "2026-10-30T05:56:02.000Z"
+   "p": 1.3969,
+   "ch": -0.13,
+   "asof": "2026-10-30T07:11:34.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8224,
-   "ch": -0.17,
-   "asof": "2026-10-30T05:56:02.000Z"
+   "p": 0.8227,
+   "ch": -0.13,
+   "asof": "2026-10-30T07:11:34.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 78389.28,
-   "ch": 0.77,
-   "asof": "2026-10-30T05:55:56.000Z"
+   "p": 78331.38,
+   "ch": 0.69,
+   "asof": "2026-10-30T07:11:31.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2237.08,
-   "ch": -0.52,
-   "asof": "2026-10-30T05:56:01.000Z"
+   "p": 2248.81,
+   "ch": 0,
+   "asof": "2026-10-30T07:11:30.000Z"
   },
   {
    "s": "S&P 500",
@@ -370,7 +370,7 @@
    "d": 2,
    "p": 7720.39,
    "ch": -0.3,
-   "asof": "2026-10-29T20:32:46.000Z"
+   "asof": "2026-10-29T20:00:00.000Z"
   },
   {
    "s": "Nasdaq",
@@ -384,25 +384,25 @@
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52342.56,
+   "p": 52342.6,
    "ch": -0.25,
-   "asof": "2026-10-29T20:33:51.000Z"
+   "asof": "2026-10-29T20:00:00.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4012.3,
-   "ch": -0.47,
-   "asof": "2026-10-30T05:45:57.000Z"
+   "p": 3991.3,
+   "ch": -0.99,
+   "asof": "2026-10-30T07:01:32.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 103.32,
-   "ch": 1.29,
-   "asof": "2026-10-30T05:45:43.000Z"
+   "p": 102.97,
+   "ch": 0.95,
+   "asof": "2026-10-30T07:01:30.000Z"
   },
   {
    "s": "USD/KES",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6208,
-   "ch": 0.08,
-   "asof": "2026-10-30T05:56:03.000Z"
+   "p": 16.6274,
+   "ch": 0.12,
+   "asof": "2026-10-30T07:11:35.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 97.9,
-   "ch": 2.53,
-   "asof": "2026-10-30T05:56:00.000Z"
+   "p": 97.93,
+   "ch": 2.56,
+   "asof": "2026-10-30T07:11:31.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2567,
-   "ch": 1.79,
-   "asof": "2026-10-30T05:56:02.000Z"
+   "p": 1.2609,
+   "ch": 2.13,
+   "asof": "2026-10-30T07:11:28.000Z"
   },
   {
    "s": "Apple",
@@ -472,25 +472,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 51.525,
-   "ch": -1.63,
-   "asof": "2026-10-30T05:46:03.000Z"
+   "p": 50.765,
+   "ch": -3.08,
+   "asof": "2026-10-30T07:01:33.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "high",
-   "Yen gains after BOJ, AI jitters drive Treasury rally, weigh on dollar",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMHRlb2xFdjF1SUl3NUktRkR1WEpsOVktNG9kRlhNQWhVZm0wMGdPdlYzYUpxQVdTV3FnVkF4ekhmOUYyX3R1d1JQTmlGRGdrYVB6LTlWNTA4YXIzb1lOMDF0QW4zb25aaVNkRE5RaWlEQUZteXZMWnVmcGVTU19yVFlBY1FZZFIyWHRaYUhZbERiOHZvdXFhNUtIakZ5UmFjVy1vVzVjZmwzX0NKTHNXWWZFZ2M1bGlIVXNuZ3hn?oc=5"
+   "Yen Extends Gains Against Dollar After BOJ Keeps Rates Steady",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQjl5b1VtRkx0VV9PR2h6SDVuREZrVXVUSEF3WkpTdXRJckxtak9RcEhsazFKbUpqd2ZSZnRadURZNDFtM3JNS3dZcjcxNWV4UDRzT2JwZzh5R2w4a2xtWURxdG8xbU5aQ0tFai1PZnNiSVlFVjVqSlZwTmozVGdvbEJJM2VKTl9nWFJyVW41Z2pPY3pxc2RlY1BraHM5N2FoMHpzSU1PSGFpOEFBT0VR?oc=5"
   ],
   [
    "Forex",
    "med",
-   "Yen Strengthens on French Debt Woes, Hits One-Year High Against Euro",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2hmYU9LR1JPN1c1UVA0WTlNUVdzelpVcjc5UTMzS1lsdUVYYWpJN25QemlvbnpWckdLN2tybThTWUYxam1sbkNDZkZVMUszejN0clEtVkJMb1NFcktCVmFJVkZueWI5WHRIZEhzY0xRZUZNWk9rRFhoTmFQVDdCUWJlSWY0QUdERU5UVTZoMWZXcWVrcmlDVHRaX2pJUHRqaHQwMDZLLU9BaTR2TlhJYWFNVDRBQQ?oc=5"
+   "Colombia central bank seen hiking rates on Friday, though hold not ruled out",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdFp1alp6VnhrcGhGS1hFZXFkV3BZSXdSUW5aZzFadXZvR0Q0UUYzSHY4Sk1LSE1lQWJPWGVTTFFMd001NlpubTFCMlQ0d3QzTmowdUdfZE02b1ZPLVRJX3ROX1daMWtHbC10Q1pBQkNkRUJJNmJrTGlHcURyMWhzbURsWFhSS0NDeEphbDhuLTlNYThyNGIxYW91YzhqZk44ZERiaXItbDR0UGJmU1ZubzU1ZW05YUtRNzVDN1d3ZE0?oc=5"
   ],
   [
    "Crypto",
@@ -502,7 +502,7 @@
   [
    "Crypto",
    "med",
-   "Crypto giant Binance hit by 'largest hack in history'",
+   "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
    "BBC",
    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ocUpaWWozVHpsR0I5N0xtb0dNdlFJUWRiWWJYN2xoY2NOS3E0MzJxdFpMS29xU20yd3Mtc0c2dmtfU1FTa3BBZF8zY3BvYndzRnBnY3NXSEl3d0U?oc=5"
   ],
