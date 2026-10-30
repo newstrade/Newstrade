@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T16:57:45.839Z",
+ "updated": "2026-10-30T17:52:50.621Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,105 +304,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1159,
-   "ch": -0.2,
-   "asof": "2026-10-30T16:57:42.000Z"
+   "p": 1.1156,
+   "ch": -0.22,
+   "asof": "2026-10-30T17:52:43.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.34,
-   "ch": 0.19,
-   "asof": "2026-10-30T16:57:42.000Z"
+   "p": 1.3387,
+   "ch": 0.09,
+   "asof": "2026-10-30T17:52:43.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.441,
-   "ch": -0.13,
-   "asof": "2026-10-30T16:57:45.000Z"
+   "p": 157.435,
+   "ch": -0.14,
+   "asof": "2026-10-30T17:52:40.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7037,
-   "ch": 0.09,
-   "asof": "2026-10-30T16:56:42.000Z"
+   "p": 0.7031,
+   "ch": 0,
+   "asof": "2026-10-30T17:52:43.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3948,
-   "ch": -0.28,
-   "asof": "2026-10-30T16:57:43.000Z"
+   "p": 1.3956,
+   "ch": -0.22,
+   "asof": "2026-10-30T17:52:50.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8237,
-   "ch": -0.01,
-   "asof": "2026-10-30T16:57:45.000Z"
+   "p": 0.8241,
+   "ch": 0.04,
+   "asof": "2026-10-30T17:52:50.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77217.68,
-   "ch": -0.74,
-   "asof": "2026-10-30T16:57:40.000Z"
+   "p": 77002.64,
+   "ch": -1.01,
+   "asof": "2026-10-30T17:52:48.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2227.36,
-   "ch": -0.95,
-   "asof": "2026-10-30T16:57:42.000Z"
+   "p": 2236.86,
+   "ch": -0.53,
+   "asof": "2026-10-30T17:52:48.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7581.31,
-   "ch": -1.8,
-   "asof": "2026-10-30T16:57:45.000Z"
+   "p": 7562.63,
+   "ch": -2.04,
+   "asof": "2026-10-30T17:52:50.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 25421.363,
-   "ch": -2.92,
-   "asof": "2026-10-30T16:57:44.000Z"
+   "p": 25320.52,
+   "ch": -3.3,
+   "asof": "2026-10-30T17:52:47.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 51864.76,
-   "ch": -0.91,
-   "asof": "2026-10-30T16:57:46.000Z"
+   "p": 51786.55,
+   "ch": -1.06,
+   "asof": "2026-10-30T17:52:49.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3905.6,
-   "ch": -3.12,
-   "asof": "2026-10-30T16:47:41.000Z"
+   "p": 3891.8,
+   "ch": -3.46,
+   "asof": "2026-10-30T17:42:47.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 104.37,
-   "ch": 2.32,
-   "asof": "2026-10-30T16:47:44.000Z"
+   "p": 104.74,
+   "ch": 2.69,
+   "asof": "2026-10-30T17:42:49.000Z"
   },
   {
    "s": "USD/KES",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.7128,
-   "ch": 0.64,
-   "asof": "2026-10-30T16:57:46.000Z"
+   "p": 16.7312,
+   "ch": 0.75,
+   "asof": "2026-10-30T17:52:50.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,49 +432,49 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 94.84,
-   "ch": -0.68,
-   "asof": "2026-10-30T16:57:44.000Z"
+   "p": 94.08,
+   "ch": -1.47,
+   "asof": "2026-10-30T17:52:45.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2456,
-   "ch": 0.89,
-   "asof": "2026-10-30T16:57:44.000Z"
+   "p": 1.2429,
+   "ch": 0.67,
+   "asof": "2026-10-30T17:52:45.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 347.09,
-   "ch": -0.52,
-   "asof": "2026-10-30T16:57:45.000Z"
+   "p": 345.18,
+   "ch": -1.07,
+   "asof": "2026-10-30T17:52:51.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 398.935,
-   "ch": -1.08,
-   "asof": "2026-10-30T16:57:45.000Z"
+   "p": 396.68,
+   "ch": -1.64,
+   "asof": "2026-10-30T17:52:49.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 203.925,
-   "ch": -4.56,
-   "asof": "2026-10-30T16:57:45.000Z"
+   "p": 202.427,
+   "ch": -5.26,
+   "asof": "2026-10-30T17:52:51.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 49.215,
-   "ch": -6.04,
-   "asof": "2026-10-30T16:47:40.000Z"
+   "p": 49.205,
+   "ch": -6.06,
+   "asof": "2026-10-30T17:42:47.000Z"
   }
  ],
  "news": [
@@ -495,16 +495,16 @@
   [
    "Crypto",
    "med",
-   "North Korean hackers likelinked to record-breaking $6.3 billion Binance crypto heist",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT2UxWkZ6bE9JSWJzdHlMUTE4aW04WUlETVFWQ0xjZGF0WXVwbm53RktXclJVdWFzY1ZyV3dXWUVjTTZudXMyZ0w2LVFUV3NMam1LNTNNZldRNXFHUTNQVkpIV1BJZ24wOHd2QjR0OE9WZU90UURsMTB1REV2Uy12Zl9HWGZRU3hWdzVlWnJmd0t6c09aVW9uMGwyNkdKZTJRMUZEZWJndklncXhHV3ZvNVd6UjdCbFAwdUsyd3lzUE9BQkEta0F0V284ZXRxdzBYTkk1aWRRRQ?oc=5"
+   "From Bitcoin to Binance: Crypto terms and what they mean",
+   "BBC",
+   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41eXZCYVB1MGRuVTgwNXMwcmJwMU1DenZtSGxyNlBZTU40OUxtT0JBbjZtZ3NKUXFmZTM2R2swZTJudGNZTV9GaVBsM05jRjBUZ0ctSy1rMDd0UQ?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Binance Estimates $6.3 Billion Hacked in Crypto's Biggest Heist",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNW1MdGRoUFFwNW96WUJ5SHUzUUdhT1NVeXVZN2dBc0hQeGxzNkNvSTNiMG4xQTFHTTVCdVEwaTdJSmNDaUtXaU5KRWI2VmdSRUNybkNzeHdvbXVaZWZnZ01EbEdzdTZpemNiY0E0dDdTLTNGa3dCNXpqU1JEVXZFOHJGekRMY3hOMUFwRVBGckNZdTd2WUREakdBY1EtRV90SXM5aC1sRFdvMzJGT29wOQ?oc=5"
+   "Binance's $6.3 billion hack: What we know and what comes next",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYi1UZkphVnk0R09lOVpxcVRzSmJobkt0YVBGdDRBMkZ5d2dXdjNxa3k0VHB0bXZ3VkJzSFhHbGVGeFdCeF9vQW5UWkxxTUZzMU9hYU9xQVJZUXFOcEpNR0JjRFlEWmZURWNTSmd6RFRHOGZEcGJKakxCdExkZnhQRldRSzZ4eE52dHFBR09QNVFockE1b0pYaC1ZOGxOQndROVZVa05n0gGrAUFVX3lxTFBwNlVCU19abWpVbER1RGxqTHdyTExNei1IMzI4V0p5UTNoQUtuT21TQ1MtaDdzbWp0cDFTYmk5RlNiejJISlR2UzJIUTVVTGtVaHFVa2NrakNXTjlhMFM0eUtNWF9mN2ZSRzAxVm50VGpBYkdRd2EtQUQ3Z05tUlp4TXhHTW9zWDV0LXQ5WXo2cG1OeWM4Q1RaeDd6VUYycGpfVlRUYjgxUW5Cdw?oc=5"
   ],
   [
    "Stocks",
