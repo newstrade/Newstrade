@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T09:03:20.258Z",
+ "updated": "2026-10-30T10:01:33.080Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,65 +304,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1193,
-   "ch": 0.11,
-   "asof": "2026-10-30T09:02:46.000Z"
+   "p": 1.1202,
+   "ch": 0.19,
+   "asof": "2026-10-30T10:00:43.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3413,
-   "ch": 0.28,
-   "asof": "2026-10-30T09:02:46.000Z"
+   "p": 1.3429,
+   "ch": 0.4,
+   "asof": "2026-10-30T10:00:43.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.329,
-   "ch": -0.2,
-   "asof": "2026-10-30T09:03:20.000Z"
+   "p": 157.304,
+   "ch": -0.22,
+   "asof": "2026-10-30T10:01:32.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7034,
-   "ch": 0.04,
-   "asof": "2026-10-30T09:02:46.000Z"
+   "p": 0.7033,
+   "ch": 0.03,
+   "asof": "2026-10-30T10:00:43.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3968,
-   "ch": -0.14,
-   "asof": "2026-10-30T09:03:20.000Z"
+   "p": 1.3957,
+   "ch": -0.21,
+   "asof": "2026-10-30T10:01:32.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8221,
-   "ch": -0.21,
-   "asof": "2026-10-30T09:03:20.000Z"
+   "p": 0.821,
+   "ch": -0.34,
+   "asof": "2026-10-30T10:01:33.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77888.9,
-   "ch": 0.13,
-   "asof": "2026-10-30T09:03:17.000Z"
+   "p": 77509.07,
+   "ch": -0.36,
+   "asof": "2026-10-30T10:01:29.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2227.12,
-   "ch": -0.96,
-   "asof": "2026-10-30T09:03:14.000Z"
+   "p": 2223.8,
+   "ch": -1.11,
+   "asof": "2026-10-30T10:01:32.000Z"
   },
   {
    "s": "S&P 500",
@@ -392,17 +392,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4006.8,
-   "ch": -0.61,
-   "asof": "2026-10-30T08:53:19.000Z"
+   "p": 3999.2,
+   "ch": -0.8,
+   "asof": "2026-10-30T09:51:31.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 103.56,
-   "ch": 1.53,
-   "asof": "2026-10-30T08:53:19.000Z"
+   "p": 104.1,
+   "ch": 2.06,
+   "asof": "2026-10-30T09:51:33.000Z"
   },
   {
    "s": "USD/KES",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6234,
-   "ch": 0.1,
-   "asof": "2026-10-30T09:03:21.000Z"
+   "p": 16.6452,
+   "ch": 0.23,
+   "asof": "2026-10-30T10:01:33.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 97.23,
-   "ch": 1.83,
-   "asof": "2026-10-30T09:03:15.000Z"
+   "p": 96.51,
+   "ch": 1.07,
+   "asof": "2026-10-30T10:01:29.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2592,
-   "ch": 1.99,
-   "asof": "2026-10-30T09:03:15.000Z"
+   "p": 1.2503,
+   "ch": 1.27,
+   "asof": "2026-10-30T10:01:29.000Z"
   },
   {
    "s": "Apple",
@@ -472,9 +472,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 50.97,
-   "ch": -2.69,
-   "asof": "2026-10-30T08:53:04.000Z"
+   "p": 50.81,
+   "ch": -3,
+   "asof": "2026-10-30T09:51:27.000Z"
   }
  ],
  "news": [
@@ -495,16 +495,16 @@
   [
    "Crypto",
    "med",
-   "Where Binance's $6.3 billion breach ranks in crypto's biggest hacks and heists",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUklCT0Zncjc4TE93UXRGOFczR29GTTg1WllYUXVhWko5YWpRZ05DcXZKb0ZSMnhWS3VnNnBBUzJtRThXSHdYUlRPdC1scGtPb1BCb3hJM0JRWFVpVE1rUGFiUFBtV2hleHVVdl8wRW03eDdLdGc3TkpvdzY4UFNiTXJ3ZkEzZmNIY0ZUVkt4WHdYQVBtQkZhcm9GU2xiRXVUaUVndXlpYmxKQnpXamZiUV83OHZpU3U3Z2tFLQ?oc=5"
+   "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+   "BBC",
+   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ocUpaWWozVHpsR0I5N0xtb0dNdlFJUWRiWWJYN2xoY2NOS3E0MzJxdFpMS29xU20yd3Mtc0c2dmtfU1FTa3BBZF8zY3BvYndzRnBnY3NXSEl3d0U?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Binance says $6.3bn stolen in biggest crypto heist in history",
-   "Al Jazeera",
-   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR2l6N2lrZThFSm1uSnJyMTZFZ1E3czZHdnNLYnBCSm5DN0s0YW5MVXJIRnk3VEktZmxyMTdxemh4cGdVT2xWdFQzTThpRXFISFRZVnlsaEEzQXM1RUJhYy1pM1o0aWVnSHJGTWFEbXcyMEVrc1g4LXZ4OEYxaGt1MFdOY1dTVHlIcEFQX183RnJrdkJLa284ZXlWVEJLWF9RaUZ5YXpLX3VxV0FfVkhyMkp0Z3E1SVJx0gG-AUFVX3lxTFBNeUs0MjdQdXFna0tZUjJWTGhKNFhSWVc0U2s0bVVqbVAzVUVZUWd3Wm5ReVdMVkM1VHZGUFhWSE9za3VFRG1qQnF0cGJsTXQ3WjZKbEN6SnUxTDJrYjBNd0c4eTFQQUFfMFdWZ09icnhLRU0wejVuSDJHOFVmVHRGMGVGODVLV0ItSlM5eWdIVUhJR1F6UEpfOFFUQ3FoVHk3QURNYjYtM01VSThJLTRWVldfNmlqRFM4VzNYRUE?oc=5"
+   "Where Binance's $6.3 billion breach ranks in crypto's biggest hacks and heists",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUklCT0Zncjc4TE93UXRGOFczR29GTTg1WllYUXVhWko5YWpRZ05DcXZKb0ZSMnhWS3VnNnBBUzJtRThXSHdYUlRPdC1scGtPb1BCb3hJM0JRWFVpVE1rUGFiUFBtV2hleHVVdl8wRW03eDdLdGc3TkpvdzY4UFNiTXJ3ZkEzZmNIY0ZUVkt4WHdYQVBtQkZhcm9GU2xiRXVUaUVndXlpYmxKQnpXamZiUV83OHZpU3U3Z2tFLQ?oc=5"
   ],
   [
    "Stocks",
@@ -530,9 +530,9 @@
   [
    "Commodities",
    "med",
-   "Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks from war",
+   "Brent 2026 view tops $90 for first time since May as MidEast stability remains elusive",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE5IUkRJTVJvTFE5SUdOdFFCM2tVN1lKcDI3ci01cjlleVVuXzB1SjI0MDhuWkhwakZFSzl3SGNUZk9uUUYwdHNfMGJOUXExaW1RdmRRVy1Cd0tHb3RqblJCQWczeXdORDVKbVMxMGFrbnVMM3FCY2h5Xzl6T0ZoeTBtbGdnbW9jdWF6VEtqNi14ZnlFaVVpb0xZcHlGTDhtM0ZmY2RYZ2Q?oc=5"
+   "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc2tucERiZ1ZmYnJvRTF0cDVtZFJrUTlGNWdxZ1RDdkVQS0VVcUY3SXc1ZEdCZUlJaDdUa1NRVFVtM3F3dkpMbURwSVVhcDBDbmwzaUpCN3E1N2xhc3UtbnVIT3RFZGtzaUhaaUlBTDlqMG9kYjItRnhLOEx4Z1JidUdVOGhnU1NHUEpFNE54TjNCOUVXSVF2eWVkMEhVeFhGZktmMVpoYnFrS1NnM2w4bVRyYk5HWkJqMTJ2elpIQmtXbDUtbnJoSjdB?oc=5"
   ]
  ]
 }
