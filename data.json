@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T13:08:23.990Z",
+ "updated": "2026-10-30T14:10:18.923Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -304,105 +304,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1174,
-   "ch": -0.06,
-   "asof": "2026-10-30T13:07:42.000Z"
+   "p": 1.114,
+   "ch": -0.37,
+   "asof": "2026-10-30T14:09:43.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3401,
-   "ch": 0.19,
-   "asof": "2026-10-30T13:07:42.000Z"
+   "p": 1.3375,
+   "ch": 0,
+   "asof": "2026-10-30T14:09:43.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.214,
-   "ch": -0.28,
-   "asof": "2026-10-30T13:08:23.000Z"
+   "p": 157.238,
+   "ch": -0.26,
+   "asof": "2026-10-30T14:10:18.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7027,
-   "ch": -0.06,
-   "asof": "2026-10-30T13:06:42.000Z"
+   "p": 0.7021,
+   "ch": -0.14,
+   "asof": "2026-10-30T14:08:43.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3968,
-   "ch": -0.14,
-   "asof": "2026-10-30T13:08:22.000Z"
+   "p": 1.3974,
+   "ch": -0.09,
+   "asof": "2026-10-30T14:10:19.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8229,
-   "ch": -0.11,
-   "asof": "2026-10-30T13:08:24.000Z"
+   "p": 0.8249,
+   "ch": 0.13,
+   "asof": "2026-10-30T14:10:18.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77171.92,
-   "ch": -0.8,
-   "asof": "2026-10-30T13:08:19.000Z"
+   "p": 76801.26,
+   "ch": -1.27,
+   "asof": "2026-10-30T14:10:12.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2227.7,
-   "ch": -0.94,
-   "asof": "2026-10-30T13:08:21.000Z"
+   "p": 2216.76,
+   "ch": -1.42,
+   "asof": "2026-10-30T14:10:17.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7720.39,
-   "ch": -0.3,
-   "asof": "2026-10-29T20:32:46.000Z"
+   "p": 7618.6,
+   "ch": -1.32,
+   "asof": "2026-10-30T14:10:19.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 26184.725,
-   "ch": -1.38,
-   "asof": "2026-10-29T21:15:59.000Z"
+   "p": 25586.246,
+   "ch": -2.29,
+   "asof": "2026-10-30T14:10:16.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52342.56,
-   "ch": -0.25,
-   "asof": "2026-10-29T20:33:51.000Z"
+   "p": 52052.19,
+   "ch": -0.55,
+   "asof": "2026-10-30T14:10:18.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3964.1,
-   "ch": -1.67,
-   "asof": "2026-10-30T12:58:21.000Z"
+   "p": 3928.4,
+   "ch": -2.55,
+   "asof": "2026-10-30T14:00:18.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 103.85,
-   "ch": 1.81,
-   "asof": "2026-10-30T12:58:21.000Z"
+   "p": 104.34,
+   "ch": 2.29,
+   "asof": "2026-10-30T14:00:16.000Z"
   },
   {
    "s": "USD/KES",
@@ -416,9 +416,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6838,
-   "ch": 0.46,
-   "asof": "2026-10-30T13:08:24.000Z"
+   "p": 16.695,
+   "ch": 0.53,
+   "asof": "2026-10-30T14:10:19.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,52 +432,59 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 96.49,
-   "ch": 1.05,
-   "asof": "2026-10-30T13:08:21.000Z"
+   "p": 94.62,
+   "ch": -0.91,
+   "asof": "2026-10-30T14:10:14.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2421,
-   "ch": 0.61,
-   "asof": "2026-10-30T13:08:18.000Z"
+   "p": 1.2341,
+   "ch": -0.04,
+   "asof": "2026-10-30T14:10:09.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 348.91,
-   "ch": 1.48,
-   "asof": "2026-10-29T20:00:01.000Z"
+   "p": 345.14,
+   "ch": -1.08,
+   "asof": "2026-10-30T14:10:17.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 403.3,
-   "ch": -0.23,
-   "asof": "2026-10-29T20:00:00.000Z"
+   "p": 396.221,
+   "ch": -1.76,
+   "asof": "2026-10-30T14:10:17.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 213.66,
-   "ch": -0.8,
-   "asof": "2026-10-29T20:00:00.000Z"
+   "p": 207.56,
+   "ch": -2.86,
+   "asof": "2026-10-30T14:10:18.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 50.05,
-   "ch": -4.45,
-   "asof": "2026-10-30T12:58:22.000Z"
+   "p": 49.395,
+   "ch": -5.7,
+   "asof": "2026-10-30T14:00:18.000Z"
   }
  ],
  "news": [
+  [
+   "Forex",
+   "med",
+   "Swiss central bank posts bumper $23bn profit thanks to gold, foreign assets",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTkhEenBXSkttV0hkb1VlT1hGYWxmc2lQY0t2SGFramF6ZUE1b1hlcVpGLXN2VmJFVXkxZEVnNVdoTHpvV0JKcVBjVS12MWNGVkJVTEg3bEEzdWJmc08yakhRZmw2VEtQWkNBUzlGaGpfTldiQzg0eW02czgzVzV4OGdab1hVa1hwS25rY1930gGTAUFVX3lxTE56cVlCUW1fSUtuSU02Yk5ZUXVpYzAweTFwek9IQ20zX0JQRkZoUm1acE5BRkhHQnlRRjF2d0ktbnBPWF9LR2dqSGpPQzF0RktZZmNfSjJsYVhYaS1Mc01fTEZoR2stZmlKZDZmZ1pTZk9KS19KWkZET2dQaUpUelVKYmZQYV9RQURmMmN0N1hyV0lfTQ?oc=5"
+  ],
   [
    "Forex",
    "high",
@@ -486,25 +493,18 @@
    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaXBaNVFtei1NSWFTR2VVOHkwRXBVSmpTbHlyREpqbTFZdExYTlY1SFktQ1lmckNKZjVMaTZzWUhvS051WmhJQlBBOXRXZ0pZbHNzRU5fQTdLeGh6eU1HbTdFNkxBY2dzcTUycm1EMnpBZTFuelRnaldGOFc3VU1ZOGxMUU1wXzE4UmY1c1BMZ2FDRjdlOXVlaWZqcl83Ny1KbnRWSA?oc=5"
   ],
   [
-   "Forex",
-   "high",
-   "Yen Extends Gains Against Dollar After BOJ Keeps Rates Steady",
-   "Bloomberg",
-   "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQjl5b1VtRkx0VV9PR2h6SDVuREZrVXVUSEF3WkpTdXRJckxtak9RcEhsazFKbUpqd2ZSZnRadURZNDFtM3JNS3dZcjcxNWV4UDRzT2JwZzh5R2w4a2xtWURxdG8xbU5aQ0tFai1PZnNiSVlFVjVqSlZwTmozVGdvbEJJM2VKTl9nWFJyVW41Z2pPY3pxc2RlY1BraHM5N2FoMHpzSU1PSGFpOEFBT0VR?oc=5"
+   "Crypto",
+   "med",
+   "Binance Suspends Transactions After It Is Targeted in Biggest-Ever Cyber Heist",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbEREMjNtM29XdElLQVFoU1JvZ1REMUxNMjZkOHQ2X2x3ZDZsVGI4dHZkVDNKUzkzalFFLTdkVG5mY2NwNGYwQjRSVGN5aVB0ZHdZZkdGa2lFUXBkTS1tcmpmZkZJRGxZYzF0NFRtOGhiSTBIa0pHbjF1VGN5LU9VYy1XN3cyRnJCd3ZkUV84TVlMRUlIZTdBN0VrbjZoVjNkZWZrMzVWaFJOaDJRaUVaSFdDNERpVVg5MnNSXw?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Binance says $6.3bn stolen in biggest crypto heist in history: What we know",
-   "Al Jazeera",
-   "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVnJ4SFBuOW12Z3RPRkxVWUJBa3VQN1lsV1NQbVhRRHQ5MnVJZUhHQjhJeDNOaThMQ2tCM3hrcnR5VzM5N05Jam9tdW9LWmh0UnpfSXVGNGJDbGxvZE9jUnYtcXhvdzd1RmxCekZzdmcta21EUXVMSEt1Y01KQ0ZuTlQ2T09rU05rd1BKbWQtV3o0aU1RS0Mzdjc2djA0NVZkMXRQa3RSYk84TDFfRHNCcktpZ2xGZ9IBuwFBVV95cUxNcUR4QktscFhVSlZHaEdoVlhSUzNBcWlocW5oY3lHWUY1bjZhS0xNZElsc2pCeER1SGI1WVVnbUZESXIyY3lrVnN4RXlBXzd1RHpJSmVJWFBQdTRfTHZsSnJFMWJoSjdzWUhPWHJ3SmNnRzFxM3hta25CMUY4VmYtRzBKbWtBVFBCLTRXTEJqcUs4aTB0cXhpakxjaEFWV3hxdUZuTlM1RXZMWGozN1V6QmZXRUhMcGNtNGhn?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "North Korean hackers linked to record-breaking $6.3 billion Binance crypto heist",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT2UxWkZ6bE9JSWJzdHlMUTE4aW04WUlETVFWQ0xjZGF0WXVwbm53RktXclJVdWFzY1ZyV3dXWUVjTTZudXMyZ0w2LVFUV3NMam1LNTNNZldRNXFHUTNQVkpIV1BJZ24wOHd2QjR0OE9WZU90UURsMTB1REV2Uy12Zl9HWGZRU3hWdzVlWnJmd0t6c09aVW9uMGwyNkdKZTJRMUZEZWJndklncXhHV3ZvNVd6UjdCbFAwdUsyd3lzUE9BQkEta0F0V284ZXRxdzBYTkk1aWRRRQ?oc=5"
+   "How big a deal is the $6.3bn crypto heist, who did it, and are investments safe?",
+   "The Guardian",
+   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWDIweFVpeWJwY0FXWnpIaVFvMFAwN21hLWctbkdYMTZ1U2Jpd1lRa1hWQldMbE9iYkpjM3ZoTHhFT2pWeUtsUXZIRWVxblBZc0JIY3pXMThaOWNmQ2FOejZrMm1DbGNUZC0xRFc4a25laENfX3JBNHFNZzY5alNwLS1mZEx5bXFSYTN4U045V2lvWmdQdmhUamlnMEEzckFucHJR?oc=5"
   ],
   [
    "Stocks",
@@ -516,9 +516,9 @@
   [
    "Stocks",
    "med",
-   "Wall Street ends lower as Alphabet revenue miss revives AI capex jitters",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5"
+   "Wall Street sell-off continues as investors question returns on massive AI spending",
+   "CNN",
+   "https://news.google.com/rss/articles/CBMickFVX3lxTFByUnNNYXM0dTNpeXAwcGJGWnBKODNxWEZFaHFVR3ZwZFpqb2ZSX1VDVjdxVnc2aElIYk1MNFRtd2NEUE81dnZGbGZBN25CRUJIWHJUQnpOdEMxVXlyTUd2UDRFUmlhSE5JMmNKeFpibzgtZw?oc=5"
   ],
   [
    "Commodities",
