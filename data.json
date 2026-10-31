@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T21:45:39.180Z",
+ "updated": "2026-10-31T22:46:40.085Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77393.48,
-   "ch": 0.25,
-   "asof": "2026-10-31T21:45:36.000Z"
+   "p": 77476.1,
+   "ch": 0.35,
+   "asof": "2026-10-31T22:46:28.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2250.78,
-   "ch": 0.43,
-   "asof": "2026-10-31T21:45:29.000Z"
+   "p": 2255,
+   "ch": 0.62,
+   "asof": "2026-10-31T22:46:38.000Z"
   },
   {
    "s": "S&P 500",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.65,
-   "ch": -0.59,
-   "asof": "2026-10-31T21:45:35.000Z"
+   "p": 95.5,
+   "ch": -0.75,
+   "asof": "2026-10-31T22:46:37.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.251,
-   "ch": -0.27,
-   "asof": "2026-10-31T21:45:34.000Z"
+   "p": 1.2507,
+   "ch": -0.3,
+   "asof": "2026-10-31T22:46:36.000Z"
   },
   {
    "s": "Apple",
@@ -516,9 +516,9 @@
   [
    "Stocks",
    "med",
-   "3 Unstoppable S&P 500 Stocks to Buy in November",
+   "After Meta, Could These Be Wall Street’s Next Blockbuster Stock Splits?",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVVJJUHd1Mmx3WEJfSkk2ZTVLWmVydnd1c1FjYjRkaE43ZWttUXVGS1NQWmQ1S25QZERNN3ZIWGMtcTNGNnlqeVhYY1o0b2dMSTZ1UjBrcndaeTE5Qzgyc2lyU1JuRmg4Y3hlTmlLdjFfVVcyOHNOdWdXVS1ZMUc4dUM5SlhKQkJ5dVg3Z3dzSkdGUzFQVnc?oc=5"
+   "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2NWZlcwUGdyRzMyb3VVemlNZTcyaTBROEZMZld4UXRmRHQ3MF8yeTRjdUJlR2xuMVFBNHMyN2xDcS1CTTlhVkwyZTNnSi12Z1FFYnk3T3o4U0R4eEhCOVVyZjJoYnFkUFNvQ2UyN3lLOVhWWkZ2Skh3UEc0bHp5MWg1MTB0eFgzZWktYjdfV2E0U1lhcnVr?oc=5"
   ],
   [
    "Commodities",
