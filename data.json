@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T02:57:19.696Z",
+ "updated": "2026-10-31T03:55:33.822Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77298.96,
-   "ch": 0.13,
-   "asof": "2026-10-31T02:57:17.000Z"
+   "p": 77009.27,
+   "ch": -0.25,
+   "asof": "2026-10-31T03:55:30.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2243.2,
-   "ch": 0.09,
-   "asof": "2026-10-31T02:57:14.000Z"
+   "p": 2236.32,
+   "ch": -0.22,
+   "asof": "2026-10-31T03:55:28.000Z"
   },
   {
    "s": "S&P 500",
@@ -370,7 +370,7 @@
    "d": 2,
    "p": 7580.07,
    "ch": -1.82,
-   "asof": "2026-10-30T20:47:43.000Z"
+   "asof": "2026-10-30T20:00:00.000Z"
   },
   {
    "s": "Nasdaq",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 96.69,
-   "ch": 0.49,
-   "asof": "2026-10-31T02:57:17.000Z"
+   "p": 95.99,
+   "ch": -0.24,
+   "asof": "2026-10-31T03:55:29.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2551,
-   "ch": 0.05,
-   "asof": "2026-10-31T02:57:17.000Z"
+   "p": 1.2485,
+   "ch": -0.47,
+   "asof": "2026-10-31T03:55:30.000Z"
   },
   {
    "s": "Apple",
@@ -487,10 +487,10 @@
   ],
   [
    "Forex",
-   "high",
-   "ECB policymakers bring rate hike debate into the open",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaXBaNVFtei1NSWFTR2VVOHkwRXBVSmpTbHlyREpqbTFZdExYTlY1SFktQ1lmckNKZjVMaTZzWUhvS051WmhJQlBBOXRXZ0pZbHNzRU5fQTdLeGh6eU1HbTdFNkxBY2dzcTUycm1EMnpBZTFuelRnaldGOFc3VU1ZOGxMUU1wXzE4UmY1c1BMZ2FDRjdlOXVlaWZqcl83Ny1KbnRWSA?oc=5"
+   "med",
+   "Colombia central bank holds rate, will shore up reserves with $2 billion",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTnU5WHRRZzRhWktxRjFGY0VjWHdrLThPR2M5WXZZb0FTZXd6eDg0Z01FZzZtRUlET2IzdEVFdnZhalBRdFhadFQyaHVRVmJqQ1pwdmxBOWUwcE5BLXJMS1dGR044d1JOTS1VMTQ1dFp5TURaQ1diaDB2QWhLV01rcWdfTEczQXl5OWlsYTZ1ZEhoVnY3alpqQXhWbnNwMDQ?oc=5"
   ],
   [
    "Crypto",
@@ -509,9 +509,9 @@
   [
    "Stocks",
    "med",
-   "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
+   "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblVtZktXRjdPbHJBWDM4WWJsV2RyMlhnOVFYRTZPc01udjZNZTVjeHdIN1dVY0w1M1NHbHpxNjV6Vm9jQ3FOUjBIaElyZEdSWWxycmNZdnJwNnBfdTJDc1FBMWVJZ19vR0s3Y1h2Uml2LThWc2NzQ2sxN3NnVzFEeGhvNnpPSElHSFRIQnJreHpCR2c3dnRQbEVYTDlJVjhzVVk3b1gxaFczMFhkb2NDSw?oc=5"
+   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkNDLXpLZ1A0VklROTJVenpDRlZBWE10ZE1qWWk4ZFVqalgzWWJFdThSd2ZKeUhDanVRQjRhVVVZZGlGZzY1UWYzLXRSZTNHNDNPTkZZRUFJazAzYmV6NzF3QUJtNjhkWHY5OHZNZWVsSFdyY0NScGJadnE3T0dPTWtBUXZOaDJPYWJuX1NOVXkwbGlQSW9MdjlXTlNQTzdLZEdzTHFsQ2gzaEcwTkNHZTNCNF9hMG9lazFHRXItSzg?oc=5"
   ],
   [
    "Stocks",
