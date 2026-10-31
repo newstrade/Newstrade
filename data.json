@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T14:47:04.997Z",
+ "updated": "2026-10-31T15:46:43.194Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77406.84,
-   "ch": 0.26,
-   "asof": "2026-10-31T14:46:59.000Z"
+   "p": 77432.99,
+   "ch": 0.3,
+   "asof": "2026-10-31T15:46:39.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2249.86,
-   "ch": 0.39,
-   "asof": "2026-10-31T14:47:02.000Z"
+   "p": 2247.52,
+   "ch": 0.28,
+   "asof": "2026-10-31T15:46:36.000Z"
   },
   {
    "s": "S&P 500",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.63,
-   "ch": -0.61,
-   "asof": "2026-10-31T14:47:00.000Z"
+   "p": 95.76,
+   "ch": -0.48,
+   "asof": "2026-10-31T15:46:33.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2475,
-   "ch": -0.55,
-   "asof": "2026-10-31T14:46:57.000Z"
+   "p": 1.2507,
+   "ch": -0.3,
+   "asof": "2026-10-31T15:46:35.000Z"
   },
   {
    "s": "Apple",
@@ -502,9 +502,9 @@
   [
    "Crypto",
    "med",
-   "Crypto exchanges call for quick moves to bolster defenses after Binance heist",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR3JLSjZvamdLbG1LSWxKR0czYXlpN281cDZLZ0J6ZE1OdmYxNFdIUzVKQnMzQVdWMVlQRTVzdVh2OHFybGkwVy15STRoOGV3N3E3RXppU0pJS2poMTRlRWFaZVEtVUhjTkFMTjAyOFpLc19RWjEwS1BkTEdXWGtOel9qd1VuNXlzWDBUS1IzSHAtUUVHREFBWDVDNGQ4Vm9zMGRKRHB1VE5LbmN5QmZJZ2NZZ2Q1Y2h1c19ONV9HLXU?oc=5"
+   "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
+   "AP News",
+   "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaS1PbC12ckM5dTFzWDZISy0zcmVfWjc2ODREc1dFMnlOem5RUmpWWGdxR2dKSlNQS0JrZXVvZGI4VDN2aXRQQkpIaHF4bWdwSjJvYjduMkFQUmdDaEdGS01lQThMQXpjTS02SW5YenA5U0ZQZUZsazg5SnhyZzFZel9YWTZqUmVVYUcxYTEyTDl3V3Z5dEZ6RTZCS3U5ZkUwWFBna2hDNnZ3dHo0?oc=5"
   ],
   [
    "Stocks",
@@ -515,10 +515,10 @@
   ],
   [
    "Stocks",
-   "med",
-   "Wall Street's favorite stocks are in their worst slump since 2010: Chart of the Day",
+   "high",
+   "Tom Lee Thinks One Investor Might Be Behind Nasdaq’s Stock Crash",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVTFxUWZ4czRVUlhySDVQTHV3U2l5RGV4TGJHd2UxbzhWNExKd1RwU1BkN25GOFZnWlktazFUVTVnNmFRTTNyTXo3cFJXeExMcjVJQWhVX0NGbV9aRXd5Z0N6QmJpckgyNnhaRmtSWkZiU19LWjRHQ1pzaU52S09nWUdTOGVtUlE1RFJOREZhY2R1a0YyUlF5RkV6MFdpZ0ZkOUZaM1lIX0JvdTNmWjBKc0Q0SXkydy13c0hNS041TDNmUnp3eDFhckEwZmRKR3lEUWFnNw?oc=5"
+   "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYlBoUUZ2ZXB1d1dNbGptX0YxdjQ1VHVtSGZrTFQxc2Z3cjR3UFN5YndleDczeTAyMVhTVkFiSE1HbVBqLW1XMnhNUUdlNllaM1BOUmZlWkNUUjdORUJBdmRJV2pUXzBRM3FUZC1JWGRVZlJnMjdzbWpaT0pzZEZpOUItSlVVSFFUVjRVRlVDX3JqZ3NYVVVn?oc=5"
   ],
   [
    "Commodities",
