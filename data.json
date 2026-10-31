@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T19:47:33.205Z",
+ "updated": "2026-10-31T20:47:36.818Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -330,7 +330,7 @@
    "d": 4,
    "p": 0.7035,
    "ch": 0.06,
-   "asof": "2026-10-31T19:27:29.000Z"
+   "asof": "2026-10-31T20:23:25.000Z"
   },
   {
    "s": "USD/CAD",
@@ -338,7 +338,7 @@
    "d": 4,
    "p": 1.3973,
    "ch": -0.1,
-   "asof": "2026-10-31T18:58:46.000Z"
+   "asof": "2026-10-31T19:53:59.000Z"
   },
   {
    "s": "USD/CHF",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77409.32,
-   "ch": 0.27,
-   "asof": "2026-10-31T19:47:28.000Z"
+   "p": 77432.08,
+   "ch": 0.3,
+   "asof": "2026-10-31T20:47:34.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2249.21,
-   "ch": 0.36,
-   "asof": "2026-10-31T19:47:32.000Z"
+   "p": 2250.86,
+   "ch": 0.43,
+   "asof": "2026-10-31T20:47:28.000Z"
   },
   {
    "s": "S&P 500",
@@ -418,7 +418,7 @@
    "d": 3,
    "p": 16.7075,
    "ch": 0.61,
-   "asof": "2026-10-31T18:58:48.000Z"
+   "asof": "2026-10-31T19:53:59.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.6,
-   "ch": -0.64,
-   "asof": "2026-10-31T19:47:30.000Z"
+   "p": 95.45,
+   "ch": -0.8,
+   "asof": "2026-10-31T20:47:31.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2497,
-   "ch": -0.38,
-   "asof": "2026-10-31T19:47:30.000Z"
+   "p": 1.2486,
+   "ch": -0.47,
+   "asof": "2026-10-31T20:47:29.000Z"
   },
   {
    "s": "Apple",
@@ -502,16 +502,9 @@
   [
    "Crypto",
    "med",
-   "Binance says it has covered 90% of losses from $6.3 billion hack so far",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV05QRmVQbjJDUTZkNzRFaTA5VVp5RE9Bd2ctMkxITEVaZnNLZVVzdkx5aHBUUFZYOTJCb19YRFJRM2I1RW5QS0JJUmowaUtsVjlnaTExaWJDM2NsLVJINlJQZ0JHdlUyb05LS0kyRGdRMHlyVWdYRHFJOTNlbFRZc0plbkc2SE1nOHB1SklPVVNUVnhFY3lYdWtR?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Anthropic's path to the Nasdaq just got a lot bumpier",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5"
+   "Notorious hacker says stolen crypto is like ‘holding a hot potato’",
+   "CNN",
+   "https://news.google.com/rss/articles/CBMiekFVX3lxTE82Y2VnTVhXcld6RWJyVG9ESlh0X3dCYjJlYm4xUVhZeS1FVm9nOW00Vi1CZGFnRFFkT2xEMGs5NU90RGFWLV9TbW85ZXVsb096emtaaUF2MDBoQ3ZCMDJxRHJsZWtCOXZfaFd0WmFHLVVuU2ZvdzlkYlhR?oc=5"
   ],
   [
    "Stocks",
@@ -519,6 +512,13 @@
    "3 Underowned S&P 500 Stocks as Investors Rotate Beyond AI",
    "Yahoo Finance",
    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZVNSWWpTTmNlMjRvZkhWbTZUdElUTEY4Q0RLRXBUc3FSVEVMTlUtel9YRjgwVTlhVXZLTzBubDBJNllfcV92U0l4NDBNc1JoWHY0VzZ6YWswUmJXMFFNQmR0ZTZ3ZGhWUXBnTmtLcFowRjlVN0Q2WlZxR09ZMHZYempBM3lzQjl6b0V5bGRpUHJscGVm?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
+   "US judge dismisses Trump's lawsuit against Wall Street Journal with prejudice",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDh2Tk1SWVpMWE1Mc1NmZ2JHUlFDOEFqVjg4T29yc1BLNXBibGFRSWNDUEhadDZiaEhiZXg4UFlfNV8tRVM3UVdfTkdzRzZVR2dmN2JwWjlIc3BHeVU0eVlJR0h1UThmaXhVWS1GcHZqb0c1NGR0VWoxU3k0Q3dLYU1hQVExZVJJd2FxZHpWOXc0NDRJWlZvUDk2Rm5GRUh1bXFITDBUZGFVWjY4T3VTWGh2NlFKaVBKLWc?oc=5"
   ],
   [
    "Commodities",
