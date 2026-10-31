@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T08:54:28.653Z",
+ "updated": "2026-10-31T09:51:21.689Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77208.14,
-   "ch": 0.01,
-   "asof": "2026-10-31T08:54:25.000Z"
+   "p": 77293.54,
+   "ch": 0.12,
+   "asof": "2026-10-31T09:51:17.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2238.1,
-   "ch": -0.14,
-   "asof": "2026-10-31T08:54:22.000Z"
+   "p": 2241.75,
+   "ch": 0.03,
+   "asof": "2026-10-31T09:51:15.000Z"
   },
   {
    "s": "S&P 500",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.22,
-   "ch": -1.04,
-   "asof": "2026-10-31T08:54:24.000Z"
+   "p": 95.25,
+   "ch": -1.01,
+   "asof": "2026-10-31T09:51:17.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.244,
-   "ch": -0.83,
-   "asof": "2026-10-31T08:53:57.000Z"
+   "p": 1.2457,
+   "ch": -0.7,
+   "asof": "2026-10-31T09:51:16.000Z"
   },
   {
    "s": "Apple",
@@ -516,9 +516,9 @@
   [
    "Stocks",
    "med",
-   "U.S. Stocks Fall as Tech Selloff Deepens",
+   "U.S. Tech Stocks Drop on AI Spending Concerns",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDB3cDByVmVJQWQ4bzhobm83ZDVVN3MtYXh0VjlYT0xtakhpVkNrUFFHbVpWZEp2UHdpeWIwX0h2eVJqSzdod0t1Y3JxcVBaTzZlUFRKTFNkMDE4LVYxMHNjRGlYb0FsOVdqMnJuVzdHMk0xNVVxWXh4Y0tidlFtbXBUa1lXTVJGOXc1c0VvbjJ6eGVINVY0cEpFZHEtakM1UkFwdVZLVW4ySWlxV0RwNHpnNkpKcUsyRXU4RXN2Zm03QTQ?oc=5"
+   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkFuTEkyc1ZYSmVVcjRIZXVWeXNCbEpsUk9HOXJ1LTcxOWk2WnZjWkpreFp3am1kQ0tSWmtuaHNVYmMyb1ROTE43YlU0VGRad21XS3JyYmYyZlV5aWthaWJQMkJjcVRPUW41djFtem94X2cxWE9Qcm9qYjFmLW1nMHRtRnVRakRsVlg0cjl5U0w3QQ?oc=5"
   ],
   [
    "Commodities",
@@ -530,9 +530,9 @@
   [
    "Commodities",
    "med",
-   "Brent 2026 view tops $90 for first time since May as MidEast stability remains elusive",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc2tucERiZ1ZmYnJvRTF0cDVtZFJrUTlGNWdxZ1RDdkVQS0VVcUY3SXc1ZEdCZUlJaDdUa1NRVFVtM3F3dkpMbURwSVVhcDBDbmwzaUpCN3E1N2xhc3UtbnVIT3RFZGtzaUhaaUlBTDlqMG9kYjItRnhLOEx4Z1JidUdVOGhnU1NHUEpFNE54TjNCOUVXSVF2eWVkMEhVeFhGZktmMVpoYnFrS1NnM2w4bVRyYk5HWkJqMTJ2elpIQmtXbDUtbnJoSjdB?oc=5"
+   "Europe Is Now Seriously Rethinking Its Oil Refinery Phase Down",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVU1tWFdialI2NHJJc0pJX0dhQ2ZkQ1MyMnVGN3IySmdzTllJT05Cejk3bC1WMHp0RUpZazdqZUZKMk5XcEFvUjE3UzdNNFZDTlFkUW9EV1l1T2IzQ19nQjUycE5hNkg0SzFzeTZ5c09BLWdFTEcxWVQyRnVjYWxoZ2V0Z0ZHVkM3MmlJdjlGZmV0UG05WGc5c2pSSXZGa2dfeHl6TjM1b27SAa4BQVVfeXFMTkU5RnQwLVNVVjZjaW1aSDRLeFNIQTVhOExEVmdrVXRLbXNUUjJOMUtlOG14WHN0djJxTHoxaXY0V0lwY3ZoeFpyVUVrbWlrb3dmenlqVXRoVmxCTFhKNnczXy00NXFLQ3FoYUI3U3ZNRENYeGw3NFBnaENRMTVCTHJXTV9talF1TVBnU2JYak90N3B6M2hlejEyRWswNmphWjV2UDFzbWZQNnpLNXl3?oc=5"
   ]
  ]
 }
