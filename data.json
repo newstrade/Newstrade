@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T04:55:22.641Z",
+ "updated": "2026-10-31T05:51:27.851Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -330,7 +330,7 @@
    "d": 4,
    "p": 0.7035,
    "ch": 0.06,
-   "asof": "2026-10-30T23:40:45.000Z"
+   "asof": "2026-10-31T05:50:46.000Z"
   },
   {
    "s": "USD/CAD",
@@ -338,7 +338,7 @@
    "d": 4,
    "p": 1.3973,
    "ch": -0.1,
-   "asof": "2026-10-30T23:12:30.000Z"
+   "asof": "2026-10-31T05:21:09.000Z"
   },
   {
    "s": "USD/CHF",
@@ -346,23 +346,23 @@
    "d": 4,
    "p": 0.8249,
    "ch": 0.13,
-   "asof": "2026-10-31T02:33:29.000Z"
+   "asof": "2026-10-31T05:21:09.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77009.39,
-   "ch": -0.25,
-   "asof": "2026-10-31T04:55:21.000Z"
+   "p": 77102.11,
+   "ch": -0.13,
+   "asof": "2026-10-31T05:51:23.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2234.48,
-   "ch": -0.3,
-   "asof": "2026-10-31T04:55:17.000Z"
+   "p": 2238.59,
+   "ch": -0.12,
+   "asof": "2026-10-31T05:51:20.000Z"
   },
   {
    "s": "S&P 500",
@@ -418,7 +418,7 @@
    "d": 3,
    "p": 16.7075,
    "ch": 0.61,
-   "asof": "2026-10-30T23:12:30.000Z"
+   "asof": "2026-10-31T05:21:09.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.48,
-   "ch": -0.77,
-   "asof": "2026-10-31T04:55:16.000Z"
+   "p": 95.82,
+   "ch": -0.41,
+   "asof": "2026-10-31T05:51:20.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2414,
-   "ch": -1.04,
-   "asof": "2026-10-31T04:55:12.000Z"
+   "p": 1.2448,
+   "ch": -0.77,
+   "asof": "2026-10-31T05:51:21.000Z"
   },
   {
    "s": "Apple",
@@ -502,9 +502,16 @@
   [
    "Crypto",
    "med",
-   "Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist",
+   "Binance seeks to shore up confidence after record $6.3 billion heist",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUk91M0NvMWF6S2xLUktmbkcxQ1VBVDBDSnRZSVZZcjJxNVJ3a3VLZ3RxaWFTYWNlRE16bTRnV0VFRnM5b09LUnIzTVV5Slk2VDRaZ0Q5alFvclowelhHWUFXcXNwRUs3RmlxTkNDS0dBeHRCM2FyOXJtRmZicmJWSWZhNnR3QUJwWHU5UWU0OVZIY25S?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
+   "U.S. Tech Stocks Drop on AI Spending Concerns",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbmo4WVM3RVhVSFMyTlMxZkl0WDlxRWgwRTBWbG5WT0dMNFFtakFvbWJHT2cxMmF4NXdlTlcwdmRiOWV5eHFoRmx1WHpSTXNSQmlVekdlSFRhajlLOWwyQ3NhRUtqZjUyWVJZY2VXTVFnMzR4dGZCdEloTEJ6M2x4VHlmRW1LdkREQVRMcU1WNG9IZ2k3WFVHTjFuSlN4SHo0a19rcWptQ2x5WnpjVVVwTTFiRjJSWGEyMDZSVUgzNkhDZw?oc=5"
+   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkFuTEkyc1ZYSmVVcjRIZXVWeXNCbEpsUk9HOXJ1LTcxOWk2WnZjWkpreFp3am1kQ0tSWmtuaHNVYmMyb1ROTE43YlU0VGRad21XS3JyYmYyZlV5aWthaWJQMkJjcVRPUW41djFtem94X2cxWE9Qcm9qYjFmLW1nMHRtRnVRakRsVlg0cjl5U0w3QQ?oc=5"
   ],
   [
    "Stocks",
@@ -512,13 +519,6 @@
    "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen",
    "Reuters",
    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkNDLXpLZ1A0VklROTJVenpDRlZBWE10ZE1qWWk4ZFVqalgzWWJFdThSd2ZKeUhDanVRQjRhVVVZZGlGZzY1UWYzLXRSZTNHNDNPTkZZRUFJazAzYmV6NzF3QUJtNjhkWHY5OHZNZWVsSFdyY0NScGJadnE3T0dPTWtBUXZOaDJPYWJuX1NOVXkwbGlQSW9MdjlXTlNQTzdLZEdzTHFsQ2gzaEcwTkNHZTNCNF9hMG9lazFHRXItSzg?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Nasdaq 100 plunges more than 3% to cap its worst month since 2025 after dismal tech earnings",
-   "Business Insider",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxONzk3SWo0SUFZeUo4blMxSHYzTzhXbXVHNEQ2WDg1VmIwOGdZSUZkQnlUd3c1d3p3d1ZzY1NKWkJGeThlVXpEYzVSU2RjMUhtT1RPNGtjS3gxelVIemN5OUVIOVVhMHh6Q3dNaE8wbVhtejRqMkltcEpDbFBnQjBwLTJmQUN5QVl3MDdKbnBWNWFScFFw?oc=5"
   ],
   [
    "Commodities",
