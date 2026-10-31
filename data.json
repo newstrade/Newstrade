@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T10:47:44.508Z",
+ "updated": "2026-10-31T11:47:32.987Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77311.38,
-   "ch": 0.14,
-   "asof": "2026-10-31T10:47:38.000Z"
+   "p": 77433.27,
+   "ch": 0.3,
+   "asof": "2026-10-31T11:47:29.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2242.47,
-   "ch": 0.06,
-   "asof": "2026-10-31T10:47:25.000Z"
+   "p": 2246.09,
+   "ch": 0.22,
+   "asof": "2026-10-31T11:47:30.000Z"
   },
   {
    "s": "S&P 500",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.5,
-   "ch": -0.75,
-   "asof": "2026-10-31T10:47:38.000Z"
+   "p": 95.75,
+   "ch": -0.49,
+   "asof": "2026-10-31T11:47:29.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2464,
-   "ch": -0.64,
-   "asof": "2026-10-31T10:47:40.000Z"
+   "p": 1.2478,
+   "ch": -0.53,
+   "asof": "2026-10-31T11:47:31.000Z"
   },
   {
    "s": "Apple",
@@ -495,16 +495,16 @@
   [
    "Crypto",
    "med",
-   "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc0dQM3c5OXJiTzNzd2VRVDY1MUpsNjd2Z3lVVl9VRDR4U3BjcGFHTXlZeG1RVGhYRVR0TUJuSnNZWFUxLWhadEd5OW1FMUJSMzhsUGZKek1tdEdCZWJrbHpvRkgtVHl1Y1V3ZDZjV0hOaHF1b0RsVzhaMmFkX3ZmTkVVTzlkQdIBiwFBVV95cUxNZFVhQ2xvVHNRNlN0SkVrQTBOWW5Ec09veXctQVRXU21EUmpjdkNLWUtYX3VkZ1JLWVdqMVJkWnpUTjdtR1Q2b1FzYTdtMXJRZGpacEkxWE9FdHBFVUpLVmlXRWJRbmcycUxNb1lCSVVHNjMwckpHOEY4cDNtOEphN0FncklDbUNYOGFr?oc=5"
+   "How North Korea perfected the crypto heist",
+   "Axios",
+   "https://news.google.com/rss/articles/CBMidkFVX3lxTE81S2VuSVhqVExKRkVHY2RjU2hDZ2JCdGlaNk5OTE9HeUxEbnAwWFpoUDhqNktpTVFMNE16SkR3azlIT2xFZW0xMTREaFIxOUVuWWNXRml3d2tyMG9aeTZ5ZVd1c3RZdHAzNlluVnMzSTZsbWhsQnc?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Here's Why I'm Buying Bitcoin Right Now",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWGFDZ0tkMl9lYnBNUU9HMFNsVlR6MFBPN0U2WjhfdVVSdXhsRkZvOUl3QldIbVR6MEUzWGZQQXMzSzl5V3kwLVI0ZFVLTFVQSnNiQkFaWHRzV21ndkVkREVWRnFkZEhWUUlhUmdfLVpLNzdGOXB6anFxY2F4eXI2aGFOeU5UbzA1aWRxU3dFOVlXS1lGNkNJ?oc=5"
+   "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
+   "AP News",
+   "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaS1PbC12ckM5dTFzWDZISy0zcmVfWjc2ODREc1dFMnlOem5RUmpWWGdxR2dKSlNQS0JrZXVvZGI4VDN2aXRQQkpIaHF4bWdwSjJvYjduMkFQUmdDaEdGS01lQThMQXpjTS02SW5YenA5U0ZQZUZsazg5SnhyZzFZel9YWTZqUmVVYUcxYTEyTDl3V3Z5dEZ6RTZCS3U5ZkUwWFBna2hDNnZ3dHo0?oc=5"
   ],
   [
    "Stocks",
@@ -516,9 +516,9 @@
   [
    "Stocks",
    "med",
-   "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkNDLXpLZ1A0VklROTJVenpDRlZBWE10ZE1qWWk4ZFVqalgzWWJFdThSd2ZKeUhDanVRQjRhVVVZZGlGZzY1UWYzLXRSZTNHNDNPTkZZRUFJazAzYmV6NzF3QUJtNjhkWHY5OHZNZWVsSFdyY0NScGJadnE3T0dPTWtBUXZOaDJPYWJuX1NOVXkwbGlQSW9MdjlXTlNQTzdLZEdzTHFsQ2gzaEcwTkNHZTNCNF9hMG9lazFHRXItSzg?oc=5"
+   "Alphabet Stock Sinks, Dragging Nasdaq Lower",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdEt3QnZYMW5WSVBNMUNqQ3pOUEV6RVVoM2xLa2RfV0VEQ1YyTzE2MFIwTnNGdTRFelljM3gtM3lORnhLYW5nT1VaSk5IVV85NlBIeGFlWlhaOHFIcHZhTm1ER1FsZzdZRElZUHl0Mm4ya04tMjZ2WV9ZbzVJLUhocktXVVFYVy1lbEJOWVF4eFVHdVNsbEQ4Tg?oc=5"
   ],
   [
    "Commodities",
