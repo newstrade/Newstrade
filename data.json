@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T12:59:23.620Z",
+ "updated": "2026-10-31T13:53:02.488Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77388.02,
-   "ch": 0.24,
-   "asof": "2026-10-31T12:59:20.000Z"
+   "p": 77421.97,
+   "ch": 0.28,
+   "asof": "2026-10-31T13:52:50.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2248.91,
-   "ch": 0.34,
-   "asof": "2026-10-31T12:59:17.000Z"
+   "p": 2250.59,
+   "ch": 0.42,
+   "asof": "2026-10-31T13:52:59.000Z"
   },
   {
    "s": "S&P 500",
@@ -434,7 +434,7 @@
    "d": 2,
    "p": 95.89,
    "ch": -0.34,
-   "asof": "2026-10-31T12:59:18.000Z"
+   "asof": "2026-10-31T13:53:00.000Z"
   },
   {
    "s": "XRP",
@@ -442,7 +442,7 @@
    "d": 4,
    "p": 1.2478,
    "ch": -0.53,
-   "asof": "2026-10-31T12:59:16.000Z"
+   "asof": "2026-10-31T13:52:57.000Z"
   },
   {
    "s": "Apple",
@@ -495,30 +495,30 @@
   [
    "Crypto",
    "med",
-   "How North Korea perfected the crypto heist",
-   "Axios",
-   "https://news.google.com/rss/articles/CBMidkFVX3lxTE81S2VuSVhqVExKRkVHY2RjU2hDZ2JCdGlaNk5OTE9HeUxEbnAwWFpoUDhqNktpTVFMNE16SkR3azlIT2xFZW0xMTREaFIxOUVuWWNXRml3d2tyMG9aeTZ5ZVd1c3RZdHAzNlluVnMzSTZsbWhsQnc?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
    "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
    "CNBC",
    "https://news.google.com/rss/articles/CBMiekFVX3lxTE92Z21qd19KRzhCMzVTUjhFRE11LVg0bFM1UVBrWndlREE1VWtpYzVFdG9aRko3eWxiaXZyNERvWXNsdDkzSzFES1pob19ZZlhLRFl3WWU4Q2ZCczVHcnhjNzQtLXVxYllLclpuTEFicDU5N29QMDRGM2JB0gF_QVVfeXFMT0FOSnpHaXhQSEJUekRROEF2Rk9ROGpkaVBUaGk5bVpsOFFFRFcxVHhSbERReVZ6ZVNtNVF3QTkxWG9rSkdnLXJpdTVkbkF2d2tuQVdRUG1sbERaYTdVeFZPR2VveExpUDI5d0ZfeTlnNVZHRmtBakx3bmdvNW1GRQ?oc=5"
   ],
   [
-   "Stocks",
+   "Crypto",
    "med",
-   "U.S. Tech Stocks Drop on AI Spending Concerns",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkFuTEkyc1ZYSmVVcjRIZXVWeXNCbEpsUk9HOXJ1LTcxOWk2WnZjWkpreFp3am1kQ0tSWmtuaHNVYmMyb1ROTE43YlU0VGRad21XS3JyYmYyZlV5aWthaWJQMkJjcVRPUW41djFtem94X2cxWE9Qcm9qYjFmLW1nMHRtRnVRakRsVlg0cjl5U0w3QQ?oc=5"
+   "How North Korea perfected the crypto heist",
+   "Axios",
+   "https://news.google.com/rss/articles/CBMidkFVX3lxTE81S2VuSVhqVExKRkVHY2RjU2hDZ2JCdGlaNk5OTE9HeUxEbnAwWFpoUDhqNktpTVFMNE16SkR3azlIT2xFZW0xMTREaFIxOUVuWWNXRml3d2tyMG9aeTZ5ZVd1c3RZdHAzNlluVnMzSTZsbWhsQnc?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "META_TITLE_QUOTE",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51cTBUdmJTdWRuVFN1QjQxcDh1ZzMtcElOUHNJck5hcVpNSXNzbE9yYjFOakNHMzBDa3Z6ektnUEV4MkYyU1FkNzZ3TXM1S3M?oc=5"
+   "Anthropic's path to the Nasdaq just got a lot bumpier",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
+   "Alphabet Stock Sinks, Dragging Nasdaq Lower",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdEt3QnZYMW5WSVBNMUNqQ3pOUEV6RVVoM2xLa2RfV0VEQ1YyTzE2MFIwTnNGdTRFelljM3gtM3lORnhLYW5nT1VaSk5IVV85NlBIeGFlWlhaOHFIcHZhTm1ER1FsZzdZRElZUHl0Mm4ya04tMjZ2WV9ZbzVJLUhocktXVVFYVy1lbEJOWVF4eFVHdVNsbEQ4Tg?oc=5"
   ],
   [
    "Commodities",
