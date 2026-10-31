@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T20:47:36.818Z",
+ "updated": "2026-10-31T21:45:39.180Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -330,7 +330,7 @@
    "d": 4,
    "p": 0.7035,
    "ch": 0.06,
-   "asof": "2026-10-31T20:23:25.000Z"
+   "asof": "2026-10-31T21:29:26.000Z"
   },
   {
    "s": "USD/CAD",
@@ -338,7 +338,7 @@
    "d": 4,
    "p": 1.3973,
    "ch": -0.1,
-   "asof": "2026-10-31T19:53:59.000Z"
+   "asof": "2026-10-31T21:00:20.000Z"
   },
   {
    "s": "USD/CHF",
@@ -346,23 +346,23 @@
    "d": 4,
    "p": 0.8249,
    "ch": 0.13,
-   "asof": "2026-10-31T19:29:15.000Z"
+   "asof": "2026-10-31T21:43:25.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77432.08,
-   "ch": 0.3,
-   "asof": "2026-10-31T20:47:34.000Z"
+   "p": 77393.48,
+   "ch": 0.25,
+   "asof": "2026-10-31T21:45:36.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2250.86,
+   "p": 2250.78,
    "ch": 0.43,
-   "asof": "2026-10-31T20:47:28.000Z"
+   "asof": "2026-10-31T21:45:29.000Z"
   },
   {
    "s": "S&P 500",
@@ -418,7 +418,7 @@
    "d": 3,
    "p": 16.7075,
    "ch": 0.61,
-   "asof": "2026-10-31T19:53:59.000Z"
+   "asof": "2026-10-31T21:00:20.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.45,
-   "ch": -0.8,
-   "asof": "2026-10-31T20:47:31.000Z"
+   "p": 95.65,
+   "ch": -0.59,
+   "asof": "2026-10-31T21:45:35.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2486,
-   "ch": -0.47,
-   "asof": "2026-10-31T20:47:29.000Z"
+   "p": 1.251,
+   "ch": -0.27,
+   "asof": "2026-10-31T21:45:34.000Z"
   },
   {
    "s": "Apple",
@@ -488,16 +488,16 @@
   [
    "Forex",
    "med",
-   "Investor Focus: Autumn Budget Unwrapped, Central Bank Drama, and UK Earnings Season",
-   "Morningstar",
-   "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlYyRG5YbTBCZFBzanppdDUxMzg2Z3g2Tk5mYXdub0FWbnAzQVJoM05Ld0dpVVBvT2pPbzJ1bVFVdEJKU0xaSmU3bVZZbFE3bERlc0tMOVRhcnFqSENjdW9pQkljNHBzSnZoMWJTX0ZXb2FqQ1lyblUzTmFqNWtZLVh2TlNIRTRqdFBYakhLbTllS1BrYUpFQ01CZm1IY2pjbi1nZEtHMDJEenpKTHJkYXRnZlJyd194RENwbU1B?oc=5"
+   "Yen bond offerings hit record $16bn as AI funding race reaches Japan",
+   "Nikkei Asia",
+   "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY3dLUUFNMzViNUhXazhObUV0b1laWVNQQjIxVWhDODZNV05Xd1ZOR2RsclZnakpEcEFzRUw2Q3g3MGFKV1JpdDI3blJkT1Zha1hCeWFCXzJROHdKZ2FDS2ZEV1lWRG90V291WE5pNk1nWmlqcEVVMUVJY3loa0tHM2p3OHFyRDBwOUV6YUVhT3J1eDlBeUxCUnJWTEREYjRlcjAtVkRUTUR5RDJwWEJzWHJSWDY?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMiekFVX3lxTE92Z21qd19KRzhCMzVTUjhFRE11LVg0bFM1UVBrWndlREE1VWtpYzVFdG9aRko3eWxiaXZyNERvWXNsdDkzSzFES1pob19ZZlhLRFl3WWU4Q2ZCczVHcnhjNzQtLXVxYllLclpuTEFicDU5N29QMDRGM2JB0gF_QVVfeXFMT0FOSnpHaXhQSEJUekRROEF2Rk9ROGpkaVBUaGk5bVpsOFFFRFcxVHhSbERReVZ6ZVNtNVF3QTkxWG9rSkdnLXJpdTVkbkF2d2tuQVdRUG1sbERaYTdVeFZPR2VveExpUDI5d0ZfeTlnNVZHRmtBakx3bmdvNW1GRQ?oc=5"
+   "META_TITLE_QUOTE",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Hb1I1SUt3MWw0X01vaXRWc1JzajJ2QjJQcEFaenhWM2ZhM0lEZ1hSalpsMDFKVF9NUkdGUG1mWjAtb0ktbTFCQURqNE5MNXFCTHc?oc=5"
   ],
   [
    "Crypto",
@@ -509,16 +509,16 @@
   [
    "Stocks",
    "med",
-   "3 Underowned S&P 500 Stocks as Investors Rotate Beyond AI",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZVNSWWpTTmNlMjRvZkhWbTZUdElUTEY4Q0RLRXBUc3FSVEVMTlUtel9YRjgwVTlhVXZLTzBubDBJNllfcV92U0l4NDBNc1JoWHY0VzZ6YWswUmJXMFFNQmR0ZTZ3ZGhWUXBnTmtLcFowRjlVN0Q2WlZxR09ZMHZYempBM3lzQjl6b0V5bGRpUHJscGVm?oc=5"
+   "Anthropic's path to the Nasdaq just got a lot bumpier",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "US judge dismisses Trump's lawsuit against Wall Street Journal with prejudice",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDh2Tk1SWVpMWE1Mc1NmZ2JHUlFDOEFqVjg4T29yc1BLNXBibGFRSWNDUEhadDZiaEhiZXg4UFlfNV8tRVM3UVdfTkdzRzZVR2dmN2JwWjlIc3BHeVU0eVlJR0h1UThmaXhVWS1GcHZqb0c1NGR0VWoxU3k0Q3dLYU1hQVExZVJJd2FxZHpWOXc0NDRJWlZvUDk2Rm5GRUh1bXFITDBUZGFVWjY4T3VTWGh2NlFKaVBKLWc?oc=5"
+   "3 Unstoppable S&P 500 Stocks to Buy in November",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVVJJUHd1Mmx3WEJfSkk2ZTVLWmVydnd1c1FjYjRkaE43ZWttUXVGS1NQWmQ1S25QZERNN3ZIWGMtcTNGNnlqeVhYY1o0b2dMSTZ1UjBrcndaeTE5Qzgyc2lyU1JuRmg4Y3hlTmlLdjFfVVcyOHNOdWdXVS1ZMUc4dUM5SlhKQkJ5dVg3Z3dzSkdGUzFQVnc?oc=5"
   ],
   [
    "Commodities",
