@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T17:43:53.428Z",
+ "updated": "2026-10-31T18:55:48.255Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77480.8,
+   "p": 77477.59,
    "ch": 0.36,
-   "asof": "2026-10-31T17:43:48.000Z"
+   "asof": "2026-10-31T18:55:46.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2250.33,
-   "ch": 0.41,
-   "asof": "2026-10-31T17:43:50.000Z"
+   "p": 2251.8,
+   "ch": 0.47,
+   "asof": "2026-10-31T18:55:45.000Z"
   },
   {
    "s": "S&P 500",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.87,
-   "ch": -0.36,
-   "asof": "2026-10-31T17:43:45.000Z"
+   "p": 95.85,
+   "ch": -0.38,
+   "asof": "2026-10-31T18:55:42.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2529,
-   "ch": -0.12,
-   "asof": "2026-10-31T17:43:50.000Z"
+   "p": 1.2528,
+   "ch": -0.13,
+   "asof": "2026-10-31T18:55:39.000Z"
   },
   {
    "s": "Apple",
@@ -480,17 +480,24 @@
  "news": [
   [
    "Forex",
+   "med",
+   "Russia’s Central Bank Sees Only Modest Further Drop in Key Rate",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTBua2dpZkdVZVpzX1IzMFRqbEg1ZG5jRkpBcWNBcmtCckNubkh3UlpsRDhTamE2bTh4WHZtOXFYdHNiUUFZVGs2LUxkajhJY2JKUkYxbzdrTG93N3hzOUhsdHNINUVOSkduUF9PVGxpSzBPYUE5SVFfNFU4ZWZMMGdKRWE5MnpVSW9Gb1QzZmdtWmpndkgzQWx6cU1nOTkwZ21odktpdUhpRmF5bHZMNQ?oc=5"
+  ],
+  [
+   "Forex",
    "high",
    "'The Fed put is very much back': Wall Street strategists weigh central bank's next move",
    "Yahoo Finance",
    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVJyRm4wTnJjSmtiU3lKWWZ5WVFndHdqWGlsZzVHd3BRdEhQa2o0UnRablMyblVsbHl0MDVwTFhPRGdCemo1ODhjUGl5ZEJPLUdSQk0taHZCSG4zUV94YXlSeXBLSFV3c3FOdTdvSmhpSkh5Q25STW9sRVI3Tk44TmdQYWIxOF9LeEV0VnVyQVptdTJkaVVCeXhiZlVqb19NYmktQUJ0NldISmpnNFoyTUROYWZuLUd4WUxoT1BMWmJrNGtYcVNab19QZElzaFNwc1N5MUVEVQ?oc=5"
   ],
   [
-   "Forex",
+   "Crypto",
    "med",
-   "Investor Focus: Autumn Budget Unwrapped, Central Bank Drama, and UK Earnings Season",
-   "Morningstar",
-   "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlYyRG5YbTBCZFBzanppdDUxMzg2Z3g2Tk5mYXdub0FWbnAzQVJoM05Ld0dpVVBvT2pPbzJ1bVFVdEJKU0xaSmU3bVZZbFE3bERlc0tMOVRhcnFqSENjdW9pQkljNHBzSnZoMWJTX0ZXb2FqQ1lyblUzTmFqNWtZLVh2TlNIRTRqdFBYakhLbTllS1BrYUpFQ01CZm1IY2pjbi1nZEtHMDJEenpKTHJkYXRnZlJyd194RENwbU1B?oc=5"
+   "META_TITLE_QUOTE",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Hb1I1SUt3MWw0X01vaXRWc1JzajJ2QjJQcEFaenhWM2ZhM0lEZ1hSalpsMDFKVF9NUkdGUG1mWjAtb0ktbTFCQURqNE5MNXFCTHc?oc=5"
   ],
   [
    "Crypto",
@@ -498,13 +505,6 @@
    "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
    "CNBC",
    "https://news.google.com/rss/articles/CBMiekFVX3lxTE92Z21qd19KRzhCMzVTUjhFRE11LVg0bFM1UVBrWndlREE1VWtpYzVFdG9aRko3eWxiaXZyNERvWXNsdDkzSzFES1pob19ZZlhLRFl3WWU4Q2ZCczVHcnhjNzQtLXVxYllLclpuTEFicDU5N29QMDRGM2JB0gF_QVVfeXFMT0FOSnpHaXhQSEJUekRROEF2Rk9ROGpkaVBUaGk5bVpsOFFFRFcxVHhSbERReVZ6ZVNtNVF3QTkxWG9rSkdnLXJpdTVkbkF2d2tuQVdRUG1sbERaYTdVeFZPR2VveExpUDI5d0ZfeTlnNVZHRmtBakx3bmdvNW1GRQ?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "Bitcoin Looks Like A 'Relative Dud' Against Gold And US Treasuries, Says Bloomberg's Mike McGlone",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZlJnam8wWl91S3ZYS1pDdVRONVRsM3M5MmZQOG5oaXlLOVBzR2k5b1RoeV8xYkVydUlteTdYLS1hM0o4TXU1TjZ2dVhoYUNGMVJvMXk2N05kTDJRV2pzbmllTTdubzE4aEtadFB5XzJWTG84N3c5b2pfVW40bWpxUENmYzV2V0FhejhwYjhpTk9XaDIzQzNmSXRkcF93and3?oc=5"
   ],
   [
    "Stocks",
@@ -523,7 +523,7 @@
   [
    "Commodities",
    "med",
-   "OPEC+ set to keep production targets unchanged in December, source says",
+   "OPEC+ agrees in principle to keep oil output targets steady in December, sources say",
    "Reuters",
    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTk80ZVBzRVczc0hyRHU0RkJiTWx5ZDUwdnBHb0FWSmJyQWJzWHRYR0hZd0MzTW1INnFtSWRISVVRb1RncDltYW16eTYxRU9NcWJzanRqMmp4LWFXUVNTV2tzT3JCM0doS01hWDdGeUhNdHZ3WTdYXy14Q0luZTRmOWdQNlp2ZThtYlQ0cWhNSVk0c0ZkOUFyMExMUWRHMXRKamU2ZHRLa2pPMG9heUhzN2YwTnpCZw?oc=5"
   ],
