@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T16:48:36.351Z",
+ "updated": "2026-10-31T17:43:53.428Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -312,9 +312,9 @@
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3389,
-   "ch": 0.1,
-   "asof": "2026-10-30T21:29:29.000Z"
+   "p": 1.3393,
+   "ch": 0.13,
+   "asof": "2026-10-31T17:24:27.000Z"
   },
   {
    "s": "USD/JPY",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77452.8,
-   "ch": 0.32,
-   "asof": "2026-10-31T16:48:34.000Z"
+   "p": 77480.8,
+   "ch": 0.36,
+   "asof": "2026-10-31T17:43:48.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2249.35,
-   "ch": 0.36,
-   "asof": "2026-10-31T16:48:18.000Z"
+   "p": 2250.33,
+   "ch": 0.41,
+   "asof": "2026-10-31T17:43:50.000Z"
   },
   {
    "s": "S&P 500",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.8,
-   "ch": -0.44,
-   "asof": "2026-10-31T16:48:32.000Z"
+   "p": 95.87,
+   "ch": -0.36,
+   "asof": "2026-10-31T17:43:45.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.254,
-   "ch": -0.03,
-   "asof": "2026-10-31T16:48:33.000Z"
+   "p": 1.2529,
+   "ch": -0.12,
+   "asof": "2026-10-31T17:43:50.000Z"
   },
   {
    "s": "Apple",
@@ -480,17 +480,17 @@
  "news": [
   [
    "Forex",
-   "med",
-   "Russia’s Central Bank Sees Only Modest Further Drop in Key Rate",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTBua2dpZkdVZVpzX1IzMFRqbEg1ZG5jRkpBcWNBcmtCckNubkh3UlpsRDhTamE2bTh4WHZtOXFYdHNiUUFZVGs2LUxkajhJY2JKUkYxbzdrTG93N3hzOUhsdHNINUVOSkduUF9PVGxpSzBPYUE5SVFfNFU4ZWZMMGdKRWE5MnpVSW9Gb1QzZmdtWmpndkgzQWx6cU1nOTkwZ21odktpdUhpRmF5bHZMNQ?oc=5"
-  ],
-  [
-   "Forex",
    "high",
    "'The Fed put is very much back': Wall Street strategists weigh central bank's next move",
    "Yahoo Finance",
    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVJyRm4wTnJjSmtiU3lKWWZ5WVFndHdqWGlsZzVHd3BRdEhQa2o0UnRablMyblVsbHl0MDVwTFhPRGdCemo1ODhjUGl5ZEJPLUdSQk0taHZCSG4zUV94YXlSeXBLSFV3c3FOdTdvSmhpSkh5Q25STW9sRVI3Tk44TmdQYWIxOF9LeEV0VnVyQVptdTJkaVVCeXhiZlVqb19NYmktQUJ0NldISmpnNFoyTUROYWZuLUd4WUxoT1BMWmJrNGtYcVNab19QZElzaFNwc1N5MUVEVQ?oc=5"
+  ],
+  [
+   "Forex",
+   "med",
+   "Investor Focus: Autumn Budget Unwrapped, Central Bank Drama, and UK Earnings Season",
+   "Morningstar",
+   "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlYyRG5YbTBCZFBzanppdDUxMzg2Z3g2Tk5mYXdub0FWbnAzQVJoM05Ld0dpVVBvT2pPbzJ1bVFVdEJKU0xaSmU3bVZZbFE3bERlc0tMOVRhcnFqSENjdW9pQkljNHBzSnZoMWJTX0ZXb2FqQ1lyblUzTmFqNWtZLVh2TlNIRTRqdFBYakhLbTllS1BrYUpFQ01CZm1IY2pjbi1nZEtHMDJEenpKTHJkYXRnZlJyd194RENwbU1B?oc=5"
   ],
   [
    "Crypto",
@@ -502,16 +502,9 @@
   [
    "Crypto",
    "med",
-   "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
-   "AP News",
-   "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaS1PbC12ckM5dTFzWDZISy0zcmVfWjc2ODREc1dFMnlOem5RUmpWWGdxR2dKSlNQS0JrZXVvZGI4VDN2aXRQQkpIaHF4bWdwSjJvYjduMkFQUmdDaEdGS01lQThMQXpjTS02SW5YenA5U0ZQZUZsazg5SnhyZzFZel9YWTZqUmVVYUcxYTEyTDl3V3Z5dEZ6RTZCS3U5ZkUwWFBna2hDNnZ3dHo0?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "U.S. Tech Stocks Drop on AI Spending Concerns",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkFuTEkyc1ZYSmVVcjRIZXVWeXNCbEpsUk9HOXJ1LTcxOWk2WnZjWkpreFp3am1kQ0tSWmtuaHNVYmMyb1ROTE43YlU0VGRad21XS3JyYmYyZlV5aWthaWJQMkJjcVRPUW41djFtem94X2cxWE9Qcm9qYjFmLW1nMHRtRnVRakRsVlg0cjl5U0w3QQ?oc=5"
+   "Bitcoin Looks Like A 'Relative Dud' Against Gold And US Treasuries, Says Bloomberg's Mike McGlone",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZlJnam8wWl91S3ZYS1pDdVRONVRsM3M5MmZQOG5oaXlLOVBzR2k5b1RoeV8xYkVydUlteTdYLS1hM0o4TXU1TjZ2dVhoYUNGMVJvMXk2N05kTDJRV2pzbmllTTdubzE4aEtadFB5XzJWTG84N3c5b2pfVW40bWpxUENmYzV2V0FhejhwYjhpTk9XaDIzQzNmSXRkcF93and3?oc=5"
   ],
   [
    "Stocks",
@@ -521,18 +514,25 @@
    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5"
   ],
   [
+   "Stocks",
+   "med",
+   "U.S. Tech Stocks Drop on AI Spending Concerns",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkFuTEkyc1ZYSmVVcjRIZXVWeXNCbEpsUk9HOXJ1LTcxOWk2WnZjWkpreFp3am1kQ0tSWmtuaHNVYmMyb1ROTE43YlU0VGRad21XS3JyYmYyZlV5aWthaWJQMkJjcVRPUW41djFtem94X2cxWE9Qcm9qYjFmLW1nMHRtRnVRakRsVlg0cjl5U0w3QQ?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "OPEC+ set to keep production targets unchanged in December, source says",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTk80ZVBzRVczc0hyRHU0RkJiTWx5ZDUwdnBHb0FWSmJyQWJzWHRYR0hZd0MzTW1INnFtSWRISVVRb1RncDltYW16eTYxRU9NcWJzanRqMmp4LWFXUVNTV2tzT3JCM0doS01hWDdGeUhNdHZ3WTdYXy14Q0luZTRmOWdQNlp2ZThtYlQ0cWhNSVk0c0ZkOUFyMExMUWRHMXRKamU2ZHRLa2pPMG9heUhzN2YwTnpCZw?oc=5"
+  ],
+  [
    "Commodities",
    "med",
    "3 Oil Stocks Investors Are Screening As Brent Forecasts Move Higher",
    "Yahoo Finance",
    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOczFzdWZYNUs5VjBwbmZ1N2pDXzhpRmZIUWhsVnJNaTJENzZxdWhHUFJrTFE1YVp3X2o2enpQZktXUFQ3N0dPaUV6QjBfV3lPcEpialhtM01UaEF5N1ZmY1F0UFRBdEc2MXEyWXM1cVpXMnk1cXkwcExRU3RBZXIyM3ByNElLSkFEcmM5U04yMzQ3dHM?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5"
   ]
  ]
 }
