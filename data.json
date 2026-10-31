@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T02:05:34.546Z",
+ "updated": "2026-10-31T02:57:19.696Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -346,23 +346,23 @@
    "d": 4,
    "p": 0.8249,
    "ch": 0.13,
-   "asof": "2026-10-30T23:12:30.000Z"
+   "asof": "2026-10-31T02:33:29.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77246.4,
-   "ch": 0.06,
-   "asof": "2026-10-31T02:05:29.000Z"
+   "p": 77298.96,
+   "ch": 0.13,
+   "asof": "2026-10-31T02:57:17.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2240.63,
-   "ch": -0.02,
-   "asof": "2026-10-31T02:05:19.000Z"
+   "p": 2243.2,
+   "ch": 0.09,
+   "asof": "2026-10-31T02:57:14.000Z"
   },
   {
    "s": "S&P 500",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 96.44,
-   "ch": 0.23,
-   "asof": "2026-10-31T02:05:34.000Z"
+   "p": 96.69,
+   "ch": 0.49,
+   "asof": "2026-10-31T02:57:17.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2523,
-   "ch": -0.17,
-   "asof": "2026-10-31T02:05:30.000Z"
+   "p": 1.2551,
+   "ch": 0.05,
+   "asof": "2026-10-31T02:57:17.000Z"
   },
   {
    "s": "Apple",
@@ -516,9 +516,9 @@
   [
    "Stocks",
    "med",
-   "Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWZRMVRrOG1xQ1NBUE55MXNIWTFyTFBfUDBwVnUwbDRHOHNibGNUazhpRVVJamItaGc5UndhUngwMTFOLUE1M3dscmdtSDBvWUJrNmoyWnFGZ2tBcm9VZjZ5MXcyQXFuSDZmWmE4WVlheXZBeTVTci1CXzFQMUxnMkpFRXBVTjh0SlI0N0hobUZzOHh3?oc=5"
+   "U.S. Tech Stocks Drop on AI Spending Concerns",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkFuTEkyc1ZYSmVVcjRIZXVWeXNCbEpsUk9HOXJ1LTcxOWk2WnZjWkpreFp3am1kQ0tSWmtuaHNVYmMyb1ROTE43YlU0VGRad21XS3JyYmYyZlV5aWthaWJQMkJjcVRPUW41djFtem94X2cxWE9Qcm9qYjFmLW1nMHRtRnVRakRsVlg0cjl5U0w3QQ?oc=5"
   ],
   [
    "Commodities",
