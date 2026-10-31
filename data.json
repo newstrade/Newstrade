@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T18:55:48.255Z",
+ "updated": "2026-10-31T19:47:33.205Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -330,7 +330,7 @@
    "d": 4,
    "p": 0.7035,
    "ch": 0.06,
-   "asof": "2026-10-31T05:49:27.000Z"
+   "asof": "2026-10-31T19:27:29.000Z"
   },
   {
    "s": "USD/CAD",
@@ -338,7 +338,7 @@
    "d": 4,
    "p": 1.3973,
    "ch": -0.1,
-   "asof": "2026-10-31T05:21:09.000Z"
+   "asof": "2026-10-31T18:58:46.000Z"
   },
   {
    "s": "USD/CHF",
@@ -346,23 +346,23 @@
    "d": 4,
    "p": 0.8249,
    "ch": 0.13,
-   "asof": "2026-10-31T05:21:09.000Z"
+   "asof": "2026-10-31T19:29:15.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77477.59,
-   "ch": 0.36,
-   "asof": "2026-10-31T18:55:46.000Z"
+   "p": 77409.32,
+   "ch": 0.27,
+   "asof": "2026-10-31T19:47:28.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2251.8,
-   "ch": 0.47,
-   "asof": "2026-10-31T18:55:45.000Z"
+   "p": 2249.21,
+   "ch": 0.36,
+   "asof": "2026-10-31T19:47:32.000Z"
   },
   {
    "s": "S&P 500",
@@ -418,7 +418,7 @@
    "d": 3,
    "p": 16.7075,
    "ch": 0.61,
-   "asof": "2026-10-31T05:21:09.000Z"
+   "asof": "2026-10-31T18:58:48.000Z"
   },
   {
    "s": "USD/NGN",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.85,
-   "ch": -0.38,
-   "asof": "2026-10-31T18:55:42.000Z"
+   "p": 95.6,
+   "ch": -0.64,
+   "asof": "2026-10-31T19:47:30.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2528,
-   "ch": -0.13,
-   "asof": "2026-10-31T18:55:39.000Z"
+   "p": 1.2497,
+   "ch": -0.38,
+   "asof": "2026-10-31T19:47:30.000Z"
   },
   {
    "s": "Apple",
@@ -480,24 +480,17 @@
  "news": [
   [
    "Forex",
-   "med",
-   "Russia’s Central Bank Sees Only Modest Further Drop in Key Rate",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTBua2dpZkdVZVpzX1IzMFRqbEg1ZG5jRkpBcWNBcmtCckNubkh3UlpsRDhTamE2bTh4WHZtOXFYdHNiUUFZVGs2LUxkajhJY2JKUkYxbzdrTG93N3hzOUhsdHNINUVOSkduUF9PVGxpSzBPYUE5SVFfNFU4ZWZMMGdKRWE5MnpVSW9Gb1QzZmdtWmpndkgzQWx6cU1nOTkwZ21odktpdUhpRmF5bHZMNQ?oc=5"
-  ],
-  [
-   "Forex",
    "high",
    "'The Fed put is very much back': Wall Street strategists weigh central bank's next move",
    "Yahoo Finance",
    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVJyRm4wTnJjSmtiU3lKWWZ5WVFndHdqWGlsZzVHd3BRdEhQa2o0UnRablMyblVsbHl0MDVwTFhPRGdCemo1ODhjUGl5ZEJPLUdSQk0taHZCSG4zUV94YXlSeXBLSFV3c3FOdTdvSmhpSkh5Q25STW9sRVI3Tk44TmdQYWIxOF9LeEV0VnVyQVptdTJkaVVCeXhiZlVqb19NYmktQUJ0NldISmpnNFoyTUROYWZuLUd4WUxoT1BMWmJrNGtYcVNab19QZElzaFNwc1N5MUVEVQ?oc=5"
   ],
   [
-   "Crypto",
+   "Forex",
    "med",
-   "META_TITLE_QUOTE",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Hb1I1SUt3MWw0X01vaXRWc1JzajJ2QjJQcEFaenhWM2ZhM0lEZ1hSalpsMDFKVF9NUkdGUG1mWjAtb0ktbTFCQURqNE5MNXFCTHc?oc=5"
+   "Investor Focus: Autumn Budget Unwrapped, Central Bank Drama, and UK Earnings Season",
+   "Morningstar",
+   "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlYyRG5YbTBCZFBzanppdDUxMzg2Z3g2Tk5mYXdub0FWbnAzQVJoM05Ld0dpVVBvT2pPbzJ1bVFVdEJKU0xaSmU3bVZZbFE3bERlc0tMOVRhcnFqSENjdW9pQkljNHBzSnZoMWJTX0ZXb2FqQ1lyblUzTmFqNWtZLVh2TlNIRTRqdFBYakhLbTllS1BrYUpFQ01CZm1IY2pjbi1nZEtHMDJEenpKTHJkYXRnZlJyd194RENwbU1B?oc=5"
   ],
   [
    "Crypto",
@@ -505,6 +498,13 @@
    "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
    "CNBC",
    "https://news.google.com/rss/articles/CBMiekFVX3lxTE92Z21qd19KRzhCMzVTUjhFRE11LVg0bFM1UVBrWndlREE1VWtpYzVFdG9aRko3eWxiaXZyNERvWXNsdDkzSzFES1pob19ZZlhLRFl3WWU4Q2ZCczVHcnhjNzQtLXVxYllLclpuTEFicDU5N29QMDRGM2JB0gF_QVVfeXFMT0FOSnpHaXhQSEJUekRROEF2Rk9ROGpkaVBUaGk5bVpsOFFFRFcxVHhSbERReVZ6ZVNtNVF3QTkxWG9rSkdnLXJpdTVkbkF2d2tuQVdRUG1sbERaYTdVeFZPR2VveExpUDI5d0ZfeTlnNVZHRmtBakx3bmdvNW1GRQ?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "Binance says it has covered 90% of losses from $6.3 billion hack so far",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV05QRmVQbjJDUTZkNzRFaTA5VVp5RE9Bd2ctMkxITEVaZnNLZVVzdkx5aHBUUFZYOTJCb19YRFJRM2I1RW5QS0JJUmowaUtsVjlnaTExaWJDM2NsLVJINlJQZ0JHdlUyb05LS0kyRGdRMHlyVWdYRHFJOTNlbFRZc0plbkc2SE1nOHB1SklPVVNUVnhFY3lYdWtR?oc=5"
   ],
   [
    "Stocks",
@@ -516,9 +516,9 @@
   [
    "Stocks",
    "med",
-   "U.S. Tech Stocks Drop on AI Spending Concerns",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkFuTEkyc1ZYSmVVcjRIZXVWeXNCbEpsUk9HOXJ1LTcxOWk2WnZjWkpreFp3am1kQ0tSWmtuaHNVYmMyb1ROTE43YlU0VGRad21XS3JyYmYyZlV5aWthaWJQMkJjcVRPUW41djFtem94X2cxWE9Qcm9qYjFmLW1nMHRtRnVRakRsVlg0cjl5U0w3QQ?oc=5"
+   "3 Underowned S&P 500 Stocks as Investors Rotate Beyond AI",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZVNSWWpTTmNlMjRvZkhWbTZUdElUTEY4Q0RLRXBUc3FSVEVMTlUtel9YRjgwVTlhVXZLTzBubDBJNllfcV92U0l4NDBNc1JoWHY0VzZ6YWswUmJXMFFNQmR0ZTZ3ZGhWUXBnTmtLcFowRjlVN0Q2WlZxR09ZMHZYempBM3lzQjl6b0V5bGRpUHJscGVm?oc=5"
   ],
   [
    "Commodities",
