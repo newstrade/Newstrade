@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T22:46:40.085Z",
+ "updated": "2026-10-31T23:45:02.084Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77476.1,
-   "ch": 0.35,
-   "asof": "2026-10-31T22:46:28.000Z"
+   "p": 77377.6,
+   "ch": 0.23,
+   "asof": "2026-10-31T23:45:00.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2255,
-   "ch": 0.62,
-   "asof": "2026-10-31T22:46:38.000Z"
+   "p": 2251.39,
+   "ch": 0.46,
+   "asof": "2026-10-31T23:45:00.000Z"
   },
   {
    "s": "S&P 500",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.5,
-   "ch": -0.75,
-   "asof": "2026-10-31T22:46:37.000Z"
+   "p": 95.18,
+   "ch": -1.08,
+   "asof": "2026-10-31T23:44:59.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2507,
-   "ch": -0.3,
-   "asof": "2026-10-31T22:46:36.000Z"
+   "p": 1.2497,
+   "ch": -0.38,
+   "asof": "2026-10-31T23:44:51.000Z"
   },
   {
    "s": "Apple",
@@ -495,23 +495,23 @@
   [
    "Crypto",
    "med",
-   "META_TITLE_QUOTE",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Hb1I1SUt3MWw0X01vaXRWc1JzajJ2QjJQcEFaenhWM2ZhM0lEZ1hSalpsMDFKVF9NUkdGUG1mWjAtb0ktbTFCQURqNE5MNXFCTHc?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
    "Notorious hacker says stolen crypto is like ‘holding a hot potato’",
    "CNN",
    "https://news.google.com/rss/articles/CBMiekFVX3lxTE82Y2VnTVhXcld6RWJyVG9ESlh0X3dCYjJlYm4xUVhZeS1FVm9nOW00Vi1CZGFnRFFkT2xEMGs5NU90RGFWLV9TbW85ZXVsb096emtaaUF2MDBoQ3ZCMDJxRHJsZWtCOXZfaFd0WmFHLVVuU2ZvdzlkYlhR?oc=5"
   ],
   [
+   "Crypto",
+   "med",
+   "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMiekFVX3lxTE92Z21qd19KRzhCMzVTUjhFRE11LVg0bFM1UVBrWndlREE1VWtpYzVFdG9aRko3eWxiaXZyNERvWXNsdDkzSzFES1pob19ZZlhLRFl3WWU4Q2ZCczVHcnhjNzQtLXVxYllLclpuTEFicDU5N29QMDRGM2JB0gF_QVVfeXFMT0FOSnpHaXhQSEJUekRROEF2Rk9ROGpkaVBUaGk5bVpsOFFFRFcxVHhSbERReVZ6ZVNtNVF3QTkxWG9rSkdnLXJpdTVkbkF2d2tuQVdRUG1sbERaYTdVeFZPR2VveExpUDI5d0ZfeTlnNVZHRmtBakx3bmdvNW1GRQ?oc=5"
+  ],
+  [
    "Stocks",
    "med",
-   "Anthropic's path to the Nasdaq just got a lot bumpier",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5"
+   "Trump loses legal battle over Epstein-linked Wall Street Journal case",
+   "Al Jazeera",
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQmY5c3RQdTMtYTllSV9PRzh5NWhNcTVJSzFMcmwyYjFUVHFXLXV4TzktV1RwRnVTZ19yRks3NDVFS2JMSWpxZndYR3FKZUxwY2RLN0I0TUxsMm5JYXlqTFV3VFgwUHZxcS1DY0I3SGFUeFRXNXQybXBNYXFER1RBRVNDVG9pbHpET2c0Rlo4dnVuaDZWTXFjT25acGNocmVUdnRwSmR2bzhOYmdUd1lmbNIBtgFBVV95cUxOSG1sU1BpcmNMVThCeXVQekhETDVvYjRHc2NpODZFVXlES3NMaW40YTlTbUZPMXJQTmpBNm5rbDl2SXBtb2NwZHlWR0VKRHp5SFZBLWhOb2lRUFBPUENCNDBSZE1SbHVXcDZZLVZ2YVdVVnFuVzFnblJXUERXNmlzdFNEVGw2QXN4aVZVdFZzVzN6a0FCNm44UTNyT3AwVE5lcElDMEl3cnUxWkh1SVlCVjM3RjdfUQ?oc=5"
   ],
   [
    "Stocks",
@@ -523,16 +523,16 @@
   [
    "Commodities",
    "med",
-   "OPEC+ agrees in principle to keep oil output targets steady in December, sources say",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTk80ZVBzRVczc0hyRHU0RkJiTWx5ZDUwdnBHb0FWSmJyQWJzWHRYR0hZd0MzTW1INnFtSWRISVVRb1RncDltYW16eTYxRU9NcWJzanRqMmp4LWFXUVNTV2tzT3JCM0doS01hWDdGeUhNdHZ3WTdYXy14Q0luZTRmOWdQNlp2ZThtYlQ0cWhNSVk0c0ZkOUFyMExMUWRHMXRKamU2ZHRLa2pPMG9heUhzN2YwTnpCZw?oc=5"
+   "Jackdaw Approval Sparks Fierce Debate Over Britain's Energy Future",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSjVCSDlTcXBVY3B4ZGNXNW1hMXpYOUkyUzctaGZRU1NQSDF2VlF2a3YzWjFwM2FKdzZkdWswMjlJZGhabzFoSG4yTksxMXhkOExENklLdVUwS1FnQ1d1X29ZczQzczQwQmFwQk5zRDVuMHl3Yml4Wm4tNEhGYmUteU56aWVrU18tQUszcnpNVTZ0VjBBcVJrcjVOMmVjckxQVTljaG5NYkZBZk14a3d1QzRjb9IBuAFBVV95cUxPUndNZXZXU1Y3WE5HLUNVWEFyVDQ5NU5RUldQNXpXYlJGNXJRRlJDYnhOYWZiT3RpaFAweFBDc19lRDExeFN2Z1RnRmR2bGEzN0hnTFQ4UzQxcldLNXU2d3dkeFdKV2lyblpGUS02U0YzZ3ctNHhEa3FKakt2SHVaa3lGMS1yVHJRZVBoWnZjbVAtaHZyMVc3azlpa1RXLTZ5UEdzQ1lNMEtkSHMyTmJXb3JpTEhiakw0?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "3 Oil Stocks Investors Are Screening As Brent Forecasts Move Higher",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikwFBVV95cUxOczFzdWZYNUs5VjBwbmZ1N2pDXzhpRmZIUWhsVnJNaTJENzZxdWhHUFJrTFE1YVp3X2o2enpQZktXUFQ3N0dPaUV6QjBfV3lPcEpialhtM01UaEF5N1ZmY1F0UFRBdEc2MXEyWXM1cVpXMnk1cXkwcExRU3RBZXIyM3ByNElLSkFEcmM5U04yMzQ3dHM?oc=5"
+   "OPEC+ agrees in principle to keep oil output targets steady in December, sources say",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTk80ZVBzRVczc0hyRHU0RkJiTWx5ZDUwdnBHb0FWSmJyQWJzWHRYR0hZd0MzTW1INnFtSWRISVVRb1RncDltYW16eTYxRU9NcWJzanRqMmp4LWFXUVNTV2tzT3JCM0doS01hWDdGeUhNdHZ3WTdYXy14Q0luZTRmOWdQNlp2ZThtYlQ0cWhNSVk0c0ZkOUFyMExMUWRHMXRKamU2ZHRLa2pPMG9heUhzN2YwTnpCZw?oc=5"
   ]
  ]
 }
