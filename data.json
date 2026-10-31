@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T05:51:27.851Z",
+ "updated": "2026-10-31T07:05:35.180Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77102.11,
-   "ch": -0.13,
-   "asof": "2026-10-31T05:51:23.000Z"
+   "p": 77271.99,
+   "ch": 0.09,
+   "asof": "2026-10-31T07:05:32.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2238.59,
-   "ch": -0.12,
-   "asof": "2026-10-31T05:51:20.000Z"
+   "p": 2242.35,
+   "ch": 0.05,
+   "asof": "2026-10-31T07:05:27.000Z"
   },
   {
    "s": "S&P 500",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.82,
-   "ch": -0.41,
-   "asof": "2026-10-31T05:51:20.000Z"
+   "p": 95.7,
+   "ch": -0.54,
+   "asof": "2026-10-31T07:05:25.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2448,
-   "ch": -0.77,
-   "asof": "2026-10-31T05:51:21.000Z"
+   "p": 1.2457,
+   "ch": -0.7,
+   "asof": "2026-10-31T07:05:29.000Z"
   },
   {
    "s": "Apple",
@@ -502,16 +502,16 @@
   [
    "Crypto",
    "med",
-   "Binance seeks to shore up confidence after record $6.3 billion heist",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUk91M0NvMWF6S2xLUktmbkcxQ1VBVDBDSnRZSVZZcjJxNVJ3a3VLZ3RxaWFTYWNlRE16bTRnV0VFRnM5b09LUnIzTVV5Slk2VDRaZ0Q5alFvclowelhHWUFXcXNwRUs3RmlxTkNDS0dBeHRCM2FyOXJtRmZicmJWSWZhNnR3QUJwWHU5UWU0OVZIY25S?oc=5"
+   "Hackers just stole $6 billion in crypto. It’s not the first time, and it won’t be the last",
+   "CNN",
+   "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SU200dG5RcjhxVG5FTlhQbG5EYnJiWlF0OWthVkhSYk81TkNRTDJubmRBb1ZENVl0OGZlSmFoOVYwX2tiNTJoM0Vod1ZYT0VSNVRNdVpTLXJWenh6NHdGWDlBdUktWl9YNXF4NGVkOXZYWjVUajF5Tw?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "U.S. Tech Stocks Drop on AI Spending Concerns",
+   "U.S. Stocks Fall as Tech Selloff Deepens",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkFuTEkyc1ZYSmVVcjRIZXVWeXNCbEpsUk9HOXJ1LTcxOWk2WnZjWkpreFp3am1kQ0tSWmtuaHNVYmMyb1ROTE43YlU0VGRad21XS3JyYmYyZlV5aWthaWJQMkJjcVRPUW41djFtem94X2cxWE9Qcm9qYjFmLW1nMHRtRnVRakRsVlg0cjl5U0w3QQ?oc=5"
+   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDB3cDByVmVJQWQ4bzhobm83ZDVVN3MtYXh0VjlYT0xtakhpVkNrUFFHbVpWZEp2UHdpeWIwX0h2eVJqSzdod0t1Y3JxcVBaTzZlUFRKTFNkMDE4LVYxMHNjRGlYb0FsOVdqMnJuVzdHMk0xNVVxWXh4Y0tidlFtbXBUa1lXTVJGOXc1c0VvbjJ6eGVINVY0cEpFZHEtakM1UkFwdVZLVW4ySWlxV0RwNHpnNkpKcUsyRXU4RXN2Zm03QTQ?oc=5"
   ],
   [
    "Stocks",
