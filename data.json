@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T07:05:35.180Z",
+ "updated": "2026-10-31T07:59:19.870Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77271.99,
-   "ch": 0.09,
-   "asof": "2026-10-31T07:05:32.000Z"
+   "p": 77182.98,
+   "ch": -0.03,
+   "asof": "2026-10-31T07:59:19.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2242.35,
-   "ch": 0.05,
-   "asof": "2026-10-31T07:05:27.000Z"
+   "p": 2239.87,
+   "ch": -0.06,
+   "asof": "2026-10-31T07:59:04.000Z"
   },
   {
    "s": "S&P 500",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.7,
-   "ch": -0.54,
-   "asof": "2026-10-31T07:05:25.000Z"
+   "p": 95.31,
+   "ch": -0.94,
+   "asof": "2026-10-31T07:59:16.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2457,
-   "ch": -0.7,
-   "asof": "2026-10-31T07:05:29.000Z"
+   "p": 1.2437,
+   "ch": -0.86,
+   "asof": "2026-10-31T07:59:14.000Z"
   },
   {
    "s": "Apple",
@@ -509,16 +509,16 @@
   [
    "Stocks",
    "med",
-   "U.S. Stocks Fall as Tech Selloff Deepens",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDB3cDByVmVJQWQ4bzhobm83ZDVVN3MtYXh0VjlYT0xtakhpVkNrUFFHbVpWZEp2UHdpeWIwX0h2eVJqSzdod0t1Y3JxcVBaTzZlUFRKTFNkMDE4LVYxMHNjRGlYb0FsOVdqMnJuVzdHMk0xNVVxWXh4Y0tidlFtbXBUa1lXTVJGOXc1c0VvbjJ6eGVINVY0cEpFZHEtakM1UkFwdVZLVW4ySWlxV0RwNHpnNkpKcUsyRXU4RXN2Zm03QTQ?oc=5"
+   "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkNDLXpLZ1A0VklROTJVenpDRlZBWE10ZE1qWWk4ZFVqalgzWWJFdThSd2ZKeUhDanVRQjRhVVVZZGlGZzY1UWYzLXRSZTNHNDNPTkZZRUFJazAzYmV6NzF3QUJtNjhkWHY5OHZNZWVsSFdyY0NScGJadnE3T0dPTWtBUXZOaDJPYWJuX1NOVXkwbGlQSW9MdjlXTlNQTzdLZEdzTHFsQ2gzaEcwTkNHZTNCNF9hMG9lazFHRXItSzg?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkNDLXpLZ1A0VklROTJVenpDRlZBWE10ZE1qWWk4ZFVqalgzWWJFdThSd2ZKeUhDanVRQjRhVVVZZGlGZzY1UWYzLXRSZTNHNDNPTkZZRUFJazAzYmV6NzF3QUJtNjhkWHY5OHZNZWVsSFdyY0NScGJadnE3T0dPTWtBUXZOaDJPYWJuX1NOVXkwbGlQSW9MdjlXTlNQTzdLZEdzTHFsQ2gzaEcwTkNHZTNCNF9hMG9lazFHRXItSzg?oc=5"
+   "U.S. Stocks Fall as Tech Selloff Deepens",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDB3cDByVmVJQWQ4bzhobm83ZDVVN3MtYXh0VjlYT0xtakhpVkNrUFFHbVpWZEp2UHdpeWIwX0h2eVJqSzdod0t1Y3JxcVBaTzZlUFRKTFNkMDE4LVYxMHNjRGlYb0FsOVdqMnJuVzdHMk0xNVVxWXh4Y0tidlFtbXBUa1lXTVJGOXc1c0VvbjJ6eGVINVY0cEpFZHEtakM1UkFwdVZLVW4ySWlxV0RwNHpnNkpKcUsyRXU4RXN2Zm03QTQ?oc=5"
   ],
   [
    "Commodities",
