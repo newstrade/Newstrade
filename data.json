@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T15:46:43.194Z",
+ "updated": "2026-10-31T16:48:36.351Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77432.99,
-   "ch": 0.3,
-   "asof": "2026-10-31T15:46:39.000Z"
+   "p": 77452.8,
+   "ch": 0.32,
+   "asof": "2026-10-31T16:48:34.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2247.52,
-   "ch": 0.28,
-   "asof": "2026-10-31T15:46:36.000Z"
+   "p": 2249.35,
+   "ch": 0.36,
+   "asof": "2026-10-31T16:48:18.000Z"
   },
   {
    "s": "S&P 500",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.76,
-   "ch": -0.48,
-   "asof": "2026-10-31T15:46:33.000Z"
+   "p": 95.8,
+   "ch": -0.44,
+   "asof": "2026-10-31T16:48:32.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2507,
-   "ch": -0.3,
-   "asof": "2026-10-31T15:46:35.000Z"
+   "p": 1.254,
+   "ch": -0.03,
+   "asof": "2026-10-31T16:48:33.000Z"
   },
   {
    "s": "Apple",
@@ -487,10 +487,10 @@
   ],
   [
    "Forex",
-   "med",
-   "Investor Focus: Autumn Budget Unwrapped, Central Bank Drama, and UK Earnings Season",
-   "Morningstar",
-   "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlYyRG5YbTBCZFBzanppdDUxMzg2Z3g2Tk5mYXdub0FWbnAzQVJoM05Ld0dpVVBvT2pPbzJ1bVFVdEJKU0xaSmU3bVZZbFE3bERlc0tMOVRhcnFqSENjdW9pQkljNHBzSnZoMWJTX0ZXb2FqQ1lyblUzTmFqNWtZLVh2TlNIRTRqdFBYakhLbTllS1BrYUpFQ01CZm1IY2pjbi1nZEtHMDJEenpKTHJkYXRnZlJyd194RENwbU1B?oc=5"
+   "high",
+   "'The Fed put is very much back': Wall Street strategists weigh central bank's next move",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVJyRm4wTnJjSmtiU3lKWWZ5WVFndHdqWGlsZzVHd3BRdEhQa2o0UnRablMyblVsbHl0MDVwTFhPRGdCemo1ODhjUGl5ZEJPLUdSQk0taHZCSG4zUV94YXlSeXBLSFV3c3FOdTdvSmhpSkh5Q25STW9sRVI3Tk44TmdQYWIxOF9LeEV0VnVyQVptdTJkaVVCeXhiZlVqb19NYmktQUJ0NldISmpnNFoyTUROYWZuLUd4WUxoT1BMWmJrNGtYcVNab19QZElzaFNwc1N5MUVEVQ?oc=5"
   ],
   [
    "Crypto",
@@ -509,16 +509,16 @@
   [
    "Stocks",
    "med",
-   "Anthropic's path to the Nasdaq just got a lot bumpier",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5"
+   "U.S. Tech Stocks Drop on AI Spending Concerns",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkFuTEkyc1ZYSmVVcjRIZXVWeXNCbEpsUk9HOXJ1LTcxOWk2WnZjWkpreFp3am1kQ0tSWmtuaHNVYmMyb1ROTE43YlU0VGRad21XS3JyYmYyZlV5aWthaWJQMkJjcVRPUW41djFtem94X2cxWE9Qcm9qYjFmLW1nMHRtRnVRakRsVlg0cjl5U0w3QQ?oc=5"
   ],
   [
    "Stocks",
-   "high",
-   "Tom Lee Thinks One Investor Might Be Behind Nasdaq’s Stock Crash",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYlBoUUZ2ZXB1d1dNbGptX0YxdjQ1VHVtSGZrTFQxc2Z3cjR3UFN5YndleDczeTAyMVhTVkFiSE1HbVBqLW1XMnhNUUdlNllaM1BOUmZlWkNUUjdORUJBdmRJV2pUXzBRM3FUZC1JWGRVZlJnMjdzbWpaT0pzZEZpOUItSlVVSFFUVjRVRlVDX3JqZ3NYVVVn?oc=5"
+   "med",
+   "Anthropic's path to the Nasdaq just got a lot bumpier",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5"
   ],
   [
    "Commodities",
