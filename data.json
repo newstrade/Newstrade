@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T07:59:19.870Z",
+ "updated": "2026-10-31T08:54:28.653Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77182.98,
-   "ch": -0.03,
-   "asof": "2026-10-31T07:59:19.000Z"
+   "p": 77208.14,
+   "ch": 0.01,
+   "asof": "2026-10-31T08:54:25.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2239.87,
-   "ch": -0.06,
-   "asof": "2026-10-31T07:59:04.000Z"
+   "p": 2238.1,
+   "ch": -0.14,
+   "asof": "2026-10-31T08:54:22.000Z"
   },
   {
    "s": "S&P 500",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.31,
-   "ch": -0.94,
-   "asof": "2026-10-31T07:59:16.000Z"
+   "p": 95.22,
+   "ch": -1.04,
+   "asof": "2026-10-31T08:54:24.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2437,
-   "ch": -0.86,
-   "asof": "2026-10-31T07:59:14.000Z"
+   "p": 1.244,
+   "ch": -0.83,
+   "asof": "2026-10-31T08:53:57.000Z"
   },
   {
    "s": "Apple",
@@ -502,9 +502,9 @@
   [
    "Crypto",
    "med",
-   "Hackers just stole $6 billion in crypto. It’s not the first time, and it won’t be the last",
-   "CNN",
-   "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SU200dG5RcjhxVG5FTlhQbG5EYnJiWlF0OWthVkhSYk81TkNRTDJubmRBb1ZENVl0OGZlSmFoOVYwX2tiNTJoM0Vod1ZYT0VSNVRNdVpTLXJWenh6NHdGWDlBdUktWl9YNXF4NGVkOXZYWjVUajF5Tw?oc=5"
+   "BTC news: Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSXpTTENaaWs4VGtuVWdtbUxHWWlWdEQ2LXkwZ0R6c2hmRE5UYUVSX0RCXzhtUklINlpJMWdBd0hzX05XRk1MQ01fQ3BZejkwVW84LWxDUnFzUTZUWWRUbmcxQ0c0Z1ZwNXFLWTJENE5ycVlsRjhMdXhzd1hDdUg4QWhjbUdzU1U5M1ZQdWItRWRMZlNuNEF1NWdwS3dxS21CQUhBaFdESUZqYUk2bzI3T21OY2JDdVBSb3pXdUlMX3JLbU53T2xpd213WEwyUQ?oc=5"
   ],
   [
    "Stocks",
