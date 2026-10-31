@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T09:51:21.689Z",
+ "updated": "2026-10-31T10:47:44.508Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77293.54,
-   "ch": 0.12,
-   "asof": "2026-10-31T09:51:17.000Z"
+   "p": 77311.38,
+   "ch": 0.14,
+   "asof": "2026-10-31T10:47:38.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2241.75,
-   "ch": 0.03,
-   "asof": "2026-10-31T09:51:15.000Z"
+   "p": 2242.47,
+   "ch": 0.06,
+   "asof": "2026-10-31T10:47:25.000Z"
   },
   {
    "s": "S&P 500",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.25,
-   "ch": -1.01,
-   "asof": "2026-10-31T09:51:17.000Z"
+   "p": 95.5,
+   "ch": -0.75,
+   "asof": "2026-10-31T10:47:38.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2457,
-   "ch": -0.7,
-   "asof": "2026-10-31T09:51:16.000Z"
+   "p": 1.2464,
+   "ch": -0.64,
+   "asof": "2026-10-31T10:47:40.000Z"
   },
   {
    "s": "Apple",
@@ -480,17 +480,17 @@
  "news": [
   [
    "Forex",
+   "med",
+   "Investor Focus: Autumn Budget Unwrapped, Central Bank Drama, and UK Earnings Season",
+   "Morningstar",
+   "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlYyRG5YbTBCZFBzanppdDUxMzg2Z3g2Tk5mYXdub0FWbnAzQVJoM05Ld0dpVVBvT2pPbzJ1bVFVdEJKU0xaSmU3bVZZbFE3bERlc0tMOVRhcnFqSENjdW9pQkljNHBzSnZoMWJTX0ZXb2FqQ1lyblUzTmFqNWtZLVh2TlNIRTRqdFBYakhLbTllS1BrYUpFQ01CZm1IY2pjbi1nZEtHMDJEenpKTHJkYXRnZlJyd194RENwbU1B?oc=5"
+  ],
+  [
+   "Forex",
    "high",
    "Fed's Barkin says US central bank's direction 'straightforward,' the question is pace, SiriusXM reports",
    "Reuters",
    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeUlVMFZxeTRfY0dKczFKaFBkU1pEbWZqMTBlcFQ0OTRqcXRzUkFIWk5QcW9VTXgyV0ltVS1rck9lUktWODNDNTRYcUNhUEYtSGZKb1cyRzJ4STczazRDemJkblFEck11VC1iXzBqTkplTW1WS1YzYVZlNXhyQjlMUHh4a0FQNm5pVG05S2NEMHVmNFc3Yko5SlA0SlZjWlNaRUNYMlNwMFdoNjB1a3VwUGFLSmhrT1FwZ3BTbDd5UGE?oc=5"
-  ],
-  [
-   "Forex",
-   "med",
-   "Swiss central bank posts bumper $23 billion profit thanks to gold, foreign assets",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTkhEenBXSkttV0hkb1VlT1hGYWxmc2lQY0t2SGFramF6ZUE1b1hlcVpGLXN2VmJFVXkxZEVnNVdoTHpvV0JKcVBjVS12MWNGVkJVTEg3bEEzdWJmc08yakhRZmw2VEtQWkNBUzlGaGpfTldiQzg0eW02czgzVzV4OGdab1hVa1hwS25rY1930gGTAUFVX3lxTE56cVlCUW1fSUtuSU02Yk5ZUXVpYzAweTFwek9IQ20zX0JQRkZoUm1acE5BRkhHQnlRRjF2d0ktbnBPWF9LR2dqSGpPQzF0RktZZmNfSjJsYVhYaS1Mc01fTEZoR2stZmlKZDZmZ1pTZk9KS19KWkZET2dQaUpUelVKYmZQYV9RQURmMmN0N1hyV0lfTQ?oc=5"
   ],
   [
    "Crypto",
@@ -502,9 +502,16 @@
   [
    "Crypto",
    "med",
-   "BTC news: Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSXpTTENaaWs4VGtuVWdtbUxHWWlWdEQ2LXkwZ0R6c2hmRE5UYUVSX0RCXzhtUklINlpJMWdBd0hzX05XRk1MQ01fQ3BZejkwVW84LWxDUnFzUTZUWWRUbmcxQ0c0Z1ZwNXFLWTJENE5ycVlsRjhMdXhzd1hDdUg4QWhjbUdzU1U5M1ZQdWItRWRMZlNuNEF1NWdwS3dxS21CQUhBaFdESUZqYUk2bzI3T21OY2JDdVBSb3pXdUlMX3JLbU53T2xpd213WEwyUQ?oc=5"
+   "Here's Why I'm Buying Bitcoin Right Now",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWGFDZ0tkMl9lYnBNUU9HMFNsVlR6MFBPN0U2WjhfdVVSdXhsRkZvOUl3QldIbVR6MEUzWGZQQXMzSzl5V3kwLVI0ZFVLTFVQSnNiQkFaWHRzV21ndkVkREVWRnFkZEhWUUlhUmdfLVpLNzdGOXB6anFxY2F4eXI2aGFOeU5UbzA1aWRxU3dFOVlXS1lGNkNJ?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
+   "META_TITLE_QUOTE",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51cTBUdmJTdWRuVFN1QjQxcDh1ZzMtcElOUHNJck5hcVpNSXNzbE9yYjFOakNHMzBDa3Z6ektnUEV4MkYyU1FkNzZ3TXM1S3M?oc=5"
   ],
   [
    "Stocks",
@@ -512,13 +519,6 @@
    "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen",
    "Reuters",
    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkNDLXpLZ1A0VklROTJVenpDRlZBWE10ZE1qWWk4ZFVqalgzWWJFdThSd2ZKeUhDanVRQjRhVVVZZGlGZzY1UWYzLXRSZTNHNDNPTkZZRUFJazAzYmV6NzF3QUJtNjhkWHY5OHZNZWVsSFdyY0NScGJadnE3T0dPTWtBUXZOaDJPYWJuX1NOVXkwbGlQSW9MdjlXTlNQTzdLZEdzTHFsQ2gzaEcwTkNHZTNCNF9hMG9lazFHRXItSzg?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "U.S. Tech Stocks Drop on AI Spending Concerns",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkFuTEkyc1ZYSmVVcjRIZXVWeXNCbEpsUk9HOXJ1LTcxOWk2WnZjWkpreFp3am1kQ0tSWmtuaHNVYmMyb1ROTE43YlU0VGRad21XS3JyYmYyZlV5aWthaWJQMkJjcVRPUW41djFtem94X2cxWE9Qcm9qYjFmLW1nMHRtRnVRakRsVlg0cjl5U0w3QQ?oc=5"
   ],
   [
    "Commodities",
