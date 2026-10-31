@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:12:00.515Z",
+ "updated": "2026-10-31T02:05:34.546Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77315.81,
-   "ch": 0.15,
-   "asof": "2026-10-31T01:11:35.000Z"
+   "p": 77246.4,
+   "ch": 0.06,
+   "asof": "2026-10-31T02:05:29.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2243.78,
-   "ch": 0.12,
-   "asof": "2026-10-31T01:11:35.000Z"
+   "p": 2240.63,
+   "ch": -0.02,
+   "asof": "2026-10-31T02:05:19.000Z"
   },
   {
    "s": "S&P 500",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 96.6,
-   "ch": 0.4,
-   "asof": "2026-10-31T01:11:34.000Z"
+   "p": 96.44,
+   "ch": 0.23,
+   "asof": "2026-10-31T02:05:34.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2565,
-   "ch": 0.16,
-   "asof": "2026-10-31T01:11:36.000Z"
+   "p": 1.2523,
+   "ch": -0.17,
+   "asof": "2026-10-31T02:05:30.000Z"
   },
   {
    "s": "Apple",
@@ -495,16 +495,16 @@
   [
    "Crypto",
    "med",
-   "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc0dQM3c5OXJiTzNzd2VRVDY1MUpsNjd2Z3lVVl9VRDR4U3BjcGFHTXlZeG1RVGhYRVR0TUJuSnNZWFUxLWhadEd5OW1FMUJSMzhsUGZKek1tdEdCZWJrbHpvRkgtVHl1Y1V3ZDZjV0hOaHF1b0RsVzhaMmFkX3ZmTkVVTzlkQdIBiwFBVV95cUxNZFVhQ2xvVHNRNlN0SkVrQTBOWW5Ec09veXctQVRXU21EUmpjdkNLWUtYX3VkZ1JLWVdqMVJkWnpUTjdtR1Q2b1FzYTdtMXJRZGpacEkxWE9FdHBFVUpLVmlXRWJRbmcycUxNb1lCSVVHNjMwckpHOEY4cDNtOEphN0FncklDbUNYOGFr?oc=5"
+   "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
+   "AP News",
+   "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaS1PbC12ckM5dTFzWDZISy0zcmVfWjc2ODREc1dFMnlOem5RUmpWWGdxR2dKSlNQS0JrZXVvZGI4VDN2aXRQQkpIaHF4bWdwSjJvYjduMkFQUmdDaEdGS01lQThMQXpjTS02SW5YenA5U0ZQZUZsazg5SnhyZzFZel9YWTZqUmVVYUcxYTEyTDl3V3Z5dEZ6RTZCS3U5ZkUwWFBna2hDNnZ3dHo0?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Hackers just stole $6 billion in crypto. It’s not the first time, and it won’t be the last",
-   "CNN",
-   "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SU200dG5RcjhxVG5FTlhQbG5EYnJiWlF0OWthVkhSYk81TkNRTDJubmRBb1ZENVl0OGZlSmFoOVYwX2tiNTJoM0Vod1ZYT0VSNVRNdVpTLXJWenh6NHdGWDlBdUktWl9YNXF4NGVkOXZYWjVUajF5Tw?oc=5"
+   "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc0dQM3c5OXJiTzNzd2VRVDY1MUpsNjd2Z3lVVl9VRDR4U3BjcGFHTXlZeG1RVGhYRVR0TUJuSnNZWFUxLWhadEd5OW1FMUJSMzhsUGZKek1tdEdCZWJrbHpvRkgtVHl1Y1V3ZDZjV0hOaHF1b0RsVzhaMmFkX3ZmTkVVTzlkQdIBiwFBVV95cUxNZFVhQ2xvVHNRNlN0SkVrQTBOWW5Ec09veXctQVRXU21EUmpjdkNLWUtYX3VkZ1JLWVdqMVJkWnpUTjdtR1Q2b1FzYTdtMXJRZGpacEkxWE9FdHBFVUpLVmlXRWJRbmcycUxNb1lCSVVHNjMwckpHOEY4cDNtOEphN0FncklDbUNYOGFr?oc=5"
   ],
   [
    "Stocks",
