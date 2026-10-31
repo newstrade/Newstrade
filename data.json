@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T03:55:33.822Z",
+ "updated": "2026-10-31T04:55:22.641Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77009.27,
+   "p": 77009.39,
    "ch": -0.25,
-   "asof": "2026-10-31T03:55:30.000Z"
+   "asof": "2026-10-31T04:55:21.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2236.32,
-   "ch": -0.22,
-   "asof": "2026-10-31T03:55:28.000Z"
+   "p": 2234.48,
+   "ch": -0.3,
+   "asof": "2026-10-31T04:55:17.000Z"
   },
   {
    "s": "S&P 500",
@@ -370,7 +370,7 @@
    "d": 2,
    "p": 7580.07,
    "ch": -1.82,
-   "asof": "2026-10-30T20:00:00.000Z"
+   "asof": "2026-10-30T20:47:43.000Z"
   },
   {
    "s": "Nasdaq",
@@ -392,16 +392,16 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3884.9,
-   "ch": -3.63,
+   "p": 3898.9,
+   "ch": -3.29,
    "asof": "2026-10-30T20:59:59.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 102.95,
-   "ch": 0.93,
+   "p": 104.12,
+   "ch": 2.08,
    "asof": "2026-10-30T20:59:59.000Z"
   },
   {
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.99,
-   "ch": -0.24,
-   "asof": "2026-10-31T03:55:29.000Z"
+   "p": 95.48,
+   "ch": -0.77,
+   "asof": "2026-10-31T04:55:16.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2485,
-   "ch": -0.47,
-   "asof": "2026-10-31T03:55:30.000Z"
+   "p": 1.2414,
+   "ch": -1.04,
+   "asof": "2026-10-31T04:55:12.000Z"
   },
   {
    "s": "Apple",
@@ -472,12 +472,19 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 49.135,
-   "ch": -6.2,
+   "p": 49.276,
+   "ch": -5.93,
    "asof": "2026-10-30T20:59:59.000Z"
   }
  ],
  "news": [
+  [
+   "Forex",
+   "high",
+   "Fed's Barkin says US central bank's direction 'straightforward,' the question is pace, SiriusXM reports",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeUlVMFZxeTRfY0dKczFKaFBkU1pEbWZqMTBlcFQ0OTRqcXRzUkFIWk5QcW9VTXgyV0ltVS1rck9lUktWODNDNTRYcUNhUEYtSGZKb1cyRzJ4STczazRDemJkblFEck11VC1iXzBqTkplTW1WS1YzYVZlNXhyQjlMUHh4a0FQNm5pVG05S2NEMHVmNFc3Yko5SlA0SlZjWlNaRUNYMlNwMFdoNjB1a3VwUGFLSmhrT1FwZ3BTbDd5UGE?oc=5"
+  ],
   [
    "Forex",
    "med",
@@ -486,25 +493,18 @@
    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTkhEenBXSkttV0hkb1VlT1hGYWxmc2lQY0t2SGFramF6ZUE1b1hlcVpGLXN2VmJFVXkxZEVnNVdoTHpvV0JKcVBjVS12MWNGVkJVTEg3bEEzdWJmc08yakhRZmw2VEtQWkNBUzlGaGpfTldiQzg0eW02czgzVzV4OGdab1hVa1hwS25rY1930gGTAUFVX3lxTE56cVlCUW1fSUtuSU02Yk5ZUXVpYzAweTFwek9IQ20zX0JQRkZoUm1acE5BRkhHQnlRRjF2d0ktbnBPWF9LR2dqSGpPQzF0RktZZmNfSjJsYVhYaS1Mc01fTEZoR2stZmlKZDZmZ1pTZk9KS19KWkZET2dQaUpUelVKYmZQYV9RQURmMmN0N1hyV0lfTQ?oc=5"
   ],
   [
-   "Forex",
-   "med",
-   "Colombia central bank holds rate, will shore up reserves with $2 billion",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTnU5WHRRZzRhWktxRjFGY0VjWHdrLThPR2M5WXZZb0FTZXd6eDg0Z01FZzZtRUlET2IzdEVFdnZhalBRdFhadFQyaHVRVmJqQ1pwdmxBOWUwcE5BLXJMS1dGR044d1JOTS1VMTQ1dFp5TURaQ1diaDB2QWhLV01rcWdfTEczQXl5OWlsYTZ1ZEhoVnY3alpqQXhWbnNwMDQ?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
-   "AP News",
-   "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaS1PbC12ckM5dTFzWDZISy0zcmVfWjc2ODREc1dFMnlOem5RUmpWWGdxR2dKSlNQS0JrZXVvZGI4VDN2aXRQQkpIaHF4bWdwSjJvYjduMkFQUmdDaEdGS01lQThMQXpjTS02SW5YenA5U0ZQZUZsazg5SnhyZzFZel9YWTZqUmVVYUcxYTEyTDl3V3Z5dEZ6RTZCS3U5ZkUwWFBna2hDNnZ3dHo0?oc=5"
-  ],
-  [
    "Crypto",
    "med",
    "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
    "CNBC",
    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc0dQM3c5OXJiTzNzd2VRVDY1MUpsNjd2Z3lVVl9VRDR4U3BjcGFHTXlZeG1RVGhYRVR0TUJuSnNZWFUxLWhadEd5OW1FMUJSMzhsUGZKek1tdEdCZWJrbHpvRkgtVHl1Y1V3ZDZjV0hOaHF1b0RsVzhaMmFkX3ZmTkVVTzlkQdIBiwFBVV95cUxNZFVhQ2xvVHNRNlN0SkVrQTBOWW5Ec09veXctQVRXU21EUmpjdkNLWUtYX3VkZ1JLWVdqMVJkWnpUTjdtR1Q2b1FzYTdtMXJRZGpacEkxWE9FdHBFVUpLVmlXRWJRbmcycUxNb1lCSVVHNjMwckpHOEY4cDNtOEphN0FncklDbUNYOGFr?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbmo4WVM3RVhVSFMyTlMxZkl0WDlxRWgwRTBWbG5WT0dMNFFtakFvbWJHT2cxMmF4NXdlTlcwdmRiOWV5eHFoRmx1WHpSTXNSQmlVekdlSFRhajlLOWwyQ3NhRUtqZjUyWVJZY2VXTVFnMzR4dGZCdEloTEJ6M2x4VHlmRW1LdkREQVRMcU1WNG9IZ2k3WFVHTjFuSlN4SHo0a19rcWptQ2x5WnpjVVVwTTFiRjJSWGEyMDZSVUgzNkhDZw?oc=5"
   ],
   [
    "Stocks",
@@ -516,9 +516,9 @@
   [
    "Stocks",
    "med",
-   "U.S. Tech Stocks Drop on AI Spending Concerns",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkFuTEkyc1ZYSmVVcjRIZXVWeXNCbEpsUk9HOXJ1LTcxOWk2WnZjWkpreFp3am1kQ0tSWmtuaHNVYmMyb1ROTE43YlU0VGRad21XS3JyYmYyZlV5aWthaWJQMkJjcVRPUW41djFtem94X2cxWE9Qcm9qYjFmLW1nMHRtRnVRakRsVlg0cjl5U0w3QQ?oc=5"
+   "Nasdaq 100 plunges more than 3% to cap its worst month since 2025 after dismal tech earnings",
+   "Business Insider",
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxONzk3SWo0SUFZeUo4blMxSHYzTzhXbXVHNEQ2WDg1VmIwOGdZSUZkQnlUd3c1d3p3d1ZzY1NKWkJGeThlVXpEYzVSU2RjMUhtT1RPNGtjS3gxelVIemN5OUVIOVVhMHh6Q3dNaE8wbVhtejRqMkltcEpDbFBnQjBwLTJmQUN5QVl3MDdKbnBWNWFScFFw?oc=5"
   ],
   [
    "Commodities",
