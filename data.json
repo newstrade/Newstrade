@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T01:22:06.532Z",
+ "updated": "2026-11-01T02:58:38.455Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77562.81,
-   "ch": 0.16,
-   "asof": "2026-11-01T01:22:01.000Z"
+   "p": 77621.99,
+   "ch": 0.23,
+   "asof": "2026-11-01T02:58:35.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2262.97,
-   "ch": 0.46,
-   "asof": "2026-11-01T01:22:01.000Z"
+   "p": 2262.25,
+   "ch": 0.43,
+   "asof": "2026-11-01T02:58:33.000Z"
   },
   {
    "s": "S&P 500",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.63,
-   "ch": 0.29,
-   "asof": "2026-11-01T01:22:01.000Z"
+   "p": 95.26,
+   "ch": -0.1,
+   "asof": "2026-11-01T02:58:33.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2539,
-   "ch": 0.3,
-   "asof": "2026-11-01T01:21:57.000Z"
+   "p": 1.2465,
+   "ch": -0.29,
+   "asof": "2026-11-01T02:58:33.000Z"
   },
   {
    "s": "Apple",
@@ -495,23 +495,16 @@
   [
    "Crypto",
    "med",
-   "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMiekFVX3lxTE92Z21qd19KRzhCMzVTUjhFRE11LVg0bFM1UVBrWndlREE1VWtpYzVFdG9aRko3eWxiaXZyNERvWXNsdDkzSzFES1pob19ZZlhLRFl3WWU4Q2ZCczVHcnhjNzQtLXVxYllLclpuTEFicDU5N29QMDRGM2JB0gF_QVVfeXFMT0FOSnpHaXhQSEJUekRROEF2Rk9ROGpkaVBUaGk5bVpsOFFFRFcxVHhSbERReVZ6ZVNtNVF3QTkxWG9rSkdnLXJpdTVkbkF2d2tuQVdRUG1sbERaYTdVeFZPR2VveExpUDI5d0ZfeTlnNVZHRmtBakx3bmdvNW1GRQ?oc=5"
+   "How a stolen iPhone in London led to drained crypto wallets and $14,000 in losses",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWWtXcU50RXNlOTJjUGthVDRDRUNiZXExLThOcXlvZC1DSExOZV96bDdxRW1BWkhOZE1kTldsSEU3dFRoNVlncVJXQWxSVjEzN1pBTHJxVzNMTDZQa1BFc21CZjdDTlllemdGZmVRN3ZpdWRXd1Q0QlloVDJaYjdvUExNMlFHeEhfSlZQZ0x6NnVqU1YtZGtTS1hiQjhKMmFOZ2oweU1uejM1MFRibmhHM1BSQUY?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Notorious hacker says stolen crypto is like ‘holding a hot potato’",
-   "CNN",
-   "https://news.google.com/rss/articles/CBMiekFVX3lxTE82Y2VnTVhXcld6RWJyVG9ESlh0X3dCYjJlYm4xUVhZeS1FVm9nOW00Vi1CZGFnRFFkT2xEMGs5NU90RGFWLV9TbW85ZXVsb096emtaaUF2MDBoQ3ZCMDJxRHJsZWtCOXZfaFd0WmFHLVVuU2ZvdzlkYlhR?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "After Meta, Could These Be Wall Street’s Next Blockbuster Stock Splits?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2NWZlcwUGdyRzMyb3VVemlNZTcyaTBROEZMZld4UXRmRHQ3MF8yeTRjdUJlR2xuMVFBNHMyN2xDcS1CTTlhVkwyZTNnSi12Z1FFYnk3T3o4U0R4eEhCOVVyZjJoYnFkUFNvQ2UyN3lLOVhWWkZ2Skh3UEc0bHp5MWg1MTB0eFgzZWktYjdfV2E0U1lhcnVr?oc=5"
+   "FBI Blames North Korea for $6 Billion Binance Crypto Hack",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGNNaTA1T0R2a3lpbGs4MlE1aGw1NFYxd0hqZ0YtekJETXJOdi1pYjZqY1lPMUptdVBEY0JIcEZJcnJpQkhsLTFxdlh0Sko3TkJjWG5kUFhNQ1BOYnRfZVVQaXJsQ1pGNEZHd0VMY2hDWEpGbUtmcGxVQjlYMF9iQjVqYkFZWUZSMU5YMVFFbFRMMFE2SkdKbUNsYXZyNXl1WFVQaU1sMkhzQXM?oc=5"
   ],
   [
    "Stocks",
@@ -521,18 +514,25 @@
    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5"
   ],
   [
+   "Stocks",
+   "med",
+   "After Meta, Could These Be Wall Street’s Next Blockbuster Stock Splits?",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2NWZlcwUGdyRzMyb3VVemlNZTcyaTBROEZMZld4UXRmRHQ3MF8yeTRjdUJlR2xuMVFBNHMyN2xDcS1CTTlhVkwyZTNnSi12Z1FFYnk3T3o4U0R4eEhCOVVyZjJoYnFkUFNvQ2UyN3lLOVhWWkZ2Skh3UEc0bHp5MWg1MTB0eFgzZWktYjdfV2E0U1lhcnVr?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Crude Oil Dec 26 (CL=F) stock price, news, quote and history",
+   "Yahoo Finance UK",
+   "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53TTE4VVFxXzFERC1MYXc3NGtSMU1vVjFRUWhQbXZYZ1VlYW1wekVWd0psQ1hzdUdvR1BJT3BCbmxkd2JnQzhXOWVvZ2o2TmpGdG9CdA?oc=5"
+  ],
+  [
    "Commodities",
    "med",
    "Jackdaw Approval Sparks Fierce Debate Over Britain's Energy Future",
    "Crude Oil Prices Today | OilPrice.com",
    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSjVCSDlTcXBVY3B4ZGNXNW1hMXpYOUkyUzctaGZRU1NQSDF2VlF2a3YzWjFwM2FKdzZkdWswMjlJZGhabzFoSG4yTksxMXhkOExENklLdVUwS1FnQ1d1X29ZczQzczQwQmFwQk5zRDVuMHl3Yml4Wm4tNEhGYmUteU56aWVrU18tQUszcnpNVTZ0VjBBcVJrcjVOMmVjckxQVTljaG5NYkZBZk14a3d1QzRjb9IBuAFBVV95cUxPUndNZXZXU1Y3WE5HLUNVWEFyVDQ5NU5RUldQNXpXYlJGNXJRRlJDYnhOYWZiT3RpaFAweFBDc19lRDExeFN2Z1RnRmR2bGEzN0hnTFQ4UzQxcldLNXU2d3dkeFdKV2lyblpGUS02U0YzZ3ctNHhEa3FKakt2SHVaa3lGMS1yVHJRZVBoWnZjbVAtaHZyMVc3azlpa1RXLTZ5UEdzQ1lNMEtkSHMyTmJXb3JpTEhiakw0?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "OPEC+ agrees in principle to keep oil output targets steady in December, sources say",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTk80ZVBzRVczc0hyRHU0RkJiTWx5ZDUwdnBHb0FWSmJyQWJzWHRYR0hZd0MzTW1INnFtSWRISVVRb1RncDltYW16eTYxRU9NcWJzanRqMmp4LWFXUVNTV2tzT3JCM0doS01hWDdGeUhNdHZ3WTdYXy14Q0luZTRmOWdQNlp2ZThtYlQ0cWhNSVk0c0ZkOUFyMExMUWRHMXRKamU2ZHRLa2pPMG9heUhzN2YwTnpCZw?oc=5"
   ]
  ]
 }
