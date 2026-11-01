@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T02:58:38.455Z",
+ "updated": "2026-11-01T04:00:39.283Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77621.99,
-   "ch": 0.23,
-   "asof": "2026-11-01T02:58:35.000Z"
+   "p": 77654.94,
+   "ch": 0.28,
+   "asof": "2026-11-01T04:00:38.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2262.25,
-   "ch": 0.43,
-   "asof": "2026-11-01T02:58:33.000Z"
+   "p": 2264.72,
+   "ch": 0.54,
+   "asof": "2026-11-01T04:00:33.000Z"
   },
   {
    "s": "S&P 500",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.26,
-   "ch": -0.1,
-   "asof": "2026-11-01T02:58:33.000Z"
+   "p": 95.42,
+   "ch": 0.07,
+   "asof": "2026-11-01T04:00:35.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2465,
-   "ch": -0.29,
-   "asof": "2026-11-01T02:58:33.000Z"
+   "p": 1.2478,
+   "ch": -0.18,
+   "asof": "2026-11-01T04:00:36.000Z"
   },
   {
    "s": "Apple",
@@ -495,23 +495,23 @@
   [
    "Crypto",
    "med",
+   "J.P. Morgan Just Made a Bold Prediction About Bitcoin. Should You Buy It?",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0ZNdUp5MGxmQ2tjbUF1VGFkNUp2azNLZU55cENIVWZCcENVVl9LdTRHUlJoTm5XRkVjdkIwWWFSR01kMTFJcmhEQjhyQzFLeklxYU53RlJ3SHcyUnRjVjZZNVZOQVhES2xaSHVISW5MZi04VWtIVVpiSzVtWExZOVlNa1ZMY2hoR3FOQVBn?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
    "How a stolen iPhone in London led to drained crypto wallets and $14,000 in losses",
    "CoinDesk",
    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWWtXcU50RXNlOTJjUGthVDRDRUNiZXExLThOcXlvZC1DSExOZV96bDdxRW1BWkhOZE1kTldsSEU3dFRoNVlncVJXQWxSVjEzN1pBTHJxVzNMTDZQa1BFc21CZjdDTlllemdGZmVRN3ZpdWRXd1Q0QlloVDJaYjdvUExNMlFHeEhfSlZQZ0x6NnVqU1YtZGtTS1hiQjhKMmFOZ2oweU1uejM1MFRibmhHM1BSQUY?oc=5"
   ],
   [
-   "Crypto",
-   "med",
-   "FBI Blames North Korea for $6 Billion Binance Crypto Hack",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGNNaTA1T0R2a3lpbGs4MlE1aGw1NFYxd0hqZ0YtekJETXJOdi1pYjZqY1lPMUptdVBEY0JIcEZJcnJpQkhsLTFxdlh0Sko3TkJjWG5kUFhNQ1BOYnRfZVVQaXJsQ1pGNEZHd0VMY2hDWEpGbUtmcGxVQjlYMF9iQjVqYkFZWUZSMU5YMVFFbFRMMFE2SkdKbUNsYXZyNXl1WFVQaU1sMkhzQXM?oc=5"
-  ],
-  [
    "Stocks",
    "med",
-   "Anthropic's path to the Nasdaq just got a lot bumpier",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5"
+   "What investors are watching",
+   "Axios",
+   "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsYmkwVXpKRldFcW9PMFFabmZzdkFxVnl4LWt6c3d5eFRKcTIyS1AyU1JLSnB5eWktY0d4djNOSFVDSllvNndVcUdMTlc1Z3lxYm55S0RfWk53dlNUQ0VMSXFBU05Tcl9UNTVFMnpPTWVTV2hpUXc?oc=5"
   ],
   [
    "Stocks",
