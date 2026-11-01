@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T23:45:02.084Z",
+ "updated": "2026-11-01T01:22:06.532Z",
  "events": [
   {
    "iso": "2026-10-27T10:00:00-04:00",
@@ -314,7 +314,7 @@
    "d": 4,
    "p": 1.3393,
    "ch": 0.13,
-   "asof": "2026-10-31T17:24:27.000Z"
+   "asof": "2026-11-01T00:49:29.000Z"
   },
   {
    "s": "USD/JPY",
@@ -352,17 +352,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77377.6,
-   "ch": 0.23,
-   "asof": "2026-10-31T23:45:00.000Z"
+   "p": 77562.81,
+   "ch": 0.16,
+   "asof": "2026-11-01T01:22:01.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2251.39,
+   "p": 2262.97,
    "ch": 0.46,
-   "asof": "2026-10-31T23:45:00.000Z"
+   "asof": "2026-11-01T01:22:01.000Z"
   },
   {
    "s": "S&P 500",
@@ -432,17 +432,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.18,
-   "ch": -1.08,
-   "asof": "2026-10-31T23:44:59.000Z"
+   "p": 95.63,
+   "ch": 0.29,
+   "asof": "2026-11-01T01:22:01.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2497,
-   "ch": -0.38,
-   "asof": "2026-10-31T23:44:51.000Z"
+   "p": 1.2539,
+   "ch": 0.3,
+   "asof": "2026-11-01T01:21:57.000Z"
   },
   {
    "s": "Apple",
@@ -495,23 +495,16 @@
   [
    "Crypto",
    "med",
-   "Notorious hacker says stolen crypto is like ‘holding a hot potato’",
-   "CNN",
-   "https://news.google.com/rss/articles/CBMiekFVX3lxTE82Y2VnTVhXcld6RWJyVG9ESlh0X3dCYjJlYm4xUVhZeS1FVm9nOW00Vi1CZGFnRFFkT2xEMGs5NU90RGFWLV9TbW85ZXVsb096emtaaUF2MDBoQ3ZCMDJxRHJsZWtCOXZfaFd0WmFHLVVuU2ZvdzlkYlhR?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
    "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
    "CNBC",
    "https://news.google.com/rss/articles/CBMiekFVX3lxTE92Z21qd19KRzhCMzVTUjhFRE11LVg0bFM1UVBrWndlREE1VWtpYzVFdG9aRko3eWxiaXZyNERvWXNsdDkzSzFES1pob19ZZlhLRFl3WWU4Q2ZCczVHcnhjNzQtLXVxYllLclpuTEFicDU5N29QMDRGM2JB0gF_QVVfeXFMT0FOSnpHaXhQSEJUekRROEF2Rk9ROGpkaVBUaGk5bVpsOFFFRFcxVHhSbERReVZ6ZVNtNVF3QTkxWG9rSkdnLXJpdTVkbkF2d2tuQVdRUG1sbERaYTdVeFZPR2VveExpUDI5d0ZfeTlnNVZHRmtBakx3bmdvNW1GRQ?oc=5"
   ],
   [
-   "Stocks",
+   "Crypto",
    "med",
-   "Trump loses legal battle over Epstein-linked Wall Street Journal case",
-   "Al Jazeera",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQmY5c3RQdTMtYTllSV9PRzh5NWhNcTVJSzFMcmwyYjFUVHFXLXV4TzktV1RwRnVTZ19yRks3NDVFS2JMSWpxZndYR3FKZUxwY2RLN0I0TUxsMm5JYXlqTFV3VFgwUHZxcS1DY0I3SGFUeFRXNXQybXBNYXFER1RBRVNDVG9pbHpET2c0Rlo4dnVuaDZWTXFjT25acGNocmVUdnRwSmR2bzhOYmdUd1lmbNIBtgFBVV95cUxOSG1sU1BpcmNMVThCeXVQekhETDVvYjRHc2NpODZFVXlES3NMaW40YTlTbUZPMXJQTmpBNm5rbDl2SXBtb2NwZHlWR0VKRHp5SFZBLWhOb2lRUFBPUENCNDBSZE1SbHVXcDZZLVZ2YVdVVnFuVzFnblJXUERXNmlzdFNEVGw2QXN4aVZVdFZzVzN6a0FCNm44UTNyT3AwVE5lcElDMEl3cnUxWkh1SVlCVjM3RjdfUQ?oc=5"
+   "Notorious hacker says stolen crypto is like ‘holding a hot potato’",
+   "CNN",
+   "https://news.google.com/rss/articles/CBMiekFVX3lxTE82Y2VnTVhXcld6RWJyVG9ESlh0X3dCYjJlYm4xUVhZeS1FVm9nOW00Vi1CZGFnRFFkT2xEMGs5NU90RGFWLV9TbW85ZXVsb096emtaaUF2MDBoQ3ZCMDJxRHJsZWtCOXZfaFd0WmFHLVVuU2ZvdzlkYlhR?oc=5"
   ],
   [
    "Stocks",
@@ -519,6 +512,13 @@
    "After Meta, Could These Be Wall Street’s Next Blockbuster Stock Splits?",
    "Yahoo Finance",
    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2NWZlcwUGdyRzMyb3VVemlNZTcyaTBROEZMZld4UXRmRHQ3MF8yeTRjdUJlR2xuMVFBNHMyN2xDcS1CTTlhVkwyZTNnSi12Z1FFYnk3T3o4U0R4eEhCOVVyZjJoYnFkUFNvQ2UyN3lLOVhWWkZ2Skh3UEc0bHp5MWg1MTB0eFgzZWktYjdfV2E0U1lhcnVr?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
+   "Anthropic's path to the Nasdaq just got a lot bumpier",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5"
   ],
   [
    "Commodities",
