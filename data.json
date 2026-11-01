@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T08:57:34.995Z",
+ "updated": "2026-11-01T09:55:35.258Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 78024.53,
-   "ch": 0.75,
-   "asof": "2026-11-01T08:57:33.000Z"
+   "p": 77960.69,
+   "ch": 0.67,
+   "asof": "2026-11-01T09:55:29.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2270.83,
-   "ch": 0.81,
-   "asof": "2026-11-01T08:57:28.000Z"
+   "p": 2266.96,
+   "ch": 0.64,
+   "asof": "2026-11-01T09:55:18.000Z"
   },
   {
    "s": "S&P 500",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.61,
-   "ch": 0.27,
-   "asof": "2026-11-01T08:57:32.000Z"
+   "p": 95.34,
+   "ch": -0.01,
+   "asof": "2026-11-01T09:55:28.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2511,
-   "ch": 0.08,
-   "asof": "2026-11-01T08:57:25.000Z"
+   "p": 1.2501,
+   "ch": 0,
+   "asof": "2026-11-01T09:55:26.000Z"
   },
   {
    "s": "Apple",
@@ -504,30 +504,37 @@
   [
    "Crypto",
    "med",
-   "Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist",
+   "How Binance Is Racing to Cover Losses in the Biggest Heist in Crypto History",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbmo4WVM3RVhVSFMyTlMxZkl0WDlxRWgwRTBWbG5WT0dMNFFtakFvbWJHT2cxMmF4NXdlTlcwdmRiOWV5eHFoRmx1WHpSTXNSQmlVekdlSFRhajlLOWwyQ3NhRUtqZjUyWVJZY2VXTVFnMzR4dGZCdEloTEJ6M2x4VHlmRW1LdkREQVRMcU1WNG9IZ2k3WFVHTjFuSlN4SHo0a19rcWptQ2x5WnpjVVVwTTFiRjJSWGEyMDZSVUgzNkhDZw?oc=5"
+   "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRkNDZ0ZGR3NEdWQzWTR0TEc1R0FvcW02OHNxTHQycWF3VGFiNWhKTC1EaEdLZXhwbi1pQzJKQ1Z6MW4wNVp1Wnp2bF9TWkwtWWlycHNEa3lFbUViRHlocXRXMzlVaDBEd0F2b3lXUlFNdTJVYWU3XzlQc0xwUF9aNVNhdWxVQU40cEdjRDBJbkV2LUY1OG5sYjJrZHMwVndtQl84c2U3X2hVWE5NV2ZHdHVDZzZJdGJoRV9lMHI4VHczajNsWDJV?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWWtXcU50RXNlOTJjUGthVDRDRUNiZXExLThOcXlvZC1DSExOZV96bDdxRW1BWkhOZE1kTldsSEU3dFRoNVlncVJXQWxSVjEzN1pBTHJxVzNMTDZQa1BFc21CZjdDTlllemdGZmVRN3ZpdWRXd1Q0QlloVDJaYjdvUExNMlFHeEhfSlZQZ0x6NnVqU1YtZGtTS1hiQjhKMmFOZ2oweU1uejM1MFRibmhHM1BSQUY?oc=5"
+   "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
+   "Yahoo Finance UK",
+   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NeVkwY1dKeWxrcExZc0dzcnlWSUZ4czQtZHIyX1JYUnp5cWE5WFcwNjl3clkxY3dyUjFtbG1FOU43Ny1leHhSaVpCMzFQREhacmFmaTRR?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Alphabet Stock Sinks, Dragging Nasdaq Lower",
+   "U.S. Tech Stocks Drop on AI Spending Concerns",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdEt3QnZYMW5WSVBNMUNqQ3pOUEV6RVVoM2xLa2RfV0VEQ1YyTzE2MFIwTnNGdTRFelljM3gtM3lORnhLYW5nT1VaSk5IVV85NlBIeGFlWlhaOHFIcHZhTm1ER1FsZzdZRElZUHl0Mm4ya04tMjZ2WV9ZbzVJLUhocktXVVFYVy1lbEJOWVF4eFVHdVNsbEQ4Tg?oc=5"
+   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkFuTEkyc1ZYSmVVcjRIZXVWeXNCbEpsUk9HOXJ1LTcxOWk2WnZjWkpreFp3am1kQ0tSWmtuaHNVYmMyb1ROTE43YlU0VGRad21XS3JyYmYyZlV5aWthaWJQMkJjcVRPUW41djFtem94X2cxWE9Qcm9qYjFmLW1nMHRtRnVRakRsVlg0cjl5U0w3QQ?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "King Apple is taking Wall Street’s top spot back from Nvidia — for the fifth time",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYU9xc1MyR2p6MXZzcU1Dd21lUFpLWkp1TVFtaHdzMFozRVJZUFcyS0o2X1NHaFNJMTZycXhETC1yLVZZbEQxd1RxSEg0c0hxS2lRRnJxSDl4M3pHSU4tRklkeUhIcFVkRkZqV2F6dXU2YlZBTWtrdWlJcXFwV0dySHZXdU5Cc25VNDZwVWVZOW13STNubXFvOE9nZGJXa3p2MG5ySWdxLU5sVzB3b0FSOWNFeE1lVHdSdG54c0ctUFpfUUhpSGJ3dl8zSQ?oc=5"
+   "The Nasdaq Just Flashed a Signal Investors Can't Afford to Ignore. History Says the Stock Market Will Do This Next.",
+   "The Motley Fool",
+   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeTBCZFNCaE13bHZOV3FIcmszMjFISWlIYW5uZmNtUWJ3T2NkZmI0dWZPb0ZXMktUTUpHbkpvQUsxcG51ZDF1eUdodTJmX2c3aUhkMGQ2Ym1iQWc4YllfZjJRZ3h3QWVSbk42dU1iY2FJOV9xTGZhdGFWZmRzT3gwcTlCT2ljc2FQVldSN04zd1NUM1ExNzhLUnNfd2VhemNGYndB?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "OPEC+ set to keep oil output targets steady, sources say",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVRNX1Y5b0xXX3dlMU1QX2lRbVkxbkJYSU9SUVdxUFlXQ2hGcjRpRlVIbklCeTlZa1d2VnNOQWFaaVN0NHJVcnJSRVhUSngyVmcxdzlsZVpwSm1wbmduTGpNbXkwWEhKbGZQdURzZ0c0UHl2S28zLUxjbDdSUkdzZTFnMmtubVlvbmFVMHlsX3BvOVpLa2NqcWozZTJUWlhnUWUxYXFn?oc=5"
   ],
   [
    "Commodities",
@@ -535,13 +542,6 @@
    "OPEC+ agrees in principle to keep oil output targets steady in December, sources say",
    "Reuters",
    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTk80ZVBzRVczc0hyRHU0RkJiTWx5ZDUwdnBHb0FWSmJyQWJzWHRYR0hZd0MzTW1INnFtSWRISVVRb1RncDltYW16eTYxRU9NcWJzanRqMmp4LWFXUVNTV2tzT3JCM0doS01hWDdGeUhNdHZ3WTdYXy14Q0luZTRmOWdQNlp2ZThtYlQ0cWhNSVk0c0ZkOUFyMExMUWRHMXRKamU2ZHRLa2pPMG9heUhzN2YwTnpCZw?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "DARPA Backs Project to Measure AI Energy Use at Every Stage of the Workflow",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdWFlNUxyU2dZQkxJYkt6YkJLWUVfYW83ZWc1TlNjeThzRFExaXFvWXNqOVZEM0dUQjU2U3ZiOTRVRnhkaXJoYk5mSnhKWVFmY2IxMTg2c0hRS2dRYUotZ0VHN2g4by1INktNUEhwVk9LVFpWUEpYWXpNRFVwQm5iczA3MjA1NDM5VUlrSW5GbnJobW0tZ1FMYTVlbGZDZVBWZ3FGTmZyZXdNWEoySlZsOUhRcE9LYnY2NW1oMWN2R0rSAcYBQVVfeXFMT2d6dUFXSE51Sy1PQTViVUlIYUp5djVpemNubDVrRWZ5UEIxWTdMbWJkd3lpVWZpZlNzVlJHazdBUkVnMXBSM2duTGFHUHlXVHB0cFc0c3BGOU5qNXkyOGdUME1MZkpQTDR1bjlfSmlCV05TNGdUWFMyM0xPWUgyWTlqUnBRd0xzU2Z1MmNHVFVxeDFKbzBFRGttbUduanFLdlQ2SjM4NjdUWjh3SzdqX1ZEM0ttMVJiMFpvUDVpRzFSc0pmVXJ3?oc=5"
   ]
  ]
 }
