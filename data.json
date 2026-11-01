@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T17:43:59.191Z",
+ "updated": "2026-11-01T18:55:43.185Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -337,17 +337,17 @@
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7035,
-   "ch": 0.06,
-   "asof": "2026-11-01T05:49:28.000Z"
+   "p": 0.7033,
+   "ch": 0.03,
+   "asof": "2026-11-01T18:23:25.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3971,
-   "ch": -0.11,
-   "asof": "2026-11-01T14:22:25.000Z"
+   "p": 1.3973,
+   "ch": -0.1,
+   "asof": "2026-11-01T17:57:56.000Z"
   },
   {
    "s": "USD/CHF",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77950.05,
-   "ch": 0.66,
-   "asof": "2026-11-01T17:43:56.000Z"
+   "p": 77760.15,
+   "ch": 0.41,
+   "asof": "2026-11-01T18:55:39.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2265.44,
-   "ch": 0.57,
-   "asof": "2026-11-01T17:43:55.000Z"
+   "p": 2260.55,
+   "ch": 0.35,
+   "asof": "2026-11-01T18:55:39.000Z"
   },
   {
    "s": "S&P 500",
@@ -425,9 +425,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.7073,
-   "ch": 0.6,
-   "asof": "2026-11-01T14:22:25.000Z"
+   "p": 16.6988,
+   "ch": 0.55,
+   "asof": "2026-11-01T18:00:51.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 94.6,
-   "ch": -0.79,
-   "asof": "2026-11-01T17:43:57.000Z"
+   "p": 94.2,
+   "ch": -1.21,
+   "asof": "2026-11-01T18:55:40.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2502,
-   "ch": 0.01,
-   "asof": "2026-11-01T17:43:53.000Z"
+   "p": 1.2475,
+   "ch": -0.21,
+   "asof": "2026-11-01T18:55:41.000Z"
   },
   {
    "s": "Apple",
@@ -525,9 +525,9 @@
   [
    "Stocks",
    "med",
-   "U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemJPWElvMW9JX2pxLThMQ1VVVDhyaGhjelVIZC12OFk2VjNCOVpVQy1hYkdQRUlpOERsWG9XZDk1SkVtZmxCQlB5V0M0bjZQeUNEOGJpVC1xaGFtaTN3dTJBdzVRWDUwVFZlcDFpMFByMl9zRmxhZjFMX2VrZldZaTdTSVViTThneVdweHpfOVpkUW8wekQyem9sMUFmNFE3YlJnVHJmOTJxLWc?oc=5"
+   "Here are 3 big things we're watching in the stock market in the week ahead",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUEtyLTlyc2FTRDZxWmptdE1UdjVXRlRqRGVLRlI3cnE1cW9pWGZ6d3lqOVp2N1o1U043YmxRanJSWWlySDM5NDB2dU1pbHltTllvTUE5S25vd3NzRHRfVmxad1RKc1REUWFtTV9IelRTNDk5MzlVcDFnYmJQNmxQOTNPWklfUWdOOGdTVklsRS1UUFRsYzFQTm1mcUh0M1VnWUdFeVRoM09nME0?oc=5"
   ],
   [
    "Commodities",
