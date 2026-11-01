@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T20:48:39.448Z",
+ "updated": "2026-11-01T21:47:05.153Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -337,17 +337,17 @@
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7028,
-   "ch": -0.04,
-   "asof": "2026-11-01T20:47:27.000Z"
+   "p": 0.703,
+   "ch": -0.01,
+   "asof": "2026-11-01T21:45:28.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3967,
-   "ch": -0.14,
-   "asof": "2026-11-01T19:46:13.000Z"
+   "p": 1.3957,
+   "ch": -0.21,
+   "asof": "2026-11-01T21:47:01.000Z"
   },
   {
    "s": "USD/CHF",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77774.24,
-   "ch": 0.43,
-   "asof": "2026-11-01T20:48:39.000Z"
+   "p": 77836.46,
+   "ch": 0.51,
+   "asof": "2026-11-01T21:46:57.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2260.23,
-   "ch": 0.34,
-   "asof": "2026-11-01T20:48:34.000Z"
+   "p": 2263.38,
+   "ch": 0.48,
+   "asof": "2026-11-01T21:46:58.000Z"
   },
   {
    "s": "S&P 500",
@@ -419,15 +419,15 @@
    "d": 2,
    "p": 129.8,
    "ch": -0.04,
-   "asof": "2026-11-01T14:23:04.000Z"
+   "asof": "2026-11-01T21:25:03.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6887,
-   "ch": 0.49,
-   "asof": "2026-11-01T20:10:33.000Z"
+   "p": 16.7073,
+   "ch": 0.6,
+   "asof": "2026-11-01T21:25:03.000Z"
   },
   {
    "s": "USD/NGN",
@@ -435,23 +435,23 @@
    "d": 2,
    "p": 1344.94,
    "ch": -0.02,
-   "asof": "2026-11-01T14:23:04.000Z"
+   "asof": "2026-11-01T21:25:03.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 94.17,
-   "ch": -1.24,
-   "asof": "2026-11-01T20:48:34.000Z"
+   "p": 94.38,
+   "ch": -1.02,
+   "asof": "2026-11-01T21:46:52.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2487,
-   "ch": -0.11,
-   "asof": "2026-11-01T20:48:35.000Z"
+   "p": 1.2507,
+   "ch": 0.05,
+   "asof": "2026-11-01T21:47:03.000Z"
   },
   {
    "s": "Apple",
@@ -504,16 +504,16 @@
   [
    "Crypto",
    "med",
-   "Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
+   "Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLWljNlJ2T28tVUlGZVNsNHVkbHdHMWRTNVczSGRkZjlMbGt5WjNmV2d3TTFvU1dVNTZzQ2dvNExUeWhrSGZUc3ZoOTA0eDRMbC1DQ1VNcFBGaHhHa3F5S1llWUVWNmxpSERYZThucHM2eFJTYWFoYklpcThITjN2SUI3V1BOS2pNN250SXk3eW5Tak5qTEZiNDhMU3FhaFQ5LWlnOHpJb1NERExKcUZ3cEVpV0tNUWM?oc=5"
+   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbmo4WVM3RVhVSFMyTlMxZkl0WDlxRWgwRTBWbG5WT0dMNFFtakFvbWJHT2cxMmF4NXdlTlcwdmRiOWV5eHFoRmx1WHpSTXNSQmlVekdlSFRhajlLOWwyQ3NhRUtqZjUyWVJZY2VXTVFnMzR4dGZCdEloTEJ6M2x4VHlmRW1LdkREQVRMcU1WNG9IZ2k3WFVHTjFuSlN4SHo0a19rcWptQ2x5WnpjVVVwTTFiRjJSWGEyMDZSVUgzNkhDZw?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-   "BBC",
-   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTU5hbmZNM3NNNEZQZlRINXh5Um1jNnJaTXhrRmxlREpJNDBXNWJLNld1MjhlVzAtRjFyYzV3SmJNRmtlTHBXQmlYWWU1c1B5UDVtWnQzRm1KSXc?oc=5"
+   "How a stolen iPhone in London led to drained crypto wallets and $14,000 in losses",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWWtXcU50RXNlOTJjUGthVDRDRUNiZXExLThOcXlvZC1DSExOZV96bDdxRW1BWkhOZE1kTldsSEU3dFRoNVlncVJXQWxSVjEzN1pBTHJxVzNMTDZQa1BFc21CZjdDTlllemdGZmVRN3ZpdWRXd1Q0QlloVDJaYjdvUExNMlFHeEhfSlZQZ0x6NnVqU1YtZGtTS1hiQjhKMmFOZ2oweU1uejM1MFRibmhHM1BSQUY?oc=5"
   ],
   [
    "Stocks",
