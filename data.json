@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T19:49:33.580Z",
+ "updated": "2026-11-01T20:48:39.448Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -337,9 +337,9 @@
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7033,
-   "ch": 0.03,
-   "asof": "2026-11-01T18:23:25.000Z"
+   "p": 0.7028,
+   "ch": -0.04,
+   "asof": "2026-11-01T20:47:27.000Z"
   },
   {
    "s": "USD/CAD",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77634.99,
-   "ch": 0.25,
-   "asof": "2026-11-01T19:49:28.000Z"
+   "p": 77774.24,
+   "ch": 0.43,
+   "asof": "2026-11-01T20:48:39.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2255.82,
-   "ch": 0.14,
-   "asof": "2026-11-01T19:49:29.000Z"
+   "p": 2260.23,
+   "ch": 0.34,
+   "asof": "2026-11-01T20:48:34.000Z"
   },
   {
    "s": "S&P 500",
@@ -402,7 +402,7 @@
    "m": "Commodities",
    "d": 2,
    "p": 3898.9,
-   "ch": -3.29,
+   "ch": 0,
    "asof": "2026-10-30T20:59:59.000Z"
   },
   {
@@ -410,7 +410,7 @@
    "m": "Commodities",
    "d": 2,
    "p": 104.12,
-   "ch": 2.08,
+   "ch": 0,
    "asof": "2026-10-30T20:59:59.000Z"
   },
   {
@@ -425,9 +425,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.698,
-   "ch": 0.55,
-   "asof": "2026-11-01T19:49:31.000Z"
+   "p": 16.6887,
+   "ch": 0.49,
+   "asof": "2026-11-01T20:10:33.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 93.81,
-   "ch": -1.62,
-   "asof": "2026-11-01T19:49:31.000Z"
+   "p": 94.17,
+   "ch": -1.24,
+   "asof": "2026-11-01T20:48:34.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.245,
-   "ch": -0.41,
-   "asof": "2026-11-01T19:49:28.000Z"
+   "p": 1.2487,
+   "ch": -0.11,
+   "asof": "2026-11-01T20:48:35.000Z"
   },
   {
    "s": "Apple",
@@ -482,7 +482,7 @@
    "m": "Commodities",
    "d": 3,
    "p": 49.276,
-   "ch": -5.93,
+   "ch": 0,
    "asof": "2026-10-30T20:59:59.000Z"
   }
  ],
@@ -525,16 +525,16 @@
   [
    "Stocks",
    "med",
-   "Wall Street Braces for More Wild Days in Stocks After Tech Rout",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnplR2tJTFloQjBWaGpDNHNCeThSSFBXWTBTaXlINjBwMklKQklzTG1Na0E0M0VhcGRuN25Lb0ZUX1pQa3dIY0tncHR3THBKZGIyeWRvU1AzcXY5Rl9NSzc1R0tjVEhacUVFUnZwc3JRbTNVSEhfX1UwdFU3SXJpakNMVS1FNFVwVTU5d1BaMXprRVhubVdJVw?oc=5"
+   "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTW9TMmVsZkc2b05TYkloVW41X050RjdtZ1F5U01TRnJOSEthYTJpcDdPWVhJb0FvRGEteHgtbVhSS0lOVEZ3T2N5MTNpSUNWNXpETThZR0RvcFQwY2Q5R3ctRUFvM1ZtdFdMaXhGSnpPM2FiLUhORXNrem84cUpfVGpuQ0VmaGNsZUlxUVQ0dk4zQUE2cWFzUk8yM1R3cjc3dEczVw?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks",
+   "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHd1Q1FTWEFlUlUtZ1FQRWJfYm1QYm5KZW1jTVA2cS01R0cxb0xsNVNrdXJVNm44VTd2ZWN4WnY1R0tla0JuM3NVUmpBVF9GLTl2WEdFRmNUTFpEVUpHVHQzdUREUFBwN2ZEZ2xGcThUa0lKamdzaEY2c19pRy1PcXZCd2hPUmRfTmQ4bUNGWkFPbTM3Z04zLXB2bUdtclBvVmpmQmhqcEloSTJUOHg2ZzRsbEI?oc=5"
+   "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5"
   ],
   [
    "Commodities",
