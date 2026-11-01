@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T05:55:05.758Z",
+ "updated": "2026-11-01T07:13:52.223Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77745.02,
-   "ch": 0.39,
-   "asof": "2026-11-01T05:55:01.000Z"
+   "p": 77799.77,
+   "ch": 0.46,
+   "asof": "2026-11-01T07:13:51.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2264.89,
-   "ch": 0.55,
-   "asof": "2026-11-01T05:55:04.000Z"
+   "p": 2264.59,
+   "ch": 0.53,
+   "asof": "2026-11-01T07:13:48.000Z"
   },
   {
    "s": "S&P 500",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.5,
-   "ch": 0.15,
-   "asof": "2026-11-01T05:55:00.000Z"
+   "p": 95.4,
+   "ch": 0.05,
+   "asof": "2026-11-01T07:13:50.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2532,
-   "ch": 0.25,
-   "asof": "2026-11-01T05:55:01.000Z"
+   "p": 1.2522,
+   "ch": 0.17,
+   "asof": "2026-11-01T07:13:38.000Z"
   },
   {
    "s": "Apple",
@@ -511,30 +511,23 @@
   [
    "Crypto",
    "med",
-   "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWWtXcU50RXNlOTJjUGthVDRDRUNiZXExLThOcXlvZC1DSExOZV96bDdxRW1BWkhOZE1kTldsSEU3dFRoNVlncVJXQWxSVjEzN1pBTHJxVzNMTDZQa1BFc21CZjdDTlllemdGZmVRN3ZpdWRXd1Q0QlloVDJaYjdvUExNMlFHeEhfSlZQZ0x6NnVqU1YtZGtTS1hiQjhKMmFOZ2oweU1uejM1MFRibmhHM1BSQUY?oc=5"
+   "FBI blames North Korea for record $6.3bn crypto heist from Binance",
+   "Al Jazeera",
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU1Bma2xxdW43TWpaNFB0MnVLS3FVUGt4SVIxb1gyVzNHeFRWcWlhb19WdnRxTnF1eFl4ak1VMEJJQ2RadHdWOVI4Rk5NbHVPY2t1Z1U5M2FhLTF5bzVkYVg0bWRSVWd4UzBhY1lVcWdCR0d2Q2RBRFJNVTdkU2pZQng1Mm9vUU9WM2J0UzQ1eFRiWFN0WDkya9IBngFBVV95cUxNYXROV2xtZ2I2aWVDbnpuQVdtbkF6UXJfSVdpbkdkVmN2ZDd4dlBlYndDOTl3V2lDdGxvTDdRem9Ka0d2MEZtWF9kcTdRQ2dxckxLcGV2UmFGenpwTk1RWi1jYnJXR1ZfRXJiWHpuRXJRTmQ2X2NxNnB0aWJXeUZCXzVjQkdQSHhud1BuTG9mbHNiemlYVEF3Q0hOeGFRQQ?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "U.S. Tech Stocks Drop on AI Spending Concerns",
+   "Alphabet Stock Sinks, Dragging Nasdaq Lower",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkFuTEkyc1ZYSmVVcjRIZXVWeXNCbEpsUk9HOXJ1LTcxOWk2WnZjWkpreFp3am1kQ0tSWmtuaHNVYmMyb1ROTE43YlU0VGRad21XS3JyYmYyZlV5aWthaWJQMkJjcVRPUW41djFtem94X2cxWE9Qcm9qYjFmLW1nMHRtRnVRakRsVlg0cjl5U0w3QQ?oc=5"
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdEt3QnZYMW5WSVBNMUNqQ3pOUEV6RVVoM2xLa2RfV0VEQ1YyTzE2MFIwTnNGdTRFelljM3gtM3lORnhLYW5nT1VaSk5IVV85NlBIeGFlWlhaOHFIcHZhTm1ER1FsZzdZRElZUHl0Mm4ya04tMjZ2WV9ZbzVJLUhocktXVVFYVy1lbEJOWVF4eFVHdVNsbEQ4Tg?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Anthropic's path to the Nasdaq just got a lot bumpier",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Crude Oil Dec 26 (CL=F) stock price, news, quote and history",
-   "Yahoo Finance UK",
-   "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53TTE4VVFxXzFERC1MYXc3NGtSMU1vVjFRUWhQbXZYZ1VlYW1wekVWd0psQ1hzdUdvR1BJT3BCbmxkd2JnQzhXOWVvZ2o2TmpGdG9CdA?oc=5"
+   "King Apple is taking Wall Street’s top spot back from Nvidia — for the fifth time",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYU9xc1MyR2p6MXZzcU1Dd21lUFpLWkp1TVFtaHdzMFozRVJZUFcyS0o2X1NHaFNJMTZycXhETC1yLVZZbEQxd1RxSEg0c0hxS2lRRnJxSDl4M3pHSU4tRklkeUhIcFVkRkZqV2F6dXU2YlZBTWtrdWlJcXFwV0dySHZXdU5Cc25VNDZwVWVZOW13STNubXFvOE9nZGJXa3p2MG5ySWdxLU5sVzB3b0FSOWNFeE1lVHdSdG54c0ctUFpfUUhpSGJ3dl8zSQ?oc=5"
   ],
   [
    "Commodities",
