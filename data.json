@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T15:46:19.820Z",
+ "updated": "2026-11-01T16:48:14.650Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77925.82,
-   "ch": 0.63,
-   "asof": "2026-11-01T15:46:14.000Z"
+   "p": 77977.55,
+   "ch": 0.69,
+   "asof": "2026-11-01T16:48:09.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2266.48,
-   "ch": 0.62,
-   "asof": "2026-11-01T15:46:13.000Z"
+   "p": 2266.37,
+   "ch": 0.61,
+   "asof": "2026-11-01T16:48:11.000Z"
   },
   {
    "s": "S&P 500",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 94.84,
-   "ch": -0.54,
-   "asof": "2026-11-01T15:46:14.000Z"
+   "p": 94.57,
+   "ch": -0.82,
+   "asof": "2026-11-01T16:48:09.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2499,
-   "ch": -0.02,
-   "asof": "2026-11-01T15:46:14.000Z"
+   "p": 1.2491,
+   "ch": -0.08,
+   "asof": "2026-11-01T16:48:10.000Z"
   },
   {
    "s": "Apple",
@@ -489,17 +489,17 @@
  "news": [
   [
    "Forex",
-   "high",
-   "ECB Expected to Leave Key Rate Unchanged Amid French Bond Drama",
+   "med",
+   "New Zealand Central Bank Surprises Markets With Rate Hold",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYXZzbXVham1ZQ3ZRZEJzSGxNSmZUMnRfblVxa1JEbjRUM3o3YWZXOVBHZ1RYU0RvZHU1YjdTQ1BDZGV3VjFqODRVeEhISG5hVGowVlY2VVVWcy1iSVg4WmNFYXl3VDdLRkRYbndjZW1Pbkl0dHpGVlJHUGRUTDVrTmhHdkZhRktLTnREY2VqdE5MUVNCZ3ZFMGUxY0tJU1dzYWlZbk1QNHlBbklyVlBvY3VB?oc=5"
+   "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVndpQzdYRzRrUTI0MV9nMHdySE1id2Fvc21Wd1dvem00N1FNM2dqTDdCNEw5aHcydjZhR0hoaDlvWGZELWQzX1dMeUV4RUk3eXlHWVlQblI1UmdWaUlyblgzUUUyVGtJaUZ6LVNyb2VXdUw4dzB6NDhJTE12aHJ4c2U0SzBuSG55NlBnMUZ5M2VVd1FXUnMxY0cyUlBrYUxPbExYT0o4cEtfNWtvOWdj?oc=5"
   ],
   [
    "Forex",
-   "med",
-   "Intesa Sanpaolo Gets European Central Bank Approval to Take Over Monte Dei Paschi",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVWZEaTA5Qnc5NDd2WXh1VWgyTUpTcFBvVExBOHg2TnV3b09vWnpNSVNrWWVHZDZLNWx0MDNGUU93cm5qdHJVQmMtekg1SjZrZEtfTVpCeHQ4VlRxRHRXSHNnbmZXdFNHaEM2alpHTlNQeGZRY09zVU9iWkZicEJWTFppNUcxd185c3VFLWxGcjNYUjVWc1hrNlZtRk9IbTZtQWdQVkQ1aldfU1hXSkFRQkw1bUQwSVB5bW9V?oc=5"
+   "high",
+   "'The Fed put is very much back': Wall Street strategists weigh central bank's next move",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVJyRm4wTnJjSmtiU3lKWWZ5WVFndHdqWGlsZzVHd3BRdEhQa2o0UnRablMyblVsbHl0MDVwTFhPRGdCemo1ODhjUGl5ZEJPLUdSQk0taHZCSG4zUV94YXlSeXBLSFV3c3FOdTdvSmhpSkh5Q25STW9sRVI3Tk44TmdQYWIxOF9LeEV0VnVyQVptdTJkaVVCeXhiZlVqb19NYmktQUJ0NldISmpnNFoyTUROYWZuLUd4WUxoT1BMWmJrNGtYcVNab19QZElzaFNwc1N5MUVEVQ?oc=5"
   ],
   [
    "Crypto",
@@ -532,9 +532,9 @@
   [
    "Commodities",
    "med",
-   "OPEC+ keeps December oil output targets steady ahead of tougher call for 2027",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVRNX1Y5b0xXX3dlMU1QX2lRbVkxbkJYSU9SUVdxUFlXQ2hGcjRpRlVIbklCeTlZa1d2VnNOQWFaaVN0NHJVcnJSRVhUSngyVmcxdzlsZVpwSm1wbmduTGpNbXkwWEhKbGZQdURzZ0c0UHl2S28zLUxjbDdSUkdzZTFnMmtubVlvbmFVMHlsX3BvOVpLa2NqcWozZTJUWlhnUWUxYXFn?oc=5"
+   "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5"
   ],
   [
    "Commodities",
