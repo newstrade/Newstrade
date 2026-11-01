@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T08:08:49.974Z",
+ "updated": "2026-11-01T08:57:34.995Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77802.74,
-   "ch": 0.47,
-   "asof": "2026-11-01T08:08:47.000Z"
+   "p": 78024.53,
+   "ch": 0.75,
+   "asof": "2026-11-01T08:57:33.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2266.17,
-   "ch": 0.6,
-   "asof": "2026-11-01T08:08:45.000Z"
+   "p": 2270.83,
+   "ch": 0.81,
+   "asof": "2026-11-01T08:57:28.000Z"
   },
   {
    "s": "S&P 500",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.35,
-   "ch": 0,
-   "asof": "2026-11-01T08:08:44.000Z"
+   "p": 95.61,
+   "ch": 0.27,
+   "asof": "2026-11-01T08:57:32.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2516,
-   "ch": 0.12,
-   "asof": "2026-11-01T08:08:40.000Z"
+   "p": 1.2511,
+   "ch": 0.08,
+   "asof": "2026-11-01T08:57:25.000Z"
   },
   {
    "s": "Apple",
@@ -504,30 +504,37 @@
   [
    "Crypto",
    "med",
+   "Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbmo4WVM3RVhVSFMyTlMxZkl0WDlxRWgwRTBWbG5WT0dMNFFtakFvbWJHT2cxMmF4NXdlTlcwdmRiOWV5eHFoRmx1WHpSTXNSQmlVekdlSFRhajlLOWwyQ3NhRUtqZjUyWVJZY2VXTVFnMzR4dGZCdEloTEJ6M2x4VHlmRW1LdkREQVRMcU1WNG9IZ2k3WFVHTjFuSlN4SHo0a19rcWptQ2x5WnpjVVVwTTFiRjJSWGEyMDZSVUgzNkhDZw?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
    "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
    "CoinDesk",
    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWWtXcU50RXNlOTJjUGthVDRDRUNiZXExLThOcXlvZC1DSExOZV96bDdxRW1BWkhOZE1kTldsSEU3dFRoNVlncVJXQWxSVjEzN1pBTHJxVzNMTDZQa1BFc21CZjdDTlllemdGZmVRN3ZpdWRXd1Q0QlloVDJaYjdvUExNMlFHeEhfSlZQZ0x6NnVqU1YtZGtTS1hiQjhKMmFOZ2oweU1uejM1MFRibmhHM1BSQUY?oc=5"
   ],
   [
-   "Crypto",
-   "med",
-   "J.P. Morgan Just Made a Bold Prediction About Bitcoin. Should You Buy It?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0ZNdUp5MGxmQ2tjbUF1VGFkNUp2azNLZU55cENIVWZCcENVVl9LdTRHUlJoTm5XRkVjdkIwWWFSR01kMTFJcmhEQjhyQzFLeklxYU53RlJ3SHcyUnRjVjZZNVZOQVhES2xaSHVISW5MZi04VWtIVVpiSzVtWExZOVlNa1ZMY2hoR3FOQVBn?oc=5"
-  ],
-  [
    "Stocks",
    "med",
-   "U.S. Tech Stocks Drop on AI Spending Concerns",
+   "Alphabet Stock Sinks, Dragging Nasdaq Lower",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkFuTEkyc1ZYSmVVcjRIZXVWeXNCbEpsUk9HOXJ1LTcxOWk2WnZjWkpreFp3am1kQ0tSWmtuaHNVYmMyb1ROTE43YlU0VGRad21XS3JyYmYyZlV5aWthaWJQMkJjcVRPUW41djFtem94X2cxWE9Qcm9qYjFmLW1nMHRtRnVRakRsVlg0cjl5U0w3QQ?oc=5"
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdEt3QnZYMW5WSVBNMUNqQ3pOUEV6RVVoM2xLa2RfV0VEQ1YyTzE2MFIwTnNGdTRFelljM3gtM3lORnhLYW5nT1VaSk5IVV85NlBIeGFlWlhaOHFIcHZhTm1ER1FsZzdZRElZUHl0Mm4ya04tMjZ2WV9ZbzVJLUhocktXVVFYVy1lbEJOWVF4eFVHdVNsbEQ4Tg?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Anthropic's path to the Nasdaq just got a lot bumpier",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5"
+   "King Apple is taking Wall Street’s top spot back from Nvidia — for the fifth time",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYU9xc1MyR2p6MXZzcU1Dd21lUFpLWkp1TVFtaHdzMFozRVJZUFcyS0o2X1NHaFNJMTZycXhETC1yLVZZbEQxd1RxSEg0c0hxS2lRRnJxSDl4M3pHSU4tRklkeUhIcFVkRkZqV2F6dXU2YlZBTWtrdWlJcXFwV0dySHZXdU5Cc25VNDZwVWVZOW13STNubXFvOE9nZGJXa3p2MG5ySWdxLU5sVzB3b0FSOWNFeE1lVHdSdG54c0ctUFpfUUhpSGJ3dl8zSQ?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "OPEC+ agrees in principle to keep oil output targets steady in December, sources say",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTk80ZVBzRVczc0hyRHU0RkJiTWx5ZDUwdnBHb0FWSmJyQWJzWHRYR0hZd0MzTW1INnFtSWRISVVRb1RncDltYW16eTYxRU9NcWJzanRqMmp4LWFXUVNTV2tzT3JCM0doS01hWDdGeUhNdHZ3WTdYXy14Q0luZTRmOWdQNlp2ZThtYlQ0cWhNSVk0c0ZkOUFyMExMUWRHMXRKamU2ZHRLa2pPMG9heUhzN2YwTnpCZw?oc=5"
   ],
   [
    "Commodities",
@@ -535,13 +542,6 @@
    "DARPA Backs Project to Measure AI Energy Use at Every Stage of the Workflow",
    "Crude Oil Prices Today | OilPrice.com",
    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdWFlNUxyU2dZQkxJYkt6YkJLWUVfYW83ZWc1TlNjeThzRFExaXFvWXNqOVZEM0dUQjU2U3ZiOTRVRnhkaXJoYk5mSnhKWVFmY2IxMTg2c0hRS2dRYUotZ0VHN2g4by1INktNUEhwVk9LVFpWUEpYWXpNRFVwQm5iczA3MjA1NDM5VUlrSW5GbnJobW0tZ1FMYTVlbGZDZVBWZ3FGTmZyZXdNWEoySlZsOUhRcE9LYnY2NW1oMWN2R0rSAcYBQVVfeXFMT2d6dUFXSE51Sy1PQTViVUlIYUp5djVpemNubDVrRWZ5UEIxWTdMbWJkd3lpVWZpZlNzVlJHazdBUkVnMXBSM2duTGFHUHlXVHB0cFc0c3BGOU5qNXkyOGdUME1MZkpQTDR1bjlfSmlCV05TNGdUWFMyM0xPWUgyWTlqUnBRd0xzU2Z1MmNHVFVxeDFKbzBFRGttbUduanFLdlQ2SjM4NjdUWjh3SzdqX1ZEM0ttMVJiMFpvUDVpRzFSc0pmVXJ3?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Jackdaw Approval Sparks Fierce Debate Over Britain's Energy Future",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSjVCSDlTcXBVY3B4ZGNXNW1hMXpYOUkyUzctaGZRU1NQSDF2VlF2a3YzWjFwM2FKdzZkdWswMjlJZGhabzFoSG4yTksxMXhkOExENklLdVUwS1FnQ1d1X29ZczQzczQwQmFwQk5zRDVuMHl3Yml4Wm4tNEhGYmUteU56aWVrU18tQUszcnpNVTZ0VjBBcVJrcjVOMmVjckxQVTljaG5NYkZBZk14a3d1QzRjb9IBuAFBVV95cUxPUndNZXZXU1Y3WE5HLUNVWEFyVDQ5NU5RUldQNXpXYlJGNXJRRlJDYnhOYWZiT3RpaFAweFBDc19lRDExeFN2Z1RnRmR2bGEzN0hnTFQ4UzQxcldLNXU2d3dkeFdKV2lyblpGUS02U0YzZ3ctNHhEa3FKakt2SHVaa3lGMS1yVHJRZVBoWnZjbVAtaHZyMVc3azlpa1RXLTZ5UEdzQ1lNMEtkSHMyTmJXb3JpTEhiakw0?oc=5"
   ]
  ]
 }
