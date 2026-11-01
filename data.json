@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T21:47:05.153Z",
+ "updated": "2026-11-01T22:47:09.794Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,65 +313,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1166,
-   "ch": -0.13,
-   "asof": "2026-10-30T21:29:29.000Z"
+   "p": 1.1159,
+   "ch": -0.2,
+   "asof": "2026-11-01T22:46:29.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3393,
-   "ch": 0.13,
-   "asof": "2026-11-01T00:49:29.000Z"
+   "p": 1.3391,
+   "ch": 0.12,
+   "asof": "2026-11-01T22:46:29.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.519,
-   "ch": -0.08,
-   "asof": "2026-10-30T20:59:33.000Z"
+   "p": 157.478,
+   "ch": -0.11,
+   "asof": "2026-11-01T22:47:03.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.703,
-   "ch": -0.01,
-   "asof": "2026-11-01T21:45:28.000Z"
+   "p": 0.7033,
+   "ch": 0.03,
+   "asof": "2026-11-01T22:45:29.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3957,
-   "ch": -0.21,
-   "asof": "2026-11-01T21:47:01.000Z"
+   "p": 1.396,
+   "ch": -0.19,
+   "asof": "2026-11-01T22:47:08.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8249,
-   "ch": 0.13,
-   "asof": "2026-11-01T05:21:10.000Z"
+   "p": 0.8237,
+   "ch": -0.01,
+   "asof": "2026-11-01T22:47:00.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77836.46,
-   "ch": 0.51,
-   "asof": "2026-11-01T21:46:57.000Z"
+   "p": 77689.55,
+   "ch": 0.32,
+   "asof": "2026-11-01T22:47:04.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2263.38,
-   "ch": 0.48,
-   "asof": "2026-11-01T21:46:58.000Z"
+   "p": 2255.46,
+   "ch": 0.13,
+   "asof": "2026-11-01T22:47:01.000Z"
   },
   {
    "s": "S&P 500",
@@ -425,9 +425,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.7073,
-   "ch": 0.6,
-   "asof": "2026-11-01T21:25:03.000Z"
+   "p": 16.6913,
+   "ch": 0.51,
+   "asof": "2026-11-01T22:30:03.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 94.38,
-   "ch": -1.02,
-   "asof": "2026-11-01T21:46:52.000Z"
+   "p": 93.7,
+   "ch": -1.73,
+   "asof": "2026-11-01T22:47:01.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2507,
-   "ch": 0.05,
-   "asof": "2026-11-01T21:47:03.000Z"
+   "p": 1.2436,
+   "ch": -0.52,
+   "asof": "2026-11-01T22:47:04.000Z"
   },
   {
    "s": "Apple",
@@ -518,16 +518,16 @@
   [
    "Stocks",
    "med",
-   "Here are 3 big things we're watching in the stock market in the week ahead",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUEtyLTlyc2FTRDZxWmptdE1UdjVXRlRqRGVLRlI3cnE1cW9pWGZ6d3lqOVp2N1o1U043YmxRanJSWWlySDM5NDB2dU1pbHltTllvTUE5S25vd3NzRHRfVmxad1RKc1REUWFtTV9IelRTNDk5MzlVcDFnYmJQNmxQOTNPWklfUWdOOGdTVklsRS1UUFRsYzFQTm1mcUh0M1VnWUdFeVRoM09nME0?oc=5"
+   "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTW9TMmVsZkc2b05TYkloVW41X050RjdtZ1F5U01TRnJOSEthYTJpcDdPWVhJb0FvRGEteHgtbVhSS0lOVEZ3T2N5MTNpSUNWNXpETThZR0RvcFQwY2Q5R3ctRUFvM1ZtdFdMaXhGSnpPM2FiLUhORXNrem84cUpfVGpuQ0VmaGNsZUlxUVQ0dk4zQUE2cWFzUk8yM1R3cjc3dEczVw?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTW9TMmVsZkc2b05TYkloVW41X050RjdtZ1F5U01TRnJOSEthYTJpcDdPWVhJb0FvRGEteHgtbVhSS0lOVEZ3T2N5MTNpSUNWNXpETThZR0RvcFQwY2Q5R3ctRUFvM1ZtdFdMaXhGSnpPM2FiLUhORXNrem84cUpfVGpuQ0VmaGNsZUlxUVQ0dk4zQUE2cWFzUk8yM1R3cjc3dEczVw?oc=5"
+   "Here are 3 big things we're watching in the stock market in the week ahead",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUEtyLTlyc2FTRDZxWmptdE1UdjVXRlRqRGVLRlI3cnE1cW9pWGZ6d3lqOVp2N1o1U043YmxRanJSWWlySDM5NDB2dU1pbHltTllvTUE5S25vd3NzRHRfVmxad1RKc1REUWFtTV9IelRTNDk5MzlVcDFnYmJQNmxQOTNPWklfUWdOOGdTVklsRS1UUFRsYzFQTm1mcUh0M1VnWUdFeVRoM09nME0?oc=5"
   ],
   [
    "Commodities",
