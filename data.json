@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T11:46:50.859Z",
+ "updated": "2026-11-01T13:00:33.930Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77820.99,
-   "ch": 0.49,
-   "asof": "2026-11-01T11:46:47.000Z"
+   "p": 77772,
+   "ch": 0.43,
+   "asof": "2026-11-01T13:00:31.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2266.35,
-   "ch": 0.61,
-   "asof": "2026-11-01T11:46:46.000Z"
+   "p": 2259.26,
+   "ch": 0.3,
+   "asof": "2026-11-01T13:00:28.000Z"
   },
   {
    "s": "S&P 500",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.08,
-   "ch": -0.29,
-   "asof": "2026-11-01T11:46:50.000Z"
+   "p": 94.76,
+   "ch": -0.62,
+   "asof": "2026-11-01T13:00:26.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2531,
-   "ch": 0.24,
-   "asof": "2026-11-01T11:46:41.000Z"
+   "p": 1.2474,
+   "ch": -0.22,
+   "asof": "2026-11-01T13:00:27.000Z"
   },
   {
    "s": "Apple",
@@ -490,9 +490,9 @@
   [
    "Forex",
    "med",
-   "Intesa Sanpaolo Gets European Central Bank Approval to Take Over Monte Dei Paschi",
+   "New Zealand Central Bank Surprises Markets With Rate Hold",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVWZEaTA5Qnc5NDd2WXh1VWgyTUpTcFBvVExBOHg2TnV3b09vWnpNSVNrWWVHZDZLNWx0MDNGUU93cm5qdHJVQmMtekg1SjZrZEtfTVpCeHQ4VlRxRHRXSHNnbmZXdFNHaEM2alpHTlNQeGZRY09zVU9iWkZicEJWTFppNUcxd185c3VFLWxGcjNYUjVWc1hrNlZtRk9IbTZtQWdQVkQ1aldfU1hXSkFRQkw1bUQwSVB5bW9V?oc=5"
+   "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVndpQzdYRzRrUTI0MV9nMHdySE1id2Fvc21Wd1dvem00N1FNM2dqTDdCNEw5aHcydjZhR0hoaDlvWGZELWQzX1dMeUV4RUk3eXlHWVlQblI1UmdWaUlyblgzUUUyVGtJaUZ6LVNyb2VXdUw4dzB6NDhJTE12aHJ4c2U0SzBuSG55NlBnMUZ5M2VVd1FXUnMxY0cyUlBrYUxPbExYT0o4cEtfNWtvOWdj?oc=5"
   ],
   [
    "Forex",
@@ -504,16 +504,16 @@
   [
    "Crypto",
    "med",
-   "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-   "BBC",
-   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTU5hbmZNM3NNNEZQZlRINXh5Um1jNnJaTXhrRmxlREpJNDBXNWJLNld1MjhlVzAtRjFyYzV3SmJNRmtlTHBXQmlYWWU1c1B5UDVtWnQzRm1KSXc?oc=5"
+   "META_TITLE_QUOTE",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Hb1I1SUt3MWw0X01vaXRWc1JzajJ2QjJQcEFaenhWM2ZhM0lEZ1hSalpsMDFKVF9NUkdGUG1mWjAtb0ktbTFCQURqNE5MNXFCTHc?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Binance resumes bitcoin, ether withdrawals after covering bulk of stolen $6.3 billion",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ042d3hwbUp6LXNrZ2JEY2RSVEgzX0xJbGZ0QTFsVnM1X0tYUFBONzljRXRIbFJCRlRWeUkyeEJwaElZZnN6Tnluc1h3ZURja0tMTHhjSDkyb2FnUHRPejdmUjZmaU10ZlBuTW82bVZmV0hKNFJMbmZ2VjFyS2h2NUVZRnVtZVdIQVo3VnRPVFhsX1ptRzJQaklyXzZIU0hxN1lyQ3lTNjYtMGZvQ1Q1T0laQzBHU1dHdEk1RXJXMGhRSVJT?oc=5"
+   "Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbmo4WVM3RVhVSFMyTlMxZkl0WDlxRWgwRTBWbG5WT0dMNFFtakFvbWJHT2cxMmF4NXdlTlcwdmRiOWV5eHFoRmx1WHpSTXNSQmlVekdlSFRhajlLOWwyQ3NhRUtqZjUyWVJZY2VXTVFnMzR4dGZCdEloTEJ6M2x4VHlmRW1LdkREQVRMcU1WNG9IZ2k3WFVHTjFuSlN4SHo0a19rcWptQ2x5WnpjVVVwTTFiRjJSWGEyMDZSVUgzNkhDZw?oc=5"
   ],
   [
    "Stocks",
@@ -525,9 +525,16 @@
   [
    "Stocks",
    "med",
-   "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
+   "China to Convene Meeting on Supporting Stock Market, Reports Say",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMitAFBVV95cUxOendaOF9OYUpHU1R3Q25VVXptSDk0dU1FQkJkcXN2Q0ctRjBzdlNIdHNlcmxIMHFKdlZmM25SZ0pTdUlyMXlGaXBvUFBvZlhFV3VxNks1RGtIQ3FmeXBBNEFDekVYdkFtVC1VR2k2Nl93a0owS0dkaHRaWEpqcFhpdlRIM1MwOVBvNmd4dFJtb0JaeXpjX2otZnZlU0ZBRjh5MllKbzZIc2RnSVJlR2dJWDRDOHA?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "OPEC, Allies Keep Output Steady While Gulf Shipping Remains Under Threat",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTW9TMmVsZkc2b05TYkloVW41X050RjdtZ1F5U01TRnJOSEthYTJpcDdPWVhJb0FvRGEteHgtbVhSS0lOVEZ3T2N5MTNpSUNWNXpETThZR0RvcFQwY2Q5R3ctRUFvM1ZtdFdMaXhGSnpPM2FiLUhORXNrem84cUpfVGpuQ0VmaGNsZUlxUVQ0dk4zQUE2cWFzUk8yM1R3cjc3dEczVw?oc=5"
+   "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbnNqUHNCa3N5QzZ4RUZEVVd5RUsxNDM1QU5wZ3dYQ3FYdzdEWnpnczk0NG1JTndRV19CQnpWd0J4eUE4SndBWFpfUkZNeS1QQUtIaWVQRFBYVk1fMXlHNVJjWW1zb3JsV2pvVnc5UU5zby1DNzF1d3dyNFdYWTlTUlJFRk11YW5RU19idkdxZXNSZkJ4azFtQVBjZkVpT2p6cVFlbkpsX2o2NWYtVUJfd1VtblJhQ21COUJYTA?oc=5"
   ],
   [
    "Commodities",
@@ -535,13 +542,6 @@
    "OPEC+ set to keep oil output targets steady, sources say",
    "Reuters",
    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVRNX1Y5b0xXX3dlMU1QX2lRbVkxbkJYSU9SUVdxUFlXQ2hGcjRpRlVIbklCeTlZa1d2VnNOQWFaaVN0NHJVcnJSRVhUSngyVmcxdzlsZVpwSm1wbmduTGpNbXkwWEhKbGZQdURzZ0c0UHl2S28zLUxjbDdSUkdzZTFnMmtubVlvbmFVMHlsX3BvOVpLa2NqcWozZTJUWlhnUWUxYXFn?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "OPEC+ agrees in principle to keep oil output targets steady in December, sources say",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTk80ZVBzRVczc0hyRHU0RkJiTWx5ZDUwdnBHb0FWSmJyQWJzWHRYR0hZd0MzTW1INnFtSWRISVVRb1RncDltYW16eTYxRU9NcWJzanRqMmp4LWFXUVNTV2tzT3JCM0doS01hWDdGeUhNdHZ3WTdYXy14Q0luZTRmOWdQNlp2ZThtYlQ0cWhNSVk0c0ZkOUFyMExMUWRHMXRKamU2ZHRLa2pPMG9heUhzN2YwTnpCZw?oc=5"
   ]
  ]
 }
