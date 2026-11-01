@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T13:55:19.753Z",
+ "updated": "2026-11-01T14:49:04.368Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -345,9 +345,9 @@
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3973,
-   "ch": -0.1,
-   "asof": "2026-11-01T05:21:10.000Z"
+   "p": 1.3971,
+   "ch": -0.11,
+   "asof": "2026-11-01T14:22:25.000Z"
   },
   {
    "s": "USD/CHF",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77790.83,
-   "ch": 0.45,
-   "asof": "2026-11-01T13:55:15.000Z"
+   "p": 77897.05,
+   "ch": 0.59,
+   "asof": "2026-11-01T14:49:00.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2262.74,
-   "ch": 0.45,
-   "asof": "2026-11-01T13:55:14.000Z"
+   "p": 2267.38,
+   "ch": 0.66,
+   "asof": "2026-11-01T14:48:58.000Z"
   },
   {
    "s": "S&P 500",
@@ -419,15 +419,15 @@
    "d": 2,
    "p": 129.8,
    "ch": -0.04,
-   "asof": "2026-10-30T22:08:10.000Z"
+   "asof": "2026-11-01T14:23:04.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.7075,
-   "ch": 0.61,
-   "asof": "2026-11-01T05:21:10.000Z"
+   "p": 16.7073,
+   "ch": 0.6,
+   "asof": "2026-11-01T14:22:25.000Z"
   },
   {
    "s": "USD/NGN",
@@ -435,23 +435,23 @@
    "d": 2,
    "p": 1344.94,
    "ch": -0.02,
-   "asof": "2026-10-30T22:08:10.000Z"
+   "asof": "2026-11-01T14:23:04.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 94.61,
-   "ch": -0.78,
-   "asof": "2026-11-01T13:55:14.000Z"
+   "p": 94.91,
+   "ch": -0.47,
+   "asof": "2026-11-01T14:49:02.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2496,
-   "ch": -0.04,
-   "asof": "2026-11-01T13:55:17.000Z"
+   "p": 1.2516,
+   "ch": 0.12,
+   "asof": "2026-11-01T14:49:02.000Z"
   },
   {
    "s": "Apple",
@@ -489,17 +489,17 @@
  "news": [
   [
    "Forex",
-   "high",
-   "ECB Expected to Leave Key Rate Unchanged Amid French Bond Drama",
+   "med",
+   "New Zealand Central Bank Surprises Markets With Rate Hold",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYXZzbXVham1ZQ3ZRZEJzSGxNSmZUMnRfblVxa1JEbjRUM3o3YWZXOVBHZ1RYU0RvZHU1YjdTQ1BDZGV3VjFqODRVeEhISG5hVGowVlY2VVVWcy1iSVg4WmNFYXl3VDdLRkRYbndjZW1Pbkl0dHpGVlJHUGRUTDVrTmhHdkZhRktLTnREY2VqdE5MUVNCZ3ZFMGUxY0tJU1dzYWlZbk1QNHlBbklyVlBvY3VB?oc=5"
+   "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVndpQzdYRzRrUTI0MV9nMHdySE1id2Fvc21Wd1dvem00N1FNM2dqTDdCNEw5aHcydjZhR0hoaDlvWGZELWQzX1dMeUV4RUk3eXlHWVlQblI1UmdWaUlyblgzUUUyVGtJaUZ6LVNyb2VXdUw4dzB6NDhJTE12aHJ4c2U0SzBuSG55NlBnMUZ5M2VVd1FXUnMxY0cyUlBrYUxPbExYT0o4cEtfNWtvOWdj?oc=5"
   ],
   [
    "Forex",
-   "med",
-   "Intesa Sanpaolo Gets European Central Bank Approval to Take Over Monte Dei Paschi",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVWZEaTA5Qnc5NDd2WXh1VWgyTUpTcFBvVExBOHg2TnV3b09vWnpNSVNrWWVHZDZLNWx0MDNGUU93cm5qdHJVQmMtekg1SjZrZEtfTVpCeHQ4VlRxRHRXSHNnbmZXdFNHaEM2alpHTlNQeGZRY09zVU9iWkZicEJWTFppNUcxd185c3VFLWxGcjNYUjVWc1hrNlZtRk9IbTZtQWdQVkQ1aldfU1hXSkFRQkw1bUQwSVB5bW9V?oc=5"
+   "high",
+   "'The Fed put is very much back': Wall Street strategists weigh central bank's next move",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVJyRm4wTnJjSmtiU3lKWWZ5WVFndHdqWGlsZzVHd3BRdEhQa2o0UnRablMyblVsbHl0MDVwTFhPRGdCemo1ODhjUGl5ZEJPLUdSQk0taHZCSG4zUV94YXlSeXBLSFV3c3FOdTdvSmhpSkh5Q25STW9sRVI3Tk44TmdQYWIxOF9LeEV0VnVyQVptdTJkaVVCeXhiZlVqb19NYmktQUJ0NldISmpnNFoyTUROYWZuLUd4WUxoT1BMWmJrNGtYcVNab19QZElzaFNwc1N5MUVEVQ?oc=5"
   ],
   [
    "Crypto",
@@ -510,10 +510,10 @@
   ],
   [
    "Crypto",
-   "med",
-   "Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLWljNlJ2T28tVUlGZVNsNHVkbHdHMWRTNVczSGRkZjlMbGt5WjNmV2d3TTFvU1dVNTZzQ2dvNExUeWhrSGZUc3ZoOTA0eDRMbC1DQ1VNcFBGaHhHa3F5S1llWUVWNmxpSERYZThucHM2eFJTYWFoYklpcThITjN2SUI3V1BOS2pNN250SXk3eW5Tak5qTEZiNDhMU3FhaFQ5LWlnOHpJb1NERExKcUZ3cEVpV0tNUWM?oc=5"
+   "high",
+   "Elon Musk Issues Serious Hack Warning Amid Bitcoin And Crypto Price Crash Fear",
+   "Forbes",
+   "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMGVtZWZOemduWHo0dWxNVmllNjd1TE5NZnZCalo2Ty1sYXMzSDFNaTFBR2dhUEppRmxuaXlSdTdfVVdYdTl6NnF0N1BCNmR4b2JjY25LdEtHOVoyV1pZSGN2ck1KTXRXUER4dEI0YUpXNXVoY0tnLWZ0N0F6QXhjOW9Hbkxnb0hrMURJejdLbExRak1FN0Q3d3VkdHFjODVkOUliLWw0RXB3RWpLbmc3M3duQzQ0SmdCZVgwancxUmF1dGhIRV96ZDFWRlVkeWNtdFE3Y2pRTDFvRWJ5dTBEeVFoeE5ZRWllWFE?oc=5"
   ],
   [
    "Stocks",
@@ -525,9 +525,9 @@
   [
    "Stocks",
    "med",
-   "Top Wall Street analysts are bullish on these 3 stocks for the long haul",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxOYWYzVGJZSm1oS1Bfb1ZEcGZNaWx2YWkzSEZfcFI4T05ZRE1kVFpLSUJuMTA3TDQwVjVpSElqRFdQNlNiM0pPS1JyaVppSzAxVlNQRFZOR0RIN2Q4VFNlelkwU1BWZjhXa19YdDI1OUhsYVUyVF9NUWNJTTNmMDZIZ1l3SFVKT3JOa2NFNEs2U08wVnFvTTQ3d1MwVGFZZ9IBowFBVV95cUxNVHpCcm1rZ25Sb2x3YUZzZmxpZno1YWZGMnk2dE5EeHNVZFRFZ0NmQjJGZHVsR1pVVWZWa3YzcERzeU91QmdlSkhNSGxJR3ROckZaeUUzZEVOR1UyMWNmMHhUYWljMEEtTVhBdEp6a2JQMDhfQS1tZUliaEdBYjRtWXdMQm1oSDU2d2Mza0RDbkd5bEJjRUh2UlpKNVM4d2VyUGww?oc=5"
+   "Wall Street Is Starting to Call the Shots in America’s AI Build-Out",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYzd0UTk0VHlJYlZiaUJvMEppbkx0dVVTMHowLVJUODlYZzFBZUdGMG1DVWxZbkRWckxnVURTa2FRMzg5VGRJc1JNeExKR0M5dHdRbHdHVTh1dmJDenQ3X3ItR21ua3ZoLWdsc280Q1ItaTJZQ1ViRTQxRlBCR1MtMDdkVnppaGVZcXhOakZOZDhRdllRbHBVdElDMjZTbGVZdkFfS29zS2xaZw?oc=5"
   ],
   [
    "Commodities",
@@ -539,7 +539,7 @@
   [
    "Commodities",
    "med",
-   "OPEC+ keeps December oil output targets steady as Iran war continues to disrupt flows",
+   "OPEC+ keeps December oil output targets steady ahead of tougher call for 2027",
    "Reuters",
    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVRNX1Y5b0xXX3dlMU1QX2lRbVkxbkJYSU9SUVdxUFlXQ2hGcjRpRlVIbklCeTlZa1d2VnNOQWFaaVN0NHJVcnJSRVhUSngyVmcxdzlsZVpwSm1wbmduTGpNbXkwWEhKbGZQdURzZ0c0UHl2S28zLUxjbDdSUkdzZTFnMmtubVlvbmFVMHlsX3BvOVpLa2NqcWozZTJUWlhnUWUxYXFn?oc=5"
   ]
