@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T04:59:22.550Z",
+ "updated": "2026-11-01T05:55:05.758Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -339,7 +339,7 @@
    "d": 4,
    "p": 0.7035,
    "ch": 0.06,
-   "asof": "2026-10-31T21:29:26.000Z"
+   "asof": "2026-11-01T05:49:28.000Z"
   },
   {
    "s": "USD/CAD",
@@ -347,7 +347,7 @@
    "d": 4,
    "p": 1.3973,
    "ch": -0.1,
-   "asof": "2026-10-31T21:00:20.000Z"
+   "asof": "2026-11-01T05:21:10.000Z"
   },
   {
    "s": "USD/CHF",
@@ -355,23 +355,23 @@
    "d": 4,
    "p": 0.8249,
    "ch": 0.13,
-   "asof": "2026-10-31T21:43:25.000Z"
+   "asof": "2026-11-01T05:21:10.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77665.93,
-   "ch": 0.29,
-   "asof": "2026-11-01T04:59:18.000Z"
+   "p": 77745.02,
+   "ch": 0.39,
+   "asof": "2026-11-01T05:55:01.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2263.45,
-   "ch": 0.48,
-   "asof": "2026-11-01T04:59:09.000Z"
+   "p": 2264.89,
+   "ch": 0.55,
+   "asof": "2026-11-01T05:55:04.000Z"
   },
   {
    "s": "S&P 500",
@@ -427,7 +427,7 @@
    "d": 3,
    "p": 16.7075,
    "ch": 0.61,
-   "asof": "2026-10-31T21:00:20.000Z"
+   "asof": "2026-11-01T05:21:10.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.31,
-   "ch": -0.05,
-   "asof": "2026-11-01T04:59:15.000Z"
+   "p": 95.5,
+   "ch": 0.15,
+   "asof": "2026-11-01T05:55:00.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2491,
-   "ch": -0.08,
-   "asof": "2026-11-01T04:59:17.000Z"
+   "p": 1.2532,
+   "ch": 0.25,
+   "asof": "2026-11-01T05:55:01.000Z"
   },
   {
    "s": "Apple",
@@ -511,23 +511,23 @@
   [
    "Crypto",
    "med",
-   "FBI blames North Korea for record $6.3bn crypto heist from Binance",
-   "Al Jazeera",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU1Bma2xxdW43TWpaNFB0MnVLS3FVUGt4SVIxb1gyVzNHeFRWcWlhb19WdnRxTnF1eFl4ak1VMEJJQ2RadHdWOVI4Rk5NbHVPY2t1Z1U5M2FhLTF5bzVkYVg0bWRSVWd4UzBhY1lVcWdCR0d2Q2RBRFJNVTdkU2pZQng1Mm9vUU9WM2J0UzQ1eFRiWFN0WDkya9IBngFBVV95cUxNYXROV2xtZ2I2aWVDbnpuQVdtbkF6UXJfSVdpbkdkVmN2ZDd4dlBlYndDOTl3V2lDdGxvTDdRem9Ka0d2MEZtWF9kcTdRQ2dxckxLcGV2UmFGenpwTk1RWi1jYnJXR1ZfRXJiWHpuRXJRTmQ2X2NxNnB0aWJXeUZCXzVjQkdQSHhud1BuTG9mbHNiemlYVEF3Q0hOeGFRQQ?oc=5"
+   "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWWtXcU50RXNlOTJjUGthVDRDRUNiZXExLThOcXlvZC1DSExOZV96bDdxRW1BWkhOZE1kTldsSEU3dFRoNVlncVJXQWxSVjEzN1pBTHJxVzNMTDZQa1BFc21CZjdDTlllemdGZmVRN3ZpdWRXd1Q0QlloVDJaYjdvUExNMlFHeEhfSlZQZ0x6NnVqU1YtZGtTS1hiQjhKMmFOZ2oweU1uejM1MFRibmhHM1BSQUY?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Alphabet Stock Sinks, Dragging Nasdaq Lower",
+   "U.S. Tech Stocks Drop on AI Spending Concerns",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdEt3QnZYMW5WSVBNMUNqQ3pOUEV6RVVoM2xLa2RfV0VEQ1YyTzE2MFIwTnNGdTRFelljM3gtM3lORnhLYW5nT1VaSk5IVV85NlBIeGFlWlhaOHFIcHZhTm1ER1FsZzdZRElZUHl0Mm4ya04tMjZ2WV9ZbzVJLUhocktXVVFYVy1lbEJOWVF4eFVHdVNsbEQ4Tg?oc=5"
+   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkFuTEkyc1ZYSmVVcjRIZXVWeXNCbEpsUk9HOXJ1LTcxOWk2WnZjWkpreFp3am1kQ0tSWmtuaHNVYmMyb1ROTE43YlU0VGRad21XS3JyYmYyZlV5aWthaWJQMkJjcVRPUW41djFtem94X2cxWE9Qcm9qYjFmLW1nMHRtRnVRakRsVlg0cjl5U0w3QQ?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "What investors are watching",
-   "Axios",
-   "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsYmkwVXpKRldFcW9PMFFabmZzdkFxVnl4LWt6c3d5eFRKcTIyS1AyU1JLSnB5eWktY0d4djNOSFVDSllvNndVcUdMTlc1Z3lxYm55S0RfWk53dlNUQ0VMSXFBU05Tcl9UNTVFMnpPTWVTV2hpUXc?oc=5"
+   "Anthropic's path to the Nasdaq just got a lot bumpier",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMib0FVX3lxTE1samp0RmQyX1c5aFBfNjBzQVluay0zQ2RJbW1jVktrZUZnWTBwTlloNUNnSGJiMFdMNzRQbWFFbFN5T05Nemc5NHJBODBuNEVqQjJ5bzlaR2ZXTjBXb3p1OTRkVmV6M2VJRmthNDBCVdIBdEFVX3lxTE41WkJMbHlKSUdYcnRhc3hWcmFJZWgyYjRBd0tyZ3VoaHgxMnV0dDYzdng4emRyTmtFVU5KOEktT3dTQzRBQlVhUDZGb0l4MndZWU9EWmYwcWR1UkFoOW9KMkV3djdfTzZJNnBEX2tSbVlpb3A2?oc=5"
   ],
   [
    "Commodities",
