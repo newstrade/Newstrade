@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T16:48:14.650Z",
+ "updated": "2026-11-01T17:43:59.191Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77977.55,
-   "ch": 0.69,
-   "asof": "2026-11-01T16:48:09.000Z"
+   "p": 77950.05,
+   "ch": 0.66,
+   "asof": "2026-11-01T17:43:56.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2266.37,
-   "ch": 0.61,
-   "asof": "2026-11-01T16:48:11.000Z"
+   "p": 2265.44,
+   "ch": 0.57,
+   "asof": "2026-11-01T17:43:55.000Z"
   },
   {
    "s": "S&P 500",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 94.57,
-   "ch": -0.82,
-   "asof": "2026-11-01T16:48:09.000Z"
+   "p": 94.6,
+   "ch": -0.79,
+   "asof": "2026-11-01T17:43:57.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2491,
-   "ch": -0.08,
-   "asof": "2026-11-01T16:48:10.000Z"
+   "p": 1.2502,
+   "ch": 0.01,
+   "asof": "2026-11-01T17:43:53.000Z"
   },
   {
    "s": "Apple",
@@ -496,10 +496,10 @@
   ],
   [
    "Forex",
-   "high",
-   "'The Fed put is very much back': Wall Street strategists weigh central bank's next move",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVJyRm4wTnJjSmtiU3lKWWZ5WVFndHdqWGlsZzVHd3BRdEhQa2o0UnRablMyblVsbHl0MDVwTFhPRGdCemo1ODhjUGl5ZEJPLUdSQk0taHZCSG4zUV94YXlSeXBLSFV3c3FOdTdvSmhpSkh5Q25STW9sRVI3Tk44TmdQYWIxOF9LeEV0VnVyQVptdTJkaVVCeXhiZlVqb19NYmktQUJ0NldISmpnNFoyTUROYWZuLUd4WUxoT1BMWmJrNGtYcVNab19QZElzaFNwc1N5MUVEVQ?oc=5"
+   "med",
+   "What protects Japan’s economy? And what does it mean for the yen?",
+   "investingLive",
+   "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSFZoX1p3bzdNQnFHajBhajJqQlEzN1dGdDJOYzktX2tBNTNSMmYxODEzUjN5UktYd3hoNEFVUDFrQjF2WllwY2sxYXl5QW5pdUtjZ0YzQ0RKOXhmazczejNTdjgxeEVFN3F0TlQ5YTczT1Jvb2oxcjg1X1lDbXM1WjE1T3FUUkFDZTJnNnFlOHRYODJhT0ZDUmxNTnFodFZZY2c?oc=5"
   ],
   [
    "Crypto",
@@ -518,23 +518,23 @@
   [
    "Stocks",
    "med",
-   "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTW9TMmVsZkc2b05TYkloVW41X050RjdtZ1F5U01TRnJOSEthYTJpcDdPWVhJb0FvRGEteHgtbVhSS0lOVEZ3T2N5MTNpSUNWNXpETThZR0RvcFQwY2Q5R3ctRUFvM1ZtdFdMaXhGSnpPM2FiLUhORXNrem84cUpfVGpuQ0VmaGNsZUlxUVQ0dk4zQUE2cWFzUk8yM1R3cjc3dEczVw?oc=5"
+   "Wall Street Braces for More Wild Days in Stocks After Tech Rout",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnplR2tJTFloQjBWaGpDNHNCeThSSFBXWTBTaXlINjBwMklKQklzTG1Na0E0M0VhcGRuN25Lb0ZUX1pQa3dIY0tncHR3THBKZGIyeWRvU1AzcXY5Rl9NSzc1R0tjVEhacUVFUnZwc3JRbTNVSEhfX1UwdFU3SXJpakNMVS1FNFVwVTU5d1BaMXprRVhubVdJVw?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Top Wall Street analysts are bullish on these 3 stocks for the long haul",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxOYWYzVGJZSm1oS1Bfb1ZEcGZNaWx2YWkzSEZfcFI4T05ZRE1kVFpLSUJuMTA3TDQwVjVpSElqRFdQNlNiM0pPS1JyaVppSzAxVlNQRFZOR0RIN2Q4VFNlelkwU1BWZjhXa19YdDI1OUhsYVUyVF9NUWNJTTNmMDZIZ1l3SFVKT3JOa2NFNEs2U08wVnFvTTQ3d1MwVGFZZ9IBowFBVV95cUxNVHpCcm1rZ25Sb2x3YUZzZmxpZno1YWZGMnk2dE5EeHNVZFRFZ0NmQjJGZHVsR1pVVWZWa3YzcERzeU91QmdlSkhNSGxJR3ROckZaeUUzZEVOR1UyMWNmMHhUYWljMEEtTVhBdEp6a2JQMDhfQS1tZUliaEdBYjRtWXdMQm1oSDU2d2Mza0RDbkd5bEJjRUh2UlpKNVM4d2VyUGww?oc=5"
+   "U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemJPWElvMW9JX2pxLThMQ1VVVDhyaGhjelVIZC12OFk2VjNCOVpVQy1hYkdQRUlpOERsWG9XZDk1SkVtZmxCQlB5V0M0bjZQeUNEOGJpVC1xaGFtaTN3dTJBdzVRWDUwVFZlcDFpMFByMl9zRmxhZjFMX2VrZldZaTdTSVViTThneVdweHpfOVpkUW8wekQyem9sMUFmNFE3YlJnVHJmOTJxLWc?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
+   "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5"
+   "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHd1Q1FTWEFlUlUtZ1FQRWJfYm1QYm5KZW1jTVA2cS01R0cxb0xsNVNrdXJVNm44VTd2ZWN4WnY1R0tla0JuM3NVUmpBVF9GLTl2WEdFRmNUTFpEVUpHVHQzdUREUFBwN2ZEZ2xGcThUa0lKamdzaEY2c19pRy1PcXZCd2hPUmRfTmQ4bUNGWkFPbTM3Z04zLXB2bUdtclBvVmpmQmhqcEloSTJUOHg2ZzRsbEI?oc=5"
   ],
   [
    "Commodities",
