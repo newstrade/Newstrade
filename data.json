@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T10:18:26.762Z",
+ "updated": "2026-11-02T12:02:49.621Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,65 +313,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.122,
-   "ch": 0.48,
-   "asof": "2026-11-02T10:17:29.000Z"
+   "p": 1.1212,
+   "ch": 0.41,
+   "asof": "2026-11-02T12:02:26.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3415,
-   "ch": 0.19,
-   "asof": "2026-11-02T10:17:29.000Z"
+   "p": 1.3413,
+   "ch": 0.18,
+   "asof": "2026-11-02T12:02:26.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.954,
-   "ch": 0.28,
-   "asof": "2026-11-02T10:18:26.000Z"
+   "p": 157.936,
+   "ch": 0.26,
+   "asof": "2026-11-02T12:02:49.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7021,
-   "ch": -0.2,
-   "asof": "2026-11-02T10:17:29.000Z"
+   "p": 0.7007,
+   "ch": -0.4,
+   "asof": "2026-11-02T12:01:26.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3969,
-   "ch": -0.03,
-   "asof": "2026-11-02T10:18:26.000Z"
+   "p": 1.3972,
+   "ch": -0.01,
+   "asof": "2026-11-02T12:02:48.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8212,
-   "ch": -0.45,
-   "asof": "2026-11-02T10:18:26.000Z"
+   "p": 0.8201,
+   "ch": -0.58,
+   "asof": "2026-11-02T12:02:47.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77869.93,
-   "ch": -0.47,
-   "asof": "2026-11-02T10:18:20.000Z"
+   "p": 77772.84,
+   "ch": -0.59,
+   "asof": "2026-11-02T12:02:44.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2284.22,
-   "ch": 0.51,
-   "asof": "2026-11-02T10:18:23.000Z"
+   "p": 2283.41,
+   "ch": 0.47,
+   "asof": "2026-11-02T12:02:43.000Z"
   },
   {
    "s": "S&P 500",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3905.7,
-   "ch": 0.17,
-   "asof": "2026-11-02T10:08:22.000Z"
+   "p": 3913.7,
+   "ch": 0.38,
+   "asof": "2026-11-02T11:52:42.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 99.71,
-   "ch": -4.24,
-   "asof": "2026-11-02T10:08:25.000Z"
+   "p": 99.47,
+   "ch": -4.47,
+   "asof": "2026-11-02T11:52:45.000Z"
   },
   {
    "s": "USD/KES",
@@ -425,9 +425,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6264,
-   "ch": -0.49,
-   "asof": "2026-11-02T10:18:26.000Z"
+   "p": 16.6354,
+   "ch": -0.43,
+   "asof": "2026-11-02T12:02:50.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 93.95,
-   "ch": -0.53,
-   "asof": "2026-11-02T10:18:24.000Z"
+   "p": 93.99,
+   "ch": -0.49,
+   "asof": "2026-11-02T12:02:44.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2468,
-   "ch": -0.24,
-   "asof": "2026-11-02T10:18:22.000Z"
+   "p": 1.2489,
+   "ch": -0.08,
+   "asof": "2026-11-02T12:02:46.000Z"
   },
   {
    "s": "Apple",
@@ -481,25 +481,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 50.295,
-   "ch": 2.07,
-   "asof": "2026-11-02T10:08:23.000Z"
+   "p": 50.19,
+   "ch": 1.85,
+   "asof": "2026-11-02T11:52:34.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "China's central bank taps liquidity tool to fund share purchases",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbUowSGs1Q0hadWZXNFhieVFtSERoVm1uZHBNaDZYeVFoS2FXaVIxMVhnckRuMVY0NkJPQTNXZFdNeUtJQ2hYREZGZDM3UnhzcUE5bkJSMXhDTXpYRUltclJka2pJZS0yNGY0TGg2dDBkbTh3MnhQTjZxM0pKaWViT21HNmE0ajlHS0xGLVdkZmxMOHhzUndVU1Z4YXVPZElpZkJuQTRZSlZPcV9zRmJfQnRVWjRadw?oc=5"
+   "How Poland’s Political Standoff Risks Paralyzing the Central Bank",
+   "Bloomberg",
+   "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbkNCOS1kVVVic3hfTW1Md3JyZzBBQW9fR0RxWmhmbkpBUmxKWjFfTjJHMk80dUtQd3JNSlhnYndEU3B0TWpCWUJyV3Azd01aaUNHbEZvNENqRGNqQVZCZDVxTEVWQ3FCd2JNUkpSczJQd3hqUXFfWTVpbnE5Ynh4T1RzXzVET0ZUQU9UeXJOaWlOY21KZ1ZqVUVkWWw5X2RZRHBTemFWa1pndFFTUDVGY0JXbDB0MGFJUmE4OVZVaVJrVGZxUUQ4?oc=5"
   ],
   [
    "Forex",
    "med",
-   "How Poland’s Political Standoff Risks Paralyzing the Central Bank",
-   "Bloomberg",
-   "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbkNCOS1kVVVic3hfTW1Md3JyZzBBQW9fR0RxWmhmbkpBUmxKWjFfTjJHMk80dUtQd3JNSlhnYndEU3B0TWpCWUJyV3Azd01aaUNHbEZvNENqRGNqQVZCZDVxTEVWQ3FCd2JNUkpSczJQd3hqUXFfWTVpbnE5Ynh4T1RzXzVET0ZUQU9UeXJOaWlOY21KZ1ZqVUVkWWw5X2RZRHBTemFWa1pndFFTUDVGY0JXbDB0MGFJUmE4OVZVaVJrVGZxUUQ4?oc=5"
+   "Sterling today: Pound gains as dollar slips on Iran diplomacy bets",
+   "Yahoo Finance Singapore",
+   "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZWNJRWVodGt3TWEtSG9WQnhiVzBXUHJLS1REbHdCSkVPd2pVVFZOSWx4SjhJMnM3YzBSNWhTQVdkQ2dKMDFDbm9KQlRxVTJxZkRIdFBIaXFDWjRXLVpkNUptMEdUMWhpOVdYRlJhbldUUE9SZmVpTkhFenRUMHlyNUhyUkFHUHRqSmc?oc=5"
   ],
   [
    "Crypto",
@@ -511,9 +511,9 @@
   [
    "Crypto",
    "med",
-   "Bitcoin’s Resilience After Binance Hack Masks Market Jitters",
-   "Bloomberg",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxON015ekNBYXdIZHd2dExpZHUxWW9VcTAyWDFjREtEWWRHcG5STzV5MVdkdjRqdVIyT01jak9Cek1vVE1Rb2w2QW4ydzRYak51X1J5anRfaEh3enVhVGUyZFR4emgySTBhUFJsWG84TGdlVlptanlwckdmbk9aR2cyYjlsRHBQYVRFdG1ENEFUdG1YQ3daZkxJRDB0WnNTQmpfa0ZXWlRQNTlnSGI4dmtCOA?oc=5"
+   "Current price of Ethereum for MM-DD-YYYY",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzMEpPR0c0WTFjNVF4U2oyLVlTblV5akxQUjk3QmRYWTdlZ1BEQkZocXgyS2l4TWdNNEZMcExrVnQydDAzNFdEY2JGd1prZXYzeTFaQ2NZMHRMejN1bk9jY0tCMFpScHJm?oc=5"
   ],
   [
    "Stocks",
@@ -525,9 +525,9 @@
   [
    "Stocks",
    "med",
-   "US Stocks Halt Selloff as Oil Prices Retreat: Markets Wrap",
-   "Bloomberg",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUXhSWUZpNlU1UFZVSEtvY3QwQVB4T3FuYlpCT3lpaE05MThfMFFTZVZWWllFZDZDYkJFdTBIWEx1X1ZMVXlESFdaX3Noc2VSSW1QRHFzYzhPZkowLVNZeWR1N2dBN2hlLXY1VlJ3SHJNR3Ayc29JOXN4cXN3bklZQzN5bEctRER1aGp1eFdUVjhITWM0?oc=5"
+   "Exclusive | U.S. Pushes to Restore Russian Gas Sales to Europe Via Ukraine",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGJ5czJUY0hNMkJORml6Z2ptY3h0SWp1MXNFVDhlNjNJY0RqQVRweDl0eGtJQ0RWZndidWFsM3VhLV82bTQ2TEYxUlRtVV9qdk1wSDd6RWM0QklacEhOWnFjeEQ0S0tZNXRDVlZiTk82cmdxZU1BY2J2dGE4aTlzcDJveW1tUUJtb0hudHI2cmJ0d2JvZDh4XzZ0Z0wtY2FwMG5YVGJn?oc=5"
   ],
   [
    "Commodities",
@@ -540,8 +540,8 @@
    "Commodities",
    "med",
    "Goldman Sachs Raises December Brent Oil Price Forecast to $105",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTXM0eVdxb3RvLU1mYWRJTEFhYW1lLU5uME5jM04tcTlUZ0xPVXhYUjNYNWhNNDhfS0htdEZELWF1cTJFQ1gydGNCWGpVTFB4ODI4UzZ3VHd6TGtSdlZ2dE5QQXdsR2t3cU92RDR5Q3ZjSS1RTTZJbHdkVENqTzZxT1Qzc09iQjNTSGJNZVVJYWYyRkw4WmE0VGdvdU1pLW03d09WZU5yVjk?oc=5"
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZEdpc2VKU1pJVGFIZlVlRm1USEtwX2stbVFYV3V2M2VmNmV6SDAxSTVEazI4YUJraWdwWEQwYk5ZM3BRd1cxNFEwZ0M1ZFhsdk1kOUFtMy1SZ19NbTlONExRcWZjVXg4VE5YcDRHcFR0WDFYVUNjMGVENERaa0hIX0NvcS1iQ0E3TWViSmpKV3FzaHJBcGJPQVNUaHVLdjRIN1J2ZDVmTFlwYTM30gGyAUFVX3lxTE5TbDRMQnc2R1Nua2lwR0M0RzcwVlBrRUQtYXM0dExKQW1OSU52dU11QWVaUURKNTA3Znpzc1lHQ2w5b19DSjRRMEpHR1RGSG9YN05vWHZ1REhYaU5yNkRxbGg0aWxtUTItd256OVdjVmFDODNZMElQbkNWVUFMdDY0YmRIMFFobmJ4Um16eEFrbGRmb2Zob0p6ODhrbnVHYlVpbENJT2hFdkFXcXRoTmkwUlE?oc=5"
   ]
  ]
 }
