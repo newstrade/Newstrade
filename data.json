@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T21:53:35.610Z",
+ "updated": "2026-11-02T22:53:00.894Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -315,39 +315,39 @@
    "d": 4,
    "p": 1.1192,
    "ch": 0.23,
-   "asof": "2026-11-02T21:53:28.000Z"
+   "asof": "2026-11-02T22:52:29.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3409,
-   "ch": 0.15,
-   "asof": "2026-11-02T21:53:28.000Z"
+   "p": 1.3404,
+   "ch": 0.11,
+   "asof": "2026-11-02T22:52:29.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.946,
-   "ch": 0.27,
-   "asof": "2026-11-02T21:53:34.000Z"
+   "p": 157.876,
+   "ch": 0.23,
+   "asof": "2026-11-02T22:53:00.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7001,
-   "ch": -0.48,
-   "asof": "2026-11-02T21:53:28.000Z"
+   "p": 0.6999,
+   "ch": -0.51,
+   "asof": "2026-11-02T22:51:29.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3985,
-   "ch": 0.09,
-   "asof": "2026-11-02T21:53:34.000Z"
+   "p": 1.3983,
+   "ch": 0.07,
+   "asof": "2026-11-02T22:53:01.000Z"
   },
   {
    "s": "USD/CHF",
@@ -355,23 +355,23 @@
    "d": 4,
    "p": 0.8185,
    "ch": -0.78,
-   "asof": "2026-11-02T21:53:35.000Z"
+   "asof": "2026-11-02T22:53:01.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 76685.95,
-   "ch": -1.98,
-   "asof": "2026-11-02T21:53:31.000Z"
+   "p": 76770.78,
+   "ch": -1.87,
+   "asof": "2026-11-02T22:52:58.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2252.03,
-   "ch": -0.91,
-   "asof": "2026-11-02T21:53:27.000Z"
+   "p": 2252.44,
+   "ch": -0.89,
+   "asof": "2026-11-02T22:52:56.000Z"
   },
   {
    "s": "S&P 500",
@@ -387,7 +387,7 @@
    "d": 2,
    "p": 25164.316,
    "ch": -1.07,
-   "asof": "2026-11-02T21:53:33.000Z"
+   "asof": "2026-11-02T22:15:59.000Z"
   },
   {
    "s": "Dow Jones",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3957.3,
-   "ch": 1.5,
-   "asof": "2026-11-02T21:43:34.000Z"
+   "p": 3956.6,
+   "ch": -0.33,
+   "asof": "2026-11-02T21:59:59.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 96.39,
-   "ch": -7.42,
-   "asof": "2026-11-02T21:43:27.000Z"
+   "p": 96.26,
+   "ch": -0.21,
+   "asof": "2026-11-02T21:59:57.000Z"
   },
   {
    "s": "USD/KES",
@@ -425,9 +425,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5972,
+   "p": 16.5965,
    "ch": -0.66,
-   "asof": "2026-11-02T21:53:36.000Z"
+   "asof": "2026-11-02T22:52:51.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 91.91,
-   "ch": -2.69,
-   "asof": "2026-11-02T21:53:35.000Z"
+   "p": 92.02,
+   "ch": -2.57,
+   "asof": "2026-11-02T22:52:50.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2498,
-   "ch": 0,
-   "asof": "2026-11-02T21:53:23.000Z"
+   "p": 1.2481,
+   "ch": -0.14,
+   "asof": "2026-11-02T22:52:52.000Z"
   },
   {
    "s": "Apple",
@@ -481,18 +481,18 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 50.685,
-   "ch": 2.86,
-   "asof": "2026-11-02T21:43:15.000Z"
+   "p": 50.71,
+   "ch": -0.35,
+   "asof": "2026-11-02T21:59:59.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "China rolls out support measures to aid struggling stocks",
+   "New Zealand's central bank registers Revolut as country's 27th bank",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbUowSGs1Q0hadWZXNFhieVFtSERoVm1uZHBNaDZYeVFoS2FXaVIxMVhnckRuMVY0NkJPQTNXZFdNeUtJQ2hYREZGZDM3UnhzcUE5bkJSMXhDTXpYRUltclJka2pJZS0yNGY0TGg2dDBkbTh3MnhQTjZxM0pKaWViT21HNmE0ajlHS0xGLVdkZmxMOHhzUndVU1Z4YXVPZElpZkJuQTRZSlZPcV9zRmJfQnRVWjRadw?oc=5"
+   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNFVUcGdGUUZUSDZURDZEVmp5Z1FUeWhTV1ZDX0h2cExZTGJLNVZEWmhxcXlpX3ZndEx1Sm5EMjJpVF9xZ25vZFB4RmJvR2lhRnRTckFaYWR6UW9kWFpFUE9TRUQxcllzbk1vZm56ZEM0WjJudm9QSmJuMFQyUEpPeGlHYWo3NlhWRVdPN21vUzZWZGtOSVlYRURUazdod3pvOEh5ZHo1Z0NCREdoSEs3eXlWQUkxT2hr?oc=5"
   ],
   [
    "Forex",
