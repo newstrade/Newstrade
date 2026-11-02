@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T04:08:34.907Z",
+ "updated": "2026-11-02T05:14:16.630Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,65 +313,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1177,
-   "ch": 0.1,
-   "asof": "2026-11-02T04:08:25.000Z"
+   "p": 1.1186,
+   "ch": 0.18,
+   "asof": "2026-11-02T05:13:27.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3391,
-   "ch": 0.01,
-   "asof": "2026-11-02T04:08:25.000Z"
+   "p": 1.3399,
+   "ch": 0.07,
+   "asof": "2026-11-02T05:13:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.875,
-   "ch": 0.23,
-   "asof": "2026-11-02T04:08:34.000Z"
+   "p": 157.785,
+   "ch": 0.17,
+   "asof": "2026-11-02T05:14:16.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7025,
-   "ch": -0.14,
-   "asof": "2026-11-02T04:07:25.000Z"
+   "p": 0.7027,
+   "ch": -0.11,
+   "asof": "2026-11-02T05:13:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3982,
-   "ch": 0.06,
-   "asof": "2026-11-02T04:08:34.000Z"
+   "p": 1.3979,
+   "ch": 0.04,
+   "asof": "2026-11-02T05:14:13.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8242,
-   "ch": -0.08,
-   "asof": "2026-11-02T04:08:34.000Z"
+   "p": 0.8234,
+   "ch": -0.18,
+   "asof": "2026-11-02T05:14:15.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 78460.75,
-   "ch": 0.29,
-   "asof": "2026-11-02T04:08:32.000Z"
+   "p": 78144,
+   "ch": -0.12,
+   "asof": "2026-11-02T05:14:11.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2303.23,
-   "ch": 1.34,
-   "asof": "2026-11-02T04:08:30.000Z"
+   "p": 2286.14,
+   "ch": 0.59,
+   "asof": "2026-11-02T05:14:13.000Z"
   },
   {
    "s": "S&P 500",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3910.3,
-   "ch": 0.29,
-   "asof": "2026-11-02T03:58:31.000Z"
+   "p": 3912.1,
+   "ch": 0.34,
+   "asof": "2026-11-02T05:04:14.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 100.73,
-   "ch": -3.26,
-   "asof": "2026-11-02T03:58:31.000Z"
+   "p": 100.59,
+   "ch": -3.39,
+   "asof": "2026-11-02T05:04:16.000Z"
   },
   {
    "s": "USD/KES",
@@ -419,15 +419,15 @@
    "d": 2,
    "p": 129.8,
    "ch": 0,
-   "asof": "2026-11-02T04:06:51.000Z"
+   "asof": "2026-11-02T04:30:53.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.7001,
-   "ch": -0.04,
-   "asof": "2026-11-02T04:08:35.000Z"
+   "p": 16.6896,
+   "ch": -0.11,
+   "asof": "2026-11-02T05:14:16.000Z"
   },
   {
    "s": "USD/NGN",
@@ -435,23 +435,23 @@
    "d": 2,
    "p": 1344.94,
    "ch": 0,
-   "asof": "2026-11-02T04:06:51.000Z"
+   "asof": "2026-11-02T04:30:53.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.32,
-   "ch": 0.92,
-   "asof": "2026-11-02T04:08:23.000Z"
+   "p": 94.57,
+   "ch": 0.13,
+   "asof": "2026-11-02T05:14:14.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2574,
-   "ch": 0.6,
-   "asof": "2026-11-02T04:08:33.000Z"
+   "p": 1.2505,
+   "ch": 0.05,
+   "asof": "2026-11-02T05:14:07.000Z"
   },
   {
    "s": "Apple",
@@ -481,25 +481,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 50.08,
-   "ch": 1.63,
-   "asof": "2026-11-02T03:58:25.000Z"
+   "p": 50.145,
+   "ch": 1.76,
+   "asof": "2026-11-02T05:03:29.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Japan’s Katayama says US-Japan FX statement ‘alive’, warns on disorderly yen moves",
-   "investingLive",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQzF5YlBXWGIyNkROdnd4LWFHU2NIbmlESm5TLS1ET2ZjU1hiZFdMR25XS1ZFQW13ODFJcHc2b3hYVTFoUWJHTEctcnYxangyWVBxeGZTdW5NNThKZ21PSU1Ja0RLX2dBblJidWhGUG9QWnY0RlFUd1FSNktiald2eHpWcEh1U29UY3VMUzZsc29jOXdWWUxTNWVzSTVvaFU1dVpRbWp6QWg4NC1UVUd5M1RB?oc=5"
+   "Asian currencies mixed as yuan holds near four-year high, dollar steadies",
+   "Yahoo Finance Australia",
+   "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSWZ2MHo5LWZwazJDVl9nSFp1NU5PU1EtZmRNd0ZveXIyTk5iUDZocGxsNzhsMnN5SXZlaXJQWGNXTkFIOWU2WEh6Skx5b2NEVTFCVy1oS0NmdFJjTlRmTzVHaGRqcFNJWm03SHd0WkFhQW1MRFZNc2hFdGZvT0tKNWJHRWladFh6d1E?oc=5"
   ],
   [
    "Forex",
-   "high",
-   "Japanese Yen weakens amid less hawkish BoJ as bears shrug off fresh intervention warning",
-   "FXStreet",
-   "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT0dsZ2JkT3M2MkpYUGluakZKY3RXTVI2aHFwa3BkVi14cTlnWVJ4N0k4SDh1ZkNmaUVVQldDcWZPV0NBQWdjbExkaVpOczhDLTVTUkZ2UzBxSkhFQkFtdDB6NzZtcGM4aVdKMFZlVjJMcVMzbTU1VHJjdHdScmZfY0FJTGl5T2kxTGZkdVNkdXNUMktiR21MNXpTMEh2OWpuR3htQjBLZE5hYkVFS0FneTZ2RmE4SWlKWHBqalUzMEl3dC1TV0lmQVVVWQ?oc=5"
+   "med",
+   "Japan’s Katayama says US-Japan FX statement ‘alive’, warns on disorderly yen moves",
+   "investingLive",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQzF5YlBXWGIyNkROdnd4LWFHU2NIbmlESm5TLS1ET2ZjU1hiZFdMR25XS1ZFQW13ODFJcHc2b3hYVTFoUWJHTEctcnYxangyWVBxeGZTdW5NNThKZ21PSU1Ja0RLX2dBblJidWhGUG9QWnY0RlFUd1FSNktiald2eHpWcEh1U29UY3VMUzZsc29jOXdWWUxTNWVzSTVvaFU1dVpRbWp6QWg4NC1UVUd5M1RB?oc=5"
   ],
   [
    "Crypto",
@@ -511,23 +511,23 @@
   [
    "Crypto",
    "med",
-   "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-   "BBC",
-   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTU5hbmZNM3NNNEZQZlRINXh5Um1jNnJaTXhrRmxlREpJNDBXNWJLNld1MjhlVzAtRjFyYzV3SmJNRmtlTHBXQmlYWWU1c1B5UDVtWnQzRm1KSXc?oc=5"
+   "Binance says hackers who stole a record $6.3 billion in crypto used a 'self-destruct mechanism' to hide their tracks",
+   "Business Insider",
+   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa0lDMHRlTDluZ1BKQVNuaDNDZWtkdllsQjFXVXRWVmtXOWdkb1hPS3B6Z25HWjlsOFl2cTVPX013MC03LVh1THA2dVFNUFBWbDY2Q0Yzam9FN1R6blVrQnJzcFhWWmJ5eExlU3UyQ1NBRmdGMmptY1lKS2ticVQ3S1Y2LWJvcGxmdHlsOTBXc3RhU0VwR2w2TnlsZThhSjZvdVZ0Szl2Qy0?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "The Nasdaq Just Flashed a Signal Investors Can't Afford to Ignore. History Says the Stock Market Will Do This Next.",
+   "The S&P 500's Shiller P/E Is Above 40. History Says What Happened the Only Other Time.",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRDZZNjM4VVZMTFp0WGdHczhQX2tyMVl5SlpHYzE5bkNyVmtSS29lUURTbGxfd2hSX0FzeklLbXpCWVJtR1R6Qm9qaU1MTGVJYkt6dkNDRkFIWl9POWpzUmdaNEpIeklVQkRUSDl1dHA2OVhIaEZuMUthdEtXS0pobEZEdkdKLVNpWG5LNlllcGszbk9UZVBkRGF1bVN3UzFQQ0Nj?oc=5"
+   "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZkZzTmM4UmhtMUFkSU1ENXlkNXpNUlNCMUkzRDgyX0NxNVpCN1pBOGlWbktyeHp1eW4yMTdSR0x1Smx5MGFaRUJwRmpyUGdaTTBMXy1IclU5QkoyLUNVZ01kTDk1OFEtRkp0RDBVYWh2OXIxZFFwY2RiMUFOUi1kUmJHV3N5WGt4czA0?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Asian Stocks to Fall as Tech Rout Fuels AI Fears: Markets Wrap",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUXhSWUZpNlU1UFZVSEtvY3QwQVB4T3FuYlpCT3lpaE05MThfMFFTZVZWWllFZDZDYkJFdTBIWEx1X1ZMVXlESFdaX3Noc2VSSW1QRHFzYzhPZkowLVNZeWR1N2dBN2hlLXY1VlJ3SHJNR3Ayc29JOXN4cXN3bklZQzN5bEctRER1aGp1eFdUVjhITWM0?oc=5"
+   "Exclusive | U.S. Pushes to Restore Russian Gas Sales to Europe Via Ukraine",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGJ5czJUY0hNMkJORml6Z2ptY3h0SWp1MXNFVDhlNjNJY0RqQVRweDl0eGtJQ0RWZndidWFsM3VhLV82bTQ2TEYxUlRtVV9qdk1wSDd6RWM0QklacEhOWnFjeEQ0S0tZNXRDVlZiTk82cmdxZU1BY2J2dGE4aTlzcDJveW1tUUJtb0hudHI2cmJ0d2JvZDh4XzZ0Z0wtY2FwMG5YVGJn?oc=5"
   ],
   [
    "Commodities",
@@ -539,9 +539,9 @@
   [
    "Commodities",
    "med",
-   "Goldman Hikes Oil-Price Forecasts on ‘Substantial’ Supply Risks",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLUx0WXhGNTZZdWd4eld1YVFxbHdhX2xpSXdubnI0UExZMk83QkQzVUlRVDRLWEExdUVCeTNoM0JkY1drQkg1Q3RvNXMybGxGLXFXbGFHZkM3RTFBem5pcXNHdnc5ZmRSSTE5eWhhakxWV0MzN1JQdlVLYnZVYnBuVzZfNENCVjNKTk1KNUxhX0JXNUJPV3J5Y2FaRm5jYi02RXFELWR3d04tM0FQN3JiVXZ3?oc=5"
+   "Oil Prices No Longer Follow Headlines",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcnBYdGk0c2JHbjN5T2ZDSWI3c2ZiTUdUcEZEMGFYZWE0TVBma3hzX3JqQlpPeWhFVzRTOHhXekhrelN5Zk10bmhJVFFpbFRSWEhzTEVmYjd0ampPTllHUUluT29mRHpmVEJPWmJyVHY5T2pmczFXU3FDamsxQ3JqX1I4WUZtWXJM0gGOAUFVX3lxTE9MSjlnZExoYkdXSTZjOUEyWHUxWDdZdnBBWmlSaEdrSXZfRnJfeWJnT2g3eU05b2ZtYUV2OTJOX3FaZnBBcTZjMzBzRXJfYzRQUmY1aEd1aUhNSkx5RV91NHdYZDJSSWlqOW03bkt2Vk1hTkdJc1l3ZlpYYXAxTVVMYzBXeGJEODljcnlTOUE?oc=5"
   ]
  ]
 }
