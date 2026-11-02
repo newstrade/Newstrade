@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T08:30:32.774Z",
+ "updated": "2026-11-02T10:18:26.762Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,41 +313,41 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1208,
-   "ch": 0.38,
-   "asof": "2026-11-02T08:30:26.000Z"
+   "p": 1.122,
+   "ch": 0.48,
+   "asof": "2026-11-02T10:17:29.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3422,
-   "ch": 0.25,
-   "asof": "2026-11-02T08:30:26.000Z"
+   "p": 1.3415,
+   "ch": 0.19,
+   "asof": "2026-11-02T10:17:29.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.649,
-   "ch": 0.08,
-   "asof": "2026-11-02T08:30:31.000Z"
+   "p": 157.954,
+   "ch": 0.28,
+   "asof": "2026-11-02T10:18:26.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7026,
-   "ch": -0.13,
-   "asof": "2026-11-02T08:29:26.000Z"
+   "p": 0.7021,
+   "ch": -0.2,
+   "asof": "2026-11-02T10:17:29.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3967,
-   "ch": -0.04,
-   "asof": "2026-11-02T08:30:32.000Z"
+   "p": 1.3969,
+   "ch": -0.03,
+   "asof": "2026-11-02T10:18:26.000Z"
   },
   {
    "s": "USD/CHF",
@@ -355,23 +355,23 @@
    "d": 4,
    "p": 0.8212,
    "ch": -0.45,
-   "asof": "2026-11-02T08:30:31.000Z"
+   "asof": "2026-11-02T10:18:26.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 78038.55,
-   "ch": -0.25,
-   "asof": "2026-11-02T08:30:28.000Z"
+   "p": 77869.93,
+   "ch": -0.47,
+   "asof": "2026-11-02T10:18:20.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2288.75,
-   "ch": 0.71,
-   "asof": "2026-11-02T08:30:31.000Z"
+   "p": 2284.22,
+   "ch": 0.51,
+   "asof": "2026-11-02T10:18:23.000Z"
   },
   {
    "s": "S&P 500",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3901.2,
-   "ch": 0.06,
-   "asof": "2026-11-02T08:20:32.000Z"
+   "p": 3905.7,
+   "ch": 0.17,
+   "asof": "2026-11-02T10:08:22.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 100.45,
-   "ch": -3.52,
-   "asof": "2026-11-02T08:20:30.000Z"
+   "p": 99.71,
+   "ch": -4.24,
+   "asof": "2026-11-02T10:08:25.000Z"
   },
   {
    "s": "USD/KES",
@@ -425,9 +425,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6525,
-   "ch": -0.33,
-   "asof": "2026-11-02T08:30:33.000Z"
+   "p": 16.6264,
+   "ch": -0.49,
+   "asof": "2026-11-02T10:18:26.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 94.28,
-   "ch": -0.18,
-   "asof": "2026-11-02T08:30:30.000Z"
+   "p": 93.95,
+   "ch": -0.53,
+   "asof": "2026-11-02T10:18:24.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.25,
-   "ch": 0.01,
-   "asof": "2026-11-02T08:30:27.000Z"
+   "p": 1.2468,
+   "ch": -0.24,
+   "asof": "2026-11-02T10:18:22.000Z"
   },
   {
    "s": "Apple",
@@ -481,12 +481,19 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 50.22,
-   "ch": 1.92,
-   "asof": "2026-11-02T08:20:29.000Z"
+   "p": 50.295,
+   "ch": 2.07,
+   "asof": "2026-11-02T10:08:23.000Z"
   }
  ],
  "news": [
+  [
+   "Forex",
+   "med",
+   "China's central bank taps liquidity tool to fund share purchases",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbUowSGs1Q0hadWZXNFhieVFtSERoVm1uZHBNaDZYeVFoS2FXaVIxMVhnckRuMVY0NkJPQTNXZFdNeUtJQ2hYREZGZDM3UnhzcUE5bkJSMXhDTXpYRUltclJka2pJZS0yNGY0TGg2dDBkbTh3MnhQTjZxM0pKaWViT21HNmE0ajlHS0xGLVdkZmxMOHhzUndVU1Z4YXVPZElpZkJuQTRZSlZPcV9zRmJfQnRVWjRadw?oc=5"
+  ],
   [
    "Forex",
    "med",
@@ -495,11 +502,11 @@
    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbkNCOS1kVVVic3hfTW1Md3JyZzBBQW9fR0RxWmhmbkpBUmxKWjFfTjJHMk80dUtQd3JNSlhnYndEU3B0TWpCWUJyV3Azd01aaUNHbEZvNENqRGNqQVZCZDVxTEVWQ3FCd2JNUkpSczJQd3hqUXFfWTVpbnE5Ynh4T1RzXzVET0ZUQU9UeXJOaWlOY21KZ1ZqVUVkWWw5X2RZRHBTemFWa1pndFFTUDVGY0JXbDB0MGFJUmE4OVZVaVJrVGZxUUQ4?oc=5"
   ],
   [
-   "Forex",
+   "Crypto",
    "med",
-   "H.M. Queen Máxima of the Netherlands and European Central Bank President Christine Lagarde to Speak at EMERGE Europe",
-   "Yahoo Finance UK",
-   "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4R1dqSXFXZ2d2dnd5UmpvQk5seVZsTWV5MDZLd25NdHpiMDJXQXRsWG92Ni1PSHZHWFhwZ0NYYkdzX1g5RndrVEJoWEhsZVh1RW5QT3NWcmR0Z2dMd3JIWWFHWkFtVGFKMHI4MDJMSVBxREE?oc=5"
+   "Binance hack: Users withdraw $3.6bn after record crypto heist",
+   "BBC",
+   "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBabVFHSUg2RlNyUVdrekNWMk1UMGhiVmtrOTRiSGNJaDk4N2RUeXhCekNacnFEYjRDR1Z3SkNDeHJVUWJMcFE2V1JMLVRlSThCZmx2TmxNNm5JQjQ?oc=5"
   ],
   [
    "Crypto",
@@ -509,25 +516,18 @@
    "https://news.google.com/rss/articles/CBMisAFBVV95cUxON015ekNBYXdIZHd2dExpZHUxWW9VcTAyWDFjREtEWWRHcG5STzV5MVdkdjRqdVIyT01jak9Cek1vVE1Rb2w2QW4ydzRYak51X1J5anRfaEh3enVhVGUyZFR4emgySTBhUFJsWG84TGdlVlptanlwckdmbk9aR2cyYjlsRHBQYVRFdG1ENEFUdG1YQ3daZkxJRDB0WnNTQmpfa0ZXWlRQNTlnSGI4dmtCOA?oc=5"
   ],
   [
-   "Crypto",
+   "Stocks",
    "med",
-   "Bitcoin Price Prediction for November 2026",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdUdkMFdnN0d5akx0WF9tSVc5dFIzQzdmb2JObmVqdWRmc2ZJck5sbjhlM0F5Q08wTGVjRkRJa1NrQ0tVV2FQdmtjajRmRHdvaHhhdnpHYW5UV1lESl9zNG51amdXMG9GRElUT0xIRTlRVW9xa3N4UkF1MFI4Qjc0Q3o1R09PT0ZGTGxBRk1TWEdJbUxDSVpScEQ3TWszZXRYS0MtbjVB?oc=5"
+   "October dive for AI-related shares tests broader US stock market's resilience",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSVlEWkkyN3lYZG41WXJvcl9pNWlKYW5VNjdmb1lHYkNGVHpmT1BHLWVDUFQydFNra3JIeVlfVFh5ZzhoTzRfMVdwZ2didmtGZ0hGZDN6ZmtTbUk5b2lIb3JfZ2poRld3R1BCM28zLUlHUnlZcHJQMXp3S01PTGNBSmxRN1pYMThUZXQtbHBHaU5CWnhTMFF6VTFidG05QzdQTnVJYmJiZl9YQTFxX3ZhWExjN0NZOUpTWjFTaUh5WUFSem9MdW1Z?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Exclusive | U.S. Pushes to Restore Russian Gas Sales to Europe Via Ukraine",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGJ5czJUY0hNMkJORml6Z2ptY3h0SWp1MXNFVDhlNjNJY0RqQVRweDl0eGtJQ0RWZndidWFsM3VhLV82bTQ2TEYxUlRtVV9qdk1wSDd6RWM0QklacEhOWnFjeEQ0S0tZNXRDVlZiTk82cmdxZU1BY2J2dGE4aTlzcDJveW1tUUJtb0hudHI2cmJ0d2JvZDh4XzZ0Z0wtY2FwMG5YVGJn?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "The S&P 500's Shiller P/E Is Above 40. History Says What Happened the Only Other Time.",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZkZzTmM4UmhtMUFkSU1ENXlkNXpNUlNCMUkzRDgyX0NxNVpCN1pBOGlWbktyeHp1eW4yMTdSR0x1Smx5MGFaRUJwRmpyUGdaTTBMXy1IclU5QkoyLUNVZ01kTDk1OFEtRkp0RDBVYWh2OXIxZFFwY2RiMUFOUi1kUmJHV3N5WGt4czA0?oc=5"
+   "US Stocks Halt Selloff as Oil Prices Retreat: Markets Wrap",
+   "Bloomberg",
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUXhSWUZpNlU1UFZVSEtvY3QwQVB4T3FuYlpCT3lpaE05MThfMFFTZVZWWllFZDZDYkJFdTBIWEx1X1ZMVXlESFdaX3Noc2VSSW1QRHFzYzhPZkowLVNZeWR1N2dBN2hlLXY1VlJ3SHJNR3Ayc29JOXN4cXN3bklZQzN5bEctRER1aGp1eFdUVjhITWM0?oc=5"
   ],
   [
    "Commodities",
@@ -539,9 +539,9 @@
   [
    "Commodities",
    "med",
-   "Oil Prices No Longer Follow Headlines",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcnBYdGk0c2JHbjN5T2ZDSWI3c2ZiTUdUcEZEMGFYZWE0TVBma3hzX3JqQlpPeWhFVzRTOHhXekhrelN5Zk10bmhJVFFpbFRSWEhzTEVmYjd0ampPTllHUUluT29mRHpmVEJPWmJyVHY5T2pmczFXU3FDamsxQ3JqX1I4WUZtWXJM0gGOAUFVX3lxTE9MSjlnZExoYkdXSTZjOUEyWHUxWDdZdnBBWmlSaEdrSXZfRnJfeWJnT2g3eU05b2ZtYUV2OTJOX3FaZnBBcTZjMzBzRXJfYzRQUmY1aEd1aUhNSkx5RV91NHdYZDJSSWlqOW03bkt2Vk1hTkdJc1l3ZlpYYXAxTVVMYzBXeGJEODljcnlTOUE?oc=5"
+   "Goldman Sachs Raises December Brent Oil Price Forecast to $105",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTXM0eVdxb3RvLU1mYWRJTEFhYW1lLU5uME5jM04tcTlUZ0xPVXhYUjNYNWhNNDhfS0htdEZELWF1cTJFQ1gydGNCWGpVTFB4ODI4UzZ3VHd6TGtSdlZ2dE5QQXdsR2t3cU92RDR5Q3ZjSS1RTTZJbHdkVENqTzZxT1Qzc09iQjNTSGJNZVVJYWYyRkw4WmE0VGdvdU1pLW03d09WZU5yVjk?oc=5"
   ]
  ]
 }
