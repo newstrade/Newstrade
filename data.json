@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T15:05:06.907Z",
+ "updated": "2026-11-02T16:12:14.706Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,105 +313,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1212,
-   "ch": 0.41,
-   "asof": "2026-11-02T15:04:30.000Z"
+   "p": 1.1194,
+   "ch": 0.25,
+   "asof": "2026-11-02T16:11:26.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.342,
-   "ch": 0.23,
-   "asof": "2026-11-02T15:04:30.000Z"
+   "p": 1.3411,
+   "ch": 0.16,
+   "asof": "2026-11-02T16:11:26.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.665,
-   "ch": 0.09,
-   "asof": "2026-11-02T15:05:06.000Z"
+   "p": 157.861,
+   "ch": 0.22,
+   "asof": "2026-11-02T16:12:13.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.702,
-   "ch": -0.21,
-   "asof": "2026-11-02T15:03:29.000Z"
+   "p": 0.7017,
+   "ch": -0.26,
+   "asof": "2026-11-02T16:11:26.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3955,
-   "ch": -0.13,
-   "asof": "2026-11-02T15:05:06.000Z"
+   "p": 1.3971,
+   "ch": -0.01,
+   "asof": "2026-11-02T16:12:14.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8189,
-   "ch": -0.73,
-   "asof": "2026-11-02T15:05:06.000Z"
+   "p": 0.8202,
+   "ch": -0.57,
+   "asof": "2026-11-02T16:12:14.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77718.07,
-   "ch": -0.66,
-   "asof": "2026-11-02T15:05:03.000Z"
+   "p": 77303.75,
+   "ch": -1.19,
+   "asof": "2026-11-02T16:12:12.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2284.44,
-   "ch": 0.52,
-   "asof": "2026-11-02T15:05:05.000Z"
+   "p": 2266.33,
+   "ch": -0.28,
+   "asof": "2026-11-02T16:12:10.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7626.37,
-   "ch": 0.61,
-   "asof": "2026-11-02T15:05:07.000Z"
+   "p": 7632.35,
+   "ch": 0.69,
+   "asof": "2026-11-02T16:12:14.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 25634.098,
-   "ch": 0.77,
-   "asof": "2026-11-02T15:05:07.000Z"
+   "p": 25655,
+   "ch": 0.86,
+   "asof": "2026-11-02T16:12:05.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52289.73,
+   "p": 52286.37,
    "ch": 1,
-   "asof": "2026-11-02T15:05:07.000Z"
+   "asof": "2026-11-02T16:12:15.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3975,
-   "ch": 1.95,
-   "asof": "2026-11-02T14:55:06.000Z"
+   "p": 3967.1,
+   "ch": 1.75,
+   "asof": "2026-11-02T16:02:07.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 97.23,
-   "ch": -6.62,
-   "asof": "2026-11-02T14:55:07.000Z"
+   "p": 97.32,
+   "ch": -6.53,
+   "asof": "2026-11-02T16:02:13.000Z"
   },
   {
    "s": "USD/KES",
@@ -419,15 +419,15 @@
    "d": 2,
    "p": 129.9,
    "ch": 0.08,
-   "asof": "2026-11-02T14:55:08.000Z"
+   "asof": "2026-11-02T15:36:23.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5872,
+   "p": 16.5871,
    "ch": -0.72,
-   "asof": "2026-11-02T15:05:07.000Z"
+   "asof": "2026-11-02T16:12:15.000Z"
   },
   {
    "s": "USD/NGN",
@@ -435,55 +435,55 @@
    "d": 2,
    "p": 1336.63,
    "ch": -0.62,
-   "asof": "2026-11-02T14:55:08.000Z"
+   "asof": "2026-11-02T15:36:23.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 94.14,
-   "ch": -0.33,
-   "asof": "2026-11-02T15:05:06.000Z"
+   "p": 93.13,
+   "ch": -1.4,
+   "asof": "2026-11-02T16:12:11.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2494,
-   "ch": -0.04,
-   "asof": "2026-11-02T15:05:00.000Z"
+   "p": 1.2467,
+   "ch": -0.25,
+   "asof": "2026-11-02T16:12:08.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 340.41,
-   "ch": -1.22,
-   "asof": "2026-11-02T15:05:07.000Z"
+   "p": 341.255,
+   "ch": -0.98,
+   "asof": "2026-11-02T16:12:15.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 402.67,
-   "ch": 0.72,
-   "asof": "2026-11-02T15:05:08.000Z"
+   "p": 412.93,
+   "ch": 3.28,
+   "asof": "2026-11-02T16:12:15.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 207.94,
-   "ch": 1.61,
-   "asof": "2026-11-02T15:05:07.000Z"
+   "p": 207.475,
+   "ch": 1.39,
+   "asof": "2026-11-02T16:12:15.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 51.07,
-   "ch": 3.64,
-   "asof": "2026-11-02T14:55:06.000Z"
+   "p": 51.02,
+   "ch": 3.54,
+   "asof": "2026-11-02T16:02:00.000Z"
   }
  ],
  "news": [
@@ -504,30 +504,30 @@
   [
    "Crypto",
    "med",
+   "Binance sees more than $4.6 billion in withdrawals after largest crypto hack in history",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWEJpbTZXY0ZyOUlFeVlMQzJXcThlNXctOFpCcDFfYmx5bXk5UTA5bUN5OEpOQ0ZldU9wQnpFV1pBTVdpSTk5MWZlQVVBbUtiWmdNWDJjRkttV3RKZ3FlN05zeVhjamVKZGtjeE5zNDFXV1A3b25GdjJXUFNmcUNKN21OWkU2Mzd6Qm9yb0luWHVsR1VqcVQ1U2VFNXVJeDV6eHFfMzhacmpGV2lMdHBNQ0YzLXlvYXFhdWRUX0tmRXZwdExKYm9PZDVycFhpUzBvSkJiMGJjazZLQQ?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
    "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
    "CNBC",
    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNTJxMVlLZVJ1YmQwOGw0Y2R0b3JqQS04aWZzVl9xU0J4cS1SRXBoZmlSSDhqNWtCODRlMEdtdWNEZ0U3Q3BYbVhJQjZ3UE5ZV05UMUpuQXJDMms4MHBZWS1nbkRqRnZXbXlySXVPVGpTZHB5X2RSWU1ib1JHM1BBOUxwb1BvYWRXMVJiSDhPSjBEcjTSAZgBQVVfeXFMTjlfeHpPbmxGR2lCLXhKS2lvQWotNV9HYmhKTEhvVUJMemRQbnBpOUg3Zkd6Vzc1M1g4X2pDWFU1WGZnaEdTTElnZDJlOEFrMDNMbnBuRjR1eFFYcnZodzFsSXNZVjNVVm41aE82UVlsRTVlZ2tYMllib1hQRjBZT0drLUpIdV9OY1lWV0pUNUNGZG95cS0xZFc?oc=5"
   ],
   [
-   "Crypto",
-   "med",
-   "Binance hack: Users withdraw $3.6bn after record crypto heist",
-   "BBC",
-   "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBabVFHSUg2RlNyUVdrekNWMk1UMGhiVmtrOTRiSGNJaDk4N2RUeXhCekNacnFEYjRDR1Z3SkNDeHJVUWJMcFE2V1JMLVRlSThCZmx2TmxNNm5JQjQ?oc=5"
-  ],
-  [
    "Stocks",
    "med",
-   "October dive for AI-related shares tests broader US stock market's resilience",
+   "US stocks open higher as AI trade steadies, oil falls",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSVlEWkkyN3lYZG41WXJvcl9pNWlKYW5VNjdmb1lHYkNGVHpmT1BHLWVDUFQydFNra3JIeVlfVFh5ZzhoTzRfMVdwZ2didmtGZ0hGZDN6ZmtTbUk5b2lIb3JfZ2poRld3R1BCM28zLUlHUnlZcHJQMXp3S01PTGNBSmxRN1pYMThUZXQtbHBHaU5CWnhTMFF6VTFidG05QzdQTnVJYmJiZl9YQTFxX3ZhWExjN0NZOUpTWjFTaUh5WUFSem9MdW1Z?oc=5"
+   "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnVDQzd0LTF3Vi1BMnJDLWpGaHNIMlJVTDNnVmplMzZnVjRxRTZUUTRsQkVvZ21EN3lXMzA4ZDJnOTQwc01ld2tqT1pGZVN6VmpuVWpzLVVMUU1qcDdnRFdEQUZoM0l6Ym9NYnhfWDctWkZnSC1fLUk0RGxtUmd3WU9zLXdhcTdGTkJvcUxaazZKZEliVjl3bVBfZldDajJMOXZtVkx0NVI4YWlwMkVFbXpMR0ZGQW9wOWxEcTM3QThSdk1fb2c?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Wall Street Escalates FinTwit Crackdown as AI Copycat Fears Grow",
-   "Bloomberg",
-   "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWVNvdWxrNTN2ajNXb0lLMF9RdFBhYjNYSHVCQXdaZm12dHNScG4zMTJHZkxvd1BWbGkxUXYxc19nQUNIdVhuQlhKN2pKM283R1FmX3pLeWpCYU9kNnpEeXF3WVppdXdkM0hpZzEwb0pjXzV5THQwbHZNc0ZuRzBpNUNkV28zc2ZocGZndEY5MnZmdWlvOGg5cEk4ZDVlM1dKYVNqVGhxOFM5S2lON3QtOGxfZVI5UQ?oc=5"
+   "Wall Street's Fear Index is doing something strange. Here's what it means for stocks",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTVHLWI1OU54LThtcGd1dGdRWnNvbmMxel9pLXZPYWhOQ253MnBnaWh4VS1Ia3h4azJSbHhRYnRWQUhlbklfbFB1M01qcU9SSFM4RTNHTHBNVVB6cGQzMmxPTnREUnBnaF95QnZHaFVUZDltWU1MWlRFV1ZNVDIyenFvZEgySS03dnktcnJrYVdaSDNnUXlhVHVlRmd4amVReEE2SHJudXdJNGN0LVVuTHVEcllTc0VIRVHSAb8BQVVfeXFMTXdaRzVrY3d0c0ZjTm1KV3pWRlVXNXlJM0ktanJsTjR6VjNlWVFlbk9Pd3dla0hoLUx4RWtZUGJmTFZEWDdPZ0VyNUw1ek52aVlPQkZQRTJnZnIxMllpTlVOLXkwWV96OHNaUTRsZnBNcUU0TTRNa2gxMTg5TUU0Rks3ellPZk94ZnhSZkJONC11RG1PS0NJXzR3YWtaWG9tbURSdG1GTUgxZG5uOVFkdzM3b1hNcGlrVUs3X25XM1E?oc=5"
   ],
   [
    "Commodities",
