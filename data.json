@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T03:00:08.043Z",
+ "updated": "2026-11-02T04:08:34.907Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,25 +313,25 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1169,
-   "ch": 0.03,
-   "asof": "2026-11-02T02:59:29.000Z"
+   "p": 1.1177,
+   "ch": 0.1,
+   "asof": "2026-11-02T04:08:25.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3383,
-   "ch": -0.04,
-   "asof": "2026-11-02T02:59:29.000Z"
+   "p": 1.3391,
+   "ch": 0.01,
+   "asof": "2026-11-02T04:08:25.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.89,
-   "ch": 0.24,
-   "asof": "2026-11-02T03:00:06.000Z"
+   "p": 157.875,
+   "ch": 0.23,
+   "asof": "2026-11-02T04:08:34.000Z"
   },
   {
    "s": "AUD/USD",
@@ -339,39 +339,39 @@
    "d": 4,
    "p": 0.7025,
    "ch": -0.14,
-   "asof": "2026-11-02T02:59:29.000Z"
+   "asof": "2026-11-02T04:07:25.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3984,
-   "ch": 0.08,
-   "asof": "2026-11-02T03:00:07.000Z"
+   "p": 1.3982,
+   "ch": 0.06,
+   "asof": "2026-11-02T04:08:34.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.825,
-   "ch": 0.01,
-   "asof": "2026-11-02T03:00:07.000Z"
+   "p": 0.8242,
+   "ch": -0.08,
+   "asof": "2026-11-02T04:08:34.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 78334.22,
-   "ch": 0.13,
-   "asof": "2026-11-02T03:00:05.000Z"
+   "p": 78460.75,
+   "ch": 0.29,
+   "asof": "2026-11-02T04:08:32.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2292.4,
-   "ch": 0.87,
-   "asof": "2026-11-02T03:00:03.000Z"
+   "p": 2303.23,
+   "ch": 1.34,
+   "asof": "2026-11-02T04:08:30.000Z"
   },
   {
    "s": "S&P 500",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3913.4,
-   "ch": 0.37,
-   "asof": "2026-11-02T02:50:04.000Z"
+   "p": 3910.3,
+   "ch": 0.29,
+   "asof": "2026-11-02T03:58:31.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 101.12,
-   "ch": -2.88,
-   "asof": "2026-11-02T02:50:07.000Z"
+   "p": 100.73,
+   "ch": -3.26,
+   "asof": "2026-11-02T03:58:31.000Z"
   },
   {
    "s": "USD/KES",
@@ -419,15 +419,15 @@
    "d": 2,
    "p": 129.8,
    "ch": 0,
-   "asof": "2026-11-01T21:25:03.000Z"
+   "asof": "2026-11-02T04:06:51.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.7106,
-   "ch": 0.02,
-   "asof": "2026-11-02T03:00:07.000Z"
+   "p": 16.7001,
+   "ch": -0.04,
+   "asof": "2026-11-02T04:08:35.000Z"
   },
   {
    "s": "USD/NGN",
@@ -435,23 +435,23 @@
    "d": 2,
    "p": 1344.94,
    "ch": 0,
-   "asof": "2026-11-01T21:25:03.000Z"
+   "asof": "2026-11-02T04:06:51.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 94.88,
-   "ch": 0.45,
-   "asof": "2026-11-02T03:00:04.000Z"
+   "p": 95.32,
+   "ch": 0.92,
+   "asof": "2026-11-02T04:08:23.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2514,
-   "ch": 0.12,
-   "asof": "2026-11-02T03:00:04.000Z"
+   "p": 1.2574,
+   "ch": 0.6,
+   "asof": "2026-11-02T04:08:33.000Z"
   },
   {
    "s": "Apple",
@@ -481,19 +481,12 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 49.855,
-   "ch": 1.18,
-   "asof": "2026-11-02T02:50:05.000Z"
+   "p": 50.08,
+   "ch": 1.63,
+   "asof": "2026-11-02T03:58:25.000Z"
   }
  ],
  "news": [
-  [
-   "Forex",
-   "med",
-   "Intesa Sanpaolo Gets European Central Bank Approval to Take Over Monte Dei Paschi",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVWZEaTA5Qnc5NDd2WXh1VWgyTUpTcFBvVExBOHg2TnV3b09vWnpNSVNrWWVHZDZLNWx0MDNGUU93cm5qdHJVQmMtekg1SjZrZEtfTVpCeHQ4VlRxRHRXSHNnbmZXdFNHaEM2alpHTlNQeGZRY09zVU9iWkZicEJWTFppNUcxd185c3VFLWxGcjNYUjVWc1hrNlZtRk9IbTZtQWdQVkQ1aldfU1hXSkFRQkw1bUQwSVB5bW9V?oc=5"
-  ],
   [
    "Forex",
    "med",
@@ -502,18 +495,25 @@
    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQzF5YlBXWGIyNkROdnd4LWFHU2NIbmlESm5TLS1ET2ZjU1hiZFdMR25XS1ZFQW13ODFJcHc2b3hYVTFoUWJHTEctcnYxangyWVBxeGZTdW5NNThKZ21PSU1Ja0RLX2dBblJidWhGUG9QWnY0RlFUd1FSNktiald2eHpWcEh1U29UY3VMUzZsc29jOXdWWUxTNWVzSTVvaFU1dVpRbWp6QWg4NC1UVUd5M1RB?oc=5"
   ],
   [
-   "Crypto",
-   "med",
-   "Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLWljNlJ2T28tVUlGZVNsNHVkbHdHMWRTNVczSGRkZjlMbGt5WjNmV2d3TTFvU1dVNTZzQ2dvNExUeWhrSGZUc3ZoOTA0eDRMbC1DQ1VNcFBGaHhHa3F5S1llWUVWNmxpSERYZThucHM2eFJTYWFoYklpcThITjN2SUI3V1BOS2pNN250SXk3eW5Tak5qTEZiNDhMU3FhaFQ5LWlnOHpJb1NERExKcUZ3cEVpV0tNUWM?oc=5"
+   "Forex",
+   "high",
+   "Japanese Yen weakens amid less hawkish BoJ as bears shrug off fresh intervention warning",
+   "FXStreet",
+   "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT0dsZ2JkT3M2MkpYUGluakZKY3RXTVI2aHFwa3BkVi14cTlnWVJ4N0k4SDh1ZkNmaUVVQldDcWZPV0NBQWdjbExkaVpOczhDLTVTUkZ2UzBxSkhFQkFtdDB6NzZtcGM4aVdKMFZlVjJMcVMzbTU1VHJjdHdScmZfY0FJTGl5T2kxTGZkdVNkdXNUMktiR21MNXpTMEh2OWpuR3htQjBLZE5hYkVFS0FneTZ2RmE4SWlKWHBqalUzMEl3dC1TV0lmQVVVWQ?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "$100 a Week Into Bitcoin Since Its $126,000 Record High: What Would It Be Worth Now?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVUFHOEtDUUg4OXZfQVRXV3A1akRrQ0tmdGtBS3YzV203dU45Z2x1TzBzbUUyLTR6cTdjNDJHUFhObVE0QmFqZWctZV8xNF81V243VHI2NXJzQlhJSzd0N0cxVENzNHgxQ1ZUNFhVdWhZWTZfRFZkQTExc1djdFN3Z1FMSVMtbGllS2tSa0s5U0Raa2pWMnc?oc=5"
+   "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb2NfWVhRd1dsZXVELVl6emxWenVBSzdWTFVpcjlPaUtVNmgwbklnaHctbWF2VjdTTTJxQ3c4NzZZSGpSTG1QaThQQUZHY1RmeENqcTZNend0eDBla0dFNThjejRfM2dTdm1JYW9vd0duUnZFVUNWQUhETi1RVmZxNWxBZ2gzZEdBWTdGNnVqMmxVeUlKVUZPX0ttc3pnLUUxOGpoa1hpdVZNWWZrVkx6c3FoTkluMDRB?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+   "BBC",
+   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTU5hbmZNM3NNNEZQZlRINXh5Um1jNnJaTXhrRmxlREpJNDBXNWJLNld1MjhlVzAtRjFyYzV3SmJNRmtlTHBXQmlYWWU1c1B5UDVtWnQzRm1KSXc?oc=5"
   ],
   [
    "Stocks",
@@ -525,16 +525,9 @@
   [
    "Stocks",
    "med",
-   "China to Convene Meeting on Supporting Stock Market, Reports Say",
+   "Asian Stocks to Fall as Tech Rout Fuels AI Fears: Markets Wrap",
    "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMitAFBVV95cUxOendaOF9OYUpHU1R3Q25VVXptSDk0dU1FQkJkcXN2Q0ctRjBzdlNIdHNlcmxIMHFKdlZmM25SZ0pTdUlyMXlGaXBvUFBvZlhFV3VxNks1RGtIQ3FmeXBBNEFDekVYdkFtVC1VR2k2Nl93a0owS0dkaHRaWEpqcFhpdlRIM1MwOVBvNmd4dFJtb0JaeXpjX2otZnZlU0ZBRjh5MllKbzZIc2RnSVJlR2dJWDRDOHA?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5"
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUXhSWUZpNlU1UFZVSEtvY3QwQVB4T3FuYlpCT3lpaE05MThfMFFTZVZWWllFZDZDYkJFdTBIWEx1X1ZMVXlESFdaX3Noc2VSSW1QRHFzYzhPZkowLVNZeWR1N2dBN2hlLXY1VlJ3SHJNR3Ayc29JOXN4cXN3bklZQzN5bEctRER1aGp1eFdUVjhITWM0?oc=5"
   ],
   [
    "Commodities",
@@ -542,6 +535,13 @@
    "Oil slips more than 1% as talks continue on ending Iran war",
    "Reuters",
    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHdxcnVlWmx5T1pjbDZQS19XeXlYTW1xZmNONnJQWHk4YU1EQTRzZFZQVEJxYjd6WEJTN2pfZC10ZGlzXzVURVdHZkg1RjZGY2tjN0ZVRjNRc0p4UmQ1c2F6MUt4eEpHSml6Z3Q4WHpqV094aEo0dTlVbk00OGFBazlmdGhsWGdtckFHQjlBTVU5Q0FRR3hxUnVmcVpPeGZsTHBlWmhTdw?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Goldman Hikes Oil-Price Forecasts on ‘Substantial’ Supply Risks",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLUx0WXhGNTZZdWd4eld1YVFxbHdhX2xpSXdubnI0UExZMk83QkQzVUlRVDRLWEExdUVCeTNoM0JkY1drQkg1Q3RvNXMybGxGLXFXbGFHZkM3RTFBem5pcXNHdnc5ZmRSSTE5eWhhakxWV0MzN1JQdlVLYnZVYnBuVzZfNENCVjNKTk1KNUxhX0JXNUJPV3J5Y2FaRm5jYi02RXFELWR3d04tM0FQN3JiVXZ3?oc=5"
   ]
  ]
 }
