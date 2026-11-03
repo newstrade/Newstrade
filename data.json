@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T13:16:54.544Z",
+ "updated": "2026-11-03T14:26:54.254Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,65 +313,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1186,
-   "ch": -0.04,
-   "asof": "2026-11-03T13:16:27.000Z"
+   "p": 1.1193,
+   "ch": 0.02,
+   "asof": "2026-11-03T14:26:29.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3418,
-   "ch": 0.09,
-   "asof": "2026-11-03T13:16:27.000Z"
+   "p": 1.3419,
+   "ch": 0.1,
+   "asof": "2026-11-03T14:26:29.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.217,
+   "p": 158.215,
    "ch": 0.23,
-   "asof": "2026-11-03T13:16:53.000Z"
+   "asof": "2026-11-03T14:26:53.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6988,
-   "ch": -0.16,
-   "asof": "2026-11-03T13:15:27.000Z"
+   "p": 0.6985,
+   "ch": -0.2,
+   "asof": "2026-11-03T14:25:29.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3974,
-   "ch": -0.07,
-   "asof": "2026-11-03T13:16:54.000Z"
+   "p": 1.3977,
+   "ch": -0.05,
+   "asof": "2026-11-03T14:26:54.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8192,
-   "ch": 0.09,
-   "asof": "2026-11-03T13:16:54.000Z"
+   "p": 0.8194,
+   "ch": 0.11,
+   "asof": "2026-11-03T14:26:54.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77276.03,
-   "ch": 0.77,
-   "asof": "2026-11-03T13:16:52.000Z"
+   "p": 77159.39,
+   "ch": 0.62,
+   "asof": "2026-11-03T14:26:49.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2278.25,
-   "ch": 1.29,
-   "asof": "2026-11-03T13:16:46.000Z"
+   "p": 2286.48,
+   "ch": 1.65,
+   "asof": "2026-11-03T14:26:52.000Z"
   },
   {
    "s": "S&P 500",
@@ -401,57 +401,57 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3946.1,
-   "ch": -0.59,
-   "asof": "2026-11-03T13:06:54.000Z"
+   "p": 3956.9,
+   "ch": -0.32,
+   "asof": "2026-11-03T14:16:48.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 97.52,
-   "ch": 1.1,
-   "asof": "2026-11-03T13:06:55.000Z"
+   "p": 95.41,
+   "ch": -1.09,
+   "asof": "2026-11-03T14:16:54.000Z"
   },
   {
    "s": "USD/KES",
    "m": "Forex",
    "d": 2,
-   "p": 129.9,
-   "ch": 0.04,
-   "asof": "2026-11-03T06:14:33.000Z"
+   "p": 129.85,
+   "ch": 0,
+   "asof": "2026-11-03T14:05:38.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6335,
-   "ch": 0.22,
-   "asof": "2026-11-03T13:16:54.000Z"
+   "p": 16.5678,
+   "ch": -0.18,
+   "asof": "2026-11-03T14:26:54.000Z"
   },
   {
    "s": "USD/NGN",
    "m": "Forex",
    "d": 2,
-   "p": 1336.63,
-   "ch": 0,
-   "asof": "2026-11-03T04:09:44.000Z"
+   "p": 1337.2,
+   "ch": 0.04,
+   "asof": "2026-11-03T14:05:38.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 92.76,
-   "ch": 1.01,
-   "asof": "2026-11-03T13:16:42.000Z"
+   "p": 93.22,
+   "ch": 1.51,
+   "asof": "2026-11-03T14:26:52.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2785,
-   "ch": 2.46,
-   "asof": "2026-11-03T13:16:49.000Z"
+   "p": 1.2796,
+   "ch": 2.55,
+   "asof": "2026-11-03T14:26:52.000Z"
   },
   {
    "s": "Apple",
@@ -481,32 +481,32 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 49.65,
-   "ch": -2.43,
-   "asof": "2026-11-03T13:06:52.000Z"
+   "p": 50.19,
+   "ch": -1.37,
+   "asof": "2026-11-03T14:16:46.000Z"
   }
  ],
  "news": [
   [
    "Forex",
-   "high",
-   "Sterling steady as traders await BoE, nervously watch midterms",
+   "med",
+   "India eases forex reporting rules for small value service exports, imports",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFIwMDZEbEZUUkxKX1pCSkdHSHRtSFRsOTc2NldkMnhENU0wcG9EbmlRdFhMQlZZdlUwbGRIR3Z3OVZwUVg4VnlSeE0zeU1sU2RXWTA0X3lOTEpLWEhma0x3SnR2SUhOb2ZQZjFCSEEzMHpmVEhFS0JZWHVKSG9HdWhjSnplNE4yd3ljN1hEa3JBaEJDbl9zT3p4cjBfWjZCd2tKVnV3?oc=5"
+   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU2xvX2xxNlUyTG1CaDJVZW96S2c0N2dQaW9MOFJfcENDOEJQS1FKa00zN2JCbWo2RnVJMjlDRy0yOWJ2Rkd3dUNueUVZZFAxY2RPR2pBUFVtQkdLbkNtaXhOMUhsZEs2cHJmd3Zqb0RFZkNYVjlRcjB6TnlPbHNVRDVYTDd6d3N5bVluTmNwcUkxMDlSdGhVR0ZQY1lMYmZXczA5bG1CQ0ZobkVUeDYxUHlRVkJWVWlF?oc=5"
   ],
   [
    "Forex",
    "med",
-   "US Dollar Mixed Early Tuesday Ahead, Eyes on Midterm Elections",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2lwOW1qenNhUnkzazdBU0ZCdVhkaFhnREdYQW5FVFg0Nll6NnV0SVVUbzdIcWV1VjB6ZjV1OC1YZXZKR3FJQ1ZENmdXV3BoTS14UDF1eldHVlA5NW9QaEhlUkRsWVVzMmhSNjc3RVpBZFZrV0NPUUJxekR6ZjRvNFdpUS1BRHBuV0dYdnJyQ3pwMUI0RWlTam9fOUVNV0U?oc=5"
+   "China’s Central Bank Tweaks Forex Reserve Rules to Steady Yuan",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaUVpai1RSG9LWk82anFJT1hrZlgtM0t3LTQ5ZDBHLXFOLVpyOFhiR0xZa3pLMkluNnpOdzBHWDdwbnZESzk2bWhybUhmdGZUSFFVd0owXzV1ZXJlcXliazhtclhMTV9vQzlSOGlZd0VlNUFLM2V2RUFwNG9SUjFWSG5aeXNUdzBlcmlvRl9RR3JvNUJwZFluUGVrVGduVXpNUEdCcjFTVFI5RktrU1JyMnd0R2E?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Current price of Ethereum for Nov. 3, 2026",
-   "Fortune",
-   "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wS0hQZmlhSEFxRXBmNjhzV0ZfTndqaHdyZXpuTnNzWmVHa09BWVhYdjlFSTZYbVpfMDJmYk9kdkVmUmt3YWZLSm80dHkyRi00S3ZteDlaMzVyNklxWTRsX2JEUGpJc1Bw?oc=5"
+   "Bitcoin is breaking a midterm election pattern going back to 2014: Crypto Daily",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR1haaFlkR0xjSlpiUXp0SmxiU1Jla1dhbDhEXzdxWFc5OE9EdWxlek95Q1QtaVNtcjE5YXA3TFZ1QnpMR3l0eE1GZTE0XzJneW5URlhXbUFIVERsRnN5bFl0ZUw5d0o5S0d4bXFCajZBRnVIaVpmeThoZENPUzJSOUE3aGhmR0RNM0FMUVF0NENIZlJpdDZkUjI4Q1puak9jNnN2aUE2VWN5RzJhYWFVbVBR?oc=5"
   ],
   [
    "Crypto",
@@ -525,9 +525,9 @@
   [
    "Stocks",
    "med",
-   "The stock market loves gridlock. But midterm elections won’t resolve two big money fights.",
-   "MarketWatch",
-   "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaDVlalRyOW5kUlBuamxJUXcwdmY3Mkg2VlNabU0tZDk0a1JzQ0NiUkZoamFEOU5pQVBxZGxGempvM1EyeE1iTHdvbTR1eTZ1NHBEWkV4ZGpkWnlabWwycllfUVVLei12VDRzRXl2MHFsVUV1MzJsRl84b0k2OFVhY2VwZ2N6dzdTWExxczRYakFXeTdEd1QzV3BRT3ZNY3BudVV1VUMyM3M4TWFVa1REdkw3ZDRjaUlrVWVUUGhtVVVJdmFCQk1ZNDFB?oc=5"
+   "The Stock Market Will Make a Big Move in the Next 6 Months if History Repeats Itself",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNjJERjR5VnFMMVNuN0o4THF2ZkF2dlFfT3NiR05JaW01MjlSTnhLT1FVT0l4dDJueXd2NnJOMWFLVFlUVmppZ1VKZUhKWlZVQlM0MXVmRGpRS19jQ2RaMzluaUJDZWY3ZTJYQjNFaklEOF9FcmtaSzBSdWVEbFA5UGo2WHVSaHFhRDlUSThZcmw3NXppYkE?oc=5"
   ],
   [
    "Commodities",
