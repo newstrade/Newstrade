@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T16:02:30.651Z",
+ "updated": "2026-11-03T17:08:13.042Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -315,39 +315,39 @@
    "d": 4,
    "p": 1.1197,
    "ch": 0.05,
-   "asof": "2026-11-03T16:02:26.000Z"
+   "asof": "2026-11-03T17:07:27.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3416,
-   "ch": 0.07,
-   "asof": "2026-11-03T16:02:26.000Z"
+   "p": 1.3419,
+   "ch": 0.1,
+   "asof": "2026-11-03T17:07:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.425,
-   "ch": 0.36,
-   "asof": "2026-11-03T16:02:30.000Z"
+   "p": 158.515,
+   "ch": 0.42,
+   "asof": "2026-11-03T17:08:12.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6981,
-   "ch": -0.26,
-   "asof": "2026-11-03T16:01:26.000Z"
+   "p": 0.6972,
+   "ch": -0.39,
+   "asof": "2026-11-03T17:07:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3989,
-   "ch": 0.04,
-   "asof": "2026-11-03T16:02:31.000Z"
+   "p": 1.3996,
+   "ch": 0.09,
+   "asof": "2026-11-03T17:08:12.000Z"
   },
   {
    "s": "USD/CHF",
@@ -355,63 +355,63 @@
    "d": 4,
    "p": 0.8209,
    "ch": 0.29,
-   "asof": "2026-11-03T16:02:31.000Z"
+   "asof": "2026-11-03T17:08:13.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77553.34,
-   "ch": 1.13,
-   "asof": "2026-11-03T16:02:27.000Z"
+   "p": 77684.77,
+   "ch": 1.31,
+   "asof": "2026-11-03T17:08:09.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2295.32,
-   "ch": 2.05,
-   "asof": "2026-11-03T16:02:24.000Z"
+   "p": 2295.73,
+   "ch": 2.07,
+   "asof": "2026-11-03T17:08:09.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7585.55,
-   "ch": 0.59,
-   "asof": "2026-11-03T16:02:31.000Z"
+   "p": 7576.79,
+   "ch": 0.47,
+   "asof": "2026-11-03T17:08:12.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 25437.318,
-   "ch": 1.08,
-   "asof": "2026-11-03T16:02:28.000Z"
+   "p": 25409.568,
+   "ch": 0.97,
+   "asof": "2026-11-03T17:08:10.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 51857.02,
-   "ch": -0.24,
-   "asof": "2026-11-03T16:02:31.000Z"
+   "p": 51738.69,
+   "ch": -0.47,
+   "asof": "2026-11-03T17:08:14.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3947,
-   "ch": -0.57,
-   "asof": "2026-11-03T15:52:25.000Z"
+   "p": 3936.2,
+   "ch": -0.84,
+   "asof": "2026-11-03T16:58:12.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 95.69,
-   "ch": -0.8,
-   "asof": "2026-11-03T15:52:32.000Z"
+   "p": 95.93,
+   "ch": -0.55,
+   "asof": "2026-11-03T16:58:12.000Z"
   },
   {
    "s": "USD/KES",
@@ -425,9 +425,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5928,
-   "ch": -0.03,
-   "asof": "2026-11-03T16:02:32.000Z"
+   "p": 16.6185,
+   "ch": 0.13,
+   "asof": "2026-11-03T17:08:14.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,49 +441,49 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 93.42,
-   "ch": 1.73,
-   "asof": "2026-11-03T16:02:29.000Z"
+   "p": 93.46,
+   "ch": 1.77,
+   "asof": "2026-11-03T17:08:14.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2768,
-   "ch": 2.32,
-   "asof": "2026-11-03T16:02:29.000Z"
+   "p": 1.279,
+   "ch": 2.5,
+   "asof": "2026-11-03T17:08:10.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 330.09,
-   "ch": -2.43,
-   "asof": "2026-11-03T16:02:30.000Z"
+   "p": 331.32,
+   "ch": -2.07,
+   "asof": "2026-11-03T17:08:13.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 401.88,
-   "ch": -0.48,
-   "asof": "2026-11-03T16:02:31.000Z"
+   "p": 397.92,
+   "ch": -1.46,
+   "asof": "2026-11-03T17:08:14.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 208.28,
-   "ch": 3.08,
-   "asof": "2026-11-03T16:02:32.000Z"
+   "p": 208.61,
+   "ch": 3.24,
+   "asof": "2026-11-03T17:08:15.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 49.955,
-   "ch": -1.83,
-   "asof": "2026-11-03T15:52:31.000Z"
+   "p": 49.73,
+   "ch": -2.28,
+   "asof": "2026-11-03T16:58:03.000Z"
   }
  ],
  "news": [
@@ -504,16 +504,16 @@
   [
    "Crypto",
    "med",
-   "Binance founder Changpeng Zhao addresses historic crypto hack: 'There's no 100% security'",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUFdlbks1cGotWlA4VFZFOFlDc0gzUmJ1Sk5DNTROZmZZVGFQMy02dFgzdUo1ZWtEbmp5RFhDRTJvOEgxSlF6b1AzbXg1ZG1xRjQ1M2pSdFlhODNlWU1WaHJkVlhfU3R4LUwzRTU5NUc0d3JMQXpHV1Fyc0NPd2JFVThGdW80bk9FYml5VF96M3VJNUVfTkpIMEFPMjhOU0ZrV0FnLXI4cmhPSUpBOGljQ1JQRHRyUm1lbHpMZWJIc2VLd0RNbDE1djFYR2NfYnJOV0lzQWhFTTJPU202X1diT0JR?oc=5"
+   "Bitcoin is breaking a midterm election pattern going back to 2014: Crypto Daily",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR1haaFlkR0xjSlpiUXp0SmxiU1Jla1dhbDhEXzdxWFc5OE9EdWxlek95Q1QtaVNtcjE5YXA3TFZ1QnpMR3l0eE1GZTE0XzJneW5URlhXbUFIVERsRnN5bFl0ZUw5d0o5S0d4bXFCajZBRnVIaVpmeThoZENPUzJSOUE3aGhmR0RNM0FMUVF0NENIZlJpdDZkUjI4Q1puak9jNnN2aUE2VWN5RzJhYWFVbVBR?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin is breaking a midterm election pattern going back to 2014: Crypto Daily",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR1haaFlkR0xjSlpiUXp0SmxiU1Jla1dhbDhEXzdxWFc5OE9EdWxlek95Q1QtaVNtcjE5YXA3TFZ1QnpMR3l0eE1GZTE0XzJneW5URlhXbUFIVERsRnN5bFl0ZUw5d0o5S0d4bXFCajZBRnVIaVpmeThoZENPUzJSOUE3aGhmR0RNM0FMUVF0NENIZlJpdDZkUjI4Q1puak9jNnN2aUE2VWN5RzJhYWFVbVBR?oc=5"
+   "Binance founder Changpeng Zhao addresses historic crypto hack: 'There's no 100% security'",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUFdlbks1cGotWlA4VFZFOFlDc0gzUmJ1Sk5DNTROZmZZVGFQMy02dFgzdUo1ZWtEbmp5RFhDRTJvOEgxSlF6b1AzbXg1ZG1xRjQ1M2pSdFlhODNlWU1WaHJkVlhfU3R4LUwzRTU5NUc0d3JMQXpHV1Fyc0NPd2JFVThGdW80bk9FYml5VF96M3VJNUVfTkpIMEFPMjhOU0ZrV0FnLXI4cmhPSUpBOGljQ1JQRHRyUm1lbHpMZWJIc2VLd0RNbDE1djFYR2NfYnJOV0lzQWhFTTJPU202X1diT0JR?oc=5"
   ],
   [
    "Stocks",
@@ -525,9 +525,9 @@
   [
    "Stocks",
    "med",
-   "China Stock Market’s Hidden Problem: Foreign Investors Get a Different Truth",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzZ5N25BZWFvQ28wbmJUSmVfTDZSVHVTVy1OZkJwdFhSN29Eakw5M28yUUpVOTJRQVJjRmRzSUkxdlhXckN4ZU5LY08zc3RsV0U0dlZwNFRTRE9NY2lOeXhPbkUzcm5HZFhfczl3UEpKZlRwbGZlODlUel9xZFd6OHpRWWh5cVN3aWJBOUJ5LWpIeEJwMEQxSjZ4UUtJQ0x3eF85aVdmajZMb1VOTmZ3bFJZLWl0Zw?oc=5"
+   "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
+   "MarketWatch",
+   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMi1DS2RCZm9TZ0RwVFRNUXhpbEc1dW1fSDlOMVdLbm5jUUw2a3FLRTVuVTM5aUozU2VkUWU1eVFPTDYxNzlVUE1Vd2xxejFFdkFxWnBVRmFfTVFnaFd0Yy1abEI2eDNYS1ZyV2tZdUdHSmQ1bm1NdElBcERXS191WHRrRmpGdXhxaVFMbUtmcmZEWmJRenhxWERmRHFNR2tWQUFzbTR2eVd2cEw1bzI0b2JiMzlmZ05F?oc=5"
   ],
   [
    "Commodities",
@@ -539,7 +539,7 @@
   [
    "Commodities",
    "med",
-   "Oil prices climb after U.S. strikes Iran's Qeshm Island",
+   "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
    "CNBC",
    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNjh3NEVPYnU5cTEtUE1OU0pwY3hYNE1qaHdxRVRjNGVSYlQxdndWM0hVNWpaa3RuRVd2MGZFQzY1aVQtVHVJSURmQ0lfdFFRdVB6MEpGV2lOR3VNbG8xSkFzRTZSUEFOSG9NMV9wZ3NiR1NOOHBmalNqeWlTTnFWU0dWbGFkaXAyNU5JQjMxODdwN1VnQzF1OGZoc2RtRWpLS3fSAacBQVVfeXFMTzVnZ0dQYzNVdFdLR0FiRVVXeWozMGZmNTR3QXVmUUNJaGF6QWJZMEtuanJuZUNNbVdncmRnY0FhYjFkSWQ5LUUxWEMwLVdoMUpiWk9ndElqQW1uSkliTjRIem5oNkJJek1Va1h4YkY2MTZVU0NEVEYxbFAtbXhaX3Rwc3VZaklkQ01CWDdrUTlQUEpEY2tFWDVNclR6cVhxNk53Vm91bU0?oc=5"
   ]
