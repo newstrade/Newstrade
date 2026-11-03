@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T20:57:53.875Z",
+ "updated": "2026-11-03T21:56:39.891Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,105 +313,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1194,
-   "ch": 0.03,
-   "asof": "2026-11-03T20:57:27.000Z"
+   "p": 1.1193,
+   "ch": 0.02,
+   "asof": "2026-11-03T21:56:28.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3414,
-   "ch": 0.06,
-   "asof": "2026-11-03T20:57:27.000Z"
+   "p": 1.3415,
+   "ch": 0.07,
+   "asof": "2026-11-03T21:56:28.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.739,
-   "ch": 0.56,
-   "asof": "2026-11-03T20:57:53.000Z"
+   "p": 158.711,
+   "ch": 0.54,
+   "asof": "2026-11-03T21:56:36.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6967,
-   "ch": -0.46,
-   "asof": "2026-11-03T20:57:27.000Z"
+   "p": 0.6969,
+   "ch": -0.43,
+   "asof": "2026-11-03T21:55:28.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4006,
-   "ch": 0.16,
-   "asof": "2026-11-03T20:57:54.000Z"
+   "p": 1.4009,
+   "ch": 0.18,
+   "asof": "2026-11-03T21:56:39.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.821,
-   "ch": 0.31,
-   "asof": "2026-11-03T20:57:53.000Z"
+   "p": 0.8209,
+   "ch": 0.29,
+   "asof": "2026-11-03T21:56:34.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77818.84,
-   "ch": 1.48,
-   "asof": "2026-11-03T20:57:49.000Z"
+   "p": 77805,
+   "ch": 1.46,
+   "asof": "2026-11-03T21:56:34.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2290.24,
-   "ch": 1.82,
-   "asof": "2026-11-03T20:57:46.000Z"
+   "p": 2291.76,
+   "ch": 1.89,
+   "asof": "2026-11-03T21:56:36.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7569.45,
-   "ch": 0.37,
-   "asof": "2026-11-03T20:57:53.000Z"
+   "p": 7568.92,
+   "ch": 0.36,
+   "asof": "2026-11-03T21:30:13.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 25388.203,
-   "ch": 0.89,
-   "asof": "2026-11-03T20:57:53.000Z"
+   "p": 25372.01,
+   "ch": 0.83,
+   "asof": "2026-11-03T21:56:29.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 51747.86,
-   "ch": -0.45,
-   "asof": "2026-11-03T20:57:54.000Z"
+   "p": 51786.72,
+   "ch": -0.38,
+   "asof": "2026-11-03T21:34:56.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3932.4,
-   "ch": -0.94,
-   "asof": "2026-11-03T20:47:52.000Z"
+   "p": 3938.9,
+   "ch": -0.77,
+   "asof": "2026-11-03T21:46:25.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 96.65,
-   "ch": 0.2,
-   "asof": "2026-11-03T20:47:53.000Z"
+   "p": 96.86,
+   "ch": 0.41,
+   "asof": "2026-11-03T21:46:37.000Z"
   },
   {
    "s": "USD/KES",
@@ -425,9 +425,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6283,
-   "ch": 0.18,
-   "asof": "2026-11-03T20:57:54.000Z"
+   "p": 16.6165,
+   "ch": 0.11,
+   "asof": "2026-11-03T21:56:39.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,49 +441,49 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 93.52,
-   "ch": 1.83,
-   "asof": "2026-11-03T20:57:47.000Z"
+   "p": 93.6,
+   "ch": 1.92,
+   "asof": "2026-11-03T21:56:34.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.278,
-   "ch": 2.42,
-   "asof": "2026-11-03T20:57:29.000Z"
+   "p": 1.2809,
+   "ch": 2.65,
+   "asof": "2026-11-03T21:56:36.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 332.05,
-   "ch": -1.85,
-   "asof": "2026-11-03T20:57:54.000Z"
+   "p": 331.9,
+   "ch": -1.9,
+   "asof": "2026-11-03T21:00:01.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 399.065,
-   "ch": -1.18,
-   "asof": "2026-11-03T20:57:55.000Z"
+   "p": 398.5,
+   "ch": -1.32,
+   "asof": "2026-11-03T21:00:00.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 207.045,
-   "ch": 2.47,
-   "asof": "2026-11-03T20:57:54.000Z"
+   "p": 206.69,
+   "ch": 2.29,
+   "asof": "2026-11-03T21:00:00.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 49.685,
-   "ch": -2.36,
-   "asof": "2026-11-03T20:47:42.000Z"
+   "p": 49.84,
+   "ch": -2.06,
+   "asof": "2026-11-03T21:46:11.000Z"
   }
  ],
  "news": [
@@ -511,37 +511,37 @@
   [
    "Crypto",
    "med",
-   "Binance founder Changpeng Zhao addresses historic crypto hack: 'There's no 100% security'",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUFdlbks1cGotWlA4VFZFOFlDc0gzUmJ1Sk5DNTROZmZZVGFQMy02dFgzdUo1ZWtEbmp5RFhDRTJvOEgxSlF6b1AzbXg1ZG1xRjQ1M2pSdFlhODNlWU1WaHJkVlhfU3R4LUwzRTU5NUc0d3JMQXpHV1Fyc0NPd2JFVThGdW80bk9FYml5VF96M3VJNUVfTkpIMEFPMjhOU0ZrV0FnLXI4cmhPSUpBOGljQ1JQRHRyUm1lbHpMZWJIc2VLd0RNbDE1djFYR2NfYnJOV0lzQWhFTTJPU202X1diT0JR?oc=5"
+   "Bitcoin Miners Pivoted to AI—Only to Find It’s Just as Turbulent as Crypto",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaXVpcUtQVk9BUU9DMmw3TUJZTlJveDR3dW82VHZoTXNSVlpTc19TM010eXJUYlJQVXFtUTh4OTBYamtTc1BnRXl3WERqSFE0QXotRU56bDhsWW82Z3FrT3NoREtFR3FhRTNadzd2YVRlREZFU2xTaW9Ga0lpUGc4VEk0R3N6em9LMmEwaTZ6TEFteklXWGJqaU1ZSjFOcEJWMGZNVTlTUlUtMUN0SGRjOFJ6X19PT1JpODAzNg?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Nasdaq rallies as AI heavyweights rebound ahead of midterm results",
+   "Nasdaq ends higher as AI heavyweights rebound ahead of midterm results",
    "Reuters",
    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVp0N2w0REZqOUJ3YkRxcmliYkhtX25yTkFtdmJDUFdSVm5CcXRQYjdMeFFLU0gxcHk1STM2R0xXaGJ6TW9ZN2ZQS2RReVRiXzNtY1B3Qm5fZ1lfTUFaMVpRM2d2ZVZodnZtbUFFLUtkcURfUEtENElyNG5YcFRGcncteEFaZFUwOGxVUmpTMWFkMEtvb09VTG50a2NSbjhLUm5Zc3EtZS1XUU5lWm9B?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "S&P 500, Nasdaq rise as tech stocks gain ahead of midterm results",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWE5VTWlqMWhWQjhVTU1PYTc2M2w3ZWJlUWl1UUMzbThRNGVvQkc1YXBxOUdyVDIwYzVHRG9WR3J0VkhxSnhGdlAzNk9WZXduZHBXdkRackxJVmZPLTZZLTFuQnFQMzZWTVF4U28xV3VrNERlV3hwOGFiYWR2SUVmcUtjOXZNeE0yeHRBTkZkZjI2bDdraXdDYg?oc=5"
+   "China’s AI stock-market struggles are a warning",
+   "The Economist",
+   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUk5SYzV2RVRZQkdoM0syTWN4M010ZjVBWXJrVjBWdkNoNGE1ajd4Q2Y0eTdEMkJhbC1JVnNzdkJJSkNkSHhTbDNoNmw4Z1pZQk5EbGxkNUxJbTBQOTRJRGRrUzlKcTRGTWZxVVZxM2Rmb3FCVnJFQ2oyUTQ5UzhrODR4V29jM2toZFIyYVRXTVpRTVI1QXNBYk96a00weFk3T3NGZkQ3cXo?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Current price of oil as of Nov. 3, 2026",
-   "Fortune",
-   "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KbEJ2X1pJTHNxWHJwOFFURW5FNUtubUpydG54dDh5R3RXNTNzSG1QTVNHUUNJSTFRa0JGSVdPVXQxWmhoZ0IycjhMbG1XWWx0eE1zTk9ySG1WRG9lTndpaGFR?oc=5"
+   "OPEC, Allies Keep Output Steady While Gulf Shipping Remains Under Threat",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbnNqUHNCa3N5QzZ4RUZEVVd5RUsxNDM1QU5wZ3dYQ3FYdzdEWnpnczk0NG1JTndRV19CQnpWd0J4eUE4SndBWFpfUkZNeS1QQUtIaWVQRFBYVk1fMXlHNVJjWW1zb3JsV2pvVnc5UU5zby1DNzF1d3dyNFdYWTlTUlJFRk11YW5RU19idkdxZXNSZkJ4azFtQVBjZkVpT2p6cVFlbkpsX2o2NWYtVUJfd1VtblJhQ21COUJYTA?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNjh3NEVPYnU5cTEtUE1OU0pwY3hYNE1qaHdxRVRjNGVSYlQxdndWM0hVNWpaa3RuRVd2MGZFQzY1aVQtVHVJSURmQ0lfdFFRdVB6MEpGV2lOR3VNbG8xSkFzRTZSUEFOSG9NMV9wZ3NiR1NOOHBmalNqeWlTTnFWU0dWbGFkaXAyNU5JQjMxODdwN1VnQzF1OGZoc2RtRWpLS3fSAacBQVVfeXFMTzVnZ0dQYzNVdFdLR0FiRVVXeWozMGZmNTR3QXVmUUNJaGF6QWJZMEtuanJuZUNNbVdncmRnY0FhYjFkSWQ5LUUxWEMwLVdoMUpiWk9ndElqQW1uSkliTjRIem5oNkJJek1Va1h4YkY2MTZVU0NEVEYxbFAtbXhaX3Rwc3VZaklkQ01CWDdrUTlQUEpEY2tFWDVNclR6cVhxNk53Vm91bU0?oc=5"
+   "Oil drops 7% as Iran signals openness to peace talks",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHdxcnVlWmx5T1pjbDZQS19XeXlYTW1xZmNONnJQWHk4YU1EQTRzZFZQVEJxYjd6WEJTN2pfZC10ZGlzXzVURVdHZkg1RjZGY2tjN0ZVRjNRc0p4UmQ1c2F6MUt4eEpHSml6Z3Q4WHpqV094aEo0dTlVbk00OGFBazlmdGhsWGdtckFHQjlBTVU5Q0FRR3hxUnVmcVpPeGZsTHBlWmhTdw?oc=5"
   ]
  ]
 }
