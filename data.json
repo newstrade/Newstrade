@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T23:48:08.137Z",
+ "updated": "2026-11-03T01:18:15.594Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -314,64 +314,64 @@
    "m": "Forex",
    "d": 4,
    "p": 1.1191,
-   "ch": 0.22,
-   "asof": "2026-11-02T23:47:25.000Z"
+   "ch": 0,
+   "asof": "2026-11-03T01:17:27.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3407,
-   "ch": 0.13,
-   "asof": "2026-11-02T23:47:25.000Z"
+   "p": 1.3406,
+   "ch": 0,
+   "asof": "2026-11-03T01:17:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.918,
-   "ch": 0.25,
-   "asof": "2026-11-02T23:48:06.000Z"
+   "p": 157.914,
+   "ch": 0.04,
+   "asof": "2026-11-03T01:18:15.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7,
-   "ch": -0.5,
-   "asof": "2026-11-02T23:47:25.000Z"
+   "p": 0.7001,
+   "ch": 0.03,
+   "asof": "2026-11-03T01:17:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3981,
-   "ch": 0.06,
-   "asof": "2026-11-02T23:48:07.000Z"
+   "p": 1.3988,
+   "ch": 0.03,
+   "asof": "2026-11-03T01:18:14.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8187,
-   "ch": -0.75,
-   "asof": "2026-11-02T23:48:07.000Z"
+   "p": 0.8191,
+   "ch": 0.07,
+   "asof": "2026-11-03T01:18:15.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 76675.26,
-   "ch": -1.99,
-   "asof": "2026-11-02T23:48:05.000Z"
+   "p": 77106.92,
+   "ch": 0.55,
+   "asof": "2026-11-03T01:18:11.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2248.95,
-   "ch": -1.05,
-   "asof": "2026-11-02T23:48:04.000Z"
+   "p": 2257.83,
+   "ch": 0.38,
+   "asof": "2026-11-03T01:18:12.000Z"
   },
   {
    "s": "S&P 500",
@@ -401,57 +401,57 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3955.7,
-   "ch": -0.35,
-   "asof": "2026-11-02T23:37:49.000Z"
+   "p": 3961.7,
+   "ch": -0.2,
+   "asof": "2026-11-03T01:08:14.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 96.35,
-   "ch": -0.11,
-   "asof": "2026-11-02T23:38:00.000Z"
+   "p": 96.74,
+   "ch": 0.29,
+   "asof": "2026-11-03T01:08:14.000Z"
   },
   {
    "s": "USD/KES",
    "m": "Forex",
    "d": 2,
    "p": 129.9,
-   "ch": 0.08,
+   "ch": 0.04,
    "asof": "2026-11-02T23:15:50.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5985,
-   "ch": -0.65,
-   "asof": "2026-11-02T23:48:08.000Z"
+   "p": 16.6011,
+   "ch": 0.02,
+   "asof": "2026-11-03T01:18:16.000Z"
   },
   {
    "s": "USD/NGN",
    "m": "Forex",
    "d": 2,
    "p": 1336.63,
-   "ch": -0.62,
+   "ch": 0,
    "asof": "2026-11-02T23:15:50.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 91.79,
-   "ch": -2.82,
-   "asof": "2026-11-02T23:48:03.000Z"
+   "p": 92.43,
+   "ch": 0.65,
+   "asof": "2026-11-03T01:18:10.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2472,
-   "ch": -0.21,
-   "asof": "2026-11-02T23:48:03.000Z"
+   "p": 1.2488,
+   "ch": 0.08,
+   "asof": "2026-11-03T01:18:12.000Z"
   },
   {
    "s": "Apple",
@@ -481,25 +481,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 50.69,
-   "ch": -0.39,
-   "asof": "2026-11-02T23:38:02.000Z"
+   "p": 50.415,
+   "ch": -0.93,
+   "asof": "2026-11-03T01:08:07.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "New Zealand's central bank registers Revolut as country's 27th bank",
+   "China to raise forex deposit reserve ratio to 6% starting November 15",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNFVUcGdGUUZUSDZURDZEVmp5Z1FUeWhTV1ZDX0h2cExZTGJLNVZEWmhxcXlpX3ZndEx1Sm5EMjJpVF9xZ25vZFB4RmJvR2lhRnRTckFaYWR6UW9kWFpFUE9TRUQxcllzbk1vZm56ZEM0WjJudm9QSmJuMFQyUEpPeGlHYWo3NlhWRVdPN21vUzZWZGtOSVlYRURUazdod3pvOEh5ZHo1Z0NCREdoSEs3eXlWQUkxT2hr?oc=5"
+   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWDB4ZFZKQmtlWTg4RlI1Tng1by1TNV9FMlZCSkFERGc1VmlndWxsUG5kNWFvemN0YXg2VmRneGNvTVh2YU9GdXRlTjJVRXZ3eE82UlZBS1Y5YWJOOUVMQk05elJZRVR6cDBnd3U2eGxHNUZtNFJsR3hqb294LWpHMDh5VmtZUnlPZTZjWFRhMDM3d19ya1pHbW54ZzZZay1uTmkxZlV2NFliV0s2blFSSU9qSTZYTnJi?oc=5"
   ],
   [
    "Forex",
    "med",
-   "HKMA Pilot Lets Banks Settle Tokenized Deposits Nights and Weekends in Central Bank Money",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZHZZbVRjbk5TZ2VyMkZHWEdGcUtIczBLcDI1Z3labkgteTVBVWFPaG1rcDZwVWNnUE9ENm56aWJlUi1fX2ZTX1FrbHpadXVUMVJ5bHg3cXhtRVVKaWlWNlhZLUtOOVVELTBFbERSUmNpWHdqQ0tFckxYb1d0TXVfdlhXRkZXWlY0NnV5cUVsUkx0MG5tcDB1Rw?oc=5"
+   "The great yen rebalancing",
+   "Nikkei Asia",
+   "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmOWRvRzJ0ck1tU2s4MGlrZGZadzNxM0x3OFVzT3prdklWOUdsU0RRY25URmYweHRsTnZTZjJuVl9Pa2p1U0xtWVlXMUxDMXR1Sk50SGNVR0YweHlrS05GZGZob1ZPV05s?oc=5"
   ],
   [
    "Crypto",
@@ -525,7 +525,7 @@
   [
    "Stocks",
    "med",
-   "Nasdaq Slide Clouds Asian Open, Oil Falls on Iran: Markets Wrap",
+   "Nasdaq Slide Clouds Asian Open, Oil Holds Losses: Markets Wrap",
    "Bloomberg.com",
    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTGEyREpLdzRYM3VsY3NTclQ1Y2xud2pYNVl6Y0JhZ3RNczRVVjJ0aG43NmgyWkQ5SU85SmtVWGVCU0wySnBTdkhzZXR3R3RpMWloMWdlckxKM3BBUFB4VU9FbzhDQ2l2dm5xZlIwbFZJTHdJQVVyaU1Qc3djSmowcHdGMDNOVUIyMDdURnFwWWpUbmZN?oc=5"
   ],
@@ -539,9 +539,9 @@
   [
    "Commodities",
    "med",
-   "Freed from OPEC quotas, UAE says oil exports have risen as it hosts industry event",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcnd0cjROV01YdUV5VG9tVnV6NVpybjJpa1E1TnFOV3g2V2xhMmpmcGJQdXctakdyMVVmZk9hbTZvYnZ6aDJ2RDhoSU12Z2NoYlBRekRWNmlrSWdlblpJa0tKelN5VjFVVUhDWV85enFsam91QXFRWVdUUzNEYmZSTDhaWVBRUFE2MTBVRFY5XzhvR2NDZXVXeXZROVoxdkJQcm91cnZqQUJEWmJLNkJ6R0UwLWJvYU5MQ21sNXZpeEN3S3c?oc=5"
+   "Current price of oil as of November 2, 2026",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KM1VmSGRsUWlEaFotM013RXo1TWpWNl9oSmhpZXNBTGFlS2thMmpFa1Z0aGNyR0NvV0hTYmZ0c05ISmx4ajdwZGlfVWhMZjU2WmhzRDdTWXo2bFowVEhPZXBB?oc=5"
   ]
  ]
 }
