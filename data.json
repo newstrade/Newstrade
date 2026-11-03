@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T07:26:28.940Z",
+ "updated": "2026-11-03T09:02:18.191Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,65 +313,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1203,
-   "ch": 0.11,
-   "asof": "2026-11-03T07:26:25.000Z"
+   "p": 1.1196,
+   "ch": 0.04,
+   "asof": "2026-11-03T09:01:27.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.342,
-   "ch": 0.1,
-   "asof": "2026-11-03T07:26:25.000Z"
+   "p": 1.3418,
+   "ch": 0.09,
+   "asof": "2026-11-03T09:01:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.791,
-   "ch": -0.04,
-   "asof": "2026-11-03T07:26:27.000Z"
+   "p": 157.98,
+   "ch": 0.08,
+   "asof": "2026-11-03T09:02:17.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.699,
-   "ch": -0.13,
-   "asof": "2026-11-03T07:25:25.000Z"
+   "p": 0.6969,
+   "ch": -0.43,
+   "asof": "2026-11-03T09:01:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.396,
-   "ch": -0.17,
-   "asof": "2026-11-03T07:26:28.000Z"
+   "p": 1.3966,
+   "ch": -0.13,
+   "asof": "2026-11-03T09:02:17.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8176,
-   "ch": -0.11,
-   "asof": "2026-11-03T07:26:27.000Z"
+   "p": 0.8168,
+   "ch": -0.21,
+   "asof": "2026-11-03T09:02:17.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 76666.48,
-   "ch": -0.02,
-   "asof": "2026-11-03T07:26:27.000Z"
+   "p": 76518.8,
+   "ch": -0.22,
+   "asof": "2026-11-03T09:02:15.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2251.16,
-   "ch": 0.08,
-   "asof": "2026-11-03T07:26:27.000Z"
+   "p": 2254.19,
+   "ch": 0.22,
+   "asof": "2026-11-03T09:02:12.000Z"
   },
   {
    "s": "S&P 500",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3919.6,
-   "ch": -1.26,
-   "asof": "2026-11-03T07:16:25.000Z"
+   "p": 3907,
+   "ch": -1.58,
+   "asof": "2026-11-03T08:52:17.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 98.59,
-   "ch": 2.21,
-   "asof": "2026-11-03T07:16:25.000Z"
+   "p": 98.11,
+   "ch": 1.71,
+   "asof": "2026-11-03T08:52:17.000Z"
   },
   {
    "s": "USD/KES",
@@ -425,9 +425,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6393,
-   "ch": 0.25,
-   "asof": "2026-11-03T07:26:28.000Z"
+   "p": 16.6571,
+   "ch": 0.36,
+   "asof": "2026-11-03T09:02:18.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 91.94,
-   "ch": 0.11,
-   "asof": "2026-11-03T07:26:22.000Z"
+   "p": 91.8,
+   "ch": -0.04,
+   "asof": "2026-11-03T09:02:09.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2521,
-   "ch": 0.34,
-   "asof": "2026-11-03T07:26:27.000Z"
+   "p": 1.2515,
+   "ch": 0.29,
+   "asof": "2026-11-03T09:02:14.000Z"
   },
   {
    "s": "Apple",
@@ -481,9 +481,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 49.03,
-   "ch": -3.65,
-   "asof": "2026-11-03T07:16:26.000Z"
+   "p": 48.74,
+   "ch": -4.22,
+   "asof": "2026-11-03T08:52:18.000Z"
   }
  ],
  "news": [
@@ -504,23 +504,16 @@
   [
    "Crypto",
    "med",
-   "BTC, ETH price: Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRTNyZUk3LXdveE1USkFpUlVmcFpwQW02R19zTU9HUFJwdWlKZEIxQ1dLSkNaVDF5blk0N2dmRTE2QnAwRmQtNUVDSFByY0xUWW14bWxTYUJPTXhOQ05WNnBHOUVQV0JaZ255bE5uWmJITmcwLW44ZmM2bkxmYk1Ja2NYM2RiZ1RXdEhSekVuZWFHV29LUzFodTdHZF9yNUtGc0VLLXVhNzJ4UFRxWkp3Rk9DUXVabEJLcjNLZQ?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
    "Midterm Elections Could Reshape U.S. Crypto Regulation",
    "Forbes",
    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU3BrQ1hlUjZmQlV3eG5XMHJkQndkREhMTmVpaG1MNDBKenpveFZ0MmE5aUh6TVhBeVc3S1ZWOEhyVk9jdHBKc2dzazc2VDBwRGhPem1pWWlVOEZ3TTBvODRVUDZfZmZKREU0eHRGZFZNS3NsQWc4bXRrTUtHaDBDQ3dHUFI1S0QwZVpWa09GMUpwVlVwNFhodWNtWjFYbkFVY2RTekdORkFYUVIwZTNGcVhSc2tSeWhjTUxaOEdYUExkZld6bzVYTjZQUjg0Q2pjWV9OQw?oc=5"
   ],
   [
-   "Stocks",
+   "Crypto",
    "med",
-   "Stock Market: Will S&P 500 Open Up or Down Today?",
+   "Strive (ASST) Adds 124 Bitcoin And Closes In On A Corporate Crypto Milestone",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTHZucFQ5VUdDSHlqSXEwUW55SUZuN0NSc054NENDTjNmUlhXMGdFTkVCNFNBVGRDZ0twUS13T2U5S2VlZzB3bHpyOUhvWEpQSlBZTXlxdllUSWVoWmdiSUY2WW1UbVFMbVd0YW1QMlNIOW5OT05mQjVKQ1RoTHJNOGVzWU15WElGU3ljc2hhSGZyUQ?oc=5"
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUUtEa3pvN3RoSFNGczltMmhDVDc5bm1ZOUwtZmFTb1MzN0t6ZXc0SlNqWV8ybkFWb0pvT0Vld2psa01SU2YycmxxVERVakVUZDVOa1VwZnVPMEdPUzdsY3JpV1ZKQnNRSTlFeXJZeXNUY1lob1oyRHVSQUREd25YZFpsMGNkTENWU08yQXRuVDc1TF90MVpPOA?oc=5"
   ],
   [
    "Stocks",
@@ -530,11 +523,11 @@
    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTGEyREpLdzRYM3VsY3NTclQ1Y2xud2pYNVl6Y0JhZ3RNczRVVjJ0aG43NmgyWkQ5SU85SmtVWGVCU0wySnBTdkhzZXR3R3RpMWloMWdlckxKM3BBUFB4VU9FbzhDQ2l2dm5xZlIwbFZJTHdJQVVyaU1Qc3djSmowcHdGMDNOVUIyMDdURnFwWWpUbmZN?oc=5"
   ],
   [
-   "Commodities",
+   "Stocks",
    "med",
-   "Aramco Profit Rises 9% as Refining, Oil Price Drive Earnings",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUFZidUVNR21lLTV0emU0cjY4MmRHRDRNNHl4ODdlN25Ea1hkQ1ExQVhxNE1uWmo1TzRlUm5DR1c2a0dKU25uN3V3d2JxTU9pQkJHaGx3bUZRaUNfWVRaZDBTOFd4QjZGaEx3WkhleG9QWERyTEZ0Vi1RenV2TVBtUWtUUGhBNkEtaXpsc0sxZ3ZSNzZRWnBqU19kWE1OWVZiN2VFOVpNNENVS19LdklN?oc=5"
+   "META_TITLE_QUOTE",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wLXdlSm5MT0hsWEI2RjNWUHB6R3FYWEYzbi0ydDM4NGFScjNIZmYwYlpGQzRVWmdrVHJHcnRJdFdrMkxFczJqYnE2VFNWQQ?oc=5"
   ],
   [
    "Commodities",
@@ -542,6 +535,13 @@
    "Oil price falls amid hope of a breakthrough to end Iran war",
    "The Guardian",
    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWFFqOGFUT2tuNXpyMGN0LVN4YlVCMFZ2VjZyeDc0OEM0WmdaOS1kRDVzWlREOVF1OW1FaTBLQ3NDR0NhSGlhSThXWU9sODhOdHFTQ2JKYldHNTFOb2RwQWJBRG9LVElmQVMzUDhjQWxOUTVvcGhWZjRFS2xTU0k4NU9fbU1Ic092RkFtRU1xUjB0UzlmRlJWUlJYZTZxVTJ4aWJnanF0MGxQM3R0?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Oil rises after report of US strike on Iran's Qeshm Island",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXFvdGNDcnl6amhxTGFkZHVydFotVURTN0NfR0NnSVVMOWpPYkNEdGJ5dTJHWGhyRENCdDJpTWtieHhFOEl2alMtc2RCeU91Z0ZFd2x0S0lUcDlQVlpZTGtzcjZfaThkZi1YamNsM3BnRnowdFVHOUVFQVBsM3RqSHJFYXBHTVl4RFdXYUpXYXdUQ0QxLS15QnZB0gGfAUFVX3lxTE9XQzl1bndPWE1Vcl80ZHZybk91Mjl2RjVQR1JRNXEyUFhsWkxmRFNrNmt2ZGRlTmY0Qi1FaU5SQlRBdHhVY0FjTTBELXFrRGdyWHhsT1paR1FsVVR4Y0p3UkJiRDRVYVlGcFNZT1ZHemlhLXI4d1Y2bEVtMTc2SzNQZVlTdE5meUlOSFdsWVlWcndjLXBvM3FsQ1hVQi1SWQ?oc=5"
   ]
  ]
 }
