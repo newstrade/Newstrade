@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T04:02:33.747Z",
+ "updated": "2026-11-03T05:05:58.009Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,41 +313,41 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1194,
-   "ch": 0.03,
-   "asof": "2026-11-03T04:02:25.000Z"
+   "p": 1.1196,
+   "ch": 0.04,
+   "asof": "2026-11-03T05:05:27.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3409,
-   "ch": 0.02,
-   "asof": "2026-11-03T04:02:25.000Z"
+   "p": 1.3411,
+   "ch": 0.04,
+   "asof": "2026-11-03T05:05:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.842,
-   "ch": -0.01,
-   "asof": "2026-11-03T04:02:33.000Z"
+   "p": 157.869,
+   "ch": 0.01,
+   "asof": "2026-11-03T05:05:58.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6988,
-   "ch": -0.16,
-   "asof": "2026-11-03T04:01:25.000Z"
+   "p": 0.698,
+   "ch": -0.27,
+   "asof": "2026-11-03T05:05:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.398,
-   "ch": -0.03,
-   "asof": "2026-11-03T04:02:32.000Z"
+   "p": 1.3977,
+   "ch": -0.05,
+   "asof": "2026-11-03T05:05:57.000Z"
   },
   {
    "s": "USD/CHF",
@@ -355,23 +355,23 @@
    "d": 4,
    "p": 0.8181,
    "ch": -0.05,
-   "asof": "2026-11-03T04:02:32.000Z"
+   "asof": "2026-11-03T05:05:58.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 76695.92,
-   "ch": 0.02,
-   "asof": "2026-11-03T04:02:29.000Z"
+   "p": 76631.43,
+   "ch": -0.07,
+   "asof": "2026-11-03T05:05:52.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2246.5,
-   "ch": -0.12,
-   "asof": "2026-11-03T04:02:30.000Z"
+   "p": 2247.65,
+   "ch": -0.07,
+   "asof": "2026-11-03T05:05:55.000Z"
   },
   {
    "s": "S&P 500",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3935,
-   "ch": -0.87,
-   "asof": "2026-11-03T03:52:23.000Z"
+   "p": 3932.3,
+   "ch": -0.94,
+   "asof": "2026-11-03T04:55:49.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 96.74,
-   "ch": 0.29,
-   "asof": "2026-11-03T03:52:32.000Z"
+   "p": 97.05,
+   "ch": 0.61,
+   "asof": "2026-11-03T04:55:55.000Z"
   },
   {
    "s": "USD/KES",
@@ -419,15 +419,15 @@
    "d": 2,
    "p": 129.9,
    "ch": 0.04,
-   "asof": "2026-11-03T03:57:25.000Z"
+   "asof": "2026-11-03T04:09:44.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6103,
-   "ch": 0.08,
-   "asof": "2026-11-03T04:02:34.000Z"
+   "p": 16.619,
+   "ch": 0.13,
+   "asof": "2026-11-03T05:05:57.000Z"
   },
   {
    "s": "USD/NGN",
@@ -435,15 +435,15 @@
    "d": 2,
    "p": 1336.63,
    "ch": 0,
-   "asof": "2026-11-03T03:57:25.000Z"
+   "asof": "2026-11-03T04:09:44.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 91.9,
-   "ch": 0.07,
-   "asof": "2026-11-03T04:02:27.000Z"
+   "p": 91.81,
+   "ch": -0.03,
+   "asof": "2026-11-03T05:05:57.000Z"
   },
   {
    "s": "XRP",
@@ -451,7 +451,7 @@
    "d": 4,
    "p": 1.2491,
    "ch": 0.1,
-   "asof": "2026-11-03T04:02:25.000Z"
+   "asof": "2026-11-03T05:05:52.000Z"
   },
   {
    "s": "Apple",
@@ -481,12 +481,19 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 49.765,
-   "ch": -2.21,
-   "asof": "2026-11-03T03:52:29.000Z"
+   "p": 49.59,
+   "ch": -2.55,
+   "asof": "2026-11-03T04:55:35.000Z"
   }
  ],
  "news": [
+  [
+   "Forex",
+   "med",
+   "Australia's central bank lifts rates to 18-year high, split vote points to pause ahead",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZnNfcUQ3dmx0aEd4N1BfaUlBRVFScGc4dDdSTUxSRV9lc3N1TTRYd21tV3A3MkVXY3dWOXhmZnFwU2tMSVk1MkpjX0JCU0hyMzdZNlRwdTJJNlNONTFtemVhTjFaY0ZCXzFyV1I1NENweU9qNnM4TWdXZWlpTGlUN3pIaUwxTWpNT21Zc0ZtX3RrSUlvZXlpWnlMaEl4N3dGR1lXcXZrTW9EMF9VS3h2ZnU1VFlMTkZReXdkLVk1dFpNdFFyVTc2djViU0JHQQ?oc=5"
+  ],
   [
    "Forex",
    "med",
@@ -495,25 +502,18 @@
    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaUVpai1RSG9LWk82anFJT1hrZlgtM0t3LTQ5ZDBHLXFOLVpyOFhiR0xZa3pLMkluNnpOdzBHWDdwbnZESzk2bWhybUhmdGZUSFFVd0owXzV1ZXJlcXliazhtclhMTV9vQzlSOGlZd0VlNUFLM2V2RUFwNG9SUjFWSG5aeXNUdzBlcmlvRl9RR3JvNUJwZFluUGVrVGduVXpNUEdCcjFTVFI5RktrU1JyMnd0R2E?oc=5"
   ],
   [
-   "Forex",
-   "med",
-   "New Zealand's central bank registers Revolut as country's 27th bank",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNFVUcGdGUUZUSDZURDZEVmp5Z1FUeWhTV1ZDX0h2cExZTGJLNVZEWmhxcXlpX3ZndEx1Sm5EMjJpVF9xZ25vZFB4RmJvR2lhRnRTckFaYWR6UW9kWFpFUE9TRUQxcllzbk1vZm56ZEM0WjJudm9QSmJuMFQyUEpPeGlHYWo3NlhWRVdPN21vUzZWZGtOSVlYRURUazdod3pvOEh5ZHo1Z0NCREdoSEs3eXlWQUkxT2hr?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "North Korea denies being behind record $6.3bn Binance hack",
-   "BBC",
-   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10dXNzM0pMSVpsb283elB0VkotaEZVbW9QVWpwZGM1VHVkaV9VWmY2dUpKNS1ITkgyZEQ1YVBzM2x3RzVpRm5BR0F2M1hXVV9ydEhsMm9ZZldSdk0?oc=5"
-  ],
-  [
    "Crypto",
    "med",
    "Midterm Elections Could Reshape U.S. Crypto Regulation",
    "Forbes",
    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU3BrQ1hlUjZmQlV3eG5XMHJkQndkREhMTmVpaG1MNDBKenpveFZ0MmE5aUh6TVhBeVc3S1ZWOEhyVk9jdHBKc2dzazc2VDBwRGhPem1pWWlVOEZ3TTBvODRVUDZfZmZKREU0eHRGZFZNS3NsQWc4bXRrTUtHaDBDQ3dHUFI1S0QwZVpWa09GMUpwVlVwNFhodWNtWjFYbkFVY2RTekdORkFYUVIwZTNGcVhSc2tSeWhjTUxaOEdYUExkZld6bzVYTjZQUjg0Q2pjWV9OQw?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "Bitcoin price analysis: BTC traders hopeful for post-election gains",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV3gyUmNUOEp4dlI1Rk51YUVsMTBmNkJULTdrc3JXLTNycWJJM3pGU2otcl9CbkVBaEFOSTZvSDFiTVN1NUlSOFZDZXV0WGg1aVZSeUxQRTRJY19naEZhU3RTa0xfR2tjbU1xM0JRcUJJM0J0a2Z6dzU4NlRpQ2syZ2ZhMDlxXy1wV2NuMFNTU0RWT2l6cDNtZ2o1NmtHY3h3eUVUM0dFd3NaZ2gtaGVHc1MwenAxUWFpeUxLZk1aYUJLRVhJMzNN?oc=5"
   ],
   [
    "Stocks",
@@ -539,7 +539,7 @@
   [
    "Commodities",
    "med",
-   "Oil rises after report of US strike on Iran's Qeshm Island",
+   "Oil edges up after report of US strike on Iran's Qeshm Island",
    "Reuters",
    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFpzbEJURFlBbkE1RzNfclduVWpDY29HaWY3dnZJNUFuTHFsckZXSU5iTGJHdUFzQkVmeVhvdk9IME9Hdkxwc0NQZzg4dFFzckltYVlzcGdWY2xhYmJWMWlMVmFyNml3YmFoSDBZMGdPZWlpU25IM3UtMW5iR3d1dGZrMGF4SzQ2MklEeG5lWU1iRUZjVDd5Nnhjc0dQamdDdEtUc3NMcFZDMTQ?oc=5"
   ]
