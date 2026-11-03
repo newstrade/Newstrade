@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T05:05:58.009Z",
+ "updated": "2026-11-03T06:04:26.415Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -315,39 +315,39 @@
    "d": 4,
    "p": 1.1196,
    "ch": 0.04,
-   "asof": "2026-11-03T05:05:27.000Z"
+   "asof": "2026-11-03T06:03:28.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3411,
+   "p": 1.3412,
    "ch": 0.04,
-   "asof": "2026-11-03T05:05:27.000Z"
+   "asof": "2026-11-03T06:03:28.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.869,
-   "ch": 0.01,
-   "asof": "2026-11-03T05:05:58.000Z"
+   "p": 157.835,
+   "ch": -0.01,
+   "asof": "2026-11-03T06:04:25.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.698,
-   "ch": -0.27,
-   "asof": "2026-11-03T05:05:27.000Z"
+   "p": 0.6983,
+   "ch": -0.23,
+   "asof": "2026-11-03T06:03:28.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3977,
-   "ch": -0.05,
-   "asof": "2026-11-03T05:05:57.000Z"
+   "p": 1.397,
+   "ch": -0.1,
+   "asof": "2026-11-03T06:04:24.000Z"
   },
   {
    "s": "USD/CHF",
@@ -355,23 +355,23 @@
    "d": 4,
    "p": 0.8181,
    "ch": -0.05,
-   "asof": "2026-11-03T05:05:58.000Z"
+   "asof": "2026-11-03T06:04:25.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 76631.43,
-   "ch": -0.07,
-   "asof": "2026-11-03T05:05:52.000Z"
+   "p": 76476.91,
+   "ch": -0.27,
+   "asof": "2026-11-03T06:04:23.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2247.65,
-   "ch": -0.07,
-   "asof": "2026-11-03T05:05:55.000Z"
+   "p": 2243.45,
+   "ch": -0.26,
+   "asof": "2026-11-03T06:04:21.000Z"
   },
   {
    "s": "S&P 500",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3932.3,
-   "ch": -0.94,
-   "asof": "2026-11-03T04:55:49.000Z"
+   "p": 3929.5,
+   "ch": -1.01,
+   "asof": "2026-11-03T05:54:21.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 97.05,
-   "ch": 0.61,
-   "asof": "2026-11-03T04:55:55.000Z"
+   "p": 97.29,
+   "ch": 0.86,
+   "asof": "2026-11-03T05:54:18.000Z"
   },
   {
    "s": "USD/KES",
@@ -425,9 +425,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.619,
-   "ch": 0.13,
-   "asof": "2026-11-03T05:05:57.000Z"
+   "p": 16.6142,
+   "ch": 0.1,
+   "asof": "2026-11-03T06:04:25.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 91.81,
-   "ch": -0.03,
-   "asof": "2026-11-03T05:05:57.000Z"
+   "p": 91.46,
+   "ch": -0.41,
+   "asof": "2026-11-03T06:04:23.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2491,
-   "ch": 0.1,
-   "asof": "2026-11-03T05:05:52.000Z"
+   "p": 1.2477,
+   "ch": -0.01,
+   "asof": "2026-11-03T06:04:20.000Z"
   },
   {
    "s": "Apple",
@@ -481,18 +481,18 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 49.59,
-   "ch": -2.55,
-   "asof": "2026-11-03T04:55:35.000Z"
+   "p": 49.295,
+   "ch": -3.13,
+   "asof": "2026-11-03T05:54:18.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Australia's central bank lifts rates to 18-year high, split vote points to pause ahead",
+   "China to raise FX reserve requirement to slow yuan's rally",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZnNfcUQ3dmx0aEd4N1BfaUlBRVFScGc4dDdSTUxSRV9lc3N1TTRYd21tV3A3MkVXY3dWOXhmZnFwU2tMSVk1MkpjX0JCU0hyMzdZNlRwdTJJNlNONTFtemVhTjFaY0ZCXzFyV1I1NENweU9qNnM4TWdXZWlpTGlUN3pIaUwxTWpNT21Zc0ZtX3RrSUlvZXlpWnlMaEl4N3dGR1lXcXZrTW9EMF9VS3h2ZnU1VFlMTkZReXdkLVk1dFpNdFFyVTc2djViU0JHQQ?oc=5"
+   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWDB4ZFZKQmtlWTg4RlI1Tng1by1TNV9FMlZCSkFERGc1VmlndWxsUG5kNWFvemN0YXg2VmRneGNvTVh2YU9GdXRlTjJVRXZ3eE82UlZBS1Y5YWJOOUVMQk05elJZRVR6cDBnd3U2eGxHNUZtNFJsR3hqb294LWpHMDh5VmtZUnlPZTZjWFRhMDM3d19ya1pHbW54ZzZZay1uTmkxZlV2NFliV0s2blFSSU9qSTZYTnJi?oc=5"
   ],
   [
    "Forex",
@@ -511,9 +511,9 @@
   [
    "Crypto",
    "med",
-   "Bitcoin price analysis: BTC traders hopeful for post-election gains",
+   "BTC, ETH price: Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
    "CoinDesk",
-   "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV3gyUmNUOEp4dlI1Rk51YUVsMTBmNkJULTdrc3JXLTNycWJJM3pGU2otcl9CbkVBaEFOSTZvSDFiTVN1NUlSOFZDZXV0WGg1aVZSeUxQRTRJY19naEZhU3RTa0xfR2tjbU1xM0JRcUJJM0J0a2Z6dzU4NlRpQ2syZ2ZhMDlxXy1wV2NuMFNTU0RWT2l6cDNtZ2o1NmtHY3h3eUVUM0dFd3NaZ2gtaGVHc1MwenAxUWFpeUxLZk1aYUJLRVhJMzNN?oc=5"
+   "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRTNyZUk3LXdveE1USkFpUlVmcFpwQW02R19zTU9HUFJwdWlKZEIxQ1dLSkNaVDF5blk0N2dmRTE2QnAwRmQtNUVDSFByY0xUWW14bWxTYUJPTXhOQ05WNnBHOUVQV0JaZ255bE5uWmJITmcwLW44ZmM2bkxmYk1Ja2NYM2RiZ1RXdEhSekVuZWFHV29LUzFodTdHZF9yNUtGc0VLLXVhNzJ4UFRxWkp3Rk9DUXVabEJLcjNLZQ?oc=5"
   ],
   [
    "Stocks",
@@ -539,9 +539,9 @@
   [
    "Commodities",
    "med",
-   "Oil edges up after report of US strike on Iran's Qeshm Island",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFpzbEJURFlBbkE1RzNfclduVWpDY29HaWY3dnZJNUFuTHFsckZXSU5iTGJHdUFzQkVmeVhvdk9IME9Hdkxwc0NQZzg4dFFzckltYVlzcGdWY2xhYmJWMWlMVmFyNml3YmFoSDBZMGdPZWlpU25IM3UtMW5iR3d1dGZrMGF4SzQ2MklEeG5lWU1iRUZjVDd5Nnhjc0dQamdDdEtUc3NMcFZDMTQ?oc=5"
+   "Oil rises after report of US strike on Iran's Qeshm Island",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXFvdGNDcnl6amhxTGFkZHVydFotVURTN0NfR0NnSVVMOWpPYkNEdGJ5dTJHWGhyRENCdDJpTWtieHhFOEl2alMtc2RCeU91Z0ZFd2x0S0lUcDlQVlpZTGtzcjZfaThkZi1YamNsM3BnRnowdFVHOUVFQVBsM3RqSHJFYXBHTVl4RFdXYUpXYXdUQ0QxLS15QnZB0gGfAUFVX3lxTE9XQzl1bndPWE1Vcl80ZHZybk91Mjl2RjVQR1JRNXEyUFhsWkxmRFNrNmt2ZGRlTmY0Qi1FaU5SQlRBdHhVY0FjTTBELXFrRGdyWHhsT1paR1FsVVR4Y0p3UkJiRDRVYVlGcFNZT1ZHemlhLXI4d1Y2bEVtMTc2SzNQZVlTdE5meUlOSFdsWVlWcndjLXBvM3FsQ1hVQi1SWQ?oc=5"
   ]
  ]
 }
