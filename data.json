@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T11:04:49.025Z",
+ "updated": "2026-11-03T11:57:33.419Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -315,63 +315,63 @@
    "d": 4,
    "p": 1.1183,
    "ch": -0.07,
-   "asof": "2026-11-03T11:04:29.000Z"
+   "asof": "2026-11-03T11:57:25.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3409,
-   "ch": 0.02,
-   "asof": "2026-11-03T11:04:29.000Z"
+   "p": 1.3413,
+   "ch": 0.05,
+   "asof": "2026-11-03T11:57:25.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.191,
-   "ch": 0.21,
-   "asof": "2026-11-03T11:04:47.000Z"
+   "p": 158.265,
+   "ch": 0.26,
+   "asof": "2026-11-03T11:57:33.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6978,
-   "ch": -0.3,
-   "asof": "2026-11-03T11:03:29.000Z"
+   "p": 0.6985,
+   "ch": -0.2,
+   "asof": "2026-11-03T11:57:25.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3955,
+   "p": 1.3954,
    "ch": -0.21,
-   "asof": "2026-11-03T11:04:48.000Z"
+   "asof": "2026-11-03T11:57:34.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8185,
-   "ch": 0,
-   "asof": "2026-11-03T11:04:48.000Z"
+   "p": 0.8195,
+   "ch": 0.12,
+   "asof": "2026-11-03T11:57:33.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77029.98,
-   "ch": 0.45,
-   "asof": "2026-11-03T11:04:44.000Z"
+   "p": 76966.27,
+   "ch": 0.37,
+   "asof": "2026-11-03T11:57:31.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2269.45,
-   "ch": 0.9,
-   "asof": "2026-11-03T11:04:44.000Z"
+   "p": 2262.95,
+   "ch": 0.61,
+   "asof": "2026-11-03T11:57:30.000Z"
   },
   {
    "s": "S&P 500",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3912.5,
-   "ch": -1.44,
-   "asof": "2026-11-03T10:54:44.000Z"
+   "p": 3915.4,
+   "ch": -1.37,
+   "asof": "2026-11-03T11:47:21.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 97.69,
-   "ch": 1.28,
-   "asof": "2026-11-03T10:54:47.000Z"
+   "p": 98.52,
+   "ch": 2.14,
+   "asof": "2026-11-03T11:47:31.000Z"
   },
   {
    "s": "USD/KES",
@@ -425,9 +425,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6467,
-   "ch": 0.3,
-   "asof": "2026-11-03T11:04:50.000Z"
+   "p": 16.6602,
+   "ch": 0.38,
+   "asof": "2026-11-03T11:57:34.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 92.43,
-   "ch": 0.65,
-   "asof": "2026-11-03T11:04:44.000Z"
+   "p": 92.36,
+   "ch": 0.57,
+   "asof": "2026-11-03T11:57:29.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2564,
-   "ch": 0.69,
-   "asof": "2026-11-03T11:04:48.000Z"
+   "p": 1.256,
+   "ch": 0.65,
+   "asof": "2026-11-03T11:57:25.000Z"
   },
   {
    "s": "Apple",
@@ -481,18 +481,18 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 48.885,
-   "ch": -3.94,
-   "asof": "2026-11-03T10:54:20.000Z"
+   "p": 49.05,
+   "ch": -3.61,
+   "asof": "2026-11-03T11:47:05.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "India eases forex reporting rules for small value service exports, imports",
+   "China to raise FX reserve requirement to slow yuan's rally",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU2xvX2xxNlUyTG1CaDJVZW96S2c0N2dQaW9MOFJfcENDOEJQS1FKa00zN2JCbWo2RnVJMjlDRy0yOWJ2Rkd3dUNueUVZZFAxY2RPR2pBUFVtQkdLbkNtaXhOMUhsZEs2cHJmd3Zqb0RFZkNYVjlRcjB6TnlPbHNVRDVYTDd6d3N5bVluTmNwcUkxMDlSdGhVR0ZQY1lMYmZXczA5bG1CQ0ZobkVUeDYxUHlRVkJWVWlF?oc=5"
+   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWDB4ZFZKQmtlWTg4RlI1Tng1by1TNV9FMlZCSkFERGc1VmlndWxsUG5kNWFvemN0YXg2VmRneGNvTVh2YU9GdXRlTjJVRXZ3eE82UlZBS1Y5YWJOOUVMQk05elJZRVR6cDBnd3U2eGxHNUZtNFJsR3hqb294LWpHMDh5VmtZUnlPZTZjWFRhMDM3d19ya1pHbW54ZzZZay1uTmkxZlV2NFliV0s2blFSSU9qSTZYTnJi?oc=5"
   ],
   [
    "Forex",
@@ -504,23 +504,16 @@
   [
    "Crypto",
    "med",
-   "North Korea denies being behind $6.3bn Binance crypto hack",
+   "North Korea denies being behind record $6.3bn Binance hack",
    "BBC",
    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10dXNzM0pMSVpsb283elB0VkotaEZVbW9QVWpwZGM1VHVkaV9VWmY2dUpKNS1ITkgyZEQ1YVBzM2x3RzVpRm5BR0F2M1hXVV9ydEhsMm9ZZldSdk0?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "The Dollar Is Reasserting Itself as the King of Global Finance",
-   "Bloomberg",
-   "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2J1Zl8yM2ZTZ1BnRGZ4NWxBdktDVjBPLWV0SGFKTk13NGkwblFtaXE5YnJKWEYtbW1NdGxMZGV3LXBJajI1REJpZnBCLWdibkNBOW96UTUzYkFrbXpSQkJGOHlUcHU0UElsLTBmd1RQeGdHNGFRN3pnMDFvcHV4VElXZ2V4QUZjWlpXTE92UTV6VkNxSnpvRmttMlZIZVFfSW8tVTVTazFaNGowZVBJNHFab2w?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "US Stocks Drift as Midterms Keep Traders Cautious: Markets Wrap",
-   "Bloomberg",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTGEyREpLdzRYM3VsY3NTclQ1Y2xud2pYNVl6Y0JhZ3RNczRVVjJ0aG43NmgyWkQ5SU85SmtVWGVCU0wySnBTdkhzZXR3R3RpMWloMWdlckxKM3BBUFB4VU9FbzhDQ2l2dm5xZlIwbFZJTHdJQVVyaU1Qc3djSmowcHdGMDNOVUIyMDdURnFwWWpUbmZN?oc=5"
+   "Is Strategy (MSTR) Still Doubling Down On Bitcoin With A $65 Million Move?",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGhoeW1BNl9yODVQNFFRWWl4N2hTTTFOZXQ1aVFsR3NSa3VGRm5xSTVZaGVCbnFWNld3VGotNUJ6RWZEQ3ZEWTJkaUVuTXZlZjcza0M1UlVZLWhEY3FERXJ1S01SZlVKQUtTY2VmLVVEV3pmdmRBQkU4b0Y2LUxubUQtVDFNTTZreThkWks2bEd1ZFBndDJ2dU5pVE9CUHM?oc=5"
   ],
   [
    "Stocks",
@@ -530,18 +523,25 @@
    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nMVo3a3FRVDZza1FOODRLUUg0a3VZV0xNWDhfOXFob29KMmtGTVZHX1ZRSEtxOHNWOXlOWUNWWEoyeEpiS1duNDBBMjBoa3BLWUlYS3gySTdiUTNCemZDNnZncTBkSnZWWmZrVWp5TXJkd2s?oc=5"
   ],
   [
+   "Stocks",
+   "med",
+   "How to Invest for a Coming Stock-Market Rally: Morgan Stanley",
+   "Business Insider",
+   "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMFhCQmVhRW9ndFREajFHdTBsanM3dFpTNEZTcUo5UGwyYUxKRkp5Q1RWU1J4am5Tcmt2UFZYTGZYU1M0SFRkRGNSMV9GMk4ydTdub2lzM2hOTnQyeExTR3hjSl8weGZlTmdYbjRlNHM3OU9XZ3k3d1BhcDVPZ1dFR1BQY2plcUxFbHlxVVZfYmNUUHdxVmVZ?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Goldman Raises Oil Price Forecast for December as War Risks Cloud 2027 Outlook",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcTdQNFZUZ3dyYjJ5NzE1cXZWS0lYU0szZHVqa0lCdzdmekMyWk1ZUk1yZWVUZkkxNU8tNjhCOXJiQ2VfNzBqWHY2ZUNROHZlcllncGEwNGQ2TVpJSS1BT3ZMUmZBMkFxdF90dE1uYldva3hXN1JHRmt1UGxjbDg3RGVaVkJ5SGM4M2ZpVktGeXRoSDkw?oc=5"
+  ],
+  [
    "Commodities",
    "med",
    "Oil price falls amid hope of a breakthrough to end Iran war",
    "The Guardian",
    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWFFqOGFUT2tuNXpyMGN0LVN4YlVCMFZ2VjZyeDc0OEM0WmdaOS1kRDVzWlREOVF1OW1FaTBLQ3NDR0NhSGlhSThXWU9sODhOdHFTQ2JKYldHNTFOb2RwQWJBRG9LVElmQVMzUDhjQWxOUTVvcGhWZjRFS2xTU0k4NU9fbU1Ic092RkFtRU1xUjB0UzlmRlJWUlJYZTZxVTJ4aWJnanF0MGxQM3R0?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Oil rises after report of US strike on Iran's Qeshm Island",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXFvdGNDcnl6amhxTGFkZHVydFotVURTN0NfR0NnSVVMOWpPYkNEdGJ5dTJHWGhyRENCdDJpTWtieHhFOEl2alMtc2RCeU91Z0ZFd2x0S0lUcDlQVlpZTGtzcjZfaThkZi1YamNsM3BnRnowdFVHOUVFQVBsM3RqSHJFYXBHTVl4RFdXYUpXYXdUQ0QxLS15QnZB0gGfAUFVX3lxTE9XQzl1bndPWE1Vcl80ZHZybk91Mjl2RjVQR1JRNXEyUFhsWkxmRFNrNmt2ZGRlTmY0Qi1FaU5SQlRBdHhVY0FjTTBELXFrRGdyWHhsT1paR1FsVVR4Y0p3UkJiRDRVYVlGcFNZT1ZHemlhLXI4d1Y2bEVtMTc2SzNQZVlTdE5meUlOSFdsWVlWcndjLXBvM3FsQ1hVQi1SWQ?oc=5"
   ]
  ]
 }
