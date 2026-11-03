@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T09:02:18.191Z",
+ "updated": "2026-11-03T10:04:19.428Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,65 +313,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1196,
-   "ch": 0.04,
-   "asof": "2026-11-03T09:01:27.000Z"
+   "p": 1.1186,
+   "ch": -0.04,
+   "asof": "2026-11-03T10:03:28.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3418,
-   "ch": 0.09,
-   "asof": "2026-11-03T09:01:27.000Z"
+   "p": 1.341,
+   "ch": 0.03,
+   "asof": "2026-11-03T10:03:28.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.98,
-   "ch": 0.08,
-   "asof": "2026-11-03T09:02:17.000Z"
+   "p": 158.183,
+   "ch": 0.21,
+   "asof": "2026-11-03T10:04:17.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6969,
-   "ch": -0.43,
-   "asof": "2026-11-03T09:01:27.000Z"
+   "p": 0.6976,
+   "ch": -0.33,
+   "asof": "2026-11-03T10:03:28.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3966,
-   "ch": -0.13,
-   "asof": "2026-11-03T09:02:17.000Z"
+   "p": 1.3973,
+   "ch": -0.08,
+   "asof": "2026-11-03T10:04:19.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8168,
-   "ch": -0.21,
-   "asof": "2026-11-03T09:02:17.000Z"
+   "p": 0.8185,
+   "ch": 0,
+   "asof": "2026-11-03T10:04:18.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 76518.8,
-   "ch": -0.22,
-   "asof": "2026-11-03T09:02:15.000Z"
+   "p": 76939,
+   "ch": 0.33,
+   "asof": "2026-11-03T10:04:15.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2254.19,
-   "ch": 0.22,
-   "asof": "2026-11-03T09:02:12.000Z"
+   "p": 2263.82,
+   "ch": 0.65,
+   "asof": "2026-11-03T10:04:12.000Z"
   },
   {
    "s": "S&P 500",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3907,
-   "ch": -1.58,
-   "asof": "2026-11-03T08:52:17.000Z"
+   "p": 3918.4,
+   "ch": -1.29,
+   "asof": "2026-11-03T09:54:16.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 98.11,
-   "ch": 1.71,
-   "asof": "2026-11-03T08:52:17.000Z"
+   "p": 97.33,
+   "ch": 0.9,
+   "asof": "2026-11-03T09:54:17.000Z"
   },
   {
    "s": "USD/KES",
@@ -425,9 +425,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6571,
-   "ch": 0.36,
-   "asof": "2026-11-03T09:02:18.000Z"
+   "p": 16.6492,
+   "ch": 0.31,
+   "asof": "2026-11-03T10:04:19.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 91.8,
-   "ch": -0.04,
-   "asof": "2026-11-03T09:02:09.000Z"
+   "p": 92.19,
+   "ch": 0.39,
+   "asof": "2026-11-03T10:04:17.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2515,
-   "ch": 0.29,
-   "asof": "2026-11-03T09:02:14.000Z"
+   "p": 1.2539,
+   "ch": 0.49,
+   "asof": "2026-11-03T10:04:14.000Z"
   },
   {
    "s": "Apple",
@@ -481,9 +481,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 48.74,
-   "ch": -4.22,
-   "asof": "2026-11-03T08:52:18.000Z"
+   "p": 48.91,
+   "ch": -3.89,
+   "asof": "2026-11-03T09:54:15.000Z"
   }
  ],
  "news": [
@@ -504,9 +504,9 @@
   [
    "Crypto",
    "med",
-   "Midterm Elections Could Reshape U.S. Crypto Regulation",
-   "Forbes",
-   "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU3BrQ1hlUjZmQlV3eG5XMHJkQndkREhMTmVpaG1MNDBKenpveFZ0MmE5aUh6TVhBeVc3S1ZWOEhyVk9jdHBKc2dzazc2VDBwRGhPem1pWWlVOEZ3TTBvODRVUDZfZmZKREU0eHRGZFZNS3NsQWc4bXRrTUtHaDBDQ3dHUFI1S0QwZVpWa09GMUpwVlVwNFhodWNtWjFYbkFVY2RTekdORkFYUVIwZTNGcVhSc2tSeWhjTUxaOEdYUExkZld6bzVYTjZQUjg0Q2pjWV9OQw?oc=5"
+   "The Dollar Is Reasserting Itself as the King of Global Finance",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2J1Zl8yM2ZTZ1BnRGZ4NWxBdktDVjBPLWV0SGFKTk13NGkwblFtaXE5YnJKWEYtbW1NdGxMZGV3LXBJajI1REJpZnBCLWdibkNBOW96UTUzYkFrbXpSQkJGOHlUcHU0UElsLTBmd1RQeGdHNGFRN3pnMDFvcHV4VElXZ2V4QUZjWlpXTE92UTV6VkNxSnpvRmttMlZIZVFfSW8tVTVTazFaNGowZVBJNHFab2w?oc=5"
   ],
   [
    "Crypto",
