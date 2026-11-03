@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T21:56:39.891Z",
+ "updated": "2026-11-03T22:56:59.602Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,25 +313,25 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1193,
-   "ch": 0.02,
-   "asof": "2026-11-03T21:56:28.000Z"
+   "p": 1.1192,
+   "ch": 0.01,
+   "asof": "2026-11-03T22:56:29.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3415,
-   "ch": 0.07,
-   "asof": "2026-11-03T21:56:28.000Z"
+   "p": 1.3413,
+   "ch": 0.05,
+   "asof": "2026-11-03T22:56:29.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.711,
-   "ch": 0.54,
-   "asof": "2026-11-03T21:56:36.000Z"
+   "p": 158.617,
+   "ch": 0.48,
+   "asof": "2026-11-03T22:56:57.000Z"
   },
   {
    "s": "AUD/USD",
@@ -339,39 +339,39 @@
    "d": 4,
    "p": 0.6969,
    "ch": -0.43,
-   "asof": "2026-11-03T21:55:28.000Z"
+   "asof": "2026-11-03T22:55:29.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4009,
-   "ch": 0.18,
-   "asof": "2026-11-03T21:56:39.000Z"
+   "p": 1.4006,
+   "ch": 0.16,
+   "asof": "2026-11-03T22:56:54.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8209,
-   "ch": 0.29,
-   "asof": "2026-11-03T21:56:34.000Z"
+   "p": 0.8201,
+   "ch": 0.2,
+   "asof": "2026-11-03T22:56:57.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77805,
-   "ch": 1.46,
-   "asof": "2026-11-03T21:56:34.000Z"
+   "p": 77757.95,
+   "ch": 1.4,
+   "asof": "2026-11-03T22:56:49.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2291.76,
-   "ch": 1.89,
-   "asof": "2026-11-03T21:56:36.000Z"
+   "p": 2290.92,
+   "ch": 1.85,
+   "asof": "2026-11-03T22:56:59.000Z"
   },
   {
    "s": "S&P 500",
@@ -387,7 +387,7 @@
    "d": 2,
    "p": 25372.01,
    "ch": 0.83,
-   "asof": "2026-11-03T21:56:29.000Z"
+   "asof": "2026-11-03T22:15:59.000Z"
   },
   {
    "s": "Dow Jones",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3938.9,
-   "ch": -0.77,
-   "asof": "2026-11-03T21:46:25.000Z"
+   "p": 3940.2,
+   "ch": -0.01,
+   "asof": "2026-11-03T21:59:56.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 96.86,
-   "ch": 0.41,
-   "asof": "2026-11-03T21:46:37.000Z"
+   "p": 96.76,
+   "ch": 0.7,
+   "asof": "2026-11-03T21:59:59.000Z"
   },
   {
    "s": "USD/KES",
@@ -425,9 +425,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6165,
-   "ch": 0.11,
-   "asof": "2026-11-03T21:56:39.000Z"
+   "p": 16.6011,
+   "ch": 0.02,
+   "asof": "2026-11-03T22:56:58.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 93.6,
-   "ch": 1.92,
-   "asof": "2026-11-03T21:56:34.000Z"
+   "p": 93.47,
+   "ch": 1.78,
+   "asof": "2026-11-03T22:56:56.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2809,
-   "ch": 2.65,
-   "asof": "2026-11-03T21:56:36.000Z"
+   "p": 1.2794,
+   "ch": 2.53,
+   "asof": "2026-11-03T22:56:56.000Z"
   },
   {
    "s": "Apple",
@@ -481,23 +481,23 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 49.84,
-   "ch": -2.06,
-   "asof": "2026-11-03T21:46:11.000Z"
+   "p": 49.81,
+   "ch": 0.11,
+   "asof": "2026-11-03T21:59:55.000Z"
   }
  ],
  "news": [
   [
    "Forex",
-   "high",
-   "Sterling steady as traders await BoE, nervously watch midterms",
+   "med",
+   "Paraguay's central bank chief resigns at president's request as digital lender crisis deepens",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFIwMDZEbEZUUkxKX1pCSkdHSHRtSFRsOTc2NldkMnhENU0wcG9EbmlRdFhMQlZZdlUwbGRIR3Z3OVZwUVg4VnlSeE0zeU1sU2RXWTA0X3lOTEpLWEhma0x3SnR2SUhOb2ZQZjFCSEEzMHpmVEhFS0JZWHVKSG9HdWhjSnplNE4yd3ljN1hEa3JBaEJDbl9zT3p4cjBfWjZCd2tKVnV3?oc=5"
+   "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQVUyTGYzRVlPTnJHT3pKRFZBdlpYRnEwNmpweE9lRUFFcmREVEtWRVdIU2xyWGEzNV96VzBSOFFDZVhfVGpCZk16V1l4X0NnRjZSNzZ5TVVNdFhDbTIyQUpDMG96RW1fX0w3bm5kM1FJSjdZdHpqbnR5aFZ4cGc1NVZ5RkthZTJ0bXZacGVWZTFLaWI1ak5pSEozMHJTcEwzdDkyX1dSRDIzNjlrcmNrdkNNYWVMNkgtTHNkYTd6ZFdJdHgzVEo1Z1dR?oc=5"
   ],
   [
    "Forex",
    "med",
-   "Paraguay Takes Over Ueno as Central Bank Chief Plans to Quit",
+   "Paraguay Bank Collapse Prompts Calls for Central Banker’s Ouster",
    "Bloomberg.com",
    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdGh4YjBxZWMtMkhWQ21SRTV0WUNUc2M0NmVtWEh0SHlxc2M3OFpieGdtLTVWUC1paWd0Y0h6Y3JlSDZWVjhkU081dG84OHBJZnpmRHdIWXpjU0h6a1kxOVFyRHJFQU8teFZrYVNZb1JYUkR5ZkZWWU1XUGMyYjMtQktfOTdtMDRYODhLOFRIQnpqY2NnV3FEaG82OHFEb3RHb0Z1SGJhSFVCOWRjUy1abzAyMWY?oc=5"
   ],
@@ -539,9 +539,9 @@
   [
    "Commodities",
    "med",
-   "Oil drops 7% as Iran signals openness to peace talks",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHdxcnVlWmx5T1pjbDZQS19XeXlYTW1xZmNONnJQWHk4YU1EQTRzZFZQVEJxYjd6WEJTN2pfZC10ZGlzXzVURVdHZkg1RjZGY2tjN0ZVRjNRc0p4UmQ1c2F6MUt4eEpHSml6Z3Q4WHpqV094aEo0dTlVbk00OGFBazlmdGhsWGdtckFHQjlBTVU5Q0FRR3hxUnVmcVpPeGZsTHBlWmhTdw?oc=5"
+   "Current price of oil as of November 3, 2026",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KbEJ2X1pJTHNxWHJwOFFURW5FNUtubUpydG54dDh5R3RXNTNzSG1QTVNHUUNJSTFRa0JGSVdPVXQxWmhoZ0IycjhMbG1XWWx0eE1zTk9ySG1WRG9lTndpaGFR?oc=5"
   ]
  ]
 }
