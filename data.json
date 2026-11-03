@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T10:04:19.428Z",
+ "updated": "2026-11-03T11:04:49.025Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,41 +313,41 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1186,
-   "ch": -0.04,
-   "asof": "2026-11-03T10:03:28.000Z"
+   "p": 1.1183,
+   "ch": -0.07,
+   "asof": "2026-11-03T11:04:29.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.341,
-   "ch": 0.03,
-   "asof": "2026-11-03T10:03:28.000Z"
+   "p": 1.3409,
+   "ch": 0.02,
+   "asof": "2026-11-03T11:04:29.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.183,
+   "p": 158.191,
    "ch": 0.21,
-   "asof": "2026-11-03T10:04:17.000Z"
+   "asof": "2026-11-03T11:04:47.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6976,
-   "ch": -0.33,
-   "asof": "2026-11-03T10:03:28.000Z"
+   "p": 0.6978,
+   "ch": -0.3,
+   "asof": "2026-11-03T11:03:29.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3973,
-   "ch": -0.08,
-   "asof": "2026-11-03T10:04:19.000Z"
+   "p": 1.3955,
+   "ch": -0.21,
+   "asof": "2026-11-03T11:04:48.000Z"
   },
   {
    "s": "USD/CHF",
@@ -355,23 +355,23 @@
    "d": 4,
    "p": 0.8185,
    "ch": 0,
-   "asof": "2026-11-03T10:04:18.000Z"
+   "asof": "2026-11-03T11:04:48.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 76939,
-   "ch": 0.33,
-   "asof": "2026-11-03T10:04:15.000Z"
+   "p": 77029.98,
+   "ch": 0.45,
+   "asof": "2026-11-03T11:04:44.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2263.82,
-   "ch": 0.65,
-   "asof": "2026-11-03T10:04:12.000Z"
+   "p": 2269.45,
+   "ch": 0.9,
+   "asof": "2026-11-03T11:04:44.000Z"
   },
   {
    "s": "S&P 500",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3918.4,
-   "ch": -1.29,
-   "asof": "2026-11-03T09:54:16.000Z"
+   "p": 3912.5,
+   "ch": -1.44,
+   "asof": "2026-11-03T10:54:44.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 97.33,
-   "ch": 0.9,
-   "asof": "2026-11-03T09:54:17.000Z"
+   "p": 97.69,
+   "ch": 1.28,
+   "asof": "2026-11-03T10:54:47.000Z"
   },
   {
    "s": "USD/KES",
@@ -425,9 +425,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6492,
-   "ch": 0.31,
-   "asof": "2026-11-03T10:04:19.000Z"
+   "p": 16.6467,
+   "ch": 0.3,
+   "asof": "2026-11-03T11:04:50.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 92.19,
-   "ch": 0.39,
-   "asof": "2026-11-03T10:04:17.000Z"
+   "p": 92.43,
+   "ch": 0.65,
+   "asof": "2026-11-03T11:04:44.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2539,
-   "ch": 0.49,
-   "asof": "2026-11-03T10:04:14.000Z"
+   "p": 1.2564,
+   "ch": 0.69,
+   "asof": "2026-11-03T11:04:48.000Z"
   },
   {
    "s": "Apple",
@@ -481,18 +481,18 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 48.91,
-   "ch": -3.89,
-   "asof": "2026-11-03T09:54:15.000Z"
+   "p": 48.885,
+   "ch": -3.94,
+   "asof": "2026-11-03T10:54:20.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "China to raise FX reserve requirement to slow yuan's rally",
+   "India eases forex reporting rules for small value service exports, imports",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWDB4ZFZKQmtlWTg4RlI1Tng1by1TNV9FMlZCSkFERGc1VmlndWxsUG5kNWFvemN0YXg2VmRneGNvTVh2YU9GdXRlTjJVRXZ3eE82UlZBS1Y5YWJOOUVMQk05elJZRVR6cDBnd3U2eGxHNUZtNFJsR3hqb294LWpHMDh5VmtZUnlPZTZjWFRhMDM3d19ya1pHbW54ZzZZay1uTmkxZlV2NFliV0s2blFSSU9qSTZYTnJi?oc=5"
+   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU2xvX2xxNlUyTG1CaDJVZW96S2c0N2dQaW9MOFJfcENDOEJQS1FKa00zN2JCbWo2RnVJMjlDRy0yOWJ2Rkd3dUNueUVZZFAxY2RPR2pBUFVtQkdLbkNtaXhOMUhsZEs2cHJmd3Zqb0RFZkNYVjlRcjB6TnlPbHNVRDVYTDd6d3N5bVluTmNwcUkxMDlSdGhVR0ZQY1lMYmZXczA5bG1CQ0ZobkVUeDYxUHlRVkJWVWlF?oc=5"
   ],
   [
    "Forex",
@@ -504,30 +504,30 @@
   [
    "Crypto",
    "med",
-   "The Dollar Is Reasserting Itself as the King of Global Finance",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2J1Zl8yM2ZTZ1BnRGZ4NWxBdktDVjBPLWV0SGFKTk13NGkwblFtaXE5YnJKWEYtbW1NdGxMZGV3LXBJajI1REJpZnBCLWdibkNBOW96UTUzYkFrbXpSQkJGOHlUcHU0UElsLTBmd1RQeGdHNGFRN3pnMDFvcHV4VElXZ2V4QUZjWlpXTE92UTV6VkNxSnpvRmttMlZIZVFfSW8tVTVTazFaNGowZVBJNHFab2w?oc=5"
+   "North Korea denies being behind $6.3bn Binance crypto hack",
+   "BBC",
+   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10dXNzM0pMSVpsb283elB0VkotaEZVbW9QVWpwZGM1VHVkaV9VWmY2dUpKNS1ITkgyZEQ1YVBzM2x3RzVpRm5BR0F2M1hXVV9ydEhsMm9ZZldSdk0?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Strive (ASST) Adds 124 Bitcoin And Closes In On A Corporate Crypto Milestone",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUUtEa3pvN3RoSFNGczltMmhDVDc5bm1ZOUwtZmFTb1MzN0t6ZXc0SlNqWV8ybkFWb0pvT0Vld2psa01SU2YycmxxVERVakVUZDVOa1VwZnVPMEdPUzdsY3JpV1ZKQnNRSTlFeXJZeXNUY1lob1oyRHVSQUREd25YZFpsMGNkTENWU08yQXRuVDc1TF90MVpPOA?oc=5"
+   "The Dollar Is Reasserting Itself as the King of Global Finance",
+   "Bloomberg",
+   "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2J1Zl8yM2ZTZ1BnRGZ4NWxBdktDVjBPLWV0SGFKTk13NGkwblFtaXE5YnJKWEYtbW1NdGxMZGV3LXBJajI1REJpZnBCLWdibkNBOW96UTUzYkFrbXpSQkJGOHlUcHU0UElsLTBmd1RQeGdHNGFRN3pnMDFvcHV4VElXZ2V4QUZjWlpXTE92UTV6VkNxSnpvRmttMlZIZVFfSW8tVTVTazFaNGowZVBJNHFab2w?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Nasdaq Slide Clouds Asian Open, Oil Falls on Iran: Markets Wrap",
-   "Bloomberg.com",
+   "US Stocks Drift as Midterms Keep Traders Cautious: Markets Wrap",
+   "Bloomberg",
    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTGEyREpLdzRYM3VsY3NTclQ1Y2xud2pYNVl6Y0JhZ3RNczRVVjJ0aG43NmgyWkQ5SU85SmtVWGVCU0wySnBTdkhzZXR3R3RpMWloMWdlckxKM3BBUFB4VU9FbzhDQ2l2dm5xZlIwbFZJTHdJQVVyaU1Qc3djSmowcHdGMDNOVUIyMDdURnFwWWpUbmZN?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "META_TITLE_QUOTE",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wLXdlSm5MT0hsWEI2RjNWUHB6R3FYWEYzbi0ydDM4NGFScjNIZmYwYlpGQzRVWmdrVHJHcnRJdFdrMkxFczJqYnE2VFNWQQ?oc=5"
+   "Fired general accused of being source for Wall Street Journal, NYT",
+   "Axios",
+   "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nMVo3a3FRVDZza1FOODRLUUg0a3VZV0xNWDhfOXFob29KMmtGTVZHX1ZRSEtxOHNWOXlOWUNWWEoyeEpiS1duNDBBMjBoa3BLWUlYS3gySTdiUTNCemZDNnZncTBkSnZWWmZrVWp5TXJkd2s?oc=5"
   ],
   [
    "Commodities",
