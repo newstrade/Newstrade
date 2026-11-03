@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T11:57:33.419Z",
+ "updated": "2026-11-03T13:16:54.544Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,65 +313,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1183,
-   "ch": -0.07,
-   "asof": "2026-11-03T11:57:25.000Z"
+   "p": 1.1186,
+   "ch": -0.04,
+   "asof": "2026-11-03T13:16:27.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3413,
-   "ch": 0.05,
-   "asof": "2026-11-03T11:57:25.000Z"
+   "p": 1.3418,
+   "ch": 0.09,
+   "asof": "2026-11-03T13:16:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.265,
-   "ch": 0.26,
-   "asof": "2026-11-03T11:57:33.000Z"
+   "p": 158.217,
+   "ch": 0.23,
+   "asof": "2026-11-03T13:16:53.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6985,
-   "ch": -0.2,
-   "asof": "2026-11-03T11:57:25.000Z"
+   "p": 0.6988,
+   "ch": -0.16,
+   "asof": "2026-11-03T13:15:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3954,
-   "ch": -0.21,
-   "asof": "2026-11-03T11:57:34.000Z"
+   "p": 1.3974,
+   "ch": -0.07,
+   "asof": "2026-11-03T13:16:54.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8195,
-   "ch": 0.12,
-   "asof": "2026-11-03T11:57:33.000Z"
+   "p": 0.8192,
+   "ch": 0.09,
+   "asof": "2026-11-03T13:16:54.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 76966.27,
-   "ch": 0.37,
-   "asof": "2026-11-03T11:57:31.000Z"
+   "p": 77276.03,
+   "ch": 0.77,
+   "asof": "2026-11-03T13:16:52.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2262.95,
-   "ch": 0.61,
-   "asof": "2026-11-03T11:57:30.000Z"
+   "p": 2278.25,
+   "ch": 1.29,
+   "asof": "2026-11-03T13:16:46.000Z"
   },
   {
    "s": "S&P 500",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3915.4,
-   "ch": -1.37,
-   "asof": "2026-11-03T11:47:21.000Z"
+   "p": 3946.1,
+   "ch": -0.59,
+   "asof": "2026-11-03T13:06:54.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 98.52,
-   "ch": 2.14,
-   "asof": "2026-11-03T11:47:31.000Z"
+   "p": 97.52,
+   "ch": 1.1,
+   "asof": "2026-11-03T13:06:55.000Z"
   },
   {
    "s": "USD/KES",
@@ -425,9 +425,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6602,
-   "ch": 0.38,
-   "asof": "2026-11-03T11:57:34.000Z"
+   "p": 16.6335,
+   "ch": 0.22,
+   "asof": "2026-11-03T13:16:54.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 92.36,
-   "ch": 0.57,
-   "asof": "2026-11-03T11:57:29.000Z"
+   "p": 92.76,
+   "ch": 1.01,
+   "asof": "2026-11-03T13:16:42.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.256,
-   "ch": 0.65,
-   "asof": "2026-11-03T11:57:25.000Z"
+   "p": 1.2785,
+   "ch": 2.46,
+   "asof": "2026-11-03T13:16:49.000Z"
   },
   {
    "s": "Apple",
@@ -481,25 +481,32 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 49.05,
-   "ch": -3.61,
-   "asof": "2026-11-03T11:47:05.000Z"
+   "p": 49.65,
+   "ch": -2.43,
+   "asof": "2026-11-03T13:06:52.000Z"
   }
  ],
  "news": [
   [
    "Forex",
-   "med",
-   "China to raise FX reserve requirement to slow yuan's rally",
+   "high",
+   "Sterling steady as traders await BoE, nervously watch midterms",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWDB4ZFZKQmtlWTg4RlI1Tng1by1TNV9FMlZCSkFERGc1VmlndWxsUG5kNWFvemN0YXg2VmRneGNvTVh2YU9GdXRlTjJVRXZ3eE82UlZBS1Y5YWJOOUVMQk05elJZRVR6cDBnd3U2eGxHNUZtNFJsR3hqb294LWpHMDh5VmtZUnlPZTZjWFRhMDM3d19ya1pHbW54ZzZZay1uTmkxZlV2NFliV0s2blFSSU9qSTZYTnJi?oc=5"
+   "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFIwMDZEbEZUUkxKX1pCSkdHSHRtSFRsOTc2NldkMnhENU0wcG9EbmlRdFhMQlZZdlUwbGRIR3Z3OVZwUVg4VnlSeE0zeU1sU2RXWTA0X3lOTEpLWEhma0x3SnR2SUhOb2ZQZjFCSEEzMHpmVEhFS0JZWHVKSG9HdWhjSnplNE4yd3ljN1hEa3JBaEJDbl9zT3p4cjBfWjZCd2tKVnV3?oc=5"
   ],
   [
    "Forex",
    "med",
-   "China’s Central Bank Tweaks Forex Reserve Rules to Steady Yuan",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaUVpai1RSG9LWk82anFJT1hrZlgtM0t3LTQ5ZDBHLXFOLVpyOFhiR0xZa3pLMkluNnpOdzBHWDdwbnZESzk2bWhybUhmdGZUSFFVd0owXzV1ZXJlcXliazhtclhMTV9vQzlSOGlZd0VlNUFLM2V2RUFwNG9SUjFWSG5aeXNUdzBlcmlvRl9RR3JvNUJwZFluUGVrVGduVXpNUEdCcjFTVFI5RktrU1JyMnd0R2E?oc=5"
+   "US Dollar Mixed Early Tuesday Ahead, Eyes on Midterm Elections",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2lwOW1qenNhUnkzazdBU0ZCdVhkaFhnREdYQW5FVFg0Nll6NnV0SVVUbzdIcWV1VjB6ZjV1OC1YZXZKR3FJQ1ZENmdXV3BoTS14UDF1eldHVlA5NW9QaEhlUkRsWVVzMmhSNjc3RVpBZFZrV0NPUUJxekR6ZjRvNFdpUS1BRHBuV0dYdnJyQ3pwMUI0RWlTam9fOUVNV0U?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "Current price of Ethereum for Nov. 3, 2026",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wS0hQZmlhSEFxRXBmNjhzV0ZfTndqaHdyZXpuTnNzWmVHa09BWVhYdjlFSTZYbVpfMDJmYk9kdkVmUmt3YWZLSm80dHkyRi00S3ZteDlaMzVyNklxWTRsX2JEUGpJc1Bw?oc=5"
   ],
   [
    "Crypto",
@@ -509,39 +516,32 @@
    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10dXNzM0pMSVpsb283elB0VkotaEZVbW9QVWpwZGM1VHVkaV9VWmY2dUpKNS1ITkgyZEQ1YVBzM2x3RzVpRm5BR0F2M1hXVV9ydEhsMm9ZZldSdk0?oc=5"
   ],
   [
-   "Crypto",
+   "Stocks",
    "med",
-   "Is Strategy (MSTR) Still Doubling Down On Bitcoin With A $65 Million Move?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGhoeW1BNl9yODVQNFFRWWl4N2hTTTFOZXQ1aVFsR3NSa3VGRm5xSTVZaGVCbnFWNld3VGotNUJ6RWZEQ3ZEWTJkaUVuTXZlZjcza0M1UlVZLWhEY3FERXJ1S01SZlVKQUtTY2VmLVVEV3pmdmRBQkU4b0Y2LUxubUQtVDFNTTZreThkWks2bEd1ZFBndDJ2dU5pVE9CUHM?oc=5"
+   "China Stock Market’s Hidden Problem: Foreign Investors Get a Different Truth",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzZ5N25BZWFvQ28wbmJUSmVfTDZSVHVTVy1OZkJwdFhSN29Eakw5M28yUUpVOTJRQVJjRmRzSUkxdlhXckN4ZU5LY08zc3RsV0U0dlZwNFRTRE9NY2lOeXhPbkUzcm5HZFhfczl3UEpKZlRwbGZlODlUel9xZFd6OHpRWWh5cVN3aWJBOUJ5LWpIeEJwMEQxSjZ4UUtJQ0x3eF85aVdmajZMb1VOTmZ3bFJZLWl0Zw?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Fired general accused of being source for Wall Street Journal, NYT",
+   "The stock market loves gridlock. But midterm elections won’t resolve two big money fights.",
+   "MarketWatch",
+   "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaDVlalRyOW5kUlBuamxJUXcwdmY3Mkg2VlNabU0tZDk0a1JzQ0NiUkZoamFEOU5pQVBxZGxGempvM1EyeE1iTHdvbTR1eTZ1NHBEWkV4ZGpkWnlabWwycllfUVVLei12VDRzRXl2MHFsVUV1MzJsRl84b0k2OFVhY2VwZ2N6dzdTWExxczRYakFXeTdEd1QzV3BRT3ZNY3BudVV1VUMyM3M4TWFVa1REdkw3ZDRjaUlrVWVUUGhtVVVJdmFCQk1ZNDFB?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "OPEC, Allies Keep Output Steady While Gulf Shipping Remains Under Threat",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbnNqUHNCa3N5QzZ4RUZEVVd5RUsxNDM1QU5wZ3dYQ3FYdzdEWnpnczk0NG1JTndRV19CQnpWd0J4eUE4SndBWFpfUkZNeS1QQUtIaWVQRFBYVk1fMXlHNVJjWW1zb3JsV2pvVnc5UU5zby1DNzF1d3dyNFdYWTlTUlJFRk11YW5RU19idkdxZXNSZkJ4azFtQVBjZkVpT2p6cVFlbkpsX2o2NWYtVUJfd1VtblJhQ21COUJYTA?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Crude oil tumbles aren't helping diesel",
    "Axios",
-   "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nMVo3a3FRVDZza1FOODRLUUg0a3VZV0xNWDhfOXFob29KMmtGTVZHX1ZRSEtxOHNWOXlOWUNWWEoyeEpiS1duNDBBMjBoa3BLWUlYS3gySTdiUTNCemZDNnZncTBkSnZWWmZrVWp5TXJkd2s?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "How to Invest for a Coming Stock-Market Rally: Morgan Stanley",
-   "Business Insider",
-   "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMFhCQmVhRW9ndFREajFHdTBsanM3dFpTNEZTcUo5UGwyYUxKRkp5Q1RWU1J4am5Tcmt2UFZYTGZYU1M0SFRkRGNSMV9GMk4ydTdub2lzM2hOTnQyeExTR3hjSl8weGZlTmdYbjRlNHM3OU9XZ3k3d1BhcDVPZ1dFR1BQY2plcUxFbHlxVVZfYmNUUHdxVmVZ?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Goldman Raises Oil Price Forecast for December as War Risks Cloud 2027 Outlook",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcTdQNFZUZ3dyYjJ5NzE1cXZWS0lYU0szZHVqa0lCdzdmekMyWk1ZUk1yZWVUZkkxNU8tNjhCOXJiQ2VfNzBqWHY2ZUNROHZlcllncGEwNGQ2TVpJSS1BT3ZMUmZBMkFxdF90dE1uYldva3hXN1JHRmt1UGxjbDg3RGVaVkJ5SGM4M2ZpVktGeXRoSDkw?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Oil price falls amid hope of a breakthrough to end Iran war",
-   "The Guardian",
-   "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWFFqOGFUT2tuNXpyMGN0LVN4YlVCMFZ2VjZyeDc0OEM0WmdaOS1kRDVzWlREOVF1OW1FaTBLQ3NDR0NhSGlhSThXWU9sODhOdHFTQ2JKYldHNTFOb2RwQWJBRG9LVElmQVMzUDhjQWxOUTVvcGhWZjRFS2xTU0k4NU9fbU1Ic092RkFtRU1xUjB0UzlmRlJWUlJYZTZxVTJ4aWJnanF0MGxQM3R0?oc=5"
+   "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LOEU0RE1VVURSZUpaNC1XdnhWTWRPTkhpQlJpanVqaWZwYkNIS012QTRPcFNaUzR3aG9RNW9yMkQtY1JvQUFXVXV4UjNUdVhzSUk2ejlueEpyZXRNamR1M3RaMGFabFE4Rkg2c3JPQk0?oc=5"
   ]
  ]
 }
