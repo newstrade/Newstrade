@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T22:58:02.429Z",
+ "updated": "2026-11-04T23:53:02.649Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,65 +313,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1236,
-   "ch": 0.39,
-   "asof": "2026-11-04T22:57:25.000Z"
+   "p": 1.1238,
+   "ch": 0.41,
+   "asof": "2026-11-04T23:52:26.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3472,
-   "ch": 0.46,
-   "asof": "2026-11-04T22:57:25.000Z"
+   "p": 1.3479,
+   "ch": 0.51,
+   "asof": "2026-11-04T23:52:26.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.346,
-   "ch": -0.17,
-   "asof": "2026-11-04T22:58:02.000Z"
+   "p": 158.334,
+   "ch": -0.18,
+   "asof": "2026-11-04T23:53:01.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7006,
-   "ch": 0.52,
-   "asof": "2026-11-04T22:57:25.000Z"
+   "p": 0.7009,
+   "ch": 0.56,
+   "asof": "2026-11-04T23:51:26.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3973,
-   "ch": -0.24,
-   "asof": "2026-11-04T22:58:01.000Z"
+   "p": 1.3972,
+   "ch": -0.25,
+   "asof": "2026-11-04T23:53:02.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8167,
-   "ch": -0.45,
-   "asof": "2026-11-04T22:58:01.000Z"
+   "p": 0.8163,
+   "ch": -0.5,
+   "asof": "2026-11-04T23:53:02.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80672.54,
-   "ch": 4.31,
-   "asof": "2026-11-04T22:57:28.000Z"
+   "p": 80481.4,
+   "ch": 4.06,
+   "asof": "2026-11-04T23:53:00.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2435.86,
-   "ch": 7.21,
-   "asof": "2026-11-04T22:57:29.000Z"
+   "p": 2424.66,
+   "ch": 6.72,
+   "asof": "2026-11-04T23:53:00.000Z"
   },
   {
    "s": "S&P 500",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4072.2,
-   "ch": -0.02,
-   "asof": "2026-11-04T21:59:57.000Z"
+   "p": 4073.8,
+   "ch": 0.02,
+   "asof": "2026-11-04T23:43:01.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 88.04,
-   "ch": -0.09,
-   "asof": "2026-11-04T21:59:58.000Z"
+   "p": 88.28,
+   "ch": 0.18,
+   "asof": "2026-11-04T23:42:57.000Z"
   },
   {
    "s": "USD/KES",
@@ -425,9 +425,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4142,
-   "ch": -1.09,
-   "asof": "2026-11-04T22:58:03.000Z"
+   "p": 16.4035,
+   "ch": -1.16,
+   "asof": "2026-11-04T23:53:02.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 96.04,
-   "ch": 3.37,
-   "asof": "2026-11-04T22:57:28.000Z"
+   "p": 95.56,
+   "ch": 2.86,
+   "asof": "2026-11-04T23:52:56.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3116,
-   "ch": 2.69,
-   "asof": "2026-11-04T22:57:28.000Z"
+   "p": 1.3039,
+   "ch": 2.09,
+   "asof": "2026-11-04T23:53:01.000Z"
   },
   {
    "s": "Apple",
@@ -481,18 +481,18 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 52.325,
-   "ch": 0.08,
-   "asof": "2026-11-04T21:59:51.000Z"
+   "p": 52.365,
+   "ch": 0.16,
+   "asof": "2026-11-04T23:42:57.000Z"
   }
  ],
  "news": [
   [
    "Forex",
-   "med",
-   "China’s Central Bank Tweaks Forex Reserve Rules to Steady Yuan",
+   "high",
+   "Brazil’s Central Bank Stops Easing Cycle as Inflation Remains High",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaUVpai1RSG9LWk82anFJT1hrZlgtM0t3LTQ5ZDBHLXFOLVpyOFhiR0xZa3pLMkluNnpOdzBHWDdwbnZESzk2bWhybUhmdGZUSFFVd0owXzV1ZXJlcXliazhtclhMTV9vQzlSOGlZd0VlNUFLM2V2RUFwNG9SUjFWSG5aeXNUdzBlcmlvRl9RR3JvNUJwZFluUGVrVGduVXpNUEdCcjFTVFI5RktrU1JyMnd0R2E?oc=5"
+   "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTzBzM3JOaW9OaUJJb2RyNEMwb0tta2dvWUNHUGk4bXYwTjJZeHpFdmFOOHZWdENjR2EtaHQ4Vl91VVdnXzBVSmZ0ZEtTMVBWQnRDWTBEbE9lTU1wZFVETTJQZmwtSlFXaDhXU0NVZGt5djNpakVhZjdia19PRzdYa2dIb09nOFFENkhDVU03a1c3WVJyVWJVWGZGQ2RzVUEyWjRLYW5yTlVmNGRMOVl4WVdrY0Q1M0xULXc?oc=5"
   ],
   [
    "Forex",
@@ -513,7 +513,7 @@
    "med",
    "What Democrats' midterm victory means for your crypto investments, according to experts",
    "CNBC",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNGV5cWJNWTZhR25sblhkZlBwTklKc3hYMHNtaGtFSG9ndHZCYjFEbXNTQzI4OWVIRHFzWEhqN3Z4MXNpUlN4ekgtT3lEVXc0X2JFeFJFUUZsbzJsbHppaVB0T1JyX0hPaG1SVUZsbmZ4UzJYNXNLOXZPeEpKTUs4VEV0VkUxakJFVEJWVWlGelN3RlJLRkNhUg?oc=5"
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNGV5cWJNWTZhR25sblhkZlBwTklKc3hYMHNtaGtFSG9ndHZCYjFEbXNTQzI4OWVIRHFzWEhqN3Z4MXNpUlN4ekgtT3lEVXc0X2JFeFJFUUZsbzJsbHppaVB0T1JyX0hPaG1SVUZsbmZ4UzJYNXNLOXZPeEpKTUs4VEV0VkUxakJFVEJWVWlGelN3RlJLRkNhUtIBngFBVV95cUxOMHB6ZnhSd1hCdHA4Tk1GZWUxV1FocVdRUVZLak1jWm82Q200dnlsaGpVVk95QWJFM293ejlIYW5EemtzQWYzbUZEcThJZUQwYWRib1VkZUptUHA4US1wd0pBOWxuYmcxY1pTM0NGVDVkNWhReG5zeTI2eGtUd3l4VUlTVFBJRUtuY0FCcmx6MHV0b1ZMTnU1amVNT3E1QQ?oc=5"
   ],
   [
    "Stocks",
@@ -539,9 +539,9 @@
   [
    "Commodities",
    "med",
-   "Brent Falls to $100 as Traders Bet on a U.S.-Iran Deal",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR1RTa1dwN1hDYTd0cHJ5VXY4UTJuczd1MmR3M0lsS3NPb1ZJWFlnU0RVMW93NEl4eEY0cjZHN1NVMXJvbU0zUEtKZ2VPUVZXM2U3QzJGYmhoQWw3OEJ4bEllMUhRTXpFeUVpOTg5V3N5ejk1RVdfZDJoU1VXZHBTVm05MW9BNDBYbExORFltYzdXenN0THF1M2V6OVU3U2xQS25WUWtPdmd1VVXSAbABQVVfeXFMTmo4ZDQxTWFvd09aMEY5N0JkTUZvOWIwVVJoVWZZMXFrekNPZV9IS0FrXzNUcktZZVVjTEdMVWUzNmFSWVI3X2NkZjNLWEJvQ29RaEFNbFVUUWx2QUFHaVB1aUxfUFhlUTFRMENLb09SSzBHTVFBeUJaOUVaTmR2d1l6a2U0VFJfME5YSHpPNHBOenhsU09CREh2ODBIWkxRSWxXU0FZdDJPZng2cDZwSUw?oc=5"
+   "U.S. Crude Oil Stockpiles Post Fifth Straight Weekly Drop",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTFRDenJweXNOWWc3NW1mQzlwS085VVE5c0tSbDl2aUpKd0hEN3JfZklOVmVUTzdTbkJLeUxVZGNyYWpHMGtvQ2g0eGJtcnJuWEwtSXROc0ZmdmxWVkhNemV2cTd5MG4wVUhMV0xDVW1FWFZWQU1FeTNzMUp2ODBXeVBDY3ZPSzBNajlETTk2dm14WW0zUmItVHltX1F0S1U3YlFkOW9GSFgtbmRMLWlpcHluVQ?oc=5"
   ]
  ]
 }
