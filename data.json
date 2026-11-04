@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T06:10:59.043Z",
+ "updated": "2026-11-04T07:29:47.470Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,65 +313,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1233,
-   "ch": 0.37,
-   "asof": "2026-11-04T06:10:29.000Z"
+   "p": 1.1237,
+   "ch": 0.4,
+   "asof": "2026-11-04T07:29:26.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3457,
-   "ch": 0.35,
-   "asof": "2026-11-04T06:10:29.000Z"
+   "p": 1.3473,
+   "ch": 0.47,
+   "asof": "2026-11-04T07:29:26.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.087,
-   "ch": -0.34,
-   "asof": "2026-11-04T06:10:58.000Z"
+   "p": 158.122,
+   "ch": -0.31,
+   "asof": "2026-11-04T07:29:46.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6987,
-   "ch": 0.24,
-   "asof": "2026-11-04T06:09:29.000Z"
+   "p": 0.6994,
+   "ch": 0.34,
+   "asof": "2026-11-04T07:29:26.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3968,
-   "ch": -0.28,
-   "asof": "2026-11-04T06:10:58.000Z"
+   "p": 1.3964,
+   "ch": -0.31,
+   "asof": "2026-11-04T07:29:46.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8174,
-   "ch": -0.37,
-   "asof": "2026-11-04T06:10:59.000Z"
+   "p": 0.8168,
+   "ch": -0.44,
+   "asof": "2026-11-04T07:29:46.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77703.95,
-   "ch": 0.47,
-   "asof": "2026-11-04T06:10:50.000Z"
+   "p": 78200,
+   "ch": 1.11,
+   "asof": "2026-11-04T07:29:44.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2288.2,
-   "ch": 0.71,
-   "asof": "2026-11-04T06:10:56.000Z"
+   "p": 2300.51,
+   "ch": 1.26,
+   "asof": "2026-11-04T07:29:42.000Z"
   },
   {
    "s": "S&P 500",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4012.1,
-   "ch": 1.82,
-   "asof": "2026-11-04T06:00:58.000Z"
+   "p": 4031.3,
+   "ch": 2.31,
+   "asof": "2026-11-04T07:19:44.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 96.2,
-   "ch": 0.11,
-   "asof": "2026-11-04T06:00:58.000Z"
+   "p": 96.18,
+   "ch": 0.09,
+   "asof": "2026-11-04T07:19:43.000Z"
   },
   {
    "s": "USD/KES",
@@ -419,15 +419,15 @@
    "d": 2,
    "p": 129.85,
    "ch": 0,
-   "asof": "2026-11-04T04:06:23.000Z"
+   "asof": "2026-11-04T07:14:52.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5545,
-   "ch": -0.25,
-   "asof": "2026-11-04T06:11:00.000Z"
+   "p": 16.5178,
+   "ch": -0.47,
+   "asof": "2026-11-04T07:29:47.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 92.7,
-   "ch": -0.22,
-   "asof": "2026-11-04T06:10:58.000Z"
+   "p": 93.13,
+   "ch": 0.24,
+   "asof": "2026-11-04T07:29:42.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2742,
-   "ch": -0.23,
-   "asof": "2026-11-04T06:10:55.000Z"
+   "p": 1.2753,
+   "ch": -0.15,
+   "asof": "2026-11-04T07:29:39.000Z"
   },
   {
    "s": "Apple",
@@ -481,25 +481,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 51.255,
-   "ch": 3.02,
-   "asof": "2026-11-04T06:01:00.000Z"
+   "p": 51.75,
+   "ch": 4.01,
+   "asof": "2026-11-04T07:19:47.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVFp4emV5NHZlaTJWTTUwUHhCYTBvTHBiRHpWTzJlb1JUZ05SWThnaWVpVmdyVmtadENjZnQ3N28tdXF4blp6VHZMX2VWMk5oM21ibXVXaDgwVEJSaGkzSlltWmFoeHJMdUx6RnJ2MDdVTHVSc0E0bEdsSk9jM0prMjdpUWloenBmM3hONGtSRW9MSjAzc0VxSnpOYm5wUFJBQW1sSTVTcWc1R2ptNXlR?oc=5"
+   "India central bank forms markets panel with Citi, Morgan Stanley, SBI as members",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRGJ2NzhSOGdQWlY3dktjTGlIVEN4aWJKYXAxRm9pOHdBN1JKSGtmek8zWGZod2g1aTNsYmFzbmxLWFZIZVkzVkk0Y0FjMW5EOURqaFdXYlNEVUtlRmNyb3hUZ2w5YkI0RzRMMUIxZF9BWUNwY0tMSDdaM3QzenpXOHlUTFRsc2xJZDNxeHI0YmRuRUU0TXJ2WnRlcElBa3FJemJCYWZtTHlxMzlfM043VkdCOUNjOU51SHAxNEltOHBkWWE5Ukx3?oc=5"
   ],
   [
    "Forex",
    "med",
-   "Dollar drops sharply on Democrats' early gains in US midterm election",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMG9Jam5JQ09uMEx5R0FoYnl4ajRFeU03eDQ0RXUyc3FqZ0xxdVo1czh6MUw0Z2E2UDlYcjJMWjR4WnQ4RUVXWVBWMXNqa29IUnl5MEl1TEF6UmhGaGloLXk5MDRSclZ5MXFsMDJXSmxTYnM1Tmc3VDFUbTBCOW5CUVFVSDhBWFYtbG1ickM0eVZBUWdf?oc=5"
+   "Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVFp4emV5NHZlaTJWTTUwUHhCYTBvTHBiRHpWTzJlb1JUZ05SWThnaWVpVmdyVmtadENjZnQ3N28tdXF4blp6VHZMX2VWMk5oM21ibXVXaDgwVEJSaGkzSlltWmFoeHJMdUx6RnJ2MDdVTHVSc0E0bEdsSk9jM0prMjdpUWloenBmM3hONGtSRW9MSjAzc0VxSnpOYm5wUFJBQW1sSTVTcWc1R2ptNXlR?oc=5"
   ],
   [
    "Crypto",
@@ -525,9 +525,9 @@
   [
    "Stocks",
    "med",
-   "Dow, S&P 500, Nasdaq Futures Fall As Markets Weigh A Potential Democratic Sweep In Midterms: DJT, AMD, SMCI, SOXL In Focus",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVngxSURWZmVBaENhVEVDM2Z3XzRFbFRPNjBWeHNtWmpIT05FbGd4QkV3S2lBei1JV2JqY21jbnRNaGFKOVdhM2wwcWttNEV4emh5V0tndnV1NERRNFFFTk5scnI1YXJXUW5US1NHd0tXaURmc0hKRnNvMjFQNjVLRno4c3VLZkJFZWtfSW10Q2RwdHM?oc=5"
+   "US Equity Futures Inch Higher as Investors Await Midterm Results",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVzJXWTQ2RjFoeU9maDJNSE53U3o3WmdfeUFyUktDbzRuZGswVE44M1doYjh6d21BZEdGemVBVU4wclliR3ZST0hnZWMtcm9yTnhqUmRtc0NjNnB2NVdjSTBmRlFQbU44NlRYVVZZc1NlSklhci1PRjhSb1F2MWR5LXBULUNWSnpqN1NyZUh1RjBfdm1BajdjWGphYTIwMmpoUzQtcy1LN0Y1d0RuWjE2RG1GeUhSUQ?oc=5"
   ],
   [
    "Commodities",
