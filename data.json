@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T15:01:49.686Z",
+ "updated": "2026-11-04T16:04:27.552Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,105 +313,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1249,
-   "ch": 0.51,
-   "asof": "2026-11-04T15:01:25.000Z"
+   "p": 1.1236,
+   "ch": 0.39,
+   "asof": "2026-11-04T16:03:27.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3475,
-   "ch": 0.48,
-   "asof": "2026-11-04T15:01:25.000Z"
+   "p": 1.3471,
+   "ch": 0.45,
+   "asof": "2026-11-04T16:04:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.518,
-   "ch": -0.06,
-   "asof": "2026-11-04T15:01:49.000Z"
+   "p": 158.432,
+   "ch": -0.12,
+   "asof": "2026-11-04T16:04:26.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7015,
-   "ch": 0.65,
-   "asof": "2026-11-04T15:01:25.000Z"
+   "p": 0.7014,
+   "ch": 0.63,
+   "asof": "2026-11-04T16:03:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3954,
-   "ch": -0.38,
-   "asof": "2026-11-04T15:01:48.000Z"
+   "p": 1.3958,
+   "ch": -0.35,
+   "asof": "2026-11-04T16:04:27.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8177,
-   "ch": -0.33,
-   "asof": "2026-11-04T15:01:49.000Z"
+   "p": 0.8172,
+   "ch": -0.39,
+   "asof": "2026-11-04T16:04:27.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 79383.26,
-   "ch": 2.64,
-   "asof": "2026-11-04T15:01:47.000Z"
+   "p": 80287.11,
+   "ch": 3.81,
+   "asof": "2026-11-04T16:04:22.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2394.56,
-   "ch": 5.4,
-   "asof": "2026-11-04T15:01:47.000Z"
+   "p": 2429.96,
+   "ch": 6.95,
+   "asof": "2026-11-04T16:04:26.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7705.08,
-   "ch": 1.8,
-   "asof": "2026-11-04T15:01:48.000Z"
+   "p": 7675.88,
+   "ch": 1.41,
+   "asof": "2026-11-04T16:04:27.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 25978.158,
-   "ch": 2.39,
-   "asof": "2026-11-04T15:01:46.000Z"
+   "p": 25743.51,
+   "ch": 1.46,
+   "asof": "2026-11-04T16:04:25.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52926.58,
-   "ch": 2.2,
-   "asof": "2026-11-04T15:01:49.000Z"
+   "p": 53112.79,
+   "ch": 2.56,
+   "asof": "2026-11-04T16:04:27.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4051.8,
-   "ch": 2.83,
-   "asof": "2026-11-04T14:51:48.000Z"
+   "p": 4055.9,
+   "ch": 2.93,
+   "asof": "2026-11-04T15:54:27.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 93.2,
-   "ch": -3.01,
-   "asof": "2026-11-04T14:51:50.000Z"
+   "p": 92.99,
+   "ch": -3.23,
+   "asof": "2026-11-04T15:54:27.000Z"
   },
   {
    "s": "USD/KES",
@@ -425,9 +425,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4491,
-   "ch": -0.88,
-   "asof": "2026-11-04T15:01:50.000Z"
+   "p": 16.4289,
+   "ch": -1,
+   "asof": "2026-11-04T16:04:28.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,65 +441,65 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.55,
-   "ch": 2.85,
-   "asof": "2026-11-04T15:01:45.000Z"
+   "p": 96.74,
+   "ch": 4.13,
+   "asof": "2026-11-04T16:04:22.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3216,
-   "ch": 3.48,
-   "asof": "2026-11-04T15:01:48.000Z"
+   "p": 1.3127,
+   "ch": 2.78,
+   "asof": "2026-11-04T16:04:15.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 352.81,
-   "ch": 6.3,
-   "asof": "2026-11-04T15:01:50.000Z"
+   "p": 352.515,
+   "ch": 6.21,
+   "asof": "2026-11-04T16:04:27.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 385.22,
-   "ch": -3.33,
-   "asof": "2026-11-04T15:01:50.000Z"
+   "p": 385,
+   "ch": -3.39,
+   "asof": "2026-11-04T16:04:27.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 205.51,
-   "ch": -0.57,
-   "asof": "2026-11-04T15:01:50.000Z"
+   "p": 201.8,
+   "ch": -2.37,
+   "asof": "2026-11-04T16:04:28.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 52.245,
-   "ch": 5.01,
-   "asof": "2026-11-04T14:51:51.000Z"
+   "p": 52.03,
+   "ch": 4.58,
+   "asof": "2026-11-04T15:54:24.000Z"
   }
  ],
  "news": [
-  [
-   "Forex",
-   "med",
-   "Forex currencies: live prices, changes, trading volume and daily charts - Yahoo Finance",
-   "Yahoo Finance Singapore",
-   "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tTVJQUTFQNDVSOG9vUUQtQlhKdDhTQWRXSmNmR2hHR2lpVjFHa2lRcDI1NG5OUDFsU1g0dFRtNWtraUpHOUpwUkQyVUpaNUdOTGhUa2EyTmtCY1VF?oc=5"
-  ],
   [
    "Forex",
    "high",
    "Chile Central Bank Mulled a Key Rate Hike at Its Last Decision",
    "Bloomberg.com",
    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOczVwWmpFX1VSU2VtVFh5Zk5xR2hBZXZNN1JoTXZ5dU1SbG82SGV5WEluZGI4WXAwRWxSZTFfTGNLTTRUcmVMLXZoRzQtWkxhV0dsWk5VUnJxZ2x6UnJ4SVJVX25fdk85b0Y2dGl6QzYxRUg4VTJwbGFQakNORlU1SUxVbF9fTHBaOEhMNlJoV3dTZjF3OHpRVmY3cXdRUkJlU3Q4TVdnRGxacnFhVG41SHp1bw?oc=5"
+  ],
+  [
+   "Forex",
+   "med",
+   "US dollar slides after Democrats’ midterm election win as growth fears rise",
+   "The Guardian",
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWHBXeHhrYVhzSEt6VXgyZHNpYm9aSjJqaVpvZy1XX0I0VXJLMjFwUUczWkRNeE5mSktyeURtT2h0YnpndldCZHNHQlIzM01ydExEVnVVVjZkdWRZWTVSOTVUM05QOEh0bEIyS1loeFBpVE5HQXJoanJjTHQ3ODlzdEE2dUdFQ2YxRC12UEU3cjRDZ2xVc09Tb09NOWxPNWtoNllZWlR6ZXBsSDFWaFE?oc=5"
   ],
   [
    "Crypto",
@@ -518,23 +518,16 @@
   [
    "Stocks",
    "med",
-   "Deepening Tech Selloff Pushes Nasdaq Toward Its Worst Month in Over a Year",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0dCXzNIVWRZZmZVTWM2U25pX18zb0RtZlIwYjd0RUpuYzdpRUJBdl9pT3pjQkVpa29KU043MjhLOWhaLTBkUGxFZHVIcFNzWkFKQXkyMUVUakJIVlo5X3lPTlJWMGgtNFc2WDd4OE5BNkY4UzNOdjRVTDU0ZjBHZUkybEd2RkVVbHB4c2RrSl92OW8?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Wall St opens higher as Democrats win Congress; data center stocks slide",
+   "Wall Street rallies after Democrats win Congress; data center stocks slide",
    "Reuters",
    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWpBY1VHMFd5a2tJXzM1RFFFQTl5Y09aVDgza095UkJKVzNnQ3F4VW1pMzBEazJKMGhlS21zUEdCLXJPOVhWdXRnZmlLRHliMDdqYmt2b2ZWYk5FeW85VnBSalpRd1E5b3BVSUZDU2VLMUNiQm41YWw1SUgxV2dWaUFZUkI2MllhY0Z5ZkZHcWNuQmdCaHBKbVRhck1meTRz?oc=5"
   ],
   [
-   "Commodities",
+   "Stocks",
    "med",
-   "Oil falls on Iran war uncertainty, US Democrats' midterm sweep",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUEyU0pEVG8xTHJtT2xCU0ltcXVTalphM0RNTEZ0UVlCTW5Qbjg4cS1RQnh5QXZnVEZvdnBacmZRM2FhMWJLWXVjU08yNkpvOHZiLTUtSGN0Mk55NGFBNWdxTmR4b3ZBeGNlX3ptUGNaRVFzRzhyNDZodklncGFZaV96cUxHY1Q1ODZWdmpTVWlWRVp4bVdJb0Zrb1pLaXVsUFFySUd4cm40cFphNGZB?oc=5"
+   "US Equity Futures Inch Higher as Investors Await Midterm Results",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVzJXWTQ2RjFoeU9maDJNSE53U3o3WmdfeUFyUktDbzRuZGswVE44M1doYjh6d21BZEdGemVBVU4wclliR3ZST0hnZWMtcm9yTnhqUmRtc0NjNnB2NVdjSTBmRlFQbU44NlRYVVZZc1NlSklhci1PRjhSb1F2MWR5LXBULUNWSnpqN1NyZUh1RjBfdm1BajdjWGphYTIwMmpoUzQtcy1LN0Y1d0RuWjE2RG1GeUhSUQ?oc=5"
   ],
   [
    "Commodities",
@@ -542,6 +535,13 @@
    "UAE Mulls Third Crude Oil Pipeline to Avoid Strait of Hormuz",
    "Bloomberg.com",
    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTXNLX3ZlS196c3ZXQ18wZ1pCVnRqMkNuT1JwcmxaMmdxd2x5UFZxX2xpaDhDMm9iTHR3ZE9URVljcWlDVllMelBQVDR6cXRGbjktclN5TnpVQWJacGZmRVNqM1FNeWFnNTFtT0lVQkhkZGNQcVBrXzJCVmhSZjlqb1hlV3RxaTNPNHF2YWk0YzJQTVFJd0doa0VieEFhSEJfUDAxRXVac1MtRllWZWhmaw?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Crude Oil Inventories Decline Less Than Expected, Impacting Prices",
+   "Investing.com",
+   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdzdKdjVHeldZWkkxX0tHWF9WVm9vZm1TZWxZbDJua0l3YjBkR3FFazBqODVsYU9Ob1FNTGtUaXlRY2NlSzg0ZnFScUZNT0lIUUNGNjJLNUJrT0FXMTgzVTQwaUg2SHJlVXczLVI0SDFHXzRheG84NXZuUmJoYlZ5N2tVSTVCQS0temFmNHhZZGJ6YlN3djRnclNLMGw2TTZvM0hRcmdtdElRVTFTY0pCUFFEOTN1X253aG1kWXBRbXhEOGxDRUpkZQ?oc=5"
   ]
  ]
 }
