@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T16:04:27.552Z",
+ "updated": "2026-11-04T17:06:53.718Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,105 +313,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1236,
-   "ch": 0.39,
-   "asof": "2026-11-04T16:03:27.000Z"
+   "p": 1.1227,
+   "ch": 0.31,
+   "asof": "2026-11-04T17:06:28.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3471,
-   "ch": 0.45,
-   "asof": "2026-11-04T16:04:27.000Z"
+   "p": 1.346,
+   "ch": 0.37,
+   "asof": "2026-11-04T17:06:28.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.432,
-   "ch": -0.12,
-   "asof": "2026-11-04T16:04:26.000Z"
+   "p": 158.39,
+   "ch": -0.15,
+   "asof": "2026-11-04T17:06:52.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7014,
-   "ch": 0.63,
-   "asof": "2026-11-04T16:03:27.000Z"
+   "p": 0.7013,
+   "ch": 0.62,
+   "asof": "2026-11-04T17:05:28.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3958,
-   "ch": -0.35,
-   "asof": "2026-11-04T16:04:27.000Z"
+   "p": 1.3971,
+   "ch": -0.26,
+   "asof": "2026-11-04T17:06:53.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8172,
-   "ch": -0.39,
-   "asof": "2026-11-04T16:04:27.000Z"
+   "p": 0.8169,
+   "ch": -0.43,
+   "asof": "2026-11-04T17:06:53.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80287.11,
-   "ch": 3.81,
-   "asof": "2026-11-04T16:04:22.000Z"
+   "p": 80323.14,
+   "ch": 3.86,
+   "asof": "2026-11-04T17:06:47.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2429.96,
-   "ch": 6.95,
-   "asof": "2026-11-04T16:04:26.000Z"
+   "p": 2424.68,
+   "ch": 6.72,
+   "asof": "2026-11-04T17:06:53.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7675.88,
-   "ch": 1.41,
-   "asof": "2026-11-04T16:04:27.000Z"
+   "p": 7698.6,
+   "ch": 1.71,
+   "asof": "2026-11-04T17:06:50.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 25743.51,
-   "ch": 1.46,
-   "asof": "2026-11-04T16:04:25.000Z"
+   "p": 25849.717,
+   "ch": 1.88,
+   "asof": "2026-11-04T17:06:52.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 53112.79,
-   "ch": 2.56,
-   "asof": "2026-11-04T16:04:27.000Z"
+   "p": 53273.23,
+   "ch": 2.87,
+   "asof": "2026-11-04T17:06:45.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4055.9,
-   "ch": 2.93,
-   "asof": "2026-11-04T15:54:27.000Z"
+   "p": 4074.2,
+   "ch": 3.4,
+   "asof": "2026-11-04T16:56:51.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 92.99,
-   "ch": -3.23,
-   "asof": "2026-11-04T15:54:27.000Z"
+   "p": 88.49,
+   "ch": -7.91,
+   "asof": "2026-11-04T16:56:52.000Z"
   },
   {
    "s": "USD/KES",
@@ -419,15 +419,15 @@
    "d": 2,
    "p": 129.83,
    "ch": -0.02,
-   "asof": "2026-11-04T14:58:45.000Z"
+   "asof": "2026-11-04T16:10:09.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4289,
-   "ch": -1,
-   "asof": "2026-11-04T16:04:28.000Z"
+   "p": 16.4004,
+   "ch": -1.18,
+   "asof": "2026-11-04T17:06:54.000Z"
   },
   {
    "s": "USD/NGN",
@@ -435,55 +435,55 @@
    "d": 2,
    "p": 1344.8,
    "ch": 0.57,
-   "asof": "2026-11-04T14:58:45.000Z"
+   "asof": "2026-11-04T16:10:09.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 96.74,
-   "ch": 4.13,
-   "asof": "2026-11-04T16:04:22.000Z"
+   "p": 96.13,
+   "ch": 3.47,
+   "asof": "2026-11-04T17:06:50.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3127,
-   "ch": 2.78,
-   "asof": "2026-11-04T16:04:15.000Z"
+   "p": 1.3075,
+   "ch": 2.37,
+   "asof": "2026-11-04T17:06:52.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 352.515,
-   "ch": 6.21,
-   "asof": "2026-11-04T16:04:27.000Z"
+   "p": 353.56,
+   "ch": 6.53,
+   "asof": "2026-11-04T17:06:53.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 385,
-   "ch": -3.39,
-   "asof": "2026-11-04T16:04:27.000Z"
+   "p": 384.62,
+   "ch": -3.48,
+   "asof": "2026-11-04T17:06:54.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 201.8,
-   "ch": -2.37,
-   "asof": "2026-11-04T16:04:28.000Z"
+   "p": 203.305,
+   "ch": -1.64,
+   "asof": "2026-11-04T17:06:53.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 52.03,
-   "ch": 4.58,
-   "asof": "2026-11-04T15:54:24.000Z"
+   "p": 52.225,
+   "ch": 4.97,
+   "asof": "2026-11-04T16:56:45.000Z"
   }
  ],
  "news": [
@@ -497,9 +497,9 @@
   [
    "Forex",
    "med",
-   "US dollar slides after Democrats’ midterm election win as growth fears rise",
-   "The Guardian",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWHBXeHhrYVhzSEt6VXgyZHNpYm9aSjJqaVpvZy1XX0I0VXJLMjFwUUczWkRNeE5mSktyeURtT2h0YnpndldCZHNHQlIzM01ydExEVnVVVjZkdWRZWTVSOTVUM05QOEh0bEIyS1loeFBpVE5HQXJoanJjTHQ3ODlzdEE2dUdFQ2YxRC12UEU3cjRDZ2xVc09Tb09NOWxPNWtoNllZWlR6ZXBsSDFWaFE?oc=5"
+   "India central bank forms markets panel with Citi, Morgan Stanley, SBI as members",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRGJ2NzhSOGdQWlY3dktjTGlIVEN4aWJKYXAxRm9pOHdBN1JKSGtmek8zWGZod2g1aTNsYmFzbmxLWFZIZVkzVkk0Y0FjMW5EOURqaFdXYlNEVUtlRmNyb3hUZ2w5YkI0RzRMMUIxZF9BWUNwY0tMSDdaM3QzenpXOHlUTFRsc2xJZDNxeHI0YmRuRUU0TXJ2WnRlcElBa3FJemJCYWZtTHlxMzlfM043VkdCOUNjOU51SHAxNEltOHBkWWE5Ukx3?oc=5"
   ],
   [
    "Crypto",
@@ -532,16 +532,16 @@
   [
    "Commodities",
    "med",
-   "UAE Mulls Third Crude Oil Pipeline to Avoid Strait of Hormuz",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTXNLX3ZlS196c3ZXQ18wZ1pCVnRqMkNuT1JwcmxaMmdxd2x5UFZxX2xpaDhDMm9iTHR3ZE9URVljcWlDVllMelBQVDR6cXRGbjktclN5TnpVQWJacGZmRVNqM1FNeWFnNTFtT0lVQkhkZGNQcVBrXzJCVmhSZjlqb1hlV3RxaTNPNHF2YWk0YzJQTVFJd0doa0VieEFhSEJfUDAxRXVac1MtRllWZWhmaw?oc=5"
+   "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUY1eDVzNHZ6MmNpdWJ1aVE4MEk5azk5QlpXV3dHTDdTYzJUeGtnc0lUdWFRNHZaY0hiOEt0Z1hGTVBjVkgycGU4ZE90OEdRUlN4czVBcXV0S2Z0RXctRlNicG5UOTFEeGNkZTZtNlBlUjJSbWVrVl9qLUJST0x5cGt4T0t5SG9E0gGOAUFVX3lxTE9ZT2lFbGJEQWs5RkRuNG9xQTBJTVM3M0hqVHJfSkpiYVBIMl9oa2JmbWNtaFZfRnVQMC1RbU9NeHFqOG5icHZyYUlBa0FSMUg0dmJqcDlBdG04czRiVVlaZlFoNnFEWEJGNjBOX01UWFI0VUtJQXdSZzdzVS0xR2JOaHl3LW1YemRhdF82WHc?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Crude Oil Inventories Decline Less Than Expected, Impacting Prices",
-   "Investing.com",
-   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdzdKdjVHeldZWkkxX0tHWF9WVm9vZm1TZWxZbDJua0l3YjBkR3FFazBqODVsYU9Ob1FNTGtUaXlRY2NlSzg0ZnFScUZNT0lIUUNGNjJLNUJrT0FXMTgzVTQwaUg2SHJlVXczLVI0SDFHXzRheG84NXZuUmJoYlZ5N2tVSTVCQS0temFmNHhZZGJ6YlN3djRnclNLMGw2TTZvM0hRcmdtdElRVTFTY0pCUFFEOTN1X253aG1kWXBRbXhEOGxDRUpkZQ?oc=5"
+   "OPEC, Allies Keep Output Steady While Gulf Shipping Remains Under Threat",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbnNqUHNCa3N5QzZ4RUZEVVd5RUsxNDM1QU5wZ3dYQ3FYdzdEWnpnczk0NG1JTndRV19CQnpWd0J4eUE4SndBWFpfUkZNeS1QQUtIaWVQRFBYVk1fMXlHNVJjWW1zb3JsV2pvVnc5UU5zby1DNzF1d3dyNFdYWTlTUlJFRk11YW5RU19idkdxZXNSZkJ4azFtQVBjZkVpT2p6cVFlbkpsX2o2NWYtVUJfd1VtblJhQ21COUJYTA?oc=5"
   ]
  ]
 }
