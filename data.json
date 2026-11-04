@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T23:50:07.456Z",
+ "updated": "2026-11-04T01:18:52.314Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,65 +313,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1208,
-   "ch": 0.15,
-   "asof": "2026-11-03T23:49:25.000Z"
+   "p": 1.1242,
+   "ch": 0.45,
+   "asof": "2026-11-04T01:18:27.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3428,
-   "ch": 0.16,
-   "asof": "2026-11-03T23:49:25.000Z"
+   "p": 1.3457,
+   "ch": 0.35,
+   "asof": "2026-11-04T01:18:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.517,
-   "ch": 0.42,
-   "asof": "2026-11-03T23:50:06.000Z"
+   "p": 158.162,
+   "ch": -0.29,
+   "asof": "2026-11-04T01:18:51.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6969,
-   "ch": -0.43,
-   "asof": "2026-11-03T23:49:25.000Z"
+   "p": 0.6974,
+   "ch": 0.06,
+   "asof": "2026-11-04T01:17:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4004,
-   "ch": 0.14,
-   "asof": "2026-11-03T23:50:06.000Z"
+   "p": 1.3972,
+   "ch": -0.25,
+   "asof": "2026-11-04T01:18:51.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8192,
-   "ch": 0.09,
-   "asof": "2026-11-03T23:50:07.000Z"
+   "p": 0.816,
+   "ch": -0.54,
+   "asof": "2026-11-04T01:18:51.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 77612.03,
-   "ch": 1.21,
-   "asof": "2026-11-03T23:50:03.000Z"
+   "p": 76804.96,
+   "ch": -0.69,
+   "asof": "2026-11-04T01:18:51.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2280.31,
-   "ch": 1.38,
-   "asof": "2026-11-03T23:50:06.000Z"
+   "p": 2262.83,
+   "ch": -0.4,
+   "asof": "2026-11-04T01:18:46.000Z"
   },
   {
    "s": "S&P 500",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3938.1,
-   "ch": -0.06,
-   "asof": "2026-11-03T23:39:56.000Z"
+   "p": 3934.7,
+   "ch": -0.14,
+   "asof": "2026-11-04T01:08:43.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 96.5,
-   "ch": 0.43,
-   "asof": "2026-11-03T23:40:05.000Z"
+   "p": 96.92,
+   "ch": 0.86,
+   "asof": "2026-11-04T01:08:49.000Z"
   },
   {
    "s": "USD/KES",
@@ -419,39 +419,39 @@
    "d": 2,
    "p": 129.85,
    "ch": 0,
-   "asof": "2026-11-03T20:13:02.000Z"
+   "asof": "2026-11-04T00:40:27.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6033,
-   "ch": 0.03,
-   "asof": "2026-11-03T23:50:07.000Z"
+   "p": 16.5832,
+   "ch": -0.07,
+   "asof": "2026-11-04T01:18:52.000Z"
   },
   {
    "s": "USD/NGN",
    "m": "Forex",
    "d": 2,
    "p": 1337.2,
-   "ch": 0.04,
-   "asof": "2026-11-03T20:13:02.000Z"
+   "ch": 0,
+   "asof": "2026-11-04T00:40:27.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 93.1,
-   "ch": 1.38,
-   "asof": "2026-11-03T23:50:05.000Z"
+   "p": 91.74,
+   "ch": -1.25,
+   "asof": "2026-11-04T01:18:47.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2797,
-   "ch": 2.55,
-   "asof": "2026-11-03T23:50:01.000Z"
+   "p": 1.2523,
+   "ch": -1.95,
+   "asof": "2026-11-04T01:18:47.000Z"
   },
   {
    "s": "Apple",
@@ -481,9 +481,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 49.7,
-   "ch": -0.11,
-   "asof": "2026-11-03T23:40:05.000Z"
+   "p": 49.44,
+   "ch": -0.63,
+   "asof": "2026-11-04T01:08:49.000Z"
   }
  ],
  "news": [
@@ -518,16 +518,23 @@
   [
    "Stocks",
    "med",
-   "Nasdaq ends higher as AI heavyweights rebound ahead of midterm results",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVp0N2w0REZqOUJ3YkRxcmliYkhtX25yTkFtdmJDUFdSVm5CcXRQYjdMeFFLU0gxcHk1STM2R0xXaGJ6TW9ZN2ZQS2RReVRiXzNtY1B3Qm5fZ1lfTUFaMVpRM2d2ZVZodnZtbUFFLUtkcURfUEtENElyNG5YcFRGcncteEFaZFUwOGxVUmpTMWFkMEtvb09VTG50a2NSbjhLUm5Zc3EtZS1XUU5lWm9B?oc=5"
+   "China’s AI stock-market struggles are a warning",
+   "The Economist",
+   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUk5SYzV2RVRZQkdoM0syTWN4M010ZjVBWXJrVjBWdkNoNGE1ajd4Q2Y0eTdEMkJhbC1JVnNzdkJJSkNkSHhTbDNoNmw4Z1pZQk5EbGxkNUxJbTBQOTRJRGRrUzlKcTRGTWZxVVZxM2Rmb3FCVnJFQ2oyUTQ5UzhrODR4V29jM2toZFIyYVRXTVpRTVI1QXNBYk96a00weFk3T3NGZkQ3cXo?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "China’s AI stock-market struggles are a warning",
-   "The Economist",
-   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUk5SYzV2RVRZQkdoM0syTWN4M010ZjVBWXJrVjBWdkNoNGE1ajd4Q2Y0eTdEMkJhbC1JVnNzdkJJSkNkSHhTbDNoNmw4Z1pZQk5EbGxkNUxJbTBQOTRJRGRrUzlKcTRGTWZxVVZxM2Rmb3FCVnJFQ2oyUTQ5UzhrODR4V29jM2toZFIyYVRXTVpRTVI1QXNBYk96a00weFk3T3NGZkQ3cXo?oc=5"
+   "US Stocks Waver as Election, AI Bubble Risks Weigh on Outlook",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaXNvOEhtNW1UdEtjYzJoMFR3SnFsT0JUMzg4dmR0OW80bmZVUHFDQmhjUWNrQUxvSXBLbjNWR3A2STNwa1BGMHdSbDBWVVRaYTZKVVNKaUl4Y3V4UjRGMFRWZ3EtanM2QkJsb1EwU1U5V0tXSDFKVTVCUUxBYjd6bmRLdHNwa1RIcDhRTURNbTVlN2FJamFYZ29EMDVpRjdPdjA0eVZETjJmeXVyMk1OUw?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "OPEC, Allies Keep Output Steady While Gulf Shipping Remains Under Threat",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbnNqUHNCa3N5QzZ4RUZEVVd5RUsxNDM1QU5wZ3dYQ3FYdzdEWnpnczk0NG1JTndRV19CQnpWd0J4eUE4SndBWFpfUkZNeS1QQUtIaWVQRFBYVk1fMXlHNVJjWW1zb3JsV2pvVnc5UU5zby1DNzF1d3dyNFdYWTlTUlJFRk11YW5RU19idkdxZXNSZkJ4azFtQVBjZkVpT2p6cVFlbkpsX2o2NWYtVUJfd1VtblJhQ21COUJYTA?oc=5"
   ],
   [
    "Commodities",
@@ -535,13 +542,6 @@
    "Oil drops 7% as Iran signals openness to peace talks",
    "Reuters",
    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHdxcnVlWmx5T1pjbDZQS19XeXlYTW1xZmNONnJQWHk4YU1EQTRzZFZQVEJxYjd6WEJTN2pfZC10ZGlzXzVURVdHZkg1RjZGY2tjN0ZVRjNRc0p4UmQ1c2F6MUt4eEpHSml6Z3Q4WHpqV094aEo0dTlVbk00OGFBazlmdGhsWGdtckFHQjlBTVU5Q0FRR3hxUnVmcVpPeGZsTHBlWmhTdw?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Current price of oil as of November 3, 2026",
-   "Fortune",
-   "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KbEJ2X1pJTHNxWHJwOFFURW5FNUtubUpydG54dDh5R3RXNTNzSG1QTVNHUUNJSTFRa0JGSVdPVXQxWmhoZ0IycjhMbG1XWWx0eE1zTk9ySG1WRG9lTndpaGFR?oc=5"
   ]
  ]
 }
