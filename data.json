@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T16:16:38.579Z",
+ "updated": "2026-11-05T17:27:38.799Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,105 +313,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1221,
-   "ch": -0.12,
-   "asof": "2026-11-05T16:16:27.000Z"
+   "p": 1.1236,
+   "ch": 0.01,
+   "asof": "2026-11-05T17:27:29.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3465,
-   "ch": -0.05,
-   "asof": "2026-11-05T16:16:27.000Z"
+   "p": 1.3481,
+   "ch": 0.07,
+   "asof": "2026-11-05T17:27:29.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.945,
-   "ch": -0.24,
-   "asof": "2026-11-05T16:16:38.000Z"
+   "p": 157.729,
+   "ch": -0.38,
+   "asof": "2026-11-05T17:27:38.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6957,
-   "ch": -0.71,
-   "asof": "2026-11-05T16:15:27.000Z"
+   "p": 0.6956,
+   "ch": -0.73,
+   "asof": "2026-11-05T17:27:29.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4001,
-   "ch": 0.19,
-   "asof": "2026-11-05T16:16:39.000Z"
+   "p": 1.3988,
+   "ch": 0.09,
+   "asof": "2026-11-05T17:27:38.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8153,
-   "ch": -0.13,
-   "asof": "2026-11-05T16:16:39.000Z"
+   "p": 0.8149,
+   "ch": -0.18,
+   "asof": "2026-11-05T17:27:38.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 76282.1,
-   "ch": -5.16,
-   "asof": "2026-11-05T16:16:34.000Z"
+   "p": 75905.18,
+   "ch": -5.62,
+   "asof": "2026-11-05T17:27:38.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2257.16,
-   "ch": -6.84,
-   "asof": "2026-11-05T16:16:33.000Z"
+   "p": 2252.14,
+   "ch": -7.05,
+   "asof": "2026-11-05T17:27:34.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7459.32,
-   "ch": -2.98,
-   "asof": "2026-11-05T16:16:38.000Z"
+   "p": 7422.09,
+   "ch": -3.47,
+   "asof": "2026-11-05T17:27:39.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 24622.02,
-   "ch": -4.33,
-   "asof": "2026-11-05T16:16:34.000Z"
+   "p": 24531.773,
+   "ch": -4.68,
+   "asof": "2026-11-05T17:27:37.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52125.24,
-   "ch": -2.31,
-   "asof": "2026-11-05T16:16:31.000Z"
+   "p": 51933.95,
+   "ch": -2.67,
+   "asof": "2026-11-05T17:27:39.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4097.4,
-   "ch": 0.6,
-   "asof": "2026-11-05T16:06:38.000Z"
+   "p": 4128.8,
+   "ch": 1.37,
+   "asof": "2026-11-05T17:17:38.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 90.4,
-   "ch": 2.59,
-   "asof": "2026-11-05T16:06:40.000Z"
+   "p": 90.48,
+   "ch": 2.68,
+   "asof": "2026-11-05T17:17:37.000Z"
   },
   {
    "s": "USD/KES",
@@ -425,9 +425,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4625,
-   "ch": 0.3,
-   "asof": "2026-11-05T16:16:40.000Z"
+   "p": 16.4413,
+   "ch": 0.17,
+   "asof": "2026-11-05T17:27:40.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,58 +441,58 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 90.76,
-   "ch": -4.96,
-   "asof": "2026-11-05T16:16:36.000Z"
+   "p": 89.6,
+   "ch": -6.17,
+   "asof": "2026-11-05T17:27:33.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.252,
-   "ch": -4.03,
-   "asof": "2026-11-05T16:16:35.000Z"
+   "p": 1.2374,
+   "ch": -5.15,
+   "asof": "2026-11-05T17:27:36.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 346.56,
-   "ch": -0.84,
-   "asof": "2026-11-05T16:16:40.000Z"
+   "p": 344.77,
+   "ch": -1.36,
+   "asof": "2026-11-05T17:27:39.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 347.47,
-   "ch": -9.79,
-   "asof": "2026-11-05T16:16:40.000Z"
+   "p": 341.81,
+   "ch": -11.26,
+   "asof": "2026-11-05T17:27:40.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 185.24,
-   "ch": -7.44,
-   "asof": "2026-11-05T16:16:40.000Z"
+   "p": 184.8,
+   "ch": -7.66,
+   "asof": "2026-11-05T17:27:40.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 51.695,
-   "ch": -1.12,
-   "asof": "2026-11-05T16:06:40.000Z"
+   "p": 52.705,
+   "ch": 0.81,
+   "asof": "2026-11-05T17:17:31.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Sweden’s Central Bank Latest to Lift Rates in Response to War",
+   "China’s Central Bank Tweaks Forex Reserve Rules to Steady Yuan",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM3VNMDJudWVWdzRhaUFpVkJrYW9fZjBpcDd5VnVPUFRWalVHT0JCc3hoYmFkNlVtR0o5dlNLbVVxakF1aVdJZF9MbnczS0p0NFlTMGI1YU5oYW5icy1CT01NeTdoS1pzS0RrVG84R3Y5RElhTE9BeHVjb1VEakw1SHJ3VHRVLTlHYUdPMDFmZktReEdBc0RaakZyb21VbW1TOVhiTUFUd1ExNGJIcEE?oc=5"
+   "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaUVpai1RSG9LWk82anFJT1hrZlgtM0t3LTQ5ZDBHLXFOLVpyOFhiR0xZa3pLMkluNnpOdzBHWDdwbnZESzk2bWhybUhmdGZUSFFVd0owXzV1ZXJlcXliazhtclhMTV9vQzlSOGlZd0VlNUFLM2V2RUFwNG9SUjFWSG5aeXNUdzBlcmlvRl9RR3JvNUJwZFluUGVrVGduVXpNUEdCcjFTVFI5RktrU1JyMnd0R2E?oc=5"
   ],
   [
    "Forex",
@@ -518,14 +518,14 @@
   [
    "Stocks",
    "med",
-   "Wall St slumps as sharp tech losses put Nasdaq on course for correction",
+   "Nasdaq set to confirm correction as AI stocks tumble",
    "Reuters",
    "https://news.google.com/rss/articles/CBMisgFBVV95cUxObTdYYmZaZmRqRUt0TDhBbERraDF2VlpSTDJ4M1NyZ2dRRkNUUVJ0OVFHdzJyc01uNDZOV2YzZFprbU90aUNzTEtYTEdNWU5Jc19VVVlHc24tNkZ2VFhqOWg3b0swVDFnY2hHaGxuNVZXVkE5S09xZXV2eGRQb1kwdWFEZWxpeGMybDZRcGtyWW52Q1JfaHY4MVo1YmJfRW9KZmNsdVJqS24zeGRZVUpaV3VB?oc=5"
   ],
   [
    "Stocks",
-   "med",
-   "Nasdaq plunges into correction territory as midterm results raise fresh questions about AI boom",
+   "high",
+   "Stocks plunge as midterm results send AI trade into a tailspin",
    "CNN",
    "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRNUYxQ2c5VUJvNkd2RExjdVJ1YU5UNmpYYzh2dzgzT2FOZFFaNmlpd0ZUSVViTzZkRG91RmRad3MxNXdncmt4aFFuR2U5di11dmlYSG9hODllU2RNZXFTUHR1UlhpYzhESlpfMS15OVdETTNP?oc=5"
   ],
