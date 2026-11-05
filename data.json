@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T07:33:27.040Z",
+ "updated": "2026-11-05T09:13:47.860Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,65 +313,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1246,
-   "ch": 0.1,
-   "asof": "2026-11-05T07:32:26.000Z"
+   "p": 1.1247,
+   "ch": 0.11,
+   "asof": "2026-11-05T09:13:28.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3473,
-   "ch": 0.01,
-   "asof": "2026-11-05T07:33:26.000Z"
+   "p": 1.3475,
+   "ch": 0.02,
+   "asof": "2026-11-05T09:13:28.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.143,
-   "ch": -0.12,
-   "asof": "2026-11-05T07:33:27.000Z"
+   "p": 158.225,
+   "ch": -0.06,
+   "asof": "2026-11-05T09:13:46.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7018,
-   "ch": 0.16,
-   "asof": "2026-11-05T07:33:26.000Z"
+   "p": 0.7016,
+   "ch": 0.13,
+   "asof": "2026-11-05T09:13:28.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3953,
-   "ch": -0.16,
-   "asof": "2026-11-05T07:33:26.000Z"
+   "p": 1.395,
+   "ch": -0.18,
+   "asof": "2026-11-05T09:13:47.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8155,
-   "ch": -0.11,
-   "asof": "2026-11-05T07:33:27.000Z"
+   "p": 0.8156,
+   "ch": -0.1,
+   "asof": "2026-11-05T09:13:47.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80326.65,
+   "p": 80322.88,
    "ch": -0.13,
-   "asof": "2026-11-05T07:33:23.000Z"
+   "asof": "2026-11-05T09:13:42.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2413.75,
-   "ch": -0.38,
-   "asof": "2026-11-05T07:33:22.000Z"
+   "p": 2413.52,
+   "ch": -0.39,
+   "asof": "2026-11-05T09:13:45.000Z"
   },
   {
    "s": "S&P 500",
@@ -393,25 +393,25 @@
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 53356.12,
+   "p": 53356.1,
    "ch": 3.03,
-   "asof": "2026-11-04T21:51:20.000Z"
+   "asof": "2026-11-04T21:00:00.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4131,
-   "ch": 1.42,
-   "asof": "2026-11-05T07:23:26.000Z"
+   "p": 4137.9,
+   "ch": 1.59,
+   "asof": "2026-11-05T09:03:43.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 87.82,
-   "ch": -0.34,
-   "asof": "2026-11-05T07:23:28.000Z"
+   "p": 88.07,
+   "ch": -0.06,
+   "asof": "2026-11-05T09:03:44.000Z"
   },
   {
    "s": "USD/KES",
@@ -425,9 +425,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.3826,
-   "ch": -0.18,
-   "asof": "2026-11-05T07:33:29.000Z"
+   "p": 16.3584,
+   "ch": -0.33,
+   "asof": "2026-11-05T09:13:47.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.71,
-   "ch": 0.23,
-   "asof": "2026-11-05T07:33:24.000Z"
+   "p": 96.49,
+   "ch": 1.04,
+   "asof": "2026-11-05T09:13:43.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3077,
-   "ch": 0.24,
-   "asof": "2026-11-05T07:33:21.000Z"
+   "p": 1.3158,
+   "ch": 0.86,
+   "asof": "2026-11-05T09:13:41.000Z"
   },
   {
    "s": "Apple",
@@ -481,25 +481,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 52.55,
-   "ch": 0.51,
-   "asof": "2026-11-05T07:23:13.000Z"
+   "p": 52.845,
+   "ch": 1.08,
+   "asof": "2026-11-05T09:03:44.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "high",
-   "Australia's central bank warns public confidence in inflation fight is slipping",
+   "Sterling set for seventh daily rise versus dollar ahead of BoE meeting",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVGoxb0Zyc2VyS0cyNU1KRlFjM2tzZGtoaGNHTHhpYkpFN1M2Y0w5TGhkUDAtUWwwcDVKem9PNG5Lb2p4N2Q0dk5mMThnNVlCcy15RDMwOWMySTRVQzd2TnBNTzFiZFpQWW5PRkpXYUE0Y01jaDRPbmRsLXh6X1hJRm9EY2RxTjRsa2lCSXI5Q241a0l5T2E4UFpWejZjZnZNRWZHaHB3VHAtWFFOek1fTVpSOFBYQjJwVlNyUmRNOVdBeWFGRDZLVVhB?oc=5"
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTNfalU2RVJvYml2YmdyRE12dVFwZTZaQU5oOGJMeEZWOEFmSmxIZXU4ZThhRFJ5Tk9nbElLMGlfVjIzM0tzUlBIRlNPMWxYZVlLbEd6a1BaTFZWTjM4aEljSjZBaC14VVZtRUtzOWtXOE1mTXZ6TEZNaEQxUmxmUDZ0N3djeTZrQURDUnI0QzFybTRscWs2aWpfb2VFc192TkwwcllpeDlLS256dExvRg?oc=5"
   ],
   [
    "Forex",
-   "high",
-   "Brazil’s Central Bank Stops Easing Cycle as Inflation Remains High",
+   "med",
+   "Malaysia’s Central Bank Holds Rate Steady, Cites Resilient Growth",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTzBzM3JOaW9OaUJJb2RyNEMwb0tta2dvWUNHUGk4bXYwTjJZeHpFdmFOOHZWdENjR2EtaHQ4Vl91VVdnXzBVSmZ0ZEtTMVBWQnRDWTBEbE9lTU1wZFVETTJQZmwtSlFXaDhXU0NVZGt5djNpakVhZjdia19PRzdYa2dIb09nOFFENkhDVU03a1c3WVJyVWJVWGZGQ2RzVUEyWjRLYW5yTlVmNGRMOVl4WVdrY0Q1M0xULXc?oc=5"
+   "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVXlhbGhKc2YwSGFyMDY5MlR1eERYdl9OM1ZlbkstMUtCYnI3UUQ3cmdpVEpYcjFTaVlGSEZHaHZaYjNhQVhZbmJ1T2dKWW5rY1Mta0NxY0pTN1ZJQldKZDBGU0plbWhSSklwV3pQeld6M3Z0WkZ0WldsbDFKX0xjOTN3NHNQcDJPZERJcTdKeFlueVdZRFpzODhkMUwyNFI1VHJnTWJGaG52U002YkE4RlRrQlZKajQ?oc=5"
   ],
   [
    "Crypto",
@@ -539,9 +539,9 @@
   [
    "Commodities",
    "med",
-   "Long-Term JGB Yields Fall After Oil Price Drops",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTER1bVlRUloyTWVBdTlQdUU1YXJuWkZubkNuUy1CdFBpQW5MN3F6RFQtWDZUOEtKZFFtTkF3NWZ5U3lra0hycFV2OGJPOE4wVXk5WHk2ZmpYQ2dOUHc2a1lrdHJ3eTNVT0ZJX0FqSmU4SlpKM3prd21vZkJCaTV5YzZWaVVuNWlPNXNFNQ?oc=5"
+   "Oil Extends Slide After Plunging 8% on Hopes to End US-Iran War",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQlB2Q1M3aHY0UjIwVUczU09aRnVsVDhTSDVncElSMGVwRDE0a3lPLUNXbVN0R25iZHZkOXRtMkg5QTZ5VFNTRi1uTDZfd3pfVlZqUFEyaHZ6R0RPSDltbmRRdWMxbC1JcEV4UGxiYmFESjJWb1QtSkhaNW5kWlF1WkJHenZDLXJZdjJDWjYxcGsxd1RXMHI3N0R1a0Q?oc=5"
   ]
  ]
 }
