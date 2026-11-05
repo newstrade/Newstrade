@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T04:06:05.985Z",
+ "updated": "2026-11-05T05:11:06.112Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,65 +313,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.127,
-   "ch": 0.31,
-   "asof": "2026-11-05T04:05:27.000Z"
+   "p": 1.1265,
+   "ch": 0.27,
+   "asof": "2026-11-05T05:10:28.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3497,
-   "ch": 0.19,
-   "asof": "2026-11-05T04:05:27.000Z"
+   "p": 1.3491,
+   "ch": 0.14,
+   "asof": "2026-11-05T05:10:28.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.889,
-   "ch": -0.28,
-   "asof": "2026-11-05T04:06:04.000Z"
+   "p": 157.843,
+   "ch": -0.31,
+   "asof": "2026-11-05T05:11:05.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7018,
-   "ch": 0.16,
-   "asof": "2026-11-05T04:05:27.000Z"
+   "p": 0.7015,
+   "ch": 0.11,
+   "asof": "2026-11-05T05:09:28.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3949,
-   "ch": -0.19,
-   "asof": "2026-11-05T04:06:05.000Z"
+   "p": 1.3953,
+   "ch": -0.16,
+   "asof": "2026-11-05T05:11:06.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8138,
-   "ch": -0.32,
-   "asof": "2026-11-05T04:06:05.000Z"
+   "p": 0.8142,
+   "ch": -0.27,
+   "asof": "2026-11-05T05:11:06.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80368.32,
-   "ch": -0.07,
-   "asof": "2026-11-05T04:06:00.000Z"
+   "p": 80423.27,
+   "ch": -0.01,
+   "asof": "2026-11-05T05:11:04.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2418.44,
-   "ch": -0.18,
-   "asof": "2026-11-05T04:05:58.000Z"
+   "p": 2422.87,
+   "ch": 0,
+   "asof": "2026-11-05T05:11:04.000Z"
   },
   {
    "s": "S&P 500",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4153.2,
-   "ch": 1.97,
-   "asof": "2026-11-05T03:56:05.000Z"
+   "p": 4147.1,
+   "ch": 1.82,
+   "asof": "2026-11-05T05:01:04.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 86.75,
-   "ch": -1.55,
-   "asof": "2026-11-05T03:56:04.000Z"
+   "p": 86.82,
+   "ch": -1.48,
+   "asof": "2026-11-05T05:01:02.000Z"
   },
   {
    "s": "USD/KES",
@@ -425,9 +425,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.3349,
-   "ch": -0.47,
-   "asof": "2026-11-05T04:06:05.000Z"
+   "p": 16.3302,
+   "ch": -0.5,
+   "asof": "2026-11-05T05:11:06.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.94,
-   "ch": 0.47,
-   "asof": "2026-11-05T04:05:59.000Z"
+   "p": 95.84,
+   "ch": 0.36,
+   "asof": "2026-11-05T05:11:02.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.306,
-   "ch": 0.11,
-   "asof": "2026-11-05T04:06:01.000Z"
+   "p": 1.3064,
+   "ch": 0.14,
+   "asof": "2026-11-05T05:11:04.000Z"
   },
   {
    "s": "Apple",
@@ -481,9 +481,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.24,
-   "ch": 1.83,
-   "asof": "2026-11-05T03:55:44.000Z"
+   "p": 53.04,
+   "ch": 1.45,
+   "asof": "2026-11-05T05:01:01.000Z"
   }
  ],
  "news": [
@@ -525,9 +525,9 @@
   [
    "Stocks",
    "med",
-   "Wall Street Trading Desks Bet on US Stock Rally After Midterms",
+   "US Equity Futures Inch Higher as Investors Await Midterm Results",
    "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMzhCVzhUY1o3N1hNS3pfWXJmcmJXNFhYMnl2SzNKSzVOMF91ZFNBaG1qZ2o3VXNJaW1uSlBBdkJNTzZlRWF6UlJvRlNIME9jYnZhSWRmTVF2SDRKNkRMNmNRVV80MVdxdThLNjRkN1o2cWJoeS0yZXpRYmFNM3RaV2psRUR2Qi1LMlQyM2p1SWtka1kyeVF1UXB3UnpGcWJfWUplanlBWDFpdWd4N2FXeTlFTQ?oc=5"
+   "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVzJXWTQ2RjFoeU9maDJNSE53U3o3WmdfeUFyUktDbzRuZGswVE44M1doYjh6d21BZEdGemVBVU4wclliR3ZST0hnZWMtcm9yTnhqUmRtc0NjNnB2NVdjSTBmRlFQbU44NlRYVVZZc1NlSklhci1PRjhSb1F2MWR5LXBULUNWSnpqN1NyZUh1RjBfdm1BajdjWGphYTIwMmpoUzQtcy1LN0Y1d0RuWjE2RG1GeUhSUQ?oc=5"
   ],
   [
    "Commodities",
