@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T10:18:51.433Z",
+ "updated": "2026-11-05T12:05:30.897Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,25 +313,25 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1236,
-   "ch": 0.01,
-   "asof": "2026-11-05T10:18:29.000Z"
+   "p": 1.1225,
+   "ch": -0.09,
+   "asof": "2026-11-05T12:05:27.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3465,
-   "ch": -0.05,
-   "asof": "2026-11-05T10:18:29.000Z"
+   "p": 1.3477,
+   "ch": 0.04,
+   "asof": "2026-11-05T12:05:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.313,
-   "ch": -0.01,
-   "asof": "2026-11-05T10:18:51.000Z"
+   "p": 158.386,
+   "ch": 0.04,
+   "asof": "2026-11-05T12:05:29.000Z"
   },
   {
    "s": "AUD/USD",
@@ -339,39 +339,39 @@
    "d": 4,
    "p": 0.7015,
    "ch": 0.11,
-   "asof": "2026-11-05T10:17:29.000Z"
+   "asof": "2026-11-05T12:05:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3952,
-   "ch": -0.16,
-   "asof": "2026-11-05T10:18:51.000Z"
+   "p": 1.3961,
+   "ch": -0.1,
+   "asof": "2026-11-05T12:05:30.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8174,
-   "ch": 0.12,
-   "asof": "2026-11-05T10:18:50.000Z"
+   "p": 0.818,
+   "ch": 0.2,
+   "asof": "2026-11-05T12:05:30.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80354.01,
-   "ch": -0.09,
-   "asof": "2026-11-05T10:18:47.000Z"
+   "p": 80130.21,
+   "ch": -0.37,
+   "asof": "2026-11-05T12:05:28.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2417.32,
-   "ch": -0.23,
-   "asof": "2026-11-05T10:18:47.000Z"
+   "p": 2414.85,
+   "ch": -0.33,
+   "asof": "2026-11-05T12:05:26.000Z"
   },
   {
    "s": "S&P 500",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4134.7,
-   "ch": 1.51,
-   "asof": "2026-11-05T10:08:46.000Z"
+   "p": 4142.9,
+   "ch": 1.72,
+   "asof": "2026-11-05T11:55:26.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 88.6,
-   "ch": 0.54,
-   "asof": "2026-11-05T10:08:50.000Z"
+   "p": 89.45,
+   "ch": 1.51,
+   "asof": "2026-11-05T11:55:32.000Z"
   },
   {
    "s": "USD/KES",
@@ -419,15 +419,15 @@
    "d": 2,
    "p": 129.83,
    "ch": 0,
-   "asof": "2026-11-05T03:59:33.000Z"
+   "asof": "2026-11-05T11:05:25.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.3889,
-   "ch": -0.15,
-   "asof": "2026-11-05T10:18:51.000Z"
+   "p": 16.3844,
+   "ch": -0.17,
+   "asof": "2026-11-05T12:05:31.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 96.76,
-   "ch": 1.33,
-   "asof": "2026-11-05T10:18:44.000Z"
+   "p": 96.28,
+   "ch": 0.82,
+   "asof": "2026-11-05T12:05:18.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3174,
-   "ch": 0.98,
-   "asof": "2026-11-05T10:18:44.000Z"
+   "p": 1.3137,
+   "ch": 0.7,
+   "asof": "2026-11-05T12:05:30.000Z"
   },
   {
    "s": "Apple",
@@ -481,9 +481,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 52.73,
-   "ch": 0.86,
-   "asof": "2026-11-05T10:08:41.000Z"
+   "p": 52.81,
+   "ch": 1.01,
+   "asof": "2026-11-05T11:55:22.000Z"
   }
  ],
  "news": [
@@ -504,37 +504,30 @@
   [
    "Crypto",
    "med",
-   "A $6 Billion Hack Puts Crypto’s Wall Street Rebellion on Trial",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxObzVnRVU4bVZrUEZlTVVJRUtRQk1ZTWRkQlRrX0RpZGItQ2VJZV91X2VCYUpBYTBHXzZoRDJNY25wQkgwMnZvOXdaTEp4Z0F4NU5ZUFdhYVpxSVZ5Q19pdGdIWTRQYUVtV2QyRkwyZ3dwSkVBTE5mdk9QX1NPSTFlR3ZoaXBDbGxoRTRoenNDSVJ6d3oxRGJmbVJhUE54LWRUdEc3eEIwaHZYUVJ5MHZIcVZR?oc=5"
+   "Current price of Ethereum for Nov. 5, 2026",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PX0ZJcWJiUjNReFdjX3NybjBlNkNfdF9vQ0hTU3g1ZzFLaG40NWlibV9mdFkwR2l3SlloUWpfS2VZcUJNS0tIbFJ4NUZZUmhRSy1yMl9CaUhOcnJCSUhBOTQzTDFxVkU4?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
+   "Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing",
    "CoinDesk",
-   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT1JhU0FPb0dEcVY0VmNFZWFnOGVDX0pIdndjNUQ0ZzB5WG04bVBUSUtNdWI2REs0R1ZRMGFLWks0dDRxRlRYbkJqVUdkcE9kNW95ZEZXbHdzNl9nS2tZTEhGX3VoSmFrTjZOWHBfbnFjTTByTUllM1FFa09ETU5yUWJwaUF0anA3RTU5VXc3LXpCMENFT1lSUi10NGlfZmJyclZFNE9xM2IzWDBaNllKNGljQnNMc3M3S1VyVmt3NjQ?oc=5"
+   "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYWNYQUFpdFRkekNzZ2w4a0VmX3doemxYNVVRLXZDMG1HVUpNTGJ5WWlJZ3FGR3JzekpyWTdTS2VRYUJFc0lBUTdneGhybk9qQXBXaE1IM3FnTW92eTJYR19Qa3JQbE5uTGxaZGR6NjJXNk9yQWFCQjFlUU5fczBPcHlCNktfakRLWEQ5UHdEYnRhM0J5S3RJYlFrbjhQUWprel9qdnhqMHh0WVhvTS1ZU2VGd1V3WTRnSmI2Y1hXNzZoME51YzRjNWU1N0ZfVHJoaEZnQUhR?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Wall Street ends higher after Democrats win Congress; data center stocks tumble",
+   "S&P 500 futures steady after midterm rally; Nasdaq lags on chip weakness",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWpBY1VHMFd5a2tJXzM1RFFFQTl5Y09aVDgza095UkJKVzNnQ3F4VW1pMzBEazJKMGhlS21zUEdCLXJPOVhWdXRnZmlLRHliMDdqYmt2b2ZWYk5FeW85VnBSalpRd1E5b3BVSUZDU2VLMUNiQm41YWw1SUgxV2dWaUFZUkI2MllhY0Z5ZkZHcWNuQmdCaHBKbVRhck1meTRz?oc=5"
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxObTdYYmZaZmRqRUt0TDhBbERraDF2VlpSTDJ4M1NyZ2dRRkNUUVJ0OVFHdzJyc01uNDZOV2YzZFprbU90aUNzTEtYTEdNWU5Jc19VVVlHc24tNkZ2VFhqOWg3b0swVDFnY2hHaGxuNVZXVkE5S09xZXV2eGRQb1kwdWFEZWxpeGMybDZRcGtyWW52Q1JfaHY4MVo1YmJfRW9KZmNsdVJqS24zeGRZVUpaV3VB?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Asian Stocks to Rise as Oil Slides After US Vote: Markets Wrap",
+   "Stock Rotation Rolls On as Chipmakers Retreat: Markets Wrap",
    "Bloomberg.com",
    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaHBnOEludEdwalhTMXRiLWFQbk9RRVVIVGYzY3cwZUk4TmxLY1hnZExZQTZBTExfR2l2TmpJNXUwRWUwc21Jd0EzZklqc2hCbnRta19OU1lQV2NTdjhuNUZxaGQwaHlBZG51eG44WXFxNTNuX1FRYVluOGdaTFptSWRFY3J1ZTdMTlFzY3VmYVhkbDJH?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Long-Term JGB Yields Fall After Oil Price Drops",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTER1bVlRUloyTWVBdTlQdUU1YXJuWkZubkNuUy1CdFBpQW5MN3F6RFQtWDZUOEtKZFFtTkF3NWZ5U3lra0hycFV2OGJPOE4wVXk5WHk2ZmpYQ2dOUHc2a1lrdHJ3eTNVT0ZJX0FqSmU4SlpKM3prd21vZkJCaTV5YzZWaVVuNWlPNXNFNQ?oc=5"
   ],
   [
    "Commodities",
@@ -542,6 +535,13 @@
    "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war",
    "CNBC",
    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUY1eDVzNHZ6MmNpdWJ1aVE4MEk5azk5QlpXV3dHTDdTYzJUeGtnc0lUdWFRNHZaY0hiOEt0Z1hGTVBjVkgycGU4ZE90OEdRUlN4czVBcXV0S2Z0RXctRlNicG5UOTFEeGNkZTZtNlBlUjJSbWVrVl9qLUJST0x5cGt4T0t5SG9E0gGOAUFVX3lxTE9ZT2lFbGJEQWs5RkRuNG9xQTBJTVM3M0hqVHJfSkpiYVBIMl9oa2JmbWNtaFZfRnVQMC1RbU9NeHFqOG5icHZyYUlBa0FSMUg0dmJqcDlBdG04czRiVVlaZlFoNnFEWEJGNjBOX01UWFI0VUtJQXdSZzdzVS0xR2JOaHl3LW1YemRhdF82WHc?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Oil Extends Slide After Plunging 8% on Hopes to End US-Iran War",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQlB2Q1M3aHY0UjIwVUczU09aRnVsVDhTSDVncElSMGVwRDE0a3lPLUNXbVN0R25iZHZkOXRtMkg5QTZ5VFNTRi1uTDZfd3pfVlZqUFEyaHZ6R0RPSDltbmRRdWMxbC1JcEV4UGxiYmFESjJWb1QtSkhaNW5kWlF1WkJHenZDLXJZdjJDWjYxcGsxd1RXMHI3N0R1a0Q?oc=5"
   ]
  ]
 }
