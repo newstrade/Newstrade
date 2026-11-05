@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T01:21:18.572Z",
+ "updated": "2026-11-05T03:01:28.856Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,65 +313,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.126,
-   "ch": 0.22,
-   "asof": "2026-11-05T01:20:28.000Z"
+   "p": 1.1259,
+   "ch": 0.21,
+   "asof": "2026-11-05T03:01:25.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3492,
-   "ch": 0.15,
-   "asof": "2026-11-05T01:20:28.000Z"
+   "p": 1.3488,
+   "ch": 0.12,
+   "asof": "2026-11-05T03:01:25.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.899,
-   "ch": -0.27,
-   "asof": "2026-11-05T01:21:17.000Z"
+   "p": 157.915,
+   "ch": -0.26,
+   "asof": "2026-11-05T03:01:28.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7013,
-   "ch": 0.09,
-   "asof": "2026-11-05T01:19:28.000Z"
+   "p": 0.7019,
+   "ch": 0.17,
+   "asof": "2026-11-05T03:01:25.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.395,
-   "ch": -0.18,
-   "asof": "2026-11-05T01:21:18.000Z"
+   "p": 1.3955,
+   "ch": -0.14,
+   "asof": "2026-11-05T03:01:29.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8137,
-   "ch": -0.33,
-   "asof": "2026-11-05T01:21:18.000Z"
+   "p": 0.8142,
+   "ch": -0.27,
+   "asof": "2026-11-05T03:01:28.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80213.44,
-   "ch": -0.27,
-   "asof": "2026-11-05T01:21:15.000Z"
+   "p": 80461.82,
+   "ch": 0.04,
+   "asof": "2026-11-05T03:01:25.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2408.4,
-   "ch": -0.6,
-   "asof": "2026-11-05T01:21:12.000Z"
+   "p": 2424.48,
+   "ch": 0.07,
+   "asof": "2026-11-05T03:01:27.000Z"
   },
   {
    "s": "S&P 500",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4107.8,
-   "ch": 0.85,
-   "asof": "2026-11-05T01:11:17.000Z"
+   "p": 4141.6,
+   "ch": 1.68,
+   "asof": "2026-11-05T02:51:28.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 87.68,
-   "ch": -0.5,
-   "asof": "2026-11-05T01:11:14.000Z"
+   "p": 87.24,
+   "ch": -1,
+   "asof": "2026-11-05T02:51:30.000Z"
   },
   {
    "s": "USD/KES",
@@ -419,15 +419,15 @@
    "d": 2,
    "p": 129.83,
    "ch": 0,
-   "asof": "2026-11-05T01:19:37.000Z"
+   "asof": "2026-11-05T02:51:43.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.3632,
-   "ch": -0.3,
-   "asof": "2026-11-05T01:21:18.000Z"
+   "p": 16.3284,
+   "ch": -0.51,
+   "asof": "2026-11-05T03:01:30.000Z"
   },
   {
    "s": "USD/NGN",
@@ -435,23 +435,23 @@
    "d": 2,
    "p": 1344.8,
    "ch": 0,
-   "asof": "2026-11-05T01:19:37.000Z"
+   "asof": "2026-11-05T02:51:43.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 95.2,
-   "ch": -0.31,
-   "asof": "2026-11-05T01:21:15.000Z"
+   "p": 96.19,
+   "ch": 0.73,
+   "asof": "2026-11-05T03:01:28.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.297,
-   "ch": -0.58,
-   "asof": "2026-11-05T01:21:17.000Z"
+   "p": 1.3046,
+   "ch": 0,
+   "asof": "2026-11-05T03:01:27.000Z"
   },
   {
    "s": "Apple",
@@ -481,25 +481,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 52.59,
-   "ch": 0.59,
-   "asof": "2026-11-05T01:11:09.000Z"
+   "p": 53.28,
+   "ch": 1.91,
+   "asof": "2026-11-05T02:51:26.000Z"
   }
  ],
  "news": [
-  [
-   "Forex",
-   "med",
-   "Brazil's central bank ends run of rate cuts after Lula election win",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZEFUME9sYnFseThMNGczNTU1OGwtT1ZzWk5yNXpVWGpfZWpFbjVYcHJ0NS1iRjNVNGcyQnZ4cXp3WkRuVTJ3UF8takxXTnV6ZjZ5RXFsVkVGazQwbkdkZ3czRTZ1QXp6RVo4eVZxRGpJSkN0dXhzSWZ6V0N4RGwzdTVsTF9vYlFHdUlrakdlZGF4bnFPYzlNZ1dUT2FHTnlJZTlYSWlYZ1psV2NQSHB2RExDZUg?oc=5"
-  ],
   [
    "Forex",
    "high",
    "Brazil’s Central Bank Stops Easing Cycle as Inflation Remains High",
    "WSJ",
    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTzBzM3JOaW9OaUJJb2RyNEMwb0tta2dvWUNHUGk4bXYwTjJZeHpFdmFOOHZWdENjR2EtaHQ4Vl91VVdnXzBVSmZ0ZEtTMVBWQnRDWTBEbE9lTU1wZFVETTJQZmwtSlFXaDhXU0NVZGt5djNpakVhZjdia19PRzdYa2dIb09nOFFENkhDVU03a1c3WVJyVWJVWGZGQ2RzVUEyWjRLYW5yTlVmNGRMOVl4WVdrY0Q1M0xULXc?oc=5"
+  ],
+  [
+   "Forex",
+   "med",
+   "Brazil's central bank ends run of rate cuts after Lula election win",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZEFUME9sYnFseThMNGczNTU1OGwtT1ZzWk5yNXpVWGpfZWpFbjVYcHJ0NS1iRjNVNGcyQnZ4cXp3WkRuVTJ3UF8takxXTnV6ZjZ5RXFsVkVGazQwbkdkZ3czRTZ1QXp6RVo4eVZxRGpJSkN0dXhzSWZ6V0N4RGwzdTVsTF9vYlFHdUlrakdlZGF4bnFPYzlNZ1dUT2FHTnlJZTlYSWlYZ1psV2NQSHB2RExDZUg?oc=5"
   ],
   [
    "Crypto",
