@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T03:01:28.856Z",
+ "updated": "2026-11-05T04:06:05.985Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,65 +313,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1259,
-   "ch": 0.21,
-   "asof": "2026-11-05T03:01:25.000Z"
+   "p": 1.127,
+   "ch": 0.31,
+   "asof": "2026-11-05T04:05:27.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3488,
-   "ch": 0.12,
-   "asof": "2026-11-05T03:01:25.000Z"
+   "p": 1.3497,
+   "ch": 0.19,
+   "asof": "2026-11-05T04:05:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.915,
-   "ch": -0.26,
-   "asof": "2026-11-05T03:01:28.000Z"
+   "p": 157.889,
+   "ch": -0.28,
+   "asof": "2026-11-05T04:06:04.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7019,
-   "ch": 0.17,
-   "asof": "2026-11-05T03:01:25.000Z"
+   "p": 0.7018,
+   "ch": 0.16,
+   "asof": "2026-11-05T04:05:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3955,
-   "ch": -0.14,
-   "asof": "2026-11-05T03:01:29.000Z"
+   "p": 1.3949,
+   "ch": -0.19,
+   "asof": "2026-11-05T04:06:05.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8142,
-   "ch": -0.27,
-   "asof": "2026-11-05T03:01:28.000Z"
+   "p": 0.8138,
+   "ch": -0.32,
+   "asof": "2026-11-05T04:06:05.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80461.82,
-   "ch": 0.04,
-   "asof": "2026-11-05T03:01:25.000Z"
+   "p": 80368.32,
+   "ch": -0.07,
+   "asof": "2026-11-05T04:06:00.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2424.48,
-   "ch": 0.07,
-   "asof": "2026-11-05T03:01:27.000Z"
+   "p": 2418.44,
+   "ch": -0.18,
+   "asof": "2026-11-05T04:05:58.000Z"
   },
   {
    "s": "S&P 500",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4141.6,
-   "ch": 1.68,
-   "asof": "2026-11-05T02:51:28.000Z"
+   "p": 4153.2,
+   "ch": 1.97,
+   "asof": "2026-11-05T03:56:05.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 87.24,
-   "ch": -1,
-   "asof": "2026-11-05T02:51:30.000Z"
+   "p": 86.75,
+   "ch": -1.55,
+   "asof": "2026-11-05T03:56:04.000Z"
   },
   {
    "s": "USD/KES",
@@ -419,15 +419,15 @@
    "d": 2,
    "p": 129.83,
    "ch": 0,
-   "asof": "2026-11-05T02:51:43.000Z"
+   "asof": "2026-11-05T03:59:33.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.3284,
-   "ch": -0.51,
-   "asof": "2026-11-05T03:01:30.000Z"
+   "p": 16.3349,
+   "ch": -0.47,
+   "asof": "2026-11-05T04:06:05.000Z"
   },
   {
    "s": "USD/NGN",
@@ -435,23 +435,23 @@
    "d": 2,
    "p": 1344.8,
    "ch": 0,
-   "asof": "2026-11-05T02:51:43.000Z"
+   "asof": "2026-11-05T03:59:33.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 96.19,
-   "ch": 0.73,
-   "asof": "2026-11-05T03:01:28.000Z"
+   "p": 95.94,
+   "ch": 0.47,
+   "asof": "2026-11-05T04:05:59.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3046,
-   "ch": 0,
-   "asof": "2026-11-05T03:01:27.000Z"
+   "p": 1.306,
+   "ch": 0.11,
+   "asof": "2026-11-05T04:06:01.000Z"
   },
   {
    "s": "Apple",
@@ -481,9 +481,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.28,
-   "ch": 1.91,
-   "asof": "2026-11-05T02:51:26.000Z"
+   "p": 53.24,
+   "ch": 1.83,
+   "asof": "2026-11-05T03:55:44.000Z"
   }
  ],
  "news": [
@@ -525,9 +525,9 @@
   [
    "Stocks",
    "med",
-   "US Equity Futures Inch Higher as Investors Await Midterm Results",
+   "Wall Street Trading Desks Bet on US Stock Rally After Midterms",
    "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVzJXWTQ2RjFoeU9maDJNSE53U3o3WmdfeUFyUktDbzRuZGswVE44M1doYjh6d21BZEdGemVBVU4wclliR3ZST0hnZWMtcm9yTnhqUmRtc0NjNnB2NVdjSTBmRlFQbU44NlRYVVZZc1NlSklhci1PRjhSb1F2MWR5LXBULUNWSnpqN1NyZUh1RjBfdm1BajdjWGphYTIwMmpoUzQtcy1LN0Y1d0RuWjE2RG1GeUhSUQ?oc=5"
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMzhCVzhUY1o3N1hNS3pfWXJmcmJXNFhYMnl2SzNKSzVOMF91ZFNBaG1qZ2o3VXNJaW1uSlBBdkJNTzZlRWF6UlJvRlNIME9jYnZhSWRmTVF2SDRKNkRMNmNRVV80MVdxdThLNjRkN1o2cWJoeS0yZXpRYmFNM3RaV2psRUR2Qi1LMlQyM2p1SWtka1kyeVF1UXB3UnpGcWJfWUplanlBWDFpdWd4N2FXeTlFTQ?oc=5"
   ],
   [
    "Commodities",
