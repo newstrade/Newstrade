@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T09:13:47.860Z",
+ "updated": "2026-11-05T10:18:51.433Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,65 +313,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1247,
-   "ch": 0.11,
-   "asof": "2026-11-05T09:13:28.000Z"
+   "p": 1.1236,
+   "ch": 0.01,
+   "asof": "2026-11-05T10:18:29.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3475,
-   "ch": 0.02,
-   "asof": "2026-11-05T09:13:28.000Z"
+   "p": 1.3465,
+   "ch": -0.05,
+   "asof": "2026-11-05T10:18:29.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.225,
-   "ch": -0.06,
-   "asof": "2026-11-05T09:13:46.000Z"
+   "p": 158.313,
+   "ch": -0.01,
+   "asof": "2026-11-05T10:18:51.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.7016,
-   "ch": 0.13,
-   "asof": "2026-11-05T09:13:28.000Z"
+   "p": 0.7015,
+   "ch": 0.11,
+   "asof": "2026-11-05T10:17:29.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.395,
-   "ch": -0.18,
-   "asof": "2026-11-05T09:13:47.000Z"
+   "p": 1.3952,
+   "ch": -0.16,
+   "asof": "2026-11-05T10:18:51.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8156,
-   "ch": -0.1,
-   "asof": "2026-11-05T09:13:47.000Z"
+   "p": 0.8174,
+   "ch": 0.12,
+   "asof": "2026-11-05T10:18:50.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 80322.88,
-   "ch": -0.13,
-   "asof": "2026-11-05T09:13:42.000Z"
+   "p": 80354.01,
+   "ch": -0.09,
+   "asof": "2026-11-05T10:18:47.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2413.52,
-   "ch": -0.39,
-   "asof": "2026-11-05T09:13:45.000Z"
+   "p": 2417.32,
+   "ch": -0.23,
+   "asof": "2026-11-05T10:18:47.000Z"
   },
   {
    "s": "S&P 500",
@@ -393,25 +393,25 @@
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 53356.1,
+   "p": 53356.12,
    "ch": 3.03,
-   "asof": "2026-11-04T21:00:00.000Z"
+   "asof": "2026-11-04T21:51:20.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4137.9,
-   "ch": 1.59,
-   "asof": "2026-11-05T09:03:43.000Z"
+   "p": 4134.7,
+   "ch": 1.51,
+   "asof": "2026-11-05T10:08:46.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 88.07,
-   "ch": -0.06,
-   "asof": "2026-11-05T09:03:44.000Z"
+   "p": 88.6,
+   "ch": 0.54,
+   "asof": "2026-11-05T10:08:50.000Z"
   },
   {
    "s": "USD/KES",
@@ -425,9 +425,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.3584,
-   "ch": -0.33,
-   "asof": "2026-11-05T09:13:47.000Z"
+   "p": 16.3889,
+   "ch": -0.15,
+   "asof": "2026-11-05T10:18:51.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 96.49,
-   "ch": 1.04,
-   "asof": "2026-11-05T09:13:43.000Z"
+   "p": 96.76,
+   "ch": 1.33,
+   "asof": "2026-11-05T10:18:44.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.3158,
-   "ch": 0.86,
-   "asof": "2026-11-05T09:13:41.000Z"
+   "p": 1.3174,
+   "ch": 0.98,
+   "asof": "2026-11-05T10:18:44.000Z"
   },
   {
    "s": "Apple",
@@ -481,19 +481,12 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 52.845,
-   "ch": 1.08,
-   "asof": "2026-11-05T09:03:44.000Z"
+   "p": 52.73,
+   "ch": 0.86,
+   "asof": "2026-11-05T10:08:41.000Z"
   }
  ],
  "news": [
-  [
-   "Forex",
-   "high",
-   "Sterling set for seventh daily rise versus dollar ahead of BoE meeting",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTNfalU2RVJvYml2YmdyRE12dVFwZTZaQU5oOGJMeEZWOEFmSmxIZXU4ZThhRFJ5Tk9nbElLMGlfVjIzM0tzUlBIRlNPMWxYZVlLbEd6a1BaTFZWTjM4aEljSjZBaC14VVZtRUtzOWtXOE1mTXZ6TEZNaEQxUmxmUDZ0N3djeTZrQURDUnI0QzFybTRscWs2aWpfb2VFc192TkwwcllpeDlLS256dExvRg?oc=5"
-  ],
   [
    "Forex",
    "med",
@@ -502,11 +495,18 @@
    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVXlhbGhKc2YwSGFyMDY5MlR1eERYdl9OM1ZlbkstMUtCYnI3UUQ3cmdpVEpYcjFTaVlGSEZHaHZaYjNhQVhZbmJ1T2dKWW5rY1Mta0NxY0pTN1ZJQldKZDBGU0plbWhSSklwV3pQeld6M3Z0WkZ0WldsbDFKX0xjOTN3NHNQcDJPZERJcTdKeFlueVdZRFpzODhkMUwyNFI1VHJnTWJGaG52U002YkE4RlRrQlZKajQ?oc=5"
   ],
   [
+   "Forex",
+   "high",
+   "Sterling set for seventh daily rise versus dollar ahead of BoE meeting",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTNfalU2RVJvYml2YmdyRE12dVFwZTZaQU5oOGJMeEZWOEFmSmxIZXU4ZThhRFJ5Tk9nbElLMGlfVjIzM0tzUlBIRlNPMWxYZVlLbEd6a1BaTFZWTjM4aEljSjZBaC14VVZtRUtzOWtXOE1mTXZ6TEZNaEQxUmxmUDZ0N3djeTZrQURDUnI0QzFybTRscWs2aWpfb2VFc192TkwwcllpeDlLS256dExvRg?oc=5"
+  ],
+  [
    "Crypto",
    "med",
-   "Bitcoin Slips as Democratic Sweep Bets Threaten Crypto Agenda",
+   "A $6 Billion Hack Puts Crypto’s Wall Street Rebellion on Trial",
    "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNWg3aW5QeW04R2pKaV9WdFp4XzJZdkJnaEw1UEdLNGZINHJBZk5UYldBX1FsY1Z3eUxubmphN1hvQnJJNFdERkJOcjZPMXppclBsN2hOZGZxVUhMZGRydHYwSlVpTXcxekxDZzQ5OFVFS1h3czZwVzQ2VW94VDNLdWdsbm5heHIteUhDZ2RjaC1SWlFycGNJSklZZkVWbThkQjRJQlF5QjJfMEFNWVVLa19n?oc=5"
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxObzVnRVU4bVZrUEZlTVVJRUtRQk1ZTWRkQlRrX0RpZGItQ2VJZV91X2VCYUpBYTBHXzZoRDJNY25wQkgwMnZvOXdaTEp4Z0F4NU5ZUFdhYVpxSVZ5Q19pdGdIWTRQYUVtV2QyRkwyZ3dwSkVBTE5mdk9QX1NPSTFlR3ZoaXBDbGxoRTRoenNDSVJ6d3oxRGJmbVJhUE54LWRUdEc3eEIwaHZYUVJ5MHZIcVZR?oc=5"
   ],
   [
    "Crypto",
@@ -532,16 +532,16 @@
   [
    "Commodities",
    "med",
-   "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUY1eDVzNHZ6MmNpdWJ1aVE4MEk5azk5QlpXV3dHTDdTYzJUeGtnc0lUdWFRNHZaY0hiOEt0Z1hGTVBjVkgycGU4ZE90OEdRUlN4czVBcXV0S2Z0RXctRlNicG5UOTFEeGNkZTZtNlBlUjJSbWVrVl9qLUJST0x5cGt4T0t5SG9E0gGOAUFVX3lxTE9ZT2lFbGJEQWs5RkRuNG9xQTBJTVM3M0hqVHJfSkpiYVBIMl9oa2JmbWNtaFZfRnVQMC1RbU9NeHFqOG5icHZyYUlBa0FSMUg0dmJqcDlBdG04czRiVVlaZlFoNnFEWEJGNjBOX01UWFI0VUtJQXdSZzdzVS0xR2JOaHl3LW1YemRhdF82WHc?oc=5"
+   "Long-Term JGB Yields Fall After Oil Price Drops",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTER1bVlRUloyTWVBdTlQdUU1YXJuWkZubkNuUy1CdFBpQW5MN3F6RFQtWDZUOEtKZFFtTkF3NWZ5U3lra0hycFV2OGJPOE4wVXk5WHk2ZmpYQ2dOUHc2a1lrdHJ3eTNVT0ZJX0FqSmU4SlpKM3prd21vZkJCaTV5YzZWaVVuNWlPNXNFNQ?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Oil Extends Slide After Plunging 8% on Hopes to End US-Iran War",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQlB2Q1M3aHY0UjIwVUczU09aRnVsVDhTSDVncElSMGVwRDE0a3lPLUNXbVN0R25iZHZkOXRtMkg5QTZ5VFNTRi1uTDZfd3pfVlZqUFEyaHZ6R0RPSDltbmRRdWMxbC1JcEV4UGxiYmFESjJWb1QtSkhaNW5kWlF1WkJHenZDLXJZdjJDWjYxcGsxd1RXMHI3N0R1a0Q?oc=5"
+   "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUY1eDVzNHZ6MmNpdWJ1aVE4MEk5azk5QlpXV3dHTDdTYzJUeGtnc0lUdWFRNHZaY0hiOEt0Z1hGTVBjVkgycGU4ZE90OEdRUlN4czVBcXV0S2Z0RXctRlNicG5UOTFEeGNkZTZtNlBlUjJSbWVrVl9qLUJST0x5cGt4T0t5SG9E0gGOAUFVX3lxTE9ZT2lFbGJEQWs5RkRuNG9xQTBJTVM3M0hqVHJfSkpiYVBIMl9oa2JmbWNtaFZfRnVQMC1RbU9NeHFqOG5icHZyYUlBa0FSMUg0dmJqcDlBdG04czRiVVlaZlFoNnFEWEJGNjBOX01UWFI0VUtJQXdSZzdzVS0xR2JOaHl3LW1YemRhdF82WHc?oc=5"
   ]
  ]
 }
