@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T07:29:20.058Z",
+ "updated": "2026-11-06T09:09:06.026Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,65 +313,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1182,
-   "ch": -0.32,
-   "asof": "2026-11-06T07:28:26.000Z"
+   "p": 1.1181,
+   "ch": -0.33,
+   "asof": "2026-11-06T09:08:29.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3407,
-   "ch": -0.33,
-   "asof": "2026-11-06T07:28:26.000Z"
+   "p": 1.3392,
+   "ch": -0.45,
+   "asof": "2026-11-06T09:08:29.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.897,
-   "ch": 0.15,
-   "asof": "2026-11-06T07:29:19.000Z"
+   "p": 158.193,
+   "ch": 0.34,
+   "asof": "2026-11-06T09:09:05.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6871,
-   "ch": -0.88,
-   "asof": "2026-11-06T07:27:26.000Z"
+   "p": 0.6883,
+   "ch": -0.71,
+   "asof": "2026-11-06T09:07:28.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4058,
-   "ch": 0.31,
-   "asof": "2026-11-06T07:29:20.000Z"
+   "p": 1.4071,
+   "ch": 0.41,
+   "asof": "2026-11-06T09:09:06.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.817,
-   "ch": 0.12,
-   "asof": "2026-11-06T07:29:20.000Z"
+   "p": 0.8185,
+   "ch": 0.31,
+   "asof": "2026-11-06T09:09:05.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75239.14,
-   "ch": -0.98,
-   "asof": "2026-11-06T07:29:06.000Z"
+   "p": 75983.72,
+   "ch": 0,
+   "asof": "2026-11-06T09:09:04.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2212.96,
-   "ch": -0.99,
-   "asof": "2026-11-06T07:29:16.000Z"
+   "p": 2236.85,
+   "ch": 0.08,
+   "asof": "2026-11-06T09:08:55.000Z"
   },
   {
    "s": "S&P 500",
@@ -379,7 +379,7 @@
    "d": 2,
    "p": 7353.73,
    "ch": -4.36,
-   "asof": "2026-11-05T21:34:08.000Z"
+   "asof": "2026-11-05T21:00:00.000Z"
   },
   {
    "s": "Nasdaq",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4058.8,
-   "ch": -1.33,
-   "asof": "2026-11-06T07:19:12.000Z"
+   "p": 4084.1,
+   "ch": -0.71,
+   "asof": "2026-11-06T08:59:05.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 91.41,
-   "ch": 0.98,
-   "asof": "2026-11-06T07:19:15.000Z"
+   "p": 89.99,
+   "ch": -0.59,
+   "asof": "2026-11-06T08:59:04.000Z"
   },
   {
    "s": "USD/KES",
@@ -425,9 +425,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5537,
-   "ch": 0.81,
-   "asof": "2026-11-06T07:29:20.000Z"
+   "p": 16.4949,
+   "ch": 0.45,
+   "asof": "2026-11-06T09:09:07.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.25,
-   "ch": 0.09,
-   "asof": "2026-11-06T07:29:15.000Z"
+   "p": 90,
+   "ch": 0.93,
+   "asof": "2026-11-06T09:09:03.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1806,
-   "ch": -2.11,
-   "asof": "2026-11-06T07:29:20.000Z"
+   "p": 1.1949,
+   "ch": -0.93,
+   "asof": "2026-11-06T09:08:59.000Z"
   },
   {
    "s": "Apple",
@@ -481,9 +481,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 51.44,
-   "ch": -1.79,
-   "asof": "2026-11-06T07:19:09.000Z"
+   "p": 52.16,
+   "ch": -0.41,
+   "asof": "2026-11-06T08:59:04.000Z"
   }
  ],
  "news": [
@@ -497,9 +497,9 @@
   [
    "Forex",
    "med",
-   "Dollar lures bids for safety as AI rout grips Asian markets",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcTZYNGtkV0pONThjTHhjTkdYS0JYX1YtSlJISko4bVRPZDlUSzZaTmhRU0ZtQmtnZWFRQUkxRDhUWHR2akFsSkhSZmQxdVE4dURkRlJ4ekEtc1lFSTlTT3VaU1VRa0VKRjZFZkdZUWVpR3NNT1hfR1JhLVkxWHlLUDVZT04wMnJYTFMyX0haakxHcWdIdWg2SFVpNGF4eWFwNXV0eGZ3Q2ZDeTYzbGtyZXpGM05XNDVBb0U2dUtScEM?oc=5"
+   "Taiwan’s Currency Weakens Past 33 Per US Dollar on AI Jitters",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQXB1cFN4S0FZMFNHN21qX2dXdHAydHpGRzlZR0dYVldpdGMwWUcweXJfeUVVVnFNbkhSSzlwaE9qN1NRQkNhQy1aY2dJSTNDLWVpOGEtM0JxXzlnNEd3Rm5MTUdQYjdub3kzckxvQXVsUWFjYVBoenIxVnVqbjVhWWxYWlpWX1ZQdjJFZlp5U1Y0a25NTmNVS2FYd0ZrVEQ4ME9kX2JkTHp2VkhEeTZjVUJ3?oc=5"
   ],
   [
    "Crypto",
@@ -518,16 +518,16 @@
   [
    "Stocks",
    "med",
-   "Nasdaq set to confirm correction as AI spending worries mount",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQXp2Q3NVSS1qMGl2VFZhWTJxREN5ZHg3T2lNeE5MYjBGT3JGZUVwV2drT0V5S0h0a2Y3UUxfSl9nRWZrWlozR2RYNkRPRC05N0g0T2J4bEljZW1RdllqODEtb2dBYmk3NHFzNS0zMWRHenpON2lZbER1SDhZaWhDbnZWSmZ5cmRxbVduR0FWakFzQzFwZElyYVIwamdSdXhJYmhnbTREVQ?oc=5"
+   "Deepening Tech Selloff Pushes Nasdaq Toward Its Worst Month in Over a Year",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0dCXzNIVWRZZmZVTWM2U25pX18zb0RtZlIwYjd0RUpuYzdpRUJBdl9pT3pjQkVpa29KU043MjhLOWhaLTBkUGxFZHVIcFNzWkFKQXkyMUVUakJIVlo5X3lPTlJWMGgtNFc2WDd4OE5BNkY4UzNOdjRVTDU0ZjBHZUkybEd2RkVVbHB4c2RrSl92OW8?oc=5"
   ],
   [
    "Stocks",
-   "high",
-   "Global tech stocks plunge as US midterms add to AI slowdown fears",
-   "BBC",
-   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XdkJGRE8yWFZFWXBDYzA4WXRyM1doblZVak9PRjFMNGszT1NCSEx0UEQ1QWduQjlvZ1Bnd21qcEc5MDU3cjRxRXFtTV8xd3BPdURJaENhUDdUMms?oc=5"
+   "med",
+   "Nasdaq set to confirm correction as AI spending worries mount",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQXp2Q3NVSS1qMGl2VFZhWTJxREN5ZHg3T2lNeE5MYjBGT3JGZUVwV2drT0V5S0h0a2Y3UUxfSl9nRWZrWlozR2RYNkRPRC05N0g0T2J4bEljZW1RdllqODEtb2dBYmk3NHFzNS0zMWRHenpON2lZbER1SDhZaWhDbnZWSmZ5cmRxbVduR0FWakFzQzFwZElyYVIwamdSdXhJYmhnbTREVQ?oc=5"
   ],
   [
    "Commodities",
@@ -539,9 +539,9 @@
   [
    "Commodities",
    "med",
-   "As high oil prices curb demand, fresh signs of glut appear",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMipgFBVV95cUxQem82aUU3S0NZWXNNcXlreW9xS3J0UnpIcDNCWVdqS3NyclRxSUtWenpmMEhoNmp6amtNSG5ZYmpuMzc1TElxODVYTmVSZURrYjJsbVliVXlVSzNtM3J5TDBMNl9sQ0JSTmxKQ2RxVzc4RnMxX2lIZGp3Y3kwTFdrUndLZkFMN0JkN2xLTi02dDZjT0x1Wk0ySTMxZlpNZWRmX1F6ZDhR?oc=5"
+   "Brent Crude Climbs Above $100 as Middle East Oil Supply Risks Persist",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXo3c0pXbll5VVJ6eUlRbTJQZ0xLSnFISGlnVGRReWlBTnJYT2d5RVd5cTZmTnFkS0VoZ3h1cVNGOEhOMHUtMUlRU0hPMDhhTmtINTNHdC1JeVRlTExaSklrRWNvaHpMSERXOF9VRlRZTGh4YmZ4aWg3a2ctdlI1bkVsdUY4X0RDMElsTHpaOFN4VVE4YzBwRzVHRk0yamVxM2dJMmdVYlNSdVZoaGR6akhlUGU5WTlx?oc=5"
   ]
  ]
 }
