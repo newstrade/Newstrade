@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T03:00:25.766Z",
+ "updated": "2026-11-06T04:04:29.862Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,65 +313,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.121,
-   "ch": -0.07,
-   "asof": "2026-11-06T02:59:26.000Z"
+   "p": 1.1202,
+   "ch": -0.14,
+   "asof": "2026-11-06T04:04:27.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3442,
-   "ch": -0.07,
-   "asof": "2026-11-06T02:59:26.000Z"
+   "p": 1.3435,
+   "ch": -0.13,
+   "asof": "2026-11-06T04:04:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.846,
-   "ch": 0.12,
-   "asof": "2026-11-06T03:00:24.000Z"
+   "p": 157.79,
+   "ch": 0.09,
+   "asof": "2026-11-06T04:04:28.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6919,
-   "ch": -0.19,
-   "asof": "2026-11-06T02:59:26.000Z"
+   "p": 0.69,
+   "ch": -0.46,
+   "asof": "2026-11-06T04:03:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4031,
-   "ch": 0.12,
-   "asof": "2026-11-06T03:00:25.000Z"
+   "p": 1.4039,
+   "ch": 0.18,
+   "asof": "2026-11-06T04:04:30.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8171,
-   "ch": 0.13,
-   "asof": "2026-11-06T03:00:25.000Z"
+   "p": 0.8168,
+   "ch": 0.1,
+   "asof": "2026-11-06T04:04:30.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 76044.21,
-   "ch": 0.08,
-   "asof": "2026-11-06T03:00:23.000Z"
+   "p": 75619.01,
+   "ch": -0.48,
+   "asof": "2026-11-06T04:04:29.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2238.49,
-   "ch": 0.15,
-   "asof": "2026-11-06T03:00:21.000Z"
+   "p": 2225.27,
+   "ch": -0.44,
+   "asof": "2026-11-06T04:04:24.000Z"
   },
   {
    "s": "S&P 500",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4076.9,
-   "ch": -0.89,
-   "asof": "2026-11-06T02:50:24.000Z"
+   "p": 4051.5,
+   "ch": -1.51,
+   "asof": "2026-11-06T03:54:27.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 91.5,
-   "ch": 1.08,
-   "asof": "2026-11-06T02:50:13.000Z"
+   "p": 91.9,
+   "ch": 1.52,
+   "asof": "2026-11-06T03:54:28.000Z"
   },
   {
    "s": "USD/KES",
@@ -419,15 +419,15 @@
    "d": 2,
    "p": 129.85,
    "ch": 0,
-   "asof": "2026-11-06T02:49:35.000Z"
+   "asof": "2026-11-06T03:06:43.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5041,
-   "ch": 0.5,
-   "asof": "2026-11-06T03:00:26.000Z"
+   "p": 16.5247,
+   "ch": 0.63,
+   "asof": "2026-11-06T04:04:31.000Z"
   },
   {
    "s": "USD/NGN",
@@ -435,23 +435,23 @@
    "d": 2,
    "p": 1342.26,
    "ch": 0,
-   "asof": "2026-11-06T02:49:35.000Z"
+   "asof": "2026-11-06T03:06:43.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 90.17,
-   "ch": 1.12,
-   "asof": "2026-11-06T03:00:21.000Z"
+   "p": 89.36,
+   "ch": 0.21,
+   "asof": "2026-11-06T04:04:26.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.2142,
-   "ch": 0.67,
-   "asof": "2026-11-06T03:00:25.000Z"
+   "p": 1.2028,
+   "ch": -0.27,
+   "asof": "2026-11-06T04:04:25.000Z"
   },
   {
    "s": "Apple",
@@ -481,25 +481,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 52.02,
-   "ch": -0.68,
-   "asof": "2026-11-06T02:50:23.000Z"
+   "p": 51.495,
+   "ch": -1.68,
+   "asof": "2026-11-06T03:54:27.000Z"
   }
  ],
  "news": [
   [
    "Forex",
-   "med",
-   "Sweden’s Central Bank Latest to Lift Rates in Response to War",
+   "high",
+   "Thailand’s Inflation Accelerates Past Central Bank’s Target",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM3VNMDJudWVWdzRhaUFpVkJrYW9fZjBpcDd5VnVPUFRWalVHT0JCc3hoYmFkNlVtR0o5dlNLbVVxakF1aVdJZF9MbnczS0p0NFlTMGI1YU5oYW5icy1CT01NeTdoS1pzS0RrVG84R3Y5RElhTE9BeHVjb1VEakw1SHJ3VHRVLTlHYUdPMDFmZktReEdBc0RaakZyb21VbW1TOVhiTUFUd1ExNGJIcEE?oc=5"
+   "https://news.google.com/rss/articles/CBMirwFBVV95cUxQejNQVFdDVktVSTZlMTJodk5UazN3Q25MVDVZdW1zTmVvWGgxNDdUUzQ3REJmVmt1MnpoQ19NdWR1VWJBWktmMjc3OHlmLWtCeUFBTVhCYjZDRElnVXp0R2pPTWtKaVFGSUpCVGYwdExnZlpkLWFaUWxzdzA4U0pmbnhrSzFWemtxU1dVcTZXdllrVzN6SFZzV3NvUnNzV1NjdG1PUHJfWm5EMGcwV0NF?oc=5"
   ],
   [
    "Forex",
    "med",
-   "Yen Rises on Haven Demand as CIBC, Nomura See Room for More Gain",
+   "Taiwan’s Currency Weakens Past 33 Per US Dollar on AI Jitters",
    "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNk44MXhnVVUyWHo0M1o5Yk9ORHJnQ0xRajQxdV96UkR5TC1vMGUwLVJjRGlWQ29uRXFYdG1neFJIdXpYNksxd2JKRlNzYmJCb2RkaWZnMVlUUV84TUFLMGt2N0pnbElZZjNOTXJyVTN6SzRwWU04UTBEZUFEZnMzSmxvalNUX0hnSVZBMG1obkdyLTdZWm1idWRWTFNlOGFvS2g1R1BtNUhrUm9Ia3JMaE0zUHQ?oc=5"
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQXB1cFN4S0FZMFNHN21qX2dXdHAydHpGRzlZR0dYVldpdGMwWUcweXJfeUVVVnFNbkhSSzlwaE9qN1NRQkNhQy1aY2dJSTNDLWVpOGEtM0JxXzlnNEd3Rm5MTUdQYjdub3kzckxvQXVsUWFjYVBoenIxVnVqbjVhWWxYWlpWX1ZQdjJFZlp5U1Y0a25NTmNVS2FYd0ZrVEQ4ME9kX2JkTHp2VkhEeTZjVUJ3?oc=5"
   ],
   [
    "Crypto",
