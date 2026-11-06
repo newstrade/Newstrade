@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T12:04:17.496Z",
+ "updated": "2026-11-06T13:19:56.446Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,25 +313,25 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1178,
-   "ch": -0.36,
-   "asof": "2026-11-06T12:03:25.000Z"
+   "p": 1.1167,
+   "ch": -0.45,
+   "asof": "2026-11-06T13:19:27.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3399,
-   "ch": -0.39,
-   "asof": "2026-11-06T12:03:25.000Z"
+   "p": 1.3389,
+   "ch": -0.47,
+   "asof": "2026-11-06T13:19:27.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.325,
+   "p": 158.327,
    "ch": 0.43,
-   "asof": "2026-11-06T12:04:17.000Z"
+   "asof": "2026-11-06T13:19:55.000Z"
   },
   {
    "s": "AUD/USD",
@@ -339,39 +339,39 @@
    "d": 4,
    "p": 0.6878,
    "ch": -0.78,
-   "asof": "2026-11-06T12:03:25.000Z"
+   "asof": "2026-11-06T13:19:27.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4062,
-   "ch": 0.34,
-   "asof": "2026-11-06T12:04:17.000Z"
+   "p": 1.4064,
+   "ch": 0.36,
+   "asof": "2026-11-06T13:19:55.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8185,
-   "ch": 0.31,
-   "asof": "2026-11-06T12:04:17.000Z"
+   "p": 0.819,
+   "ch": 0.37,
+   "asof": "2026-11-06T13:19:56.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 76040.34,
-   "ch": 0.08,
-   "asof": "2026-11-06T12:04:12.000Z"
+   "p": 75849.99,
+   "ch": -0.17,
+   "asof": "2026-11-06T13:19:53.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2239.49,
-   "ch": 0.19,
-   "asof": "2026-11-06T12:04:15.000Z"
+   "p": 2238.73,
+   "ch": 0.16,
+   "asof": "2026-11-06T13:19:54.000Z"
   },
   {
    "s": "S&P 500",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4075.1,
-   "ch": -0.93,
-   "asof": "2026-11-06T11:54:11.000Z"
+   "p": 4068.4,
+   "ch": -1.1,
+   "asof": "2026-11-06T13:09:53.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 90.82,
-   "ch": 0.33,
-   "asof": "2026-11-06T11:54:15.000Z"
+   "p": 90.64,
+   "ch": 0.13,
+   "asof": "2026-11-06T13:09:50.000Z"
   },
   {
    "s": "USD/KES",
@@ -425,9 +425,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5198,
-   "ch": 0.6,
-   "asof": "2026-11-06T12:04:18.000Z"
+   "p": 16.5277,
+   "ch": 0.65,
+   "asof": "2026-11-06T13:19:57.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 90.41,
-   "ch": 1.39,
-   "asof": "2026-11-06T12:04:10.000Z"
+   "p": 90.07,
+   "ch": 1.01,
+   "asof": "2026-11-06T13:19:50.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1978,
-   "ch": -0.69,
-   "asof": "2026-11-06T12:04:11.000Z"
+   "p": 1.1851,
+   "ch": -1.74,
+   "asof": "2026-11-06T13:19:50.000Z"
   },
   {
    "s": "Apple",
@@ -481,39 +481,39 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 52.135,
-   "ch": -0.46,
-   "asof": "2026-11-06T11:54:01.000Z"
+   "p": 52.08,
+   "ch": -0.57,
+   "asof": "2026-11-06T13:09:55.000Z"
   }
  ],
  "news": [
   [
    "Forex",
-   "high",
-   "Angola’s Central Bank Expects Single-Digit Inflation to Last",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZXNNSDdNcEVZMXhQTlNkajZFSmJwX3JNbFktYnZhZnB2WmJMTkhydEJ2bng2YXcyMGY2SG5IM3dzR1hlLVlaZWRNMkt1TldVLUVuUFk3RVYxZlI3ZlNfUzB2QUdkSV9nUnJzVG9LdU42QU1QcUtDXzVfTFY5WndlaE9XVk5XUGRnLXkzVHdnWWlPTTNYODBIZkdNVmY1WVZaOVRyQzROZWIxT0dldENpMw?oc=5"
+   "med",
+   "Sterling dips as stock rout boosts dollar, outweighs rate rise boost",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV0VpLXotVnNwVDBRRngtVXNuRGw0TUU5d1VCYXNTRm9tMVZwd0pZb01Vd0VtRXMtWVVaMjRNOGwtVmQ1VkpycjVYQUZNRDVsN1hLRmRPaVlUcmMyLW0wUVZwenlsR21VNFNzeUUtZ2FxQ1FsWWZlV0lsVHNXQ0NsVjhpWDRfVmhxZUcxdXNrQTN0SGhZVGoza2x4R2FIVWdTci1FRUNZZ2Q2ZHMyR0E?oc=5"
   ],
   [
    "Forex",
-   "high",
-   "Norway’s Central Bank Holds Key Interest Rate, Signals Readiness to Tighten",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ0E0NnMxbFZGWXZlNnN5bW5lZ1JHdXlHaF82aG5XcjBFQnhVR3hZdVpTT1NoWGgzbmhqdXJpak51SXJWQVowNjMtOTZCUjdfaFhjLTlEeVE4SldKb1FNM0RXQUlHOTlxaTkxYnkwUjlRRkNxMVNOS1hfX3BESVlsWnB2UEpWejU2TnJJVXk4azkyc3IzSVNraFMwNUxKbGV2Z3lUNTJPY282NGhjTDRyU1k1dU90TnNUb1RoV3dn?oc=5"
+   "med",
+   "Taiwan’s Currency Weakens Past 33 Per US Dollar on AI Jitters",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQXB1cFN4S0FZMFNHN21qX2dXdHAydHpGRzlZR0dYVldpdGMwWUcweXJfeUVVVnFNbkhSSzlwaE9qN1NRQkNhQy1aY2dJSTNDLWVpOGEtM0JxXzlnNEd3Rm5MTUdQYjdub3kzckxvQXVsUWFjYVBoenIxVnVqbjVhWWxYWlpWX1ZQdjJFZlp5U1Y0a25NTmNVS2FYd0ZrVEQ4ME9kX2JkTHp2VkhEeTZjVUJ3?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "META_TITLE_QUOTE",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Hb1I1SUt3MWw0X01vaXRWc1JzajJ2QjJQcEFaenhWM2ZhM0lEZ1hSalpsMDFKVF9NUkdGUG1mWjAtb0ktbTFCQURqNE5MNXFCTHc?oc=5"
+   "Current price of Ethereum for Nov. 6, 2026",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DdVBIZ3VVMHVYWE5meG9tVUpNTkJYdFo0MHczSkhFWGkySFgxc3BfRkwtMlZwUWdwQXZURW1idXEtWmNKMlZKSDR3dGpULVc1YTZHTzFCS19zRWFNcE9JaXRVbmZkdWM?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdF9qRWk2RGF2X29PZXdKaWpYa19Od1J0WTBUSS1yQ0NlOWU3d0JDYVhGT2hWWm5VU2hqR08wa0FKTk4zUG1FNE9QcGJBdDVORVcxSHRMNDZhb3VUYWtWblFVVGxueFN0NnZaZ3A5UmJsQkg4NHpjU2hhVEZpUk40d2dSSWdBb2k5dkpCdjc4NFpjWGZaZEVjbXRGRGJuMWNLSWZEQ2YwblFHcGRjYzFXelZuLW9ERzhlSWtvWA?oc=5"
+   "Bitcoin Selloff Eases as Investors Explore Cautious Recovery",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxPanI5WVpaVXdYVDM4dVdieTFHSnFjcU9vLUhPMk1velVJMUFZdHdzUjB1WGJMYTlkeVRaVEJVeHdSd0tJVU1IUVpsZ3JReUxORTBLVlFzSGo5cjU2R1dMemRhcWNHbTNfV29oUEFQYldxaTB0UmltbFpsVy1BX1JlV1l2MjByb3RxQVNyTzcwdmp4NDM4UHhrZW9odWVlVmZxX3VuWkxLNVJNRmdPY1gtbA?oc=5"
   ],
   [
    "Stocks",
