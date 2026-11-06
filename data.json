@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T17:03:22.627Z",
+ "updated": "2026-11-06T17:56:19.531Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,105 +313,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1157,
-   "ch": -0.54,
-   "asof": "2026-11-06T17:02:27.000Z"
+   "p": 1.1147,
+   "ch": -0.63,
+   "asof": "2026-11-06T17:55:28.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3371,
-   "ch": -0.6,
-   "asof": "2026-11-06T17:02:27.000Z"
+   "p": 1.3353,
+   "ch": -0.74,
+   "asof": "2026-11-06T17:55:28.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.217,
-   "ch": 0.36,
-   "asof": "2026-11-06T17:03:21.000Z"
+   "p": 158.198,
+   "ch": 0.35,
+   "asof": "2026-11-06T17:56:19.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6876,
-   "ch": -0.81,
-   "asof": "2026-11-06T17:01:27.000Z"
+   "p": 0.6862,
+   "ch": -1.01,
+   "asof": "2026-11-06T17:55:28.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4111,
-   "ch": 0.69,
-   "asof": "2026-11-06T17:03:22.000Z"
+   "p": 1.4127,
+   "ch": 0.81,
+   "asof": "2026-11-06T17:56:19.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8191,
-   "ch": 0.38,
-   "asof": "2026-11-06T17:03:22.000Z"
+   "p": 0.8201,
+   "ch": 0.5,
+   "asof": "2026-11-06T17:56:20.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75809.44,
-   "ch": -0.23,
-   "asof": "2026-11-06T17:03:20.000Z"
+   "p": 75555.27,
+   "ch": -0.56,
+   "asof": "2026-11-06T17:56:14.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2228.36,
-   "ch": -0.3,
-   "asof": "2026-11-06T17:03:21.000Z"
+   "p": 2220.88,
+   "ch": -0.64,
+   "asof": "2026-11-06T17:56:18.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7414.79,
-   "ch": 0.83,
-   "asof": "2026-11-06T17:03:21.000Z"
+   "p": 7386.03,
+   "ch": 0.44,
+   "asof": "2026-11-06T17:56:19.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 24689.809,
-   "ch": 1.54,
-   "asof": "2026-11-06T17:03:22.000Z"
+   "p": 24553.92,
+   "ch": 0.98,
+   "asof": "2026-11-06T17:56:18.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 51532.91,
-   "ch": 0.02,
-   "asof": "2026-11-06T17:03:22.000Z"
+   "p": 51442.48,
+   "ch": -0.16,
+   "asof": "2026-11-06T17:56:14.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4073.3,
-   "ch": -0.98,
-   "asof": "2026-11-06T16:53:18.000Z"
+   "p": 4066.4,
+   "ch": -1.15,
+   "asof": "2026-11-06T17:46:17.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 90.16,
-   "ch": -0.4,
-   "asof": "2026-11-06T16:53:19.000Z"
+   "p": 90.14,
+   "ch": -0.42,
+   "asof": "2026-11-06T17:46:17.000Z"
   },
   {
    "s": "USD/KES",
@@ -419,15 +419,15 @@
    "d": 2,
    "p": 129.81,
    "ch": -0.03,
-   "asof": "2026-11-06T15:57:55.000Z"
+   "asof": "2026-11-06T17:13:29.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5385,
-   "ch": 0.71,
-   "asof": "2026-11-06T17:03:22.000Z"
+   "p": 16.5439,
+   "ch": 0.75,
+   "asof": "2026-11-06T17:56:21.000Z"
   },
   {
    "s": "USD/NGN",
@@ -435,55 +435,55 @@
    "d": 2,
    "p": 1345.99,
    "ch": 0.28,
-   "asof": "2026-11-06T15:57:54.000Z"
+   "asof": "2026-11-06T17:13:29.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 90.39,
-   "ch": 1.37,
-   "asof": "2026-11-06T17:03:20.000Z"
+   "p": 89.75,
+   "ch": 0.65,
+   "asof": "2026-11-06T17:56:18.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1928,
-   "ch": -1.1,
-   "asof": "2026-11-06T17:03:19.000Z"
+   "p": 1.1823,
+   "ch": -1.97,
+   "asof": "2026-11-06T17:56:13.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 343.815,
-   "ch": -0.1,
-   "asof": "2026-11-06T17:03:21.000Z"
+   "p": 343.762,
+   "ch": -0.12,
+   "asof": "2026-11-06T17:56:20.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 360.655,
-   "ch": 4.94,
-   "asof": "2026-11-06T17:03:22.000Z"
+   "p": 357.71,
+   "ch": 4.08,
+   "asof": "2026-11-06T17:56:20.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 187.97,
-   "ch": 3.51,
-   "asof": "2026-11-06T17:03:22.000Z"
+   "p": 185.775,
+   "ch": 2.3,
+   "asof": "2026-11-06T17:56:21.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 52.105,
-   "ch": -0.52,
-   "asof": "2026-11-06T16:53:17.000Z"
+   "p": 51.825,
+   "ch": -1.05,
+   "asof": "2026-11-06T17:46:20.000Z"
   }
  ],
  "news": [
@@ -496,10 +496,10 @@
   ],
   [
    "Forex",
-   "high",
-   "Angola’s Central Bank Expects Single-Digit Inflation to Last",
+   "med",
+   "Taiwan’s Currency Weakens Past 33 Per US Dollar on AI Jitters",
    "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZXNNSDdNcEVZMXhQTlNkajZFSmJwX3JNbFktYnZhZnB2WmJMTkhydEJ2bng2YXcyMGY2SG5IM3dzR1hlLVlaZWRNMkt1TldVLUVuUFk3RVYxZlI3ZlNfUzB2QUdkSV9nUnJzVG9LdU42QU1QcUtDXzVfTFY5WndlaE9XVk5XUGRnLXkzVHdnWWlPTTNYODBIZkdNVmY1WVZaOVRyQzROZWIxT0dldENpMw?oc=5"
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQXB1cFN4S0FZMFNHN21qX2dXdHAydHpGRzlZR0dYVldpdGMwWUcweXJfeUVVVnFNbkhSSzlwaE9qN1NRQkNhQy1aY2dJSTNDLWVpOGEtM0JxXzlnNEd3Rm5MTUdQYjdub3kzckxvQXVsUWFjYVBoenIxVnVqbjVhWWxYWlpWX1ZQdjJFZlp5U1Y0a25NTmNVS2FYd0ZrVEQ4ME9kX2JkTHp2VkhEeTZjVUJ3?oc=5"
   ],
   [
    "Crypto",
@@ -532,16 +532,16 @@
   [
    "Commodities",
    "med",
-   "Oil Slides Below $100 a Barrel, With Focus on Iran Outlook After U.S. Midterms",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXo3c0pXbll5VVJ6eUlRbTJQZ0xLSnFISGlnVGRReWlBTnJYT2d5RVd5cTZmTnFkS0VoZ3h1cVNGOEhOMHUtMUlRU0hPMDhhTmtINTNHdC1JeVRlTExaSklrRWNvaHpMSERXOF9VRlRZTGh4YmZ4aWg3a2ctdlI1bkVsdUY4X0RDMElsTHpaOFN4VVE4YzBwRzVHRk0yamVxM2dJMmdVYlNSdVZoaGR6akhlUGU5WTlx?oc=5"
+   "Oil prices set for sharp weekly fall after midterm elections as investors weigh Iran conflict risk",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQW9uWnVUd0hLODVnWG1oa29OUEJuQlFjLXNlMjhyZDdrNGl5T1MxRTJDQXJ0TUJNbXh4MDhaYk1DeUM2bHh1b3RsNWZ3Sm1zT05udHZJQ3JzWS16RXd3NjR0Qmt5UWtPQnRMbE5MWdIBdEFVX3lxTE9DMzBrTllWWDUtQmdHLV9fR0hwU21fcllTNWZ2bnZTRDlTNUthbmRnWk83V1NMYVZ3eTZZSl8tZnh5NGNGanN5VEtfYVIza0huQnR3S3NVRTl5bkpzaGF0R0d1LXdCcURLVlJYWHRwS2ljS2Uz?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Oil prices set for sharp weekly fall after midterm elections as investors weigh Iran conflict risk",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQW9uWnVUd0hLODVnWG1oa29OUEJuQlFjLXNlMjhyZDdrNGl5T1MxRTJDQXJ0TUJNbXh4MDhaYk1DeUM2bHh1b3RsNWZ3Sm1zT05udHZJQ3JzWS16RXd3NjR0Qmt5UWtPQnRMbE5MWdIBdEFVX3lxTE9DMzBrTllWWDUtQmdHLV9fR0hwU21fcllTNWZ2bnZTRDlTNUthbmRnWk83V1NMYVZ3eTZZSl8tZnh5NGNGanN5VEtfYVIza0huQnR3S3NVRTl5bkpzaGF0R0d1LXdCcURLVlJYWHRwS2ljS2Uz?oc=5"
+   "Oil Slides Below $100 a Barrel, With Focus on Iran Outlook After U.S. Midterms",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXo3c0pXbll5VVJ6eUlRbTJQZ0xLSnFISGlnVGRReWlBTnJYT2d5RVd5cTZmTnFkS0VoZ3h1cVNGOEhOMHUtMUlRU0hPMDhhTmtINTNHdC1JeVRlTExaSklrRWNvaHpMSERXOF9VRlRZTGh4YmZ4aWg3a2ctdlI1bkVsdUY4X0RDMElsTHpaOFN4VVE4YzBwRzVHRk0yamVxM2dJMmdVYlNSdVZoaGR6akhlUGU5WTlx?oc=5"
   ]
  ]
 }
