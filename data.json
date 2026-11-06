@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T06:11:49.010Z",
+ "updated": "2026-11-06T07:29:20.058Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,65 +313,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1202,
-   "ch": -0.14,
-   "asof": "2026-11-06T06:11:25.000Z"
+   "p": 1.1182,
+   "ch": -0.32,
+   "asof": "2026-11-06T07:28:26.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3425,
-   "ch": -0.2,
-   "asof": "2026-11-06T06:11:25.000Z"
+   "p": 1.3407,
+   "ch": -0.33,
+   "asof": "2026-11-06T07:28:26.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.807,
-   "ch": 0.1,
-   "asof": "2026-11-06T06:11:49.000Z"
+   "p": 157.897,
+   "ch": 0.15,
+   "asof": "2026-11-06T07:29:19.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6884,
-   "ch": -0.69,
-   "asof": "2026-11-06T06:11:25.000Z"
+   "p": 0.6871,
+   "ch": -0.88,
+   "asof": "2026-11-06T07:27:26.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4045,
-   "ch": 0.22,
-   "asof": "2026-11-06T06:11:47.000Z"
+   "p": 1.4058,
+   "ch": 0.31,
+   "asof": "2026-11-06T07:29:20.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8162,
-   "ch": 0.02,
-   "asof": "2026-11-06T06:11:48.000Z"
+   "p": 0.817,
+   "ch": 0.12,
+   "asof": "2026-11-06T07:29:20.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75360.24,
-   "ch": -0.82,
-   "asof": "2026-11-06T06:11:44.000Z"
+   "p": 75239.14,
+   "ch": -0.98,
+   "asof": "2026-11-06T07:29:06.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2215.94,
-   "ch": -0.86,
-   "asof": "2026-11-06T06:11:41.000Z"
+   "p": 2212.96,
+   "ch": -0.99,
+   "asof": "2026-11-06T07:29:16.000Z"
   },
   {
    "s": "S&P 500",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4051.7,
-   "ch": -1.5,
-   "asof": "2026-11-06T06:01:46.000Z"
+   "p": 4058.8,
+   "ch": -1.33,
+   "asof": "2026-11-06T07:19:12.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 91.85,
-   "ch": 1.47,
-   "asof": "2026-11-06T06:01:44.000Z"
+   "p": 91.41,
+   "ch": 0.98,
+   "asof": "2026-11-06T07:19:15.000Z"
   },
   {
    "s": "USD/KES",
@@ -419,15 +419,15 @@
    "d": 2,
    "p": 129.85,
    "ch": 0,
-   "asof": "2026-11-06T03:06:43.000Z"
+   "asof": "2026-11-06T06:26:51.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5244,
-   "ch": 0.63,
-   "asof": "2026-11-06T06:11:49.000Z"
+   "p": 16.5537,
+   "ch": 0.81,
+   "asof": "2026-11-06T07:29:20.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.07,
-   "ch": -0.11,
-   "asof": "2026-11-06T06:11:45.000Z"
+   "p": 89.25,
+   "ch": 0.09,
+   "asof": "2026-11-06T07:29:15.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1901,
-   "ch": -1.33,
-   "asof": "2026-11-06T06:11:45.000Z"
+   "p": 1.1806,
+   "ch": -2.11,
+   "asof": "2026-11-06T07:29:20.000Z"
   },
   {
    "s": "Apple",
@@ -481,25 +481,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 51.28,
-   "ch": -2.09,
-   "asof": "2026-11-06T06:01:47.000Z"
+   "p": 51.44,
+   "ch": -1.79,
+   "asof": "2026-11-06T07:19:09.000Z"
   }
  ],
  "news": [
+  [
+   "Forex",
+   "high",
+   "Thailand’s Inflation Accelerates Past Central Bank’s Target",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMirwFBVV95cUxQejNQVFdDVktVSTZlMTJodk5UazN3Q25MVDVZdW1zTmVvWGgxNDdUUzQ3REJmVmt1MnpoQ19NdWR1VWJBWktmMjc3OHlmLWtCeUFBTVhCYjZDRElnVXp0R2pPTWtKaVFGSUpCVGYwdExnZlpkLWFaUWxzdzA4U0pmbnhrSzFWemtxU1dVcTZXdllrVzN6SFZzV3NvUnNzV1NjdG1PUHJfWm5EMGcwV0NF?oc=5"
+  ],
   [
    "Forex",
    "med",
    "Dollar lures bids for safety as AI rout grips Asian markets",
    "Reuters",
    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcTZYNGtkV0pONThjTHhjTkdYS0JYX1YtSlJISko4bVRPZDlUSzZaTmhRU0ZtQmtnZWFRQUkxRDhUWHR2akFsSkhSZmQxdVE4dURkRlJ4ekEtc1lFSTlTT3VaU1VRa0VKRjZFZkdZUWVpR3NNT1hfR1JhLVkxWHlLUDVZT04wMnJYTFMyX0haakxHcWdIdWg2SFVpNGF4eWFwNXV0eGZ3Q2ZDeTYzbGtyZXpGM05XNDVBb0U2dUtScEM?oc=5"
-  ],
-  [
-   "Forex",
-   "med",
-   "Taiwan’s Currency Weakens Past 33 Per US Dollar on AI Jitters",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQXB1cFN4S0FZMFNHN21qX2dXdHAydHpGRzlZR0dYVldpdGMwWUcweXJfeUVVVnFNbkhSSzlwaE9qN1NRQkNhQy1aY2dJSTNDLWVpOGEtM0JxXzlnNEd3Rm5MTUdQYjdub3kzckxvQXVsUWFjYVBoenIxVnVqbjVhWWxYWlpWX1ZQdjJFZlp5U1Y0a25NTmNVS2FYd0ZrVEQ4ME9kX2JkTHp2VkhEeTZjVUJ3?oc=5"
   ],
   [
    "Crypto",
