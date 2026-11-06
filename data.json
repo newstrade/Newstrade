@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T22:53:10.870Z",
+ "updated": "2026-11-06T23:49:01.173Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75834.87,
-   "ch": -0.19,
-   "asof": "2026-11-06T22:53:07.000Z"
+   "p": 75877.62,
+   "ch": -0.14,
+   "asof": "2026-11-06T23:48:59.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2236.38,
-   "ch": 0.05,
-   "asof": "2026-11-06T22:53:07.000Z"
+   "p": 2237.99,
+   "ch": 0.13,
+   "asof": "2026-11-06T23:48:59.000Z"
   },
   {
    "s": "S&P 500",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 90.05,
-   "ch": 0.99,
-   "asof": "2026-11-06T22:53:06.000Z"
+   "p": 90.18,
+   "ch": 1.13,
+   "asof": "2026-11-06T23:49:00.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1758,
-   "ch": -2.51,
-   "asof": "2026-11-06T22:53:06.000Z"
+   "p": 1.1788,
+   "ch": -2.26,
+   "asof": "2026-11-06T23:48:56.000Z"
   },
   {
    "s": "Apple",
@@ -525,9 +525,16 @@
   [
    "Stocks",
    "med",
-   "Deepening Tech Selloff Pushes Nasdaq Toward Its Worst Month in Over a Year",
+   "Wall Street Gets $2.5 Trillion AI Reality Check With Historic Rout of Tech Stocks",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0dCXzNIVWRZZmZVTWM2U25pX18zb0RtZlIwYjd0RUpuYzdpRUJBdl9pT3pjQkVpa29KU043MjhLOWhaLTBkUGxFZHVIcFNzWkFKQXkyMUVUakJIVlo5X3lPTlJWMGgtNFc2WDd4OE5BNkY4UzNOdjRVTDU0ZjBHZUkybEd2RkVVbHB4c2RrSl92OW8?oc=5"
+   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVjhNSkxWaHNDNkkxUE51NVdvLXhyVzJ5ZGRmUHNrSUlNcG05TXRBZ2JVV3RPWk45RUxySTlZME9BRklSTFBTTzJUX294eHF5MXRkeGRMejl4SmY2MFJCckxRcmZnWXVoYnV5ang4VDZmenBqbU1Ld0NKSWIyMGdDOUxZaVhUWFVfRzg1eHlwbnk3OENMVFVybkVxc3k0b1ExMlY0WVdoSGFSdGFPclpsdWFTUHdfaVN6cnJaRUo4WFVEUQ?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
+   "Kitco",
+   "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5"
   ],
   [
    "Commodities",
@@ -535,13 +542,6 @@
    "Oil Futures Slide As Market Holds Out Hopes for Middle East Diplomacy",
    "WSJ",
    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXo3c0pXbll5VVJ6eUlRbTJQZ0xLSnFISGlnVGRReWlBTnJYT2d5RVd5cTZmTnFkS0VoZ3h1cVNGOEhOMHUtMUlRU0hPMDhhTmtINTNHdC1JeVRlTExaSklrRWNvaHpMSERXOF9VRlRZTGh4YmZ4aWg3a2ctdlI1bkVsdUY4X0RDMElsTHpaOFN4VVE4YzBwRzVHRk0yamVxM2dJMmdVYlNSdVZoaGR6akhlUGU5WTlx?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQW9uWnVUd0hLODVnWG1oa29OUEJuQlFjLXNlMjhyZDdrNGl5T1MxRTJDQXJ0TUJNbXh4MDhaYk1DeUM2bHh1b3RsNWZ3Sm1zT05udHZJQ3JzWS16RXd3NjR0Qmt5UWtPQnRMbE5MWdIBdEFVX3lxTE9DMzBrTllWWDUtQmdHLV9fR0hwU21fcllTNWZ2bnZTRDlTNUthbmRnWk83V1NMYVZ3eTZZSl8tZnh5NGNGanN5VEtfYVIza0huQnR3S3NVRTl5bkpzaGF0R0d1LXdCcURLVlJYWHRwS2ljS2Uz?oc=5"
   ]
  ]
 }
