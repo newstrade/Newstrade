@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T11:15:15.787Z",
+ "updated": "2026-11-06T12:04:17.496Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,65 +313,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1177,
-   "ch": -0.37,
-   "asof": "2026-11-06T11:14:29.000Z"
+   "p": 1.1178,
+   "ch": -0.36,
+   "asof": "2026-11-06T12:03:25.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3395,
-   "ch": -0.42,
-   "asof": "2026-11-06T11:14:29.000Z"
+   "p": 1.3399,
+   "ch": -0.39,
+   "asof": "2026-11-06T12:03:25.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.231,
-   "ch": 0.37,
-   "asof": "2026-11-06T11:15:14.000Z"
+   "p": 158.325,
+   "ch": 0.43,
+   "asof": "2026-11-06T12:04:17.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6877,
-   "ch": -0.79,
-   "asof": "2026-11-06T11:13:29.000Z"
+   "p": 0.6878,
+   "ch": -0.78,
+   "asof": "2026-11-06T12:03:25.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4064,
-   "ch": 0.36,
-   "asof": "2026-11-06T11:15:15.000Z"
+   "p": 1.4062,
+   "ch": 0.34,
+   "asof": "2026-11-06T12:04:17.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8179,
-   "ch": 0.23,
-   "asof": "2026-11-06T11:15:14.000Z"
+   "p": 0.8185,
+   "ch": 0.31,
+   "asof": "2026-11-06T12:04:17.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75895.57,
-   "ch": -0.11,
-   "asof": "2026-11-06T11:15:11.000Z"
+   "p": 76040.34,
+   "ch": 0.08,
+   "asof": "2026-11-06T12:04:12.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2233.09,
-   "ch": -0.09,
-   "asof": "2026-11-06T11:15:15.000Z"
+   "p": 2239.49,
+   "ch": 0.19,
+   "asof": "2026-11-06T12:04:15.000Z"
   },
   {
    "s": "S&P 500",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4074,
-   "ch": -0.96,
-   "asof": "2026-11-06T11:05:00.000Z"
+   "p": 4075.1,
+   "ch": -0.93,
+   "asof": "2026-11-06T11:54:11.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 90.66,
-   "ch": 0.15,
-   "asof": "2026-11-06T11:05:10.000Z"
+   "p": 90.82,
+   "ch": 0.33,
+   "asof": "2026-11-06T11:54:15.000Z"
   },
   {
    "s": "USD/KES",
@@ -425,9 +425,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5303,
-   "ch": 0.66,
-   "asof": "2026-11-06T11:15:15.000Z"
+   "p": 16.5198,
+   "ch": 0.6,
+   "asof": "2026-11-06T12:04:18.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.94,
-   "ch": 0.86,
-   "asof": "2026-11-06T11:15:10.000Z"
+   "p": 90.41,
+   "ch": 1.39,
+   "asof": "2026-11-06T12:04:10.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1906,
-   "ch": -1.28,
-   "asof": "2026-11-06T11:15:12.000Z"
+   "p": 1.1978,
+   "ch": -0.69,
+   "asof": "2026-11-06T12:04:11.000Z"
   },
   {
    "s": "Apple",
@@ -481,9 +481,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 51.885,
-   "ch": -0.94,
-   "asof": "2026-11-06T11:05:12.000Z"
+   "p": 52.135,
+   "ch": -0.46,
+   "asof": "2026-11-06T11:54:01.000Z"
   }
  ],
  "news": [
@@ -497,16 +497,16 @@
   [
    "Forex",
    "high",
-   "Thailand’s Inflation Accelerates Past Central Bank’s Target",
+   "Norway’s Central Bank Holds Key Interest Rate, Signals Readiness to Tighten",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMirwFBVV95cUxQejNQVFdDVktVSTZlMTJodk5UazN3Q25MVDVZdW1zTmVvWGgxNDdUUzQ3REJmVmt1MnpoQ19NdWR1VWJBWktmMjc3OHlmLWtCeUFBTVhCYjZDRElnVXp0R2pPTWtKaVFGSUpCVGYwdExnZlpkLWFaUWxzdzA4U0pmbnhrSzFWemtxU1dVcTZXdllrVzN6SFZzV3NvUnNzV1NjdG1PUHJfWm5EMGcwV0NF?oc=5"
+   "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ0E0NnMxbFZGWXZlNnN5bW5lZ1JHdXlHaF82aG5XcjBFQnhVR3hZdVpTT1NoWGgzbmhqdXJpak51SXJWQVowNjMtOTZCUjdfaFhjLTlEeVE4SldKb1FNM0RXQUlHOTlxaTkxYnkwUjlRRkNxMVNOS1hfX3BESVlsWnB2UEpWejU2TnJJVXk4azkyc3IzSVNraFMwNUxKbGV2Z3lUNTJPY282NGhjTDRyU1k1dU90TnNUb1RoV3dn?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin Sinks to Seven-Week Low as Risk-Off Mood Deepens",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLWlCQ2R1MFhOVjJNUzlDSlVsY0dRTlotS1AtazVMc0Z5WXllamtzdHd1RDFlbnd6Z2x3NkJPaFlFUGtKWUtjblE0NHRFdUxqRUJHWk93eG5qNEJJTmFkZmdoazhWYmdMT0hnNWdHRWNsbWVtVDAyS2JGMllGZGp3WUZKa0ZPWHVTTE9fMkNvWnMwQ2J1MUUzUVNHeS1SLXRMd3dvenc1REdoYlk?oc=5"
+   "META_TITLE_QUOTE",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Hb1I1SUt3MWw0X01vaXRWc1JzajJ2QjJQcEFaenhWM2ZhM0lEZ1hSalpsMDFKVF9NUkdGUG1mWjAtb0ktbTFCQURqNE5MNXFCTHc?oc=5"
   ],
   [
    "Crypto",
@@ -525,16 +525,9 @@
   [
    "Stocks",
    "med",
-   "META_TITLE_QUOTE",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mMEpHVDlqQVR3OHg3YmM4VDVkYmhHaHBXOTBFMEpPNXJqQnozU1U3UmZJN1NsaWVPX2liN3ZZZmI5LUIxdHZISHZWYmo?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Oil prices rise as investors weigh renewed U.S.-Iran conflict risks after midterm elections",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQW9uWnVUd0hLODVnWG1oa29OUEJuQlFjLXNlMjhyZDdrNGl5T1MxRTJDQXJ0TUJNbXh4MDhaYk1DeUM2bHh1b3RsNWZ3Sm1zT05udHZJQ3JzWS16RXd3NjR0Qmt5UWtPQnRMbE5MWdIBdEFVX3lxTE9DMzBrTllWWDUtQmdHLV9fR0hwU21fcllTNWZ2bnZTRDlTNUthbmRnWk83V1NMYVZ3eTZZSl8tZnh5NGNGanN5VEtfYVIza0huQnR3S3NVRTl5bkpzaGF0R0d1LXdCcURLVlJYWHRwS2ljS2Uz?oc=5"
+   "What sparked Wall Street’s crazy sell-off?",
+   "CNN",
+   "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OcXdBaTNkOC12M0RnS0lGQ3ViaU8tYm5ibHljZjVFWUFKdTI3LWxHY0w2bk0ycnduQWZrTFRTQnZZd3NGRTY5ejJtamRaYUpPenVFQUFxWGprMmZRMklaNVE2ZVBqWFhYMUVCX2ZwRjA?oc=5"
   ],
   [
    "Commodities",
@@ -542,6 +535,13 @@
    "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
    "Kitco",
    "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Oil prices set for sharp weekly fall after midterm elections as investors weigh Iran conflict risk",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQW9uWnVUd0hLODVnWG1oa29OUEJuQlFjLXNlMjhyZDdrNGl5T1MxRTJDQXJ0TUJNbXh4MDhaYk1DeUM2bHh1b3RsNWZ3Sm1zT05udHZJQ3JzWS16RXd3NjR0Qmt5UWtPQnRMbE5MWdIBdEFVX3lxTE9DMzBrTllWWDUtQmdHLV9fR0hwU21fcllTNWZ2bnZTRDlTNUthbmRnWk83V1NMYVZ3eTZZSl8tZnh5NGNGanN5VEtfYVIza0huQnR3S3NVRTl5bkpzaGF0R0d1LXdCcURLVlJYWHRwS2ljS2Uz?oc=5"
   ]
  ]
 }
