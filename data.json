@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T21:51:55.190Z",
+ "updated": "2026-11-06T22:53:10.870Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -313,65 +313,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1142,
-   "ch": -0.68,
-   "asof": "2026-11-06T21:51:28.000Z"
+   "p": 1.1143,
+   "ch": -0.67,
+   "asof": "2026-11-06T22:29:28.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3349,
-   "ch": -0.77,
-   "asof": "2026-11-06T21:51:28.000Z"
+   "p": 1.3356,
+   "ch": -0.71,
+   "asof": "2026-11-06T22:29:28.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.531,
-   "ch": 0.56,
-   "asof": "2026-11-06T21:51:54.000Z"
+   "p": 158.425,
+   "ch": 0.49,
+   "asof": "2026-11-06T22:01:16.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6866,
-   "ch": -0.95,
-   "asof": "2026-11-06T21:51:28.000Z"
+   "p": 0.6868,
+   "ch": -0.92,
+   "asof": "2026-11-06T22:29:28.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.413,
-   "ch": 0.83,
-   "asof": "2026-11-06T21:51:52.000Z"
+   "p": 1.4128,
+   "ch": 0.81,
+   "asof": "2026-11-06T22:01:16.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8206,
-   "ch": 0.56,
-   "asof": "2026-11-06T21:51:53.000Z"
+   "p": 0.82,
+   "ch": 0.49,
+   "asof": "2026-11-06T22:00:00.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75708.48,
-   "ch": -0.36,
-   "asof": "2026-11-06T21:51:52.000Z"
+   "p": 75834.87,
+   "ch": -0.19,
+   "asof": "2026-11-06T22:53:07.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2226.94,
-   "ch": -0.37,
-   "asof": "2026-11-06T21:51:51.000Z"
+   "p": 2236.38,
+   "ch": 0.05,
+   "asof": "2026-11-06T22:53:07.000Z"
   },
   {
    "s": "S&P 500",
@@ -387,7 +387,7 @@
    "d": 2,
    "p": 24579.424,
    "ch": 1.09,
-   "asof": "2026-11-06T21:51:55.000Z"
+   "asof": "2026-11-06T22:15:59.000Z"
   },
   {
    "s": "Dow Jones",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4075,
-   "ch": -0.94,
-   "asof": "2026-11-06T21:41:52.000Z"
+   "p": 4079.5,
+   "ch": -0.83,
+   "asof": "2026-11-06T21:59:59.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 90.55,
-   "ch": 0.03,
-   "asof": "2026-11-06T21:41:53.000Z"
+   "p": 90.34,
+   "ch": -0.2,
+   "asof": "2026-11-06T21:59:58.000Z"
   },
   {
    "s": "USD/KES",
@@ -425,9 +425,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5424,
-   "ch": 0.74,
-   "asof": "2026-11-06T21:51:55.000Z"
+   "p": 16.517,
+   "ch": 0.58,
+   "asof": "2026-11-06T22:01:16.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 90.01,
-   "ch": 0.94,
-   "asof": "2026-11-06T21:51:51.000Z"
+   "p": 90.05,
+   "ch": 0.99,
+   "asof": "2026-11-06T22:53:06.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1768,
-   "ch": -2.43,
-   "asof": "2026-11-06T21:51:51.000Z"
+   "p": 1.1758,
+   "ch": -2.51,
+   "asof": "2026-11-06T22:53:06.000Z"
   },
   {
    "s": "Apple",
@@ -481,9 +481,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 51.94,
-   "ch": -0.83,
-   "asof": "2026-11-06T21:41:48.000Z"
+   "p": 51.965,
+   "ch": -0.78,
+   "asof": "2026-11-06T21:59:59.000Z"
   }
  ],
  "news": [
@@ -504,16 +504,16 @@
   [
    "Crypto",
    "med",
-   "Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbmo4WVM3RVhVSFMyTlMxZkl0WDlxRWgwRTBWbG5WT0dMNFFtakFvbWJHT2cxMmF4NXdlTlcwdmRiOWV5eHFoRmx1WHpSTXNSQmlVekdlSFRhajlLOWwyQ3NhRUtqZjUyWVJZY2VXTVFnMzR4dGZCdEloTEJ6M2x4VHlmRW1LdkREQVRMcU1WNG9IZ2k3WFVHTjFuSlN4SHo0a19rcWptQ2x5WnpjVVVwTTFiRjJSWGEyMDZSVUgzNkhDZw?oc=5"
+   "Bitcoin Price Prediction: Where Will BTC Be by 2028?",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY3hmOV9RMTRWTE00QmJndkNmRXJxbVBsTjdUUk12OG8yTFZweU1XOXFqdVo2WURadFFTS0Jjc0lqaHFUcDd5M2NjaUNhNHI0SjdNbFdZTXhNcXFGQm5lcjJoWXFVc3Y4cW41OXdDaGVUb3l3Uk56akVDcGtueWdueU85emhXRGoxOHFkdDJqMlpwUTg2X2dVbnR0Rk42a0ds?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin Selloff Eases as Investors Explore Cautious Recovery",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxPanI5WVpaVXdYVDM4dVdieTFHSnFjcU9vLUhPMk1velVJMUFZdHdzUjB1WGJMYTlkeVRaVEJVeHdSd0tJVU1IUVpsZ3JReUxORTBLVlFzSGo5cjU2R1dMemRhcWNHbTNfV29oUEFQYldxaTB0UmltbFpsVy1BX1JlV1l2MjByb3RxQVNyTzcwdmp4NDM4UHhrZW9odWVlVmZxX3VuWkxLNVJNRmdPY1gtbA?oc=5"
+   "Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbmo4WVM3RVhVSFMyTlMxZkl0WDlxRWgwRTBWbG5WT0dMNFFtakFvbWJHT2cxMmF4NXdlTlcwdmRiOWV5eHFoRmx1WHpSTXNSQmlVekdlSFRhajlLOWwyQ3NhRUtqZjUyWVJZY2VXTVFnMzR4dGZCdEloTEJ6M2x4VHlmRW1LdkREQVRMcU1WNG9IZ2k3WFVHTjFuSlN4SHo0a19rcWptQ2x5WnpjVVVwTTFiRjJSWGEyMDZSVUgzNkhDZw?oc=5"
   ],
   [
    "Stocks",
