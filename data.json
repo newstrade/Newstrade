@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T05:10:13.962Z",
+ "updated": "2026-11-06T06:11:49.010Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -315,63 +315,63 @@
    "d": 4,
    "p": 1.1202,
    "ch": -0.14,
-   "asof": "2026-11-06T05:09:29.000Z"
+   "asof": "2026-11-06T06:11:25.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3431,
-   "ch": -0.16,
-   "asof": "2026-11-06T05:09:29.000Z"
+   "p": 1.3425,
+   "ch": -0.2,
+   "asof": "2026-11-06T06:11:25.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.907,
-   "ch": 0.16,
-   "asof": "2026-11-06T05:10:13.000Z"
+   "p": 157.807,
+   "ch": 0.1,
+   "asof": "2026-11-06T06:11:49.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6905,
-   "ch": -0.39,
-   "asof": "2026-11-06T05:09:29.000Z"
+   "p": 0.6884,
+   "ch": -0.69,
+   "asof": "2026-11-06T06:11:25.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.404,
-   "ch": 0.19,
-   "asof": "2026-11-06T05:10:13.000Z"
+   "p": 1.4045,
+   "ch": 0.22,
+   "asof": "2026-11-06T06:11:47.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8167,
-   "ch": 0.09,
-   "asof": "2026-11-06T05:10:13.000Z"
+   "p": 0.8162,
+   "ch": 0.02,
+   "asof": "2026-11-06T06:11:48.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75549.99,
-   "ch": -0.57,
-   "asof": "2026-11-06T05:10:08.000Z"
+   "p": 75360.24,
+   "ch": -0.82,
+   "asof": "2026-11-06T06:11:44.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2225.05,
-   "ch": -0.45,
-   "asof": "2026-11-06T05:10:12.000Z"
+   "p": 2215.94,
+   "ch": -0.86,
+   "asof": "2026-11-06T06:11:41.000Z"
   },
   {
    "s": "S&P 500",
@@ -379,7 +379,7 @@
    "d": 2,
    "p": 7353.73,
    "ch": -4.36,
-   "asof": "2026-11-05T21:00:00.000Z"
+   "asof": "2026-11-05T21:34:08.000Z"
   },
   {
    "s": "Nasdaq",
@@ -401,17 +401,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4054.4,
-   "ch": -1.44,
-   "asof": "2026-11-06T05:00:10.000Z"
+   "p": 4051.7,
+   "ch": -1.5,
+   "asof": "2026-11-06T06:01:46.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 91.36,
-   "ch": 0.93,
-   "asof": "2026-11-06T05:00:07.000Z"
+   "p": 91.85,
+   "ch": 1.47,
+   "asof": "2026-11-06T06:01:44.000Z"
   },
   {
    "s": "USD/KES",
@@ -425,9 +425,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5181,
-   "ch": 0.59,
-   "asof": "2026-11-06T05:10:13.000Z"
+   "p": 16.5244,
+   "ch": 0.63,
+   "asof": "2026-11-06T06:11:49.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.24,
-   "ch": 0.08,
-   "asof": "2026-11-06T05:10:11.000Z"
+   "p": 89.07,
+   "ch": -0.11,
+   "asof": "2026-11-06T06:11:45.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1982,
-   "ch": -0.65,
-   "asof": "2026-11-06T05:10:05.000Z"
+   "p": 1.1901,
+   "ch": -1.33,
+   "asof": "2026-11-06T06:11:45.000Z"
   },
   {
    "s": "Apple",
@@ -481,18 +481,18 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 51.555,
-   "ch": -1.57,
-   "asof": "2026-11-06T05:00:05.000Z"
+   "p": 51.28,
+   "ch": -2.09,
+   "asof": "2026-11-06T06:01:47.000Z"
   }
  ],
  "news": [
   [
    "Forex",
-   "high",
-   "Thailand’s Inflation Accelerates Past Central Bank’s Target",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMirwFBVV95cUxQejNQVFdDVktVSTZlMTJodk5UazN3Q25MVDVZdW1zTmVvWGgxNDdUUzQ3REJmVmt1MnpoQ19NdWR1VWJBWktmMjc3OHlmLWtCeUFBTVhCYjZDRElnVXp0R2pPTWtKaVFGSUpCVGYwdExnZlpkLWFaUWxzdzA4U0pmbnhrSzFWemtxU1dVcTZXdllrVzN6SFZzV3NvUnNzV1NjdG1PUHJfWm5EMGcwV0NF?oc=5"
+   "med",
+   "Dollar lures bids for safety as AI rout grips Asian markets",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcTZYNGtkV0pONThjTHhjTkdYS0JYX1YtSlJISko4bVRPZDlUSzZaTmhRU0ZtQmtnZWFRQUkxRDhUWHR2akFsSkhSZmQxdVE4dURkRlJ4ekEtc1lFSTlTT3VaU1VRa0VKRjZFZkdZUWVpR3NNT1hfR1JhLVkxWHlLUDVZT04wMnJYTFMyX0haakxHcWdIdWg2SFVpNGF4eWFwNXV0eGZ3Q2ZDeTYzbGtyZXpGM05XNDVBb0U2dUtScEM?oc=5"
   ],
   [
    "Forex",
@@ -511,9 +511,9 @@
   [
    "Crypto",
    "med",
-   "Bitcoin tumbles below $76,000 as post-election stock rally fades",
+   "How Much Will One Bitcoin Be Worth in 2030?",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmJfd25xWVlmRjBmZTNxWU1MX2ZjZHdWakcwUXpQNmd5bkxxZVJzbDQ3QnljczBZS0F3M2xiVW5XWGUwX2hJcmFMRWZ6SWU0REYxemdadWY2aFJWaUhWRTJSZUV1Q3JfSDY2Q00weXJDazQ5eU81d3czZDhYMjNlSUNQWEVybEI4ZkhWYUJNYm9WNFQ4WW10M21IV2JrcUFzLXRKTTJaZk9oRkgzSGVod1NDeGpuQTRvQW5j?oc=5"
+   "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS2JUNHZNMURMX210SmFjVUpYNTFXRElJTVNFYVptX1NFMHE1RUs4VnMxVDF5MVcwUkJIMkdPcWdzT296cEhiYkN6MDZJaVVEN2NVM25hczIxWUVQcWFSYzBmUjR3d09xd0V5WlpIVWhvVUJtLXlRbm1zTEROSEpyUlo5b2lGUjVTa3E3VFYweVAyd0pZTzlz?oc=5"
   ],
   [
    "Stocks",
@@ -532,16 +532,16 @@
   [
    "Commodities",
    "med",
-   "As high oil prices curb demand, fresh signs of glut appear",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMipgFBVV95cUxQem82aUU3S0NZWXNNcXlreW9xS3J0UnpIcDNCWVdqS3NyclRxSUtWenpmMEhoNmp6amtNSG5ZYmpuMzc1TElxODVYTmVSZURrYjJsbVliVXlVSzNtM3J5TDBMNl9sQ0JSTmxKQ2RxVzc4RnMxX2lIZGp3Y3kwTFdrUndLZkFMN0JkN2xLTi02dDZjT0x1Wk0ySTMxZlpNZWRmX1F6ZDhR?oc=5"
+   "Oil prices rise as investors weigh renewed U.S.-Iran conflict risks after midterm elections",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQW9uWnVUd0hLODVnWG1oa29OUEJuQlFjLXNlMjhyZDdrNGl5T1MxRTJDQXJ0TUJNbXh4MDhaYk1DeUM2bHh1b3RsNWZ3Sm1zT05udHZJQ3JzWS16RXd3NjR0Qmt5UWtPQnRMbE5MWdIBdEFVX3lxTE9DMzBrTllWWDUtQmdHLV9fR0hwU21fcllTNWZ2bnZTRDlTNUthbmRnWk83V1NMYVZ3eTZZSl8tZnh5NGNGanN5VEtfYVIza0huQnR3S3NVRTl5bkpzaGF0R0d1LXdCcURLVlJYWHRwS2ljS2Uz?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Oil Prices Rebound Sharply After Brutal Midweek Rout",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTkQ2VHV3QVBYU09xbkdYb1I2YTUtTDY3ZkZXWnJOZFlQQWJSTElZMThYZnFfX1BoMHZQYl80MGswRll4RlJ2TWVrMFFEQUVFRUZKNlVtRDNhVV81ZEotZ01KUlYxckhkMEZOU2l4MlZ2NkNQWm1rTUMwa3pkWFZWMlBwMHh2aUdXNTdLRVRxdm1HZjhrVmgxaUp1bFdYNXJzR2FLSmFJcWFFVEpv0gGyAUFVX3lxTE5FMzBDX3BobGZQXzZxRURVRTNxZTN4djJuRnJfTzA2NnZ5VDF2YkgxcU9td2tNRWF3UlNtT2k4dGpvakxqejdET3FwWHJoVFdDLVEweVlvSDBsSHcxOU5sNUNkd1hySkREb25JeGNqUFhObjlRVlRmaUN0WlVzMWJQTUp4TzM2dGlSWFJkd0hRb0NMWnB4eHFQb01YRjNUY2dLVkl3WWpSTS14ZWo3Nlp2V1E?oc=5"
+   "As high oil prices curb demand, fresh signs of glut appear",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMipgFBVV95cUxQem82aUU3S0NZWXNNcXlreW9xS3J0UnpIcDNCWVdqS3NyclRxSUtWenpmMEhoNmp6amtNSG5ZYmpuMzc1TElxODVYTmVSZURrYjJsbVliVXlVSzNtM3J5TDBMNl9sQ0JSTmxKQ2RxVzc4RnMxX2lIZGp3Y3kwTFdrUndLZkFMN0JkN2xLTi02dDZjT0x1Wk0ySTMxZlpNZWRmX1F6ZDhR?oc=5"
   ]
  ]
 }
