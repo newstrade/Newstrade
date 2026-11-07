@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T14:52:07.866Z",
+ "updated": "2026-11-07T15:49:27.529Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75879.81,
-   "ch": 0.18,
-   "asof": "2026-11-07T14:52:06.000Z"
+   "p": 75557.58,
+   "ch": -0.24,
+   "asof": "2026-11-07T15:49:21.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2244.84,
-   "ch": 0.43,
-   "asof": "2026-11-07T14:52:04.000Z"
+   "p": 2231.52,
+   "ch": -0.17,
+   "asof": "2026-11-07T15:49:25.000Z"
   },
   {
    "s": "S&P 500",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 90,
-   "ch": -0.06,
-   "asof": "2026-11-07T14:51:56.000Z"
+   "p": 89.18,
+   "ch": -0.97,
+   "asof": "2026-11-07T15:49:22.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1663,
-   "ch": -1,
-   "asof": "2026-11-07T14:51:56.000Z"
+   "p": 1.1523,
+   "ch": -2.19,
+   "asof": "2026-11-07T15:49:22.000Z"
   },
   {
    "s": "Apple",
@@ -490,16 +490,16 @@
   [
    "Forex",
    "med",
-   "GBP/USD (GBPUSD=X) live rate, chart and news",
-   "Yahoo Finance UK",
-   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NbzZVOXY1Z0JsbVlxU2paRTdhaDZSTFJ6RzRCLUF1ek1EcW9JeEFXUWdHem15UW0ydzAzYTNDSy1xWHNWS1d3c3lGOHdjQXZTQlN2Y1l6NDNEUQ?oc=5"
-  ],
-  [
-   "Forex",
-   "med",
    "Malaysia’s Central Bank Holds Rate Steady, Cites Resilient Growth",
    "WSJ",
    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVXlhbGhKc2YwSGFyMDY5MlR1eERYdl9OM1ZlbkstMUtCYnI3UUQ3cmdpVEpYcjFTaVlGSEZHaHZaYjNhQVhZbmJ1T2dKWW5rY1Mta0NxY0pTN1ZJQldKZDBGU0plbWhSSklwV3pQeld6M3Z0WkZ0WldsbDFKX0xjOTN3NHNQcDJPZERJcTdKeFlueVdZRFpzODhkMUwyNFI1VHJnTWJGaG52U002YkE4RlRrQlZKajQ?oc=5"
+  ],
+  [
+   "Forex",
+   "high",
+   "Czech Premier Blasts Central Bank Rate Hike as ‘Scandalous’",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMirAFBVV95cUxObHZGYm10VWZ4YVdFUWRKTDJxLWdwZ0JTSEVyQTZIcDZGU0dXWDNQMlJrU056TUo3QVRnX3hsSkNjbS01Y192R3FMd29PZDF6VTE1ZWpkdlJjdkhHa2VkUjZWNXZfdUFYaGV1QUFuZk5OZU9qR0N4THA5bnFwZ2IzZWFtM0UzVTdBUTZqZmRaQ1RiWHRkb0xDUjdDdWFBdl9qZ1ZYZDZqZHFHRGF3?oc=5"
   ],
   [
    "Crypto",
@@ -525,9 +525,9 @@
   [
    "Stocks",
    "med",
-   "Tech stocks are now cheaper than the S&P 500 for the first time since 2017 — here's what history says comes next: Chart of the Day",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikAJBVV95cUxPczdPRWtCNVAwN1padVZqajBqZFozRzF6THp5cGNBUmhlLUNNWkYzTHdpSGlnZlh0OUdKeFduUDNFSzJVT3ZZalZmU1ppZmlGV3p5UmlyVnVfUW5kaS1BbGxNMDlqNGlNbnA0UVF4YVhQcGlZY2ptcGd4Y3E0LTBkcUlLWGlxU0hlNDNtRU52RzhXVVNFb0FuTG9QY3hDYmhJOHZ0SS10a3lvY09VQXh3dGxTeFMtcFpBSklaMlNPVDB3RkxNVW9fS2NyNHlyQV9DSlhWMVlLN3BPXzBXYU12d296YWpQSGZjcVpHMTc1WFA1QnR3ck5kMHM2UGlhTG9NYkpXMmRWd28wbjM0eDNvUQ?oc=5"
+   "Wall Street Strategists Call Stock Rout a Fresh Reason to Buy",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjJsWU9HVVVVTlJNRjYxYkJ6UFBBdnQzNklIM0w5X1R0YUtlT2RSeG5XR2JqMkF6Q3J5NVVBMm5sSVd4TVRfRFpYNHBLVDdSRFlmRXZxTHpJbllDVHM2Vm9lMmVBNGVWSUFrc1c2NEMzc0tBV0p3Yk16R1IwUTdsa2ZzNkNvYXpnM250dGYzZVFsV0FZbXE5YTZwYnllR1hXZkl5a2w3YVFtMXdKSGZkZzdR?oc=5"
   ],
   [
    "Commodities",
@@ -539,9 +539,9 @@
   [
    "Commodities",
    "med",
-   "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMWQ5c2RBN2lVLVVlYWRjNS03cFo4RkpVQXgzZUhWN2lyaS0tUHA1SXJ2Vm56MDQ4R0JCNlFubmt2bEhEZG5maGpLV0J6M3JRWm1iUHVWb0dXUnJWN19fU1dLS2tTY2lRNmI3YzNKM1ZPb2RHSE1pb19kWE9mS0RNRlNjZWU?oc=5"
+   "Goldman Sachs Cuts Gold Price Forecasts as Hawkish Federal Reserve Weighs on Demand",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXdtR1VXSWUweFNhelI3MHEwaElMZjVBNjUtdFFYQkNTZTlOWVp3ZUg1c1BTZjdtMXFNQmVHVnZlR21SU2VxWlVVcWN1cGc5WjhOdEVTdTQ4ZTg5QUxWeGtzZ19mRGRwNExXbzR2Ym1sM04xTkZoS0RGTTBtaXNGeWM3ZnJfZEhJaExpVVE3ZkdoYlQzSUNvLVNqSmlJaHRu?oc=5"
   ]
  ]
 }
