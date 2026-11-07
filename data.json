@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T05:00:28.108Z",
+ "updated": "2026-11-07T05:57:30.575Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -331,7 +331,7 @@
    "d": 2,
    "p": 158.425,
    "ch": 0.49,
-   "asof": "2026-11-06T22:01:16.000Z"
+   "asof": "2026-11-07T05:21:16.000Z"
   },
   {
    "s": "AUD/USD",
@@ -339,7 +339,7 @@
    "d": 4,
    "p": 0.6868,
    "ch": -0.92,
-   "asof": "2026-11-07T00:35:25.000Z"
+   "asof": "2026-11-07T05:49:25.000Z"
   },
   {
    "s": "USD/CAD",
@@ -347,7 +347,7 @@
    "d": 4,
    "p": 1.4128,
    "ch": 0.81,
-   "asof": "2026-11-07T00:06:38.000Z"
+   "asof": "2026-11-07T05:21:16.000Z"
   },
   {
    "s": "USD/CHF",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75809.9,
-   "ch": 0.09,
-   "asof": "2026-11-07T05:00:25.000Z"
+   "p": 75924.67,
+   "ch": 0.24,
+   "asof": "2026-11-07T05:57:27.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2241.35,
-   "ch": 0.27,
-   "asof": "2026-11-07T05:00:25.000Z"
+   "p": 2246.33,
+   "ch": 0.49,
+   "asof": "2026-11-07T05:57:26.000Z"
   },
   {
    "s": "S&P 500",
@@ -401,16 +401,16 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4079.5,
-   "ch": -0.83,
+   "p": 4074.9,
+   "ch": -0.94,
    "asof": "2026-11-06T21:59:59.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 90.34,
-   "ch": -0.2,
+   "p": 90.83,
+   "ch": 0.34,
    "asof": "2026-11-06T21:59:58.000Z"
   },
   {
@@ -427,7 +427,7 @@
    "d": 3,
    "p": 16.517,
    "ch": 0.58,
-   "asof": "2026-11-07T00:07:18.000Z"
+   "asof": "2026-11-07T05:21:16.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.88,
-   "ch": -0.2,
-   "asof": "2026-11-07T05:00:25.000Z"
+   "p": 90.17,
+   "ch": 0.12,
+   "asof": "2026-11-07T05:57:28.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1545,
-   "ch": -2,
-   "asof": "2026-11-07T05:00:26.000Z"
+   "p": 1.1601,
+   "ch": -1.52,
+   "asof": "2026-11-07T05:57:22.000Z"
   },
   {
    "s": "Apple",
@@ -481,8 +481,8 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 51.965,
-   "ch": -0.78,
+   "p": 51.942,
+   "ch": -0.83,
    "asof": "2026-11-06T21:59:59.000Z"
   }
  ],
@@ -518,9 +518,9 @@
   [
    "Stocks",
    "med",
-   "Deepening Tech Selloff Pushes Nasdaq Toward Its Worst Month in Over a Year",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0dCXzNIVWRZZmZVTWM2U25pX18zb0RtZlIwYjd0RUpuYzdpRUJBdl9pT3pjQkVpa29KU043MjhLOWhaLTBkUGxFZHVIcFNzWkFKQXkyMUVUakJIVlo5X3lPTlJWMGgtNFc2WDd4OE5BNkY4UzNOdjRVTDU0ZjBHZUkybEd2RkVVbHB4c2RrSl92OW8?oc=5"
+   "Dow Jones Today | DJIA Index Live",
+   "Investing.com",
+   "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZZnFpYngyOG1pVE53SGNEYlljR3c0QXVNdjNSQjY3a1YzcG00U2tIWDNFSGM2UWZsSE8yc3BBZjkyY0pHRVNFbnNYendGa2o2?oc=5"
   ],
   [
    "Stocks",
