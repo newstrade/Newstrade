@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T21:48:02.787Z",
+ "updated": "2026-11-07T22:48:44.342Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -331,7 +331,7 @@
    "d": 2,
    "p": 158.425,
    "ch": 0.49,
-   "asof": "2026-11-07T21:25:20.000Z"
+   "asof": "2026-11-07T22:00:22.000Z"
   },
   {
    "s": "AUD/USD",
@@ -339,7 +339,7 @@
    "d": 4,
    "p": 0.6868,
    "ch": -0.92,
-   "asof": "2026-11-07T20:39:33.000Z"
+   "asof": "2026-11-07T22:29:30.000Z"
   },
   {
    "s": "USD/CAD",
@@ -347,7 +347,7 @@
    "d": 4,
    "p": 1.4128,
    "ch": 0.81,
-   "asof": "2026-11-07T20:10:22.000Z"
+   "asof": "2026-11-07T22:00:20.000Z"
   },
   {
    "s": "USD/CHF",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75592.81,
-   "ch": -0.2,
-   "asof": "2026-11-07T21:48:00.000Z"
+   "p": 75670.38,
+   "ch": -0.09,
+   "asof": "2026-11-07T22:48:42.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2226.28,
-   "ch": -0.4,
-   "asof": "2026-11-07T21:47:56.000Z"
+   "p": 2232.04,
+   "ch": -0.15,
+   "asof": "2026-11-07T22:48:36.000Z"
   },
   {
    "s": "S&P 500",
@@ -427,7 +427,7 @@
    "d": 3,
    "p": 16.517,
    "ch": 0.58,
-   "asof": "2026-11-07T20:10:23.000Z"
+   "asof": "2026-11-07T22:00:50.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.05,
-   "ch": -1.12,
-   "asof": "2026-11-07T21:47:53.000Z"
+   "p": 89.21,
+   "ch": -0.94,
+   "asof": "2026-11-07T22:48:40.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1571,
-   "ch": -1.78,
-   "asof": "2026-11-07T21:48:00.000Z"
+   "p": 1.1591,
+   "ch": -1.61,
+   "asof": "2026-11-07T22:48:34.000Z"
   },
   {
    "s": "Apple",
@@ -489,17 +489,17 @@
  "news": [
   [
    "Forex",
-   "med",
-   "Malaysia’s Central Bank Holds Rate Steady, Cites Resilient Growth",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVXlhbGhKc2YwSGFyMDY5MlR1eERYdl9OM1ZlbkstMUtCYnI3UUQ3cmdpVEpYcjFTaVlGSEZHaHZaYjNhQVhZbmJ1T2dKWW5rY1Mta0NxY0pTN1ZJQldKZDBGU0plbWhSSklwV3pQeld6M3Z0WkZ0WldsbDFKX0xjOTN3NHNQcDJPZERJcTdKeFlueVdZRFpzODhkMUwyNFI1VHJnTWJGaG52U002YkE4RlRrQlZKajQ?oc=5"
-  ],
-  [
-   "Forex",
    "high",
    "Czech Premier Blasts Central Bank Rate Hike as ‘Scandalous’",
    "Bloomberg.com",
    "https://news.google.com/rss/articles/CBMirAFBVV95cUxObHZGYm10VWZ4YVdFUWRKTDJxLWdwZ0JTSEVyQTZIcDZGU0dXWDNQMlJrU056TUo3QVRnX3hsSkNjbS01Y192R3FMd29PZDF6VTE1ZWpkdlJjdkhHa2VkUjZWNXZfdUFYaGV1QUFuZk5OZU9qR0N4THA5bnFwZ2IzZWFtM0UzVTdBUTZqZmRaQ1RiWHRkb0xDUjdDdWFBdl9qZ1ZYZDZqZHFHRGF3?oc=5"
+  ],
+  [
+   "Forex",
+   "med",
+   "Japan manufacturers lift profit outlooks on price hikes, weak yen",
+   "Nikkei Asia",
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGVlUjc5QnBNZDFTd3U3MVJ6S2FQNHVrYXJTV09URWkxbjNNdnpJUlZmNEVKaDBaRlFhSkFSYW95Vm1laDlvUDdxc3NNUjZjSko2Y3N1d1FOalZEXzFXenptYzQ4WTZpTEpiQ3Qxb2llcWszZFlYc2ZmNmN1cEczMzhYazNydmZRWHVYWGVyQXU2czFOWjJFMTJxNFJnU21WSGY5SWl5LTlFU3JFZ0FOQnQwVQ?oc=5"
   ],
   [
    "Crypto",
