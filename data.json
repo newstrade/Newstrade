@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T20:49:59.727Z",
+ "updated": "2026-11-07T21:48:02.787Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -331,7 +331,7 @@
    "d": 2,
    "p": 158.425,
    "ch": 0.49,
-   "asof": "2026-11-07T20:42:27.000Z"
+   "asof": "2026-11-07T21:25:20.000Z"
   },
   {
    "s": "AUD/USD",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75554.88,
-   "ch": -0.25,
-   "asof": "2026-11-07T20:49:58.000Z"
+   "p": 75592.81,
+   "ch": -0.2,
+   "asof": "2026-11-07T21:48:00.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2225.15,
-   "ch": -0.46,
-   "asof": "2026-11-07T20:49:53.000Z"
+   "p": 2226.28,
+   "ch": -0.4,
+   "asof": "2026-11-07T21:47:56.000Z"
   },
   {
    "s": "S&P 500",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.04,
-   "ch": -1.13,
-   "asof": "2026-11-07T20:49:59.000Z"
+   "p": 89.05,
+   "ch": -1.12,
+   "asof": "2026-11-07T21:47:53.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1536,
-   "ch": -2.08,
-   "asof": "2026-11-07T20:49:58.000Z"
+   "p": 1.1571,
+   "ch": -1.78,
+   "asof": "2026-11-07T21:48:00.000Z"
   },
   {
    "s": "Apple",
@@ -504,16 +504,16 @@
   [
    "Crypto",
    "med",
-   "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
-   "Yahoo Finance UK",
-   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NeVkwY1dKeWxrcExZc0dzcnlWSUZ4czQtZHIyX1JYUnp5cWE5WFcwNjl3clkxY3dyUjFtbG1FOU43Ny1leHhSaVpCMzFQREhacmFmaTRR?oc=5"
+   "The Shadowy Crypto Services Helping the Binance Hackers Launder Stolen Billions",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTUlNYXNWSV9aeko2VWlLTUpldFVrQUNnQ0lBOFptOFdYRnM2N3RTUmUyNTFYQTZHTmF1UUhpYkxjTXBCU0t2Y2E2N21xVjFzakprcXRpeE5HcFBnR3o5MU1PS2xleVRfUWhMRnNXM1JPemsyeHFVdmFwU0tualVLTnhFa0EyelhqLUF0dXk0dExlZmtZOVpueF9ldTZGV21hYTBhWU5VWFRkdXkxZU5lZF9JajU2SEE1bkdHdlpJSzdKSElTSHc?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Elon Musk Confirms ‘Global Bankruptcy’ Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer",
-   "Forbes",
-   "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMnNGYjNvV3k2Ymw5ZzdiTi04T1p5N0lVYi1YSFhSZGJuWnIwYTJBeVZYb3RqTEw3aGVCNnZtWkx1dWswUzhzRGtXMFAzYTR0RXBPdlpVQUhOaEFkdzBpSm0wM090UVJDc1ZuYjBDVzkydXNjVWIzcW84V2tvaU44NG94VFNFZGg5WU9IWGtaWmk0bUtWeEwwV3FPZk9VY2NqQVhZYnNTOUVPLTAyXzYtUFdVbDl3VDQxN0YyRGtlbktPdGlKLWpUVkFELXJBR05WdWdSeTlB?oc=5"
+   "Core Scientific Is Quitting Bitcoin Mining as It Now Makes About 92% of Its Revenue Renting to AI Customers",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ1N0SUFaeEc4TnJSYlZMRTh1WkdkSUE5QlhWTmFlMThNQm1uMVVYbUFWdnpiajVVX1RVdExpMFFCQTNKMXlTMmlPT016M3Y2NGlBbzdRcEZUMWoxdTRkT1ZwcTMwNmJTRUJpbVRPZTR1RzF0ZVlaLU5NWXZDbS1iTlJRYmdVRjNhRWMyWUdqenZBMl9tcXFFTk93Q3FLWTFfc2NIR1RfTQ?oc=5"
   ],
   [
    "Stocks",
