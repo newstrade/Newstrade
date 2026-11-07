@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T17:45:59.509Z",
+ "updated": "2026-11-07T18:57:02.118Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75747.77,
-   "ch": 0.01,
-   "asof": "2026-11-07T17:45:54.000Z"
+   "p": 75712.45,
+   "ch": -0.04,
+   "asof": "2026-11-07T18:57:01.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2233.85,
-   "ch": -0.07,
-   "asof": "2026-11-07T17:45:54.000Z"
+   "p": 2234.22,
+   "ch": -0.05,
+   "asof": "2026-11-07T18:56:56.000Z"
   },
   {
    "s": "S&P 500",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.67,
-   "ch": -0.43,
-   "asof": "2026-11-07T17:45:56.000Z"
+   "p": 89.71,
+   "ch": -0.39,
+   "asof": "2026-11-07T18:56:57.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1603,
-   "ch": -1.51,
-   "asof": "2026-11-07T17:45:53.000Z"
+   "p": 1.1623,
+   "ch": -1.34,
+   "asof": "2026-11-07T18:57:00.000Z"
   },
   {
    "s": "Apple",
@@ -532,16 +532,16 @@
   [
    "Commodities",
    "med",
-   "Oil Futures Slide As Market Holds Out Hopes for Middle East Diplomacy",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXo3c0pXbll5VVJ6eUlRbTJQZ0xLSnFISGlnVGRReWlBTnJYT2d5RVd5cTZmTnFkS0VoZ3h1cVNGOEhOMHUtMUlRU0hPMDhhTmtINTNHdC1JeVRlTExaSklrRWNvaHpMSERXOF9VRlRZTGh4YmZ4aWg3a2ctdlI1bkVsdUY4X0RDMElsTHpaOFN4VVE4YzBwRzVHRk0yamVxM2dJMmdVYlNSdVZoaGR6akhlUGU5WTlx?oc=5"
+   "Goldman Sachs Cuts Gold Price Forecasts as Hawkish Federal Reserve Weighs on Demand",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXdtR1VXSWUweFNhelI3MHEwaElMZjVBNjUtdFFYQkNTZTlOWVp3ZUg1c1BTZjdtMXFNQmVHVnZlR21SU2VxWlVVcWN1cGc5WjhOdEVTdTQ4ZTg5QUxWeGtzZ19mRGRwNExXbzR2Ym1sM04xTkZoS0RGTTBtaXNGeWM3ZnJfZEhJaExpVVE3ZkdoYlQzSUNvLVNqSmlJaHRu?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Goldman Sachs Cuts Gold Price Forecasts as Hawkish Federal Reserve Weighs on Demand",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXdtR1VXSWUweFNhelI3MHEwaElMZjVBNjUtdFFYQkNTZTlOWVp3ZUg1c1BTZjdtMXFNQmVHVnZlR21SU2VxWlVVcWN1cGc5WjhOdEVTdTQ4ZTg5QUxWeGtzZ19mRGRwNExXbzR2Ym1sM04xTkZoS0RGTTBtaXNGeWM3ZnJfZEhJaExpVVE3ZkdoYlQzSUNvLVNqSmlJaHRu?oc=5"
+   "Oil Futures Slide As Market Holds Out Hopes for Middle East Diplomacy",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXo3c0pXbll5VVJ6eUlRbTJQZ0xLSnFISGlnVGRReWlBTnJYT2d5RVd5cTZmTnFkS0VoZ3h1cVNGOEhOMHUtMUlRU0hPMDhhTmtINTNHdC1JeVRlTExaSklrRWNvaHpMSERXOF9VRlRZTGh4YmZ4aWg3a2ctdlI1bkVsdUY4X0RDMElsTHpaOFN4VVE4YzBwRzVHRk0yamVxM2dJMmdVYlNSdVZoaGR6akhlUGU5WTlx?oc=5"
   ]
  ]
 }
