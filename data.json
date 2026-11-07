@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T07:13:48.670Z",
+ "updated": "2026-11-07T08:12:56.292Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75902.97,
-   "ch": 0.21,
-   "asof": "2026-11-07T07:13:47.000Z"
+   "p": 76013.99,
+   "ch": 0.36,
+   "asof": "2026-11-07T08:12:53.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2243.28,
-   "ch": 0.36,
-   "asof": "2026-11-07T07:13:46.000Z"
+   "p": 2244.2,
+   "ch": 0.4,
+   "asof": "2026-11-07T08:12:53.000Z"
   },
   {
    "s": "S&P 500",
@@ -379,7 +379,7 @@
    "d": 2,
    "p": 7376.86,
    "ch": 0.31,
-   "asof": "2026-11-06T21:37:09.000Z"
+   "asof": "2026-11-06T21:00:00.000Z"
   },
   {
    "s": "Nasdaq",
@@ -393,9 +393,9 @@
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 51285.73,
+   "p": 51285.7,
    "ch": -0.46,
-   "asof": "2026-11-06T21:37:13.000Z"
+   "asof": "2026-11-06T21:00:00.000Z"
   },
   {
    "s": "Gold",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 90.12,
-   "ch": 0.07,
-   "asof": "2026-11-07T07:13:48.000Z"
+   "p": 90.09,
+   "ch": 0.04,
+   "asof": "2026-11-07T08:12:47.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1687,
-   "ch": -0.79,
-   "asof": "2026-11-07T07:13:43.000Z"
+   "p": 1.1771,
+   "ch": -0.08,
+   "asof": "2026-11-07T08:12:51.000Z"
   },
   {
    "s": "Apple",
@@ -538,10 +538,10 @@
   ],
   [
    "Commodities",
-   "med",
-   "Crude gains on worries about renewed US attacks on Iran",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0loTjAtWUlkbnpIR2huZE8zWWkxZHZIZlprNlQ5Z3BSaGUxcnE1ZDdqbXFuOHFpQVdrbzEyNnRUSGR4ZDh3SEpqQkpqX2NZa0JlZjEyZlp3RElJMFlhVDRLLTZ3MzRuV2NuTXR3SjhQejExMVR4eE10YThVcmJYaTdNYmt1SjJfeG10NlJRRFB1SFNQUlRSanFrYzBFUjlZNjBGMjhxSi1MZG1sd19kWGU0Ykt5bmR4by1B?oc=5"
+   "high",
+   "Gold price holds critical $4,000 support, but strong U.S. jobs data and inflation risks threaten recovery",
+   "Kitco",
+   "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMVFrY1hheExQaDduSlBRcndvS2FkcW84Y0UwRnVZUGRKSnJ5eW9keHNzemhJNEpadVQxRlJXMHNxYzhOVXVLakZNNTBBNmNsYTFadkpvN0Z4RnFwWUtYcVoxRlZjV3pNaWphd2FZRGt5eGp4Z20wc2xkeTN3dXFpa0xodkIwdGlQTHhCc05PQTBISkNjVjE1LTZSMUR0UV91SlFNR0x5STlSeEt6R2lOR0JsUXBURzk3V2c?oc=5"
   ]
  ]
 }
