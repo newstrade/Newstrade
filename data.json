@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:09:14.471Z",
+ "updated": "2026-11-07T02:59:30.018Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75967.87,
-   "ch": 0.3,
-   "asof": "2026-11-07T02:09:08.000Z"
+   "p": 75936,
+   "ch": 0.26,
+   "asof": "2026-11-07T02:59:21.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2245.74,
-   "ch": 0.47,
-   "asof": "2026-11-07T02:09:08.000Z"
+   "p": 2243.48,
+   "ch": 0.36,
+   "asof": "2026-11-07T02:59:25.000Z"
   },
   {
    "s": "S&P 500",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 90.48,
-   "ch": 0.47,
-   "asof": "2026-11-07T02:09:06.000Z"
+   "p": 90.23,
+   "ch": 0.19,
+   "asof": "2026-11-07T02:59:26.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1777,
-   "ch": -0.03,
-   "asof": "2026-11-07T02:09:10.000Z"
+   "p": 1.165,
+   "ch": -1.11,
+   "asof": "2026-11-07T02:59:27.000Z"
   },
   {
    "s": "Apple",
@@ -511,9 +511,9 @@
   [
    "Crypto",
    "med",
-   "Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbmo4WVM3RVhVSFMyTlMxZkl0WDlxRWgwRTBWbG5WT0dMNFFtakFvbWJHT2cxMmF4NXdlTlcwdmRiOWV5eHFoRmx1WHpSTXNSQmlVekdlSFRhajlLOWwyQ3NhRUtqZjUyWVJZY2VXTVFnMzR4dGZCdEloTEJ6M2x4VHlmRW1LdkREQVRMcU1WNG9IZ2k3WFVHTjFuSlN4SHo0a19rcWptQ2x5WnpjVVVwTTFiRjJSWGEyMDZSVUgzNkhDZw?oc=5"
+   "Bitcoin Selloff Eases as Investors Explore Cautious Recovery",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxPanI5WVpaVXdYVDM4dVdieTFHSnFjcU9vLUhPMk1velVJMUFZdHdzUjB1WGJMYTlkeVRaVEJVeHdSd0tJVU1IUVpsZ3JReUxORTBLVlFzSGo5cjU2R1dMemRhcWNHbTNfV29oUEFQYldxaTB0UmltbFpsVy1BX1JlV1l2MjByb3RxQVNyTzcwdmp4NDM4UHhrZW9odWVlVmZxX3VuWkxLNVJNRmdPY1gtbA?oc=5"
   ],
   [
    "Stocks",
