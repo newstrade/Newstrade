@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T22:48:44.342Z",
+ "updated": "2026-11-07T23:46:02.839Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -331,7 +331,7 @@
    "d": 2,
    "p": 158.425,
    "ch": 0.49,
-   "asof": "2026-11-07T22:00:22.000Z"
+   "asof": "2026-11-07T23:29:36.000Z"
   },
   {
    "s": "AUD/USD",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75670.38,
-   "ch": -0.09,
-   "asof": "2026-11-07T22:48:42.000Z"
+   "p": 75764.84,
+   "ch": 0.03,
+   "asof": "2026-11-07T23:46:00.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2232.04,
-   "ch": -0.15,
-   "asof": "2026-11-07T22:48:36.000Z"
+   "p": 2235.39,
+   "ch": 0,
+   "asof": "2026-11-07T23:46:01.000Z"
   },
   {
    "s": "S&P 500",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.21,
-   "ch": -0.94,
-   "asof": "2026-11-07T22:48:40.000Z"
+   "p": 89.59,
+   "ch": -0.52,
+   "asof": "2026-11-07T23:45:56.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1591,
-   "ch": -1.61,
-   "asof": "2026-11-07T22:48:34.000Z"
+   "p": 1.1616,
+   "ch": -1.4,
+   "asof": "2026-11-07T23:46:00.000Z"
   },
   {
    "s": "Apple",
@@ -511,9 +511,9 @@
   [
    "Crypto",
    "med",
-   "Core Scientific Is Quitting Bitcoin Mining as It Now Makes About 92% of Its Revenue Renting to AI Customers",
+   "Bitcoin Has Traded at a Discount on Coinbase for 61 Straight Days. Have U.S. Investors Stopped Buying BTC?",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ1N0SUFaeEc4TnJSYlZMRTh1WkdkSUE5QlhWTmFlMThNQm1uMVVYbUFWdnpiajVVX1RVdExpMFFCQTNKMXlTMmlPT016M3Y2NGlBbzdRcEZUMWoxdTRkT1ZwcTMwNmJTRUJpbVRPZTR1RzF0ZVlaLU5NWXZDbS1iTlJRYmdVRjNhRWMyWUdqenZBMl9tcXFFTk93Q3FLWTFfc2NIR1RfTQ?oc=5"
+   "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTHBGVWdLRTdGVGJfX1FZa1g5UFJOa1ZPQzg5Wk9JR0o0WU1EcUpUVnZzQ2pBOUp0YzRDUWtSb2NFbWl5TktfdEN3S3VyQTd2WjlldGhXSWM3VTh4ZHprdjNzNkFJZ013eGdjQ3phbFRJR095QWRNSUVtT2phZU1veVdEMGxwVjdWTmd4YXdmQ0NWQmZsTFNuN1NJMFp5enp6UUE?oc=5"
   ],
   [
    "Stocks",
@@ -539,9 +539,9 @@
   [
    "Commodities",
    "med",
-   "Statement from President and CEO Brent Leggs on the Bipartisan American Affordability and Jobs Act",
-   "National Trust for Historic Preservation",
-   "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUHRSQk5kbTlEd0ZmOGRhRWNDdURmNExmOWhQcS1iSmR5Zl94UTJ0WUU1R01PbzRWdGVLamZvV2x1WDVteEpXUHZyc21rc0J0cW54bW5XVnZMOUFOZ3NoSDZucC1qZm45cUI1Q1Y5UkNwMkNiXzBXc0NuNy1fNGRmeUtsTkVadw?oc=5"
+   "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMWQ5c2RBN2lVLVVlYWRjNS03cFo4RkpVQXgzZUhWN2lyaS0tUHA1SXJ2Vm56MDQ4R0JCNlFubmt2bEhEZG5maGpLV0J6M3JRWm1iUHVWb0dXUnJWN19fU1dLS2tTY2lRNmI3YzNKM1ZPb2RHSE1pb19kWE9mS0RNRlNjZWU?oc=5"
   ]
  ]
 }
