@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T09:00:38.297Z",
+ "updated": "2026-11-07T09:56:55.208Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 76109.98,
-   "ch": 0.49,
-   "asof": "2026-11-07T09:00:33.000Z"
+   "p": 75929.94,
+   "ch": 0.25,
+   "asof": "2026-11-07T09:56:50.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2247.55,
-   "ch": 0.55,
-   "asof": "2026-11-07T09:00:34.000Z"
+   "p": 2242.22,
+   "ch": 0.31,
+   "asof": "2026-11-07T09:56:51.000Z"
   },
   {
    "s": "S&P 500",
@@ -379,7 +379,7 @@
    "d": 2,
    "p": 7376.86,
    "ch": 0.31,
-   "asof": "2026-11-06T21:00:00.000Z"
+   "asof": "2026-11-06T21:37:09.000Z"
   },
   {
    "s": "Nasdaq",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 90.21,
-   "ch": 0.17,
-   "asof": "2026-11-07T09:00:35.000Z"
+   "p": 89.91,
+   "ch": -0.16,
+   "asof": "2026-11-07T09:56:51.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1751,
-   "ch": -0.25,
-   "asof": "2026-11-07T09:00:34.000Z"
+   "p": 1.1695,
+   "ch": -0.73,
+   "asof": "2026-11-07T09:56:55.000Z"
   },
   {
    "s": "Apple",
@@ -518,16 +518,16 @@
   [
    "Stocks",
    "med",
-   "Dow Jones Today | DJIA Index Live",
-   "Investing.com",
-   "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZZnFpYngyOG1pVE53SGNEYlljR3c0QXVNdjNSQjY3a1YzcG00U2tIWDNFSGM2UWZsSE8yc3BBZjkyY0pHRVNFbnNYendGa2o2?oc=5"
+   "COMMENTARY: US stocks always rise after midterms. Is this time different?",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOUUxZDUzd0xuR1o2YW11a0Nqcy0yZUtiMzlNU1VsRWIxMDVubDNLZHh6MWUwT1NDYnVwajFLdVMxdEs4RGlRdmlGR29DbjQ1MGJ3LURkN3BIUFZvNV9UVVI0OThfYWUyMFVqdkRNUTBXQkVpeWNqNGdza0hIWFZrTWVYZTNUS2o4VmJhMkVwXzlkWEUxNE03OWZIdEdpTzl2d0hReXpXbGM4Mk9qSHZJNnBXejU4Y0Q2d3IwbUVmMTJ5bGs2YURn?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "COMMENTARY: US stocks always rise after midterms. Is this time different?",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOUUxZDUzd0xuR1o2YW11a0Nqcy0yZUtiMzlNU1VsRWIxMDVubDNLZHh6MWUwT1NDYnVwajFLdVMxdEs4RGlRdmlGR29DbjQ1MGJ3LURkN3BIUFZvNV9UVVI0OThfYWUyMFVqdkRNUTBXQkVpeWNqNGdza0hIWFZrTWVYZTNUS2o4VmJhMkVwXzlkWEUxNE03OWZIdEdpTzl2d0hReXpXbGM4Mk9qSHZJNnBXejU4Y0Q2d3IwbUVmMTJ5bGs2YURn?oc=5"
+   "Stock market casino: the rising stakes of ‘gamified’ investing",
+   "Financial Times",
+   "https://news.google.com/rss/articles/CBMihAFBVV95cUxOck5BdVdNWTVZYzgwQVFMd0lwUjlQZHV1NW5MV0M1QzlSd3IzOXNpZjlxc0VnTWszWEZhR1pmSzhPc1FfWmdrSDJTTW12ejlUZWVpSzlLZUFuV2FsVm9RMW13cHBOYVl6SjZJNDFfRGdxbnVnM1VwekcyQVYxY0xoaHRZcWo?oc=5"
   ],
   [
    "Commodities",
@@ -538,10 +538,10 @@
   ],
   [
    "Commodities",
-   "high",
-   "Gold price holds critical $4,000 support, but strong U.S. jobs data and inflation risks threaten recovery",
-   "Kitco",
-   "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMVFrY1hheExQaDduSlBRcndvS2FkcW84Y0UwRnVZUGRKSnJ5eW9keHNzemhJNEpadVQxRlJXMHNxYzhOVXVLakZNNTBBNmNsYTFadkpvN0Z4RnFwWUtYcVoxRlZjV3pNaWphd2FZRGt5eGp4Z20wc2xkeTN3dXFpa0xodkIwdGlQTHhCc05PQTBISkNjVjE1LTZSMUR0UV91SlFNR0x5STlSeEt6R2lOR0JsUXBURzk3V2c?oc=5"
+   "med",
+   "Current price of oil as of November 5, 2026",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUblBRaXV3bHVma0s3Uk9nT2d5cXBrRWFiUEU2NnZ2VVFyV3RRVGZfOHdVTThDcXpxUzZwSkMtYlhobl9EWUFKcEhERTl0WE9SS3g5V2loeUN4UGFaRHJmV1VB?oc=5"
   ]
  ]
 }
