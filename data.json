@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T10:54:04.348Z",
+ "updated": "2026-11-07T11:49:54.360Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75862.83,
-   "ch": 0.16,
-   "asof": "2026-11-07T10:54:01.000Z"
+   "p": 75916.66,
+   "ch": 0.23,
+   "asof": "2026-11-07T11:49:49.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2242.66,
+   "p": 2242.74,
    "ch": 0.33,
-   "asof": "2026-11-07T10:54:00.000Z"
+   "asof": "2026-11-07T11:49:49.000Z"
   },
   {
    "s": "S&P 500",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.8,
-   "ch": -0.29,
-   "asof": "2026-11-07T10:54:00.000Z"
+   "p": 89.91,
+   "ch": -0.16,
+   "asof": "2026-11-07T11:49:52.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1688,
-   "ch": -0.79,
-   "asof": "2026-11-07T10:54:00.000Z"
+   "p": 1.1703,
+   "ch": -0.66,
+   "asof": "2026-11-07T11:49:51.000Z"
   },
   {
    "s": "Apple",
@@ -504,9 +504,9 @@
   [
    "Crypto",
    "med",
-   "Bitcoin Price Prediction: Where Will BTC Be by 2028?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY3hmOV9RMTRWTE00QmJndkNmRXJxbVBsTjdUUk12OG8yTFZweU1XOXFqdVo2WURadFFTS0Jjc0lqaHFUcDd5M2NjaUNhNHI0SjdNbFdZTXhNcXFGQm5lcjJoWXFVc3Y4cW41OXdDaGVUb3l3Uk56akVDcGtueWdueU85emhXRGoxOHFkdDJqMlpwUTg2X2dVbnR0Rk42a0ds?oc=5"
+   "Ethereum ETH (ETH-GBP) Live Price, News, Chart and Price History",
+   "Yahoo Finance UK",
+   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TaE0xc0V3dUJaMVprb2VoSHNTaHRNSFdMWkMzTWctV0xIdXZKeVdBcjN4S1dhSjdVb3p6Nl9vd2JRaXJza1ZyOVJVUHpKbTNJRnZ3UG5n?oc=5"
   ],
   [
    "Crypto",
@@ -518,16 +518,16 @@
   [
    "Stocks",
    "med",
-   "Deepening Tech Selloff Pushes Nasdaq Toward Its Worst Month in Over a Year",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0dCXzNIVWRZZmZVTWM2U25pX18zb0RtZlIwYjd0RUpuYzdpRUJBdl9pT3pjQkVpa29KU043MjhLOWhaLTBkUGxFZHVIcFNzWkFKQXkyMUVUakJIVlo5X3lPTlJWMGgtNFc2WDd4OE5BNkY4UzNOdjRVTDU0ZjBHZUkybEd2RkVVbHB4c2RrSl92OW8?oc=5"
+   "COMMENTARY: US stocks always rise after midterms. Is this time different?",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOUUxZDUzd0xuR1o2YW11a0Nqcy0yZUtiMzlNU1VsRWIxMDVubDNLZHh6MWUwT1NDYnVwajFLdVMxdEs4RGlRdmlGR29DbjQ1MGJ3LURkN3BIUFZvNV9UVVI0OThfYWUyMFVqdkRNUTBXQkVpeWNqNGdza0hIWFZrTWVYZTNUS2o4VmJhMkVwXzlkWEUxNE03OWZIdEdpTzl2d0hReXpXbGM4Mk9qSHZJNnBXejU4Y0Q2d3IwbUVmMTJ5bGs2YURn?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "COMMENTARY: US stocks always rise after midterms. Is this time different?",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOUUxZDUzd0xuR1o2YW11a0Nqcy0yZUtiMzlNU1VsRWIxMDVubDNLZHh6MWUwT1NDYnVwajFLdVMxdEs4RGlRdmlGR29DbjQ1MGJ3LURkN3BIUFZvNV9UVVI0OThfYWUyMFVqdkRNUTBXQkVpeWNqNGdza0hIWFZrTWVYZTNUS2o4VmJhMkVwXzlkWEUxNE03OWZIdEdpTzl2d0hReXpXbGM4Mk9qSHZJNnBXejU4Y0Q2d3IwbUVmMTJ5bGs2YURn?oc=5"
+   "Billionaire Investor Bill Ackman Just Issued a Blunt Warning to Wall Street",
+   "The Motley Fool",
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS3pvbTRHdkktc3V4ZW4zUWVqWmRYazdLbFVNX1ROOEN4U2VUQmE1VDZ2X2x0WmNrVjA2RUlqUkFlT0xFQzFrdUlpRmY1aGtGdV9PQURZQ0w1dUcyZENYbEhKVGRPOHFQeXh3RThBOVB0bGxHdmlxUzNVUHFlUmN5Z29jamRONWhhSHNTdWZyUUd2M1Iz?oc=5"
   ],
   [
    "Commodities",
