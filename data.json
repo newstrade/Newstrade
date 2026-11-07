@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T19:51:42.674Z",
+ "updated": "2026-11-07T20:49:59.727Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -331,7 +331,7 @@
    "d": 2,
    "p": 158.425,
    "ch": 0.49,
-   "asof": "2026-11-07T05:21:16.000Z"
+   "asof": "2026-11-07T20:42:27.000Z"
   },
   {
    "s": "AUD/USD",
@@ -339,7 +339,7 @@
    "d": 4,
    "p": 0.6868,
    "ch": -0.92,
-   "asof": "2026-11-07T05:49:29.000Z"
+   "asof": "2026-11-07T20:39:33.000Z"
   },
   {
    "s": "USD/CAD",
@@ -347,7 +347,7 @@
    "d": 4,
    "p": 1.4128,
    "ch": 0.81,
-   "asof": "2026-11-07T05:21:16.000Z"
+   "asof": "2026-11-07T20:10:22.000Z"
   },
   {
    "s": "USD/CHF",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75657.27,
-   "ch": -0.11,
-   "asof": "2026-11-07T19:51:37.000Z"
+   "p": 75554.88,
+   "ch": -0.25,
+   "asof": "2026-11-07T20:49:58.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2230.69,
-   "ch": -0.21,
-   "asof": "2026-11-07T19:51:38.000Z"
+   "p": 2225.15,
+   "ch": -0.46,
+   "asof": "2026-11-07T20:49:53.000Z"
   },
   {
    "s": "S&P 500",
@@ -427,7 +427,7 @@
    "d": 3,
    "p": 16.517,
    "ch": 0.58,
-   "asof": "2026-11-07T05:21:16.000Z"
+   "asof": "2026-11-07T20:10:23.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.47,
-   "ch": -0.65,
-   "asof": "2026-11-07T19:51:37.000Z"
+   "p": 89.04,
+   "ch": -1.13,
+   "asof": "2026-11-07T20:49:59.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1597,
-   "ch": -1.56,
-   "asof": "2026-11-07T19:51:34.000Z"
+   "p": 1.1536,
+   "ch": -2.08,
+   "asof": "2026-11-07T20:49:58.000Z"
   },
   {
    "s": "Apple",
@@ -504,16 +504,16 @@
   [
    "Crypto",
    "med",
-   "The Shadowy Crypto Services Helping the Binance Hackers Launder Stolen Billions",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTUlNYXNWSV9aeko2VWlLTUpldFVrQUNnQ0lBOFptOFdYRnM2N3RTUmUyNTFYQTZHTmF1UUhpYkxjTXBCU0t2Y2E2N21xVjFzakprcXRpeE5HcFBnR3o5MU1PS2xleVRfUWhMRnNXM1JPemsyeHFVdmFwU0tualVLTnhFa0EyelhqLUF0dXk0dExlZmtZOVpueF9ldTZGV21hYTBhWU5VWFRkdXkxZU5lZF9JajU2SEE1bkdHdlpJSzdKSElTSHc?oc=5"
+   "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
+   "Yahoo Finance UK",
+   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NeVkwY1dKeWxrcExZc0dzcnlWSUZ4czQtZHIyX1JYUnp5cWE5WFcwNjl3clkxY3dyUjFtbG1FOU43Ny1leHhSaVpCMzFQREhacmFmaTRR?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
-   "Yahoo Finance UK",
-   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NeVkwY1dKeWxrcExZc0dzcnlWSUZ4czQtZHIyX1JYUnp5cWE5WFcwNjl3clkxY3dyUjFtbG1FOU43Ny1leHhSaVpCMzFQREhacmFmaTRR?oc=5"
+   "Elon Musk Confirms ‘Global Bankruptcy’ Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer",
+   "Forbes",
+   "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMnNGYjNvV3k2Ymw5ZzdiTi04T1p5N0lVYi1YSFhSZGJuWnIwYTJBeVZYb3RqTEw3aGVCNnZtWkx1dWswUzhzRGtXMFAzYTR0RXBPdlpVQUhOaEFkdzBpSm0wM090UVJDc1ZuYjBDVzkydXNjVWIzcW84V2tvaU44NG94VFNFZGg5WU9IWGtaWmk0bUtWeEwwV3FPZk9VY2NqQVhZYnNTOUVPLTAyXzYtUFdVbDl3VDQxN0YyRGtlbktPdGlKLWpUVkFELXJBR05WdWdSeTlB?oc=5"
   ],
   [
    "Stocks",
@@ -539,9 +539,9 @@
   [
    "Commodities",
    "med",
-   "Oil Futures Slide As Market Holds Out Hopes for Middle East Diplomacy",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXo3c0pXbll5VVJ6eUlRbTJQZ0xLSnFISGlnVGRReWlBTnJYT2d5RVd5cTZmTnFkS0VoZ3h1cVNGOEhOMHUtMUlRU0hPMDhhTmtINTNHdC1JeVRlTExaSklrRWNvaHpMSERXOF9VRlRZTGh4YmZ4aWg3a2ctdlI1bkVsdUY4X0RDMElsTHpaOFN4VVE4YzBwRzVHRk0yamVxM2dJMmdVYlNSdVZoaGR6akhlUGU5WTlx?oc=5"
+   "Statement from President and CEO Brent Leggs on the Bipartisan American Affordability and Jobs Act",
+   "National Trust for Historic Preservation",
+   "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUHRSQk5kbTlEd0ZmOGRhRWNDdURmNExmOWhQcS1iSmR5Zl94UTJ0WUU1R01PbzRWdGVLamZvV2x1WDVteEpXUHZyc21rc0J0cW54bW5XVnZMOUFOZ3NoSDZucC1qZm45cUI1Q1Y5UkNwMkNiXzBXc0NuNy1fNGRmeUtsTkVadw?oc=5"
   ]
  ]
 }
