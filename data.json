@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T08:12:56.292Z",
+ "updated": "2026-11-07T09:00:38.297Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 76013.99,
-   "ch": 0.36,
-   "asof": "2026-11-07T08:12:53.000Z"
+   "p": 76109.98,
+   "ch": 0.49,
+   "asof": "2026-11-07T09:00:33.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2244.2,
-   "ch": 0.4,
-   "asof": "2026-11-07T08:12:53.000Z"
+   "p": 2247.55,
+   "ch": 0.55,
+   "asof": "2026-11-07T09:00:34.000Z"
   },
   {
    "s": "S&P 500",
@@ -393,9 +393,9 @@
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 51285.7,
+   "p": 51285.73,
    "ch": -0.46,
-   "asof": "2026-11-06T21:00:00.000Z"
+   "asof": "2026-11-06T21:37:13.000Z"
   },
   {
    "s": "Gold",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 90.09,
-   "ch": 0.04,
-   "asof": "2026-11-07T08:12:47.000Z"
+   "p": 90.21,
+   "ch": 0.17,
+   "asof": "2026-11-07T09:00:35.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1771,
-   "ch": -0.08,
-   "asof": "2026-11-07T08:12:51.000Z"
+   "p": 1.1751,
+   "ch": -0.25,
+   "asof": "2026-11-07T09:00:34.000Z"
   },
   {
    "s": "Apple",
@@ -496,10 +496,10 @@
   ],
   [
    "Forex",
-   "med",
-   "Sterling Infrastructure (STRL) Lifts 2026 Guidance, Is It A Bargain After The Sell Off?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcFl4Zm5ESXVISGQ1VmJ6djhGeTNPZkNWRU1BZzBfZHNfS21uSmhBMnQ2eEZPRU1ETVcxYWZBVm5tdTlIMTh5ckxjMF92RUdXVFRLQ0lQWFlCelNLYXdlOVlUR09jNzRjOUpTejB6ODBJWE1jdmRsZFhWWHlrbFN4QVZlOU9YRWJOMlFXVEtNajd6TlRjN2l1VWo3Mm1OeXdNNDZFZldZYw?oc=5"
+   "high",
+   "Czech Premier Blasts Central Bank Rate Hike as ‘Scandalous’",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMirAFBVV95cUxObHZGYm10VWZ4YVdFUWRKTDJxLWdwZ0JTSEVyQTZIcDZGU0dXWDNQMlJrU056TUo3QVRnX3hsSkNjbS01Y192R3FMd29PZDF6VTE1ZWpkdlJjdkhHa2VkUjZWNXZfdUFYaGV1QUFuZk5OZU9qR0N4THA5bnFwZ2IzZWFtM0UzVTdBUTZqZmRaQ1RiWHRkb0xDUjdDdWFBdl9qZ1ZYZDZqZHFHRGF3?oc=5"
   ],
   [
    "Crypto",
