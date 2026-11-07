@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T05:57:30.575Z",
+ "updated": "2026-11-07T07:13:48.670Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75924.67,
-   "ch": 0.24,
-   "asof": "2026-11-07T05:57:27.000Z"
+   "p": 75902.97,
+   "ch": 0.21,
+   "asof": "2026-11-07T07:13:47.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2246.33,
-   "ch": 0.49,
-   "asof": "2026-11-07T05:57:26.000Z"
+   "p": 2243.28,
+   "ch": 0.36,
+   "asof": "2026-11-07T07:13:46.000Z"
   },
   {
    "s": "S&P 500",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 90.17,
-   "ch": 0.12,
-   "asof": "2026-11-07T05:57:28.000Z"
+   "p": 90.12,
+   "ch": 0.07,
+   "asof": "2026-11-07T07:13:48.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1601,
-   "ch": -1.52,
-   "asof": "2026-11-07T05:57:22.000Z"
+   "p": 1.1687,
+   "ch": -0.79,
+   "asof": "2026-11-07T07:13:43.000Z"
   },
   {
    "s": "Apple",
@@ -496,10 +496,10 @@
   ],
   [
    "Forex",
-   "high",
-   "Spain nominates former central bank head De Cos for ECB presidency, deputy PM says",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZEF5eVkyWXowNTFrSWY0bVZrTzNjMXQ0NWFhQm41ZmlPN3BlVVdUN2hjS0xkczJ2N3JRYUxEUl9NRHVMekptdHp3eDNrQWJuYVZ4UHljZnlTc2gtRlVEcnZIbElkeS1jR1pQUVc3UVVwWE5tcW5oQm5FRWEtSDZBYkpYRzZWbTNCSV9rNGJaSFA0aWtONkxXbDdNemVFbUhMbDRWMlQ3aFVZdk42ajM0T181bGNJazVHYTFlUzRGeGgtU1hN?oc=5"
+   "med",
+   "Sterling Infrastructure (STRL) Lifts 2026 Guidance, Is It A Bargain After The Sell Off?",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcFl4Zm5ESXVISGQ1VmJ6djhGeTNPZkNWRU1BZzBfZHNfS21uSmhBMnQ2eEZPRU1ETVcxYWZBVm5tdTlIMTh5ckxjMF92RUdXVFRLQ0lQWFlCelNLYXdlOVlUR09jNzRjOUpTejB6ODBJWE1jdmRsZFhWWHlrbFN4QVZlOU9YRWJOMlFXVEtNajd6TlRjN2l1VWo3Mm1OeXdNNDZFZldZYw?oc=5"
   ],
   [
    "Crypto",
@@ -525,16 +525,9 @@
   [
    "Stocks",
    "med",
-   "Wall Street’s Script Gets Flipped by Post-Election Rout",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdXVhN09VbTdkbDF5WHZhcEdNd2xpdy1QaWx4dVAyd21oZmgxc09ESUZuVUpoejIxNzdya19GZTcwOGt6T0J3dHIzckRvR2V2SUtPdEYxR1RoTnAxNWFjY1owWFpUbkdQVzNWQ2FvQ0hTOEJZcEtXNFhWU0ZFeUpsMTA0QkFHc1pZTTUzYzVFZXVkQVdJZVI2TUx4YVpXR2IzWXdERkViZkdaVjRiRHc?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
-   "Kitco",
-   "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5"
+   "COMMENTARY: US stocks always rise after midterms. Is this time different?",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOUUxZDUzd0xuR1o2YW11a0Nqcy0yZUtiMzlNU1VsRWIxMDVubDNLZHh6MWUwT1NDYnVwajFLdVMxdEs4RGlRdmlGR29DbjQ1MGJ3LURkN3BIUFZvNV9UVVI0OThfYWUyMFVqdkRNUTBXQkVpeWNqNGdza0hIWFZrTWVYZTNUS2o4VmJhMkVwXzlkWEUxNE03OWZIdEdpTzl2d0hReXpXbGM4Mk9qSHZJNnBXejU4Y0Q2d3IwbUVmMTJ5bGs2YURn?oc=5"
   ],
   [
    "Commodities",
@@ -542,6 +535,13 @@
    "Oil Futures Slide As Market Holds Out Hopes for Middle East Diplomacy",
    "WSJ",
    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXo3c0pXbll5VVJ6eUlRbTJQZ0xLSnFISGlnVGRReWlBTnJYT2d5RVd5cTZmTnFkS0VoZ3h1cVNGOEhOMHUtMUlRU0hPMDhhTmtINTNHdC1JeVRlTExaSklrRWNvaHpMSERXOF9VRlRZTGh4YmZ4aWg3a2ctdlI1bkVsdUY4X0RDMElsTHpaOFN4VVE4YzBwRzVHRk0yamVxM2dJMmdVYlNSdVZoaGR6akhlUGU5WTlx?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Crude gains on worries about renewed US attacks on Iran",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0loTjAtWUlkbnpIR2huZE8zWWkxZHZIZlprNlQ5Z3BSaGUxcnE1ZDdqbXFuOHFpQVdrbzEyNnRUSGR4ZDh3SEpqQkpqX2NZa0JlZjEyZlp3RElJMFlhVDRLLTZ3MzRuV2NuTXR3SjhQejExMVR4eE10YThVcmJYaTdNYmt1SjJfeG10NlJRRFB1SFNQUlRSanFrYzBFUjlZNjBGMjhxSi1MZG1sd19kWGU0Ykt5bmR4by1B?oc=5"
   ]
  ]
 }
