@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T13:04:06.461Z",
+ "updated": "2026-11-07T13:58:14.645Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -315,7 +315,7 @@
    "d": 4,
    "p": 1.1143,
    "ch": -0.67,
-   "asof": "2026-11-06T22:29:28.000Z"
+   "asof": "2026-11-06T22:29:32.000Z"
   },
   {
    "s": "GBP/USD",
@@ -323,7 +323,7 @@
    "d": 4,
    "p": 1.3356,
    "ch": -0.71,
-   "asof": "2026-11-06T22:29:28.000Z"
+   "asof": "2026-11-06T22:29:32.000Z"
   },
   {
    "s": "USD/JPY",
@@ -339,7 +339,7 @@
    "d": 4,
    "p": 0.6868,
    "ch": -0.92,
-   "asof": "2026-11-07T05:49:25.000Z"
+   "asof": "2026-11-07T05:49:29.000Z"
   },
   {
    "s": "USD/CAD",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75815.61,
-   "ch": 0.1,
-   "asof": "2026-11-07T13:04:03.000Z"
+   "p": 75837.98,
+   "ch": 0.13,
+   "asof": "2026-11-07T13:58:09.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2240.36,
-   "ch": 0.23,
-   "asof": "2026-11-07T13:04:03.000Z"
+   "p": 2242.11,
+   "ch": 0.3,
+   "asof": "2026-11-07T13:58:05.000Z"
   },
   {
    "s": "S&P 500",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.78,
-   "ch": -0.31,
-   "asof": "2026-11-07T13:03:58.000Z"
+   "p": 89.88,
+   "ch": -0.2,
+   "asof": "2026-11-07T13:58:02.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1608,
-   "ch": -1.46,
-   "asof": "2026-11-07T13:04:02.000Z"
+   "p": 1.1648,
+   "ch": -1.12,
+   "asof": "2026-11-07T13:58:06.000Z"
   },
   {
    "s": "Apple",
@@ -490,44 +490,44 @@
   [
    "Forex",
    "med",
+   "GBP/USD (GBPUSD=X) live rate, chart and news",
+   "Yahoo Finance UK",
+   "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NbzZVOXY1Z0JsbVlxU2paRTdhaDZSTFJ6RzRCLUF1ek1EcW9JeEFXUWdHem15UW0ydzAzYTNDSy1xWHNWS1d3c3lGOHdjQXZTQlN2Y1l6NDNEUQ?oc=5"
+  ],
+  [
+   "Forex",
+   "med",
    "Malaysia’s Central Bank Holds Rate Steady, Cites Resilient Growth",
    "WSJ",
    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVXlhbGhKc2YwSGFyMDY5MlR1eERYdl9OM1ZlbkstMUtCYnI3UUQ3cmdpVEpYcjFTaVlGSEZHaHZaYjNhQVhZbmJ1T2dKWW5rY1Mta0NxY0pTN1ZJQldKZDBGU0plbWhSSklwV3pQeld6M3Z0WkZ0WldsbDFKX0xjOTN3NHNQcDJPZERJcTdKeFlueVdZRFpzODhkMUwyNFI1VHJnTWJGaG52U002YkE4RlRrQlZKajQ?oc=5"
   ],
   [
-   "Forex",
+   "Crypto",
+   "med",
+   "Elon Musk Confirms ‘Global Bankruptcy’ Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer",
+   "Forbes",
+   "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMnNGYjNvV3k2Ymw5ZzdiTi04T1p5N0lVYi1YSFhSZGJuWnIwYTJBeVZYb3RqTEw3aGVCNnZtWkx1dWswUzhzRGtXMFAzYTR0RXBPdlpVQUhOaEFkdzBpSm0wM090UVJDc1ZuYjBDVzkydXNjVWIzcW84V2tvaU44NG94VFNFZGg5WU9IWGtaWmk0bUtWeEwwV3FPZk9VY2NqQVhZYnNTOUVPLTAyXzYtUFdVbDl3VDQxN0YyRGtlbktPdGlKLWpUVkFELXJBR05WdWdSeTlB?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "Crypto’s Trump-Fueled Washington Boom Reaches Its Endgame",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWDExNUNVYUxJcVdMUy1GZ1pfMFFVVVkwdlBfY2FYWmZTa2RpOEhkbExNZE03NDhrbFVJczJ5WTBmRy1WOVcwa0s2SDBGWVNNZ2ljRXR5U2R4RFNaemo1Y2p2YkFuMzhRdUFkbXZIVzVRdVhCXzMtX2V1SS1talB4ZVBtQ1psemJVQ3JqT3hOTVp3YlBOOWxNT2ZqMUJpSUllT2xNTGc3SUx2Mnh6?oc=5"
+  ],
+  [
+   "Stocks",
    "high",
-   "Czech Premier Blasts Central Bank Rate Hike as ‘Scandalous’",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMirAFBVV95cUxObHZGYm10VWZ4YVdFUWRKTDJxLWdwZ0JTSEVyQTZIcDZGU0dXWDNQMlJrU056TUo3QVRnX3hsSkNjbS01Y192R3FMd29PZDF6VTE1ZWpkdlJjdkhHa2VkUjZWNXZfdUFYaGV1QUFuZk5OZU9qR0N4THA5bnFwZ2IzZWFtM0UzVTdBUTZqZmRaQ1RiWHRkb0xDUjdDdWFBdl9qZ1ZYZDZqZHFHRGF3?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "Ethereum ETH (ETH-GBP) Live Price, News, Chart and Price History",
-   "Yahoo Finance UK",
-   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TaE0xc0V3dUJaMVprb2VoSHNTaHRNSFdMWkMzTWctV0xIdXZKeVdBcjN4S1dhSjdVb3p6Nl9vd2JRaXJza1ZyOVJVUHpKbTNJRnZ3UG5n?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "Bitcoin Selloff Eases as Investors Explore Cautious Recovery",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxPanI5WVpaVXdYVDM4dVdieTFHSnFjcU9vLUhPMk1velVJMUFZdHdzUjB1WGJMYTlkeVRaVEJVeHdSd0tJVU1IUVpsZ3JReUxORTBLVlFzSGo5cjU2R1dMemRhcWNHbTNfV29oUEFQYldxaTB0UmltbFpsVy1BX1JlV1l2MjByb3RxQVNyTzcwdmp4NDM4UHhrZW9odWVlVmZxX3VuWkxLNVJNRmdPY1gtbA?oc=5"
+   "Berkshire shares surge as Wall Street swoons amid AI fears",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQXgyQmpJT1lzSWhTZ01uZWJoRngzWm44N2hQT2lRcUNLWVZONlZQa3lHOTN0VE1zNEZvSjNzUEk4aThrNk1DbTZpazdtTm43TmJUYWNwYWlnTDJocHM3T3BybUpWSlM1ZElKTExkRTBoQy1NVy1zZDRCWHNPZDJFcXJReDR2OF81MkxPS282anN1UzRlUzNBb0tWTQ?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "COMMENTARY: US stocks always rise after midterms. Is this time different?",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOUUxZDUzd0xuR1o2YW11a0Nqcy0yZUtiMzlNU1VsRWIxMDVubDNLZHh6MWUwT1NDYnVwajFLdVMxdEs4RGlRdmlGR29DbjQ1MGJ3LURkN3BIUFZvNV9UVVI0OThfYWUyMFVqdkRNUTBXQkVpeWNqNGdza0hIWFZrTWVYZTNUS2o4VmJhMkVwXzlkWEUxNE03OWZIdEdpTzl2d0hReXpXbGM4Mk9qSHZJNnBXejU4Y0Q2d3IwbUVmMTJ5bGs2YURn?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Billionaire Investor Bill Ackman Just Issued a Blunt Warning to Wall Street",
-   "The Motley Fool",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS3pvbTRHdkktc3V4ZW4zUWVqWmRYazdLbFVNX1ROOEN4U2VUQmE1VDZ2X2x0WmNrVjA2RUlqUkFlT0xFQzFrdUlpRmY1aGtGdV9PQURZQ0w1dUcyZENYbEhKVGRPOHFQeXh3RThBOVB0bGxHdmlxUzNVUHFlUmN5Z29jamRONWhhSHNTdWZyUUd2M1Iz?oc=5"
+   "Wall Street Strategists Call Stock Rout a Fresh Reason to Buy",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjJsWU9HVVVVTlJNRjYxYkJ6UFBBdnQzNklIM0w5X1R0YUtlT2RSeG5XR2JqMkF6Q3J5NVVBMm5sSVd4TVRfRFpYNHBLVDdSRFlmRXZxTHpJbllDVHM2Vm9lMmVBNGVWSUFrc1c2NEMzc0tBV0p3Yk16R1IwUTdsa2ZzNkNvYXpnM250dGYzZVFsV0FZbXE5YTZwYnllR1hXZkl5a2w3YVFtMXdKSGZkZzdR?oc=5"
   ],
   [
    "Commodities",
@@ -539,9 +539,9 @@
   [
    "Commodities",
    "med",
-   "Current price of oil as of November 5, 2026",
-   "Fortune",
-   "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUblBRaXV3bHVma0s3Uk9nT2d5cXBrRWFiUEU2NnZ2VVFyV3RRVGZfOHdVTThDcXpxUzZwSkMtYlhobl9EWUFKcEhERTl0WE9SS3g5V2loeUN4UGFaRHJmV1VB?oc=5"
+   "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMWQ5c2RBN2lVLVVlYWRjNS03cFo4RkpVQXgzZUhWN2lyaS0tUHA1SXJ2Vm56MDQ4R0JCNlFubmt2bEhEZG5maGpLV0J6M3JRWm1iUHVWb0dXUnJWN19fU1dLS2tTY2lRNmI3YzNKM1ZPb2RHSE1pb19kWE9mS0RNRlNjZWU?oc=5"
   ]
  ]
 }
