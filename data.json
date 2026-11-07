@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:59:30.018Z",
+ "updated": "2026-11-07T04:00:20.687Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75936,
-   "ch": 0.26,
-   "asof": "2026-11-07T02:59:21.000Z"
+   "p": 75794.53,
+   "ch": 0.07,
+   "asof": "2026-11-07T04:00:05.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2243.48,
-   "ch": 0.36,
-   "asof": "2026-11-07T02:59:25.000Z"
+   "p": 2240.79,
+   "ch": 0.24,
+   "asof": "2026-11-07T04:00:17.000Z"
   },
   {
    "s": "S&P 500",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 90.23,
-   "ch": 0.19,
-   "asof": "2026-11-07T02:59:26.000Z"
+   "p": 89.9,
+   "ch": -0.18,
+   "asof": "2026-11-07T04:00:14.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.165,
-   "ch": -1.11,
-   "asof": "2026-11-07T02:59:27.000Z"
+   "p": 1.1585,
+   "ch": -1.66,
+   "asof": "2026-11-07T04:00:16.000Z"
   },
   {
    "s": "Apple",
@@ -518,9 +518,9 @@
   [
    "Stocks",
    "med",
-   "Wall Street Gets $2.5 Trillion AI Reality Check With Historic Rout of Tech Stocks",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVjhNSkxWaHNDNkkxUE51NVdvLXhyVzJ5ZGRmUHNrSUlNcG05TXRBZ2JVV3RPWk45RUxySTlZME9BRklSTFBTTzJUX294eHF5MXRkeGRMejl4SmY2MFJCckxRcmZnWXVoYnV5ang4VDZmenBqbU1Ld0NKSWIyMGdDOUxZaVhUWFVfRzg1eHlwbnk3OENMVFVybkVxc3k0b1ExMlY0WVdoSGFSdGFPclpsdWFTUHdfaVN6cnJaRUo4WFVEUQ?oc=5"
+   "Wall Street’s Script Gets Flipped by Post-Election Rout",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdXVhN09VbTdkbDF5WHZhcEdNd2xpdy1QaWx4dVAyd21oZmgxc09ESUZuVUpoejIxNzdya19GZTcwOGt6T0J3dHIzckRvR2V2SUtPdEYxR1RoTnAxNWFjY1owWFpUbkdQVzNWQ2FvQ0hTOEJZcEtXNFhWU0ZFeUpsMTA0QkFHc1pZTTUzYzVFZXVkQVdJZVI2TUx4YVpXR2IzWXdERkViZkdaVjRiRHc?oc=5"
   ],
   [
    "Stocks",
