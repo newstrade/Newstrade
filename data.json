@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T19:53:53.032Z",
+ "updated": "2026-11-08T20:49:23.911Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -97,65 +97,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1141,
-   "ch": -0.69,
-   "asof": "2026-11-08T19:53:32.000Z"
+   "p": 1.1142,
+   "ch": -0.68,
+   "asof": "2026-11-08T20:29:32.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3347,
-   "ch": -0.78,
-   "asof": "2026-11-08T19:53:32.000Z"
+   "p": 1.3355,
+   "ch": -0.72,
+   "asof": "2026-11-08T20:29:32.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.381,
-   "ch": 0.46,
-   "asof": "2026-11-08T19:53:50.000Z"
+   "p": 158.329,
+   "ch": 0.43,
+   "asof": "2026-11-08T20:29:30.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6877,
-   "ch": -0.79,
-   "asof": "2026-11-08T19:53:32.000Z"
+   "p": 0.6879,
+   "ch": -0.76,
+   "asof": "2026-11-08T20:47:32.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.413,
-   "ch": 0.83,
-   "asof": "2026-11-08T19:50:51.000Z"
+   "p": 1.4119,
+   "ch": 0.75,
+   "asof": "2026-11-08T20:41:24.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8194,
-   "ch": 0.42,
-   "asof": "2026-11-08T19:27:30.000Z"
+   "p": 0.8189,
+   "ch": 0.36,
+   "asof": "2026-11-08T20:47:20.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75838.43,
-   "ch": 0.11,
-   "asof": "2026-11-08T19:53:41.000Z"
+   "p": 75710.67,
+   "ch": -0.06,
+   "asof": "2026-11-08T20:49:21.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2230.53,
-   "ch": -0.29,
-   "asof": "2026-11-08T19:53:51.000Z"
+   "p": 2224.59,
+   "ch": -0.55,
+   "asof": "2026-11-08T20:49:17.000Z"
   },
   {
    "s": "S&P 500",
@@ -186,7 +186,7 @@
    "m": "Commodities",
    "d": 2,
    "p": 4074.9,
-   "ch": -0.94,
+   "ch": 0,
    "asof": "2026-11-06T21:59:59.000Z"
   },
   {
@@ -194,7 +194,7 @@
    "m": "Commodities",
    "d": 2,
    "p": 90.83,
-   "ch": 0.34,
+   "ch": 0,
    "asof": "2026-11-06T21:59:58.000Z"
   },
   {
@@ -209,9 +209,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5413,
-   "ch": 0.73,
-   "asof": "2026-11-08T19:17:59.000Z"
+   "p": 16.5237,
+   "ch": 0.62,
+   "asof": "2026-11-08T20:47:01.000Z"
   },
   {
    "s": "USD/NGN",
@@ -225,17 +225,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.53,
-   "ch": -0.16,
-   "asof": "2026-11-08T19:53:50.000Z"
+   "p": 89.21,
+   "ch": -0.51,
+   "asof": "2026-11-08T20:49:21.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1509,
-   "ch": -0.96,
-   "asof": "2026-11-08T19:53:47.000Z"
+   "p": 1.1503,
+   "ch": -1.01,
+   "asof": "2026-11-08T20:49:20.000Z"
   },
   {
    "s": "Apple",
@@ -266,7 +266,7 @@
    "m": "Commodities",
    "d": 3,
    "p": 51.942,
-   "ch": -0.83,
+   "ch": 0,
    "asof": "2026-11-06T21:59:59.000Z"
   }
  ],
@@ -288,16 +288,16 @@
   [
    "Crypto",
    "med",
-   "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTV9pQU04RTJMTkVqcmlsajVpbnlweWhzbTVNMmE5dVhZeGV2NlF3Z2RwbC11VVNVZzVPMmRzX29NNHNpSmJZSjVMVnFoWG5TS3N1aDJvc0lkMXVXS1g1SjFCQS15ZnVwNm4tcWJQOHhDcWI4a3JNOXNfV2xLVEx3MHRxSnRHei01cGMyVmR6bEE4Q0FDYW5RbjZEQlF0V1hwLUh2UFROamJsSF9SVHRnSzdxQ2pjcU9ob29mdXVERmxVVE5sN3pNWHhDa3RZbkk?oc=5"
+   "Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLWljNlJ2T28tVUlGZVNsNHVkbHdHMWRTNVczSGRkZjlMbGt5WjNmV2d3TTFvU1dVNTZzQ2dvNExUeWhrSGZUc3ZoOTA0eDRMbC1DQ1VNcFBGaHhHa3F5S1llWUVWNmxpSERYZThucHM2eFJTYWFoYklpcThITjN2SUI3V1BOS2pNN250SXk3eW5Tak5qTEZiNDhMU3FhaFQ5LWlnOHpJb1NERExKcUZ3cEVpV0tNUWM?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Binance names new finance chief after $6.3 billion crypto theft",
-   "Seeking Alpha",
-   "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ0hta01uQnFwRGlIbXhjdTZuTlpEcUp6UEZadExxeVdqT2ZreVhpUUJaZWdFM3BwRS1nSkRndHhZZVBPZ0J2WjlZeXlCWUdDVFg0el9rckZKT1VaTURCR3JKN3NHZmgwbUh4cGpreGV3U1VfMXFpOC0zTE16dzNPRWFCd3UyTHAzalNQdmJSbnMxei1WR2lPNTNiQUZHZ2xibXc?oc=5"
+   "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTV9pQU04RTJMTkVqcmlsajVpbnlweWhzbTVNMmE5dVhZeGV2NlF3Z2RwbC11VVNVZzVPMmRzX29NNHNpSmJZSjVMVnFoWG5TS3N1aDJvc0lkMXVXS1g1SjFCQS15ZnVwNm4tcWJQOHhDcWI4a3JNOXNfV2xLVEx3MHRxSnRHei01cGMyVmR6bEE4Q0FDYW5RbjZEQlF0V1hwLUh2UFROamJsSF9SVHRnSzdxQ2pjcU9ob29mdXVERmxVVE5sN3pNWHhDa3RZbkk?oc=5"
   ],
   [
    "Stocks",
@@ -312,13 +312,6 @@
    "No Matter What Happens to the S&P 500 in November, These 3 Dividend Stocks Belong in Your Portfolio",
    "Yahoo Finance",
    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSkFkS0FyUDYzZW5SYkVpdmRsRE9DcDh2aUhGdlM3SFBra3ZHQzB2V3kyTFEwT2ZxeDFHdmVEcm5STXNlMWt1bXp6ang2ajI0VEp1RE1SbTdOczAwb0FYOG5WaDVCOVVnYnF3ZnR2TmRmUzJZcjh4SjBJYThKWGFFbGRHR3B4TjIzYldhOGk2ek1rZw?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Oil Futures Slide As Market Holds Out Hopes for Middle East Diplomacy",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXo3c0pXbll5VVJ6eUlRbTJQZ0xLSnFISGlnVGRReWlBTnJYT2d5RVd5cTZmTnFkS0VoZ3h1cVNGOEhOMHUtMUlRU0hPMDhhTmtINTNHdC1JeVRlTExaSklrRWNvaHpMSERXOF9VRlRZTGh4YmZ4aWg3a2ctdlI1bkVsdUY4X0RDMElsTHpaOFN4VVE4YzBwRzVHRk0yamVxM2dJMmdVYlNSdVZoaGR6akhlUGU5WTlx?oc=5"
   ],
   [
    "Commodities",
