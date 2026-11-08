@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T01:19:53.177Z",
+ "updated": "2026-11-08T03:00:21.197Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75666.79,
-   "ch": -0.11,
-   "asof": "2026-11-08T01:19:50.000Z"
+   "p": 75705.03,
+   "ch": -0.06,
+   "asof": "2026-11-08T03:00:18.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2230.76,
-   "ch": -0.28,
-   "asof": "2026-11-08T01:19:48.000Z"
+   "p": 2234.29,
+   "ch": -0.12,
+   "asof": "2026-11-08T03:00:17.000Z"
   },
   {
    "s": "S&P 500",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.26,
-   "ch": -0.46,
-   "asof": "2026-11-08T01:19:49.000Z"
+   "p": 89.06,
+   "ch": -0.68,
+   "asof": "2026-11-08T03:00:19.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1582,
-   "ch": -0.33,
-   "asof": "2026-11-08T01:19:50.000Z"
+   "p": 1.1586,
+   "ch": -0.3,
+   "asof": "2026-11-08T03:00:18.000Z"
   },
   {
    "s": "Apple",
@@ -504,23 +504,23 @@
   [
    "Crypto",
    "med",
+   "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
+   "Yahoo Finance UK",
+   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NeVkwY1dKeWxrcExZc0dzcnlWSUZ4czQtZHIyX1JYUnp5cWE5WFcwNjl3clkxY3dyUjFtbG1FOU43Ny1leHhSaVpCMzFQREhacmFmaTRR?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
    "The Shadowy Crypto Services Helping the Binance Hackers Launder Stolen Billions",
    "WSJ",
    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTUlNYXNWSV9aeko2VWlLTUpldFVrQUNnQ0lBOFptOFdYRnM2N3RTUmUyNTFYQTZHTmF1UUhpYkxjTXBCU0t2Y2E2N21xVjFzakprcXRpeE5HcFBnR3o5MU1PS2xleVRfUWhMRnNXM1JPemsyeHFVdmFwU0tualVLTnhFa0EyelhqLUF0dXk0dExlZmtZOVpueF9ldTZGV21hYTBhWU5VWFRkdXkxZU5lZF9JajU2SEE1bkdHdlpJSzdKSElTSHc?oc=5"
   ],
   [
-   "Crypto",
-   "med",
-   "Bitcoin Has Traded at a Discount on Coinbase for 61 Straight Days. Have U.S. Investors Stopped Buying BTC?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTHBGVWdLRTdGVGJfX1FZa1g5UFJOa1ZPQzg5Wk9JR0o0WU1EcUpUVnZzQ2pBOUp0YzRDUWtSb2NFbWl5TktfdEN3S3VyQTd2WjlldGhXSWM3VTh4ZHprdjNzNkFJZ013eGdjQ3phbFRJR095QWRNSUVtT2phZU1veVdEMGxwVjdWTmd4YXdmQ0NWQmZsTFNuN1NJMFp5enp6UUE?oc=5"
-  ],
-  [
    "Stocks",
    "med",
-   "Warren Buffett and Greg Abel Just Sent Shockwaves Through Wall Street With This $377 Billion Warning",
+   "The 1 Investing Habit That Separates Stock Market Millionaires From Everyone Else",
    "The Motley Fool",
-   "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWDJUeGR3dEw0Z2lqQ2VIaXN2UG9rZjdWbjdub3Nqa1NHei1qWU5ZWC1zUkRQTFQwSncwZEMzTlZjcVFxRjZ0ZGg0TEozRS1YVDVULTN6Zmo5S0dIQW1YNGtzN0ZPX1ZyeGhhamlRWFlqczJGWmFSZVgzQU5EUkFGbElFMVZIbzBVUXV2RlF3N0t6c0paeWJ5UlROSGJsTUY0Q1QzUUFBb3AyT2I3djRnazdqZ0VOV2dPTGVfbmo0RDBxTVFxb2FneVFZUDROUQ?oc=5"
+   "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1o1UnlTTXplZG80WG1lNnRjcEpOa2RvYzBqa0ZDY3Jnc2JOMGlpb0JlQkVMMkNPR1JvNmNWdF9iQ0RXakY4SEtORGZrQVdXLXNwVHg1Qm9JX3Y2OUhvR0N6OU9YNFJaUXFHTHJlQWhoS2RuR2lKSkRTa3NDSHdRdWtiSWNkQk9nbkthcWhzejJTek9Dd0Zz?oc=5"
   ],
   [
    "Stocks",
