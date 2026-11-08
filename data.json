@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T20:49:23.911Z",
+ "updated": "2026-11-08T21:48:30.852Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -113,49 +113,49 @@
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.329,
-   "ch": 0.43,
-   "asof": "2026-11-08T20:29:30.000Z"
+   "p": 158.34,
+   "ch": 0.44,
+   "asof": "2026-11-08T21:47:30.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6879,
-   "ch": -0.76,
-   "asof": "2026-11-08T20:47:32.000Z"
+   "p": 0.6875,
+   "ch": -0.82,
+   "asof": "2026-11-08T21:47:33.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4119,
-   "ch": 0.75,
-   "asof": "2026-11-08T20:41:24.000Z"
+   "p": 1.4116,
+   "ch": 0.73,
+   "asof": "2026-11-08T21:07:48.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8189,
-   "ch": 0.36,
-   "asof": "2026-11-08T20:47:20.000Z"
+   "p": 0.8187,
+   "ch": 0.33,
+   "asof": "2026-11-08T21:31:35.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75710.67,
-   "ch": -0.06,
-   "asof": "2026-11-08T20:49:21.000Z"
+   "p": 75234.6,
+   "ch": -0.69,
+   "asof": "2026-11-08T21:48:28.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2224.59,
-   "ch": -0.55,
-   "asof": "2026-11-08T20:49:17.000Z"
+   "p": 2212.04,
+   "ch": -1.11,
+   "asof": "2026-11-08T21:48:25.000Z"
   },
   {
    "s": "S&P 500",
@@ -225,17 +225,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.21,
-   "ch": -0.51,
-   "asof": "2026-11-08T20:49:21.000Z"
+   "p": 87.91,
+   "ch": -1.96,
+   "asof": "2026-11-08T21:48:27.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1503,
-   "ch": -1.01,
-   "asof": "2026-11-08T20:49:20.000Z"
+   "p": 1.1376,
+   "ch": -2.11,
+   "asof": "2026-11-08T21:48:27.000Z"
   },
   {
    "s": "Apple",
@@ -288,9 +288,9 @@
   [
    "Crypto",
    "med",
-   "Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLWljNlJ2T28tVUlGZVNsNHVkbHdHMWRTNVczSGRkZjlMbGt5WjNmV2d3TTFvU1dVNTZzQ2dvNExUeWhrSGZUc3ZoOTA0eDRMbC1DQ1VNcFBGaHhHa3F5S1llWUVWNmxpSERYZThucHM2eFJTYWFoYklpcThITjN2SUI3V1BOS2pNN250SXk3eW5Tak5qTEZiNDhMU3FhaFQ5LWlnOHpJb1NERExKcUZ3cEVpV0tNUWM?oc=5"
+   "Binance hack clouds Singapore crypto push for tokenized stocks",
+   "Nikkei Asia",
+   "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeFZQSXFQX3d5a1p3WkE4RHI2cmFLNUdqNmMtcEhqcUlITkg4SzhkNVVBQWNXckNXbTFYa3JJMXdHeERZanJ4T1hCMW9rS0NzMnIzRmJSdWxoaFZHMXoxa1JnV1BoQWpENl9pNFd1ckUwODBiT25VRmpGOGM3Z2ROMzFES1IyMERrQlRtaUdNX2NiREthb0ZQMHk4NGRCM1lXYnZBSF9ybGhtVW5nSzhlbE5Jemg1Umc?oc=5"
   ],
   [
    "Crypto",
@@ -302,16 +302,23 @@
   [
    "Stocks",
    "med",
+   "A Popular New Bet Hailing From Cryptoland Sets Off a Wall Street Turf War",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnd3TzZDN1pPNVZHQzNVa044OG9iaHVuSWRwRTZhWTlYSG9qVXVCU09jYkFOXzVWcFhyOHVKOXBjTUNlM1JzTGhqT2J2QzZtNTczSjU2QlFiVkJYYV8tOXBOUFdQanRhQnhJX3BuXy0wU0llcXM5ZHJlOUktUXZ6MXdhZU8yenlDdzdtNWl3ZWZTOV9DM1F3Z0RZOEFTTWlnZnNwWFpRVWh3ekZDSWU5Rmx6OV9NMC00WWExbW1R?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
    "Here are the 2 big things we're watching in the stock market in the week ahead",
    "CNBC",
    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc0dUYUM4cUNUeXNpYVFoNmNpMjctVy1oelZYUDJGdkFSTEVhMVhiNlB1LTRWWXEwS3pLV2dxMlRwNHg1R3doQjFvNWdFTVNRUmhzU2VKdmNZeGQ0ZWw2eFk3R2RrM01hV1F4b05UcFFnbW8xbElhWENvQml3SVVBNWdOeTFpNmkwWDI4d3JMYmZZeHk3MXBnQzNTTXExcHhIU2xJdG10V19lRXNBV0EzV1lNZ0VxcDY3YzROVW5YWXRuTXRmenZF?oc=5"
   ],
   [
-   "Stocks",
+   "Commodities",
    "med",
-   "No Matter What Happens to the S&P 500 in November, These 3 Dividend Stocks Belong in Your Portfolio",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSkFkS0FyUDYzZW5SYkVpdmRsRE9DcDh2aUhGdlM3SFBra3ZHQzB2V3kyTFEwT2ZxeDFHdmVEcm5STXNlMWt1bXp6ang2ajI0VEp1RE1SbTdOczAwb0FYOG5WaDVCOVVnYnF3ZnR2TmRmUzJZcjh4SjBJYThKWGFFbGRHR3B4TjIzYldhOGk2ek1rZw?oc=5"
+   "Oil Futures Slide As Market Holds Out Hopes for Middle East Diplomacy",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXo3c0pXbll5VVJ6eUlRbTJQZ0xLSnFISGlnVGRReWlBTnJYT2d5RVd5cTZmTnFkS0VoZ3h1cVNGOEhOMHUtMUlRU0hPMDhhTmtINTNHdC1JeVRlTExaSklrRWNvaHpMSERXOF9VRlRZTGh4YmZ4aWg3a2ctdlI1bkVsdUY4X0RDMElsTHpaOFN4VVE4YzBwRzVHRk0yamVxM2dJMmdVYlNSdVZoaGR6akhlUGU5WTlx?oc=5"
   ],
   [
    "Commodities",
