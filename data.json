@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T16:50:24.146Z",
+ "updated": "2026-11-08T17:46:31.767Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -145,17 +145,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75813.16,
-   "ch": 0.08,
-   "asof": "2026-11-08T16:50:19.000Z"
+   "p": 75662.6,
+   "ch": -0.12,
+   "asof": "2026-11-08T17:46:31.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2232.83,
-   "ch": -0.18,
-   "asof": "2026-11-08T16:50:19.000Z"
+   "p": 2227,
+   "ch": -0.44,
+   "asof": "2026-11-08T17:46:24.000Z"
   },
   {
    "s": "S&P 500",
@@ -225,17 +225,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.19,
-   "ch": -0.54,
-   "asof": "2026-11-08T16:50:19.000Z"
+   "p": 88.94,
+   "ch": -0.81,
+   "asof": "2026-11-08T17:46:31.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1524,
-   "ch": -0.83,
-   "asof": "2026-11-08T16:50:23.000Z"
+   "p": 1.1538,
+   "ch": -0.71,
+   "asof": "2026-11-08T17:46:24.000Z"
   },
   {
    "s": "Apple",
@@ -274,23 +274,23 @@
   [
    "Forex",
    "med",
+   "US Dollar Faces Short-Term Election Pressure, but HSBC Retains Positive Outlook",
+   "Yahoo Finance UK",
+   "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNEJXUHFoZ0diNW9vV0JsN21pMl9DSDRuelZOSHJYeHBnV1V2WlFkeG9xemlSYnYyQkNDMDE1cFJvYUpTdDlFOXpCMXJKb3lVWHh3WnZSX0pZaXB1V2l5aXNSV09KcFhCb2FlWHM2anJjVm1pdTE3S1JlaXJlN3BqOQ?oc=5"
+  ],
+  [
+   "Forex",
+   "med",
    "HSBC Says Strong Democratic Midterm Performance Could Pressure US Dollar in Near Term",
    "Yahoo Finance",
    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUks5X2VVMWQ5bE9OUnQzVjBlVVk5dEpDRFlrWWEtQ2lmTHpYMjAtcm5sUTJuVHpJX0U1RkxqazdKU1BYLVN3aU5Eb0NjT19mbE1FUEtpNEh0c05TemdSSTdidmpiVVdfVmFrYVBqWHI3bkxybjZzMC1sQ2dkcEppU09HUm5MVmlzQjE4SEtZVE5nUlc2TTczLXUyY3U2U084NEhnS1dITQ?oc=5"
   ],
   [
-   "Forex",
-   "med",
-   "3 Stocks Investors Watch When Demand For U.S. Dollar Safety Rises",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR3VtalVBZGxEWWRSY0NiN2NDdE5xbC1LVnk3eWNyRWlKd3NXblZJOUtuNlU0RVkyRGVieWVjNE9MV1VkM1Y1V0lKalNLVFdFOV9TUm4tWjdhRWJiM3ZCMDB4NHVLOTEzWlhDYThsOXBqaGRLQUR5UkFsS2VxaENPY0RUMHZycE9TUVJQdzV1T3hJUFRTTXh6OEpmZlp0WGtFV3c?oc=5"
-  ],
-  [
    "Crypto",
-   "med",
-   "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTV9pQU04RTJMTkVqcmlsajVpbnlweWhzbTVNMmE5dVhZeGV2NlF3Z2RwbC11VVNVZzVPMmRzX29NNHNpSmJZSjVMVnFoWG5TS3N1aDJvc0lkMXVXS1g1SjFCQS15ZnVwNm4tcWJQOHhDcWI4a3JNOXNfV2xLVEx3MHRxSnRHei01cGMyVmR6bEE4Q0FDYW5RbjZEQlF0V1hwLUh2UFROamJsSF9SVHRnSzdxQ2pjcU9ob29mdXVERmxVVE5sN3pNWHhDa3RZbkk?oc=5"
+   "high",
+   "A Top Silicon Valley Investor Predicts a Bitcoin Crash to $57,000 Within the Next 12 Months. Here's Why He's Wrong.",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMiowFBVV95cUxObk15NzBWNnFaRWxWanU2NDk2VXMwR1NMLXIzamp3OWpzZ1YtMHduZm53Q0JiMEZndWpGcUtUV09GNGgyUWtwaUIzeFRkSGdfeTJtU25Ja0FOM3VHb1hscXlzNU1YTk9rSUpsLXJNUWliZkVuWlFDdmZPOFdJSGJRejBkSUpPWDBOOEI4TFR3bDF6TTdReTMxTFN6bjhGMUt2eW5N?oc=5"
   ],
   [
    "Crypto",
