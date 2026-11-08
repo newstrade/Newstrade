@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T18:56:43.988Z",
+ "updated": "2026-11-08T19:53:53.032Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -99,39 +99,39 @@
    "d": 4,
    "p": 1.1141,
    "ch": -0.69,
-   "asof": "2026-11-08T18:56:31.000Z"
+   "asof": "2026-11-08T19:53:32.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3345,
-   "ch": -0.8,
-   "asof": "2026-11-08T18:56:31.000Z"
+   "p": 1.3347,
+   "ch": -0.78,
+   "asof": "2026-11-08T19:53:32.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.384,
+   "p": 158.381,
    "ch": 0.46,
-   "asof": "2026-11-08T18:56:30.000Z"
+   "asof": "2026-11-08T19:53:50.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6873,
-   "ch": -0.85,
-   "asof": "2026-11-08T18:55:31.000Z"
+   "p": 0.6877,
+   "ch": -0.79,
+   "asof": "2026-11-08T19:53:32.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4128,
-   "ch": 0.81,
-   "asof": "2026-11-08T18:48:31.000Z"
+   "p": 1.413,
+   "ch": 0.83,
+   "asof": "2026-11-08T19:50:51.000Z"
   },
   {
    "s": "USD/CHF",
@@ -139,23 +139,23 @@
    "d": 4,
    "p": 0.8194,
    "ch": 0.42,
-   "asof": "2026-11-08T18:56:30.000Z"
+   "asof": "2026-11-08T19:27:30.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75867.5,
-   "ch": 0.15,
-   "asof": "2026-11-08T18:56:37.000Z"
+   "p": 75838.43,
+   "ch": 0.11,
+   "asof": "2026-11-08T19:53:41.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2234.23,
-   "ch": -0.12,
-   "asof": "2026-11-08T18:56:39.000Z"
+   "p": 2230.53,
+   "ch": -0.29,
+   "asof": "2026-11-08T19:53:51.000Z"
   },
   {
    "s": "S&P 500",
@@ -209,9 +209,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.54,
-   "ch": 0.72,
-   "asof": "2026-11-08T18:22:49.000Z"
+   "p": 16.5413,
+   "ch": 0.73,
+   "asof": "2026-11-08T19:17:59.000Z"
   },
   {
    "s": "USD/NGN",
@@ -225,17 +225,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.5,
-   "ch": -0.19,
-   "asof": "2026-11-08T18:56:40.000Z"
+   "p": 89.53,
+   "ch": -0.16,
+   "asof": "2026-11-08T19:53:50.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.158,
-   "ch": -0.35,
-   "asof": "2026-11-08T18:56:39.000Z"
+   "p": 1.1509,
+   "ch": -0.96,
+   "asof": "2026-11-08T19:53:47.000Z"
   },
   {
    "s": "Apple",
@@ -312,6 +312,13 @@
    "No Matter What Happens to the S&P 500 in November, These 3 Dividend Stocks Belong in Your Portfolio",
    "Yahoo Finance",
    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSkFkS0FyUDYzZW5SYkVpdmRsRE9DcDh2aUhGdlM3SFBra3ZHQzB2V3kyTFEwT2ZxeDFHdmVEcm5STXNlMWt1bXp6ang2ajI0VEp1RE1SbTdOczAwb0FYOG5WaDVCOVVnYnF3ZnR2TmRmUzJZcjh4SjBJYThKWGFFbGRHR3B4TjIzYldhOGk2ek1rZw?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Oil Futures Slide As Market Holds Out Hopes for Middle East Diplomacy",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXo3c0pXbll5VVJ6eUlRbTJQZ0xLSnFISGlnVGRReWlBTnJYT2d5RVd5cTZmTnFkS0VoZ3h1cVNGOEhOMHUtMUlRU0hPMDhhTmtINTNHdC1JeVRlTExaSklrRWNvaHpMSERXOF9VRlRZTGh4YmZ4aWg3a2ctdlI1bkVsdUY4X0RDMElsTHpaOFN4VVE4YzBwRzVHRk0yamVxM2dJMmdVYlNSdVZoaGR6akhlUGU5WTlx?oc=5"
   ],
   [
    "Commodities",
