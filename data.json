@@ -1,206 +1,71 @@
 {
- "updated": "2026-11-08T05:02:21.762Z",
+ "updated": "2026-11-08T05:58:15.306Z",
  "events": [
   {
-   "iso": "2026-11-02T10:00:00-05:00",
-   "tag": "USD",
-   "imp": "med",
-   "name": "ISM Manufacturing PMI",
-   "fc": "54.5",
-   "prev": "54.5",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-02T22:30:00-05:00",
-   "tag": "AUD",
-   "imp": "high",
-   "name": "Cash Rate",
-   "fc": "4.85%",
-   "prev": "4.60%",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-02T22:30:00-05:00",
-   "tag": "AUD",
-   "imp": "high",
-   "name": "RBA Monetary Policy Statement",
-   "fc": "",
-   "prev": "",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-02T22:30:00-05:00",
-   "tag": "AUD",
-   "imp": "high",
-   "name": "RBA Rate Statement",
-   "fc": "",
-   "prev": "",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-02T23:30:00-05:00",
-   "tag": "AUD",
-   "imp": "high",
-   "name": "RBA Press Conference",
-   "fc": "",
-   "prev": "",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-03T02:30:00-05:00",
-   "tag": "CHF",
-   "imp": "med",
-   "name": "CPI m/m",
-   "fc": "0.0%",
-   "prev": "0.0%",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-03T10:00:00-05:00",
-   "tag": "USD",
-   "imp": "med",
-   "name": "JOLTS Job Openings",
-   "fc": "7.15M",
-   "prev": "7.08M",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-03T10:16:00-05:00",
-   "tag": "USD",
-   "imp": "high",
-   "name": "Congressional Elections",
-   "fc": "",
-   "prev": "",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-03T11:00:00-05:00",
-   "tag": "CAD",
-   "imp": "med",
-   "name": "BOC Gov Macklem Speaks",
-   "fc": "",
-   "prev": "",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-03T16:45:00-05:00",
-   "tag": "NZD",
-   "imp": "high",
-   "name": "Employment Change q/q",
-   "fc": "0.4%",
-   "prev": "0.5%",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-03T16:45:00-05:00",
-   "tag": "NZD",
-   "imp": "high",
-   "name": "Unemployment Rate",
-   "fc": "5.5%",
-   "prev": "5.6%",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-04T05:00:00-05:00",
-   "tag": "EUR",
-   "imp": "med",
-   "name": "Core CPI Flash Estimate y/y",
-   "fc": "2.5%",
-   "prev": "2.5%",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-04T05:00:00-05:00",
-   "tag": "EUR",
-   "imp": "med",
-   "name": "CPI Flash Estimate y/y",
-   "fc": "4.0%",
-   "prev": "3.8%",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-04T10:00:00-05:00",
-   "tag": "USD",
-   "imp": "med",
-   "name": "ISM Services PMI",
-   "fc": "54.8",
-   "prev": "54.9",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-05T07:00:00-05:00",
+   "iso": "2026-11-09T12:25:00-05:00",
    "tag": "GBP",
-   "imp": "high",
-   "name": "BOE Monetary Policy Report",
-   "fc": "",
-   "prev": "",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-05T07:00:00-05:00",
-   "tag": "GBP",
-   "imp": "high",
-   "name": "Monetary Policy Summary",
-   "fc": "",
-   "prev": "",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-05T07:00:00-05:00",
-   "tag": "GBP",
-   "imp": "high",
-   "name": "MPC Official Bank Rate Votes",
-   "fc": "7-0-2",
-   "prev": "3-0-6",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-05T07:00:00-05:00",
-   "tag": "GBP",
-   "imp": "high",
-   "name": "Official Bank Rate",
-   "fc": "4.00%",
-   "prev": "3.75%",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-05T07:30:00-05:00",
-   "tag": "GBP",
-   "imp": "high",
+   "imp": "med",
    "name": "BOE Gov Bailey Speaks",
    "fc": "",
    "prev": "",
    "act": ""
   },
   {
-   "iso": "2026-11-05T07:40:00-05:00",
-   "tag": "CHF",
+   "iso": "2026-11-10T04:00:00-05:00",
+   "tag": "USD",
    "imp": "med",
-   "name": "SNB Chairman Schlegel Speaks",
+   "name": "FOMC Member Waller Speaks",
    "fc": "",
    "prev": "",
    "act": ""
   },
   {
-   "iso": "2026-11-05T08:30:00-05:00",
+   "iso": "2026-11-10T08:30:00-05:00",
+   "tag": "USD",
+   "imp": "high",
+   "name": "Core CPI m/m",
+   "fc": "0.2%",
+   "prev": "0.3%",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-10T08:30:00-05:00",
+   "tag": "USD",
+   "imp": "high",
+   "name": "CPI m/m",
+   "fc": "0.3%",
+   "prev": "0.6%",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-12T02:00:00-05:00",
+   "tag": "GBP",
+   "imp": "high",
+   "name": "GDP m/m",
+   "fc": "0.0%",
+   "prev": "0.1%",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-12T02:00:00-05:00",
+   "tag": "GBP",
+   "imp": "med",
+   "name": "Prelim GDP q/q",
+   "fc": "0.7%",
+   "prev": "0.5%",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-12T08:30:00-05:00",
    "tag": "USD",
    "imp": "med",
    "name": "Unemployment Claims",
-   "fc": "197K",
-   "prev": "194K",
+   "fc": "194K",
+   "prev": "189K",
    "act": ""
   },
   {
-   "iso": "2026-11-05T10:30:00-05:00",
-   "tag": "CAD",
-   "imp": "med",
-   "name": "BOC Gov Macklem Speaks",
-   "fc": "",
-   "prev": "",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-05T13:00:00-05:00",
+   "iso": "2026-11-12T14:30:00-05:00",
    "tag": "EUR",
    "imp": "med",
    "name": "ECB President Lagarde Speaks",
@@ -209,102 +74,21 @@
    "act": ""
   },
   {
-   "iso": "2026-11-05T16:00:00-05:00",
-   "tag": "CAD",
-   "imp": "med",
-   "name": "Annual Budget Release",
-   "fc": "",
-   "prev": "",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-06T08:30:00-05:00",
-   "tag": "CAD",
-   "imp": "high",
-   "name": "Employment Change",
-   "fc": "14.6K",
-   "prev": "-68.3K",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-06T08:30:00-05:00",
-   "tag": "CAD",
-   "imp": "high",
-   "name": "Unemployment Rate",
-   "fc": "6.5%",
-   "prev": "6.5%",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-06T08:30:00-05:00",
+   "iso": "2026-11-13T08:30:00-05:00",
    "tag": "USD",
    "imp": "high",
-   "name": "Average Hourly Earnings m/m",
+   "name": "Core PPI m/m",
    "fc": "0.3%",
-   "prev": "0.1%",
+   "prev": "0.7%",
    "act": ""
   },
   {
-   "iso": "2026-11-06T08:30:00-05:00",
+   "iso": "2026-11-13T08:30:00-05:00",
    "tag": "USD",
    "imp": "high",
-   "name": "Non-Farm Employment Change",
-   "fc": "65K",
-   "prev": "29K",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-06T08:30:00-05:00",
-   "tag": "USD",
-   "imp": "high",
-   "name": "Unemployment Rate",
-   "fc": "4.2%",
-   "prev": "4.2%",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-06T10:00:00-05:00",
-   "tag": "CAD",
-   "imp": "med",
-   "name": "Ivey PMI",
-   "fc": "57.7",
-   "prev": "58.2",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-06T10:00:00-05:00",
-   "tag": "USD",
-   "imp": "med",
-   "name": "Prelim UoM Consumer Sentiment",
-   "fc": "48.1",
-   "prev": "46.3",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-06T10:00:00-05:00",
-   "tag": "USD",
-   "imp": "med",
-   "name": "Prelim UoM Inflation Expectations",
-   "fc": "",
-   "prev": "4.7%",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-06T11:00:00-05:00",
-   "tag": "JPY",
-   "imp": "high",
-   "name": "BOJ Gov Ueda Speaks",
-   "fc": "",
-   "prev": "",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-06T16:45:00-05:00",
-   "tag": "NZD",
-   "imp": "high",
-   "name": "Parliamentary Elections",
-   "fc": "",
-   "prev": "",
+   "name": "PPI m/m",
+   "fc": "0.4%",
+   "prev": "1.3%",
    "act": ""
   }
  ],
@@ -331,7 +115,7 @@
    "d": 2,
    "p": 158.425,
    "ch": 0.49,
-   "asof": "2026-11-07T23:29:36.000Z"
+   "asof": "2026-11-08T05:21:16.000Z"
   },
   {
    "s": "AUD/USD",
@@ -339,7 +123,7 @@
    "d": 4,
    "p": 0.6868,
    "ch": -0.92,
-   "asof": "2026-11-07T22:29:30.000Z"
+   "asof": "2026-11-08T05:49:33.000Z"
   },
   {
    "s": "USD/CAD",
@@ -347,7 +131,7 @@
    "d": 4,
    "p": 1.4128,
    "ch": 0.81,
-   "asof": "2026-11-07T22:00:20.000Z"
+   "asof": "2026-11-08T05:21:16.000Z"
   },
   {
    "s": "USD/CHF",
@@ -361,17 +145,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75759.56,
-   "ch": 0.01,
-   "asof": "2026-11-08T05:02:13.000Z"
+   "p": 75701.4,
+   "ch": -0.07,
+   "asof": "2026-11-08T05:58:13.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2232.29,
-   "ch": -0.21,
-   "asof": "2026-11-08T05:02:16.000Z"
+   "p": 2231.59,
+   "ch": -0.24,
+   "asof": "2026-11-08T05:58:10.000Z"
   },
   {
    "s": "S&P 500",
@@ -425,9 +209,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.55,
-   "ch": 0.78,
-   "asof": "2026-11-07T23:53:03.000Z"
+   "p": 16.517,
+   "ch": 0.58,
+   "asof": "2026-11-08T05:21:16.000Z"
   },
   {
    "s": "USD/NGN",
@@ -441,17 +225,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.05,
-   "ch": -0.69,
-   "asof": "2026-11-08T05:02:16.000Z"
+   "p": 89.11,
+   "ch": -0.62,
+   "asof": "2026-11-08T05:58:12.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1601,
-   "ch": -0.17,
-   "asof": "2026-11-08T05:02:15.000Z"
+   "p": 1.1621,
+   "ch": 0,
+   "asof": "2026-11-08T05:58:10.000Z"
   },
   {
    "s": "Apple",
@@ -489,17 +273,24 @@
  "news": [
   [
    "Forex",
+   "med",
+   "Japan manufacturers lift profit outlooks on price hikes, weak yen",
+   "Nikkei Asia",
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGVlUjc5QnBNZDFTd3U3MVJ6S2FQNHVrYXJTV09URWkxbjNNdnpJUlZmNEVKaDBaRlFhSkFSYW95Vm1laDlvUDdxc3NNUjZjSko2Y3N1d1FOalZEXzFXenptYzQ4WTZpTEpiQ3Qxb2llcWszZFlYc2ZmNmN1cEczMzhYazNydmZRWHVYWGVyQXU2czFOWjJFMTJxNFJnU21WSGY5SWl5LTlFU3JFZ0FOQnQwVQ?oc=5"
+  ],
+  [
+   "Forex",
    "high",
    "Czech Premier Blasts Central Bank Rate Hike as ‘Scandalous’",
    "Bloomberg.com",
    "https://news.google.com/rss/articles/CBMirAFBVV95cUxObHZGYm10VWZ4YVdFUWRKTDJxLWdwZ0JTSEVyQTZIcDZGU0dXWDNQMlJrU056TUo3QVRnX3hsSkNjbS01Y192R3FMd29PZDF6VTE1ZWpkdlJjdkhHa2VkUjZWNXZfdUFYaGV1QUFuZk5OZU9qR0N4THA5bnFwZ2IzZWFtM0UzVTdBUTZqZmRaQ1RiWHRkb0xDUjdDdWFBdl9qZ1ZYZDZqZHFHRGF3?oc=5"
   ],
   [
-   "Forex",
+   "Crypto",
    "med",
-   "Japan manufacturers lift profit outlooks on price hikes, weak yen",
-   "Nikkei Asia",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGVlUjc5QnBNZDFTd3U3MVJ6S2FQNHVrYXJTV09URWkxbjNNdnpJUlZmNEVKaDBaRlFhSkFSYW95Vm1laDlvUDdxc3NNUjZjSko2Y3N1d1FOalZEXzFXenptYzQ4WTZpTEpiQ3Qxb2llcWszZFlYc2ZmNmN1cEczMzhYazNydmZRWHVYWGVyQXU2czFOWjJFMTJxNFJnU21WSGY5SWl5LTlFU3JFZ0FOQnQwVQ?oc=5"
+   "Crypto industry braces for reckoning over Trump ties",
+   "Financial Times",
+   "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUllPOWhUX0NhZXFBdTFtc0NUUHRLYzJZa3pKem11UHI1MThveDZwZ0VsTjhLTUVFV0ktcTFwUHZzQk8yanQ3bnZ1Q05YcGtZeVE4ZmlSR1dIcXV3WkFjcUlpeGVLbExwUDlWSmh6SnF5RmJHclczLVE1OERhQV94dmVkYUU?oc=5"
   ],
   [
    "Crypto",
@@ -507,13 +298,6 @@
    "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
    "Yahoo Finance UK",
    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NeVkwY1dKeWxrcExZc0dzcnlWSUZ4czQtZHIyX1JYUnp5cWE5WFcwNjl3clkxY3dyUjFtbG1FOU43Ny1leHhSaVpCMzFQREhacmFmaTRR?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "The Shadowy Crypto Services Helping the Binance Hackers Launder Stolen Billions",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTUlNYXNWSV9aeko2VWlLTUpldFVrQUNnQ0lBOFptOFdYRnM2N3RTUmUyNTFYQTZHTmF1UUhpYkxjTXBCU0t2Y2E2N21xVjFzakprcXRpeE5HcFBnR3o5MU1PS2xleVRfUWhMRnNXM1JPemsyeHFVdmFwU0tualVLTnhFa0EyelhqLUF0dXk0dExlZmtZOVpueF9ldTZGV21hYTBhWU5VWFRkdXkxZU5lZF9JajU2SEE1bkdHdlpJSzdKSElTSHc?oc=5"
   ],
   [
    "Stocks",
