@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T15:49:05.645Z",
+ "updated": "2026-11-08T16:50:24.146Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -145,17 +145,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75957.15,
-   "ch": 0.27,
-   "asof": "2026-11-08T15:49:01.000Z"
+   "p": 75813.16,
+   "ch": 0.08,
+   "asof": "2026-11-08T16:50:19.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2238.3,
-   "ch": 0.06,
-   "asof": "2026-11-08T15:49:01.000Z"
+   "p": 2232.83,
+   "ch": -0.18,
+   "asof": "2026-11-08T16:50:19.000Z"
   },
   {
    "s": "S&P 500",
@@ -225,17 +225,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.57,
-   "ch": -0.11,
-   "asof": "2026-11-08T15:48:59.000Z"
+   "p": 89.19,
+   "ch": -0.54,
+   "asof": "2026-11-08T16:50:19.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1545,
-   "ch": -0.65,
-   "asof": "2026-11-08T15:48:58.000Z"
+   "p": 1.1524,
+   "ch": -0.83,
+   "asof": "2026-11-08T16:50:23.000Z"
   },
   {
    "s": "Apple",
@@ -288,16 +288,16 @@
   [
    "Crypto",
    "med",
-   "The Morning Risk Report: Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb3EwNDBrLVNaanJaY3B4NExhc0NoRjV5YUoyV3JORGtlZllPRTdLWHZWT2dkMjZaeE14blhnMFR6cXNKNEpBTHVGaU5OZjhFX1RnVlAtcFMtMDhoQXNhNHkzNnFLVW9rWThSc1FQYW1sUXBiOGFOVlNyZzJvT1lwVzkta2ltaFM1NENuQjZZcDZ4YmNJZVRCdDBfb2l2N1oxSXRRSUdVT3NLM2lEbE5HNGgzTW15ZVVmdlJqdG42cDJCSmc1RkNWRnNNNjFNT19OeVpWNWVkQ1JkTzFWVHc?oc=5"
+   "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTV9pQU04RTJMTkVqcmlsajVpbnlweWhzbTVNMmE5dVhZeGV2NlF3Z2RwbC11VVNVZzVPMmRzX29NNHNpSmJZSjVMVnFoWG5TS3N1aDJvc0lkMXVXS1g1SjFCQS15ZnVwNm4tcWJQOHhDcWI4a3JNOXNfV2xLVEx3MHRxSnRHei01cGMyVmR6bEE4Q0FDYW5RbjZEQlF0V1hwLUh2UFROamJsSF9SVHRnSzdxQ2pjcU9ob29mdXVERmxVVE5sN3pNWHhDa3RZbkk?oc=5"
   ],
   [
    "Crypto",
-   "high",
-   "A Top Silicon Valley Investor Predicts a Bitcoin Crash to $57,000 Within the Next 12 Months. Here's Why He's Wrong.",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiowFBVV95cUxObk15NzBWNnFaRWxWanU2NDk2VXMwR1NMLXIzamp3OWpzZ1YtMHduZm53Q0JiMEZndWpGcUtUV09GNGgyUWtwaUIzeFRkSGdfeTJtU25Ja0FOM3VHb1hscXlzNU1YTk9rSUpsLXJNUWliZkVuWlFDdmZPOFdJSGJRejBkSUpPWDBOOEI4TFR3bDF6TTdReTMxTFN6bjhGMUt2eW5N?oc=5"
+   "med",
+   "Binance names new finance chief after $6.3 billion crypto theft",
+   "Seeking Alpha",
+   "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ0hta01uQnFwRGlIbXhjdTZuTlpEcUp6UEZadExxeVdqT2ZreVhpUUJaZWdFM3BwRS1nSkRndHhZZVBPZ0J2WjlZeXlCWUdDVFg0el9rckZKT1VaTURCR3JKN3NHZmgwbUh4cGpreGV3U1VfMXFpOC0zTE16dzNPRWFCd3UyTHAzalNQdmJSbnMxei1WR2lPNTNiQUZHZ2xibXc?oc=5"
   ],
   [
    "Stocks",
