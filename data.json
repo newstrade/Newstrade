@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T03:00:21.197Z",
+ "updated": "2026-11-08T04:03:45.496Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75705.03,
-   "ch": -0.06,
-   "asof": "2026-11-08T03:00:18.000Z"
+   "p": 75806.19,
+   "ch": 0.07,
+   "asof": "2026-11-08T04:03:41.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2234.29,
-   "ch": -0.12,
-   "asof": "2026-11-08T03:00:17.000Z"
+   "p": 2235,
+   "ch": -0.09,
+   "asof": "2026-11-08T04:03:42.000Z"
   },
   {
    "s": "S&P 500",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.06,
-   "ch": -0.68,
-   "asof": "2026-11-08T03:00:19.000Z"
+   "p": 89.21,
+   "ch": -0.51,
+   "asof": "2026-11-08T04:03:35.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1586,
-   "ch": -0.3,
-   "asof": "2026-11-08T03:00:18.000Z"
+   "p": 1.1617,
+   "ch": -0.03,
+   "asof": "2026-11-08T04:03:40.000Z"
   },
   {
    "s": "Apple",
@@ -532,9 +532,9 @@
   [
    "Commodities",
    "med",
-   "Crude gains on worries about renewed US attacks on Iran",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0loTjAtWUlkbnpIR2huZE8zWWkxZHZIZlprNlQ5Z3BSaGUxcnE1ZDdqbXFuOHFpQVdrbzEyNnRUSGR4ZDh3SEpqQkpqX2NZa0JlZjEyZlp3RElJMFlhVDRLLTZ3MzRuV2NuTXR3SjhQejExMVR4eE10YThVcmJYaTdNYmt1SjJfeG10NlJRRFB1SFNQUlRSanFrYzBFUjlZNjBGMjhxSi1MZG1sd19kWGU0Ykt5bmR4by1B?oc=5"
+   "Trump-Backed Trade Corridor Advances Despite Geopolitical Resistance",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNld0QXZUbGxFTGlfWkxKZFhWRnRfRks0ZmY5LTZYclJTZXowZldpMGNWNkxKd0xvVkZubFdPTEQtSDlwbEJTbHVQci1VakRwRENnMGZuVkZtRjFOU05EZ0V3WS01VTdJOHh1allrQkNPVW5UWld1WDdIS1FMeFo3SFJDYXl5eXJESHN3ZlhVb0hSeEI3RTNOdGpwbUNEUzUzcE9jdU54VkZrRVBHR09QaNIBtgFBVV95cUxPeGR4Q3lzc0VtY2dLbjhtRG5VVGxCXzBoN3pUMHNQb0ViZ3NWdTUtVlJlRHVJbWhpdGpadVdHaTJTejJBaWNIWTZiSE4tSWRXYzMtaWtOT1JDYXVEaGVjVi0ya2t5dlh3N0dIbDlNMk4xcjdYMzZHMWZncVBBTlgzbFJGM0wzVDBhZVBPT2tLTm55SFM2QnB2N0U2cUJoUXlQWmN3Z1drR2huXzBwdG9DYXh3OVJvUQ?oc=5"
   ],
   [
    "Commodities",
