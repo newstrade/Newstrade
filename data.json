@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T10:54:37.924Z",
+ "updated": "2026-11-08T11:50:35.953Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -145,17 +145,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75783.8,
-   "ch": 0.04,
-   "asof": "2026-11-08T10:54:34.000Z"
+   "p": 75868.61,
+   "ch": 0.15,
+   "asof": "2026-11-08T11:50:31.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2232.9,
-   "ch": -0.18,
-   "asof": "2026-11-08T10:54:31.000Z"
+   "p": 2236.42,
+   "ch": -0.02,
+   "asof": "2026-11-08T11:50:31.000Z"
   },
   {
    "s": "S&P 500",
@@ -225,17 +225,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.11,
-   "ch": -0.62,
-   "asof": "2026-11-08T10:54:23.000Z"
+   "p": 89.51,
+   "ch": -0.18,
+   "asof": "2026-11-08T11:50:23.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1587,
-   "ch": -0.29,
-   "asof": "2026-11-08T10:54:31.000Z"
+   "p": 1.1634,
+   "ch": 0.11,
+   "asof": "2026-11-08T11:50:23.000Z"
   },
   {
    "s": "Apple",
@@ -274,6 +274,13 @@
   [
    "Forex",
    "med",
+   "Why is the US Dollar Falling? Midterms, Yields, and a Critical Economic Test",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQjhyX0FQejUySHJNQ2drTDlhV20yMlpiMzFsM0V6aFlfYXFUZGt0YlVGMmpkS3VWQkJXcEFnU1U5UmpybHphQTFOejd4SE5rQnRBbVh1QlBxZUJlT2NfQV9QY1lKb1JTZ21sMF9tME1DZnBZbkx6NnVtd29xcVV2WkNHSUtDRXVQQXk2eDFOcnpwVHBWbzFwQTdra0E3RkhY?oc=5"
+  ],
+  [
+   "Forex",
+   "med",
    "Japan manufacturers lift profit outlooks on price hikes, weak yen",
    "Nikkei Asia",
    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGVlUjc5QnBNZDFTd3U3MVJ6S2FQNHVrYXJTV09URWkxbjNNdnpJUlZmNEVKaDBaRlFhSkFSYW95Vm1laDlvUDdxc3NNUjZjSko2Y3N1d1FOalZEXzFXenptYzQ4WTZpTEpiQ3Qxb2llcWszZFlYc2ZmNmN1cEczMzhYazNydmZRWHVYWGVyQXU2czFOWjJFMTJxNFJnU21WSGY5SWl5LTlFU3JFZ0FOQnQwVQ?oc=5"
@@ -288,23 +295,23 @@
   [
    "Crypto",
    "med",
-   "Crypto industry braces for reckoning over Trump ties",
-   "Financial Times",
-   "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUllPOWhUX0NhZXFBdTFtc0NUUHRLYzJZa3pKem11UHI1MThveDZwZ0VsTjhLTUVFV0ktcTFwUHZzQk8yanQ3bnZ1Q05YcGtZeVE4ZmlSR1dIcXV3WkFjcUlpeGVLbExwUDlWSmh6SnF5RmJHclczLVE1OERhQV94dmVkYUU?oc=5"
+   "The Shadowy Crypto Services Helping the Binance Hackers Launder Stolen Billions",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTUlNYXNWSV9aeko2VWlLTUpldFVrQUNnQ0lBOFptOFdYRnM2N3RTUmUyNTFYQTZHTmF1UUhpYkxjTXBCU0t2Y2E2N21xVjFzakprcXRpeE5HcFBnR3o5MU1PS2xleVRfUWhMRnNXM1JPemsyeHFVdmFwU0tualVLTnhFa0EyelhqLUF0dXk0dExlZmtZOVpueF9ldTZGV21hYTBhWU5VWFRkdXkxZU5lZF9JajU2SEE1bkdHdlpJSzdKSElTSHc?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Billionaires Warren Buffett and Bill Ackman Deliver a Similar, Shocking Warning to Wall Street. Here’s 1 Thing Investors Should Do Now.",
-   "The Motley Fool",
-   "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVnRSRFUyQ05DMFlyZEVpV29fNVF2cHhXaHVZRXY5OHVuZGExdFhzOWR1eEFVYmZpYlg4RkJhQjNVNkpaNXY4MWhvLUQ5OUgzV1dLeXU1X2tsTFdmZWJfZmV2YU9PVTNrcng3WGFWRl96ZFpodDdMSzJ0SkU4UXBqMVlhcGI5bDVRazNrSG52Y2lCcnVSa3MxbWRRUWRKa1YwaVZzd2RDQTlGdEdrSXlZNENIV3VMb1pDc2h2c0dLMnlSRWVNcDJHaHNBemdCd0daMU1nRjJnQy02QjlnM0FmNmtETHFGaG51UV9oQUdLMUpaQVNBUzRscDlraXlUcjNlaFZMNFFn?oc=5"
+   "How Wall Street's Rising Stars Are Networking Beyond the Golf Course",
+   "Business Insider",
+   "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRFdaWkdWZzVwTHRLOTctSC1LTlptdVhUYWNNUzQxR0M3ZVA1U0pkeGNMWC1heGNaNUNnUWxVVUItZlRZSVBqRDZkWVlISlRZM3AzblJlaEluZnpYTmxpVkVGZE1hdFpoblc4Q0xUczBndkZIdjFlNlZaRFJ1WGNxY1QyeEozN1BrbEJwUmZ3?oc=5"
   ],
   [
    "Stocks",
-   "med",
-   "Is Alvotech (NASDAQ:ALVO) Trading At A Discount To Its Sales?",
-   "Yahoo Finance Singapore",
-   "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZlBoWDhiWEJTVGhyNXM0aHYzMVgxdzNEMHo1cnhuOEcyb2MxdWVHNHd1bUhzdXNfUGVsTkxqV2UwUEJ3dlpNMHVqVkhwLXV2N043VEdPZGFCRUhzWkdNRWdFUTVHcUc2SlhBRXQzMWNvdi1JeHhQcDJVOFpGWDhQaG03UWlnai0tRnVYemxLUQ?oc=5"
+   "high",
+   "The Democratic Surge Will Cap Trump’s Reach at the Fed",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEN2SVIzQmppcXREV0sxNE0tejFxYkt4VGpxemtVbVV4R0ZPTVFyVWV0azNTLUxCSkxUQWxxN1plZEpfZ1ZCRHUwNGhJV0k3c2owTWVRaEpfb3JMN09jV01jTkNJcmNidl9FTFhid1JsUmw4ZnVXSjVDRXZzWlM0NnRmRnEybjc5MG1Hb09KQXRsM1lFR0FVUThGVUZjdTZLd2lUZDl2WTB0UQ?oc=5"
   ],
   [
    "Commodities",
@@ -312,13 +319,6 @@
    "WTI oil price outlook: After a 17.5% slide, can buyers reclaim $92.53?",
    "investingLive",
    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRmhqWFhscVlUNzF0OVRoNTVEcG81c3A4dDl6UVVidmhKel9OTEN5VWI0SV90U3RjRnNLZ2lVNWoxQjlSRFFDTWVyVHJIYmEyNVc1WkoxZnd4TEZPRlg1elFzeTF4U2h1ZEprTVl5Q053eGY3MHZHVzZNb2ZnMXc0c2w0S01VWTJiUngwaUx6aDJZMnhreE5uSmVKRmVLak5iTVE2d2RZMA?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Brent School Street fines at one location exceed £1m",
-   "BBC",
-   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jbEhWRjR0R1VzZFpnRkZpeTV0d1JNSDh6ZmxuODl6anNUMm9SR0doVDdaRnZPeVI4NWpmXzk2Q21zN0J2WGlDRTZYYlJ2MHFLVEcxbV9wcHA0SVU?oc=5"
   ]
  ]
 }
