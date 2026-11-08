@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T04:03:45.496Z",
+ "updated": "2026-11-08T05:02:21.762Z",
  "events": [
   {
    "iso": "2026-11-02T10:00:00-05:00",
@@ -361,17 +361,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75806.19,
-   "ch": 0.07,
-   "asof": "2026-11-08T04:03:41.000Z"
+   "p": 75759.56,
+   "ch": 0.01,
+   "asof": "2026-11-08T05:02:13.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2235,
-   "ch": -0.09,
-   "asof": "2026-11-08T04:03:42.000Z"
+   "p": 2232.29,
+   "ch": -0.21,
+   "asof": "2026-11-08T05:02:16.000Z"
   },
   {
    "s": "S&P 500",
@@ -441,17 +441,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.21,
-   "ch": -0.51,
-   "asof": "2026-11-08T04:03:35.000Z"
+   "p": 89.05,
+   "ch": -0.69,
+   "asof": "2026-11-08T05:02:16.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1617,
-   "ch": -0.03,
-   "asof": "2026-11-08T04:03:40.000Z"
+   "p": 1.1601,
+   "ch": -0.17,
+   "asof": "2026-11-08T05:02:15.000Z"
   },
   {
    "s": "Apple",
@@ -518,16 +518,16 @@
   [
    "Stocks",
    "med",
-   "The 1 Investing Habit That Separates Stock Market Millionaires From Everyone Else",
-   "The Motley Fool",
-   "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1o1UnlTTXplZG80WG1lNnRjcEpOa2RvYzBqa0ZDY3Jnc2JOMGlpb0JlQkVMMkNPR1JvNmNWdF9iQ0RXakY4SEtORGZrQVdXLXNwVHg1Qm9JX3Y2OUhvR0N6OU9YNFJaUXFHTHJlQWhoS2RuR2lKSkRTa3NDSHdRdWtiSWNkQk9nbkthcWhzejJTek9Dd0Zz?oc=5"
+   "The Growing Push to Protect Trophy Hunting in Africa",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMimgFBVV95cUxObnFOODZsTkdnemtRV1lMaGxXZzgtZ1Zscnpra2laOGZDZlFINkRlY3lFUlhpQ1FWa0pnZ1drVDVteGdNMHhJSTUyRHJkR2d0bTFtNFRxdFRrQ2d5TG5rZXQ3eHhSU1lJVHB6aDhFejhfMEJERXh3Zm51dlQ2RzBpYXdXeEhVMVpXelZLcEhmUGw0b1dtS2J2UEhn?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "The Stock Market Is Doing Something for Only the 5th Time in 30 Years, and History Is Crystal Clear on What Comes Next for Stocks",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZmlpWkZDNmNVZG5yOXlTdjB0NzRaZmZpdUs0WHhmTHhVSGtTNHRkTWJCLU5Ma1BQM2NzNTZGbU1NajlrMmFoOGpVbXVwNHhfTEk5eDd6QTk5THJUVTZzQ3BIY0VOWmkweGVidXJCZVE1ZzdET19tYm5xMncwTXdpSHctU2tNS2FiTmJRaDZsT3JhTFRETzdsaUlWeUZLT0U?oc=5"
+   "The 1 Investing Habit That Separates Stock Market Millionaires From Everyone Else",
+   "The Motley Fool",
+   "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1o1UnlTTXplZG80WG1lNnRjcEpOa2RvYzBqa0ZDY3Jnc2JOMGlpb0JlQkVMMkNPR1JvNmNWdF9iQ0RXakY4SEtORGZrQVdXLXNwVHg1Qm9JX3Y2OUhvR0N6OU9YNFJaUXFHTHJlQWhoS2RuR2lKSkRTa3NDSHdRdWtiSWNkQk9nbkthcWhzejJTek9Dd0Zz?oc=5"
   ],
   [
    "Commodities",
