@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T08:15:54.847Z",
+ "updated": "2026-11-08T09:08:38.252Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -145,17 +145,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75789.5,
-   "ch": 0.05,
-   "asof": "2026-11-08T08:15:51.000Z"
+   "p": 75827.76,
+   "ch": 0.1,
+   "asof": "2026-11-08T09:08:33.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2236.08,
-   "ch": -0.04,
-   "asof": "2026-11-08T08:15:44.000Z"
+   "p": 2235.27,
+   "ch": -0.07,
+   "asof": "2026-11-08T09:08:30.000Z"
   },
   {
    "s": "S&P 500",
@@ -225,17 +225,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.03,
-   "ch": -0.71,
-   "asof": "2026-11-08T08:15:50.000Z"
+   "p": 89.18,
+   "ch": -0.55,
+   "asof": "2026-11-08T09:08:33.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1622,
-   "ch": 0.01,
-   "asof": "2026-11-08T08:15:32.000Z"
+   "p": 1.1624,
+   "ch": 0.03,
+   "asof": "2026-11-08T09:08:29.000Z"
   },
   {
    "s": "Apple",
@@ -295,9 +295,9 @@
   [
    "Crypto",
    "med",
-   "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History",
-   "Yahoo Finance UK",
-   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NeVkwY1dKeWxrcExZc0dzcnlWSUZ4czQtZHIyX1JYUnp5cWE5WFcwNjl3clkxY3dyUjFtbG1FOU43Ny1leHhSaVpCMzFQREhacmFmaTRR?oc=5"
+   "The Shadowy Crypto Services Helping the Binance Hackers Launder Stolen Billions",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTUlNYXNWSV9aeko2VWlLTUpldFVrQUNnQ0lBOFptOFdYRnM2N3RTUmUyNTFYQTZHTmF1UUhpYkxjTXBCU0t2Y2E2N21xVjFzakprcXRpeE5HcFBnR3o5MU1PS2xleVRfUWhMRnNXM1JPemsyeHFVdmFwU0tualVLTnhFa0EyelhqLUF0dXk0dExlZmtZOVpueF9ldTZGV21hYTBhWU5VWFRkdXkxZU5lZF9JajU2SEE1bkdHdlpJSzdKSElTSHc?oc=5"
   ],
   [
    "Stocks",
@@ -309,9 +309,16 @@
   [
    "Stocks",
    "med",
-   "The Growing Push to Protect Trophy Hunting in Africa",
+   "UFC Chief Dana White to Meet With Trump to Discuss Press Secretary Job",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMimgFBVV95cUxObnFOODZsTkdnemtRV1lMaGxXZzgtZ1Zscnpra2laOGZDZlFINkRlY3lFUlhpQ1FWa0pnZ1drVDVteGdNMHhJSTUyRHJkR2d0bTFtNFRxdFRrQ2d5TG5rZXQ3eHhSU1lJVHB6aDhFejhfMEJERXh3Zm51dlQ2RzBpYXdXeEhVMVpXelZLcEhmUGw0b1dtS2J2UEhn?oc=5"
+   "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3RCbWl3eS1OWkdOR1dram12OFowMW04NENSSEJHZlA0d0pSbGpyR01qSXB0SWoxZFFPQmpMTXFQZkJFa3Z5ajNJbFpaWWhJMWdUSzMwUFF3ZDJRc08zR1VxTWtCMENBb0QzWkVHSXBFbDlNdWxJMkhwbEtrcFRlUXpyamRuT2pwUjd5NFh0UHNpU3JfQ3BCRTBBb18xdHBac2V6WWxTZ2toLUh5cUcxRkxrOFIxUQ?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Brent School Street fines at one location exceed £1m",
+   "BBC",
+   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jbEhWRjR0R1VzZFpnRkZpeTV0d1JNSDh6ZmxuODl6anNUMm9SR0doVDdaRnZPeVI4NWpmXzk2Q21zN0J2WGlDRTZYYlJ2MHFLVEcxbV9wcHA0SVU?oc=5"
   ],
   [
    "Commodities",
