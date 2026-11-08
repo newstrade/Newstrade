@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T13:04:14.360Z",
+ "updated": "2026-11-08T13:58:21.520Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -145,17 +145,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75887.06,
-   "ch": 0.18,
-   "asof": "2026-11-08T13:04:10.000Z"
+   "p": 75826.16,
+   "ch": 0.1,
+   "asof": "2026-11-08T13:58:16.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2236.67,
-   "ch": -0.01,
-   "asof": "2026-11-08T13:04:05.000Z"
+   "p": 2233.77,
+   "ch": -0.14,
+   "asof": "2026-11-08T13:58:19.000Z"
   },
   {
    "s": "S&P 500",
@@ -225,17 +225,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.44,
-   "ch": -0.26,
-   "asof": "2026-11-08T13:04:11.000Z"
+   "p": 89.12,
+   "ch": -0.61,
+   "asof": "2026-11-08T13:58:16.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1631,
-   "ch": 0.09,
-   "asof": "2026-11-08T13:04:08.000Z"
+   "p": 1.1584,
+   "ch": -0.32,
+   "asof": "2026-11-08T13:58:15.000Z"
   },
   {
    "s": "Apple",
@@ -288,9 +288,9 @@
   [
    "Crypto",
    "med",
-   "The Shadowy Crypto Services Helping the Binance Hackers Launder Stolen Billions",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTUlNYXNWSV9aeko2VWlLTUpldFVrQUNnQ0lBOFptOFdYRnM2N3RTUmUyNTFYQTZHTmF1UUhpYkxjTXBCU0t2Y2E2N21xVjFzakprcXRpeE5HcFBnR3o5MU1PS2xleVRfUWhMRnNXM1JPemsyeHFVdmFwU0tualVLTnhFa0EyelhqLUF0dXk0dExlZmtZOVpueF9ldTZGV21hYTBhWU5VWFRkdXkxZU5lZF9JajU2SEE1bkdHdlpJSzdKSElTSHc?oc=5"
+   "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTV9pQU04RTJMTkVqcmlsajVpbnlweWhzbTVNMmE5dVhZeGV2NlF3Z2RwbC11VVNVZzVPMmRzX29NNHNpSmJZSjVMVnFoWG5TS3N1aDJvc0lkMXVXS1g1SjFCQS15ZnVwNm4tcWJQOHhDcWI4a3JNOXNfV2xLVEx3MHRxSnRHei01cGMyVmR6bEE4Q0FDYW5RbjZEQlF0V1hwLUh2UFROamJsSF9SVHRnSzdxQ2pjcU9ob29mdXVERmxVVE5sN3pNWHhDa3RZbkk?oc=5"
   ],
   [
    "Stocks",
