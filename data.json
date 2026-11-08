@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T22:48:29.593Z",
+ "updated": "2026-11-08T23:46:32.061Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -97,65 +97,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1143,
-   "ch": -0.67,
-   "asof": "2026-11-08T22:47:29.000Z"
+   "p": 1.1151,
+   "ch": -0.6,
+   "asof": "2026-11-08T23:46:30.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3356,
-   "ch": -0.71,
-   "asof": "2026-11-08T22:47:29.000Z"
+   "p": 1.3361,
+   "ch": -0.68,
+   "asof": "2026-11-08T23:46:30.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.377,
-   "ch": 0.46,
-   "asof": "2026-11-08T22:48:17.000Z"
+   "p": 158.317,
+   "ch": 0.42,
+   "asof": "2026-11-08T23:46:32.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6867,
-   "ch": -0.94,
-   "asof": "2026-11-08T22:47:29.000Z"
+   "p": 0.6874,
+   "ch": -0.84,
+   "asof": "2026-11-08T23:45:30.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4122,
-   "ch": 0.77,
-   "asof": "2026-11-08T22:48:28.000Z"
+   "p": 1.4117,
+   "ch": 0.73,
+   "asof": "2026-11-08T23:46:32.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8193,
-   "ch": 0.4,
-   "asof": "2026-11-08T22:48:28.000Z"
+   "p": 0.8195,
+   "ch": 0.43,
+   "asof": "2026-11-08T23:46:32.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 74233.2,
-   "ch": -2.01,
-   "asof": "2026-11-08T22:48:28.000Z"
+   "p": 74804.88,
+   "ch": -1.25,
+   "asof": "2026-11-08T23:46:29.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2119.61,
-   "ch": -5.24,
-   "asof": "2026-11-08T22:48:27.000Z"
+   "p": 2130.51,
+   "ch": -4.76,
+   "asof": "2026-11-08T23:46:30.000Z"
   },
   {
    "s": "S&P 500",
@@ -185,17 +185,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4074.9,
-   "ch": 0,
-   "asof": "2026-11-06T21:59:59.000Z"
+   "p": 4072.3,
+   "ch": -0.06,
+   "asof": "2026-11-08T23:36:31.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 90.83,
-   "ch": 0,
-   "asof": "2026-11-06T21:59:58.000Z"
+   "p": 90.39,
+   "ch": -0.48,
+   "asof": "2026-11-08T23:36:29.000Z"
   },
   {
    "s": "USD/KES",
@@ -209,9 +209,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5362,
+   "p": 16.5357,
    "ch": 0.7,
-   "asof": "2026-11-08T22:44:30.000Z"
+   "asof": "2026-11-08T23:46:32.000Z"
   },
   {
    "s": "USD/NGN",
@@ -225,17 +225,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 85.84,
-   "ch": -4.27,
-   "asof": "2026-11-08T22:48:23.000Z"
+   "p": 86.65,
+   "ch": -3.37,
+   "asof": "2026-11-08T23:46:30.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1093,
-   "ch": -4.54,
-   "asof": "2026-11-08T22:48:25.000Z"
+   "p": 1.1132,
+   "ch": -4.21,
+   "asof": "2026-11-08T23:46:31.000Z"
   },
   {
    "s": "Apple",
@@ -265,9 +265,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 51.942,
-   "ch": 0,
-   "asof": "2026-11-06T21:59:59.000Z"
+   "p": 51.84,
+   "ch": -0.2,
+   "asof": "2026-11-08T23:36:16.000Z"
   }
  ],
  "news": [
@@ -287,38 +287,31 @@
   ],
   [
    "Crypto",
-   "high",
-   "A Top Silicon Valley Investor Predicts a Bitcoin Crash to $57,000 Within the Next 12 Months. Here's Why He's Wrong.",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiowFBVV95cUxObk15NzBWNnFaRWxWanU2NDk2VXMwR1NMLXIzamp3OWpzZ1YtMHduZm53Q0JiMEZndWpGcUtUV09GNGgyUWtwaUIzeFRkSGdfeTJtU25Ja0FOM3VHb1hscXlzNU1YTk9rSUpsLXJNUWliZkVuWlFDdmZPOFdJSGJRejBkSUpPWDBOOEI4TFR3bDF6TTdReTMxTFN6bjhGMUt2eW5N?oc=5"
+   "med",
+   "Bitcoin: Boom or Bust",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4ydGtxaEdsV2RRYUdSVlBGWWs4ZVlJdkxDNE5OenNrRnFsa3FZWmhvbUtZZUFBWURNRFVVckJyU2d2dEE2TUI2dzZTYVVpaVlnc2ZXeQ?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Binance hack clouds Singapore crypto push for tokenized stocks",
-   "Nikkei Asia",
-   "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeFZQSXFQX3d5a1p3WkE4RHI2cmFLNUdqNmMtcEhqcUlITkg4SzhkNVVBQWNXckNXbTFYa3JJMXdHeERZanJ4T1hCMW9rS0NzMnIzRmJSdWxoaFZHMXoxa1JnV1BoQWpENl9pNFd1ckUwODBiT25VRmpGOGM3Z2ROMzFES1IyMERrQlRtaUdNX2NiREthb0ZQMHk4NGRCM1lXYnZBSF9ybGhtVW5nSzhlbE5Jemg1Umc?oc=5"
+   "An Analyst Who Expects One More Big Drop Still Sees Bitcoin Reaching $2 Million. Can BTC Rise 26 Times From $75,000?",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcmFCRW5UeV9KaGFWLWR4NlJybGE2WGxQZE9Idm5tazNmRWF6SDFCMEVyM1BJeW11SEpZczZjQVhZOU1DMTlpOHpLRDRJWl81bWVPZ05pQ2pKWTg5MkdHNnIxSlMwazVUNDlrMVFnbTZodkFURExrNURRZ3ZtMUpXQ3Jqdy01WndGaTdIUzg2OHdoaVZJYXdmSg?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "A Popular New Bet Hailing From Cryptoland Sets Off a Wall Street Turf War",
+   "Taiwan Activates Market-Stabilization Measures to Stem AI Bleeding",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnd3TzZDN1pPNVZHQzNVa044OG9iaHVuSWRwRTZhWTlYSG9qVXVCU09jYkFOXzVWcFhyOHVKOXBjTUNlM1JzTGhqT2J2QzZtNTczSjU2QlFiVkJYYV8tOXBOUFdQanRhQnhJX3BuXy0wU0llcXM5ZHJlOUktUXZ6MXdhZU8yenlDdzdtNWl3ZWZTOV9DM1F3Z0RZOEFTTWlnZnNwWFpRVWh3ekZDSWU5Rmx6OV9NMC00WWExbW1R?oc=5"
+   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQmRQc05FTEtYbm9hLUhzOHFESHo4UHlMX2Fwd2l3eTNscTdsTHp1SnF6RGNuMENybV93Z1BZeE03NTVobVF3OG9YUVlhNjI5SElLODdkSXBxNUwtOWlJczdNdmhtQ1N1cnhqcGpaNmlVdS1lNm12RXA3YXNUbDBETzk0UENTUExibVpUa3V5dWFNVGswNEJwaERZSkJodzI2c20wV3hTd2hELW1OOHFvU0JKaHRFYjFWMDEtOFg1WHI?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Here are the 2 big things we're watching in the stock market in the week ahead",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc0dUYUM4cUNUeXNpYVFoNmNpMjctVy1oelZYUDJGdkFSTEVhMVhiNlB1LTRWWXEwS3pLV2dxMlRwNHg1R3doQjFvNWdFTVNRUmhzU2VKdmNZeGQ0ZWw2eFk3R2RrM01hV1F4b05UcFFnbW8xbElhWENvQml3SVVBNWdOeTFpNmkwWDI4d3JMYmZZeHk3MXBnQzNTTXExcHhIU2xJdG10V19lRXNBV0EzV1lNZ0VxcDY3YzROVW5YWXRuTXRmenZF?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Oil Futures Slide As Market Holds Out Hopes for Middle East Diplomacy",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXo3c0pXbll5VVJ6eUlRbTJQZ0xLSnFISGlnVGRReWlBTnJYT2d5RVd5cTZmTnFkS0VoZ3h1cVNGOEhOMHUtMUlRU0hPMDhhTmtINTNHdC1JeVRlTExaSklrRWNvaHpMSERXOF9VRlRZTGh4YmZ4aWg3a2ctdlI1bkVsdUY4X0RDMElsTHpaOFN4VVE4YzBwRzVHRk0yamVxM2dJMmdVYlNSdVZoaGR6akhlUGU5WTlx?oc=5"
+   "Wall Street Just Set a Record That Could Signal Trouble for the Stock Market",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRE5yY2lrUXdGQlBrSzU3d2tOWWp3eVpsbDctY0l1QmFocEN4ZEcwOTVlUHpTLUZmMkpfOGVucXptMENpbENGTFNHWE43MTFzN1hzOGx5X09WczRvRWJDblRRdUFsUmtNSGJ2c21qMUItNVF3WXdyUGt0WWs3TGhISWhqNzJGTXFMTlJnWnBLcGF6bWhoQi1Xbw?oc=5"
   ],
   [
    "Commodities",
@@ -326,6 +319,13 @@
    "WTI oil price outlook: After a 17.5% slide, can buyers reclaim $92.53?",
    "investingLive",
    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRmhqWFhscVlUNzF0OVRoNTVEcG81c3A4dDl6UVVidmhKel9OTEN5VWI0SV90U3RjRnNLZ2lVNWoxQjlSRFFDTWVyVHJIYmEyNVc1WkoxZnd4TEZPRlg1elFzeTF4U2h1ZEprTVl5Q053eGY3MHZHVzZNb2ZnMXc0c2w0S01VWTJiUngwaUx6aDJZMnhreE5uSmVKRmVLak5iTVE2d2RZMA?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "How New York Plans to Turn Waste Heat Into Clean Energy",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTVI0Z0c2NjA3N2o2dlE1LVJjR2ZWdjZ1clFzVGhKem1qUU8tUHFEbnBtSV9xaTAySXlfTjhrQmNVTnc3ZDZFZ2JjSUJFRmRWOFRTNnlLNjl5RzJSZThGaHV4aFNyaVY4VUVaNEpJcmdmTWp1cmYwV0lFTURkRTM1Y0JyMWdMWFVucEpncEtMWTF5TnUzMmpudVRPaTdXdm1KczlCTFp30gGrAUFVX3lxTE1MTWVqMGxSYjBlTHZCWlJraXVtYm0yWHhEbnkxUWZqWlF3TnlGOWN3X0xBRUlxSFRiX05xazNMaFJzUGpnVHFUNE1QWmwyOXhPUEEwYzJaQWJyWXJtQ1RSdTFIZjljR2Y5a0dFZl96UnlKdUE5QmdISVZSc3hDV1ZrdHVTdi1jeUFCa3NBVFNMektEQUxGNWRmbnAtaUJtdHZ1aDdPN3pFSTBBUQ?oc=5"
   ]
  ]
 }
