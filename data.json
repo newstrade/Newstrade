@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T11:50:35.953Z",
+ "updated": "2026-11-08T13:04:14.360Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -145,17 +145,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75868.61,
-   "ch": 0.15,
-   "asof": "2026-11-08T11:50:31.000Z"
+   "p": 75887.06,
+   "ch": 0.18,
+   "asof": "2026-11-08T13:04:10.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2236.42,
-   "ch": -0.02,
-   "asof": "2026-11-08T11:50:31.000Z"
+   "p": 2236.67,
+   "ch": -0.01,
+   "asof": "2026-11-08T13:04:05.000Z"
   },
   {
    "s": "S&P 500",
@@ -225,17 +225,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.51,
-   "ch": -0.18,
-   "asof": "2026-11-08T11:50:23.000Z"
+   "p": 89.44,
+   "ch": -0.26,
+   "asof": "2026-11-08T13:04:11.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1634,
-   "ch": 0.11,
-   "asof": "2026-11-08T11:50:23.000Z"
+   "p": 1.1631,
+   "ch": 0.09,
+   "asof": "2026-11-08T13:04:08.000Z"
   },
   {
    "s": "Apple",
@@ -279,18 +279,11 @@
    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQjhyX0FQejUySHJNQ2drTDlhV20yMlpiMzFsM0V6aFlfYXFUZGt0YlVGMmpkS3VWQkJXcEFnU1U5UmpybHphQTFOejd4SE5rQnRBbVh1QlBxZUJlT2NfQV9QY1lKb1JTZ21sMF9tME1DZnBZbkx6NnVtd29xcVV2WkNHSUtDRXVQQXk2eDFOcnpwVHBWbzFwQTdra0E3RkhY?oc=5"
   ],
   [
-   "Forex",
-   "med",
-   "Japan manufacturers lift profit outlooks on price hikes, weak yen",
-   "Nikkei Asia",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGVlUjc5QnBNZDFTd3U3MVJ6S2FQNHVrYXJTV09URWkxbjNNdnpJUlZmNEVKaDBaRlFhSkFSYW95Vm1laDlvUDdxc3NNUjZjSko2Y3N1d1FOalZEXzFXenptYzQ4WTZpTEpiQ3Qxb2llcWszZFlYc2ZmNmN1cEczMzhYazNydmZRWHVYWGVyQXU2czFOWjJFMTJxNFJnU21WSGY5SWl5LTlFU3JFZ0FOQnQwVQ?oc=5"
-  ],
-  [
    "Crypto",
-   "med",
-   "Bitcoin: Boom or Bust",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4ydGtxaEdsV2RRYUdSVlBGWWs4ZVlJdkxDNE5OenNrRnFsa3FZWmhvbUtZZUFBWURNRFVVckJyU2d2dEE2TUI2dzZTYVVpaVlnc2ZXeQ?oc=5"
+   "high",
+   "A Top Silicon Valley Investor Predicts a Bitcoin Crash to $57,000 Within the Next 12 Months. Here's Why He's Wrong.",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMiowFBVV95cUxObk15NzBWNnFaRWxWanU2NDk2VXMwR1NMLXIzamp3OWpzZ1YtMHduZm53Q0JiMEZndWpGcUtUV09GNGgyUWtwaUIzeFRkSGdfeTJtU25Ja0FOM3VHb1hscXlzNU1YTk9rSUpsLXJNUWliZkVuWlFDdmZPOFdJSGJRejBkSUpPWDBOOEI4TFR3bDF6TTdReTMxTFN6bjhGMUt2eW5N?oc=5"
   ],
   [
    "Crypto",
@@ -302,16 +295,16 @@
   [
    "Stocks",
    "med",
-   "How Wall Street's Rising Stars Are Networking Beyond the Golf Course",
-   "Business Insider",
-   "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRFdaWkdWZzVwTHRLOTctSC1LTlptdVhUYWNNUzQxR0M3ZVA1U0pkeGNMWC1heGNaNUNnUWxVVUItZlRZSVBqRDZkWVlISlRZM3AzblJlaEluZnpYTmxpVkVGZE1hdFpoblc4Q0xUczBndkZIdjFlNlZaRFJ1WGNxY1QyeEozN1BrbEJwUmZ3?oc=5"
+   "S&P 500 (^GSPC) charts, data and news",
+   "Yahoo Finance Singapore",
+   "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvekNxWlJSRV94ZlRnYUs0OW9PX0ZFeVc0RVNiOFRQNWdyci1fQ1lUX2lVNC1aYzFXcUtMYzE0QkVUN0ZKREktX2RPc3UybEYwWW01M2Vn?oc=5"
   ],
   [
    "Stocks",
-   "high",
-   "The Democratic Surge Will Cap Trump’s Reach at the Fed",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEN2SVIzQmppcXREV0sxNE0tejFxYkt4VGpxemtVbVV4R0ZPTVFyVWV0azNTLUxCSkxUQWxxN1plZEpfZ1ZCRHUwNGhJV0k3c2owTWVRaEpfb3JMN09jV01jTkNJcmNidl9FTFhid1JsUmw4ZnVXSjVDRXZzWlM0NnRmRnEybjc5MG1Hb09KQXRsM1lFR0FVUThGVUZjdTZLd2lUZDl2WTB0UQ?oc=5"
+   "med",
+   "Top Wall Street analysts like these 3 dividend stocks for consistent income",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMiogFBVV95cUxPazZkel9TVC1yS29uNHFEYjBIVU9BaWYwM0RDRmcyLU9SS1BwZHhpQm10c2RBLUJQSkFGc1J5ajg1QzZtZXVuZnVjdThZdmxMY0daTDJ6MmZzSnBveXJTYXZqNEExMkRROGdmdDJIeEpiV2U5MFNDTTQ2QWZZdkRwRkYxWDdmcy1QOE5nRVFOWDZES3BrOC1OUWd3bW5xZm9MV3c?oc=5"
   ],
   [
    "Commodities",
