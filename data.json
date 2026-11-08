@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T07:16:24.684Z",
+ "updated": "2026-11-08T08:15:54.847Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -145,17 +145,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75749.07,
-   "ch": -0.01,
-   "asof": "2026-11-08T07:16:19.000Z"
+   "p": 75789.5,
+   "ch": 0.05,
+   "asof": "2026-11-08T08:15:51.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2232.79,
-   "ch": -0.18,
-   "asof": "2026-11-08T07:16:17.000Z"
+   "p": 2236.08,
+   "ch": -0.04,
+   "asof": "2026-11-08T08:15:44.000Z"
   },
   {
    "s": "S&P 500",
@@ -225,9 +225,9 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.08,
-   "ch": -0.66,
-   "asof": "2026-11-08T07:16:19.000Z"
+   "p": 89.03,
+   "ch": -0.71,
+   "asof": "2026-11-08T08:15:50.000Z"
   },
   {
    "s": "XRP",
@@ -235,7 +235,7 @@
    "d": 4,
    "p": 1.1622,
    "ch": 0.01,
-   "asof": "2026-11-08T07:16:19.000Z"
+   "asof": "2026-11-08T08:15:32.000Z"
   },
   {
    "s": "Apple",
@@ -302,16 +302,16 @@
   [
    "Stocks",
    "med",
-   "The Growing Push to Protect Trophy Hunting in Africa",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMimgFBVV95cUxObnFOODZsTkdnemtRV1lMaGxXZzgtZ1Zscnpra2laOGZDZlFINkRlY3lFUlhpQ1FWa0pnZ1drVDVteGdNMHhJSTUyRHJkR2d0bTFtNFRxdFRrQ2d5TG5rZXQ3eHhSU1lJVHB6aDhFejhfMEJERXh3Zm51dlQ2RzBpYXdXeEhVMVpXelZLcEhmUGw0b1dtS2J2UEhn?oc=5"
+   "Is Alvotech (NASDAQ:ALVO) Trading At A Discount To Its Sales?",
+   "Yahoo Finance Singapore",
+   "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZlBoWDhiWEJTVGhyNXM0aHYzMVgxdzNEMHo1cnhuOEcyb2MxdWVHNHd1bUhzdXNfUGVsTkxqV2UwUEJ3dlpNMHVqVkhwLXV2N043VEdPZGFCRUhzWkdNRWdFUTVHcUc2SlhBRXQzMWNvdi1JeHhQcDJVOFpGWDhQaG03UWlnai0tRnVYemxLUQ?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "The 1 Investing Habit That Separates Stock Market Millionaires From Everyone Else",
-   "The Motley Fool",
-   "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1o1UnlTTXplZG80WG1lNnRjcEpOa2RvYzBqa0ZDY3Jnc2JOMGlpb0JlQkVMMkNPR1JvNmNWdF9iQ0RXakY4SEtORGZrQVdXLXNwVHg1Qm9JX3Y2OUhvR0N6OU9YNFJaUXFHTHJlQWhoS2RuR2lKSkRTa3NDSHdRdWtiSWNkQk9nbkthcWhzejJTek9Dd0Zz?oc=5"
+   "The Growing Push to Protect Trophy Hunting in Africa",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMimgFBVV95cUxObnFOODZsTkdnemtRV1lMaGxXZzgtZ1Zscnpra2laOGZDZlFINkRlY3lFUlhpQ1FWa0pnZ1drVDVteGdNMHhJSTUyRHJkR2d0bTFtNFRxdFRrQ2d5TG5rZXQ3eHhSU1lJVHB6aDhFejhfMEJERXh3Zm51dlQ2RzBpYXdXeEhVMVpXelZLcEhmUGw0b1dtS2J2UEhn?oc=5"
   ],
   [
    "Commodities",
@@ -319,13 +319,6 @@
    "Trump-Backed Trade Corridor Advances Despite Geopolitical Resistance",
    "Crude Oil Prices Today | OilPrice.com",
    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNld0QXZUbGxFTGlfWkxKZFhWRnRfRks0ZmY5LTZYclJTZXowZldpMGNWNkxKd0xvVkZubFdPTEQtSDlwbEJTbHVQci1VakRwRENnMGZuVkZtRjFOU05EZ0V3WS01VTdJOHh1allrQkNPVW5UWld1WDdIS1FMeFo3SFJDYXl5eXJESHN3ZlhVb0hSeEI3RTNOdGpwbUNEUzUzcE9jdU54VkZrRVBHR09QaNIBtgFBVV95cUxPeGR4Q3lzc0VtY2dLbjhtRG5VVGxCXzBoN3pUMHNQb0ViZ3NWdTUtVlJlRHVJbWhpdGpadVdHaTJTejJBaWNIWTZiSE4tSWRXYzMtaWtOT1JDYXVEaGVjVi0ya2t5dlh3N0dIbDlNMk4xcjdYMzZHMWZncVBBTlgzbFJGM0wzVDBhZVBPT2tLTm55SFM2QnB2N0U2cUJoUXlQWmN3Z1drR2huXzBwdG9DYXh3OVJvUQ?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Goldman Sachs Cuts Gold Price Forecasts as Hawkish Federal Reserve Weighs on Demand",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXdtR1VXSWUweFNhelI3MHEwaElMZjVBNjUtdFFYQkNTZTlOWVp3ZUg1c1BTZjdtMXFNQmVHVnZlR21SU2VxWlVVcWN1cGc5WjhOdEVTdTQ4ZTg5QUxWeGtzZ19mRGRwNExXbzR2Ym1sM04xTkZoS0RGTTBtaXNGeWM3ZnJfZEhJaExpVVE3ZkdoYlQzSUNvLVNqSmlJaHRu?oc=5"
   ]
  ]
 }
