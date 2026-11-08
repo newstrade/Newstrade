@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T14:50:50.915Z",
+ "updated": "2026-11-08T15:49:05.645Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -129,9 +129,9 @@
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4128,
-   "ch": 0.81,
-   "asof": "2026-11-08T05:21:16.000Z"
+   "p": 1.4126,
+   "ch": 0.8,
+   "asof": "2026-11-08T14:59:59.000Z"
   },
   {
    "s": "USD/CHF",
@@ -145,17 +145,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75932.74,
-   "ch": 0.24,
-   "asof": "2026-11-08T14:50:19.000Z"
+   "p": 75957.15,
+   "ch": 0.27,
+   "asof": "2026-11-08T15:49:01.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2238.03,
-   "ch": 0.05,
-   "asof": "2026-11-08T14:50:19.000Z"
+   "p": 2238.3,
+   "ch": 0.06,
+   "asof": "2026-11-08T15:49:01.000Z"
   },
   {
    "s": "S&P 500",
@@ -203,15 +203,15 @@
    "d": 2,
    "p": 129.81,
    "ch": -0.03,
-   "asof": "2026-11-06T21:36:46.000Z"
+   "asof": "2026-11-08T15:00:26.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.517,
+   "p": 16.5168,
    "ch": 0.58,
-   "asof": "2026-11-08T05:21:16.000Z"
+   "asof": "2026-11-08T14:59:59.000Z"
   },
   {
    "s": "USD/NGN",
@@ -219,23 +219,23 @@
    "d": 2,
    "p": 1345.99,
    "ch": 0.28,
-   "asof": "2026-11-06T21:36:46.000Z"
+   "asof": "2026-11-08T15:00:26.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.49,
-   "ch": -0.2,
-   "asof": "2026-11-08T14:50:15.000Z"
+   "p": 89.57,
+   "ch": -0.11,
+   "asof": "2026-11-08T15:48:59.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1634,
-   "ch": 0.11,
-   "asof": "2026-11-08T14:50:18.000Z"
+   "p": 1.1545,
+   "ch": -0.65,
+   "asof": "2026-11-08T15:48:58.000Z"
   },
   {
    "s": "Apple",
@@ -274,23 +274,23 @@
   [
    "Forex",
    "med",
+   "HSBC Says Strong Democratic Midterm Performance Could Pressure US Dollar in Near Term",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUks5X2VVMWQ5bE9OUnQzVjBlVVk5dEpDRFlrWWEtQ2lmTHpYMjAtcm5sUTJuVHpJX0U1RkxqazdKU1BYLVN3aU5Eb0NjT19mbE1FUEtpNEh0c05TemdSSTdidmpiVVdfVmFrYVBqWHI3bkxybjZzMC1sQ2dkcEppU09HUm5MVmlzQjE4SEtZVE5nUlc2TTczLXUyY3U2U084NEhnS1dITQ?oc=5"
+  ],
+  [
+   "Forex",
+   "med",
    "3 Stocks Investors Watch When Demand For U.S. Dollar Safety Rises",
    "Yahoo Finance",
    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR3VtalVBZGxEWWRSY0NiN2NDdE5xbC1LVnk3eWNyRWlKd3NXblZJOUtuNlU0RVkyRGVieWVjNE9MV1VkM1Y1V0lKalNLVFdFOV9TUm4tWjdhRWJiM3ZCMDB4NHVLOTEzWlhDYThsOXBqaGRLQUR5UkFsS2VxaENPY0RUMHZycE9TUVJQdzV1T3hJUFRTTXh6OEpmZlp0WGtFV3c?oc=5"
   ],
   [
-   "Forex",
-   "med",
-   "Why is the US Dollar Falling? Midterms, Yields, and a Critical Economic Test",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQjhyX0FQejUySHJNQ2drTDlhV20yMlpiMzFsM0V6aFlfYXFUZGt0YlVGMmpkS3VWQkJXcEFnU1U5UmpybHphQTFOejd4SE5rQnRBbVh1QlBxZUJlT2NfQV9QY1lKb1JTZ21sMF9tME1DZnBZbkx6NnVtd29xcVV2WkNHSUtDRXVQQXk2eDFOcnpwVHBWbzFwQTdra0E3RkhY?oc=5"
-  ],
-  [
    "Crypto",
    "med",
-   "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTV9pQU04RTJMTkVqcmlsajVpbnlweWhzbTVNMmE5dVhZeGV2NlF3Z2RwbC11VVNVZzVPMmRzX29NNHNpSmJZSjVMVnFoWG5TS3N1aDJvc0lkMXVXS1g1SjFCQS15ZnVwNm4tcWJQOHhDcWI4a3JNOXNfV2xLVEx3MHRxSnRHei01cGMyVmR6bEE4Q0FDYW5RbjZEQlF0V1hwLUh2UFROamJsSF9SVHRnSzdxQ2pjcU9ob29mdXVERmxVVE5sN3pNWHhDa3RZbkk?oc=5"
+   "The Morning Risk Report: Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb3EwNDBrLVNaanJaY3B4NExhc0NoRjV5YUoyV3JORGtlZllPRTdLWHZWT2dkMjZaeE14blhnMFR6cXNKNEpBTHVGaU5OZjhFX1RnVlAtcFMtMDhoQXNhNHkzNnFLVW9rWThSc1FQYW1sUXBiOGFOVlNyZzJvT1lwVzkta2ltaFM1NENuQjZZcDZ4YmNJZVRCdDBfb2l2N1oxSXRRSUdVT3NLM2lEbE5HNGgzTW15ZVVmdlJqdG42cDJCSmc1RkNWRnNNNjFNT19OeVpWNWVkQ1JkTzFWVHc?oc=5"
   ],
   [
    "Crypto",
