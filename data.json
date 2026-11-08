@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T05:58:15.306Z",
+ "updated": "2026-11-08T07:16:24.684Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -145,17 +145,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75701.4,
-   "ch": -0.07,
-   "asof": "2026-11-08T05:58:13.000Z"
+   "p": 75749.07,
+   "ch": -0.01,
+   "asof": "2026-11-08T07:16:19.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2231.59,
-   "ch": -0.24,
-   "asof": "2026-11-08T05:58:10.000Z"
+   "p": 2232.79,
+   "ch": -0.18,
+   "asof": "2026-11-08T07:16:17.000Z"
   },
   {
    "s": "S&P 500",
@@ -225,17 +225,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.11,
-   "ch": -0.62,
-   "asof": "2026-11-08T05:58:12.000Z"
+   "p": 89.08,
+   "ch": -0.66,
+   "asof": "2026-11-08T07:16:19.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1621,
-   "ch": 0,
-   "asof": "2026-11-08T05:58:10.000Z"
+   "p": 1.1622,
+   "ch": 0.01,
+   "asof": "2026-11-08T07:16:19.000Z"
   },
   {
    "s": "Apple",
@@ -280,10 +280,10 @@
   ],
   [
    "Forex",
-   "high",
-   "Czech Premier Blasts Central Bank Rate Hike as ‘Scandalous’",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMirAFBVV95cUxObHZGYm10VWZ4YVdFUWRKTDJxLWdwZ0JTSEVyQTZIcDZGU0dXWDNQMlJrU056TUo3QVRnX3hsSkNjbS01Y192R3FMd29PZDF6VTE1ZWpkdlJjdkhHa2VkUjZWNXZfdUFYaGV1QUFuZk5OZU9qR0N4THA5bnFwZ2IzZWFtM0UzVTdBUTZqZmRaQ1RiWHRkb0xDUjdDdWFBdl9qZ1ZYZDZqZHFHRGF3?oc=5"
+   "med",
+   "Japan allocates 10 billion yen to counter a wave of cyberattacks",
+   "Nation Thailand",
+   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LNVFfSmV1dF9qT2FPNjM1STF5ZlhDNXk0YmFMQ20zdGp3bks5ZXkzdEhrQV95WXNxVlRoZms2M2JvTUtrb2lpLWlpNnhxN29za2hxckUtTHJaWHpNU0dB?oc=5"
   ],
   [
    "Crypto",
