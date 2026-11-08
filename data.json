@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T17:46:31.767Z",
+ "updated": "2026-11-08T18:56:43.988Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -97,65 +97,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1143,
-   "ch": -0.67,
-   "asof": "2026-11-06T22:29:32.000Z"
+   "p": 1.1141,
+   "ch": -0.69,
+   "asof": "2026-11-08T18:56:31.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3356,
-   "ch": -0.71,
-   "asof": "2026-11-06T22:29:32.000Z"
+   "p": 1.3345,
+   "ch": -0.8,
+   "asof": "2026-11-08T18:56:31.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.425,
-   "ch": 0.49,
-   "asof": "2026-11-08T05:21:16.000Z"
+   "p": 158.384,
+   "ch": 0.46,
+   "asof": "2026-11-08T18:56:30.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6868,
-   "ch": -0.92,
-   "asof": "2026-11-08T05:49:33.000Z"
+   "p": 0.6873,
+   "ch": -0.85,
+   "asof": "2026-11-08T18:55:31.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4126,
-   "ch": 0.8,
-   "asof": "2026-11-08T14:59:59.000Z"
+   "p": 1.4128,
+   "ch": 0.81,
+   "asof": "2026-11-08T18:48:31.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.82,
-   "ch": 0.49,
-   "asof": "2026-11-06T22:00:00.000Z"
+   "p": 0.8194,
+   "ch": 0.42,
+   "asof": "2026-11-08T18:56:30.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75662.6,
-   "ch": -0.12,
-   "asof": "2026-11-08T17:46:31.000Z"
+   "p": 75867.5,
+   "ch": 0.15,
+   "asof": "2026-11-08T18:56:37.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2227,
-   "ch": -0.44,
-   "asof": "2026-11-08T17:46:24.000Z"
+   "p": 2234.23,
+   "ch": -0.12,
+   "asof": "2026-11-08T18:56:39.000Z"
   },
   {
    "s": "S&P 500",
@@ -209,9 +209,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5168,
-   "ch": 0.58,
-   "asof": "2026-11-08T14:59:59.000Z"
+   "p": 16.54,
+   "ch": 0.72,
+   "asof": "2026-11-08T18:22:49.000Z"
   },
   {
    "s": "USD/NGN",
@@ -225,17 +225,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 88.94,
-   "ch": -0.81,
-   "asof": "2026-11-08T17:46:31.000Z"
+   "p": 89.5,
+   "ch": -0.19,
+   "asof": "2026-11-08T18:56:40.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1538,
-   "ch": -0.71,
-   "asof": "2026-11-08T17:46:24.000Z"
+   "p": 1.158,
+   "ch": -0.35,
+   "asof": "2026-11-08T18:56:39.000Z"
   },
   {
    "s": "Apple",
@@ -287,10 +287,10 @@
   ],
   [
    "Crypto",
-   "high",
-   "A Top Silicon Valley Investor Predicts a Bitcoin Crash to $57,000 Within the Next 12 Months. Here's Why He's Wrong.",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiowFBVV95cUxObk15NzBWNnFaRWxWanU2NDk2VXMwR1NMLXIzamp3OWpzZ1YtMHduZm53Q0JiMEZndWpGcUtUV09GNGgyUWtwaUIzeFRkSGdfeTJtU25Ja0FOM3VHb1hscXlzNU1YTk9rSUpsLXJNUWliZkVuWlFDdmZPOFdJSGJRejBkSUpPWDBOOEI4TFR3bDF6TTdReTMxTFN6bjhGMUt2eW5N?oc=5"
+   "med",
+   "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTV9pQU04RTJMTkVqcmlsajVpbnlweWhzbTVNMmE5dVhZeGV2NlF3Z2RwbC11VVNVZzVPMmRzX29NNHNpSmJZSjVMVnFoWG5TS3N1aDJvc0lkMXVXS1g1SjFCQS15ZnVwNm4tcWJQOHhDcWI4a3JNOXNfV2xLVEx3MHRxSnRHei01cGMyVmR6bEE4Q0FDYW5RbjZEQlF0V1hwLUh2UFROamJsSF9SVHRnSzdxQ2pjcU9ob29mdXVERmxVVE5sN3pNWHhDa3RZbkk?oc=5"
   ],
   [
    "Crypto",
@@ -302,16 +302,16 @@
   [
    "Stocks",
    "med",
-   "S&P 500 (^GSPC) charts, data and news",
-   "Yahoo Finance Singapore",
-   "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvekNxWlJSRV94ZlRnYUs0OW9PX0ZFeVc0RVNiOFRQNWdyci1fQ1lUX2lVNC1aYzFXcUtMYzE0QkVUN0ZKREktX2RPc3UybEYwWW01M2Vn?oc=5"
+   "Here are the 2 big things we're watching in the stock market in the week ahead",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc0dUYUM4cUNUeXNpYVFoNmNpMjctVy1oelZYUDJGdkFSTEVhMVhiNlB1LTRWWXEwS3pLV2dxMlRwNHg1R3doQjFvNWdFTVNRUmhzU2VKdmNZeGQ0ZWw2eFk3R2RrM01hV1F4b05UcFFnbW8xbElhWENvQml3SVVBNWdOeTFpNmkwWDI4d3JMYmZZeHk3MXBnQzNTTXExcHhIU2xJdG10V19lRXNBV0EzV1lNZ0VxcDY3YzROVW5YWXRuTXRmenZF?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Top Wall Street analysts like these 3 dividend stocks for consistent income",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMiogFBVV95cUxPazZkel9TVC1yS29uNHFEYjBIVU9BaWYwM0RDRmcyLU9SS1BwZHhpQm10c2RBLUJQSkFGc1J5ajg1QzZtZXVuZnVjdThZdmxMY0daTDJ6MmZzSnBveXJTYXZqNEExMkRROGdmdDJIeEpiV2U5MFNDTTQ2QWZZdkRwRkYxWDdmcy1QOE5nRVFOWDZES3BrOC1OUWd3bW5xZm9MV3c?oc=5"
+   "No Matter What Happens to the S&P 500 in November, These 3 Dividend Stocks Belong in Your Portfolio",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSkFkS0FyUDYzZW5SYkVpdmRsRE9DcDh2aUhGdlM3SFBra3ZHQzB2V3kyTFEwT2ZxeDFHdmVEcm5STXNlMWt1bXp6ang2ajI0VEp1RE1SbTdOczAwb0FYOG5WaDVCOVVnYnF3ZnR2TmRmUzJZcjh4SjBJYThKWGFFbGRHR3B4TjIzYldhOGk2ek1rZw?oc=5"
   ],
   [
    "Commodities",
