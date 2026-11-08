@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T09:08:38.252Z",
+ "updated": "2026-11-08T09:57:32.566Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -145,17 +145,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75827.76,
-   "ch": 0.1,
-   "asof": "2026-11-08T09:08:33.000Z"
+   "p": 75804.92,
+   "ch": 0.07,
+   "asof": "2026-11-08T09:57:27.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2235.27,
-   "ch": -0.07,
-   "asof": "2026-11-08T09:08:30.000Z"
+   "p": 2233.61,
+   "ch": -0.15,
+   "asof": "2026-11-08T09:57:29.000Z"
   },
   {
    "s": "S&P 500",
@@ -225,17 +225,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 89.18,
-   "ch": -0.55,
-   "asof": "2026-11-08T09:08:33.000Z"
+   "p": 89.12,
+   "ch": -0.61,
+   "asof": "2026-11-08T09:57:25.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1624,
-   "ch": 0.03,
-   "asof": "2026-11-08T09:08:29.000Z"
+   "p": 1.1618,
+   "ch": -0.02,
+   "asof": "2026-11-08T09:57:15.000Z"
   },
   {
    "s": "Apple",
@@ -279,13 +279,6 @@
    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGVlUjc5QnBNZDFTd3U3MVJ6S2FQNHVrYXJTV09URWkxbjNNdnpJUlZmNEVKaDBaRlFhSkFSYW95Vm1laDlvUDdxc3NNUjZjSko2Y3N1d1FOalZEXzFXenptYzQ4WTZpTEpiQ3Qxb2llcWszZFlYc2ZmNmN1cEczMzhYazNydmZRWHVYWGVyQXU2czFOWjJFMTJxNFJnU21WSGY5SWl5LTlFU3JFZ0FOQnQwVQ?oc=5"
   ],
   [
-   "Forex",
-   "med",
-   "Japan allocates 10 billion yen to counter a wave of cyberattacks",
-   "Nation Thailand",
-   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LNVFfSmV1dF9qT2FPNjM1STF5ZlhDNXk0YmFMQ20zdGp3bks5ZXkzdEhrQV95WXNxVlRoZms2M2JvTUtrb2lpLWlpNnhxN29za2hxckUtTHJaWHpNU0dB?oc=5"
-  ],
-  [
    "Crypto",
    "med",
    "Crypto industry braces for reckoning over Trump ties",
@@ -302,16 +295,16 @@
   [
    "Stocks",
    "med",
-   "Is Alvotech (NASDAQ:ALVO) Trading At A Discount To Its Sales?",
-   "Yahoo Finance Singapore",
-   "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZlBoWDhiWEJTVGhyNXM0aHYzMVgxdzNEMHo1cnhuOEcyb2MxdWVHNHd1bUhzdXNfUGVsTkxqV2UwUEJ3dlpNMHVqVkhwLXV2N043VEdPZGFCRUhzWkdNRWdFUTVHcUc2SlhBRXQzMWNvdi1JeHhQcDJVOFpGWDhQaG03UWlnai0tRnVYemxLUQ?oc=5"
+   "The Growing Push to Protect Trophy Hunting in Africa",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMimgFBVV95cUxObnFOODZsTkdnemtRV1lMaGxXZzgtZ1Zscnpra2laOGZDZlFINkRlY3lFUlhpQ1FWa0pnZ1drVDVteGdNMHhJSTUyRHJkR2d0bTFtNFRxdFRrQ2d5TG5rZXQ3eHhSU1lJVHB6aDhFejhfMEJERXh3Zm51dlQ2RzBpYXdXeEhVMVpXelZLcEhmUGw0b1dtS2J2UEhn?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "UFC Chief Dana White to Meet With Trump to Discuss Press Secretary Job",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3RCbWl3eS1OWkdOR1dram12OFowMW04NENSSEJHZlA0d0pSbGpyR01qSXB0SWoxZFFPQmpMTXFQZkJFa3Z5ajNJbFpaWWhJMWdUSzMwUFF3ZDJRc08zR1VxTWtCMENBb0QzWkVHSXBFbDlNdWxJMkhwbEtrcFRlUXpyamRuT2pwUjd5NFh0UHNpU3JfQ3BCRTBBb18xdHBac2V6WWxTZ2toLUh5cUcxRkxrOFIxUQ?oc=5"
+   "Billionaires Warren Buffett and Bill Ackman Deliver a Similar, Shocking Warning to Wall Street. Here’s 1 Thing Investors Should Do Now.",
+   "The Motley Fool",
+   "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVnRSRFUyQ05DMFlyZEVpV29fNVF2cHhXaHVZRXY5OHVuZGExdFhzOWR1eEFVYmZpYlg4RkJhQjNVNkpaNXY4MWhvLUQ5OUgzV1dLeXU1X2tsTFdmZWJfZmV2YU9PVTNrcng3WGFWRl96ZFpodDdMSzJ0SkU4UXBqMVlhcGI5bDVRazNrSG52Y2lCcnVSa3MxbWRRUWRKa1YwaVZzd2RDQTlGdEdrSXlZNENIV3VMb1pDc2h2c0dLMnlSRWVNcDJHaHNBemdCd0daMU1nRjJnQy02QjlnM0FmNmtETHFGaG51UV9oQUdLMUpaQVNBUzRscDlraXlUcjNlaFZMNFFn?oc=5"
   ],
   [
    "Commodities",
