@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T23:46:32.061Z",
+ "updated": "2026-11-09T01:23:56.287Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -97,65 +97,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1151,
-   "ch": -0.6,
-   "asof": "2026-11-08T23:46:30.000Z"
+   "p": 1.1161,
+   "ch": 0.16,
+   "asof": "2026-11-09T01:23:32.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3361,
-   "ch": -0.68,
-   "asof": "2026-11-08T23:46:30.000Z"
+   "p": 1.3374,
+   "ch": 0.13,
+   "asof": "2026-11-09T01:23:32.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.317,
-   "ch": 0.42,
-   "asof": "2026-11-08T23:46:32.000Z"
+   "p": 158.21,
+   "ch": -0.14,
+   "asof": "2026-11-09T01:23:55.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6874,
-   "ch": -0.84,
-   "asof": "2026-11-08T23:45:30.000Z"
+   "p": 0.6891,
+   "ch": 0.33,
+   "asof": "2026-11-09T01:23:32.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4117,
-   "ch": 0.73,
-   "asof": "2026-11-08T23:46:32.000Z"
+   "p": 1.411,
+   "ch": -0.13,
+   "asof": "2026-11-09T01:23:55.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8195,
-   "ch": 0.43,
-   "asof": "2026-11-08T23:46:32.000Z"
+   "p": 0.82,
+   "ch": 0,
+   "asof": "2026-11-09T01:23:55.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 74804.88,
-   "ch": -1.25,
-   "asof": "2026-11-08T23:46:29.000Z"
+   "p": 74850.71,
+   "ch": 0.18,
+   "asof": "2026-11-09T01:23:51.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2130.51,
-   "ch": -4.76,
-   "asof": "2026-11-08T23:46:30.000Z"
+   "p": 2129.44,
+   "ch": 0.24,
+   "asof": "2026-11-09T01:23:52.000Z"
   },
   {
    "s": "S&P 500",
@@ -185,57 +185,57 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4072.3,
-   "ch": -0.06,
-   "asof": "2026-11-08T23:36:31.000Z"
+   "p": 4114.6,
+   "ch": 0.97,
+   "asof": "2026-11-09T01:13:54.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 90.39,
-   "ch": -0.48,
-   "asof": "2026-11-08T23:36:29.000Z"
+   "p": 90.29,
+   "ch": -0.59,
+   "asof": "2026-11-09T01:13:52.000Z"
   },
   {
    "s": "USD/KES",
    "m": "Forex",
    "d": 2,
    "p": 129.81,
-   "ch": -0.03,
-   "asof": "2026-11-08T15:00:26.000Z"
+   "ch": 0,
+   "asof": "2026-11-08T23:58:43.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5357,
-   "ch": 0.7,
-   "asof": "2026-11-08T23:46:32.000Z"
+   "p": 16.4937,
+   "ch": -0.14,
+   "asof": "2026-11-09T01:23:56.000Z"
   },
   {
    "s": "USD/NGN",
    "m": "Forex",
    "d": 2,
    "p": 1345.99,
-   "ch": 0.28,
-   "asof": "2026-11-08T15:00:26.000Z"
+   "ch": 0,
+   "asof": "2026-11-08T23:58:42.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 86.65,
-   "ch": -3.37,
-   "asof": "2026-11-08T23:46:30.000Z"
+   "p": 87.14,
+   "ch": 0.95,
+   "asof": "2026-11-09T01:23:53.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1132,
-   "ch": -4.21,
-   "asof": "2026-11-08T23:46:31.000Z"
+   "p": 1.1123,
+   "ch": 0.11,
+   "asof": "2026-11-09T01:23:50.000Z"
   },
   {
    "s": "Apple",
@@ -265,32 +265,32 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 51.84,
-   "ch": -0.2,
-   "asof": "2026-11-08T23:36:16.000Z"
+   "p": 53.035,
+   "ch": 2.1,
+   "asof": "2026-11-09T01:13:55.000Z"
   }
  ],
  "news": [
   [
    "Forex",
-   "med",
-   "US Dollar Faces Short-Term Election Pressure, but HSBC Retains Positive Outlook",
-   "Yahoo Finance UK",
-   "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNEJXUHFoZ0diNW9vV0JsN21pMl9DSDRuelZOSHJYeHBnV1V2WlFkeG9xemlSYnYyQkNDMDE1cFJvYUpTdDlFOXpCMXJKb3lVWHh3WnZSX0pZaXB1V2l5aXNSV09KcFhCb2FlWHM2anJjVm1pdTE3S1JlaXJlN3BqOQ?oc=5"
+   "high",
+   "US dollar holds onto payrolls gains, NZ dollar rises after election",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc3ZtMDBIQ2p3MzI1VUNnS3M2Q1I4T1k1Mk1sU19peE9hOGM5cVh2cXZiY3Q2THgyR3ZnMzlhRExRM0s5ci1WZG5IQk55RUZkb2tITUp2OVRoY1VXWWFDS3pBMnNLSFhhZVplWWVjWmdRRmZ3eDNUNFREZWU2Wml1Y3Nnck9saTB4T3JPSGd2SGl4X1NwNmp2U19iY3BLSmV0ZEloYTRadldmNjJIY0l4NllucjVDT3lkQ0JLakFB?oc=5"
   ],
   [
    "Forex",
    "med",
-   "HSBC Says Strong Democratic Midterm Performance Could Pressure US Dollar in Near Term",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUks5X2VVMWQ5bE9OUnQzVjBlVVk5dEpDRFlrWWEtQ2lmTHpYMjAtcm5sUTJuVHpJX0U1RkxqazdKU1BYLVN3aU5Eb0NjT19mbE1FUEtpNEh0c05TemdSSTdidmpiVVdfVmFrYVBqWHI3bkxybjZzMC1sQ2dkcEppU09HUm5MVmlzQjE4SEtZVE5nUlc2TTczLXUyY3U2U084NEhnS1dITQ?oc=5"
+   "Japan Says Three-Day Yen Intervention Lifted Yen in Summer",
+   "Bloomberg",
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU0hIS1pBbjdyM0tsMldxMjVocXRtMW5PV2RrSkE4SjYxeG9zVG9FTTJnNi1IUkFUeU4yazRJMHlUenJHeWJkb1c3Tl95TUs0d2pwTmFGS2tkMlBGNzVnYm52Mjhfc1RFYWNBLVlWUWk3and3aUNzMlNuT0QyZHgwZWdsdnZvQ05NSkZRdVl2aGdfQl80WEZSMDV0WU9hMUJsQzJYOHlKNUI0RlJONVE?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin: Boom or Bust",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4ydGtxaEdsV2RRYUdSVlBGWWs4ZVlJdkxDNE5OenNrRnFsa3FZWmhvbUtZZUFBWURNRFVVckJyU2d2dEE2TUI2dzZTYVVpaVlnc2ZXeQ?oc=5"
+   "Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLWljNlJ2T28tVUlGZVNsNHVkbHdHMWRTNVczSGRkZjlMbGt5WjNmV2d3TTFvU1dVNTZzQ2dvNExUeWhrSGZUc3ZoOTA0eDRMbC1DQ1VNcFBGaHhHa3F5S1llWUVWNmxpSERYZThucHM2eFJTYWFoYklpcThITjN2SUI3V1BOS2pNN250SXk3eW5Tak5qTEZiNDhMU3FhaFQ5LWlnOHpJb1NERExKcUZ3cEVpV0tNUWM?oc=5"
   ],
   [
    "Crypto",
@@ -302,30 +302,30 @@
   [
    "Stocks",
    "med",
-   "Taiwan Activates Market-Stabilization Measures to Stem AI Bleeding",
+   "A Popular New Bet Hailing From Cryptoland Sets Off a Wall Street Turf War",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQmRQc05FTEtYbm9hLUhzOHFESHo4UHlMX2Fwd2l3eTNscTdsTHp1SnF6RGNuMENybV93Z1BZeE03NTVobVF3OG9YUVlhNjI5SElLODdkSXBxNUwtOWlJczdNdmhtQ1N1cnhqcGpaNmlVdS1lNm12RXA3YXNUbDBETzk0UENTUExibVpUa3V5dWFNVGswNEJwaERZSkJodzI2c20wV3hTd2hELW1OOHFvU0JKaHRFYjFWMDEtOFg1WHI?oc=5"
+   "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnd3TzZDN1pPNVZHQzNVa044OG9iaHVuSWRwRTZhWTlYSG9qVXVCU09jYkFOXzVWcFhyOHVKOXBjTUNlM1JzTGhqT2J2QzZtNTczSjU2QlFiVkJYYV8tOXBOUFdQanRhQnhJX3BuXy0wU0llcXM5ZHJlOUktUXZ6MXdhZU8yenlDdzdtNWl3ZWZTOV9DM1F3Z0RZOEFTTWlnZnNwWFpRVWh3ekZDSWU5Rmx6OV9NMC00WWExbW1R?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Wall Street Just Set a Record That Could Signal Trouble for the Stock Market",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRE5yY2lrUXdGQlBrSzU3d2tOWWp3eVpsbDctY0l1QmFocEN4ZEcwOTVlUHpTLUZmMkpfOGVucXptMENpbENGTFNHWE43MTFzN1hzOGx5X09WczRvRWJDblRRdUFsUmtNSGJ2c21qMUItNVF3WXdyUGt0WWs3TGhISWhqNzJGTXFMTlJnWnBLcGF6bWhoQi1Xbw?oc=5"
+   "Digital Realty, Goodman Buy 9.9% of NEXTDC in Stock Market Raid",
+   "Bloomberg",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRlQtUDc5SHBHZ2MwYS02b1prNUtZY3JBM09NeTd6TW9LYlJUZjlQXzkyMFpBRmFyalZYTGExRHY2RE5zdFZTNGZIa3hQQXUwLUFyMl9JcXVVQkt0bGVDY2NsOXhRb2g0TnREMDNiLU80amdkNEtBc3kzQmRKQ0c5S1RZRW82T3IxMGhRektVc2M1bXFsb21vLUxCOWcycUEtbktrNEJodWtnUW93RjcxRmNn?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "WTI oil price outlook: After a 17.5% slide, can buyers reclaim $92.53?",
-   "investingLive",
-   "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRmhqWFhscVlUNzF0OVRoNTVEcG81c3A4dDl6UVVidmhKel9OTEN5VWI0SV90U3RjRnNLZ2lVNWoxQjlSRFFDTWVyVHJIYmEyNVc1WkoxZnd4TEZPRlg1elFzeTF4U2h1ZEprTVl5Q053eGY3MHZHVzZNb2ZnMXc0c2w0S01VWTJiUngwaUx6aDJZMnhreE5uSmVKRmVLak5iTVE2d2RZMA?oc=5"
+   "Oil Futures Slide As Market Holds Out Hopes for Middle East Diplomacy",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXo3c0pXbll5VVJ6eUlRbTJQZ0xLSnFISGlnVGRReWlBTnJYT2d5RVd5cTZmTnFkS0VoZ3h1cVNGOEhOMHUtMUlRU0hPMDhhTmtINTNHdC1JeVRlTExaSklrRWNvaHpMSERXOF9VRlRZTGh4YmZ4aWg3a2ctdlI1bkVsdUY4X0RDMElsTHpaOFN4VVE4YzBwRzVHRk0yamVxM2dJMmdVYlNSdVZoaGR6akhlUGU5WTlx?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "How New York Plans to Turn Waste Heat Into Clean Energy",
+   "Iraq's 5 Million Bpd Oil Claim Complicates Its OPEC Quota Push",
    "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTVI0Z0c2NjA3N2o2dlE1LVJjR2ZWdjZ1clFzVGhKem1qUU8tUHFEbnBtSV9xaTAySXlfTjhrQmNVTnc3ZDZFZ2JjSUJFRmRWOFRTNnlLNjl5RzJSZThGaHV4aFNyaVY4VUVaNEpJcmdmTWp1cmYwV0lFTURkRTM1Y0JyMWdMWFVucEpncEtMWTF5TnUzMmpudVRPaTdXdm1KczlCTFp30gGrAUFVX3lxTE1MTWVqMGxSYjBlTHZCWlJraXVtYm0yWHhEbnkxUWZqWlF3TnlGOWN3X0xBRUlxSFRiX05xazNMaFJzUGpnVHFUNE1QWmwyOXhPUEEwYzJaQWJyWXJtQ1RSdTFIZjljR2Y5a0dFZl96UnlKdUE5QmdISVZSc3hDV1ZrdHVTdi1jeUFCa3NBVFNMektEQUxGNWRmbnAtaUJtdHZ1aDdPN3pFSTBBUQ?oc=5"
+   "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNFprSG5xNk41d0hBYm1zMUJzWVcyMVRMWHpoNU1hV2cwVWl1a0h3RkxZa05SSGdnb3hfSnBlVTJCWU9KaS1mNEFUYmVTZklxVDRZSUFHVktudzN3Z3RTbnV2RlQ1Z19DbHk0a3ZyUFF5dGN1bkFTWk13bnB4em9uRVZwRjVxUlRkMUp1YWtnSFdVZ2tReTFMdXNwLXY3ZHAwZ0xBZTRmSdIBrAFBVV95cUxNM0k3X2kybEUyc0RXdFZiUTM4YXpLRzd5UHJlUUF3QUlMQzdKckRQVWNnQTVFeDJxb3hWWEFJQ2NOMlUwTkhxZ2tnSmdNSUtYaW9rc2FJdmEwYXVUMTBkS1ZQRHM0NTZjSU80eENYdFdZMDdhVWhzZHNCc1Nra0w0T3YyN1dyakpUUDRyZm1Jdm5CTFRlcFFSX1pCUWxaLWY2R0k2YmpjXzVFYTAt?oc=5"
   ]
  ]
 }
