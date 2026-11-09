@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T07:40:49.900Z",
+ "updated": "2026-11-09T09:24:18.386Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -97,41 +97,41 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1174,
-   "ch": 0.28,
-   "asof": "2026-11-09T07:40:29.000Z"
+   "p": 1.1189,
+   "ch": 0.41,
+   "asof": "2026-11-09T09:23:31.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3392,
-   "ch": 0.27,
-   "asof": "2026-11-09T07:40:29.000Z"
+   "p": 1.3411,
+   "ch": 0.41,
+   "asof": "2026-11-09T09:23:31.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.069,
-   "ch": -0.22,
-   "asof": "2026-11-09T07:40:49.000Z"
+   "p": 157.981,
+   "ch": -0.28,
+   "asof": "2026-11-09T09:24:18.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6887,
-   "ch": 0.28,
-   "asof": "2026-11-09T07:39:29.000Z"
+   "p": 0.69,
+   "ch": 0.47,
+   "asof": "2026-11-09T09:23:31.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4097,
-   "ch": -0.22,
-   "asof": "2026-11-09T07:40:48.000Z"
+   "p": 1.4083,
+   "ch": -0.32,
+   "asof": "2026-11-09T09:24:18.000Z"
   },
   {
    "s": "USD/CHF",
@@ -139,23 +139,23 @@
    "d": 4,
    "p": 0.8184,
    "ch": -0.2,
-   "asof": "2026-11-09T07:40:48.000Z"
+   "asof": "2026-11-09T09:24:18.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 74037.15,
-   "ch": -0.91,
-   "asof": "2026-11-09T07:40:48.000Z"
+   "p": 74146.16,
+   "ch": -0.77,
+   "asof": "2026-11-09T09:24:16.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2095.2,
-   "ch": -1.37,
-   "asof": "2026-11-09T07:40:45.000Z"
+   "p": 2106.49,
+   "ch": -0.84,
+   "asof": "2026-11-09T09:24:12.000Z"
   },
   {
    "s": "S&P 500",
@@ -185,17 +185,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4107,
-   "ch": 0.79,
-   "asof": "2026-11-09T07:30:47.000Z"
+   "p": 4106.1,
+   "ch": 0.77,
+   "asof": "2026-11-09T09:14:12.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 89.77,
-   "ch": -1.17,
-   "asof": "2026-11-09T07:30:48.000Z"
+   "p": 89.68,
+   "ch": -1.27,
+   "asof": "2026-11-09T09:14:16.000Z"
   },
   {
    "s": "USD/KES",
@@ -209,9 +209,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5027,
-   "ch": -0.09,
-   "asof": "2026-11-09T07:40:50.000Z"
+   "p": 16.4872,
+   "ch": -0.18,
+   "asof": "2026-11-09T09:24:19.000Z"
   },
   {
    "s": "USD/NGN",
@@ -225,17 +225,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 85.73,
-   "ch": -0.68,
-   "asof": "2026-11-09T07:40:47.000Z"
+   "p": 86.5,
+   "ch": 0.21,
+   "asof": "2026-11-09T09:24:14.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.0895,
-   "ch": -1.95,
-   "asof": "2026-11-09T07:40:43.000Z"
+   "p": 1.0917,
+   "ch": -1.75,
+   "asof": "2026-11-09T09:24:15.000Z"
   },
   {
    "s": "Apple",
@@ -265,9 +265,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 52.255,
-   "ch": 0.6,
-   "asof": "2026-11-09T07:30:47.000Z"
+   "p": 52.555,
+   "ch": 1.18,
+   "asof": "2026-11-09T09:13:32.000Z"
   }
  ],
  "news": [
@@ -281,9 +281,9 @@
   [
    "Forex",
    "med",
-   "Japan Says Three-Day Yen Intervention Lifted Yen in Summer",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU0hIS1pBbjdyM0tsMldxMjVocXRtMW5PV2RrSkE4SjYxeG9zVG9FTTJnNi1IUkFUeU4yazRJMHlUenJHeWJkb1c3Tl95TUs0d2pwTmFGS2tkMlBGNzVnYm52Mjhfc1RFYWNBLVlWUWk3and3aUNzMlNuT0QyZHgwZWdsdnZvQ05NSkZRdVl2aGdfQl80WEZSMDV0WU9hMUJsQzJYOHlKNUI0RlJONVE?oc=5"
+   "EXCLUSIVE: Chinese banks boost dollar deposit rates, sources say, as Beijing seeks to smooth yuan rally",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzF1MFhueDRWX1A3LWlGYWJuZ21hMjNBQkE5aG9JdElOT1pYeUNrMHUxS2lXaGQ4RDAxUUp1T256bjBXelZMZ3UyNDA1UEI5QlJ4SHgwX3QweWsyczBnRUhRTC1PZGtpRUVFNzVycWp3d1RQVE0zUm40SUNURVdES2EwZmpNUFNlMGV5S1lXajlza3A4OW1RSGFzWldtU1N1N0N1R0kxbTUxRGtXU29FX0x3M2J6SU5yVjBxWk1yZmN2WHdvR01UMGtqaw?oc=5"
   ],
   [
    "Crypto",
@@ -295,28 +295,28 @@
   [
    "Crypto",
    "med",
-   "An Analyst Who Expects One More Big Drop Still Sees Bitcoin Reaching $2 Million. Can BTC Rise 26 Times From $75,000?",
+   "Bitcoin slips to $74k as regulatory uncertainty, ETF outflows weigh",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcmFCRW5UeV9KaGFWLWR4NlJybGE2WGxQZE9Idm5tazNmRWF6SDFCMEVyM1BJeW11SEpZczZjQVhZOU1DMTlpOHpLRDRJWl81bWVPZ05pQ2pKWTg5MkdHNnIxSlMwazVUNDlrMVFnbTZodkFURExrNURRZ3ZtMUpXQ3Jqdy01WndGaTdIUzg2OHdoaVZJYXdmSg?oc=5"
+   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTTh1Q2dfQ0lSSWw5LWNXOW5OOWVmb2s0emJlWkgxWC1BdmI5c2FfUnZycW83aVJveF8wRERiYXhqZ1E4VlBsb2FjbWhZZHhDTV9WcEh2RGtiSktpY0swZ013blVjVnpNT0p5aUk1NXhqTmpxc0dCUmJtQk9QQ0ZqN2NuSHp2VzBqRVlkWkhTWW1vdzVCbWVuZEVRc1JXV2hMZzZvVUNIUW4?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Dow, S&P 500, Nasdaq Futures Rebound After Sharp AI Selloff Last Week: NVDA, AMD, VIR, SNDK In Focus",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZDJTY1ZadjNGdVRsV19LTFJtd1doSGxMSWxjdWtKX3VuUlViQ2tZNW41WmFjY292ZXlESk1FM3VIaFFXRUt1Qnd5SjZZUkJGSUNLLVRxdUMzSDNWRFk2b3c2eVpRWWl3bGpVLTlJUnVUaXFoQkIwYUlvdlhWTGZ1WG0wa05hZmM0RGtNUGlOaGJqUVE?oc=5"
+   "Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR1JWME4tcFN3Vlh6UlhVeEN3c2FlRUFkUWRrczJ6OUZ1QWRkRndtMy1nZFhBaU5Lc0dzaXU2ZjJnNUtwN2RSa3dyLXlwUV9QanZmaC1Wb2xhbUVZekZhaXdXZkpSazFDVnJqZWIweWtvdGczQi0xTnB1aEhiSy00aVFsMWdYaE1sRkN3NlU2YmVJdzhv?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "After a Tech Rout, Stock Funds Hold a 9.9% Gain for 2026",
+   "Dow Rebounds After Friday’s Selloff as Oil Slides",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRjBPZVBpM2UwQ2YySlY4MnFBbkc1WGRKQUZmMXFtd0pvQ1ZvUWl2SzY1UWtHQUR2aHpRQnhOY1dmNS1vWjlnV09xZzZWTGljQmJxaWU3R1EzVm05NXZUc1FWSE9pc2V0enNQU09DblJzSl9QbzJSelVJOHQ5bU4weTdYUFJMbks5V1ZfVEFzWWptYkNqeDBJWA?oc=5"
+   "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYmNRVXpheDE2eUhldmRHMGJRY2JPaDdnbGxSbFczZ0w4ZGpCNjVJYl9hSmF2NXBQdjFlRmFZNUU0WXVOSEVVWWZaOGJkTEF2aFlIZG1LblZ6ZEpwbWlTbW9hTzZRdmZybTczbzV4VVBPNU9PQWVrbWlCb00tQm5zb3h0RFhZSENFaFkyV3ZMcDhId3J3S0hsWnFSVHFLZFJNOE04NQ?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Oil falls as Trump signals restraint on Iran amid fresh Hormuz shipping attacks",
+   "Oil falls as Trump signals restraint on Iran despite fresh shipping attacks",
    "Reuters",
    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnV4VENDNkFNVllVVEpoVTJLcC13SlhHREstWFZZQ252QTRiU3dKeW5EYWYxVUJjNnQzVzh1M1FsWjNGTmRKMVFEYjhxT3M2VmF4aVpERWwwczh6dV9OTG5NcFJCMFVZZ0toWEEyMnRRTnBZUm9iQVVzblIzcmJMOTR4V29sUDFVME1jcFQ5VVhoMHVUM0YzWHM2bmE1b3VCV0s0R2JmUUQ?oc=5"
   ],
