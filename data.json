@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T12:07:24.627Z",
+ "updated": "2026-11-09T13:27:22.090Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -97,65 +97,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1191,
-   "ch": 0.43,
-   "asof": "2026-11-09T12:06:29.000Z"
+   "p": 1.1197,
+   "ch": 0.48,
+   "asof": "2026-11-09T13:26:31.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3413,
-   "ch": 0.43,
-   "asof": "2026-11-09T12:06:29.000Z"
+   "p": 1.3419,
+   "ch": 0.47,
+   "asof": "2026-11-09T13:26:31.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.94,
-   "ch": -0.31,
-   "asof": "2026-11-09T12:07:23.000Z"
+   "p": 157.92,
+   "ch": -0.32,
+   "asof": "2026-11-09T13:27:21.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6902,
-   "ch": 0.5,
-   "asof": "2026-11-09T12:05:29.000Z"
+   "p": 0.6897,
+   "ch": 0.42,
+   "asof": "2026-11-09T13:25:31.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4095,
-   "ch": -0.23,
-   "asof": "2026-11-09T12:07:24.000Z"
+   "p": 1.4101,
+   "ch": -0.19,
+   "asof": "2026-11-09T13:27:20.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8186,
-   "ch": -0.17,
-   "asof": "2026-11-09T12:07:23.000Z"
+   "p": 0.8189,
+   "ch": -0.13,
+   "asof": "2026-11-09T13:27:21.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 74445.11,
-   "ch": -0.37,
-   "asof": "2026-11-09T12:07:18.000Z"
+   "p": 74568.99,
+   "ch": -0.2,
+   "asof": "2026-11-09T13:27:18.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2114.87,
-   "ch": -0.45,
-   "asof": "2026-11-09T12:07:17.000Z"
+   "p": 2116.13,
+   "ch": -0.39,
+   "asof": "2026-11-09T13:27:18.000Z"
   },
   {
    "s": "S&P 500",
@@ -185,17 +185,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4117.9,
-   "ch": 1.06,
-   "asof": "2026-11-09T11:57:22.000Z"
+   "p": 4131.7,
+   "ch": 1.39,
+   "asof": "2026-11-09T13:17:19.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 88.34,
-   "ch": -2.74,
-   "asof": "2026-11-09T11:57:22.000Z"
+   "p": 87.54,
+   "ch": -3.62,
+   "asof": "2026-11-09T13:17:21.000Z"
   },
   {
    "s": "USD/KES",
@@ -209,9 +209,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4418,
-   "ch": -0.46,
-   "asof": "2026-11-09T12:07:24.000Z"
+   "p": 16.4396,
+   "ch": -0.47,
+   "asof": "2026-11-09T13:27:21.000Z"
   },
   {
    "s": "USD/NGN",
@@ -225,17 +225,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 86.29,
-   "ch": -0.03,
-   "asof": "2026-11-09T12:07:20.000Z"
+   "p": 86.37,
+   "ch": 0.06,
+   "asof": "2026-11-09T13:27:17.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.0847,
-   "ch": -2.38,
-   "asof": "2026-11-09T12:07:18.000Z"
+   "p": 1.0934,
+   "ch": -1.59,
+   "asof": "2026-11-09T13:27:19.000Z"
   },
   {
    "s": "Apple",
@@ -265,12 +265,19 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 52.705,
-   "ch": 1.47,
-   "asof": "2026-11-09T11:57:16.000Z"
+   "p": 52.595,
+   "ch": 1.26,
+   "asof": "2026-11-09T13:17:19.000Z"
   }
  ],
  "news": [
+  [
+   "Forex",
+   "med",
+   "Sterling rises versus dollar as market sentiment brightens",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZk1NRW5GMjJ5a0hGVTJGYnhvNTJJZzduNWpsX1BBUzQyZWpCcGROVVlrYWY1N0tETFpzMnNKVU9JTjFtMzVqR1BhN3VIbTZGcUYtSFVnbVFLN2RVUVY3T3VsRzFWYmRZQ2lnQTdVZFZ3eW00Nk9GbGRDS0pDVzFqalgzMHNDX1NNM1hXUWNBVTVZLWM2R0d6TGN0TTlZczctOGc?oc=5"
+  ],
   [
    "Forex",
    "med",
@@ -279,25 +286,18 @@
    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3lMUTI3WFg1TUlac1JZQ1Y4bDN0ejNVNXpKdmZJczk5dVlhaDlSbmhkamQ2TGdvb09hbWhJMjZpSFRCcDBpRUoxOHI1b3I4U0hMSXhWaUxYQWE2MVhXV2p1dGNBN3gtZXY4eWU5RVVpMzQ4ZFplbjI1aGV3UXZ4R2oxX0I0VHdmTXMtalRRMDVZQVdvellGandneGNCX0xhWjZLbDR2ZlBZM0VDdWktVw?oc=5"
   ],
   [
-   "Forex",
-   "med",
-   "Japan Says Three-Day Yen Intervention Lifted Yen in Summer",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU0hIS1pBbjdyM0tsMldxMjVocXRtMW5PV2RrSkE4SjYxeG9zVG9FTTJnNi1IUkFUeU4yazRJMHlUenJHeWJkb1c3Tl95TUs0d2pwTmFGS2tkMlBGNzVnYm52Mjhfc1RFYWNBLVlWUWk3and3aUNzMlNuT0QyZHgwZWdsdnZvQ05NSkZRdVl2aGdfQl80WEZSMDV0WU9hMUJsQzJYOHlKNUI0RlJONVE?oc=5"
-  ],
-  [
    "Crypto",
    "med",
-   "BTC news: Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+   "Bitcoin's drop and pop triggers $1 billion in liquidations",
    "CoinDesk",
-   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLTlEWlYtN1R4VVVtb2w0akhHTW83ZjduQi1najNCQ0M5dDJxZFBaNGZBWGl6cTBndGVvd1BTTnkzQ2gxU0NMOE00a1I1N2dfWk5PNmNUc0Y2TG5GNm5rWk9IeWhidUZBTXI3aGdsZXRpWXYzNzhIMC0zWXRXTFdYVDhpT2FpRG9nYl9GVm4yci1OOE5vODRwNTRFOHRmVnNuNEVrUy1DRFZUUERZWk8yOXlnLUcyMjR0VWZB?oc=5"
+   "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS1lCdHhqRkREYU9TTjQ2Zm1ENDd0T0Z2WHB3MW1RcmhocVdpQzc5WlhfUWdwX0xWWkdLM2t6SVg5VzZfQmd3STZZd1lsNjhjREYxZmpiMzJoaUxIZ19CNUJEZjFGajEyWF8xaVBocjlWa0pWdHdsY29ORTg5VWw0RDZoRHpIdWF1QmN1cGRyVzl4MW5EdFAxSFpJcFJXWTRYcGpEeURGbDFIQ2xublBPN3JidVF4U1A2T0JoWFZyUEQ5RkEtTmdhbEw4czhXY3A3?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin, Ethereum, XRP Whipsaw On Nvidia Scandal, Iran Tensions: Crypto Sell-Off Sparks $1B Liquidation Wave",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd0ZsNHpodlBpbU80cTZXNkRQVWd2RmNaUWFZVGF3T3hDVlQ5clVLZnhKdUVKc3ZzRXJoVDVFRjF5OGI3RFgzT2hUVnVqa0R1WTBaUDJBTjZhalV5OWNGeTJUaGxRb2ZqT0J6RFZSSFNCVHA1emdUU1pKWXUwNGJTUFlET2FvUDNGN2pjYnc1RXRYdm1NX2c5UUJia2YwU0R0alE?oc=5"
+   "Current price of Ethereum for November 9, 2026",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QaXJGbi1NVkNFN2NLRU1nUnVWNG9veTlvaXZJS3hFdlMxN2Fqd1pFUHRXUTdlSkI0c3YzYkJyT3JFYkp4SUpib0tKVlNCMC1KYzJTakJFdlJ0TWZlOVRYakxJMkhNbWp1?oc=5"
   ],
   [
    "Stocks",
@@ -308,24 +308,24 @@
   ],
   [
    "Stocks",
-   "high",
-   "Dow Jones, Nasdaq, S&P 500 preview: Inflation data, earnings loom after AI rout",
-   "Investing.com",
-   "https://news.google.com/rss/articles/CBMiywFBVV95cUxOanM1WDcwTXVzamhMemItUFFhaFZxbmR1ZTJOWlVlaFV0M3h4TERrWmxkdjBWTURkanVVbngzV2dvYl9IR05lSkUzRDZPQmdyRnQxSXplRUFIOThZYzhrbWEwNktURy1aNmVhb2l1WE42OVBJVC1IMkxDc0RRYU0tTXRJWmhxUTV2MTdyVUE0RnBja3FPRzZGWVVZSi04N1BRM3JPZ3FFaTdiUWxUNk9yV2hIYkNrTkVkdXJNZmZjT2xEWFVOWFdQZnQySQ?oc=5"
+   "med",
+   "Nvidia's Troubles, AMD's Boost, Nasdaq Futures | Barron's Daily November 9",
+   "Barron's",
+   "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbnNaaFc3Q25MN1dGYTV6ZHBfOHhfZmUycDdtZTE3dUVmLW1iWmw2aFJNWVlmbGdieGVJV3pyWER2eXVvYTFxRXhsNFdWcGc5Q2ZsMHhPRW9BWjFJNl9ualp1Y2pPaW9sNzZCa0h0Ulo1NWdXUFR1QTlsRTlaOTNBeA?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Oil Prices Fall, Staying Below $100, After Trump Downplays Prospect of New Iran Strikes",
+   "OPEC, Allies Keep Output Steady While Gulf Shipping Remains Under Threat",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS29XR2VmWjE0VXk0djYtZVB1ZHpfSXBjYS02b1psblVVYjBUWjMtejVmMzhmREwtNHZrdGFHQzNub0o1STNxRV9DclpWOG8tdTNGNzVJYnJKdWxiM1ZjOC1GLXQ0OGxvTXE3SWp2eGV3WEJ2ZS1VbnUxZk9aMHYtcEtVbi1MUTd1RnRLdjhudUcxbW9GOVh1akQyazdXSV83QURqM3g4VEtTc0VtNGd2a25pczBoT2FJ?oc=5"
+   "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbnNqUHNCa3N5QzZ4RUZEVVd5RUsxNDM1QU5wZ3dYQ3FYdzdEWnpnczk0NG1JTndRV19CQnpWd0J4eUE4SndBWFpfUkZNeS1QQUtIaWVQRFBYVk1fMXlHNVJjWW1zb3JsV2pvVnc5UU5zby1DNzF1d3dyNFdYWTlTUlJFRk11YW5RU19idkdxZXNSZkJ4azFtQVBjZkVpT2p6cVFlbkpsX2o2NWYtVUJfd1VtblJhQ21COUJYTA?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Indian shares inch higher to close at 8-month high as crude oil drops",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkM4eVdiUXpCc3Jld1NOSlRzMEFUeHcxb09peUlKS3ZFNTVLS2lwMFE0T0x1NV94RGowQjZEM0luODhHRFNZWWxaX2w2Y0Rqc1d5X2tXYlRwcU5wMVMxNHNjeWVXZEZSNkYtV1JEV29LeDE2bEVRMnNBbUVNNGV5cjNlYVYydGhKT3Awc2VVeEY3WTZSbWJjak43bmpTdmJjR2ZSU01fSXhCeFNVNXlYeGxPODh2UUlHQ1FRb3VNSzc?oc=5"
+   "Current price of oil as of November 9, 2026",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tS0VJXzlGYWY2NWhRSGZjZjR3M1lrYmJMUV9RU0xJVmU1eTVWRHVVNUlmc3ozY3g2eGZycDJUeE9nN1pLbk55aVc3QlhfOXh2akV6Vlp1OHRGMUZXUXhTZXhR?oc=5"
   ]
  ]
 }
