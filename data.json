@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T16:15:07.727Z",
+ "updated": "2026-11-09T17:23:25.749Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -97,105 +97,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1206,
-   "ch": 0.57,
-   "asof": "2026-11-09T16:14:30.000Z"
+   "p": 1.1211,
+   "ch": 0.61,
+   "asof": "2026-11-09T17:22:31.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3413,
-   "ch": 0.43,
-   "asof": "2026-11-09T16:14:30.000Z"
+   "p": 1.3426,
+   "ch": 0.52,
+   "asof": "2026-11-09T17:22:31.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.034,
-   "ch": -0.25,
-   "asof": "2026-11-09T16:15:07.000Z"
+   "p": 157.963,
+   "ch": -0.29,
+   "asof": "2026-11-09T17:23:25.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6912,
-   "ch": 0.64,
-   "asof": "2026-11-09T16:13:30.000Z"
+   "p": 0.6918,
+   "ch": 0.73,
+   "asof": "2026-11-09T17:21:31.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4126,
-   "ch": -0.01,
-   "asof": "2026-11-09T16:15:07.000Z"
+   "p": 1.4128,
+   "ch": 0,
+   "asof": "2026-11-09T17:23:23.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8213,
-   "ch": 0.16,
-   "asof": "2026-11-09T16:15:06.000Z"
+   "p": 0.821,
+   "ch": 0.12,
+   "asof": "2026-11-09T17:23:24.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75022.98,
-   "ch": 0.41,
-   "asof": "2026-11-09T16:15:01.000Z"
+   "p": 74722.21,
+   "ch": 0,
+   "asof": "2026-11-09T17:23:20.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2132.14,
-   "ch": 0.37,
-   "asof": "2026-11-09T16:15:03.000Z"
+   "p": 2123.1,
+   "ch": -0.06,
+   "asof": "2026-11-09T17:23:21.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7522.66,
-   "ch": 1.98,
-   "asof": "2026-11-09T16:15:05.000Z"
+   "p": 7547.93,
+   "ch": 2.32,
+   "asof": "2026-11-09T17:23:25.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 25165.342,
-   "ch": 2.38,
-   "asof": "2026-11-09T16:15:07.000Z"
+   "p": 25237.89,
+   "ch": 2.68,
+   "asof": "2026-11-09T17:23:23.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52155.79,
-   "ch": 1.7,
-   "asof": "2026-11-09T16:15:07.000Z"
+   "p": 52356.52,
+   "ch": 2.09,
+   "asof": "2026-11-09T17:23:26.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4133.4,
-   "ch": 1.44,
-   "asof": "2026-11-09T16:05:05.000Z"
+   "p": 4114.8,
+   "ch": 0.98,
+   "asof": "2026-11-09T17:13:25.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 88.22,
-   "ch": -2.87,
-   "asof": "2026-11-09T16:05:06.000Z"
+   "p": 87.79,
+   "ch": -3.35,
+   "asof": "2026-11-09T17:13:25.000Z"
   },
   {
    "s": "USD/KES",
@@ -209,9 +209,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4178,
+   "p": 16.4173,
    "ch": -0.6,
-   "asof": "2026-11-09T16:15:08.000Z"
+   "asof": "2026-11-09T17:23:26.000Z"
   },
   {
    "s": "USD/NGN",
@@ -225,49 +225,49 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 87.12,
-   "ch": 0.93,
-   "asof": "2026-11-09T16:15:04.000Z"
+   "p": 86.42,
+   "ch": 0.12,
+   "asof": "2026-11-09T17:23:23.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1087,
-   "ch": -0.22,
-   "asof": "2026-11-09T16:15:05.000Z"
+   "p": 1.0914,
+   "ch": -1.77,
+   "asof": "2026-11-09T17:23:21.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 350.78,
-   "ch": 2.46,
-   "asof": "2026-11-09T16:15:08.000Z"
+   "p": 349.88,
+   "ch": 2.19,
+   "asof": "2026-11-09T17:23:24.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 377.87,
-   "ch": 5.49,
-   "asof": "2026-11-09T16:15:07.000Z"
+   "p": 377.665,
+   "ch": 5.43,
+   "asof": "2026-11-09T17:23:25.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 175.735,
-   "ch": -5.84,
-   "asof": "2026-11-09T16:15:02.000Z"
+   "p": 177.92,
+   "ch": -4.67,
+   "asof": "2026-11-09T17:23:26.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 52.96,
-   "ch": 1.96,
-   "asof": "2026-11-09T16:04:53.000Z"
+   "p": 52.7,
+   "ch": 1.46,
+   "asof": "2026-11-09T17:13:17.000Z"
   }
  ],
  "news": [
@@ -295,9 +295,9 @@
   [
    "Crypto",
    "med",
-   "3 Reasons Strategy and Other Crypto Stocks Are Dropping",
-   "Barron's",
-   "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lTEZEc1FtTG1QZGxwRUV3R090SHhfRzhhY3o1c3hjcjVsOEY4ZnFrQUNsLXl3NW4xRWFwLVY3dUVlbUtFWVJveHdjQ3EzdmdnVVctb3Z3ZmdQOV9sdkNNQW9YX3luLUYxWkxUWmlvc0FHdW5IdWJTcTlvUQ?oc=5"
+   "Focus: Trump administration's embrace of \"perp\" futures sets off risk alarms for Wall Street stalwarts",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYVZsYWtjTnU4dVhYU3o4LWJCeVdPOUNhNGdUVUhLdG1iZTE3REw3QmR6RHRzblFjc3RKYmlvS1JkRlFJakFpMExqdGx2ZDU1OGcxME5OazNFVTVGYTRQLTlSTjFhTk5Wc041TnV5dUtRdGdWWVQwWXRhMzdMaE9sdmdWOFROSGVoOTR1Z201THNOb25PTmdzWkdraGNkWEg2bFljcld6SDM0MzJvdG84amJkNGRBYjJyMDRCemVFMVhUMzZvcTZR?oc=5"
   ],
   [
    "Stocks",
@@ -309,9 +309,9 @@
   [
    "Stocks",
    "med",
-   "S&P 500 Futures Rise as Oil Falls; Nvidia Sinks on Huang Affair",
+   "Stocks Climb as Buyers Step In Despite Nvidia Woes: Markets Wrap",
    "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSkRSbWhPaUtmRFBUSy10cUNCTFJFSGFWUGJrYUlZcEF0eE9vLWN4azVnVU1HQmYxRDQ4V1lUbGtzM3czZzBKZTNPVWhONkI5V2lxMUVObXFmczNpMWRmMW1vXzU5S0tfa3pubzlra1V0NmRVMjZPM1oxbjJ1Z3VVNUdjY2VMdWZieEVERjRMWGpSQzcyeHdXc1NpaGtWS1VMRlVQbHdpbnlDRTc1TG5FLXFEOA?oc=5"
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR1JWME4tcFN3Vlh6UlhVeEN3c2FlRUFkUWRrczJ6OUZ1QWRkRndtMy1nZFhBaU5Lc0dzaXU2ZjJnNUtwN2RSa3dyLXlwUV9QanZmaC1Wb2xhbUVZekZhaXdXZkpSazFDVnJqZWIweWtvdGczQi0xTnB1aEhiSy00aVFsMWdYaE1sRkN3NlU2YmVJdzhv?oc=5"
   ],
   [
    "Commodities",
@@ -323,9 +323,9 @@
   [
    "Commodities",
    "med",
-   "BC-Crude Oil Futures",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTnZoUkZyRnpjR1kwaExqOS12TE1kVzZVaGZfenhtaHVkSVVZUEdzdjlFY2dvX0lkMmgyT0I3d0JTZG4xOHJ4elBvTGNYUWJadDJRczZ1OEpwUHVkb2toVzlOZGc0UTROd19RMlZCSEthSHdnMnFHWWlvZnJnYU1Lamg5QjAzT2p1bktJb2JJOXRFal8w?oc=5"
+   "Crude oil plunges as Trump says renewed Iran attacks unlikely (CL1:COM:Commodity)",
+   "Seeking Alpha",
+   "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaDBPMklORnBkWTVJVU1PR1lYamYySnpwNklWcmpqZEVhb2dtYl9QQk0zZHAzX2VmYjJacXZtZVg3MERUT3BsZXpjVkFnNVY2YVBIYlZxOE9CSUVTNUZTaEhhSXdOOGNNT1lGRVRTV3dWVGo4YzA0UnNTQ0tRZVpNRE0welU4SnBESDhXRk9DcTZGckw2YjcxV2RWSWphM0xN?oc=5"
   ]
  ]
 }
