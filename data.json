@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T17:23:25.749Z",
+ "updated": "2026-11-09T19:07:44.621Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -35,6 +35,15 @@
    "name": "CPI m/m",
    "fc": "0.3%",
    "prev": "0.6%",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-11T04:45:00-05:00",
+   "tag": "EUR",
+   "imp": "med",
+   "name": "ECB President Lagarde Speaks",
+   "fc": "",
+   "prev": "",
    "act": ""
   },
   {
@@ -97,105 +106,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1211,
-   "ch": 0.61,
-   "asof": "2026-11-09T17:22:31.000Z"
+   "p": 1.1208,
+   "ch": 0.58,
+   "asof": "2026-11-09T19:07:33.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3426,
+   "p": 1.3425,
    "ch": 0.52,
-   "asof": "2026-11-09T17:22:31.000Z"
+   "asof": "2026-11-09T19:07:33.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.963,
-   "ch": -0.29,
-   "asof": "2026-11-09T17:23:25.000Z"
+   "p": 158.031,
+   "ch": -0.25,
+   "asof": "2026-11-09T19:07:44.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6918,
-   "ch": 0.73,
-   "asof": "2026-11-09T17:21:31.000Z"
+   "p": 0.6915,
+   "ch": 0.68,
+   "asof": "2026-11-09T19:07:33.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4128,
-   "ch": 0,
-   "asof": "2026-11-09T17:23:23.000Z"
+   "p": 1.4131,
+   "ch": 0.02,
+   "asof": "2026-11-09T19:07:43.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.821,
-   "ch": 0.12,
-   "asof": "2026-11-09T17:23:24.000Z"
+   "p": 0.8206,
+   "ch": 0.07,
+   "asof": "2026-11-09T19:07:44.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 74722.21,
-   "ch": 0,
-   "asof": "2026-11-09T17:23:20.000Z"
+   "p": 74625.48,
+   "ch": -0.13,
+   "asof": "2026-11-09T19:07:40.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2123.1,
-   "ch": -0.06,
-   "asof": "2026-11-09T17:23:21.000Z"
+   "p": 2122.21,
+   "ch": -0.1,
+   "asof": "2026-11-09T19:07:43.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7547.93,
-   "ch": 2.32,
-   "asof": "2026-11-09T17:23:25.000Z"
+   "p": 7551.72,
+   "ch": 2.37,
+   "asof": "2026-11-09T19:07:42.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 25237.89,
-   "ch": 2.68,
-   "asof": "2026-11-09T17:23:23.000Z"
+   "p": 25224.81,
+   "ch": 2.63,
+   "asof": "2026-11-09T19:07:44.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52356.52,
-   "ch": 2.09,
-   "asof": "2026-11-09T17:23:26.000Z"
+   "p": 52420.52,
+   "ch": 2.21,
+   "asof": "2026-11-09T19:07:43.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4114.8,
-   "ch": 0.98,
-   "asof": "2026-11-09T17:13:25.000Z"
+   "p": 4115.2,
+   "ch": 0.99,
+   "asof": "2026-11-09T18:57:35.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 87.79,
-   "ch": -3.35,
-   "asof": "2026-11-09T17:13:25.000Z"
+   "p": 87.66,
+   "ch": -3.49,
+   "asof": "2026-11-09T18:57:44.000Z"
   },
   {
    "s": "USD/KES",
@@ -203,15 +212,15 @@
    "d": 2,
    "p": 129.86,
    "ch": 0.04,
-   "asof": "2026-11-09T15:59:13.000Z"
+   "asof": "2026-11-09T19:03:35.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4173,
-   "ch": -0.6,
-   "asof": "2026-11-09T17:23:26.000Z"
+   "p": 16.4115,
+   "ch": -0.64,
+   "asof": "2026-11-09T19:07:45.000Z"
   },
   {
    "s": "USD/NGN",
@@ -219,64 +228,64 @@
    "d": 2,
    "p": 1340.33,
    "ch": -0.42,
-   "asof": "2026-11-09T15:59:13.000Z"
+   "asof": "2026-11-09T19:03:35.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 86.42,
-   "ch": 0.12,
-   "asof": "2026-11-09T17:23:23.000Z"
+   "p": 86.57,
+   "ch": 0.29,
+   "asof": "2026-11-09T19:07:40.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.0914,
-   "ch": -1.77,
-   "asof": "2026-11-09T17:23:21.000Z"
+   "p": 1.0916,
+   "ch": -1.76,
+   "asof": "2026-11-09T19:07:40.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 349.88,
-   "ch": 2.19,
-   "asof": "2026-11-09T17:23:24.000Z"
+   "p": 351.44,
+   "ch": 2.65,
+   "asof": "2026-11-09T19:07:45.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 377.665,
-   "ch": 5.43,
-   "asof": "2026-11-09T17:23:25.000Z"
+   "p": 377.59,
+   "ch": 5.41,
+   "asof": "2026-11-09T19:07:45.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 177.92,
-   "ch": -4.67,
-   "asof": "2026-11-09T17:23:26.000Z"
+   "p": 176.6,
+   "ch": -5.38,
+   "asof": "2026-11-09T19:07:45.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 52.7,
-   "ch": 1.46,
-   "asof": "2026-11-09T17:13:17.000Z"
+   "p": 52.835,
+   "ch": 1.72,
+   "asof": "2026-11-09T18:57:35.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Sterling rises versus dollar as market sentiment brightens",
+   "Paraguay names Schreiner as central bank chief following Ueno collapse",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZk1NRW5GMjJ5a0hGVTJGYnhvNTJJZzduNWpsX1BBUzQyZWpCcGROVVlrYWY1N0tETFpzMnNKVU9JTjFtMzVqR1BhN3VIbTZGcUYtSFVnbVFLN2RVUVY3T3VsRzFWYmRZQ2lnQTdVZFZ3eW00Nk9GbGRDS0pDVzFqalgzMHNDX1NNM1hXUWNBVTVZLWM2R0d6TGN0TTlZczctOGc?oc=5"
+   "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOS1BOVNiOG9QbVF1Z0wtbHdUcF9tRFhOcGxLZlpPQXVKX0FjM0k5MmhfRlZTa1Q2d3lDdXlCdW9tdm1yVEViLVM1aFdIY1R3YzBQcWUzUEF0TWZqc2lFWmd1UEFzcU9QTlZKcDVmYVV4UmFsdTVJbm9oZTY3d2otNUVuQmRUeUFUNXprRzByQXNuZWJ5YmlZV0hQRUtPUzhvQm5ieF9lOA?oc=5"
   ],
   [
    "Forex",
@@ -295,7 +304,7 @@
   [
    "Crypto",
    "med",
-   "Focus: Trump administration's embrace of \"perp\" futures sets off risk alarms for Wall Street stalwarts",
+   "Trump administration's embrace of \"perp\" futures sets off risk alarms for Wall Street stalwarts",
    "Reuters",
    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYVZsYWtjTnU4dVhYU3o4LWJCeVdPOUNhNGdUVUhLdG1iZTE3REw3QmR6RHRzblFjc3RKYmlvS1JkRlFJakFpMExqdGx2ZDU1OGcxME5OazNFVTVGYTRQLTlSTjFhTk5Wc041TnV5dUtRdGdWWVQwWXRhMzdMaE9sdmdWOFROSGVoOTR1Z201THNOb25PTmdzWkdraGNkWEg2bFljcld6SDM0MzJvdG84amJkNGRBYjJyMDRCemVFMVhUMzZvcTZR?oc=5"
   ],
@@ -316,16 +325,16 @@
   [
    "Commodities",
    "med",
-   "OPEC oil output rises in October to 90% of pre-war rate, Reuters survey shows",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcGJ3LUpzaXpKMGVQTkVDUmxmck5BRE9ycmRsR2ljV2x5ZmpoOW5UbW1WSE9XUnd5XzJsano5X0hPMU1DZW5Za2lsQ05Sa2NzWWNnTkpHdVc4ZmFvRnZ1WDRGVnVLaFNJVVdNSGhhYmRBaXZSSVNjc29qT2dUbnEtZ3JBNXdyQ01IaWxJRDJsZThnT29yUmxnSTh2dHFidnZBd2R6QU5nS182LUFjV1U0RXJqSVR2VXpicTBjalNR?oc=5"
+   "Saudi Pipeline Attacked as OPEC Output Climbs to 90% of Pre-War Levels",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcEN5Rnp2anlVblctWFNKal9hWHFXbGJaWk9KSWVIaHV1NmZGTDZPeWNPRDVlblVhTWNqRV9XOHFSbnducTItYmI3WnA5bS1PQUVTSmJ2dWVXSlp0eTZTOWI5ZEFTNGVLUVpQM3hmdWxwbU4yblFDcTZYanM4Wk9LUHpYNTJtb3ZhWTFFbzRYc1VaYlh1NWl1NEh1ZkpEOW1FMi1SeEtDYUdSZERYWlRfaXZ1OTNvWE5kQXJaSmt2R1M1d0HSAcgBQVVfeXFMTUVIRWVNODhhQzRESnhrXzAzWjhQNzJkT3BycHNQOE4xZDhXTUxiTmlfTG1FbFRyTldfMEVoZm5jUlBNMkRFXzlSM0I0NGhQUFJ2TllGWjFwQ1VyYzF0bm1MaTZLUWxLTm11N3ZXdmJnSnVLOWVjZEJSS19IaGpWUVFMaXFOeHU0Zm81TXBISjM2YnFsNmFqMWUwN1Q0T2ZTVkhGcmxLZUQ5LTRzenZiTy1FUnc1V3lqWExmbU9FYlRfVzhrdHpMN04?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Crude oil plunges as Trump says renewed Iran attacks unlikely (CL1:COM:Commodity)",
-   "Seeking Alpha",
-   "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaDBPMklORnBkWTVJVU1PR1lYamYySnpwNklWcmpqZEVhb2dtYl9QQk0zZHAzX2VmYjJacXZtZVg3MERUT3BsZXpjVkFnNVY2YVBIYlZxOE9CSUVTNUZTaEhhSXdOOGNNT1lGRVRTV3dWVGo4YzA0UnNTQ0tRZVpNRE0welU4SnBESDhXRk9DcTZGckw2YjcxV2RWSWphM0xN?oc=5"
+   "OPEC oil output rises in October to 90% of pre-war rate, Reuters survey shows",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcGJ3LUpzaXpKMGVQTkVDUmxmck5BRE9ycmRsR2ljV2x5ZmpoOW5UbW1WSE9XUnd5XzJsano5X0hPMU1DZW5Za2lsQ05Sa2NzWWNnTkpHdVc4ZmFvRnZ1WDRGVnVLaFNJVVdNSGhhYmRBaXZSSVNjc29qT2dUbnEtZ3JBNXdyQ01IaWxJRDJsZThnT29yUmxnSTh2dHFidnZBd2R6QU5nS182LUFjV1U0RXJqSVR2VXpicTBjalNR?oc=5"
   ]
  ]
 }
