@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:23:56.287Z",
+ "updated": "2026-11-09T02:59:07.809Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -97,9 +97,9 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1161,
-   "ch": 0.16,
-   "asof": "2026-11-09T01:23:32.000Z"
+   "p": 1.1158,
+   "ch": 0.13,
+   "asof": "2026-11-09T02:58:34.000Z"
   },
   {
    "s": "GBP/USD",
@@ -107,55 +107,55 @@
    "d": 4,
    "p": 1.3374,
    "ch": 0.13,
-   "asof": "2026-11-09T01:23:32.000Z"
+   "asof": "2026-11-09T02:58:34.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.21,
-   "ch": -0.14,
-   "asof": "2026-11-09T01:23:55.000Z"
+   "p": 158.288,
+   "ch": -0.09,
+   "asof": "2026-11-09T02:59:06.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6891,
-   "ch": 0.33,
-   "asof": "2026-11-09T01:23:32.000Z"
+   "p": 0.6899,
+   "ch": 0.45,
+   "asof": "2026-11-09T02:57:34.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.411,
+   "p": 1.4109,
    "ch": -0.13,
-   "asof": "2026-11-09T01:23:55.000Z"
+   "asof": "2026-11-09T02:59:07.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.82,
-   "ch": 0,
-   "asof": "2026-11-09T01:23:55.000Z"
+   "p": 0.8208,
+   "ch": 0.1,
+   "asof": "2026-11-09T02:59:06.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 74850.71,
-   "ch": 0.18,
-   "asof": "2026-11-09T01:23:51.000Z"
+   "p": 75194.59,
+   "ch": 0.64,
+   "asof": "2026-11-09T02:59:04.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2129.44,
-   "ch": 0.24,
-   "asof": "2026-11-09T01:23:52.000Z"
+   "p": 2144.59,
+   "ch": 0.95,
+   "asof": "2026-11-09T02:59:02.000Z"
   },
   {
    "s": "S&P 500",
@@ -185,17 +185,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4114.6,
-   "ch": 0.97,
-   "asof": "2026-11-09T01:13:54.000Z"
+   "p": 4135.1,
+   "ch": 1.48,
+   "asof": "2026-11-09T02:49:06.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 90.29,
-   "ch": -0.59,
-   "asof": "2026-11-09T01:13:52.000Z"
+   "p": 90.91,
+   "ch": 0.09,
+   "asof": "2026-11-09T02:49:06.000Z"
   },
   {
    "s": "USD/KES",
@@ -209,9 +209,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.4937,
-   "ch": -0.14,
-   "asof": "2026-11-09T01:23:56.000Z"
+   "p": 16.4892,
+   "ch": -0.17,
+   "asof": "2026-11-09T02:59:07.000Z"
   },
   {
    "s": "USD/NGN",
@@ -225,17 +225,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 87.14,
-   "ch": 0.95,
-   "asof": "2026-11-09T01:23:53.000Z"
+   "p": 87.99,
+   "ch": 1.94,
+   "asof": "2026-11-09T02:59:02.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1123,
-   "ch": 0.11,
-   "asof": "2026-11-09T01:23:50.000Z"
+   "p": 1.1144,
+   "ch": 0.3,
+   "asof": "2026-11-09T02:59:03.000Z"
   },
   {
    "s": "Apple",
@@ -265,19 +265,12 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.035,
-   "ch": 2.1,
-   "asof": "2026-11-09T01:13:55.000Z"
+   "p": 53.18,
+   "ch": 2.38,
+   "asof": "2026-11-09T02:49:05.000Z"
   }
  ],
  "news": [
-  [
-   "Forex",
-   "high",
-   "US dollar holds onto payrolls gains, NZ dollar rises after election",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc3ZtMDBIQ2p3MzI1VUNnS3M2Q1I4T1k1Mk1sU19peE9hOGM5cVh2cXZiY3Q2THgyR3ZnMzlhRExRM0s5ci1WZG5IQk55RUZkb2tITUp2OVRoY1VXWWFDS3pBMnNLSFhhZVplWWVjWmdRRmZ3eDNUNFREZWU2Wml1Y3Nnck9saTB4T3JPSGd2SGl4X1NwNmp2U19iY3BLSmV0ZEloYTRadldmNjJIY0l4NllucjVDT3lkQ0JLakFB?oc=5"
-  ],
   [
    "Forex",
    "med",
@@ -286,11 +279,11 @@
    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU0hIS1pBbjdyM0tsMldxMjVocXRtMW5PV2RrSkE4SjYxeG9zVG9FTTJnNi1IUkFUeU4yazRJMHlUenJHeWJkb1c3Tl95TUs0d2pwTmFGS2tkMlBGNzVnYm52Mjhfc1RFYWNBLVlWUWk3and3aUNzMlNuT0QyZHgwZWdsdnZvQ05NSkZRdVl2aGdfQl80WEZSMDV0WU9hMUJsQzJYOHlKNUI0RlJONVE?oc=5"
   ],
   [
-   "Crypto",
+   "Forex",
    "med",
-   "Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLWljNlJ2T28tVUlGZVNsNHVkbHdHMWRTNVczSGRkZjlMbGt5WjNmV2d3TTFvU1dVNTZzQ2dvNExUeWhrSGZUc3ZoOTA0eDRMbC1DQ1VNcFBGaHhHa3F5S1llWUVWNmxpSERYZThucHM2eFJTYWFoYklpcThITjN2SUI3V1BOS2pNN250SXk3eW5Tak5qTEZiNDhMU3FhaFQ5LWlnOHpJb1NERExKcUZ3cEVpV0tNUWM?oc=5"
+   "Japan FX intervention data underscores challenge of reversing weak yen",
+   "Nikkei Asia",
+   "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzZJWDNjU0Z5RjdaQlk0Yy1fTlY0VzhPdlRCZTB3aS1IeVFFenJ6TzVTbDJpemdOSDFxSy1jRHNhVzVqY3Q3eUI4M01kdGZqMVJhYVpJcFhreWtpcV94QVkzczRjeGpkZHBKdzJSUWxhRFYzYWo3RVREQjNqU0s5ZERMdEJiRkZ5UWhqY2hlSkdmcUIySGFRUC1CRVd1VzV3R3ZqM2xrZTRTRVZwRG4xNlVIS3d0ODhLUks3Wko4aw?oc=5"
   ],
   [
    "Crypto",
@@ -300,18 +293,25 @@
    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcmFCRW5UeV9KaGFWLWR4NlJybGE2WGxQZE9Idm5tazNmRWF6SDFCMEVyM1BJeW11SEpZczZjQVhZOU1DMTlpOHpLRDRJWl81bWVPZ05pQ2pKWTg5MkdHNnIxSlMwazVUNDlrMVFnbTZodkFURExrNURRZ3ZtMUpXQ3Jqdy01WndGaTdIUzg2OHdoaVZJYXdmSg?oc=5"
   ],
   [
+   "Crypto",
+   "med",
+   "Cryptocurrencies slide to two-month lows after US midterms",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ19jb0ZtdjRvY1E4V0ltOHBXdkI0UXpfY3lNeFVhM0pxRUlUUmVhWVdRSW1Ec25SMnVvSXVxQ0hQcjJfamxSWWpRSVNoYnh4QUxaSHlHRExaWVBiNklkRUpvM1dMZENjS1RNRzJJUFNydjN2RVFpQkxfcGpSaGNUREEyX29scVBNTkoycjdRckk1ZFBIaTgybHh1NjU4eUxVUEE?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
+   "Opinion: The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+   "MarketWatch",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTnpIbXZUVFBYTU9iZUk0X1RJU21paDFkelEtU3Vpa0w1aTlFdGp3TFVkVDB1T0p3R1E0VHUxUXUzMk4zQXkwU1JLLXpudmUxSUJRajdqeVZtNHplVU1BUlBhR2hmNGhPZWNkdG43THdfZHdVc3pKVE5hT19kbkR6ckoyMnB4MWViU1o3dmpVc3lIeVlzZU1QOHdtaUVKeTd3ZHpqc0tjMTY0Q2JxN1JJcHhB?oc=5"
+  ],
+  [
    "Stocks",
    "med",
    "A Popular New Bet Hailing From Cryptoland Sets Off a Wall Street Turf War",
    "WSJ",
    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnd3TzZDN1pPNVZHQzNVa044OG9iaHVuSWRwRTZhWTlYSG9qVXVCU09jYkFOXzVWcFhyOHVKOXBjTUNlM1JzTGhqT2J2QzZtNTczSjU2QlFiVkJYYV8tOXBOUFdQanRhQnhJX3BuXy0wU0llcXM5ZHJlOUktUXZ6MXdhZU8yenlDdzdtNWl3ZWZTOV9DM1F3Z0RZOEFTTWlnZnNwWFpRVWh3ekZDSWU5Rmx6OV9NMC00WWExbW1R?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Digital Realty, Goodman Buy 9.9% of NEXTDC in Stock Market Raid",
-   "Bloomberg",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRlQtUDc5SHBHZ2MwYS02b1prNUtZY3JBM09NeTd6TW9LYlJUZjlQXzkyMFpBRmFyalZYTGExRHY2RE5zdFZTNGZIa3hQQXUwLUFyMl9JcXVVQkt0bGVDY2NsOXhRb2g0TnREMDNiLU80amdkNEtBc3kzQmRKQ0c5S1RZRW82T3IxMGhRektVc2M1bXFsb21vLUxCOWcycUEtbktrNEJodWtnUW93RjcxRmNn?oc=5"
   ],
   [
    "Commodities",
