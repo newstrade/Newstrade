@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T22:56:37.360Z",
+ "updated": "2026-11-09T23:50:16.292Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -106,33 +106,33 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1225,
+   "p": 1.1226,
    "ch": 0.74,
-   "asof": "2026-11-09T22:56:33.000Z"
+   "asof": "2026-11-09T23:49:34.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3438,
-   "ch": 0.61,
-   "asof": "2026-11-09T22:56:33.000Z"
+   "p": 1.3442,
+   "ch": 0.64,
+   "asof": "2026-11-09T23:49:34.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.904,
-   "ch": -0.33,
-   "asof": "2026-11-09T22:56:34.000Z"
+   "p": 157.998,
+   "ch": -0.27,
+   "asof": "2026-11-09T23:50:15.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6925,
-   "ch": 0.83,
-   "asof": "2026-11-09T22:55:33.000Z"
+   "p": 0.6924,
+   "ch": 0.82,
+   "asof": "2026-11-09T23:49:34.000Z"
   },
   {
    "s": "USD/CAD",
@@ -140,31 +140,31 @@
    "d": 4,
    "p": 1.4118,
    "ch": -0.07,
-   "asof": "2026-11-09T22:56:35.000Z"
+   "asof": "2026-11-09T23:50:13.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8192,
-   "ch": -0.1,
-   "asof": "2026-11-09T22:56:37.000Z"
+   "p": 0.8195,
+   "ch": -0.06,
+   "asof": "2026-11-09T23:50:13.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75161.35,
-   "ch": 0.59,
-   "asof": "2026-11-09T22:56:35.000Z"
+   "p": 75181.04,
+   "ch": 0.62,
+   "asof": "2026-11-09T23:50:11.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2132.72,
-   "ch": 0.4,
-   "asof": "2026-11-09T22:56:34.000Z"
+   "p": 2130.42,
+   "ch": 0.29,
+   "asof": "2026-11-09T23:50:12.000Z"
   },
   {
    "s": "S&P 500",
@@ -194,17 +194,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4149.5,
-   "ch": 0.85,
-   "asof": "2026-11-09T22:00:00.000Z"
+   "p": 4146.1,
+   "ch": 0.77,
+   "asof": "2026-11-09T23:40:09.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 86.38,
-   "ch": -0.54,
-   "asof": "2026-11-09T21:59:59.000Z"
+   "p": 86.43,
+   "ch": -0.48,
+   "asof": "2026-11-09T23:39:54.000Z"
   },
   {
    "s": "USD/KES",
@@ -212,15 +212,15 @@
    "d": 2,
    "p": 129.86,
    "ch": 0.04,
-   "asof": "2026-11-09T22:34:44.000Z"
+   "asof": "2026-11-09T23:16:54.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.3868,
-   "ch": -0.79,
-   "asof": "2026-11-09T22:55:39.000Z"
+   "p": 16.3756,
+   "ch": -0.86,
+   "asof": "2026-11-09T23:50:15.000Z"
   },
   {
    "s": "USD/NGN",
@@ -228,23 +228,23 @@
    "d": 2,
    "p": 1340.33,
    "ch": -0.42,
-   "asof": "2026-11-09T22:34:43.000Z"
+   "asof": "2026-11-09T23:16:53.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 86.81,
-   "ch": 0.57,
-   "asof": "2026-11-09T22:56:30.000Z"
+   "p": 86.5,
+   "ch": 0.21,
+   "asof": "2026-11-09T23:50:10.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.104,
-   "ch": -0.64,
-   "asof": "2026-11-09T22:56:32.000Z"
+   "p": 1.099,
+   "ch": -1.09,
+   "asof": "2026-11-09T23:50:14.000Z"
   },
   {
    "s": "Apple",
@@ -274,25 +274,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.455,
-   "ch": 1.45,
-   "asof": "2026-11-09T21:59:47.000Z"
+   "p": 53.435,
+   "ch": 1.41,
+   "asof": "2026-11-09T23:40:10.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Paraguay names Schreiner as central bank chief following Ueno collapse",
+   "Paraguay widens probe into collapsed digital bank and installs new central bank head",
    "Reuters",
    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOS1BOVNiOG9QbVF1Z0wtbHdUcF9tRFhOcGxLZlpPQXVKX0FjM0k5MmhfRlZTa1Q2d3lDdXlCdW9tdm1yVEViLVM1aFdIY1R3YzBQcWUzUEF0TWZqc2lFWmd1UEFzcU9QTlZKcDVmYVV4UmFsdTVJbm9oZTY3d2otNUVuQmRUeUFUNXprRzByQXNuZWJ5YmlZV0hQRUtPUzhvQm5ieF9lOA?oc=5"
   ],
   [
    "Forex",
    "med",
-   "Japan Spent Record $50 Billion in Single Day to Bolster Yen",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3lMUTI3WFg1TUlac1JZQ1Y4bDN0ejNVNXpKdmZJczk5dVlhaDlSbmhkamQ2TGdvb09hbWhJMjZpSFRCcDBpRUoxOHI1b3I4U0hMSXhWaUxYQWE2MVhXV2p1dGNBN3gtZXY4eWU5RVVpMzQ4ZFplbjI1aGV3UXZ4R2oxX0I0VHdmTXMtalRRMDVZQVdvellGandneGNCX0xhWjZLbDR2ZlBZM0VDdWktVw?oc=5"
+   "Top Yen Forecaster Predicts 147 Per Dollar as Rate Gap Narrows",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkhFZDd5R1ZESDNFUk9CTXFrMzlFRktiR1JsWmdfTWlyd1lhbTh0TFRqbF9IWm9QaWloUlJSOUh5MVVXR0dpLVg2R2I0MDM3ZXlGdjVsdUNNYW9la2pEOEtEU3dfOF8wX2g3aGVCQ01uc0EzYW16T3dKN0dPNmRkd3pVdjJaMGRvYU11RV9tUlE5MTFHYVp4SXV5RDJyVkhCbHhNRjhPRkpUZHYtaWtVR1JpSQ?oc=5"
   ],
   [
    "Crypto",
