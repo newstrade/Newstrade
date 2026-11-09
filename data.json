@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T11:08:58.318Z",
+ "updated": "2026-11-09T12:07:24.627Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -97,65 +97,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1197,
-   "ch": 0.48,
-   "asof": "2026-11-09T11:08:33.000Z"
+   "p": 1.1191,
+   "ch": 0.43,
+   "asof": "2026-11-09T12:06:29.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3423,
-   "ch": 0.5,
-   "asof": "2026-11-09T11:08:33.000Z"
+   "p": 1.3413,
+   "ch": 0.43,
+   "asof": "2026-11-09T12:06:29.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.95,
-   "ch": -0.3,
-   "asof": "2026-11-09T11:08:56.000Z"
+   "p": 157.94,
+   "ch": -0.31,
+   "asof": "2026-11-09T12:07:23.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6905,
-   "ch": 0.54,
-   "asof": "2026-11-09T11:07:33.000Z"
+   "p": 0.6902,
+   "ch": 0.5,
+   "asof": "2026-11-09T12:05:29.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4083,
-   "ch": -0.32,
-   "asof": "2026-11-09T11:08:56.000Z"
+   "p": 1.4095,
+   "ch": -0.23,
+   "asof": "2026-11-09T12:07:24.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8181,
-   "ch": -0.23,
-   "asof": "2026-11-09T11:08:57.000Z"
+   "p": 0.8186,
+   "ch": -0.17,
+   "asof": "2026-11-09T12:07:23.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 73953.61,
-   "ch": -1.03,
-   "asof": "2026-11-09T11:08:53.000Z"
+   "p": 74445.11,
+   "ch": -0.37,
+   "asof": "2026-11-09T12:07:18.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2103.15,
-   "ch": -1,
-   "asof": "2026-11-09T11:08:55.000Z"
+   "p": 2114.87,
+   "ch": -0.45,
+   "asof": "2026-11-09T12:07:17.000Z"
   },
   {
    "s": "S&P 500",
@@ -185,17 +185,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4107.7,
-   "ch": 0.8,
-   "asof": "2026-11-09T10:58:54.000Z"
+   "p": 4117.9,
+   "ch": 1.06,
+   "asof": "2026-11-09T11:57:22.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 89.4,
-   "ch": -1.57,
-   "asof": "2026-11-09T10:58:58.000Z"
+   "p": 88.34,
+   "ch": -2.74,
+   "asof": "2026-11-09T11:57:22.000Z"
   },
   {
    "s": "USD/KES",
@@ -209,9 +209,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.46,
-   "ch": -0.35,
-   "asof": "2026-11-09T11:08:58.000Z"
+   "p": 16.4418,
+   "ch": -0.46,
+   "asof": "2026-11-09T12:07:24.000Z"
   },
   {
    "s": "USD/NGN",
@@ -225,17 +225,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 85.79,
-   "ch": -0.61,
-   "asof": "2026-11-09T11:08:56.000Z"
+   "p": 86.29,
+   "ch": -0.03,
+   "asof": "2026-11-09T12:07:20.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.0763,
-   "ch": -3.13,
-   "asof": "2026-11-09T11:08:54.000Z"
+   "p": 1.0847,
+   "ch": -2.38,
+   "asof": "2026-11-09T12:07:18.000Z"
   },
   {
    "s": "Apple",
@@ -265,9 +265,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 52.54,
-   "ch": 1.15,
-   "asof": "2026-11-09T10:58:44.000Z"
+   "p": 52.705,
+   "ch": 1.47,
+   "asof": "2026-11-09T11:57:16.000Z"
   }
  ],
  "news": [
@@ -287,24 +287,24 @@
   ],
   [
    "Crypto",
-   "high",
-   "Bitcoin Slides to $73,510 Over the Weekend: Did Nvidia Scandal Trigger BTC’s $2,000 Flash Crash?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNE4tdVQ3UVZFZUlxdHg4cmpCR3pEaUZnY3duVzFJdjNJeEhUWUFYVmRsTlNmRFc5dEpzQmU2TEpmX3dKVW81OXVsRkI4R3VWQlY0OXFYWUdFa1V4ZFRneUJWWU9iZmtjVWdmeVVHaGhQZGhhbldVLTZyblJjczcyc19NUGpxMG5lVmYtZnRvOFdZUWszeVE?oc=5"
+   "med",
+   "BTC news: Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLTlEWlYtN1R4VVVtb2w0akhHTW83ZjduQi1najNCQ0M5dDJxZFBaNGZBWGl6cTBndGVvd1BTTnkzQ2gxU0NMOE00a1I1N2dfWk5PNmNUc0Y2TG5GNm5rWk9IeWhidUZBTXI3aGdsZXRpWXYzNzhIMC0zWXRXTFdYVDhpT2FpRG9nYl9GVm4yci1OOE5vODRwNTRFOHRmVnNuNEVrUy1DRFZUUERZWk8yOXlnLUcyMjR0VWZB?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Crypto Exemption Will Test SEC’s Authority to Rein in States",
-   "Bloomberg Law News",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVzVnb3dUcDh2U3doSEl1a1N6eTVuVW9DQzZkUnRyLTBLM2J6UGlfN3JGQWZiRXFEaS1YNWJQN2V4UDFHb3p6WS1RSXNVWDY5OTVVY3pCUjVDeWg0TTEzenNwNXcycm4zT1lIekEzTWVvamVzY2Y3N1NMeWQ2YWc4ZEU4cGprdk9SNUEtenluR1gwSkstaHpxalpldTRySVNFbHFvSFVwUTBPWGZ1LW9IZA?oc=5"
+   "Bitcoin, Ethereum, XRP Whipsaw On Nvidia Scandal, Iran Tensions: Crypto Sell-Off Sparks $1B Liquidation Wave",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd0ZsNHpodlBpbU80cTZXNkRQVWd2RmNaUWFZVGF3T3hDVlQ5clVLZnhKdUVKc3ZzRXJoVDVFRjF5OGI3RFgzT2hUVnVqa0R1WTBaUDJBTjZhalV5OWNGeTJUaGxRb2ZqT0J6RFZSSFNCVHA1emdUU1pKWXUwNGJTUFlET2FvUDNGN2pjYnc1RXRYdm1NX2c5UUJia2YwU0R0alE?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "US Stocks Rise as Oil Drop Outweighs Nvidia Woes: Markets Wrap",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR1JWME4tcFN3Vlh6UlhVeEN3c2FlRUFkUWRrczJ6OUZ1QWRkRndtMy1nZFhBaU5Lc0dzaXU2ZjJnNUtwN2RSa3dyLXlwUV9QanZmaC1Wb2xhbUVZekZhaXdXZkpSazFDVnJqZWIweWtvdGczQi0xTnB1aEhiSy00aVFsMWdYaE1sRkN3NlU2YmVJdzhv?oc=5"
+   "Tech set to still sway US stock market's course despite AI-driven swoon",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOXdISHo5SVE3RnA1bXZ4V05tYlAzSk5ZcUgwRUpycnVmOHlPeHQwbURpeHF2am5xQjU3ZVhMY0tweVVndXNjMUVpQUdCcXEyZlg5a1ZFVW9TNkkxdGJLaGllT3ZiM3pqLUxYVnRaNDVWZG1USmItMlJkU0pnc3Z0U2Zwd0l3UnowbDQ0UVN5cEJDQU9nS3FxbDFEc2RJRjV3NkpSeEdUNDEwWXJIUkVwR2ZB?oc=5"
   ],
   [
    "Stocks",
@@ -316,16 +316,16 @@
   [
    "Commodities",
    "med",
-   "Indian shares inch higher to close at 8-month high as crude oil drops",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkM4eVdiUXpCc3Jld1NOSlRzMEFUeHcxb09peUlKS3ZFNTVLS2lwMFE0T0x1NV94RGowQjZEM0luODhHRFNZWWxaX2w2Y0Rqc1d5X2tXYlRwcU5wMVMxNHNjeWVXZEZSNkYtV1JEV29LeDE2bEVRMnNBbUVNNGV5cjNlYVYydGhKT3Awc2VVeEY3WTZSbWJjak43bmpTdmJjR2ZSU01fSXhCeFNVNXlYeGxPODh2UUlHQ1FRb3VNSzc?oc=5"
+   "Oil Prices Fall, Staying Below $100, After Trump Downplays Prospect of New Iran Strikes",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS29XR2VmWjE0VXk0djYtZVB1ZHpfSXBjYS02b1psblVVYjBUWjMtejVmMzhmREwtNHZrdGFHQzNub0o1STNxRV9DclpWOG8tdTNGNzVJYnJKdWxiM1ZjOC1GLXQ0OGxvTXE3SWp2eGV3WEJ2ZS1VbnUxZk9aMHYtcEtVbi1MUTd1RnRLdjhudUcxbW9GOVh1akQyazdXSV83QURqM3g4VEtTc0VtNGd2a25pczBoT2FJ?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Crude oil is caught between hopes of a US-Iran deal and escalation risks. What's next?",
-   "investingLive",
-   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOUV3T2wxaHhhcnlOS0VkRVdGQ19OSjhSYmxLdEliZ2h3WDhiR3c0TldENjdlWFpCZlNmMlNlaDJQWXN0WUdnM1ZCZjBBS3BMdDktQTdTSVF3S0wtZ2N1ZkZBUGxFNFlNV3ZQUk5VSmREWU5QZkZCNzZhd2tpdmlhS0NpODlVQUY3UG5RTGJaUTlBTTZZcThUcWpiZU8tNEVmNnB1aVVMMDZqYl9IUU5XUnFYSDNIdVhfcFFuZU1mMjU?oc=5"
+   "Indian shares inch higher to close at 8-month high as crude oil drops",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkM4eVdiUXpCc3Jld1NOSlRzMEFUeHcxb09peUlKS3ZFNTVLS2lwMFE0T0x1NV94RGowQjZEM0luODhHRFNZWWxaX2w2Y0Rqc1d5X2tXYlRwcU5wMVMxNHNjeWVXZEZSNkYtV1JEV29LeDE2bEVRMnNBbUVNNGV5cjNlYVYydGhKT3Awc2VVeEY3WTZSbWJjak43bmpTdmJjR2ZSU01fSXhCeFNVNXlYeGxPODh2UUlHQ1FRb3VNSzc?oc=5"
   ]
  ]
 }
