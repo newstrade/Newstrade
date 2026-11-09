@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T21:57:19.503Z",
+ "updated": "2026-11-09T22:56:37.360Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -106,33 +106,33 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1227,
-   "ch": 0.75,
-   "asof": "2026-11-09T21:56:31.000Z"
+   "p": 1.1225,
+   "ch": 0.74,
+   "asof": "2026-11-09T22:56:33.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3443,
-   "ch": 0.65,
-   "asof": "2026-11-09T21:56:31.000Z"
+   "p": 1.3438,
+   "ch": 0.61,
+   "asof": "2026-11-09T22:56:33.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.91,
+   "p": 157.904,
    "ch": -0.33,
-   "asof": "2026-11-09T21:57:19.000Z"
+   "asof": "2026-11-09T22:56:34.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6929,
-   "ch": 0.89,
-   "asof": "2026-11-09T21:55:31.000Z"
+   "p": 0.6925,
+   "ch": 0.83,
+   "asof": "2026-11-09T22:55:33.000Z"
   },
   {
    "s": "USD/CAD",
@@ -140,31 +140,31 @@
    "d": 4,
    "p": 1.4118,
    "ch": -0.07,
-   "asof": "2026-11-09T21:57:19.000Z"
+   "asof": "2026-11-09T22:56:35.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8195,
-   "ch": -0.06,
-   "asof": "2026-11-09T21:57:19.000Z"
+   "p": 0.8192,
+   "ch": -0.1,
+   "asof": "2026-11-09T22:56:37.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 74934.75,
-   "ch": 0.29,
-   "asof": "2026-11-09T21:57:15.000Z"
+   "p": 75161.35,
+   "ch": 0.59,
+   "asof": "2026-11-09T22:56:35.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2127.44,
-   "ch": 0.15,
-   "asof": "2026-11-09T21:57:14.000Z"
+   "p": 2132.72,
+   "ch": 0.4,
+   "asof": "2026-11-09T22:56:34.000Z"
   },
   {
    "s": "S&P 500",
@@ -172,7 +172,7 @@
    "d": 2,
    "p": 7549.94,
    "ch": 2.35,
-   "asof": "2026-11-09T21:20:01.000Z"
+   "asof": "2026-11-09T22:12:50.000Z"
   },
   {
    "s": "Nasdaq",
@@ -180,7 +180,7 @@
    "d": 2,
    "p": 25253.139,
    "ch": 2.74,
-   "asof": "2026-11-09T21:57:17.000Z"
+   "asof": "2026-11-09T22:15:59.000Z"
   },
   {
    "s": "Dow Jones",
@@ -188,23 +188,23 @@
    "d": 2,
    "p": 52389.75,
    "ch": 2.15,
-   "asof": "2026-11-09T21:20:01.000Z"
+   "asof": "2026-11-09T22:12:54.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4145.2,
-   "ch": 1.73,
-   "asof": "2026-11-09T21:47:07.000Z"
+   "p": 4149.5,
+   "ch": 0.85,
+   "asof": "2026-11-09T22:00:00.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 86.7,
-   "ch": -4.55,
-   "asof": "2026-11-09T21:47:16.000Z"
+   "p": 86.38,
+   "ch": -0.54,
+   "asof": "2026-11-09T21:59:59.000Z"
   },
   {
    "s": "USD/KES",
@@ -212,15 +212,15 @@
    "d": 2,
    "p": 129.86,
    "ch": 0.04,
-   "asof": "2026-11-09T20:26:15.000Z"
+   "asof": "2026-11-09T22:34:44.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.3731,
-   "ch": -0.87,
-   "asof": "2026-11-09T21:57:19.000Z"
+   "p": 16.3868,
+   "ch": -0.79,
+   "asof": "2026-11-09T22:55:39.000Z"
   },
   {
    "s": "USD/NGN",
@@ -228,23 +228,23 @@
    "d": 2,
    "p": 1340.33,
    "ch": -0.42,
-   "asof": "2026-11-09T19:31:57.000Z"
+   "asof": "2026-11-09T22:34:43.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 86.37,
-   "ch": 0.06,
-   "asof": "2026-11-09T21:57:09.000Z"
+   "p": 86.81,
+   "ch": 0.57,
+   "asof": "2026-11-09T22:56:30.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.0937,
-   "ch": -1.57,
-   "asof": "2026-11-09T21:57:16.000Z"
+   "p": 1.104,
+   "ch": -0.64,
+   "asof": "2026-11-09T22:56:32.000Z"
   },
   {
    "s": "Apple",
@@ -274,9 +274,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.395,
-   "ch": 2.8,
-   "asof": "2026-11-09T21:47:14.000Z"
+   "p": 53.455,
+   "ch": 1.45,
+   "asof": "2026-11-09T21:59:47.000Z"
   }
  ],
  "news": [
@@ -290,9 +290,9 @@
   [
    "Forex",
    "med",
-   "Top Yen Forecaster Predicts 147 Per Dollar as Rate Gap Narrows",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkhFZDd5R1ZESDNFUk9CTXFrMzlFRktiR1JsWmdfTWlyd1lhbTh0TFRqbF9IWm9QaWloUlJSOUh5MVVXR0dpLVg2R2I0MDM3ZXlGdjVsdUNNYW9la2pEOEtEU3dfOF8wX2g3aGVCQ01uc0EzYW16T3dKN0dPNmRkd3pVdjJaMGRvYU11RV9tUlE5MTFHYVp4SXV5RDJyVkhCbHhNRjhPRkpUZHYtaWtVR1JpSQ?oc=5"
+   "Japan Spent Record $50 Billion in Single Day to Bolster Yen",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3lMUTI3WFg1TUlac1JZQ1Y4bDN0ejNVNXpKdmZJczk5dVlhaDlSbmhkamQ2TGdvb09hbWhJMjZpSFRCcDBpRUoxOHI1b3I4U0hMSXhWaUxYQWE2MVhXV2p1dGNBN3gtZXY4eWU5RVVpMzQ4ZFplbjI1aGV3UXZ4R2oxX0I0VHdmTXMtalRRMDVZQVdvellGandneGNCX0xhWjZLbDR2ZlBZM0VDdWktVw?oc=5"
   ],
   [
    "Crypto",
@@ -318,9 +318,16 @@
   [
    "Stocks",
    "med",
-   "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMiekFVX3lxTFBobjd1eUR1c3pSS3YzTDBER3lMX0JmRTFWYmdpT2ZhZ0QwR2t5Q2hLaHJ3QlNETmxqWW5IZFRSR05QbzVFVFZFdFNYUU9CLTBCVmVLcl9zMUNfX0ZLS19rNWM3YmREMWNTSmF3RWNzTGcyT1NMLUxjSHl3?oc=5"
+   "Stock Market Today, Nov. 9: Markets Rally as Semiconductor Gains Lift Nasdaq",
+   "The Motley Fool",
+   "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM1dxQ1dkSlFTd3JtUVZDMXVIYWlwRE1oWnJhTDJBUnI0aUloUEloQURRSGNhY3VjTk9MVkx6dERDc0h4VHEwaE5UTndqV1NYUWFBMFBObnJfaWxJdGRFZ0lwc1VqalFQZ00yNHpmWEpZdkNQQi1ibGlZWkZhY2UwaTdpMUd5NGNpUTNLNWh4R3dma2MwVVJLNUVaOFZxWFhIM1hVci1veE5qTzFDcEdRaVhZUDI3TV9Yd0xXa3l4Z0l3QWhqcTl0b1pPajVvZTA?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Brent Crashes 7% on Iran Peace Hopes Despite Fresh Saudi Pipeline Attack",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMVkwSk8xdlE0dTF6dGk0Rnp3elNCYkdJV1ZLb2otcnlSa3JfcWhyV1Z0Y1dCeHcxUUxpZzdXYlBRUEQwZTRqdU9GZ21XZ3JXMmVfRzBFbWk0OHJXWmhVc0cybnp1eWZDTTB1S09PLUZ2VjQ5elFhWXVnajlJWEhsa2FpYXkyUlVPSDFtNHRVaTBmcFg2UUU3UEpfTEctWkgxMjIxaEhodW05akVFdmFRTEVuV00zZ0RGaU9xRThZWTVVMGRuVVHSAcsBQVVfeXFMTy03cmFMdmxqNkJ5NG9HM0dDVDBWNzBmd00yWkg5enA2a09Cek16bnYxRXdHQ00tWEhUYTBUUVVYWUxpTUo2ZE5MQzYtLTMtb1N1cGRjN2w4UnNoT3ZieElqS1VYZGFxSUxLbm1yNXpJd3ZLYUZJQ0gtRUJybWdVTWloTmdPMnlEdlFVWlBQdkJ3MjVfSzdtRTU2d0JNV21VQWJobzJTM2NKUkJ4RG4zRUhqeWNfMk5YQ25NM1hBRmoxcF80MnFKTDZBMmM?oc=5"
   ],
   [
    "Commodities",
@@ -328,13 +335,6 @@
    "OPEC oil output rises in October to 90% of pre-war rate, Reuters survey shows",
    "Reuters",
    "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcGJ3LUpzaXpKMGVQTkVDUmxmck5BRE9ycmRsR2ljV2x5ZmpoOW5UbW1WSE9XUnd5XzJsano5X0hPMU1DZW5Za2lsQ05Sa2NzWWNnTkpHdVc4ZmFvRnZ1WDRGVnVLaFNJVVdNSGhhYmRBaXZSSVNjc29qT2dUbnEtZ3JBNXdyQ01IaWxJRDJsZThnT29yUmxnSTh2dHFidnZBd2R6QU5nS182LUFjV1U0RXJqSVR2VXpicTBjalNR?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Saudi Pipeline Attacked as OPEC Output Climbs to 90% of Pre-War Levels",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcEN5Rnp2anlVblctWFNKal9hWHFXbGJaWk9KSWVIaHV1NmZGTDZPeWNPRDVlblVhTWNqRV9XOHFSbnducTItYmI3WnA5bS1PQUVTSmJ2dWVXSlp0eTZTOWI5ZEFTNGVLUVpQM3hmdWxwbU4yblFDcTZYanM4Wk9LUHpYNTJtb3ZhWTFFbzRYc1VaYlh1NWl1NEh1ZkpEOW1FMi1SeEtDYUdSZERYWlRfaXZ1OTNvWE5kQXJaSmt2R1M1d0HSAcgBQVVfeXFMTUVIRWVNODhhQzRESnhrXzAzWjhQNzJkT3BycHNQOE4xZDhXTUxiTmlfTG1FbFRyTldfMEVoZm5jUlBNMkRFXzlSM0I0NGhQUFJ2TllGWjFwQ1VyYzF0bm1MaTZLUWxLTm11N3ZXdmJnSnVLOWVjZEJSS19IaGpWUVFMaXFOeHU0Zm81TXBISjM2YnFsNmFqMWUwN1Q0T2ZTVkhGcmxLZUQ5LTRzenZiTy1FUnc1V3lqWExmbU9FYlRfVzhrdHpMN04?oc=5"
   ]
  ]
 }
