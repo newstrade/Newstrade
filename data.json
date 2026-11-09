@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T15:07:16.237Z",
+ "updated": "2026-11-09T16:15:07.727Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -97,9 +97,9 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1202,
-   "ch": 0.53,
-   "asof": "2026-11-09T15:06:33.000Z"
+   "p": 1.1206,
+   "ch": 0.57,
+   "asof": "2026-11-09T16:14:30.000Z"
   },
   {
    "s": "GBP/USD",
@@ -107,95 +107,95 @@
    "d": 4,
    "p": 1.3413,
    "ch": 0.43,
-   "asof": "2026-11-09T15:06:33.000Z"
+   "asof": "2026-11-09T16:14:30.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.145,
-   "ch": -0.18,
-   "asof": "2026-11-09T15:07:15.000Z"
+   "p": 158.034,
+   "ch": -0.25,
+   "asof": "2026-11-09T16:15:07.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6904,
-   "ch": 0.52,
-   "asof": "2026-11-09T15:05:33.000Z"
+   "p": 0.6912,
+   "ch": 0.64,
+   "asof": "2026-11-09T16:13:30.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4125,
-   "ch": -0.02,
-   "asof": "2026-11-09T15:07:16.000Z"
+   "p": 1.4126,
+   "ch": -0.01,
+   "asof": "2026-11-09T16:15:07.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8216,
-   "ch": 0.2,
-   "asof": "2026-11-09T15:07:16.000Z"
+   "p": 0.8213,
+   "ch": 0.16,
+   "asof": "2026-11-09T16:15:06.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 74570.56,
-   "ch": -0.2,
-   "asof": "2026-11-09T15:07:14.000Z"
+   "p": 75022.98,
+   "ch": 0.41,
+   "asof": "2026-11-09T16:15:01.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2119.93,
-   "ch": -0.21,
-   "asof": "2026-11-09T15:07:15.000Z"
+   "p": 2132.14,
+   "ch": 0.37,
+   "asof": "2026-11-09T16:15:03.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7503.32,
-   "ch": 1.71,
-   "asof": "2026-11-09T15:07:16.000Z"
+   "p": 7522.66,
+   "ch": 1.98,
+   "asof": "2026-11-09T16:15:05.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 25080.479,
-   "ch": 2.04,
-   "asof": "2026-11-09T15:07:13.000Z"
+   "p": 25165.342,
+   "ch": 2.38,
+   "asof": "2026-11-09T16:15:07.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52067.42,
-   "ch": 1.52,
-   "asof": "2026-11-09T15:07:16.000Z"
+   "p": 52155.79,
+   "ch": 1.7,
+   "asof": "2026-11-09T16:15:07.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4131.8,
-   "ch": 1.4,
-   "asof": "2026-11-09T14:57:16.000Z"
+   "p": 4133.4,
+   "ch": 1.44,
+   "asof": "2026-11-09T16:05:05.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 87.52,
-   "ch": -3.64,
-   "asof": "2026-11-09T14:57:16.000Z"
+   "p": 88.22,
+   "ch": -2.87,
+   "asof": "2026-11-09T16:05:06.000Z"
   },
   {
    "s": "USD/KES",
@@ -203,15 +203,15 @@
    "d": 2,
    "p": 129.86,
    "ch": 0.04,
-   "asof": "2026-11-09T14:49:14.000Z"
+   "asof": "2026-11-09T15:59:13.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.426,
-   "ch": -0.55,
-   "asof": "2026-11-09T15:07:17.000Z"
+   "p": 16.4178,
+   "ch": -0.6,
+   "asof": "2026-11-09T16:15:08.000Z"
   },
   {
    "s": "USD/NGN",
@@ -219,55 +219,55 @@
    "d": 2,
    "p": 1340.33,
    "ch": -0.42,
-   "asof": "2026-11-09T14:49:14.000Z"
+   "asof": "2026-11-09T15:59:13.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 86.94,
-   "ch": 0.72,
-   "asof": "2026-11-09T15:07:12.000Z"
+   "p": 87.12,
+   "ch": 0.93,
+   "asof": "2026-11-09T16:15:04.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.0956,
-   "ch": -1.4,
-   "asof": "2026-11-09T15:07:10.000Z"
+   "p": 1.1087,
+   "ch": -0.22,
+   "asof": "2026-11-09T16:15:05.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 348.57,
-   "ch": 1.81,
-   "asof": "2026-11-09T15:07:18.000Z"
+   "p": 350.78,
+   "ch": 2.46,
+   "asof": "2026-11-09T16:15:08.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 375.43,
-   "ch": 4.8,
-   "asof": "2026-11-09T15:07:16.000Z"
+   "p": 377.87,
+   "ch": 5.49,
+   "asof": "2026-11-09T16:15:07.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 178.27,
-   "ch": -4.48,
-   "asof": "2026-11-09T15:07:17.000Z"
+   "p": 175.735,
+   "ch": -5.84,
+   "asof": "2026-11-09T16:15:02.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 52.68,
-   "ch": 1.42,
-   "asof": "2026-11-09T14:57:15.000Z"
+   "p": 52.96,
+   "ch": 1.96,
+   "asof": "2026-11-09T16:04:53.000Z"
   }
  ],
  "news": [
@@ -295,9 +295,9 @@
   [
    "Crypto",
    "med",
-   "Current price of Ethereum for November 9, 2026",
-   "Fortune",
-   "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QaXJGbi1NVkNFN2NLRU1nUnVWNG9veTlvaXZJS3hFdlMxN2Fqd1pFUHRXUTdlSkI0c3YzYkJyT3JFYkp4SUpib0tKVlNCMC1KYzJTakJFdlJ0TWZlOVRYakxJMkhNbWp1?oc=5"
+   "3 Reasons Strategy and Other Crypto Stocks Are Dropping",
+   "Barron's",
+   "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lTEZEc1FtTG1QZGxwRUV3R090SHhfRzhhY3o1c3hjcjVsOEY4ZnFrQUNsLXl3NW4xRWFwLVY3dUVlbUtFWVJveHdjQ3EzdmdnVVctb3Z3ZmdQOV9sdkNNQW9YX3luLUYxWkxUWmlvc0FHdW5IdWJTcTlvUQ?oc=5"
   ],
   [
    "Stocks",
@@ -309,23 +309,23 @@
   [
    "Stocks",
    "med",
-   "Nvidia Slides Premarket as Stock Futures Rally",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX0N4MG4xaFJUQjN1c2hSV2dIbjI3UlptZ3BDenpiYmFNdVkzOFVlSFcxSGJiSDY1bTBkckZnMldxaTBzaWxqWkRzaGlaTmtzVXI3MkRqM2NHeHhsZHJsVDNSQWdtRTA1cEM1OWNkYnlYeVZGRjBlZldWSklJVVIxN0NFQnhsbFF4dGRocHRSa1BuZXJaMmRLOFpCQ3A0RlY4cC0xbEVYU2gzeW0xTkhoSjRPSEx3cEV0?oc=5"
+   "S&P 500 Futures Rise as Oil Falls; Nvidia Sinks on Huang Affair",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSkRSbWhPaUtmRFBUSy10cUNCTFJFSGFWUGJrYUlZcEF0eE9vLWN4azVnVU1HQmYxRDQ4V1lUbGtzM3czZzBKZTNPVWhONkI5V2lxMUVObXFmczNpMWRmMW1vXzU5S0tfa3pubzlra1V0NmRVMjZPM1oxbjJ1Z3VVNUdjY2VMdWZieEVERjRMWGpSQzcyeHdXc1NpaGtWS1VMRlVQbHdpbnlDRTc1TG5FLXFEOA?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "OPEC, Allies Keep Output Steady While Gulf Shipping Remains Under Threat",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbnNqUHNCa3N5QzZ4RUZEVVd5RUsxNDM1QU5wZ3dYQ3FYdzdEWnpnczk0NG1JTndRV19CQnpWd0J4eUE4SndBWFpfUkZNeS1QQUtIaWVQRFBYVk1fMXlHNVJjWW1zb3JsV2pvVnc5UU5zby1DNzF1d3dyNFdYWTlTUlJFRk11YW5RU19idkdxZXNSZkJ4azFtQVBjZkVpT2p6cVFlbkpsX2o2NWYtVUJfd1VtblJhQ21COUJYTA?oc=5"
+   "OPEC oil output rises in October to 90% of pre-war rate, Reuters survey shows",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcGJ3LUpzaXpKMGVQTkVDUmxmck5BRE9ycmRsR2ljV2x5ZmpoOW5UbW1WSE9XUnd5XzJsano5X0hPMU1DZW5Za2lsQ05Sa2NzWWNnTkpHdVc4ZmFvRnZ1WDRGVnVLaFNJVVdNSGhhYmRBaXZSSVNjc29qT2dUbnEtZ3JBNXdyQ01IaWxJRDJsZThnT29yUmxnSTh2dHFidnZBd2R6QU5nS182LUFjV1U0RXJqSVR2VXpicTBjalNR?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Current price of oil as of November 9, 2026",
-   "Fortune",
-   "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tS0VJXzlGYWY2NWhRSGZjZjR3M1lrYmJMUV9RU0xJVmU1eTVWRHVVNUlmc3ozY3g2eGZycDJUeE9nN1pLbk55aVc3QlhfOXh2akV6Vlp1OHRGMUZXUXhTZXhR?oc=5"
+   "BC-Crude Oil Futures",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTnZoUkZyRnpjR1kwaExqOS12TE1kVzZVaGZfenhtaHVkSVVZUEdzdjlFY2dvX0lkMmgyT0I3d0JTZG4xOHJ4elBvTGNYUWJadDJRczZ1OEpwUHVkb2toVzlOZGc0UTROd19RMlZCSEthSHdnMnFHWWlvZnJnYU1Lamg5QjAzT2p1bktJb2JJOXRFal8w?oc=5"
   ]
  ]
 }
