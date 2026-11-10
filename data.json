@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T06:03:58.011Z",
+ "updated": "2026-11-10T07:25:12.748Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -106,65 +106,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.123,
-   "ch": 0.11,
-   "asof": "2026-11-10T06:03:30.000Z"
+   "p": 1.1238,
+   "ch": 0.18,
+   "asof": "2026-11-10T07:24:32.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3448,
-   "ch": 0.02,
-   "asof": "2026-11-10T06:03:30.000Z"
+   "p": 1.3455,
+   "ch": 0.07,
+   "asof": "2026-11-10T07:24:32.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.034,
-   "ch": 0.09,
-   "asof": "2026-11-10T06:03:57.000Z"
+   "p": 157.969,
+   "ch": 0.04,
+   "asof": "2026-11-10T07:25:12.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6929,
-   "ch": 0.03,
-   "asof": "2026-11-10T06:03:30.000Z"
+   "p": 0.6924,
+   "ch": -0.04,
+   "asof": "2026-11-10T07:23:32.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4116,
-   "ch": -0.01,
-   "asof": "2026-11-10T06:03:58.000Z"
+   "p": 1.4109,
+   "ch": -0.06,
+   "asof": "2026-11-10T07:25:12.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8194,
-   "ch": 0.04,
-   "asof": "2026-11-10T06:03:57.000Z"
+   "p": 0.8177,
+   "ch": -0.17,
+   "asof": "2026-11-10T07:25:12.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 74700.56,
-   "ch": -0.74,
-   "asof": "2026-11-10T06:03:53.000Z"
+   "p": 74725.77,
+   "ch": -0.7,
+   "asof": "2026-11-10T07:25:08.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2121.28,
-   "ch": -0.52,
-   "asof": "2026-11-10T06:03:52.000Z"
+   "p": 2119.83,
+   "ch": -0.59,
+   "asof": "2026-11-10T07:25:07.000Z"
   },
   {
    "s": "S&P 500",
@@ -194,17 +194,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4129.4,
-   "ch": 0.36,
-   "asof": "2026-11-10T05:53:56.000Z"
+   "p": 4127,
+   "ch": 0.3,
+   "asof": "2026-11-10T07:14:53.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 86.09,
-   "ch": -0.88,
-   "asof": "2026-11-10T05:53:54.000Z"
+   "p": 85.63,
+   "ch": -1.4,
+   "asof": "2026-11-10T07:15:10.000Z"
   },
   {
    "s": "USD/KES",
@@ -218,9 +218,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.3578,
-   "ch": -0.1,
-   "asof": "2026-11-10T06:03:58.000Z"
+   "p": 16.3666,
+   "ch": -0.05,
+   "asof": "2026-11-10T07:25:13.000Z"
   },
   {
    "s": "USD/NGN",
@@ -234,17 +234,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 86.07,
-   "ch": -0.57,
-   "asof": "2026-11-10T06:03:57.000Z"
+   "p": 86.24,
+   "ch": -0.37,
+   "asof": "2026-11-10T07:25:05.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.0976,
-   "ch": 0.05,
-   "asof": "2026-11-10T06:03:52.000Z"
+   "p": 1.1012,
+   "ch": 0.38,
+   "asof": "2026-11-10T07:25:09.000Z"
   },
   {
    "s": "Apple",
@@ -274,9 +274,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.24,
-   "ch": 1.04,
-   "asof": "2026-11-10T05:53:56.000Z"
+   "p": 52.92,
+   "ch": 0.43,
+   "asof": "2026-11-10T07:15:09.000Z"
   }
  ],
  "news": [
@@ -290,9 +290,9 @@
   [
    "Forex",
    "med",
-   "Berkshire Tests Wider Yen Spreads in Latest Japan Bond Deal",
+   "Top Yen Forecaster Predicts 147 Per Dollar as Rate Gap Narrows",
    "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcmNyaVZ1RTJBSHNweFU3N3M2ZGxSMFdTWHpZYnIxT0Z3bHNaZFRneFZyQzRsSlp2cVJVeUljU243UU1NWVVQSzZYLUdaZmVuZEZIb1l5azEyanpwTllhcVlFejNGQmg2OU1HdU1heExTWWpMSTh5LWU5Rm1kMUhXRDU5WklfdGNhUzBLOW9BMlc2TTd6WWQ4RXBMRGI5R0JtRmt3WFAxeHZLTjRJRDZn?oc=5"
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkhFZDd5R1ZESDNFUk9CTXFrMzlFRktiR1JsWmdfTWlyd1lhbTh0TFRqbF9IWm9QaWloUlJSOUh5MVVXR0dpLVg2R2I0MDM3ZXlGdjVsdUNNYW9la2pEOEtEU3dfOF8wX2g3aGVCQ01uc0EzYW16T3dKN0dPNmRkd3pVdjJaMGRvYU11RV9tUlE5MTFHYVp4SXV5RDJyVkhCbHhNRjhPRkpUZHYtaWtVR1JpSQ?oc=5"
   ],
   [
    "Crypto",
@@ -325,9 +325,9 @@
   [
    "Commodities",
    "med",
-   "China's October crude oil imports rise to highest level since March amid Middle East war",
+   "Oil falls as Trump downplays prospect of escalation with Iran",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQzh4VnBTdUVqdmI5cnpOUTJlY1hZSHFTV29RYVpZZXVfRnRFclBrSG9xSjJReDRkS1hEUDhvNGtOMk81YmZ3blZYT0wwZGthaHhMdi1Hc3JDZFVEQXhuSGxmRDhFb0syQnhkNm9Vc1N5Wmw2dTk4RXE3LVNjaDRvRjVvNkZzZWVWNjBDN0pCWEg1SVdqQ1JqQUJYd1Fjc2FSUFJ4SEFWMFA0SkZYOXNKQU5BbUZ0VGlhVS1Pc1ZjMmY2MDh6dHN5RGRreXc?oc=5"
+   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWIxdHFYZXdDLUkyNjhxSklldE1kTVJUMXBHOENVUUF0YWVXRmhpbGhvSDdJSUtSUG9ZUk5FVGxZdExQa0c0WmJFZDd2QXFNUnJUV0ZuZ0x3eHZCTFBiVXY3b0lVMVA0RkVaVllFRHJHSjJaUmlpSjNOQThxOGhoN05LelBtdjE4Qk5PbnRoTThFVWc3NE91WlE2WHJKbG5kWEVkeF9SS20wSGs?oc=5"
   ],
   [
    "Commodities",
