@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T22:53:59.334Z",
+ "updated": "2026-11-10T23:46:47.289Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -106,25 +106,25 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1169,
-   "ch": -0.44,
-   "asof": "2026-11-10T22:53:32.000Z"
+   "p": 1.1172,
+   "ch": -0.41,
+   "asof": "2026-11-10T23:46:33.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3346,
-   "ch": -0.74,
-   "asof": "2026-11-10T22:53:32.000Z"
+   "p": 1.3349,
+   "ch": -0.71,
+   "asof": "2026-11-10T23:46:33.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.702,
-   "ch": 0.51,
-   "asof": "2026-11-10T22:53:58.000Z"
+   "p": 158.724,
+   "ch": 0.52,
+   "asof": "2026-11-10T23:46:46.000Z"
   },
   {
    "s": "AUD/USD",
@@ -132,7 +132,7 @@
    "d": 4,
    "p": 0.6871,
    "ch": -0.81,
-   "asof": "2026-11-10T22:53:32.000Z"
+   "asof": "2026-11-10T23:45:33.000Z"
   },
   {
    "s": "USD/CAD",
@@ -140,31 +140,31 @@
    "d": 4,
    "p": 1.4186,
    "ch": 0.48,
-   "asof": "2026-11-10T22:53:58.000Z"
+   "asof": "2026-11-10T23:46:45.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8247,
-   "ch": 0.68,
-   "asof": "2026-11-10T22:53:59.000Z"
+   "p": 0.8251,
+   "ch": 0.73,
+   "asof": "2026-11-10T23:46:47.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 73715.07,
-   "ch": -2.04,
-   "asof": "2026-11-10T22:53:55.000Z"
+   "p": 73730.62,
+   "ch": -2.02,
+   "asof": "2026-11-10T23:46:42.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2048.8,
-   "ch": -3.92,
-   "asof": "2026-11-10T22:53:55.000Z"
+   "p": 2050.68,
+   "ch": -3.83,
+   "asof": "2026-11-10T23:46:42.000Z"
   },
   {
    "s": "S&P 500",
@@ -194,17 +194,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4040.5,
-   "ch": 0.26,
-   "asof": "2026-11-10T21:59:59.000Z"
+   "p": 4043.2,
+   "ch": 0.32,
+   "asof": "2026-11-10T23:36:36.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 86.44,
-   "ch": 0.46,
-   "asof": "2026-11-10T21:59:59.000Z"
+   "p": 86.34,
+   "ch": 0.35,
+   "asof": "2026-11-10T23:36:43.000Z"
   },
   {
    "s": "USD/KES",
@@ -218,9 +218,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5178,
-   "ch": 0.87,
-   "asof": "2026-11-10T22:53:58.000Z"
+   "p": 16.5151,
+   "ch": 0.86,
+   "asof": "2026-11-10T23:46:47.000Z"
   },
   {
    "s": "USD/NGN",
@@ -234,17 +234,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 82.93,
-   "ch": -4.2,
-   "asof": "2026-11-10T22:53:56.000Z"
+   "p": 83.36,
+   "ch": -3.7,
+   "asof": "2026-11-10T23:46:44.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.058,
-   "ch": -3.56,
-   "asof": "2026-11-10T22:53:58.000Z"
+   "p": 1.0557,
+   "ch": -3.77,
+   "asof": "2026-11-10T23:46:44.000Z"
   },
   {
    "s": "Apple",
@@ -274,9 +274,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 51.53,
-   "ch": 0.6,
-   "asof": "2026-11-10T21:59:56.000Z"
+   "p": 51.545,
+   "ch": 0.62,
+   "asof": "2026-11-10T23:36:39.000Z"
   }
  ],
  "news": [
@@ -317,10 +317,10 @@
   ],
   [
    "Stocks",
-   "high",
-   "Hot Inflation Revives Wall Street’s Rate Hike Fears",
+   "med",
+   "CoreWeave Meets Wall Street Expectations, Shares Rise",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxQbVpnYlhfQ3NfUkEwUElWVElGN2ZHaVJYSkhNWHVrOGUybEpBYnFFaGdLZk5ndUpqNElZWnhnTkpjNGpfQTVXOVdQM2FvV29nV3ZScWEzdUtUVWxiYzUxQ2JuNGk5VG1QQmtUeWswUHRJbWw0Z2NUMlZaTWxHZEFCWDk0UlVsc3gwNWZzVHRVaV91TTZUT05vSklmZEJUQQ?oc=5"
+   "https://news.google.com/rss/articles/CBMilgFBVV95cUxORXZHb0p5N004NFVNNVA1OU9JSDVseExtMURtc3plQk9pU3o3ZGd1enh3UEtLSHhQMndCQTR5aE4wREd3WUV2am81c1FuMDh1bnl6S0pCYmVPRlVMYWxWRk8zM2x5T2ZWWWktT1ZuV1FzUTZLeHJKaU9adlBVakliRUt4TWRwajJIc2cyV0hfR0F5TG9ucmc?oc=5"
   ],
   [
    "Commodities",
