@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T05:04:24.836Z",
+ "updated": "2026-11-10T06:03:58.011Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -106,33 +106,33 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1231,
-   "ch": 0.12,
-   "asof": "2026-11-10T05:03:29.000Z"
+   "p": 1.123,
+   "ch": 0.11,
+   "asof": "2026-11-10T06:03:30.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3449,
-   "ch": 0.03,
-   "asof": "2026-11-10T05:03:29.000Z"
+   "p": 1.3448,
+   "ch": 0.02,
+   "asof": "2026-11-10T06:03:30.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.944,
-   "ch": 0.03,
-   "asof": "2026-11-10T05:04:24.000Z"
+   "p": 158.034,
+   "ch": 0.09,
+   "asof": "2026-11-10T06:03:57.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6925,
-   "ch": -0.03,
-   "asof": "2026-11-10T05:03:29.000Z"
+   "p": 0.6929,
+   "ch": 0.03,
+   "asof": "2026-11-10T06:03:30.000Z"
   },
   {
    "s": "USD/CAD",
@@ -140,31 +140,31 @@
    "d": 4,
    "p": 1.4116,
    "ch": -0.01,
-   "asof": "2026-11-10T05:04:24.000Z"
+   "asof": "2026-11-10T06:03:58.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8192,
-   "ch": 0.01,
-   "asof": "2026-11-10T05:04:24.000Z"
+   "p": 0.8194,
+   "ch": 0.04,
+   "asof": "2026-11-10T06:03:57.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 74728.92,
-   "ch": -0.7,
-   "asof": "2026-11-10T05:04:20.000Z"
+   "p": 74700.56,
+   "ch": -0.74,
+   "asof": "2026-11-10T06:03:53.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2121.24,
+   "p": 2121.28,
    "ch": -0.52,
-   "asof": "2026-11-10T05:04:13.000Z"
+   "asof": "2026-11-10T06:03:52.000Z"
   },
   {
    "s": "S&P 500",
@@ -194,17 +194,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4122.6,
-   "ch": 0.2,
-   "asof": "2026-11-10T04:54:16.000Z"
+   "p": 4129.4,
+   "ch": 0.36,
+   "asof": "2026-11-10T05:53:56.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 85.7,
-   "ch": -1.32,
-   "asof": "2026-11-10T04:54:17.000Z"
+   "p": 86.09,
+   "ch": -0.88,
+   "asof": "2026-11-10T05:53:54.000Z"
   },
   {
    "s": "USD/KES",
@@ -218,9 +218,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.3642,
-   "ch": -0.06,
-   "asof": "2026-11-10T05:04:24.000Z"
+   "p": 16.3578,
+   "ch": -0.1,
+   "asof": "2026-11-10T06:03:58.000Z"
   },
   {
    "s": "USD/NGN",
@@ -234,17 +234,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 86.14,
-   "ch": -0.49,
-   "asof": "2026-11-10T05:04:19.000Z"
+   "p": 86.07,
+   "ch": -0.57,
+   "asof": "2026-11-10T06:03:57.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.0961,
-   "ch": -0.09,
-   "asof": "2026-11-10T05:04:23.000Z"
+   "p": 1.0976,
+   "ch": 0.05,
+   "asof": "2026-11-10T06:03:52.000Z"
   },
   {
    "s": "Apple",
@@ -274,25 +274,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.19,
-   "ch": 0.94,
-   "asof": "2026-11-10T04:54:00.000Z"
+   "p": 53.24,
+   "ch": 1.04,
+   "asof": "2026-11-10T05:53:56.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Berkshire Tests Wider Yen Spreads in Latest Japan Bond Deal",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcmNyaVZ1RTJBSHNweFU3N3M2ZGxSMFdTWHpZYnIxT0Z3bHNaZFRneFZyQzRsSlp2cVJVeUljU243UU1NWVVQSzZYLUdaZmVuZEZIb1l5azEyanpwTllhcVlFejNGQmg2OU1HdU1heExTWWpMSTh5LWU5Rm1kMUhXRDU5WklfdGNhUzBLOW9BMlc2TTd6WWQ4RXBMRGI5R0JtRmt3WFAxeHZLTjRJRDZn?oc=5"
+   "Japanese investors become net buyers of foreign bonds for the first time in three months",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb3JfdjBNYXk0UTdMc2I2WkVrMHlqc0ZzcW9uSldYaDh3VDB3RVgyb3lSYTZ6WEhucUh0b25zMW55bDBpc05NekFwNHJoWXFlbUNNakJuWnlRSnhNLVlPb2V6ODZhYkRPOHV3b1RFNlVHeW1wUUN3ZWVFUEl6N2VRYjE1emFlMnVNV250VS1NVkZKNTBFOTlmbG9uLVNkenhlRUV2OFR6R1RRSDhQOHB0M1Z1TWJxQmpiQUZ1YVpOLTcyaF9HcGc?oc=5"
   ],
   [
    "Forex",
-   "high",
-   "France to dodge threat of year-end recession, central bank says",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTXVXQUZwNS1VMXdBYW5iaHFueExFeG5qSWlPNFdLR2F5RTNwVTh3alg3S1JobmcwMnBEV0F0YWNJaDBHTV9FZENNY2pUbkNiUERTV29pbG01aXF2eXVPa2VaQy14cmRQNVJwR0xDaHJvTFEwb3NlMzU0cjhJWnVfYlhVYlcwWG01VWY3VmlwV2kybVFxbklqaDRmTG1GTXpIRTc4?oc=5"
+   "med",
+   "Berkshire Tests Wider Yen Spreads in Latest Japan Bond Deal",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcmNyaVZ1RTJBSHNweFU3N3M2ZGxSMFdTWHpZYnIxT0Z3bHNaZFRneFZyQzRsSlp2cVJVeUljU243UU1NWVVQSzZYLUdaZmVuZEZIb1l5azEyanpwTllhcVlFejNGQmg2OU1HdU1heExTWWpMSTh5LWU5Rm1kMUhXRDU5WklfdGNhUzBLOW9BMlc2TTd6WWQ4RXBMRGI5R0JtRmt3WFAxeHZLTjRJRDZn?oc=5"
   ],
   [
    "Crypto",
@@ -304,9 +304,9 @@
   [
    "Crypto",
    "med",
-   "Binance Hackers Made Memecoins to Launder Stolen Crypto",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ255QTZlQ3VrTm1FdU1SZ19TZDNVYVB5WVlPWC1tU1k5d0xFdDRrVzUydWQ2YkszdGdxV2txcGVOM09tXzVRRVpSb1JldUstQWN5OWlVNnRlSVQ2ZW5zVS1ENUcxck1hVEg5YkJNNXpnMzJvenNSOWc1TUlzVC00LV9ESWRFd2lNd2xYekt4R0h5ZUlXcVRNT0dTWC1WZWw5VS1TMC1GM3ZIQQ?oc=5"
+   "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTW9Kai1jSnhka3dBUWxaUG1seURfbzFKeHVmUzFRRjlZc0U1UVlYNnlHbmRZdXBYOFpxTFltTDdaMDladzVDMkR2ZGVWejRDRGY3elBpUTZTaW5RN18wa3RGM3J0eV9GUkJVOUlrWS03a05YU0JOaDNPYXZza2M2SDI1YUNwUlJHNFdfdTl4RFpacEpXWGpVOG1NSVJkTW1PU2MtZG9XZWhQbTExOHZ1SzNjMDFZVHl6OG9UTHBHR0x6TE5hSlQ1WA?oc=5"
   ],
   [
    "Stocks",
@@ -325,16 +325,16 @@
   [
    "Commodities",
    "med",
-   "Oil falls as Trump downplays prospect of escalation with Iran",
+   "China's October crude oil imports rise to highest level since March amid Middle East war",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWIxdHFYZXdDLUkyNjhxSklldE1kTVJUMXBHOENVUUF0YWVXRmhpbGhvSDdJSUtSUG9ZUk5FVGxZdExQa0c0WmJFZDd2QXFNUnJUV0ZuZ0x3eHZCTFBiVXY3b0lVMVA0RkVaVllFRHJHSjJaUmlpSjNOQThxOGhoN05LelBtdjE4Qk5PbnRoTThFVWc3NE91WlE2WHJKbG5kWEVkeF9SS20wSGs?oc=5"
+   "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQzh4VnBTdUVqdmI5cnpOUTJlY1hZSHFTV29RYVpZZXVfRnRFclBrSG9xSjJReDRkS1hEUDhvNGtOMk81YmZ3blZYT0wwZGthaHhMdi1Hc3JDZFVEQXhuSGxmRDhFb0syQnhkNm9Vc1N5Wmw2dTk4RXE3LVNjaDRvRjVvNkZzZWVWNjBDN0pCWEg1SVdqQ1JqQUJYd1Fjc2FSUFJ4SEFWMFA0SkZYOXNKQU5BbUZ0VGlhVS1Pc1ZjMmY2MDh6dHN5RGRreXc?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Brent Crashes 7% on Iran Peace Hopes Despite Fresh Saudi Pipeline Attack",
+   "Saudi Pipeline Attacked as OPEC Output Climbs to 90% of Pre-War Levels",
    "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMVkwSk8xdlE0dTF6dGk0Rnp3elNCYkdJV1ZLb2otcnlSa3JfcWhyV1Z0Y1dCeHcxUUxpZzdXYlBRUEQwZTRqdU9GZ21XZ3JXMmVfRzBFbWk0OHJXWmhVc0cybnp1eWZDTTB1S09PLUZ2VjQ5elFhWXVnajlJWEhsa2FpYXkyUlVPSDFtNHRVaTBmcFg2UUU3UEpfTEctWkgxMjIxaEhodW05akVFdmFRTEVuV00zZ0RGaU9xRThZWTVVMGRuVVHSAcsBQVVfeXFMTy03cmFMdmxqNkJ5NG9HM0dDVDBWNzBmd00yWkg5enA2a09Cek16bnYxRXdHQ00tWEhUYTBUUVVYWUxpTUo2ZE5MQzYtLTMtb1N1cGRjN2w4UnNoT3ZieElqS1VYZGFxSUxLbm1yNXpJd3ZLYUZJQ0gtRUJybWdVTWloTmdPMnlEdlFVWlBQdkJ3MjVfSzdtRTU2d0JNV21VQWJobzJTM2NKUkJ4RG4zRUhqeWNfMk5YQ25NM1hBRmoxcF80MnFKTDZBMmM?oc=5"
+   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcEN5Rnp2anlVblctWFNKal9hWHFXbGJaWk9KSWVIaHV1NmZGTDZPeWNPRDVlblVhTWNqRV9XOHFSbnducTItYmI3WnA5bS1PQUVTSmJ2dWVXSlp0eTZTOWI5ZEFTNGVLUVpQM3hmdWxwbU4yblFDcTZYanM4Wk9LUHpYNTJtb3ZhWTFFbzRYc1VaYlh1NWl1NEh1ZkpEOW1FMi1SeEtDYUdSZERYWlRfaXZ1OTNvWE5kQXJaSmt2R1M1d0HSAcgBQVVfeXFMTUVIRWVNODhhQzRESnhrXzAzWjhQNzJkT3BycHNQOE4xZDhXTUxiTmlfTG1FbFRyTldfMEVoZm5jUlBNMkRFXzlSM0I0NGhQUFJ2TllGWjFwQ1VyYzF0bm1MaTZLUWxLTm11N3ZXdmJnSnVLOWVjZEJSS19IaGpWUVFMaXFOeHU0Zm81TXBISjM2YnFsNmFqMWUwN1Q0T2ZTVkhGcmxLZUQ5LTRzenZiTy1FUnc1V3lqWExmbU9FYlRfVzhrdHpMN04?oc=5"
   ]
  ]
 }
