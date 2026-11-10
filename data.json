@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T11:01:46.754Z",
+ "updated": "2026-11-10T11:59:26.670Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -106,65 +106,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1227,
-   "ch": 0.08,
-   "asof": "2026-11-10T11:01:32.000Z"
+   "p": 1.1221,
+   "ch": 0.03,
+   "asof": "2026-11-10T11:58:33.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3431,
-   "ch": -0.1,
-   "asof": "2026-11-10T11:01:32.000Z"
+   "p": 1.3426,
+   "ch": -0.14,
+   "asof": "2026-11-10T11:58:33.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.124,
-   "ch": 0.14,
-   "asof": "2026-11-10T11:01:45.000Z"
+   "p": 158.187,
+   "ch": 0.18,
+   "asof": "2026-11-10T11:59:26.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6914,
-   "ch": -0.19,
-   "asof": "2026-11-10T11:01:32.000Z"
+   "p": 0.6913,
+   "ch": -0.2,
+   "asof": "2026-11-10T11:57:33.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4125,
-   "ch": 0.05,
-   "asof": "2026-11-10T11:01:46.000Z"
+   "p": 1.4128,
+   "ch": 0.07,
+   "asof": "2026-11-10T11:59:25.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8203,
-   "ch": 0.15,
-   "asof": "2026-11-10T11:01:43.000Z"
+   "p": 0.8209,
+   "ch": 0.22,
+   "asof": "2026-11-10T11:59:26.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 74057.54,
-   "ch": -1.59,
-   "asof": "2026-11-10T11:01:41.000Z"
+   "p": 74312.24,
+   "ch": -1.25,
+   "asof": "2026-11-10T11:59:23.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2084.42,
-   "ch": -2.25,
-   "asof": "2026-11-10T11:01:42.000Z"
+   "p": 2091.44,
+   "ch": -1.92,
+   "asof": "2026-11-10T11:59:21.000Z"
   },
   {
    "s": "S&P 500",
@@ -194,17 +194,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4083.9,
-   "ch": -0.74,
-   "asof": "2026-11-10T10:51:44.000Z"
+   "p": 4079.3,
+   "ch": -0.86,
+   "asof": "2026-11-10T11:49:17.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 85.37,
-   "ch": -1.7,
-   "asof": "2026-11-10T10:51:46.000Z"
+   "p": 85.57,
+   "ch": -1.47,
+   "asof": "2026-11-10T11:49:26.000Z"
   },
   {
    "s": "USD/KES",
@@ -218,9 +218,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.3845,
-   "ch": 0.06,
-   "asof": "2026-11-10T11:01:46.000Z"
+   "p": 16.3961,
+   "ch": 0.13,
+   "asof": "2026-11-10T11:59:27.000Z"
   },
   {
    "s": "USD/NGN",
@@ -234,17 +234,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 84.18,
-   "ch": -2.75,
-   "asof": "2026-11-10T11:01:44.000Z"
+   "p": 84.61,
+   "ch": -2.25,
+   "asof": "2026-11-10T11:59:16.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.0768,
-   "ch": -1.85,
-   "asof": "2026-11-10T11:01:42.000Z"
+   "p": 1.0777,
+   "ch": -1.76,
+   "asof": "2026-11-10T11:59:24.000Z"
   },
   {
    "s": "Apple",
@@ -274,9 +274,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 52.385,
-   "ch": -0.58,
-   "asof": "2026-11-10T10:51:31.000Z"
+   "p": 52.345,
+   "ch": -0.66,
+   "asof": "2026-11-10T11:48:08.000Z"
   }
  ],
  "news": [
@@ -296,17 +296,17 @@
   ],
   [
    "Crypto",
-   "med",
-   "The crypto wallet that grew up inside Telegram is striking out on its own",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMHlJQURuQm9SWUJLYlJMMVFGcWRKZ2UzZVBnUFotS1RqcWdNOTNZd3BPdlRWRHZtWVNlMFRETmpUNUFEdS1hZkZZc1VGYUIzT3lkNWpfazlBSUhSUHpmRnB0d0o1OHRBbk16MWlEaDZHeWx0X3VMaUt2QUF2eVU2ZG5zOHN5RHJhVkZ2dUI1TnZxNmZJRC1OUmx0UFB3Q0JIV2tqd24wcGZzS1Rfd1g0UHpqS1NreVNCdlE?oc=5"
+   "high",
+   "Bitcoin to $2M? Investment Firm Backs Huge Target but Warns of $30K Crash First",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMingFBVV95cUxPdXJZYXJqVkQwTm5rb2QzUGVMQjJIMDVGRE1RdnRuTmxKS2t2QTUxSUFJa1ZxVFNQZ3RVM3hFMmJoSVFTaXlpVFY3c2xZZnRBb2dVSkpfSVNtTksyTFE2cVVJNmpscHpiNElybGRKRUIwSHRaOHhzQXREZWZlR1RfbUlSWmFvM09sbm45dGt0SDg3aDBBNzBwRG41Ulc3UQ?oc=5"
   ],
   [
    "Crypto",
    "high",
-   "BlackRock Bitcoin ETF Sees $213M Outflow as CPI Report Tests Crypto Markets",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVThXcE9QdlR0V2hZdXl0VE9Db25PWmVrT25IblduYlJsdUhMNlNDM3RGcTdqOXBEVlhoMDJWLXdXNnQyX0hmNEdTTVpJbEpuSW05WE5TWUthcE5LVnZ5d2ZLUEFheXQ5MXJIRkFLSUZYUVhCVHhBaThYV2k4RWNrbk9ROEg3dnFhcDBSV3ZWcmRNNlU3YllnaGVVcFU?oc=5"
+   "Bitcoin (BTC) price falls as Fed rate-hike bets build ahead of U.S. CPI report",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNzc4R3R1MGRYNW9BMkFIWlN4YjlEdHdDSnlJMjdnMlB0NmFxLTJCWXBaQ1R3ZS1WZEJrOFh2Q3hFcGRhZUJpNTZaZ3Nxb21Sa3VyWnY3MHEzaG9KMkNsd05XMTdDQjJUMi1sS3NjdXN5M3VpTmJsVWxLN2FKMkhiQ19TYkg0SFBsM284YkNuQ05EUG5PWGlIaG5RM1FnbTVGMms1ZFd6YmhmOTJqX0x3NkxkQVRTV0k0QWR1SlF5RlY?oc=5"
   ],
   [
    "Stocks",
@@ -332,9 +332,9 @@
   [
    "Commodities",
    "med",
-   "Brent crude falls below $90 for first time since August on Iran war de-escalation hopes",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMiakFVX3lxTE51Y2hNRTN0UVJqLWY0eVd0dWp2T3RWWC1UTXRXUUNnem9BY09QT3FfdUxDdktQX2ZVd195a3Bpd3NGV3ZmQU05Mk9uUllGZlRmYnR5NXVycGJQMmVnSnc3cVpVNGhzRmN6dlE?oc=5"
+   "Brent Crude Falls Below $90 for First Time Since August",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVHpRVnZiMHNiRlNlaW1wWFJWOWN3elpyZXlVSjNtcHBnVmtjU3JqUGRsdEFGeVFqVkVKLWZhYXF6TDViZDEtcWhUZUkwWE1RME9BQ3RMd0xsRTlYaHRCS2V1cXpxcjRDbl85d3FiXzg5elFKRk5pdm5lRTdjd3lKNlZIcTdFRjdGUG9OcUdORkh5anBhSG9pQnB5clF1WjM3SXFwQVAza1M1ejJhZ2Nv0gG0AUFVX3lxTFB2dDJ2VHZ5LTVibDh6ZFFMQ0F0Y0RjM21TMzFsU0w5RDJJaGgxUmczeVR3RWFmZEZjaTdXbWNKb2pWM05uU2l2ektUeHo0VHBiOGllZ0ZfSlBSRGV2ZUNDNTdLVWhVUXlSWmxyT2J5UnU3T3l0elFkdHpuUWY4NnN1SnJWdE9Ta3NYYjZsR0RIMlItaWhWV3hmV2tkTXFBc0ZSeXhZYVluZ3VURFRXMzgzZHpCYw?oc=5"
   ]
  ]
 }
