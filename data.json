@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T17:56:21.490Z",
+ "updated": "2026-11-10T19:08:49.980Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -106,105 +106,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1158,
-   "ch": -0.53,
-   "asof": "2026-11-10T17:55:31.000Z"
+   "p": 1.1168,
+   "ch": -0.45,
+   "asof": "2026-11-10T19:08:32.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3335,
-   "ch": -0.82,
-   "asof": "2026-11-10T17:55:31.000Z"
+   "p": 1.3344,
+   "ch": -0.75,
+   "asof": "2026-11-10T19:08:32.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.802,
-   "ch": 0.57,
-   "asof": "2026-11-10T17:56:20.000Z"
+   "p": 158.832,
+   "ch": 0.59,
+   "asof": "2026-11-10T19:08:48.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6857,
-   "ch": -1.01,
-   "asof": "2026-11-10T17:55:31.000Z"
+   "p": 0.6865,
+   "ch": -0.9,
+   "asof": "2026-11-10T19:07:32.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4189,
-   "ch": 0.5,
-   "asof": "2026-11-10T17:56:21.000Z"
+   "p": 1.418,
+   "ch": 0.44,
+   "asof": "2026-11-10T19:08:49.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8261,
-   "ch": 0.85,
-   "asof": "2026-11-10T17:56:21.000Z"
+   "p": 0.8254,
+   "ch": 0.77,
+   "asof": "2026-11-10T19:08:48.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 73133.98,
-   "ch": -2.82,
-   "asof": "2026-11-10T17:56:17.000Z"
+   "p": 73299.69,
+   "ch": -2.6,
+   "asof": "2026-11-10T19:08:43.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2027.25,
-   "ch": -4.93,
-   "asof": "2026-11-10T17:56:20.000Z"
+   "p": 2040.92,
+   "ch": -4.29,
+   "asof": "2026-11-10T19:08:46.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7485.79,
-   "ch": -0.85,
-   "asof": "2026-11-10T17:56:21.000Z"
+   "p": 7506.95,
+   "ch": -0.57,
+   "asof": "2026-11-10T19:08:49.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 24898.44,
-   "ch": -1.4,
-   "asof": "2026-11-10T17:56:21.000Z"
+   "p": 24991.7,
+   "ch": -1.04,
+   "asof": "2026-11-10T19:08:48.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52082.62,
-   "ch": -0.59,
-   "asof": "2026-11-10T17:56:20.000Z"
+   "p": 52189.06,
+   "ch": -0.38,
+   "asof": "2026-11-10T19:08:50.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4028.5,
-   "ch": -2.09,
-   "asof": "2026-11-10T17:46:20.000Z"
+   "p": 4035.6,
+   "ch": -1.92,
+   "asof": "2026-11-10T18:58:47.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 86.22,
-   "ch": -0.73,
-   "asof": "2026-11-10T17:46:20.000Z"
+   "p": 86.08,
+   "ch": -0.89,
+   "asof": "2026-11-10T18:58:49.000Z"
   },
   {
    "s": "USD/KES",
@@ -212,15 +212,15 @@
    "d": 2,
    "p": 129.86,
    "ch": 0,
-   "asof": "2026-11-10T17:23:31.000Z"
+   "asof": "2026-11-10T18:48:12.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5583,
-   "ch": 1.12,
-   "asof": "2026-11-10T17:56:22.000Z"
+   "p": 16.5225,
+   "ch": 0.9,
+   "asof": "2026-11-10T19:08:49.000Z"
   },
   {
    "s": "USD/NGN",
@@ -228,55 +228,55 @@
    "d": 2,
    "p": 1348.2,
    "ch": 0.59,
-   "asof": "2026-11-10T17:23:31.000Z"
+   "asof": "2026-11-10T18:48:12.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 82.27,
-   "ch": -4.96,
-   "asof": "2026-11-10T17:56:17.000Z"
+   "p": 82.77,
+   "ch": -4.38,
+   "asof": "2026-11-10T19:08:47.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.0523,
-   "ch": -4.08,
-   "asof": "2026-11-10T17:56:17.000Z"
+   "p": 1.067,
+   "ch": -2.74,
+   "asof": "2026-11-10T19:08:45.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 347.615,
-   "ch": -0.88,
-   "asof": "2026-11-10T17:56:18.000Z"
+   "p": 348.33,
+   "ch": -0.67,
+   "asof": "2026-11-10T19:08:49.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 375.97,
-   "ch": -0.55,
-   "asof": "2026-11-10T17:56:21.000Z"
+   "p": 377.13,
+   "ch": -0.24,
+   "asof": "2026-11-10T19:08:50.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 167.635,
-   "ch": -6.18,
-   "asof": "2026-11-10T17:56:14.000Z"
+   "p": 168.645,
+   "ch": -5.61,
+   "asof": "2026-11-10T19:08:50.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 51.185,
-   "ch": -2.86,
-   "asof": "2026-11-10T17:46:13.000Z"
+   "p": 51.3,
+   "ch": -2.64,
+   "asof": "2026-11-10T18:58:42.000Z"
   }
  ],
  "news": [
@@ -296,10 +296,10 @@
   ],
   [
    "Crypto",
-   "med",
-   "Bitcoin: Boom or Bust",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4ydGtxaEdsV2RRYUdSVlBGWWs4ZVlJdkxDNE5OenNrRnFsa3FZWmhvbUtZZUFBWURNRFVVckJyU2d2dEE2TUI2dzZTYVVpaVlnc2ZXeQ?oc=5"
+   "high",
+   "Bitcoin Drops to Almost Three-Month Low as US Inflation Dims Risk Appetite",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ0FLMWZvR0pfNmNSdVFyODBWRG9FT21PSEd4RHBuOVpXVVJid21RQmx5Tjh3MFR5OGNud2NfX0ZhSEMyX3FRT0EwekhVMUpITFVheE5oQ2NWQXNZbFIxTkxTNVFJNDZQR0F3ZmthY0hBc2lYR2lnOVVoRHQtRWY1ci03LWZobjNzT0NMUVVleVJMcFRPWnFRRnNrZDhXNGhST2MzN2ZoMkJJRWFXTlZ6TVhiNXg2aF9KUGpEaUdZb0JiZW8?oc=5"
   ],
   [
    "Crypto",
@@ -317,10 +317,10 @@
   ],
   [
    "Stocks",
-   "high",
-   "Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets Wrap",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXVKNll2bkFUUU5EVDg4eTF6a3YwZ0pIS0d4bGFTdkItMkl3SkFCbGRiZFdzSmlidHZZN3I1YzF1VkVXYlM0dDJrRlRPeDRGYXp6cVBuRGVjbl9vNWxrdlRYLTl4NTRxMnRFcGtuOUROekFvUUsxdTE1R3IwWmRKRVlUVFpFTlY0WXNlWTZTa1hIdmV1?oc=5"
+   "med",
+   "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+   "BBC",
+   "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HNWFGZG1teU8xOWttMlMzb1gtbVhmNW94MlFvanZrY3JCbVVkcExpX3VrTGFLOVgwaGhON21KMUN5SGI1R2hmM2pMMkJXQlFDaUU0TnV6TWVqNWM?oc=5"
   ],
   [
    "Commodities",
