@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T02:17:59.107Z",
+ "updated": "2026-11-10T04:01:45.752Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -106,65 +106,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1223,
-   "ch": 0.04,
-   "asof": "2026-11-10T02:17:31.000Z"
+   "p": 1.1226,
+   "ch": 0.07,
+   "asof": "2026-11-10T04:01:33.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3443,
+   "p": 1.3444,
    "ch": -0.01,
-   "asof": "2026-11-10T02:17:31.000Z"
+   "asof": "2026-11-10T04:01:33.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.054,
-   "ch": 0.1,
-   "asof": "2026-11-10T02:17:57.000Z"
+   "p": 157.962,
+   "ch": 0.04,
+   "asof": "2026-11-10T04:01:44.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6924,
-   "ch": -0.04,
-   "asof": "2026-11-10T02:17:31.000Z"
+   "p": 0.6919,
+   "ch": -0.12,
+   "asof": "2026-11-10T04:01:33.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4118,
-   "ch": 0,
-   "asof": "2026-11-10T02:17:57.000Z"
+   "p": 1.4119,
+   "ch": 0.01,
+   "asof": "2026-11-10T04:01:45.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8198,
-   "ch": 0.09,
-   "asof": "2026-11-10T02:17:58.000Z"
+   "p": 0.8194,
+   "ch": 0.04,
+   "asof": "2026-11-10T04:01:45.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 74833.3,
-   "ch": -0.56,
-   "asof": "2026-11-10T02:17:56.000Z"
+   "p": 74441.35,
+   "ch": -1.08,
+   "asof": "2026-11-10T04:01:41.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2118.93,
-   "ch": -0.63,
-   "asof": "2026-11-10T02:17:56.000Z"
+   "p": 2110.97,
+   "ch": -1,
+   "asof": "2026-11-10T04:01:40.000Z"
   },
   {
    "s": "S&P 500",
@@ -194,17 +194,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4131.1,
-   "ch": 0.4,
-   "asof": "2026-11-10T02:07:58.000Z"
+   "p": 4120.4,
+   "ch": 0.14,
+   "asof": "2026-11-10T03:51:44.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 86.3,
-   "ch": -0.63,
-   "asof": "2026-11-10T02:07:49.000Z"
+   "p": 85.62,
+   "ch": -1.42,
+   "asof": "2026-11-10T03:51:41.000Z"
   },
   {
    "s": "USD/KES",
@@ -212,15 +212,15 @@
    "d": 2,
    "p": 129.86,
    "ch": 0,
-   "asof": "2026-11-09T23:16:54.000Z"
+   "asof": "2026-11-10T03:55:53.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.3736,
-   "ch": -0.01,
-   "asof": "2026-11-10T02:17:59.000Z"
+   "p": 16.3617,
+   "ch": -0.08,
+   "asof": "2026-11-10T04:01:45.000Z"
   },
   {
    "s": "USD/NGN",
@@ -228,23 +228,23 @@
    "d": 2,
    "p": 1340.33,
    "ch": 0,
-   "asof": "2026-11-09T23:16:53.000Z"
+   "asof": "2026-11-10T03:55:53.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 85.82,
-   "ch": -0.86,
-   "asof": "2026-11-10T02:17:55.000Z"
+   "p": 85.66,
+   "ch": -1.04,
+   "asof": "2026-11-10T04:01:35.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.0952,
-   "ch": -0.17,
-   "asof": "2026-11-10T02:17:58.000Z"
+   "p": 1.0908,
+   "ch": -0.57,
+   "asof": "2026-11-10T04:01:41.000Z"
   },
   {
    "s": "Apple",
@@ -274,25 +274,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.14,
-   "ch": 0.85,
-   "asof": "2026-11-10T02:07:49.000Z"
+   "p": 52.985,
+   "ch": 0.55,
+   "asof": "2026-11-10T03:51:31.000Z"
   }
  ],
  "news": [
+  [
+   "Forex",
+   "med",
+   "Berkshire Tests Wider Yen Spreads in Latest Japan Bond Deal",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcmNyaVZ1RTJBSHNweFU3N3M2ZGxSMFdTWHpZYnIxT0Z3bHNaZFRneFZyQzRsSlp2cVJVeUljU243UU1NWVVQSzZYLUdaZmVuZEZIb1l5azEyanpwTllhcVlFejNGQmg2OU1HdU1heExTWWpMSTh5LWU5Rm1kMUhXRDU5WklfdGNhUzBLOW9BMlc2TTd6WWQ4RXBMRGI5R0JtRmt3WFAxeHZLTjRJRDZn?oc=5"
+  ],
   [
    "Forex",
    "high",
    "France to dodge threat of year-end recession, central bank says",
    "Reuters",
    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTXVXQUZwNS1VMXdBYW5iaHFueExFeG5qSWlPNFdLR2F5RTNwVTh3alg3S1JobmcwMnBEV0F0YWNJaDBHTV9FZENNY2pUbkNiUERTV29pbG01aXF2eXVPa2VaQy14cmRQNVJwR0xDaHJvTFEwb3NlMzU0cjhJWnVfYlhVYlcwWG01VWY3VmlwV2kybVFxbklqaDRmTG1GTXpIRTc4?oc=5"
-  ],
-  [
-   "Forex",
-   "med",
-   "Top Yen Forecaster Predicts 147 Per Dollar as Rate Gap Narrows",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkhFZDd5R1ZESDNFUk9CTXFrMzlFRktiR1JsWmdfTWlyd1lhbTh0TFRqbF9IWm9QaWloUlJSOUh5MVVXR0dpLVg2R2I0MDM3ZXlGdjVsdUNNYW9la2pEOEtEU3dfOF8wX2g3aGVCQ01uc0EzYW16T3dKN0dPNmRkd3pVdjJaMGRvYU11RV9tUlE5MTFHYVp4SXV5RDJyVkhCbHhNRjhPRkpUZHYtaWtVR1JpSQ?oc=5"
   ],
   [
    "Crypto",
@@ -310,17 +310,24 @@
   ],
   [
    "Stocks",
-   "high",
-   "Asian Stocks to Rally on US Tech Surge, Oil Slump: Markets Wrap",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXVKNll2bkFUUU5EVDg4eTF6a3YwZ0pIS0d4bGFTdkItMkl3SkFCbGRiZFdzSmlidHZZN3I1YzF1VkVXYlM0dDJrRlRPeDRGYXp6cVBuRGVjbl9vNWxrdlRYLTl4NTRxMnRFcGtuOUROekFvUUsxdTE1R3IwWmRKRVlUVFpFTlY0WXNlWTZTa1hIdmV1?oc=5"
+   "med",
+   "The Nasdaq Fell Into Correction Territory Recently. Should You Buy the Dip?",
+   "The Motley Fool",
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdmhXZFBBRmdPbXBXRnhCenU1Qi1mbUNHeVJsUm5OcVB1MUgzZDZBaHFVS3NKUmw0TzBaSGh5VzlnT0YxZUJ3bGE0alZKRm92cW5YZkpITmN0NXZYaHktWGtRSU5mUVV5VkpXc0JpSnR2Skg3NE1TZnlqYjNhWTJJR1NQczJfSVNWdVUxSGZrcnM1RkFwY2xpYw?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "U.S. Stocks Climb as Investors Regain Confidence",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdjlINllmNm02MTZleDF4MVdGX3FVaFAzRGhmckNEbUstLU5iWGFldm8xZ3dVQXNmMjRYdXBmcktTUG43dVE5eHEyZkdyM0NDdzNCdllab2ViVHhuS3JuQ1BfZUExa1ExQ3h5RG5XRWRmZnN6NWFlN29mU18wYld2ZTQ1aGRfUWs3UzFFNDR5Mk9qVGZtVnc?oc=5"
+   "Nasdaq Stock Market Correction: 2 Stocks I Wouldn't Hesitate to Buy the Dip On (Hint: It's Not Nvidia)",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDVhMmwzVDl2aHJydmpyZ1VON0tsTGlVR1RjRVFNQk9EUlJLenc5eUNDRldGRHVYd0pVRWp2WXV5dldBNlpyNjlOX005TU54MnUycVNfTUhlaWFna0l2V1VpTTNybjlsc1NuX0Y4QnBFZlgyQUN4V2ZCdllGanVhRFRyclJKcTV0eUVRXzFiNTNlVDBzc2VaMGo2ZGpSQQ?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "China's October crude oil imports rise to highest level since March amid Middle East war",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQzh4VnBTdUVqdmI5cnpOUTJlY1hZSHFTV29RYVpZZXVfRnRFclBrSG9xSjJReDRkS1hEUDhvNGtOMk81YmZ3blZYT0wwZGthaHhMdi1Hc3JDZFVEQXhuSGxmRDhFb0syQnhkNm9Vc1N5Wmw2dTk4RXE3LVNjaDRvRjVvNkZzZWVWNjBDN0pCWEg1SVdqQ1JqQUJYd1Fjc2FSUFJ4SEFWMFA0SkZYOXNKQU5BbUZ0VGlhVS1Pc1ZjMmY2MDh6dHN5RGRreXc?oc=5"
   ],
   [
    "Commodities",
@@ -328,13 +335,6 @@
    "Brent Crashes 7% on Iran Peace Hopes Despite Fresh Saudi Pipeline Attack",
    "Crude Oil Prices Today | OilPrice.com",
    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMVkwSk8xdlE0dTF6dGk0Rnp3elNCYkdJV1ZLb2otcnlSa3JfcWhyV1Z0Y1dCeHcxUUxpZzdXYlBRUEQwZTRqdU9GZ21XZ3JXMmVfRzBFbWk0OHJXWmhVc0cybnp1eWZDTTB1S09PLUZ2VjQ5elFhWXVnajlJWEhsa2FpYXkyUlVPSDFtNHRVaTBmcFg2UUU3UEpfTEctWkgxMjIxaEhodW05akVFdmFRTEVuV00zZ0RGaU9xRThZWTVVMGRuVVHSAcsBQVVfeXFMTy03cmFMdmxqNkJ5NG9HM0dDVDBWNzBmd00yWkg5enA2a09Cek16bnYxRXdHQ00tWEhUYTBUUVVYWUxpTUo2ZE5MQzYtLTMtb1N1cGRjN2w4UnNoT3ZieElqS1VYZGFxSUxLbm1yNXpJd3ZLYUZJQ0gtRUJybWdVTWloTmdPMnlEdlFVWlBQdkJ3MjVfSzdtRTU2d0JNV21VQWJobzJTM2NKUkJ4RG4zRUhqeWNfMk5YQ25NM1hBRmoxcF80MnFKTDZBMmM?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "OPEC oil output rises in October to 90% of pre-war rate, Reuters survey shows",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcGJ3LUpzaXpKMGVQTkVDUmxmck5BRE9ycmRsR2ljV2x5ZmpoOW5UbW1WSE9XUnd5XzJsano5X0hPMU1DZW5Za2lsQ05Sa2NzWWNnTkpHdVc4ZmFvRnZ1WDRGVnVLaFNJVVdNSGhhYmRBaXZSSVNjc29qT2dUbnEtZ3JBNXdyQ01IaWxJRDJsZThnT29yUmxnSTh2dHFidnZBd2R6QU5nS182LUFjV1U0RXJqSVR2VXpicTBjalNR?oc=5"
   ]
  ]
 }
