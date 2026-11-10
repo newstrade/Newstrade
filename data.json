@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T09:03:38.130Z",
+ "updated": "2026-11-10T10:05:33.020Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -106,65 +106,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1242,
-   "ch": 0.21,
-   "asof": "2026-11-10T09:03:29.000Z"
+   "p": 1.123,
+   "ch": 0.11,
+   "asof": "2026-11-10T10:05:31.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3442,
-   "ch": -0.02,
-   "asof": "2026-11-10T09:03:29.000Z"
+   "p": 1.3429,
+   "ch": -0.12,
+   "asof": "2026-11-10T10:05:31.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.078,
-   "ch": 0.11,
-   "asof": "2026-11-10T09:03:37.000Z"
+   "p": 158.126,
+   "ch": 0.14,
+   "asof": "2026-11-10T10:05:32.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6921,
-   "ch": -0.09,
-   "asof": "2026-11-10T09:03:29.000Z"
+   "p": 0.6915,
+   "ch": -0.17,
+   "asof": "2026-11-10T10:05:31.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4123,
-   "ch": 0.04,
-   "asof": "2026-11-10T09:03:38.000Z"
+   "p": 1.4135,
+   "ch": 0.12,
+   "asof": "2026-11-10T10:05:32.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8193,
-   "ch": 0.02,
-   "asof": "2026-11-10T09:03:38.000Z"
+   "p": 0.8205,
+   "ch": 0.17,
+   "asof": "2026-11-10T10:05:32.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 74318.83,
-   "ch": -1.24,
-   "asof": "2026-11-10T09:03:33.000Z"
+   "p": 74359.11,
+   "ch": -1.19,
+   "asof": "2026-11-10T10:05:29.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2102.2,
-   "ch": -1.41,
-   "asof": "2026-11-10T09:03:26.000Z"
+   "p": 2098.65,
+   "ch": -1.58,
+   "asof": "2026-11-10T10:05:30.000Z"
   },
   {
    "s": "S&P 500",
@@ -194,17 +194,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4125.3,
-   "ch": 0.26,
-   "asof": "2026-11-10T08:53:36.000Z"
+   "p": 4093.3,
+   "ch": -0.52,
+   "asof": "2026-11-10T09:55:31.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 84.39,
-   "ch": -2.83,
-   "asof": "2026-11-10T08:53:36.000Z"
+   "p": 84.15,
+   "ch": -3.11,
+   "asof": "2026-11-10T09:55:33.000Z"
   },
   {
    "s": "USD/KES",
@@ -218,9 +218,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.371,
-   "ch": -0.02,
-   "asof": "2026-11-10T09:03:38.000Z"
+   "p": 16.37,
+   "ch": -0.03,
+   "asof": "2026-11-10T10:05:33.000Z"
   },
   {
    "s": "USD/NGN",
@@ -234,17 +234,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 85.37,
-   "ch": -1.38,
-   "asof": "2026-11-10T09:03:34.000Z"
+   "p": 85.29,
+   "ch": -1.47,
+   "asof": "2026-11-10T10:05:31.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.082,
-   "ch": -1.37,
-   "asof": "2026-11-10T09:03:37.000Z"
+   "p": 1.083,
+   "ch": -1.28,
+   "asof": "2026-11-10T10:05:27.000Z"
   },
   {
    "s": "Apple",
@@ -274,9 +274,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 52.83,
-   "ch": 0.26,
-   "asof": "2026-11-10T08:53:37.000Z"
+   "p": 52.595,
+   "ch": -0.19,
+   "asof": "2026-11-10T09:55:32.000Z"
   }
  ],
  "news": [
@@ -296,17 +296,24 @@
   ],
   [
    "Crypto",
-   "med",
-   "Prediction: This Will Be the Price of Bitcoin by the End of 2030",
+   "high",
+   "BlackRock Bitcoin ETF Sees $213M Outflow as CPI Report Tests Crypto Markets",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYXZjV19MRkwzeW52WWhRb1lxNnJEQjVhQi1VZ2kxSFlId1Q0T3BFZGFVSTNydTZYdWF6OTIwRnpjWnJlakMtMjBoeGs5djBGSjFESl9hTThPVE5mLWFXandROEhjRU53THNLQWRLZTc0XzdhTHVMcDhUOFh2eXE5Z3R5V3RHSC1Hb3dLT0FzR1g5V09wS0hOUTVLdmw4djA?oc=5"
+   "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVThXcE9QdlR0V2hZdXl0VE9Db25PWmVrT25IblduYlJsdUhMNlNDM3RGcTdqOXBEVlhoMDJWLXdXNnQyX0hmNEdTTVpJbEpuSW05WE5TWUthcE5LVnZ5d2ZLUEFheXQ5MXJIRkFLSUZYUVhCVHhBaThYV2k4RWNrbk9ROEg3dnFhcDBSV3ZWcmRNNlU3YllnaGVVcFU?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+   "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
    "CoinDesk",
-   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTW9Kai1jSnhka3dBUWxaUG1seURfbzFKeHVmUzFRRjlZc0U1UVlYNnlHbmRZdXBYOFpxTFltTDdaMDladzVDMkR2ZGVWejRDRGY3elBpUTZTaW5RN18wa3RGM3J0eV9GUkJVOUlrWS03a05YU0JOaDNPYXZza2M2SDI1YUNwUlJHNFdfdTl4RFpacEpXWGpVOG1NSVJkTW1PU2MtZG9XZWhQbTExOHZ1SzNjMDFZVHl6OG9UTHBHR0x6TE5hSlQ1WA?oc=5"
+   "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT1BOdWUzakFuRTA1SkFOeW9Ja2s0ZHF6clRXWGp5WFU1a1hzTzJFbDNySlZRdXFMVjJieW9kVXJCLTlmcHZTamdQV3Z6T053eEQydlI1cTZJTXA5WU40Y3hsdHdERXpUX3plUFNYb293bERIR3diUUhXSU5HLW44OGlGNElMY2NCRlNFYWx0UUZpNlF2SjI5OGtOS3doQVE2Nld6UHI1WFRiTWx5WEdUOTcybW02cmRLdjVBd1lJbTkyM1pjOUpF?oc=5"
+  ],
+  [
+   "Stocks",
+   "high",
+   "World shares rise after technology shares advance on Wall Street ahead of US inflation data",
+   "AP News",
+   "https://news.google.com/rss/articles/CBMikwFBVV95cUxON3JURzdxSWtQNVp6X3phSmh4WmNLbUF4VzYtaDVLdEZ4QUlwbTMwTERYS2ZLWkhqbHIxWk14UlV5M1NKUWtfNEFFdGp2Rks4WURWV0Q5LV9uQW1UVjQyUFE0aVQyOXh5TDh3bkJ6aUlIS2ZHd3F5czRRTV9tZjRBaWJLb3pKN0pkb20weXlUMlhET1E?oc=5"
   ],
   [
    "Stocks",
@@ -314,13 +321,6 @@
    "Asian Stocks to Rally on US Tech Surge, Oil Slump: Markets Wrap",
    "Bloomberg.com",
    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXVKNll2bkFUUU5EVDg4eTF6a3YwZ0pIS0d4bGFTdkItMkl3SkFCbGRiZFdzSmlidHZZN3I1YzF1VkVXYlM0dDJrRlRPeDRGYXp6cVBuRGVjbl9vNWxrdlRYLTl4NTRxMnRFcGtuOUROekFvUUsxdTE1R3IwWmRKRVlUVFpFTlY0WXNlWTZTa1hIdmV1?oc=5"
-  ],
-  [
-   "Stocks",
-   "high",
-   "Asian stocks rise after technology shares advance on Wall Street ahead of US inflation data",
-   "AP News",
-   "https://news.google.com/rss/articles/CBMikwFBVV95cUxON3JURzdxSWtQNVp6X3phSmh4WmNLbUF4VzYtaDVLdEZ4QUlwbTMwTERYS2ZLWkhqbHIxWk14UlV5M1NKUWtfNEFFdGp2Rks4WURWV0Q5LV9uQW1UVjQyUFE0aVQyOXh5TDh3bkJ6aUlIS2ZHd3F5czRRTV9tZjRBaWJLb3pKN0pkb20weXlUMlhET1E?oc=5"
   ],
   [
    "Commodities",
