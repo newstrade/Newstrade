@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T01:16:35.448Z",
+ "updated": "2026-11-10T02:17:59.107Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -106,65 +106,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1227,
-   "ch": 0.08,
-   "asof": "2026-11-10T01:15:30.000Z"
+   "p": 1.1223,
+   "ch": 0.04,
+   "asof": "2026-11-10T02:17:31.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3444,
+   "p": 1.3443,
    "ch": -0.01,
-   "asof": "2026-11-10T01:15:30.000Z"
+   "asof": "2026-11-10T02:17:31.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 157.979,
-   "ch": 0.05,
-   "asof": "2026-11-10T01:16:21.000Z"
+   "p": 158.054,
+   "ch": 0.1,
+   "asof": "2026-11-10T02:17:57.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6926,
-   "ch": -0.01,
-   "asof": "2026-11-10T01:15:30.000Z"
+   "p": 0.6924,
+   "ch": -0.04,
+   "asof": "2026-11-10T02:17:31.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4117,
-   "ch": -0.01,
-   "asof": "2026-11-10T01:16:26.000Z"
+   "p": 1.4118,
+   "ch": 0,
+   "asof": "2026-11-10T02:17:57.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8192,
-   "ch": 0.01,
-   "asof": "2026-11-10T01:16:25.000Z"
+   "p": 0.8198,
+   "ch": 0.09,
+   "asof": "2026-11-10T02:17:58.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 75023,
-   "ch": -0.31,
-   "asof": "2026-11-10T01:16:34.000Z"
+   "p": 74833.3,
+   "ch": -0.56,
+   "asof": "2026-11-10T02:17:56.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2125.8,
-   "ch": -0.31,
-   "asof": "2026-11-10T01:16:33.000Z"
+   "p": 2118.93,
+   "ch": -0.63,
+   "asof": "2026-11-10T02:17:56.000Z"
   },
   {
    "s": "S&P 500",
@@ -194,17 +194,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4141.6,
-   "ch": 0.66,
-   "asof": "2026-11-10T01:06:25.000Z"
+   "p": 4131.1,
+   "ch": 0.4,
+   "asof": "2026-11-10T02:07:58.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 86.45,
-   "ch": -0.46,
-   "asof": "2026-11-10T01:06:24.000Z"
+   "p": 86.3,
+   "ch": -0.63,
+   "asof": "2026-11-10T02:07:49.000Z"
   },
   {
    "s": "USD/KES",
@@ -218,9 +218,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.3668,
-   "ch": -0.05,
-   "asof": "2026-11-10T01:16:25.000Z"
+   "p": 16.3736,
+   "ch": -0.01,
+   "asof": "2026-11-10T02:17:59.000Z"
   },
   {
    "s": "USD/NGN",
@@ -234,17 +234,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 86.52,
-   "ch": -0.05,
-   "asof": "2026-11-10T01:16:33.000Z"
+   "p": 85.82,
+   "ch": -0.86,
+   "asof": "2026-11-10T02:17:55.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.1013,
-   "ch": 0.39,
-   "asof": "2026-11-10T01:16:31.000Z"
+   "p": 1.0952,
+   "ch": -0.17,
+   "asof": "2026-11-10T02:17:58.000Z"
   },
   {
    "s": "Apple",
@@ -274,18 +274,18 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 53.64,
-   "ch": 1.8,
-   "asof": "2026-11-10T01:06:28.000Z"
+   "p": 53.14,
+   "ch": 0.85,
+   "asof": "2026-11-10T02:07:49.000Z"
   }
  ],
  "news": [
   [
    "Forex",
-   "med",
-   "Paraguay widens probe into collapsed digital bank and installs new central bank head",
+   "high",
+   "France to dodge threat of year-end recession, central bank says",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOS1BOVNiOG9QbVF1Z0wtbHdUcF9tRFhOcGxLZlpPQXVKX0FjM0k5MmhfRlZTa1Q2d3lDdXlCdW9tdm1yVEViLVM1aFdIY1R3YzBQcWUzUEF0TWZqc2lFWmd1UEFzcU9QTlZKcDVmYVV4UmFsdTVJbm9oZTY3d2otNUVuQmRUeUFUNXprRzByQXNuZWJ5YmlZV0hQRUtPUzhvQm5ieF9lOA?oc=5"
+   "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTXVXQUZwNS1VMXdBYW5iaHFueExFeG5qSWlPNFdLR2F5RTNwVTh3alg3S1JobmcwMnBEV0F0YWNJaDBHTV9FZENNY2pUbkNiUERTV29pbG01aXF2eXVPa2VaQy14cmRQNVJwR0xDaHJvTFEwb3NlMzU0cjhJWnVfYlhVYlcwWG01VWY3VmlwV2kybVFxbklqaDRmTG1GTXpIRTc4?oc=5"
   ],
   [
    "Forex",
@@ -297,9 +297,9 @@
   [
    "Crypto",
    "med",
-   "Bitcoin and Ethereum Just Hit Their Lowest Prices Since August After $1 Billion in Liquidations. Where Do Analysts Say They Bottom?",
+   "Prediction: This Will Be the Price of Bitcoin by the End of 2030",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxQZVNEeFpkbjRXWUFQbU1mVEtKYk5PSWNlYm9qM0U4aGtUcVd1NzA4Yzl2QzczcWJFdFAtS2lQeENFdUVpUGtzRl9UMjdkMFFXUWJ5X19BWTA5SFpCcS1rRzZCX2JLWU1WTHN1dDZFSmZZaVZnVm5rNnV3UmpFNFVSOTI1aEtNZEJ5al9kcXdSMFlaaDkzVWRPRzZvLUtEdw?oc=5"
+   "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYXZjV19MRkwzeW52WWhRb1lxNnJEQjVhQi1VZ2kxSFlId1Q0T3BFZGFVSTNydTZYdWF6OTIwRnpjWnJlakMtMjBoeGs5djBGSjFESl9hTThPVE5mLWFXandROEhjRU53THNLQWRLZTc0XzdhTHVMcDhUOFh2eXE5Z3R5V3RHSC1Hb3dLT0FzR1g5V09wS0hOUTVLdmw4djA?oc=5"
   ],
   [
    "Crypto",
@@ -311,16 +311,16 @@
   [
    "Stocks",
    "high",
-   "Wall St jumps as oil slide cools inflation worries; Nvidia slumps",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNldnOF8ybWVHdkNyWXAxOG1mSFRERGpWNlpaM2N6R1ctTUk1MDZEWlR4aEtWZ1RlT092T1NtaVBfbDRtWmItVi01TWpzV3BIdTRDUDJUblRwSkFSZDl6S0J1NE42bzE4bEsxVGMyeURKR3lTbmlYNTRLQnM2TmFCQ1JUZkJ1aFppVURGQjkxSk1PVWtCcEF1Sy12SlB5a3UyaW5lVkhkMWZtTktaclE?oc=5"
+   "Asian Stocks to Rally on US Tech Surge, Oil Slump: Markets Wrap",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXVKNll2bkFUUU5EVDg4eTF6a3YwZ0pIS0d4bGFTdkItMkl3SkFCbGRiZFdzSmlidHZZN3I1YzF1VkVXYlM0dDJrRlRPeDRGYXp6cVBuRGVjbl9vNWxrdlRYLTl4NTRxMnRFcGtuOUROekFvUUsxdTE1R3IwWmRKRVlUVFpFTlY0WXNlWTZTa1hIdmV1?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Stock Market Today, Nov. 9: Markets Rally as Semiconductor Gains Lift Nasdaq",
-   "The Motley Fool",
-   "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM1dxQ1dkSlFTd3JtUVZDMXVIYWlwRE1oWnJhTDJBUnI0aUloUEloQURRSGNhY3VjTk9MVkx6dERDc0h4VHEwaE5UTndqV1NYUWFBMFBObnJfaWxJdGRFZ0lwc1VqalFQZ00yNHpmWEpZdkNQQi1ibGlZWkZhY2UwaTdpMUd5NGNpUTNLNWh4R3dma2MwVVJLNUVaOFZxWFhIM1hVci1veE5qTzFDcEdRaVhZUDI3TV9Yd0xXa3l4Z0l3QWhqcTl0b1pPajVvZTA?oc=5"
+   "U.S. Stocks Climb as Investors Regain Confidence",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdjlINllmNm02MTZleDF4MVdGX3FVaFAzRGhmckNEbUstLU5iWGFldm8xZ3dVQXNmMjRYdXBmcktTUG43dVE5eHEyZkdyM0NDdzNCdllab2ViVHhuS3JuQ1BfZUExa1ExQ3h5RG5XRWRmZnN6NWFlN29mU18wYld2ZTQ1aGRfUWs3UzFFNDR5Mk9qVGZtVnc?oc=5"
   ],
   [
    "Commodities",
