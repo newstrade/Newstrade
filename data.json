@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T20:10:59.479Z",
+ "updated": "2026-11-11T21:45:35.555Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -106,33 +106,33 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1096,
-   "ch": -0.64,
-   "asof": "2026-11-11T20:10:32.000Z"
+   "p": 1.1093,
+   "ch": -0.66,
+   "asof": "2026-11-11T21:45:34.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3279,
-   "ch": -0.5,
-   "asof": "2026-11-11T20:10:32.000Z"
+   "p": 1.3274,
+   "ch": -0.54,
+   "asof": "2026-11-11T21:45:34.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 159.858,
-   "ch": 0.73,
-   "asof": "2026-11-11T20:10:47.000Z"
+   "p": 159.805,
+   "ch": 0.7,
+   "asof": "2026-11-11T21:45:31.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6853,
-   "ch": -0.26,
-   "asof": "2026-11-11T20:09:32.000Z"
+   "p": 0.6849,
+   "ch": -0.32,
+   "asof": "2026-11-11T21:45:34.000Z"
   },
   {
    "s": "USD/CAD",
@@ -140,71 +140,71 @@
    "d": 4,
    "p": 1.4246,
    "ch": 0.39,
-   "asof": "2026-11-11T20:10:58.000Z"
+   "asof": "2026-11-11T21:45:35.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8329,
-   "ch": 1.03,
-   "asof": "2026-11-11T20:10:56.000Z"
+   "p": 0.8331,
+   "ch": 1.06,
+   "asof": "2026-11-11T21:45:33.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 74405.41,
-   "ch": 0.94,
-   "asof": "2026-11-11T20:10:54.000Z"
+   "p": 74436.05,
+   "ch": 0.99,
+   "asof": "2026-11-11T21:45:34.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2077.44,
-   "ch": 1.31,
-   "asof": "2026-11-11T20:10:58.000Z"
+   "p": 2073.49,
+   "ch": 1.11,
+   "asof": "2026-11-11T21:45:31.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7625.08,
-   "ch": 1.38,
-   "asof": "2026-11-11T20:10:59.000Z"
+   "p": 7619.38,
+   "ch": 1.31,
+   "asof": "2026-11-11T21:42:03.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 25505.922,
-   "ch": 1.76,
-   "asof": "2026-11-11T20:10:55.000Z"
+   "p": 25466.19,
+   "ch": 1.6,
+   "asof": "2026-11-11T21:45:35.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52481.13,
-   "ch": 0.48,
-   "asof": "2026-11-11T20:10:59.000Z"
+   "p": 52486.49,
+   "ch": 0.49,
+   "asof": "2026-11-11T21:43:58.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3993,
-   "ch": -0.92,
-   "asof": "2026-11-11T20:00:54.000Z"
+   "p": 3991.7,
+   "ch": -0.96,
+   "asof": "2026-11-11T21:35:34.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 86.23,
-   "ch": 0.22,
-   "asof": "2026-11-11T20:00:45.000Z"
+   "p": 86.41,
+   "ch": 0.43,
+   "asof": "2026-11-11T21:35:34.000Z"
   },
   {
    "s": "USD/KES",
@@ -212,15 +212,15 @@
    "d": 2,
    "p": 129.85,
    "ch": -0.01,
-   "asof": "2026-11-11T18:31:42.000Z"
+   "asof": "2026-11-11T21:04:07.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5873,
-   "ch": 0.4,
-   "asof": "2026-11-11T20:10:58.000Z"
+   "p": 16.5934,
+   "ch": 0.44,
+   "asof": "2026-11-11T21:45:35.000Z"
   },
   {
    "s": "USD/NGN",
@@ -228,55 +228,55 @@
    "d": 2,
    "p": 1345.18,
    "ch": -0.22,
-   "asof": "2026-11-11T18:31:42.000Z"
+   "asof": "2026-11-11T21:04:07.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 84.84,
-   "ch": 1.9,
-   "asof": "2026-11-11T20:10:57.000Z"
+   "p": 84.65,
+   "ch": 1.67,
+   "asof": "2026-11-11T21:45:31.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.06,
-   "ch": 0.42,
-   "asof": "2026-11-11T20:10:59.000Z"
+   "p": 1.0621,
+   "ch": 0.62,
+   "asof": "2026-11-11T21:45:30.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 355.055,
-   "ch": 1.88,
-   "asof": "2026-11-11T20:11:01.000Z"
+   "p": 355.63,
+   "ch": 2.04,
+   "asof": "2026-11-11T21:00:01.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 390.87,
-   "ch": 2.92,
-   "asof": "2026-11-11T20:10:59.000Z"
+   "p": 390.84,
+   "ch": 2.91,
+   "asof": "2026-11-11T21:00:01.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 174.7698,
-   "ch": 3.54,
-   "asof": "2026-11-11T20:10:59.000Z"
+   "p": 173.73,
+   "ch": 2.92,
+   "asof": "2026-11-11T21:00:00.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 51.815,
-   "ch": 1.15,
-   "asof": "2026-11-11T20:01:00.000Z"
+   "p": 51.705,
+   "ch": 0.94,
+   "asof": "2026-11-11T21:35:26.000Z"
   }
  ],
  "news": [
@@ -311,16 +311,16 @@
   [
    "Stocks",
    "med",
-   "Stocks climb as CoreWeave results ease AI spending concerns",
+   "Stocks end higher as CoreWeave results ease AI spending worries",
    "Reuters",
    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUVZoWU1fQUd2Y1M2Qnl1T2JaMTkwaXBkaDIwWjVHejZoQmdDUnVzUVlSWDVsWW1pVDRVcXQ2ZTdrRTRiMDdMNWJDS3Atem91bUpDMnFLUkZ6NjhjaTliYWV1ODRLMnk0Slh3Wk5wNGtHTDhvaEZpTFIyUlVpQ2tNdTUyb2ZLbEZGOHlTZWRJNzVScUpIS3V5a1FacGwzby00RURBa2htZFFqZmw3Z2pRS2NDWQ?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Exclusive | U.S. Aircraft Evacuated From Second U.K. Base Due to Iran Threat",
+   "Nasdaq Jumps After CoreWeave Re-Energizes AI Trade",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0tDaWxJVnFUVzlrbFZ4UlNRWTRpdWdidXRnenUzSVlISnNTT1RNaDRNWC1iWU9PZXdPTHRQUUJOTlJaOFRLdWxodDBhV3hINllRODNtSnVtdVU5ZHZMcWN1Q0h5ejJUVHB2WGpyVWxJU2ZFTGtROC11SUJTdU1DNWt5MUNiRTFfSmNkMjhrcU1aODh6bEQ2SThibDcxMUIzUmx4TDRsR1cxcUNta0E?oc=5"
+   "https://news.google.com/rss/articles/CBMiogFBVV95cUxPem9ZTW5ac04yQXJsSXE2S29IZl8zSlU0YklYcm1xZW04OWptOVpvYjJMM0pIc2I0d3FkdXVhRjdhNVVSN2g4d2Vncm01SFhtUVduRHJXQVV4aGdnZmJ5VW5vLUtyVzFHd21iOFg3ZnpjMVI1RkRPNjFwcGdJaXFuRERTTWJfOU1IdGdVUldJSzQ2d0dfMGl3U3NKemtydVB2TkE?oc=5"
   ],
   [
    "Commodities",
@@ -332,9 +332,9 @@
   [
    "Commodities",
    "med",
-   "OPEC’s Oil Production Nears Prewar Levels on Saudi Rebound",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkZ3Y3c3WE51TWt2RUVhZUdxbk5PM3FCdjNERW94S3NEckxuUVBidkxiRHdHUnl6RGxLZnIwZjh1UTlmak1tOW50MmZWemFEQlY5UUs3Z2pISzVodWhiRjFZSHN0T2xLTkVIV3A0Y0xUbnJOVy1ZRDJYWlNPbGJ6M1VHa2VLN2xMRDlJdkpESnZLZzFoWHc2WFg0eE43dzZsTGlEU1JVQjBkUQ?oc=5"
+   "Oil production nears pre-Iran war levels, OPEC says",
+   "Al Jazeera",
+   "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWVl4QjNFcFhZd1N4V2ZIQlM0ejAwcEVmbUxqXzdmamFJeUE0QXBNU3FoQW9ldGNYdF95QnU2MVZxTGlMX1NiYWZrUVY0S2hKTFlVSGJBZTExY0xfWGl1Q2RobDlQa0M5a1ozU1VYSlBNd2lDYzQwS2FKV0pNNnpJUnNUNDV1RmJYZENBNWVXcVM0R0MyVWfSAZsBQVVfeXFMTVdoNlkwaFM0R0ZuOExoUHowckk2eFNRejVwY1NUM1pnZEp1RDdMdVdGLXM3ZFFCeEJIOE5zdWJZeXJwcTlHLVk5azdLUTV2R0EtaGJ1VHMyb0tiTmp3MHhJVzBZSjBJRURLcF8yWkJvcXhHY2UwTS1wd1JFbkZGMkY1eXcwNk9LTlBkNDh6clNWSUlRRXppdG5QelE?oc=5"
   ]
  ]
 }
