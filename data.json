@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T09:08:02.013Z",
+ "updated": "2026-11-11T10:11:59.056Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -106,65 +106,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1147,
-   "ch": -0.18,
-   "asof": "2026-11-11T09:07:34.000Z"
+   "p": 1.1138,
+   "ch": -0.26,
+   "asof": "2026-11-11T10:11:30.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3319,
-   "ch": -0.2,
-   "asof": "2026-11-11T09:07:34.000Z"
+   "p": 1.3322,
+   "ch": -0.18,
+   "asof": "2026-11-11T10:11:30.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.841,
-   "ch": 0.09,
-   "asof": "2026-11-11T09:08:01.000Z"
+   "p": 158.998,
+   "ch": 0.19,
+   "asof": "2026-11-11T10:11:57.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6872,
-   "ch": 0.01,
-   "asof": "2026-11-11T09:07:34.000Z"
+   "p": 0.6867,
+   "ch": -0.06,
+   "asof": "2026-11-11T10:11:30.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4217,
-   "ch": 0.19,
-   "asof": "2026-11-11T09:08:01.000Z"
+   "p": 1.422,
+   "ch": 0.21,
+   "asof": "2026-11-11T10:11:58.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8281,
-   "ch": 0.45,
-   "asof": "2026-11-11T09:08:01.000Z"
+   "p": 0.8286,
+   "ch": 0.51,
+   "asof": "2026-11-11T10:11:58.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 73708.18,
-   "ch": 0,
-   "asof": "2026-11-11T09:07:57.000Z"
+   "p": 73633.67,
+   "ch": -0.1,
+   "asof": "2026-11-11T10:11:50.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2057.29,
-   "ch": 0.32,
-   "asof": "2026-11-11T09:07:48.000Z"
+   "p": 2052.69,
+   "ch": 0.1,
+   "asof": "2026-11-11T10:11:56.000Z"
   },
   {
    "s": "S&P 500",
@@ -194,17 +194,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4064.5,
-   "ch": 0.85,
-   "asof": "2026-11-11T08:57:50.000Z"
+   "p": 4062.3,
+   "ch": 0.8,
+   "asof": "2026-11-11T10:01:57.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 86.08,
-   "ch": 0.05,
-   "asof": "2026-11-11T08:58:00.000Z"
+   "p": 86.83,
+   "ch": 0.92,
+   "asof": "2026-11-11T10:01:56.000Z"
   },
   {
    "s": "USD/KES",
@@ -218,9 +218,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5367,
-   "ch": 0.1,
-   "asof": "2026-11-11T09:08:02.000Z"
+   "p": 16.5537,
+   "ch": 0.2,
+   "asof": "2026-11-11T10:11:59.000Z"
   },
   {
    "s": "USD/NGN",
@@ -234,17 +234,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 82.97,
-   "ch": -0.35,
-   "asof": "2026-11-11T09:08:00.000Z"
+   "p": 83.33,
+   "ch": 0.09,
+   "asof": "2026-11-11T10:11:58.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.0563,
-   "ch": 0.07,
-   "asof": "2026-11-11T09:07:57.000Z"
+   "p": 1.0578,
+   "ch": 0.21,
+   "asof": "2026-11-11T10:11:54.000Z"
   },
   {
    "s": "Apple",
@@ -274,9 +274,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 52.98,
-   "ch": 3.43,
-   "asof": "2026-11-11T08:57:40.000Z"
+   "p": 53.09,
+   "ch": 3.64,
+   "asof": "2026-11-11T10:01:48.000Z"
   }
  ],
  "news": [
@@ -304,16 +304,16 @@
   [
    "Crypto",
    "med",
-   "Fidelity's Timmer Says Selloff Pushed Bitcoin Correlation With Stocks Higher",
+   "Why Is Crypto Crashing Today? Bitcoin Falls Below $73K as Zcash (ZEC) Leads Crypto Losses",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiowFBVV95cUxObUhhcXBPTWp1R1NWN3VTeHJuZHFWWksxWVktbFlubE9xVmFJVmpPclFSc2VYbDBnWjRBSHkya3NyMkc4Tm1UUV9rQUVsclBpOVFRMWRrelppSks1MWRONnFCSXNVc19lUzNiSFNlSjlhWk1sOW05ZDZULTcwdnVhTEVsV0w5LXpKRkJzSjFJeXVOWTBxNHRRdlM3WldKNWZwUzM4?oc=5"
+   "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSlVFdUctN1doQWlBaWpuX3lSbVAxdi1WTEZpYS1TdkR4S3dvZHVlM0FMUHRnMDVSRnhKeG1xRHpySUhjOW1ZbXR3dWhGX2Zqckt5cV9mSVZ4cmVIYkhGWkxoSmFiWlRpWm94WnNyOVo3ekxCYjBQTlFDRGE4cEVHOUtIbTJPYWZYamhUQ0cxVUVuRDBweEcxUjJjblJZWW8?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Anthropic Prepares to Push Ahead With IPO Despite Market Jitters",
+   "Nasdaq Futures Rally as AI Optimism Returns",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRlNNX2c5SGV4WXdpZ2Utb2NzU0NhVlpUM3MwWEZ3bFdyVHZ5cDZGbnJSWVpEelJrZ0tCQTZrNjUyRTFaLW1JeGxucWtvcEJwOXUyQkwzUkpPQUNEYTFobG9qc3oyTVhHb1VCeDRPck1xU2lla1NtMlY5VkExdmJobDJ6U01LbHgzYjZFTmFHYzFCVjRfM1VxRVJIeE40d3REMXlqT01qQnh5TEg1?oc=5"
+   "https://news.google.com/rss/articles/CBMiogFBVV95cUxPem9ZTW5ac04yQXJsSXE2S29IZl8zSlU0YklYcm1xZW04OWptOVpvYjJMM0pIc2I0d3FkdXVhRjdhNVVSN2g4d2Vncm01SFhtUVduRHJXQVV4aGdnZmJ5VW5vLUtyVzFHd21iOFg3ZnpjMVI1RkRPNjFwcGdJaXFuRERTTWJfOU1IdGdVUldJSzQ2d0dfMGl3U3NKemtydVB2TkE?oc=5"
   ],
   [
    "Stocks",
