@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T23:02:04.700Z",
+ "updated": "2026-11-11T23:57:45.697Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -108,63 +108,63 @@
    "d": 4,
    "p": 1.1098,
    "ch": -0.62,
-   "asof": "2026-11-11T23:01:30.000Z"
+   "asof": "2026-11-11T23:57:31.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.328,
-   "ch": -0.49,
-   "asof": "2026-11-11T23:01:30.000Z"
+   "p": 1.3277,
+   "ch": -0.52,
+   "asof": "2026-11-11T23:57:31.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 159.669,
-   "ch": 0.61,
-   "asof": "2026-11-11T23:02:04.000Z"
+   "p": 159.747,
+   "ch": 0.66,
+   "asof": "2026-11-11T23:57:44.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6848,
-   "ch": -0.33,
-   "asof": "2026-11-11T23:01:30.000Z"
+   "p": 0.6846,
+   "ch": -0.36,
+   "asof": "2026-11-11T23:57:31.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4246,
-   "ch": 0.39,
-   "asof": "2026-11-11T23:02:04.000Z"
+   "p": 1.4248,
+   "ch": 0.41,
+   "asof": "2026-11-11T23:57:45.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8324,
-   "ch": 0.97,
-   "asof": "2026-11-11T23:02:02.000Z"
+   "p": 0.8323,
+   "ch": 0.96,
+   "asof": "2026-11-11T23:57:45.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 73877.75,
-   "ch": 0.23,
-   "asof": "2026-11-11T23:02:02.000Z"
+   "p": 74031.47,
+   "ch": 0.44,
+   "asof": "2026-11-11T23:57:41.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2055.84,
-   "ch": 0.25,
-   "asof": "2026-11-11T23:02:02.000Z"
+   "p": 2058.67,
+   "ch": 0.39,
+   "asof": "2026-11-11T23:57:41.000Z"
   },
   {
    "s": "S&P 500",
@@ -194,17 +194,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3994.3,
-   "ch": -0.15,
-   "asof": "2026-11-11T21:59:59.000Z"
+   "p": 3985.3,
+   "ch": -0.38,
+   "asof": "2026-11-11T23:47:44.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 86.42,
-   "ch": -0.13,
-   "asof": "2026-11-11T21:59:55.000Z"
+   "p": 86.25,
+   "ch": -0.32,
+   "asof": "2026-11-11T23:47:19.000Z"
   },
   {
    "s": "USD/KES",
@@ -218,9 +218,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5927,
-   "ch": 0.44,
-   "asof": "2026-11-11T23:02:02.000Z"
+   "p": 16.6004,
+   "ch": 0.48,
+   "asof": "2026-11-11T23:57:45.000Z"
   },
   {
    "s": "USD/NGN",
@@ -234,17 +234,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 83.46,
-   "ch": 0.24,
-   "asof": "2026-11-11T23:02:02.000Z"
+   "p": 83.39,
+   "ch": 0.16,
+   "asof": "2026-11-11T23:57:39.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.0547,
-   "ch": -0.09,
-   "asof": "2026-11-11T23:02:04.000Z"
+   "p": 1.0534,
+   "ch": -0.21,
+   "asof": "2026-11-11T23:57:34.000Z"
   },
   {
    "s": "Apple",
@@ -274,9 +274,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 51.68,
-   "ch": -0.62,
-   "asof": "2026-11-11T21:59:50.000Z"
+   "p": 51.225,
+   "ch": -1.49,
+   "asof": "2026-11-11T23:47:47.000Z"
   }
  ],
  "news": [
@@ -304,9 +304,9 @@
   [
    "Crypto",
    "med",
-   "Nomura Explores Possible Sale of Laser Digital Crypto Unit",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxOei1tazJkRXZvakJyRmJ5Xy1jeXpCQld4MGRRUmdmc3dvelRSWnRfRWRGc1pxZGV0T09GUEdGWGk2V1I1d0FPazlYREZSczN4RW9JNkoydzlFOVJ3WjlxbjNESlI2a1dEMjFKV0RVMURkX2ZITGhseU9pbl96V084bmZmYi0zcjhqQm9UNk51aXRPQ0ZlZ0xSVkFGb2FtamZhYTFKNlFkVEdNTU91RUE?oc=5"
+   "Ethereum ETH (ETH-USD) Live Price, News, Chart and Price History",
+   "Yahoo Finance UK",
+   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TZkNwOEhGSDZJZkNPeVAxUXR3Y3hHNW1DVHd6ZFk1WmcwXzFVamZsc1pjSVVVZEdfdzJrRHFfV21yV1pxdzROV1JvSmRDN243dFlodHZB?oc=5"
   ],
   [
    "Stocks",
@@ -318,9 +318,9 @@
   [
    "Stocks",
    "med",
-   "Funds Warn Brazil $126 Billion Stock Market Rout Isn’t Over Yet",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbGtudWlSQ3hmb0xIWlRJY3g0bEFlRzlXWlV6b0JqY3VnTnZxeDItUFRkMFBXc0tUdEtwOG5GTG5xSHFkOTFZdWZ5Qm93bjJ0VEVzbVV1d25qcHJSVV9lT1h3WUVSdk82WTk3NG9xM2k3bFdtckdZWHh0NEpJN0hGM2U0MFdKVWNsN2s2T01ocnhZNlNNMEtrcENOUUxndFZqcHRTekpnZE1YcHJFVld1aE1Qbw?oc=5"
+   "Exclusive | Nvidia Is Preparing to Oust CEO Jensen Huang",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2VaZ01EcWdXc1ZGb3plNUNMM294WGZlT0tTbWw2SFNPOHZ3ZERtQlR6RkhLRWF2cHExRnNfWGZINm1NWVoxVjRSUDRTVXRFb1RaRGcyMXFUdEd0LWtlME5SVHJETVdzOHR6eHhyNXJLVXF6cldFbnhHMXcydFMzTGhzVnhWN2RQX2d0X1N4QVZvdUU?oc=5"
   ],
   [
    "Commodities",
