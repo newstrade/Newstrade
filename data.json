@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T21:45:35.555Z",
+ "updated": "2026-11-11T23:02:04.700Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -106,33 +106,33 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1093,
-   "ch": -0.66,
-   "asof": "2026-11-11T21:45:34.000Z"
+   "p": 1.1098,
+   "ch": -0.62,
+   "asof": "2026-11-11T23:01:30.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3274,
-   "ch": -0.54,
-   "asof": "2026-11-11T21:45:34.000Z"
+   "p": 1.328,
+   "ch": -0.49,
+   "asof": "2026-11-11T23:01:30.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 159.805,
-   "ch": 0.7,
-   "asof": "2026-11-11T21:45:31.000Z"
+   "p": 159.669,
+   "ch": 0.61,
+   "asof": "2026-11-11T23:02:04.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6849,
-   "ch": -0.32,
-   "asof": "2026-11-11T21:45:34.000Z"
+   "p": 0.6848,
+   "ch": -0.33,
+   "asof": "2026-11-11T23:01:30.000Z"
   },
   {
    "s": "USD/CAD",
@@ -140,31 +140,31 @@
    "d": 4,
    "p": 1.4246,
    "ch": 0.39,
-   "asof": "2026-11-11T21:45:35.000Z"
+   "asof": "2026-11-11T23:02:04.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8331,
-   "ch": 1.06,
-   "asof": "2026-11-11T21:45:33.000Z"
+   "p": 0.8324,
+   "ch": 0.97,
+   "asof": "2026-11-11T23:02:02.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 74436.05,
-   "ch": 0.99,
-   "asof": "2026-11-11T21:45:34.000Z"
+   "p": 73877.75,
+   "ch": 0.23,
+   "asof": "2026-11-11T23:02:02.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2073.49,
-   "ch": 1.11,
-   "asof": "2026-11-11T21:45:31.000Z"
+   "p": 2055.84,
+   "ch": 0.25,
+   "asof": "2026-11-11T23:02:02.000Z"
   },
   {
    "s": "S&P 500",
@@ -180,7 +180,7 @@
    "d": 2,
    "p": 25466.19,
    "ch": 1.6,
-   "asof": "2026-11-11T21:45:35.000Z"
+   "asof": "2026-11-11T22:15:59.000Z"
   },
   {
    "s": "Dow Jones",
@@ -194,17 +194,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3991.7,
-   "ch": -0.96,
-   "asof": "2026-11-11T21:35:34.000Z"
+   "p": 3994.3,
+   "ch": -0.15,
+   "asof": "2026-11-11T21:59:59.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 86.41,
-   "ch": 0.43,
-   "asof": "2026-11-11T21:35:34.000Z"
+   "p": 86.42,
+   "ch": -0.13,
+   "asof": "2026-11-11T21:59:55.000Z"
   },
   {
    "s": "USD/KES",
@@ -212,15 +212,15 @@
    "d": 2,
    "p": 129.85,
    "ch": -0.01,
-   "asof": "2026-11-11T21:04:07.000Z"
+   "asof": "2026-11-11T22:47:06.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5934,
+   "p": 16.5927,
    "ch": 0.44,
-   "asof": "2026-11-11T21:45:35.000Z"
+   "asof": "2026-11-11T23:02:02.000Z"
   },
   {
    "s": "USD/NGN",
@@ -228,23 +228,23 @@
    "d": 2,
    "p": 1345.18,
    "ch": -0.22,
-   "asof": "2026-11-11T21:04:07.000Z"
+   "asof": "2026-11-11T22:47:06.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 84.65,
-   "ch": 1.67,
-   "asof": "2026-11-11T21:45:31.000Z"
+   "p": 83.46,
+   "ch": 0.24,
+   "asof": "2026-11-11T23:02:02.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.0621,
-   "ch": 0.62,
-   "asof": "2026-11-11T21:45:30.000Z"
+   "p": 1.0547,
+   "ch": -0.09,
+   "asof": "2026-11-11T23:02:04.000Z"
   },
   {
    "s": "Apple",
@@ -274,9 +274,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 51.705,
-   "ch": 0.94,
-   "asof": "2026-11-11T21:35:26.000Z"
+   "p": 51.68,
+   "ch": -0.62,
+   "asof": "2026-11-11T21:59:50.000Z"
   }
  ],
  "news": [
@@ -318,16 +318,9 @@
   [
    "Stocks",
    "med",
-   "Nasdaq Jumps After CoreWeave Re-Energizes AI Trade",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiogFBVV95cUxPem9ZTW5ac04yQXJsSXE2S29IZl8zSlU0YklYcm1xZW04OWptOVpvYjJMM0pIc2I0d3FkdXVhRjdhNVVSN2g4d2Vncm01SFhtUVduRHJXQVV4aGdnZmJ5VW5vLUtyVzFHd21iOFg3ZnpjMVI1RkRPNjFwcGdJaXFuRERTTWJfOU1IdGdVUldJSzQ2d0dfMGl3U3NKemtydVB2TkE?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "OPEC+ oil output in October nears pre-Iran war rate, led by Saudi Arabia",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDZlTWwtdThPTnp0UjFXeXowU3I2SzZTbDA1Zk9BZUJER0dMV1o3S2oza0sxUmxlT2xhb2k4Ykx1TDlORm5zNVdJSk8wVzZBM2VRV2xFUlpJQTdiTTJJY1ZULXJNbjIyaWVudGx5UUNjZWlMaGRJcXZHVjBmUkUxVmVxZC1FUWk0SUFmZkFQZGhaeFVPdWtkV2xIQ0hRT1ZDWGYySlk3RHdRTDloMDlLdQ?oc=5"
+   "Funds Warn Brazil $126 Billion Stock Market Rout Isn’t Over Yet",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbGtudWlSQ3hmb0xIWlRJY3g0bEFlRzlXWlV6b0JqY3VnTnZxeDItUFRkMFBXc0tUdEtwOG5GTG5xSHFkOTFZdWZ5Qm93bjJ0VEVzbVV1d25qcHJSVV9lT1h3WUVSdk82WTk3NG9xM2k3bFdtckdZWHh0NEpJN0hGM2U0MFdKVWNsN2s2T01ocnhZNlNNMEtrcENOUUxndFZqcHRTekpnZE1YcHJFVld1aE1Qbw?oc=5"
   ],
   [
    "Commodities",
@@ -335,6 +328,13 @@
    "Oil production nears pre-Iran war levels, OPEC says",
    "Al Jazeera",
    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWVl4QjNFcFhZd1N4V2ZIQlM0ejAwcEVmbUxqXzdmamFJeUE0QXBNU3FoQW9ldGNYdF95QnU2MVZxTGlMX1NiYWZrUVY0S2hKTFlVSGJBZTExY0xfWGl1Q2RobDlQa0M5a1ozU1VYSlBNd2lDYzQwS2FKV0pNNnpJUnNUNDV1RmJYZENBNWVXcVM0R0MyVWfSAZsBQVVfeXFMTVdoNlkwaFM0R0ZuOExoUHowckk2eFNRejVwY1NUM1pnZEp1RDdMdVdGLXM3ZFFCeEJIOE5zdWJZeXJwcTlHLVk5azdLUTV2R0EtaGJ1VHMyb0tiTmp3MHhJVzBZSjBJRURLcF8yWkJvcXhHY2UwTS1wd1JFbkZGMkY1eXcwNk9LTlBkNDh6clNWSUlRRXppdG5QelE?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "OPEC+ oil output in October nears pre-Iran war rate, led by Saudi Arabia",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDZlTWwtdThPTnp0UjFXeXowU3I2SzZTbDA1Zk9BZUJER0dMV1o3S2oza0sxUmxlT2xhb2k4Ykx1TDlORm5zNVdJSk8wVzZBM2VRV2xFUlpJQTdiTTJJY1ZULXJNbjIyaWVudGx5UUNjZWlMaGRJcXZHVjBmUkUxVmVxZC1FUWk0SUFmZkFQZGhaeFVPdWtkV2xIQ0hRT1ZDWGYySlk3RHdRTDloMDlLdQ?oc=5"
   ]
  ]
 }
