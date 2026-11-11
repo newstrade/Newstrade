@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T01:19:27.018Z",
+ "updated": "2026-11-11T03:00:15.152Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -106,65 +106,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1163,
-   "ch": -0.04,
-   "asof": "2026-11-11T01:18:29.000Z"
+   "p": 1.1169,
+   "ch": 0.02,
+   "asof": "2026-11-11T02:59:32.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3345,
-   "ch": -0.01,
-   "asof": "2026-11-11T01:18:29.000Z"
+   "p": 1.3348,
+   "ch": 0.01,
+   "asof": "2026-11-11T02:59:32.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.936,
-   "ch": 0.15,
-   "asof": "2026-11-11T01:19:26.000Z"
+   "p": 158.792,
+   "ch": 0.06,
+   "asof": "2026-11-11T03:00:05.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6877,
-   "ch": 0.09,
-   "asof": "2026-11-11T01:17:29.000Z"
+   "p": 0.688,
+   "ch": 0.13,
+   "asof": "2026-11-11T02:59:32.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.419,
-   "ch": 0,
-   "asof": "2026-11-11T01:19:25.000Z"
+   "p": 1.4196,
+   "ch": 0.04,
+   "asof": "2026-11-11T03:00:14.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.826,
-   "ch": 0.19,
-   "asof": "2026-11-11T01:19:26.000Z"
+   "p": 0.8257,
+   "ch": 0.16,
+   "asof": "2026-11-11T03:00:15.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 73399.99,
-   "ch": -0.42,
-   "asof": "2026-11-11T01:19:23.000Z"
+   "p": 73533.66,
+   "ch": -0.24,
+   "asof": "2026-11-11T03:00:12.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2045.09,
-   "ch": -0.27,
-   "asof": "2026-11-11T01:19:22.000Z"
+   "p": 2055.83,
+   "ch": 0.25,
+   "asof": "2026-11-11T03:00:08.000Z"
   },
   {
    "s": "S&P 500",
@@ -194,17 +194,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4038.8,
-   "ch": 0.21,
-   "asof": "2026-11-11T01:09:21.000Z"
+   "p": 4049.6,
+   "ch": 0.48,
+   "asof": "2026-11-11T02:50:12.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 86.64,
-   "ch": 0.7,
-   "asof": "2026-11-11T01:09:22.000Z"
+   "p": 86.68,
+   "ch": 0.74,
+   "asof": "2026-11-11T02:50:10.000Z"
   },
   {
    "s": "USD/KES",
@@ -212,15 +212,15 @@
    "d": 2,
    "p": 129.86,
    "ch": 0,
-   "asof": "2026-11-11T00:33:30.000Z"
+   "asof": "2026-11-11T02:49:42.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5254,
-   "ch": 0.03,
-   "asof": "2026-11-11T01:19:26.000Z"
+   "p": 16.5088,
+   "ch": -0.07,
+   "asof": "2026-11-11T03:00:15.000Z"
   },
   {
    "s": "USD/NGN",
@@ -228,23 +228,23 @@
    "d": 2,
    "p": 1348.2,
    "ch": 0,
-   "asof": "2026-11-11T00:33:30.000Z"
+   "asof": "2026-11-11T02:49:42.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 82.93,
-   "ch": -0.39,
-   "asof": "2026-11-11T01:19:22.000Z"
+   "p": 83.11,
+   "ch": -0.18,
+   "asof": "2026-11-11T03:00:08.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.0492,
-   "ch": -0.61,
-   "asof": "2026-11-11T01:19:22.000Z"
+   "p": 1.0551,
+   "ch": -0.05,
+   "asof": "2026-11-11T03:00:11.000Z"
   },
   {
    "s": "Apple",
@@ -274,9 +274,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 51.51,
-   "ch": 0.56,
-   "asof": "2026-11-11T01:09:04.000Z"
+   "p": 52.3,
+   "ch": 2.1,
+   "asof": "2026-11-11T02:50:16.000Z"
   }
  ],
  "news": [
@@ -297,16 +297,23 @@
   [
    "Crypto",
    "med",
+   "Ethereum ETH (ETH-USD) Live Price, News, Chart and Price History",
+   "Yahoo Finance UK",
+   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TZkNwOEhGSDZJZkNPeVAxUXR3Y3hHNW1DVHd6ZFk1WmcwXzFVamZsc1pjSVVVZEdfdzJrRHFfV21yV1pxdzROV1JvSmRDN243dFlodHZB?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
    "Bitcoin’s Risk Barometer Is Breaking Down",
    "Bloomberg.com",
    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd1lkemlKMW4yY2NWQl92MDdyb2JwWXdTVmNqWWZQbW0wYmxCMFFJWFNIOFJVRjJjYVJsUDhoYWZ0NnYwUmFoMUxOWURGdlNYU1RpLU8yWjh3QWhWVkczNmN0RHctRlMzeUVFMFE0eUM2Qm8yWWhxRHB3QjBVOGRvVEthRDNtal9oUU83eFBiWEVhZXpacHlMeTdpWQ?oc=5"
   ],
   [
-   "Crypto",
+   "Stocks",
    "med",
-   "Current price of Ethereum for November 10, 2026",
-   "Fortune",
-   "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pdjdsNTdZVnZ6NWU0MkpYeDNJd1U4aUZNbFBOb1diOFh2Sk9NT29ZMjRPcUlHWjQtcm1UZjk5NWU5d2dCQ05Vdmo1S2lySzRNUUx6cnJ4c3NZNjRxVzFGRzY5bFhpWWZz?oc=5"
+   "CoreWeave Meets Wall Street Expectations, Shares Rise",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMilgFBVV95cUxORXZHb0p5N004NFVNNVA1OU9JSDVseExtMURtc3plQk9pU3o3ZGd1enh3UEtLSHhQMndCQTR5aE4wREd3WUV2am81c1FuMDh1bnl6S0pCYmVPRlVMYWxWRk8zM2x5T2ZWWWktT1ZuV1FzUTZLeHJKaU9adlBVakliRUt4TWRwajJIc2cyV0hfR0F5TG9ucmc?oc=5"
   ],
   [
    "Stocks",
@@ -314,13 +321,6 @@
    "Wall St ends lower as hot inflation data, Fed comments heighten rate worries",
    "Reuters",
    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEE5eGJXT1lYRVFJMUpWb2VCTENjZ2hBNWk0QWl5QVZBNmJ4TFBodVUtRVRzV0JubVE0NFJYRFlmYkpuc0tlbTBValFhV0ppcGdYNEZERXV4ZnhLZUJKTF9fUzZEeHM3cDRwdmlMdUVIUWlERHprb3lKakQ1S1gzSmI5LVZYWWx2cTBjVC1sVEc1OG8tOS0ta0k5VQ?oc=5"
-  ],
-  [
-   "Stocks",
-   "high",
-   "Hot Inflation Revives Wall Street’s Rate Hike Fears",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxQbVpnYlhfQ3NfUkEwUElWVElGN2ZHaVJYSkhNWHVrOGUybEpBYnFFaGdLZk5ndUpqNElZWnhnTkpjNGpfQTVXOVdQM2FvV29nV3ZScWEzdUtUVWxiYzUxQ2JuNGk5VG1QQmtUeWswUHRJbWw0Z2NUMlZaTWxHZEFCWDk0UlVsc3gwNWZzVHRVaV91TTZUT05vSklmZEJUQQ?oc=5"
   ],
   [
    "Commodities",
