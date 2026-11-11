@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T19:12:38.094Z",
+ "updated": "2026-11-11T20:10:59.479Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -106,33 +106,33 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1094,
-   "ch": -0.65,
-   "asof": "2026-11-11T19:12:31.000Z"
+   "p": 1.1096,
+   "ch": -0.64,
+   "asof": "2026-11-11T20:10:32.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3274,
-   "ch": -0.54,
-   "asof": "2026-11-11T19:12:31.000Z"
+   "p": 1.3279,
+   "ch": -0.5,
+   "asof": "2026-11-11T20:10:32.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 159.883,
-   "ch": 0.74,
-   "asof": "2026-11-11T19:12:38.000Z"
+   "p": 159.858,
+   "ch": 0.73,
+   "asof": "2026-11-11T20:10:47.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.685,
-   "ch": -0.31,
-   "asof": "2026-11-11T19:11:31.000Z"
+   "p": 0.6853,
+   "ch": -0.26,
+   "asof": "2026-11-11T20:09:32.000Z"
   },
   {
    "s": "USD/CAD",
@@ -140,71 +140,71 @@
    "d": 4,
    "p": 1.4246,
    "ch": 0.39,
-   "asof": "2026-11-11T19:12:37.000Z"
+   "asof": "2026-11-11T20:10:58.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8333,
-   "ch": 1.08,
-   "asof": "2026-11-11T19:12:37.000Z"
+   "p": 0.8329,
+   "ch": 1.03,
+   "asof": "2026-11-11T20:10:56.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 74161.98,
-   "ch": 0.61,
-   "asof": "2026-11-11T19:12:34.000Z"
+   "p": 74405.41,
+   "ch": 0.94,
+   "asof": "2026-11-11T20:10:54.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2071.45,
-   "ch": 1.01,
-   "asof": "2026-11-11T19:12:33.000Z"
+   "p": 2077.44,
+   "ch": 1.31,
+   "asof": "2026-11-11T20:10:58.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7626,
-   "ch": 1.4,
-   "asof": "2026-11-11T19:12:38.000Z"
+   "p": 7625.08,
+   "ch": 1.38,
+   "asof": "2026-11-11T20:10:59.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 25541.186,
-   "ch": 1.9,
-   "asof": "2026-11-11T19:12:36.000Z"
+   "p": 25505.922,
+   "ch": 1.76,
+   "asof": "2026-11-11T20:10:55.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52421.32,
-   "ch": 0.36,
-   "asof": "2026-11-11T19:12:38.000Z"
+   "p": 52481.13,
+   "ch": 0.48,
+   "asof": "2026-11-11T20:10:59.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3995.2,
-   "ch": -0.87,
-   "asof": "2026-11-11T19:02:32.000Z"
+   "p": 3993,
+   "ch": -0.92,
+   "asof": "2026-11-11T20:00:54.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 87.14,
-   "ch": 1.28,
-   "asof": "2026-11-11T19:02:31.000Z"
+   "p": 86.23,
+   "ch": 0.22,
+   "asof": "2026-11-11T20:00:45.000Z"
   },
   {
    "s": "USD/KES",
@@ -218,9 +218,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6009,
-   "ch": 0.49,
-   "asof": "2026-11-11T19:12:38.000Z"
+   "p": 16.5873,
+   "ch": 0.4,
+   "asof": "2026-11-11T20:10:58.000Z"
   },
   {
    "s": "USD/NGN",
@@ -234,49 +234,49 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 84.5,
-   "ch": 1.49,
-   "asof": "2026-11-11T19:12:30.000Z"
+   "p": 84.84,
+   "ch": 1.9,
+   "asof": "2026-11-11T20:10:57.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.0577,
-   "ch": 0.2,
-   "asof": "2026-11-11T19:12:34.000Z"
+   "p": 1.06,
+   "ch": 0.42,
+   "asof": "2026-11-11T20:10:59.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 354.78,
-   "ch": 1.8,
-   "asof": "2026-11-11T19:12:37.000Z"
+   "p": 355.055,
+   "ch": 1.88,
+   "asof": "2026-11-11T20:11:01.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 392.69,
-   "ch": 3.4,
-   "asof": "2026-11-11T19:12:39.000Z"
+   "p": 390.87,
+   "ch": 2.92,
+   "asof": "2026-11-11T20:10:59.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 175.75,
-   "ch": 4.12,
-   "asof": "2026-11-11T19:12:37.000Z"
+   "p": 174.7698,
+   "ch": 3.54,
+   "asof": "2026-11-11T20:10:59.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 51.91,
-   "ch": 1.34,
-   "asof": "2026-11-11T19:02:38.000Z"
+   "p": 51.815,
+   "ch": 1.15,
+   "asof": "2026-11-11T20:01:00.000Z"
   }
  ],
  "news": [
@@ -290,9 +290,9 @@
   [
    "Forex",
    "med",
-   "China's central bank vows to step up policy support for the economy",
+   "Brazil's central bank chief sees negative value in providing policy guidance",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNncxU3NCdkhlZnJiY0psUGxYalpGa1FLS1BlNkpoYWpQSlg0T3A3VEFMN1RHbVBMaDROSUpSNFpoUktITUxBemhjSVNSR2dRWV9IamNIcHdfc3FxLTlQZnB4T3kzbTIxVnJpYUJWbnlKXzVSVGtJck92RDZHdlV0YnVreGlDWmI3OXU1RGo2LUdpZE9kd1kyVDdLQ0I0X3drN0V0UlFBbmxxbTBIY1JJ?oc=5"
+   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQzBNTVJyNkhQZTRVWFA4aEdobHowbUxzM2pqX21sYS00cEtLWGJEbGFvVUVTenNOVWZZdlFKb05Ba1ZyNDZ4ZE5xbTFlbnFxSklkdlNMZi1yYWFQRlpSbXhwcVJDQ25DWGdCcUxVZDBfQWxoNklLSjYyQVZDM1FjSE16MzdhbUgxV2xmTkFZa2dQaDNoZVJWUUFfTEZCZWo4OXV3NGRrZEwtdVN4SlhWczY4QTVOelRlaDlGM3F2V2g?oc=5"
   ],
   [
    "Crypto",
@@ -304,23 +304,23 @@
   [
    "Crypto",
    "med",
-   "What Will Bitcoin and Ethereum Be Worth in 5 Years?",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTG5UY1MzMnhDcDhMS0I3cHFiWkNCbWVUR0VxWEV3bnhSb1lBOXpiUGZNUXBuN0VqUG5VNG5obGd5bHlBWHRsY3dNRW5mLVh4eF9FZlZwazVpUkxrNmVsMlZOcENMTFQzVUVyTXA2ZFJ4dlIyelU2QUp5ektRRnZ6YWYxZHdNc1kxMy1jeFpISUt1amlTeTFBcDJDWQ?oc=5"
+   "Nomura Explores Possible Sale of Laser Digital Crypto Unit",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxOei1tazJkRXZvakJyRmJ5Xy1jeXpCQld4MGRRUmdmc3dvelRSWnRfRWRGc1pxZGV0T09GUEdGWGk2V1I1d0FPazlYREZSczN4RW9JNkoydzlFOVJ3WjlxbjNESlI2a1dEMjFKV0RVMURkX2ZITGhseU9pbl96V084bmZmYi0zcjhqQm9UNk51aXRPQ0ZlZ0xSVkFGb2FtamZhYTFKNlFkVEdNTU91RUE?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "S&P 500, Nasdaq rise over 1% as CoreWeave results calm AI spending jitters",
+   "Stocks climb as CoreWeave results ease AI spending concerns",
    "Reuters",
    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUVZoWU1fQUd2Y1M2Qnl1T2JaMTkwaXBkaDIwWjVHejZoQmdDUnVzUVlSWDVsWW1pVDRVcXQ2ZTdrRTRiMDdMNWJDS3Atem91bUpDMnFLUkZ6NjhjaTliYWV1ODRLMnk0Slh3Wk5wNGtHTDhvaEZpTFIyUlVpQ2tNdTUyb2ZLbEZGOHlTZWRJNzVScUpIS3V5a1FacGwzby00RURBa2htZFFqZmw3Z2pRS2NDWQ?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Nasdaq Jumps After CoreWeave Earnings",
+   "Exclusive | U.S. Aircraft Evacuated From Second U.K. Base Due to Iran Threat",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMiogFBVV95cUxPem9ZTW5ac04yQXJsSXE2S29IZl8zSlU0YklYcm1xZW04OWptOVpvYjJMM0pIc2I0d3FkdXVhRjdhNVVSN2g4d2Vncm01SFhtUVduRHJXQVV4aGdnZmJ5VW5vLUtyVzFHd21iOFg3ZnpjMVI1RkRPNjFwcGdJaXFuRERTTWJfOU1IdGdVUldJSzQ2d0dfMGl3U3NKemtydVB2TkE?oc=5"
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0tDaWxJVnFUVzlrbFZ4UlNRWTRpdWdidXRnenUzSVlISnNTT1RNaDRNWC1iWU9PZXdPTHRQUUJOTlJaOFRLdWxodDBhV3hINllRODNtSnVtdVU5ZHZMcWN1Q0h5ejJUVHB2WGpyVWxJU2ZFTGtROC11SUJTdU1DNWt5MUNiRTFfSmNkMjhrcU1aODh6bEQ2SThibDcxMUIzUmx4TDRsR1cxcUNta0E?oc=5"
   ],
   [
    "Commodities",
