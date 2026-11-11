@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T05:12:49.535Z",
+ "updated": "2026-11-11T06:12:37.453Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -106,65 +106,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1169,
-   "ch": 0.02,
-   "asof": "2026-11-11T05:12:29.000Z"
+   "p": 1.1161,
+   "ch": -0.05,
+   "asof": "2026-11-11T06:12:30.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.335,
-   "ch": 0.03,
-   "asof": "2026-11-11T05:12:29.000Z"
+   "p": 1.3341,
+   "ch": -0.04,
+   "asof": "2026-11-11T06:12:30.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.757,
-   "ch": 0.03,
-   "asof": "2026-11-11T05:12:48.000Z"
+   "p": 158.799,
+   "ch": 0.06,
+   "asof": "2026-11-11T06:12:36.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6881,
-   "ch": 0.15,
-   "asof": "2026-11-11T05:11:29.000Z"
+   "p": 0.6877,
+   "ch": 0.09,
+   "asof": "2026-11-11T06:11:30.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4197,
-   "ch": 0.05,
-   "asof": "2026-11-11T05:12:49.000Z"
+   "p": 1.4208,
+   "ch": 0.13,
+   "asof": "2026-11-11T06:12:37.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8258,
-   "ch": 0.17,
-   "asof": "2026-11-11T05:12:42.000Z"
+   "p": 0.8264,
+   "ch": 0.24,
+   "asof": "2026-11-11T06:12:36.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 73657.86,
-   "ch": -0.07,
-   "asof": "2026-11-11T05:12:48.000Z"
+   "p": 73756.75,
+   "ch": 0.06,
+   "asof": "2026-11-11T06:12:36.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2061.09,
-   "ch": 0.51,
-   "asof": "2026-11-11T05:12:46.000Z"
+   "p": 2065.36,
+   "ch": 0.72,
+   "asof": "2026-11-11T06:12:32.000Z"
   },
   {
    "s": "S&P 500",
@@ -194,17 +194,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 4054.8,
-   "ch": 0.61,
-   "asof": "2026-11-11T05:02:42.000Z"
+   "p": 4063.2,
+   "ch": 0.82,
+   "asof": "2026-11-11T06:02:29.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 86.61,
-   "ch": 0.66,
-   "asof": "2026-11-11T05:02:42.000Z"
+   "p": 86.63,
+   "ch": 0.69,
+   "asof": "2026-11-11T06:02:31.000Z"
   },
   {
    "s": "USD/KES",
@@ -218,9 +218,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.5074,
-   "ch": -0.08,
-   "asof": "2026-11-11T05:12:50.000Z"
+   "p": 16.5286,
+   "ch": 0.05,
+   "asof": "2026-11-11T06:12:37.000Z"
   },
   {
    "s": "USD/NGN",
@@ -234,17 +234,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 82.66,
-   "ch": -0.72,
-   "asof": "2026-11-11T05:12:47.000Z"
+   "p": 83.01,
+   "ch": -0.3,
+   "asof": "2026-11-11T06:12:32.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.0534,
-   "ch": -0.21,
-   "asof": "2026-11-11T05:12:45.000Z"
+   "p": 1.0588,
+   "ch": 0.3,
+   "asof": "2026-11-11T06:12:32.000Z"
   },
   {
    "s": "Apple",
@@ -274,9 +274,9 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 52.535,
-   "ch": 2.56,
-   "asof": "2026-11-11T05:02:42.000Z"
+   "p": 52.92,
+   "ch": 3.31,
+   "asof": "2026-11-11T06:02:32.000Z"
   }
  ],
  "news": [
@@ -304,9 +304,9 @@
   [
    "Crypto",
    "med",
-   "Ethereum ETH (ETH-USD) Live Price, News, Chart and Price History",
-   "Yahoo Finance UK",
-   "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TZkNwOEhGSDZJZkNPeVAxUXR3Y3hHNW1DVHd6ZFk1WmcwXzFVamZsc1pjSVVVZEdfdzJrRHFfV21yV1pxdzROV1JvSmRDN243dFlodHZB?oc=5"
+   "Hyperscale Data Sells Last Bitcoin, Abandons $100M BTC Treasury Plan To Fund Michigan AI Data Center",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd1laYkFoTzFlMl82ZUdEWlVCWmM4Y19UUGs1ZUFQQ1VBQ3ZrSEI4aW8yamFHY1VianFlUURjMnlpM1dCUDZBcWl6Y3JqdXN4Z3dxSDRaVlVoWUdtMFJaSmh3WEpOYVBIS08xbGtMbE1DMzVzZmJoT19Da0kyY1pkUmlXRW9hWmtRMW9WdG9PSzFvVEJ5Rk5wTkdEdmJlWVVZ?oc=5"
   ],
   [
    "Stocks",
@@ -331,10 +331,10 @@
   ],
   [
    "Commodities",
-   "med",
-   "API Shows Sharp Build in US Crude Oil, Distillate Inventories",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQnZZN183alRBaUVPT2FqbEJBRHlSNHZmQWc3RVN0LVFnRWE3VkdWZDFQWkJOXzhSR0xoc1pRbUhmMFFldXZCekNEeTMya05CUU8wQi1jYUo2YWNUWVIyMVphUGJ0Q1RVb3RlQ2NlUDQydHVBLTR2NTNTMEg1eUo2b19nOHNlSGVxaDl1RVJmbm55NTJ0bTBwRWFZclh3d1FuWkhLWjR3cTQtVjZXV1RkNmJhTTJ5RmfSAbwBQVVfeXFMTXJUTnRpc1A5dEszWWV2a005MkVZeWszV2N5Skw3dV9fbWlvLTNtNV9EcXBCaHN2Z0NUenVYRWR3Mm83VGozNW02ZFZKWU95SW5ua0FzbHFlOHFYVG1DS2syYmZIY1ZDb3phQ04zNVZQblZLVkZQWjNRWkRoMnZLeFBUVjJOYzE5WjF3a19HaDk1ek5Ic2VJNzgyTHdSdEZnR19tT0pfNmd0ak1oTlNwdkhLcllKblVSX1RWQlI?oc=5"
+   "high",
+   "Jim Cramer Ties CPI Relief to $40 Oil, but Brent Trades Over $92",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQWhXbXAwZHd6RUxXWmFYQTF1dVQtWnNsc1FJOGtLaE53UWZLc2FRaGNrUXItU1gwVVdFT2NLa2VCc0F2RTZMakZjZjd3c0g3YklsM3ZyLVBWZDFTSnl6Qk5Yd2tHcXV1S2J5bkhnTEtFZi1MeE1yY3lFdVRRRmZWX3lPd2RkV1ItbTlWR3pYc1U0NTF2cVE?oc=5"
   ]
  ]
 }
