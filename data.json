@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T04:07:46.020Z",
+ "updated": "2026-11-12T05:13:47.762Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -106,65 +106,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1079,
-   "ch": -0.1,
-   "asof": "2026-11-12T04:05:31.000Z"
+   "p": 1.1084,
+   "ch": -0.05,
+   "asof": "2026-11-12T05:13:32.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3258,
-   "ch": -0.14,
-   "asof": "2026-11-12T04:05:31.000Z"
+   "p": 1.3261,
+   "ch": -0.11,
+   "asof": "2026-11-12T05:13:32.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 159.731,
+   "p": 159.716,
    "ch": 0.01,
-   "asof": "2026-11-12T04:05:42.000Z"
+   "asof": "2026-11-12T05:13:46.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6846,
-   "ch": -0.09,
-   "asof": "2026-11-12T04:05:31.000Z"
+   "p": 0.684,
+   "ch": -0.18,
+   "asof": "2026-11-12T05:13:32.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4259,
-   "ch": 0.08,
-   "asof": "2026-11-12T04:05:42.000Z"
+   "p": 1.4257,
+   "ch": 0.06,
+   "asof": "2026-11-12T05:13:47.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8332,
-   "ch": 0.17,
-   "asof": "2026-11-12T04:05:42.000Z"
+   "p": 0.8329,
+   "ch": 0.13,
+   "asof": "2026-11-12T05:13:44.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 73738.72,
-   "ch": -0.25,
-   "asof": "2026-11-12T04:07:41.000Z"
+   "p": 73488.63,
+   "ch": -0.59,
+   "asof": "2026-11-12T05:13:42.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2052.49,
-   "ch": -0.05,
-   "asof": "2026-11-12T04:07:43.000Z"
+   "p": 2041.01,
+   "ch": -0.61,
+   "asof": "2026-11-12T05:13:41.000Z"
   },
   {
    "s": "S&P 500",
@@ -194,17 +194,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3987.6,
-   "ch": -0.32,
-   "asof": "2026-11-12T03:55:36.000Z"
+   "p": 3982.6,
+   "ch": -0.45,
+   "asof": "2026-11-12T05:03:47.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 85.69,
-   "ch": -0.97,
-   "asof": "2026-11-12T03:55:30.000Z"
+   "p": 85.51,
+   "ch": -1.18,
+   "asof": "2026-11-12T05:03:48.000Z"
   },
   {
    "s": "USD/KES",
@@ -218,9 +218,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.6005,
-   "ch": 0.06,
-   "asof": "2026-11-12T04:05:42.000Z"
+   "p": 16.6077,
+   "ch": 0.11,
+   "asof": "2026-11-12T05:13:47.000Z"
   },
   {
    "s": "USD/NGN",
@@ -234,17 +234,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 83.22,
-   "ch": -0.08,
-   "asof": "2026-11-12T04:07:37.000Z"
+   "p": 82.67,
+   "ch": -0.74,
+   "asof": "2026-11-12T05:13:42.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.0466,
-   "ch": -0.56,
-   "asof": "2026-11-12T04:07:42.000Z"
+   "p": 1.0375,
+   "ch": -1.42,
+   "asof": "2026-11-12T05:13:46.000Z"
   },
   {
    "s": "Apple",
@@ -274,25 +274,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 51.55,
-   "ch": -0.87,
-   "asof": "2026-11-12T03:55:40.000Z"
+   "p": 51.435,
+   "ch": -1.09,
+   "asof": "2026-11-12T05:03:47.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Japan Spent Record $50 Billion in Single Day to Bolster Yen",
+   "Singapore Central Bank Rolls Out Gold-Vaulting Services to Boost Trading Hub",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3lMUTI3WFg1TUlac1JZQ1Y4bDN0ejNVNXpKdmZJczk5dVlhaDlSbmhkamQ2TGdvb09hbWhJMjZpSFRCcDBpRUoxOHI1b3I4U0hMSXhWaUxYQWE2MVhXV2p1dGNBN3gtZXY4eWU5RVVpMzQ4ZFplbjI1aGV3UXZ4R2oxX0I0VHdmTXMtalRRMDVZQVdvellGandneGNCX0xhWjZLbDR2ZlBZM0VDdWktVw?oc=5"
+   "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeXJQTmVQMFVuWV82THhmdjRMLUpwZmpwS1NhZnJZZk50LVJzVElOTE1rMnhLNTQtWVptT2xreFowX1hnd1FRclN1YndWLWN4MEpFRG1uSU9RMDVudWJFdGxXbDdqM2N4bjR5M2R3aGZIWnBmNHVYejhNNk1wU0hoNXB4bzV4RHNvN2wzbnFrTi16V2pKSllR?oc=5"
   ],
   [
    "Forex",
-   "high",
-   "Dollar rises to 19-month high as Fed hike bets grow, yen softens",
+   "med",
+   "Japan's Mimura says markets shouldn't forget intervention risks as yen nears 160",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQmd6aUhaTzk5c0pGbUgyQ2U2clNjX0VCQjZVT1g4dmNVUkFFa05DQTRmWHNLVl9oRGJ5R0tfeVZjbGlsSjhwMHNTVEhUaWtJMzJGUk15dnRGd2d5RGpLbEVtZzZFTGVVOHM0cmtMTFNkMTJDbUNPMm5acjZFbjltWC1URXlPTHdOLUlIUVdJOWxqb0xnMndvUGVwYlEtTGNvQXZ0Vg?oc=5"
+   "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeTdnRkFzQUZJTnRnYmRuTExZbDF2cGZleDN6UHhuaXFIS1puMThyR2tSc1hxMF85ZmVnM0doN3dxSmNVV3dyajNvbXFlWWoyS196OGZsU1dQeWphLWhZaFZ1YjNWUUQtZlByZmpHSFpJMWJrWTlhNWF4YkVubDV6djJBaU9DSjRSUHhVcVRDTHhiWDM5RkZwbnBEXzJpdlhkaWZMWURFNUYyRTVRTXZQcVdnVUttRkl4NjBIemtSRnd0d1l0TmRIckx5TmFMUQ?oc=5"
   ],
   [
    "Crypto",
@@ -304,9 +304,9 @@
   [
    "Crypto",
    "med",
-   "Nomura Explores Possible Sale of Laser Digital Crypto Unit",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxOei1tazJkRXZvakJyRmJ5Xy1jeXpCQld4MGRRUmdmc3dvelRSWnRfRWRGc1pxZGV0T09GUEdGWGk2V1I1d0FPazlYREZSczN4RW9JNkoydzlFOVJ3WjlxbjNESlI2a1dEMjFKV0RVMURkX2ZITGhseU9pbl96V084bmZmYi0zcjhqQm9UNk51aXRPQ0ZlZ0xSVkFGb2FtamZhYTFKNlFkVEdNTU91RUE?oc=5"
+   "What Will Bitcoin and Ethereum Be Worth in 5 Years?",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTG5UY1MzMnhDcDhMS0I3cHFiWkNCbWVUR0VxWEV3bnhSb1lBOXpiUGZNUXBuN0VqUG5VNG5obGd5bHlBWHRsY3dNRW5mLVh4eF9FZlZwazVpUkxrNmVsMlZOcENMTFQzVUVyTXA2ZFJ4dlIyelU2QUp5ektRRnZ6YWYxZHdNc1kxMy1jeFpISUt1amlTeTFBcDJDWQ?oc=5"
   ],
   [
    "Stocks",
