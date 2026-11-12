@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T21:57:36.259Z",
+ "updated": "2026-11-12T22:57:36.269Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -108,7 +108,7 @@
    "d": 4,
    "p": 1.1058,
    "ch": -0.29,
-   "asof": "2026-11-12T21:57:33.000Z"
+   "asof": "2026-11-12T22:57:30.000Z"
   },
   {
    "s": "GBP/USD",
@@ -116,15 +116,15 @@
    "d": 4,
    "p": 1.3237,
    "ch": -0.29,
-   "asof": "2026-11-12T21:57:33.000Z"
+   "asof": "2026-11-12T22:57:30.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 159.828,
+   "p": 159.835,
    "ch": 0.08,
-   "asof": "2026-11-12T21:57:36.000Z"
+   "asof": "2026-11-12T22:57:30.000Z"
   },
   {
    "s": "AUD/USD",
@@ -132,39 +132,39 @@
    "d": 4,
    "p": 0.6811,
    "ch": -0.6,
-   "asof": "2026-11-12T21:57:33.000Z"
+   "asof": "2026-11-12T22:57:30.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4256,
-   "ch": 0.06,
-   "asof": "2026-11-12T21:57:35.000Z"
+   "p": 1.4252,
+   "ch": 0.03,
+   "asof": "2026-11-12T22:57:35.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8353,
-   "ch": 0.42,
-   "asof": "2026-11-12T21:57:37.000Z"
+   "p": 0.8341,
+   "ch": 0.28,
+   "asof": "2026-11-12T22:57:35.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 71477.63,
-   "ch": -3.31,
-   "asof": "2026-11-12T21:57:34.000Z"
+   "p": 71372.94,
+   "ch": -3.45,
+   "asof": "2026-11-12T22:57:34.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 2015.69,
-   "ch": -1.85,
-   "asof": "2026-11-12T21:57:30.000Z"
+   "p": 2012.36,
+   "ch": -2.01,
+   "asof": "2026-11-12T22:57:31.000Z"
   },
   {
    "s": "S&P 500",
@@ -172,7 +172,7 @@
    "d": 2,
    "p": 7592.4,
    "ch": -0.35,
-   "asof": "2026-11-12T21:20:01.000Z"
+   "asof": "2026-11-12T21:58:23.000Z"
   },
   {
    "s": "Nasdaq",
@@ -180,7 +180,7 @@
    "d": 2,
    "p": 25366.094,
    "ch": -0.39,
-   "asof": "2026-11-12T21:57:35.000Z"
+   "asof": "2026-11-12T22:15:59.000Z"
   },
   {
    "s": "Dow Jones",
@@ -188,39 +188,39 @@
    "d": 2,
    "p": 52297.09,
    "ch": -0.36,
-   "asof": "2026-11-12T21:20:00.000Z"
+   "asof": "2026-11-12T21:58:18.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3881,
-   "ch": -2.99,
-   "asof": "2026-11-12T21:47:32.000Z"
+   "p": 3881.7,
+   "ch": -0.09,
+   "asof": "2026-11-12T21:59:59.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 88.72,
-   "ch": 2.53,
-   "asof": "2026-11-12T21:47:28.000Z"
+   "p": 88.7,
+   "ch": -0.05,
+   "asof": "2026-11-12T22:00:00.000Z"
   },
   {
    "s": "USD/KES",
    "m": "Forex",
    "d": 2,
-   "p": 129.9,
-   "ch": 0.04,
-   "asof": "2026-11-12T21:27:46.000Z"
+   "p": 129.91,
+   "ch": 0.05,
+   "asof": "2026-11-12T21:58:51.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.7678,
-   "ch": 1.07,
-   "asof": "2026-11-12T21:57:37.000Z"
+   "p": 16.755,
+   "ch": 1,
+   "asof": "2026-11-12T22:55:20.000Z"
   },
   {
    "s": "USD/NGN",
@@ -228,23 +228,23 @@
    "d": 2,
    "p": 1342.6,
    "ch": -0.19,
-   "asof": "2026-11-12T20:16:11.000Z"
+   "asof": "2026-11-12T21:58:51.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 81.37,
-   "ch": -2.31,
-   "asof": "2026-11-12T21:57:36.000Z"
+   "p": 81.34,
+   "ch": -2.34,
+   "asof": "2026-11-12T22:57:35.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.0356,
-   "ch": -1.6,
-   "asof": "2026-11-12T21:57:30.000Z"
+   "p": 1.0362,
+   "ch": -1.55,
+   "asof": "2026-11-12T22:57:32.000Z"
   },
   {
    "s": "Apple",
@@ -274,12 +274,19 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 49.945,
-   "ch": -3.96,
-   "asof": "2026-11-12T21:47:10.000Z"
+   "p": 49.955,
+   "ch": -0.22,
+   "asof": "2026-11-12T21:59:59.000Z"
   }
  ],
  "news": [
+  [
+   "Forex",
+   "med",
+   "Japan Spent Record $50 Billion in Single Day to Bolster Yen",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3lMUTI3WFg1TUlac1JZQ1Y4bDN0ejNVNXpKdmZJczk5dVlhaDlSbmhkamQ2TGdvb09hbWhJMjZpSFRCcDBpRUoxOHI1b3I4U0hMSXhWaUxYQWE2MVhXV2p1dGNBN3gtZXY4eWU5RVVpMzQ4ZFplbjI1aGV3UXZ4R2oxX0I0VHdmTXMtalRRMDVZQVdvellGandneGNCX0xhWjZLbDR2ZlBZM0VDdWktVw?oc=5"
+  ],
   [
    "Forex",
    "med",
@@ -288,25 +295,18 @@
    "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeTdnRkFzQUZJTnRnYmRuTExZbDF2cGZleDN6UHhuaXFIS1puMThyR2tSc1hxMF85ZmVnM0doN3dxSmNVV3dyajNvbXFlWWoyS196OGZsU1dQeWphLWhZaFZ1YjNWUUQtZlByZmpHSFpJMWJrWTlhNWF4YkVubDV6djJBaU9DSjRSUHhVcVRDTHhiWDM5RkZwbnBEXzJpdlhkaWZMWURFNUYyRTVRTXZQcVdnVUttRkl4NjBIemtSRnd0d1l0TmRIckx5TmFMUQ?oc=5"
   ],
   [
-   "Forex",
-   "high",
-   "Brazil’s Central Bank Stops Easing Cycle as Inflation Remains High",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTzBzM3JOaW9OaUJJb2RyNEMwb0tta2dvWUNHUGk4bXYwTjJZeHpFdmFOOHZWdENjR2EtaHQ4Vl91VVdnXzBVSmZ0ZEtTMVBWQnRDWTBEbE9lTU1wZFVETTJQZmwtSlFXaDhXU0NVZGt5djNpakVhZjdia19PRzdYa2dIb09nOFFENkhDVU03a1c3WVJyVWJVWGZGQ2RzVUEyWjRLYW5yTlVmNGRMOVl4WVdrY0Q1M0xULXc?oc=5"
+   "Crypto",
+   "med",
+   "Bitcoin Retreats as Nvidia Turmoil Weighs on Risk Appetite",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVUxZZzlNWWNPa1prTjRxVlVjVGlKU05HRmwzZWkwY1M0WmZLeTQ0U2ZaVG9fYWZxeDZyQVBJRVNhWXN2b0puckFfNDN0czMzU3U2ZWlrUmVqWkdpd3IxOHN3S2hEUkk4Uzd5UHloOGJDRmxJaVozT2FxT2JpSGlnTWNrajc3MlRoUTk4N3I1TjlOMG8tNl8xTzFuVl9DaFNKSUZHZ1Rzem9vd3J3NEE?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin Price Crashes to $72,700 as Leveraged Traders Buy the Dip: Is the Bottom In?",
+   "How Much Does a Bitcoin ATM Charge You to Buy $100 of Bitcoin?",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcE5JVXNSVGE2UUZqcHFoOUk4N0ZGZllQMk5maTdGM2k1dzVsaGV3MmJvMnNFMG5lT1I1Nml1N3RIcElLbUNqSDRXZTNfOHBYNWtwSXdmNVczdnl2cmFaQVBWTVp6MGtnQk5KLWJHNjQ2TXc4d1lKejE1b3NPTFc4ejYwZFR0TU5RVXpuMUl3Y1UzRVB6dk9laA?oc=5"
-  ],
-  [
-   "Crypto",
-   "high",
-   "Serious Fed Warning Triggers ‘Significant’ Bitcoin Price Flip",
-   "Forbes",
-   "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUUY3aEJOb0Nmekg5MnBYSXdkLWdtU0UyUGVZQWJyTkkzRldRd0tmbzcyZkZuMnJmX29Rdl93eTd5eWhYRmdJQ0FMNkhXd1dRTGZhTjBJWFpoRkRqZnhLU0trRGxCaVY5QTM5WWVQNmVFWW1oVFY0U3hpeE9Jc0ItRnJBbTVwYkhzaUc0WDdMNmJVaVlJWkdzUFdHQXNkcDVseWV5WmhnRV9SWFBOU3lsMEszendGZw?oc=5"
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMXBaSnBzVG9KS0NWSHpncElXbmtHNlRaMldLYTZEdWhaVHdZRHpxQk5FOEd0QTI3MDY3RFIwOHhaYU90ZVk4dVlvaWdKallLZFBnVjNCMDNvQ3FXazVuM1lBNEZQb3BxTzFSVmhqMHlua0FSWWtFQ1hXOUtnajBtbTlDV3JUS1Y4ZlEwWmlMNGtTR1Y1VTVPQg?oc=5"
   ],
   [
    "Stocks",
@@ -325,16 +325,16 @@
   [
    "Commodities",
    "med",
-   "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
-   "Kitco",
-   "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5"
+   "U.S. Crude-Oil Stockpiles Post Unexpected Weekly Build",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2J3b1ZXNW5aLWtYc2tscHU4YkhVbTJhZTJ6UkYwdlNVNjBnVWc2dHNFWEhraFJJOGhtYVRsQ1lWRExjOFVHYi1jRHF6VUcyems4allvRXpWZFFGWnBGZHMtUWx2ZWhuN3NvSDdGNlNINUd2YmMtUy1SMWc1d3AxU0NDN0FMNm9sdkxTZHVHRTdyWHRBNnh5UGx1Y0JjNG13eXlleQ?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "U.S. Crude-Oil Stockpiles Post Unexpected Weekly Build",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2J3b1ZXNW5aLWtYc2tscHU4YkhVbTJhZTJ6UkYwdlNVNjBnVWc2dHNFWEhraFJJOGhtYVRsQ1lWRExjOFVHYi1jRHF6VUcyems4allvRXpWZFFGWnBGZHMtUWx2ZWhuN3NvSDdGNlNINUd2YmMtUy1SMWc1d3AxU0NDN0FMNm9sdkxTZHVHRTdyWHRBNnh5UGx1Y0JjNG13eXlleQ?oc=5"
+   "More Drilling Won't Shield U.S. Consumers From Oil Price Shocks",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMipgFBVV95cUxObVAxNUNJaHJZb0ROZXpmMmRwbFhKMG9yTnprNWNSWXRhSUFNYTZXMFZicWRyOU1RejNucFkxUTIwV0dzRFgzcGU3SThXdGRPQU9WeVMtcV9nOTBpTDdRS0Zmc1JiME0yTGc1eS13NlFKaXlpSXBSQjc2azIwcVozdkhVaHlBNF9TWFFwMlVUSmJpbktreXM4dTViTmJRSVg2LWNMRjlR0gGrAUFVX3lxTFA2SDg1TjhTRXZ4MHF1YXRIR1d4aWRIa0ZoRjVEOWk2dWxIZHFxd0FDTFh5RS1JSkdVRVJQTmlkTTBSeE03dXl1RVg5VXdhVWQ5ZFozVUhaRVhQMUJuTndXMUxCVVVqODUxV2NsR19QakFhbXJhMWhEUERaSmhMN3ZEcWExRENoTVlYS0JFbWlNc1FfQldqTW5ZNl8wckNBMzRYMmYwM0tTYUJFRQ?oc=5"
   ]
  ]
 }
