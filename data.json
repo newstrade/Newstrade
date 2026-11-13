@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T09:11:01.986Z",
+ "updated": "2026-11-13T17:13:48.716Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -106,193 +106,193 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1067,
-   "ch": 0.07,
-   "asof": "2026-11-13T09:10:31.000Z"
+   "p": 1.1038,
+   "ch": -0.19,
+   "asof": "2026-11-13T17:13:32.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3241,
-   "ch": 0.05,
-   "asof": "2026-11-13T09:10:31.000Z"
+   "p": 1.3215,
+   "ch": -0.15,
+   "asof": "2026-11-13T17:13:32.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 159.89,
+   "p": 159.889,
    "ch": 0.03,
-   "asof": "2026-11-13T09:11:01.000Z"
+   "asof": "2026-11-13T17:13:48.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.68,
-   "ch": -0.16,
-   "asof": "2026-11-13T09:09:31.000Z"
+   "p": 0.6781,
+   "ch": -0.44,
+   "asof": "2026-11-13T17:13:32.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4255,
+   "p": 1.4256,
    "ch": 0.01,
-   "asof": "2026-11-13T09:11:00.000Z"
+   "asof": "2026-11-13T17:13:48.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8364,
-   "ch": 0.23,
-   "asof": "2026-11-13T09:11:01.000Z"
+   "p": 0.8387,
+   "ch": 0.5,
+   "asof": "2026-11-13T17:13:48.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 68684.93,
-   "ch": -3.76,
-   "asof": "2026-11-13T09:10:59.000Z"
+   "p": 68647.88,
+   "ch": -3.82,
+   "asof": "2026-11-13T17:13:39.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 1932.04,
-   "ch": -4.23,
-   "asof": "2026-11-13T09:10:54.000Z"
+   "p": 1927.36,
+   "ch": -4.46,
+   "asof": "2026-11-13T17:13:43.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7592.4,
-   "ch": -0.35,
-   "asof": "2026-11-12T21:58:23.000Z"
+   "p": 7530.68,
+   "ch": -0.81,
+   "asof": "2026-11-13T17:13:48.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 25366.094,
-   "ch": -0.39,
-   "asof": "2026-11-12T22:15:59.000Z"
+   "p": 25022.34,
+   "ch": -1.36,
+   "asof": "2026-11-13T17:13:48.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 52297.09,
-   "ch": -0.36,
-   "asof": "2026-11-12T21:58:18.000Z"
+   "p": 52204.7,
+   "ch": -0.18,
+   "asof": "2026-11-13T17:13:48.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3899.8,
-   "ch": 0.37,
-   "asof": "2026-11-13T09:00:54.000Z"
+   "p": 3881,
+   "ch": -0.11,
+   "asof": "2026-11-13T17:03:47.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 88.87,
-   "ch": 0.15,
-   "asof": "2026-11-13T09:00:57.000Z"
+   "p": 88.42,
+   "ch": -0.36,
+   "asof": "2026-11-13T17:03:46.000Z"
   },
   {
    "s": "USD/KES",
    "m": "Forex",
    "d": 2,
-   "p": 129.91,
-   "ch": 0,
-   "asof": "2026-11-13T07:57:56.000Z"
+   "p": 129.86,
+   "ch": -0.04,
+   "asof": "2026-11-13T14:39:32.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.8471,
-   "ch": 0.69,
-   "asof": "2026-11-13T09:11:03.000Z"
+   "p": 16.9251,
+   "ch": 1.15,
+   "asof": "2026-11-13T17:13:49.000Z"
   },
   {
    "s": "USD/NGN",
    "m": "Forex",
    "d": 2,
-   "p": 1342.6,
-   "ch": 0,
-   "asof": "2026-11-13T04:16:26.000Z"
+   "p": 1346.19,
+   "ch": 0.27,
+   "asof": "2026-11-13T17:06:04.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 79.77,
-   "ch": -2.31,
-   "asof": "2026-11-13T09:10:52.000Z"
+   "p": 79.57,
+   "ch": -2.55,
+   "asof": "2026-11-13T17:13:47.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.0288,
-   "ch": -1.08,
-   "asof": "2026-11-13T09:10:56.000Z"
+   "p": 1.0178,
+   "ch": -2.13,
+   "asof": "2026-11-13T17:13:48.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 354.88,
-   "ch": -0.14,
-   "asof": "2026-11-12T21:00:01.000Z"
+   "p": 358.32,
+   "ch": 0.97,
+   "asof": "2026-11-13T17:13:48.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 397.45,
-   "ch": 1.7,
-   "asof": "2026-11-12T21:00:00.000Z"
+   "p": 390.9,
+   "ch": -1.65,
+   "asof": "2026-11-13T17:13:49.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 166.19,
-   "ch": -4.34,
-   "asof": "2026-11-12T21:00:01.000Z"
+   "p": 160.2,
+   "ch": -3.6,
+   "asof": "2026-11-13T17:13:49.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 49.9,
-   "ch": -0.33,
-   "asof": "2026-11-13T09:00:46.000Z"
+   "p": 48.905,
+   "ch": -2.32,
+   "asof": "2026-11-13T17:03:35.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "high",
-   "US Treasury bought yen in July; Fed made no solo FX interventions in Q3",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMkM3MHBxSC0zWERfdnhqRURMc2dhS01oamJOMC1TZFMwNGljLUtmTEVlaFZsVWc4b2JsUmJVNkUwWEpraUJaVVJrNHp3TktqczB6RXhtSTBOaWZFQ0k0WFd6UHhvTGFJMWs5UTAzZDkyb1FfNU90RVh5WVZfT0ZzMzNfeGVLR1J2NDItOVhvbmFtQVgtclBoMEpQdkxCcXFtVkUzZFZrQzB2bmd3NlE?oc=5"
+   "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObHdUdHU4THB4UDd4OGVhZDVvVTkyYWZtRzRFNnIxVmE3UmlFdmxMNFh0eWNOd0N2cFVGc1N6TXhGSDh3SmtQdWNrSTBrclFuYlRhUDNBSEozLV82b3lzQ1JiQ2w0b2JMLUhzZzJsZVZGVVF3aU8xNW0xY3d4YzBCM2l6VEpEOGw0SmFFVTk1SFJIRk5DV2xtM2ZTTDR1eFVsb2I0SHVOanR1WUlPX3M5S2R0OE94SWswa1BJ0gHAAUFVX3lxTFBWUnlYVUhxY2hRTmN1RUtBZWs2M3lEc0FiWm91bmxtcDBTSktkYkNVRVBndDB3RTFTXzZ4M19hV3VvY0JQT2xXU0ZVMU1zOTRhUmdFaW1Qa19CYlN5UHBvcFhTMGMyQjFiV1N1cUJXUTQwTkZDT1N3S2JSSzZSREhxcDRTVWVPT3B1MTc5YV9zWTRlbHZiQ2Z3TDVrRGFGOWRWNzU5SENxVnNmVTJUR0c4bUJJaGx5VC1kbFhYcmJWdw?oc=5"
   ],
   [
    "Forex",
-   "med",
-   "Japan Fires Off Verbal Warning on Yen as Weakness Stokes Intervention Alert",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUZybzVTcmhaZXF2Q1dQT2RLY3lndnBKZVhiNEhoWHZNYUlMTjl4a1JMSHdZbkdUQ1dWdXBiVE1Nd3pYZmRINGY5OWRTdFpvQW0xRzluSHZaellTdmh1ZVdzNnJDRE92aHBWeTJsS2FENGo5TUtBaktMWlBEeVhzR01GclBNOVplSW1FUzJYZFF3MVhPcWZVckFGMVItWkdBVWJR?oc=5"
+   "high",
+   "US Treasury bought yen in July; Fed made no solo FX interventions in Q3",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMkM3MHBxSC0zWERfdnhqRURMc2dhS01oamJOMC1TZFMwNGljLUtmTEVlaFZsVWc4b2JsUmJVNkUwWEpraUJaVVJrNHp3TktqczB6RXhtSTBOaWZFQ0k0WFd6UHhvTGFJMWs5UTAzZDkyb1FfNU90RVh5WVZfT0ZzMzNfeGVLR1J2NDItOVhvbmFtQVgtclBoMEpQdkxCcXFtVkUzZFZrQzB2bmd3NlE?oc=5"
   ],
   [
    "Crypto",
@@ -304,37 +304,37 @@
   [
    "Crypto",
    "med",
-   "US disrupts North Korea's $400 million crypto scam, FBI says",
-   "DW.com",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1RTc1hhOXdpUE5vY3AtWFpwWlpXMllnc1VfTTk0UDJHQWhFNTMxV2FXbnhYMXFqejlhSk53MEJ3cGR4VWFULV9qUHBUczQ4NmJfRWpxSG9yT0xqcUV6R1dXajFGWXdLS2tiZjZqLXk3eWh1R2p6cnVsTzM5bFJCV05UZnRmdlU3clpldkxpTWpMZENH0gGUAUFVX3lxTE1YSnR2U2lpM0hhMGhwdExuWDdqckk3OWlSUUNELTN0RVh1NzFBZHJfMlBLMmZWTEFMWmZwbDNZSlBLM2R1anIteG50OEI5VEpfTVVTeE1QTlJoY3d2b001Q19FanBfd084RTY2dUtQUHotYlRmWXFjdnpSUG5fNWZESjV6SEpMamN6Qm0wemMzd3Z6WWg?oc=5"
+   "Strategy, the World’s Biggest Corporate Bitcoin Holder, to Be Dropped From MSCI Indexes",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZHV1TFRnVmtTRlJ0LWlRcXZKQTQtSWJiMWhGVmpkZ2NmRFNhQ2tKSWdldjZFRk12eUMzc0Vhb3JYRlpjaktiWk9MZTVEanVRdjRETmdLNUtUem5SZjl3VHA2N3BDRkUyQUkwR1hlTzVhQzR1ZEQwT3dOaExSNHN3RmxXczdXNzRMcnVpU195cEFQc3k1eUFmSnQtR3g2bzgtQ1JCUTgwS0RhRUduWmUycHcteEFYUEVKZDNOTkRGYm5xZ3dNOXFpOGtCVQ?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Jensen Huang Has Been Ousted as Nvidia CEO",
+   "The Stock Market’s Bargain Bin Is Secretly Stuffed With AI Stocks",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2VaZ01EcWdXc1ZGb3plNUNMM294WGZlT0tTbWw2SFNPOHZ3ZERtQlR6RkhLRWF2cHExRnNfWGZINm1NWVoxVjRSUDRTVXRFb1RaRGcyMXFUdEd0LWtlME5SVHJETVdzOHR6eHhyNXJLVXF6cldFbnhHMXcydFMzTGhzVnhWN2RQX2d0X1N4QVZvdUU?oc=5"
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVXI1R2hxNEhBZHUwVHoxdm50VWw0ZldHMjltMFF2Q21MTEtCeE5xdHQ1dlJudHJHaThoS3pzamczeWl1VTZ1YXJ4NkJwbWowNC13Mk1fcGozTjB0OVIwMUZLRXBueXJybDhhVkEzT1RuN0dqRzVZMHp1d3lhdy1aZUJwNUtCVXdybzlKYkE4WTE0UlZZLTcyczZJYUtiVjlvS1BPaWFBNW5qZXl1TEhzag?oc=5"
   ],
   [
    "Stocks",
-   "high",
-   "If a Stock Market Crash Is Coming, Warren Buffett’s 6-Word Advice Is the Smartest Move You Can Make",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxONGd6NnRDZHRCX1N0d1daUGVTMTNac3RLNThFR2tUak5kcWJGamVnRGNNaUZsSDgxVTdfR205LWhHNW9icVhxRzVoMmFObEpUdXo4dmtEc1dabHFGWkJXVWk4MkNCV1NSNkdhQnRjdkhNUS04YUMyaUNuZmtQUE5ieXdPM2Z1NFlBa0QwMDFwNTVOVkZGYXFzLVVqTlVjZw?oc=5"
+   "med",
+   "Wall St reverses early gains as Nvidia fallout rattles tech stocks",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0xIRkJ1T2xEOU9abUNDYi1vTlpmRWJzd0MyQkFqa2NSb1BkMEdUNDROMmVmaXo3bDVRdThuRDFRaWZySXAyRjN5d1NDNjhCclFJUDVxdG9CQ1dyWWpDbUEwVHVRaHpNWUg5SjdreUtMeHNHXy1feGNBVkFLN3Z4cGNTcGtyYXg2bXFHdlpZQWtneFJDSWVreFROZ09oamc?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Oil Prices Head for Second Weekly Loss Despite Fresh Middle East Attacks",
+   "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
+   "Kitco",
+   "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "WTI Stages Sharp Comeback as Middle East Supply Risks Intensify",
    "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTDJWQVAyQXRWT1BfUFotSHVGajZlMU5FcG1PS2VVSlNLTTRldnBvaDI1Z18xMmlUdEd2bkNVQU03YVlaNE9keWFBRnJWYTBYVWlJWVFjT0MzV0tiVGFMMDh3R2hRc2xKeXpoc0VCeVl5eERPZXBVdTZ6blRmUmQ2RHJQamEzbDdfbGNQaExiSmZtY19JVnNWb2g5TkJaSGowV2FfZGo1b3FRb0V0QkstMTJlamFsajdVRWp5RjJoVGRaUC11eFpz0gHMAUFVX3lxTFBteE9QSHZZU2dGdHNvbFhrTVNuUGVWTW9HVlBWVFNBa3RXRVRfZW9RckdWWTRKVHQ1OVMxR19pQkdkWDVuNkNtZjRIMzRWRDllc1NVUElrdWI0STkyMXBwbDdFVEZhXzE5Zm0xSU5TcEY3aTh3Z3p2MXkxQWVqYUl5T2pKaEJmOWtlUzdfUTVBYU12MnRvQWIweDAxUU40OXpUVmpZQWVpZDhralZFMU5VVlBzYlpubzNNZ054RnZiMkVnS014STdSSmdLTg?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "U.S. Crude-Oil Stockpiles Post Unexpected Weekly Build",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2J3b1ZXNW5aLWtYc2tscHU4YkhVbTJhZTJ6UkYwdlNVNjBnVWc2dHNFWEhraFJJOGhtYVRsQ1lWRExjOFVHYi1jRHF6VUcyems4allvRXpWZFFGWnBGZHMtUWx2ZWhuN3NvSDdGNlNINUd2YmMtUy1SMWc1d3AxU0NDN0FMNm9sdkxTZHVHRTdyWHRBNnh5UGx1Y0JjNG13eXlleQ?oc=5"
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTNFREk0SWRVSjEzcWlZblVudlJyUkY2ZzdnTEhiMWVDY0U2amczUlFTZVhVdzNmclVheU00OGhub1duTTU0SWptb0tpcVplRnI2TGVMeWl5eGNzVWREdUd3RmRtNlBRSlJhLWY3WDQ4SktEZENTckRSSURHTktNa29LdWdRYUpPT1MzakNqUTBMeS1NUU45ZXVBRGJqaTJRM1FMaWRqelBQUE44YjloS9IBtgFBVV95cUxQcEM2cTZPM2xTT1diTHNPc2hZRkMwRkVzcndnSXpxa3UzYWU3ZS1La1UyNk44RTV6NEVGTWNERUg0SVF2dER5X2EzWldzUWUzQVRYRlIzRXdqWm5vNTRvNGNzWU5WNVV6Y2Vsc0tBZWNDNnZVMGsxN0tuenhNUlZYenRYNEdpMXNrWDFfUlVzT0YwUTJjdFhqcUwxRTlJRUN5MEw3NlRka21YaVNfUXBpUzl4RVNNdw?oc=5"
   ]
  ]
 }
