@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T07:32:02.988Z",
+ "updated": "2026-11-13T09:11:01.986Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -106,65 +106,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.1066,
-   "ch": 0.06,
-   "asof": "2026-11-13T07:31:29.000Z"
+   "p": 1.1067,
+   "ch": 0.07,
+   "asof": "2026-11-13T09:10:31.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3234,
-   "ch": -0.01,
-   "asof": "2026-11-13T07:31:29.000Z"
+   "p": 1.3241,
+   "ch": 0.05,
+   "asof": "2026-11-13T09:10:31.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 159.805,
-   "ch": -0.02,
-   "asof": "2026-11-13T07:32:02.000Z"
+   "p": 159.89,
+   "ch": 0.03,
+   "asof": "2026-11-13T09:11:01.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6796,
-   "ch": -0.22,
-   "asof": "2026-11-13T07:31:29.000Z"
+   "p": 0.68,
+   "ch": -0.16,
+   "asof": "2026-11-13T09:09:31.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.426,
-   "ch": 0.04,
-   "asof": "2026-11-13T07:32:02.000Z"
+   "p": 1.4255,
+   "ch": 0.01,
+   "asof": "2026-11-13T09:11:00.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8354,
-   "ch": 0.11,
-   "asof": "2026-11-13T07:32:02.000Z"
+   "p": 0.8364,
+   "ch": 0.23,
+   "asof": "2026-11-13T09:11:01.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 68859.23,
-   "ch": -3.52,
-   "asof": "2026-11-13T07:31:57.000Z"
+   "p": 68684.93,
+   "ch": -3.76,
+   "asof": "2026-11-13T09:10:59.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 1939.66,
-   "ch": -3.85,
-   "asof": "2026-11-13T07:32:00.000Z"
+   "p": 1932.04,
+   "ch": -4.23,
+   "asof": "2026-11-13T09:10:54.000Z"
   },
   {
    "s": "S&P 500",
@@ -194,17 +194,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3899.5,
+   "p": 3899.8,
    "ch": 0.37,
-   "asof": "2026-11-13T07:21:56.000Z"
+   "asof": "2026-11-13T09:00:54.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 88.71,
-   "ch": -0.03,
-   "asof": "2026-11-13T07:21:56.000Z"
+   "p": 88.87,
+   "ch": 0.15,
+   "asof": "2026-11-13T09:00:57.000Z"
   },
   {
    "s": "USD/KES",
@@ -212,15 +212,15 @@
    "d": 2,
    "p": 129.91,
    "ch": 0,
-   "asof": "2026-11-13T06:06:48.000Z"
+   "asof": "2026-11-13T07:57:56.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.7691,
-   "ch": 0.22,
-   "asof": "2026-11-13T07:32:02.000Z"
+   "p": 16.8471,
+   "ch": 0.69,
+   "asof": "2026-11-13T09:11:03.000Z"
   },
   {
    "s": "USD/NGN",
@@ -234,17 +234,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 80.38,
-   "ch": -1.56,
-   "asof": "2026-11-13T07:31:59.000Z"
+   "p": 79.77,
+   "ch": -2.31,
+   "asof": "2026-11-13T09:10:52.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.0293,
-   "ch": -1.03,
-   "asof": "2026-11-13T07:31:57.000Z"
+   "p": 1.0288,
+   "ch": -1.08,
+   "asof": "2026-11-13T09:10:56.000Z"
   },
   {
    "s": "Apple",
@@ -274,25 +274,25 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 50,
-   "ch": -0.13,
-   "asof": "2026-11-13T07:21:58.000Z"
+   "p": 49.9,
+   "ch": -0.33,
+   "asof": "2026-11-13T09:00:46.000Z"
   }
  ],
  "news": [
   [
    "Forex",
-   "med",
-   "Japan Spent Record $50 Billion in Single Day to Bolster Yen",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3lMUTI3WFg1TUlac1JZQ1Y4bDN0ejNVNXpKdmZJczk5dVlhaDlSbmhkamQ2TGdvb09hbWhJMjZpSFRCcDBpRUoxOHI1b3I4U0hMSXhWaUxYQWE2MVhXV2p1dGNBN3gtZXY4eWU5RVVpMzQ4ZFplbjI1aGV3UXZ4R2oxX0I0VHdmTXMtalRRMDVZQVdvellGandneGNCX0xhWjZLbDR2ZlBZM0VDdWktVw?oc=5"
+   "high",
+   "US Treasury bought yen in July; Fed made no solo FX interventions in Q3",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMkM3MHBxSC0zWERfdnhqRURMc2dhS01oamJOMC1TZFMwNGljLUtmTEVlaFZsVWc4b2JsUmJVNkUwWEpraUJaVVJrNHp3TktqczB6RXhtSTBOaWZFQ0k0WFd6UHhvTGFJMWs5UTAzZDkyb1FfNU90RVh5WVZfT0ZzMzNfeGVLR1J2NDItOVhvbmFtQVgtclBoMEpQdkxCcXFtVkUzZFZrQzB2bmd3NlE?oc=5"
   ],
   [
    "Forex",
-   "high",
-   "Dollar set for best week in two months on rate hike wagers, yen tests 160",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdXI2eWRwY1h1QWkxeldEbWhGUmdSYzRrQjZveW9TTm5LekpTdEthSzRRZHI1NlhoQjAwXzdjdVFSU0ItZjA3NFFxTUUxQlNWUzBoRHdtVkhtZ09hVUt2SmNyaFVvRkhOa0VERndHN1EweWdGajFEa050UDNqN1dCTllZamxKS0J1R0FHWXJOU0lweWJDMnV2clZBRVI4YVU4MTFBeg?oc=5"
+   "med",
+   "Japan Fires Off Verbal Warning on Yen as Weakness Stokes Intervention Alert",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUZybzVTcmhaZXF2Q1dQT2RLY3lndnBKZVhiNEhoWHZNYUlMTjl4a1JMSHdZbkdUQ1dWdXBiVE1Nd3pYZmRINGY5OWRTdFpvQW0xRzluSHZaellTdmh1ZVdzNnJDRE92aHBWeTJsS2FENGo5TUtBaktMWlBEeVhzR01GclBNOVplSW1FUzJYZFF3MVhPcWZVckFGMVItWkdBVWJR?oc=5"
   ],
   [
    "Crypto",
@@ -317,10 +317,10 @@
   ],
   [
    "Stocks",
-   "med",
-   "Asian Stocks Set for Cautious Open on Nvidia, Oil: Markets Wrap",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmVnUHB5bWw0Y052NTU5ZkNsOGdwUXVCWnIwczVnQWJKWmJiaUZta09PNGhNYVZWSENvOFVReWJIVldFcDJNcmlOQ3RyMWhHQThNcmtnU0FIZldHWHJ4NldqbkVrYUlseVNBN0xycmRrUjdFVWRQQll6MzhBUHNOS2NidGtDc01LeWlNd01WNGJxcm5E?oc=5"
+   "high",
+   "If a Stock Market Crash Is Coming, Warren Buffett’s 6-Word Advice Is the Smartest Move You Can Make",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMingFBVV95cUxONGd6NnRDZHRCX1N0d1daUGVTMTNac3RLNThFR2tUak5kcWJGamVnRGNNaUZsSDgxVTdfR205LWhHNW9icVhxRzVoMmFObEpUdXo4dmtEc1dabHFGWkJXVWk4MkNCV1NSNkdhQnRjdkhNUS04YUMyaUNuZmtQUE5ieXdPM2Z1NFlBa0QwMDFwNTVOVkZGYXFzLVVqTlVjZw?oc=5"
   ],
   [
    "Commodities",
