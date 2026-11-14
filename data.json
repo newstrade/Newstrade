@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T22:41:34.752Z",
+ "updated": "2026-11-14T03:18:44.589Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -154,17 +154,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 68309.35,
-   "ch": -4.29,
-   "asof": "2026-11-13T22:41:30.000Z"
+   "p": 67344.36,
+   "ch": -1.31,
+   "asof": "2026-11-14T03:18:42.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 1927.35,
-   "ch": -4.46,
-   "asof": "2026-11-13T22:41:30.000Z"
+   "p": 1902.57,
+   "ch": -1.29,
+   "asof": "2026-11-14T03:18:39.000Z"
   },
   {
    "s": "S&P 500",
@@ -234,17 +234,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 78.16,
-   "ch": -4.28,
-   "asof": "2026-11-13T22:41:32.000Z"
+   "p": 75.7,
+   "ch": -3.06,
+   "asof": "2026-11-14T03:18:39.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 1.0088,
-   "ch": -3,
-   "asof": "2026-11-13T22:41:34.000Z"
+   "p": 0.9981,
+   "ch": -1.13,
+   "asof": "2026-11-14T03:18:41.000Z"
   },
   {
    "s": "Apple",
@@ -282,17 +282,17 @@
  "news": [
   [
    "Forex",
+   "med",
+   "China’s Central Bank Tweaks Forex Reserve Rules to Steady Yuan",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaUVpai1RSG9LWk82anFJT1hrZlgtM0t3LTQ5ZDBHLXFOLVpyOFhiR0xZa3pLMkluNnpOdzBHWDdwbnZESzk2bWhybUhmdGZUSFFVd0owXzV1ZXJlcXliazhtclhMTV9vQzlSOGlZd0VlNUFLM2V2RUFwNG9SUjFWSG5aeXNUdzBlcmlvRl9RR3JvNUJwZFluUGVrVGduVXpNUEdCcjFTVFI5RktrU1JyMnd0R2E?oc=5"
+  ],
+  [
+   "Forex",
    "high",
    "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
    "CNBC",
    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObHdUdHU4THB4UDd4OGVhZDVvVTkyYWZtRzRFNnIxVmE3UmlFdmxMNFh0eWNOd0N2cFVGc1N6TXhGSDh3SmtQdWNrSTBrclFuYlRhUDNBSEozLV82b3lzQ1JiQ2w0b2JMLUhzZzJsZVZGVVF3aU8xNW0xY3d4YzBCM2l6VEpEOGw0SmFFVTk1SFJIRk5DV2xtM2ZTTDR1eFVsb2I0SHVOanR1WUlPX3M5S2R0OE94SWswa1BJ0gHAAUFVX3lxTFBWUnlYVUhxY2hRTmN1RUtBZWs2M3lEc0FiWm91bmxtcDBTSktkYkNVRVBndDB3RTFTXzZ4M19hV3VvY0JQT2xXU0ZVMU1zOTRhUmdFaW1Qa19CYlN5UHBvcFhTMGMyQjFiV1N1cUJXUTQwTkZDT1N3S2JSSzZSREhxcDRTVWVPT3B1MTc5YV9zWTRlbHZiQ2Z3TDVrRGFGOWRWNzU5SENxVnNmVTJUR0c4bUJJaGx5VC1kbFhYcmJWdw?oc=5"
-  ],
-  [
-   "Forex",
-   "med",
-   "Japan Fires Off Verbal Warning on Yen as Weakness Stokes Intervention Alert",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUZybzVTcmhaZXF2Q1dQT2RLY3lndnBKZVhiNEhoWHZNYUlMTjl4a1JMSHdZbkdUQ1dWdXBiVE1Nd3pYZmRINGY5OWRTdFpvQW0xRzluSHZaellTdmh1ZVdzNnJDRE92aHBWeTJsS2FENGo5TUtBaktMWlBEeVhzR01GclBNOVplSW1FUzJYZFF3MVhPcWZVckFGMVItWkdBVWJR?oc=5"
   ],
   [
    "Crypto",
@@ -311,23 +311,16 @@
   [
    "Stocks",
    "med",
-   "S&P 500, Nasdaq end lower as Nvidia uncertainty weighs on tech shares",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0xIRkJ1T2xEOU9abUNDYi1vTlpmRWJzd0MyQkFqa2NSb1BkMEdUNDROMmVmaXo3bDVRdThuRDFRaWZySXAyRjN5d1NDNjhCclFJUDVxdG9CQ1dyWWpDbUEwVHVRaHpNWUg5SjdreUtMeHNHXy1feGNBVkFLN3Z4cGNTcGtyYXg2bXFHdlpZQWtneFJDSWVreFROZ09oamc?oc=5"
+   "Exclusive | U.S. Aircraft Evacuated From Second U.K. Base Due to Iran Threat",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0tDaWxJVnFUVzlrbFZ4UlNRWTRpdWdidXRnenUzSVlISnNTT1RNaDRNWC1iWU9PZXdPTHRQUUJOTlJaOFRLdWxodDBhV3hINllRODNtSnVtdVU5ZHZMcWN1Q0h5ejJUVHB2WGpyVWxJU2ZFTGtROC11SUJTdU1DNWt5MUNiRTFfSmNkMjhrcU1aODh6bEQ2SThibDcxMUIzUmx4TDRsR1cxcUNta0E?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Stock Market Today, Nov. 13: Nu Holdings Surges on Record Q3 Earnings Beat Driven by Strong Revenue",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMFRtN25QbXZRWklxazJjRTloeS1qRElPZkpjMUJxNXZObERNTnVvN3RxVEg5Q1AyZklsX3BETEtNbzF2UTRjSVFZWXZ6UUxBUkpGZkJHci10LXNjRlNYdk8xSGZJRVZPTU94R0Y5N0ZGbnJjNDZ2dlVqcm1xRWVJVTIzSDBLTVNGeWFGdDJNTTNGNmlq?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
-   "Kitco",
-   "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5"
+   "S&P 500, Nasdaq fall as Nvidia jitters drag down tech stocks",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vRVJTMVNHamxmYjhLY2d6YnJMTnh4dlV2NHJkSWR2YnZVN0F1UThrdm1FZVRMMXVOcjJJcHhBRjFNWE5IMExUa3lZVXk5cnMtX2hvMmlJSUx3dlY5SUNoeFlvTjFDQ1k?oc=5"
   ],
   [
    "Commodities",
@@ -335,6 +328,13 @@
    "Trump Extends Jones Act Waiver For Another 90 Days",
    "Crude Oil Prices Today | OilPrice.com",
    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS2VtMi1qMWNNXzVuTVY2ZS1YbVJkWlZvRkQ5TmtaSmZNZzEwNDQ0RVVpLXY3TzJ6RzFrcWdrdEs4b3AzdTJNUGJzM1B4b05XQkRySHVqQlRJNE9YekN1UWdMOGQwYnNhcmlVODlDS1JwbVlMZW1LRkpKMlV3Q2RNNXRIZXJGcWtzc1ozNncxV0djNmNIQnIwWDNua1hIYlgwM0dxS1gxOXdXQdIBrwFBVV95cUxOcl95Z05DQl9RaVZ5T2J3RFB3NkpFT25sM3Y4MW1VODNyeFBkSXF3WTBKS0VmSUk2b3k2Z3dMRzVUTDVnTElBUm1vM3EteGNXc2pnSDg1NWx4Yk9GaUF6X3RfcG9wOWVVZXotMGFqZUNKUXRxeGhkdkdWM3hhUXVvUncxVWJJWDFoWkJORGRmRld2Z0ZuMHAxX0NMQ0JjcTFrSXpsekhoZWJhajlfYmlV?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "The Day with Brent Goff: Microsoft outage",
+   "DW.com",
+   "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMzcxN3l3Sk1GMXlqNG5LWVE4cHpiUWtzRk1kdjFncWtId1BPQ3J0UXcxQkdSWUxfRFYwSEpMRHRkY0VGd2QweWVybjE4N2pTQ0lJcjVxcHBYWDh6cF8wWUlNakdpTlFfZzNpRWJxdGE1SG9QMF9MZl80bUZHWGt0RmZ5Yw?oc=5"
   ]
  ]
 }
