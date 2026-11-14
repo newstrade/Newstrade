@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T18:05:28.010Z",
+ "updated": "2026-11-14T22:26:28.556Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -132,7 +132,7 @@
    "d": 4,
    "p": 0.6774,
    "ch": -0.54,
-   "asof": "2026-11-14T10:27:48.000Z"
+   "asof": "2026-11-14T22:25:45.000Z"
   },
   {
    "s": "USD/CAD",
@@ -140,7 +140,7 @@
    "d": 4,
    "p": 1.4269,
    "ch": 0.11,
-   "asof": "2026-11-14T09:59:38.000Z"
+   "asof": "2026-11-14T22:00:49.000Z"
   },
   {
    "s": "USD/CHF",
@@ -148,23 +148,23 @@
    "d": 4,
    "p": 0.8382,
    "ch": 0.44,
-   "asof": "2026-11-14T09:59:47.000Z"
+   "asof": "2026-11-14T22:00:32.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 65778.55,
-   "ch": -3.6,
-   "asof": "2026-11-14T18:05:22.000Z"
+   "p": 64010.66,
+   "ch": -6.2,
+   "asof": "2026-11-14T22:26:22.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 1836.97,
-   "ch": -4.69,
-   "asof": "2026-11-14T18:05:27.000Z"
+   "p": 1760.27,
+   "ch": -8.67,
+   "asof": "2026-11-14T22:26:25.000Z"
   },
   {
    "s": "S&P 500",
@@ -220,7 +220,7 @@
    "d": 3,
    "p": 16.9233,
    "ch": 1.14,
-   "asof": "2026-11-14T09:59:45.000Z"
+   "asof": "2026-11-14T22:00:49.000Z"
   },
   {
    "s": "USD/NGN",
@@ -234,17 +234,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 72.59,
-   "ch": -7.05,
-   "asof": "2026-11-14T18:05:24.000Z"
+   "p": 69.63,
+   "ch": -10.84,
+   "asof": "2026-11-14T22:26:25.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 0.956,
-   "ch": -5.3,
-   "asof": "2026-11-14T18:05:23.000Z"
+   "p": 0.9066,
+   "ch": -10.19,
+   "asof": "2026-11-14T22:26:25.000Z"
   },
   {
    "s": "Apple",
@@ -297,16 +297,16 @@
   [
    "Crypto",
    "med",
-   "Bitcoin price analysis: BTC continues to decline Saturday, entering 'deep value zone'",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREhQQTJ6T1M4cmdyMzU2SUhaYWszWDZOOWp0TzJ1M240RnY3RjI4OEpCQmlHR0pFbU1FekdXMXE1dzVjVHJlZ2ZMUjdOYXZIem5JY01DQ3JyYnIyUWxnZWNoR25TTG9DdExHNjNGMTdSNzJLZ3pKQ0JJeWxzMjV5cUlid3JkR0czV3ZmWlRnWXZ5QVBaSFJYZmltaU1Caks4NkdPTHo2bjE?oc=5"
+   "What Happens if Bitcoin Falls Below $65,000?",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYU5FLVVqc3hPOGpWOFBKZjNqSDlKZ0dUMFJseXR1X2twNXpHdjlFa1lQc25mRjJaU0dGUmpEMVBKVDlIYVlFSVRvNkRnRVRkRWNMaGJGQjUzQlRQUlZFdGw3QXo5V3RQV25tOTZ6aDktdVM0S1ZhRGQxQnJWSFhnOUJ5alNnNHlRdDhDMmhlV3Z0cWd4MnREU0lscw?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin Just Crashed Toward $66,000. History Says the Worst May Not Be Over",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimwFBVV95cUxOenp5c0wxeVNoM3R5Vk5KZERkZVJ1NjhqUllaM3lzUW52c3BVRzRMc0xMbTRIeV9XWGRXc0VfT0szOE1FbkxSOE5wMXJwTlVNQTBxbUQ5aEliQWZqTVJpVXdFc01XRWhWTC1zVHlLRngyUGpUZVQ2REs4U19INFp4ZF9Cd0tEazN4b3dKd2d5ekZtQ2Y4ekZkOU96WQ?oc=5"
+   "Bitcoin price analysis: BTC continues to decline Saturday, entering 'deep value zone'",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREhQQTJ6T1M4cmdyMzU2SUhaYWszWDZOOWp0TzJ1M240RnY3RjI4OEpCQmlHR0pFbU1FekdXMXE1dzVjVHJlZ2ZMUjdOYXZIem5JY01DQ3JyYnIyUWxnZWNoR25TTG9DdExHNjNGMTdSNzJLZ3pKQ0JJeWxzMjV5cUlid3JkR0czV3ZmWlRnWXZ5QVBaSFJYZmltaU1Caks4NkdPTHo2bjE?oc=5"
   ],
   [
    "Stocks",
@@ -318,9 +318,9 @@
   [
    "Stocks",
    "med",
-   "Before His Ouster, Jensen Huang Belittled the Executive Replacing Him",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMie0FVX3lxTE9maWRVVUJxUEQzbHk2X0hGUE0wYmVRbTRlVVdaRGVYZUhfWVR0ajdIVkp2ZElQRnRlbXNZeks0bFFQX21uYjNJbHduZG43RXhpSFRjZmVaU2hRTkdfakRMdGQyamdld0FjaWx4T2VOUWpmU0ktZmZYeHN5bw?oc=5"
+   "Rising rents draw Wall Street money to industrial outdoor storage lot investments across the U.S.",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbHdETW8wRVctc294STJHUHl3QkZaV0xKcjNDR2daRXlBWlpES0xUaDVEbTFyazZrdUdRYktOcDFOWkJKWVhSYThCM1Z2S3NjT0FHUF9PUzlTZVBuZmN1SjQ0U3Y2U1hVVkxma3JPVEJoMlBEWUM5MnlIaWJhUFZyYXBOQkEzVjhleUdLUWdkT0NTd9IBlwFBVV95cUxObWlobFBpRUs4TzY5aWdNaFhWeTdILVVzbUxuQ2pmbFpfeW5md1BIQ1NJZ2tjQXJQM1l4dUp6OVI3dUlEQzQ0X2RmU2l1R194R1FNUFF2Tkd1VzltVzNxUjMzbGlUWl85dWNjRWItY051QU5EOFlEVGFtM2ktdUhYWHV1YVZGTlFXQkQ1TldiZDl3MUZMZWFr?oc=5"
   ],
   [
    "Commodities",
@@ -332,9 +332,9 @@
   [
    "Commodities",
    "med",
-   "Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' Maine nonprofit says",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMTQ1NGRLd1VlZDF4a2t5eS1ZbGFkcWtPdGNDR1NhNjJPbkJQWG5IWGVlQmVHM3hCLVZEdmwxVGFKTjhUWElnM09kYlZmRjd3YnJQTmlFWGM4YzFqZnZtenRSNGUtT1FTVzN1RWZ6dHJKUTh2djIxMFNQNjdCTjVSeDl1NjPSAYoBQVVfeXFMT2JSbzV2akh2THVteUh0am1tcWx1UDVOUGxTc19wQkdYUHh5MDh6cTh0NTdFbDQtSHRUOUNRTE45SjBNQzNhaEJfSGZSX2JUVzBZSm1HUkRjT3NTQkpjUV9OOUZWNERuZ2x1REpWUnZCODJGY2dDdmhsYTJEeDIzOGdLejI3cjhjdXdR?oc=5"
+   "Home heating oil price declines from October high but still up 59% YoY",
+   "Seeking Alpha",
+   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQW5fa2s3TW1pUVpGbjRJZkoxTjhGUURYZkRjMzZhNml3Z0VKX3dRTWNla1FFZ1ZfTVRNU3U0SUd3Tldia2VkWEFabTVWdVNoSHdTYWRxeGptNkw5b3hMMzV3anluZVNvZHJfRmZtczVVb2loWXBCT0Rjand5NXpZVkY5X2I2UFdoaFBYN180Y0tsM0ozRWNHUlpJLVh3SHE5QWFxWV9ORmhabGs?oc=5"
   ]
  ]
 }
