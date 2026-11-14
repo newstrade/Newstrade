@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:18:44.589Z",
+ "updated": "2026-11-14T11:29:46.697Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -132,15 +132,15 @@
    "d": 4,
    "p": 0.6774,
    "ch": -0.54,
-   "asof": "2026-11-13T22:29:33.000Z"
+   "asof": "2026-11-14T10:29:34.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4267,
-   "ch": 0.09,
-   "asof": "2026-11-13T22:33:36.000Z"
+   "p": 1.4269,
+   "ch": 0.11,
+   "asof": "2026-11-14T09:59:38.000Z"
   },
   {
    "s": "USD/CHF",
@@ -148,23 +148,23 @@
    "d": 4,
    "p": 0.8382,
    "ch": 0.44,
-   "asof": "2026-11-13T22:01:16.000Z"
+   "asof": "2026-11-14T09:59:47.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 67344.36,
-   "ch": -1.31,
-   "asof": "2026-11-14T03:18:42.000Z"
+   "p": 67189.39,
+   "ch": -1.54,
+   "asof": "2026-11-14T11:29:44.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 1902.57,
-   "ch": -1.29,
-   "asof": "2026-11-14T03:18:39.000Z"
+   "p": 1907.18,
+   "ch": -1.05,
+   "asof": "2026-11-14T11:29:41.000Z"
   },
   {
    "s": "S&P 500",
@@ -194,16 +194,16 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3887.6,
-   "ch": 0.06,
+   "p": 3886.3,
+   "ch": 0.03,
    "asof": "2026-11-13T21:59:59.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 88.92,
-   "ch": 0.2,
+   "p": 88.56,
+   "ch": -0.2,
    "asof": "2026-11-13T22:00:00.000Z"
   },
   {
@@ -218,9 +218,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.9231,
+   "p": 16.9233,
    "ch": 1.14,
-   "asof": "2026-11-13T22:33:36.000Z"
+   "asof": "2026-11-14T09:59:45.000Z"
   },
   {
    "s": "USD/NGN",
@@ -234,17 +234,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 75.7,
-   "ch": -3.06,
-   "asof": "2026-11-14T03:18:39.000Z"
+   "p": 75.73,
+   "ch": -3.03,
+   "asof": "2026-11-14T11:29:39.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 0.9981,
-   "ch": -1.13,
-   "asof": "2026-11-14T03:18:41.000Z"
+   "p": 0.9896,
+   "ch": -1.97,
+   "asof": "2026-11-14T11:29:44.000Z"
   },
   {
    "s": "Apple",
@@ -274,18 +274,18 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 48.65,
-   "ch": -2.83,
+   "p": 49.121,
+   "ch": -1.89,
    "asof": "2026-11-13T21:59:59.000Z"
   }
  ],
  "news": [
   [
    "Forex",
-   "med",
-   "China’s Central Bank Tweaks Forex Reserve Rules to Steady Yuan",
+   "high",
+   "Yen Slumps as Fed Rate-Hike Bets Boost Dollar",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaUVpai1RSG9LWk82anFJT1hrZlgtM0t3LTQ5ZDBHLXFOLVpyOFhiR0xZa3pLMkluNnpOdzBHWDdwbnZESzk2bWhybUhmdGZUSFFVd0owXzV1ZXJlcXliazhtclhMTV9vQzlSOGlZd0VlNUFLM2V2RUFwNG9SUjFWSG5aeXNUdzBlcmlvRl9RR3JvNUJwZFluUGVrVGduVXpNUEdCcjFTVFI5RktrU1JyMnd0R2E?oc=5"
+   "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3EzbUZLMzVNX1JTTVVjTVYwOVhoR0JQMXlRWjh3WjA3OGlfRkhvek43Qk90UW1jeWVDOWZMa2djT0JlSnhoRUh3SXBtbWpRQ1Q5SkNJbnVhZHR5X2NsWTFLT0w4TG4tOEdXQlBVdG91RGp1aWFtNkxJN3NZYktEN1dRWWU3LWQ3MTJ3SjNKejBkc1Zsb3JTV3Myd2t5SnZEeHRaZQ?oc=5"
   ],
   [
    "Forex",
@@ -297,44 +297,44 @@
   [
    "Crypto",
    "med",
+   "Will Bitcoin Never Set Another All-Time High? Analysts Debate On X",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMVY5WVlOS0JoUXFOX3EtSmN5RDBNT2x6dGU1S1AxaER5VGdYWDJGU29sT3JJVkhNQXlienVEWXg0N2ZyWWFsVmFCbjBNbDZiVFRGN0pId3hQSzlEQ0FrOXhub09lenhmU0hSZTZUSFQtUkpfclFRNk9aOHF4aG80TFFvT0tiVkV2UWNyOG5TRUZlVUxQWV8waEJQMA?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
    "Bitcoin Slips Below $70,000 as Higher Yields Weigh on Crypto",
    "Bloomberg.com",
    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDBSRFdONDlCQWdnQTRaTDVQNUVyLVBaak5HWUMyazNza1NndXVxaDYxdHAwdlVhWXpZSXRjSmJmd2p3MVRJSUhCeWljTV9MSVhkb29tejk1Q2QtQzFsZXZ0QzhZZkFjOXdFTGY5SWpGUmRmWlNreG1NbUJOd3l1X3RSRUF1VFRITG5ybVBiR3FYZXFMSXdzM1NHUkYwQ3FrTkFWTy1EbzlsckxsalI4?oc=5"
   ],
   [
-   "Crypto",
+   "Stocks",
    "med",
-   "Why Bitcoin Is Falling Today",
+   "Prediction: Nov. 18 Will Be a Massive Day for the Stock Market",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTXNMM3YxTGlpTGtkckZHdjRXaWVhTlhwOXk4ZGNldGJ1Z0ZnRmM4Y29CNHJ4R1cyX0dYYTNXVEV2UFh4c295OWZFdXhMNTFuQkRKcTFVZW82NUVhZ3ZHN1ZleU5uUlZIR0ctTTZFaGdCZTJXQnlWWW9MNjJ3ZjBrVGRITEF3NTNqZzRXdUc3VTBUQm8y?oc=5"
+   "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRXlDZ3FNZGJ5SldRNnRBNUtmdG04bDFsWm9YdWh2ZHFWelJ1NDNnWmlqUUc3Ymp0RTFpV1RjblV1T1JYbWlPWFNzVGhGZXFzMkdzSmYtanY4b0VTWXc3dTZNQ2c0RWJaNEJaVGo4VU1KYkEzZGZBY1BqdlpBX3NibXhOS1h2aHppV2ZJWnRLUWRqODF0TVUxcWhn?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Exclusive | U.S. Aircraft Evacuated From Second U.K. Base Due to Iran Threat",
+   "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0tDaWxJVnFUVzlrbFZ4UlNRWTRpdWdidXRnenUzSVlISnNTT1RNaDRNWC1iWU9PZXdPTHRQUUJOTlJaOFRLdWxodDBhV3hINllRODNtSnVtdVU5ZHZMcWN1Q0h5ejJUVHB2WGpyVWxJU2ZFTGtROC11SUJTdU1DNWt5MUNiRTFfSmNkMjhrcU1aODh6bEQ2SThibDcxMUIzUmx4TDRsR1cxcUNta0E?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "S&P 500, Nasdaq fall as Nvidia jitters drag down tech stocks",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vRVJTMVNHamxmYjhLY2d6YnJMTnh4dlV2NHJkSWR2YnZVN0F1UThrdm1FZVRMMXVOcjJJcHhBRjFNWE5IMExUa3lZVXk5cnMtX2hvMmlJSUx3dlY5SUNoeFlvTjFDQ1k?oc=5"
+   "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3B0dEx6NFJNd3BrRERfNktKdUdWN3U2MWRFc29LNExfVWgxcXhQcHhMQ2otRFV0SVRnVmZRVENUVTR1ai11TzZCaVdfNmM4ay10VFRZOUplOHUzam9jbXJEZzJJRHZOcngwdUNFSHJPelVZaEs3M3NnOXhvQUt1XzVsOA?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Trump Extends Jones Act Waiver For Another 90 Days",
+   "U.S. Oil Rig Count Holds at 463 as Crude Output Hits Another Record",
    "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS2VtMi1qMWNNXzVuTVY2ZS1YbVJkWlZvRkQ5TmtaSmZNZzEwNDQ0RVVpLXY3TzJ6RzFrcWdrdEs4b3AzdTJNUGJzM1B4b05XQkRySHVqQlRJNE9YekN1UWdMOGQwYnNhcmlVODlDS1JwbVlMZW1LRkpKMlV3Q2RNNXRIZXJGcWtzc1ozNncxV0djNmNIQnIwWDNua1hIYlgwM0dxS1gxOXdXQdIBrwFBVV95cUxOcl95Z05DQl9RaVZ5T2J3RFB3NkpFT25sM3Y4MW1VODNyeFBkSXF3WTBKS0VmSUk2b3k2Z3dMRzVUTDVnTElBUm1vM3EteGNXc2pnSDg1NWx4Yk9GaUF6X3RfcG9wOWVVZXotMGFqZUNKUXRxeGhkdkdWM3hhUXVvUncxVWJJWDFoWkJORGRmRld2Z0ZuMHAxX0NMQ0JjcTFrSXpsekhoZWJhajlfYmlV?oc=5"
+   "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcTdsZVZLTmpfaC1fTXg4WGZyU2c1dUFhWjY5TS1tN3MzUmttcDBlREdXQ3hQYXNJZlk1cVYyY1pVLVh5cUt3VkxsNVJfZ1piOERTdW1RQlR2UmFWcUdCYjJzWndyVDg2c01ILWFxRklrS3lKN0hwRGpwMTZOQ2RfWEV4OXBuZXhWNzlUZUZNMDFVbExzX0pwNThnanZqbG5BYjUxUdIBqgFBVV95cUxQckdWYXdWbzQ5R0EzSDJDcVJUaHdyT3RqRm5SQlVRbGZWbmpLUE1Zb3NFWWlfaDJodUVwVUlEVEo3dk13TzFfcHhGbEtBTlBodWtfa0FvYUNHT2pGZ3lONVRLVGFEVG9sdTRwRE1IakxMRDlsSFpmSmJBY1R3V05yencydzdyeUt2bTBRenlKNFg5cGRJUnh6VnV5T1JFYlFoZ18tTVZMX2ZVZw?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "The Day with Brent Goff: Microsoft outage",
-   "DW.com",
-   "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMzcxN3l3Sk1GMXlqNG5LWVE4cHpiUWtzRk1kdjFncWtId1BPQ3J0UXcxQkdSWUxfRFYwSEpMRHRkY0VGd2QweWVybjE4N2pTQ0lJcjVxcHBYWDh6cF8wWUlNakdpTlFfZzNpRWJxdGE1SG9QMF9MZl80bUZHWGt0RmZ5Yw?oc=5"
+   "Brent and WTI set for losses of about 2.5% in week to Nov 13 as surplus concerns grow",
+   "Nation Thailand",
+   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01LTJ6WHVnYlFGamxyNzd2QmU0SXdKZ25PcG5tdnhQYzd5YkpxMFd6U1lPOUk4cDRfS21ERHBvSDl5MHNkbldNemVfdUJKYThQcmx0LUdfSXJRU2ZBaklR?oc=5"
   ]
  ]
 }
