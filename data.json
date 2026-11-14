@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T11:29:46.697Z",
+ "updated": "2026-11-14T18:05:28.010Z",
  "events": [
   {
    "iso": "2026-11-09T12:25:00-05:00",
@@ -108,7 +108,7 @@
    "d": 4,
    "p": 1.1028,
    "ch": -0.28,
-   "asof": "2026-11-13T22:29:33.000Z"
+   "asof": "2026-11-13T22:29:46.000Z"
   },
   {
    "s": "GBP/USD",
@@ -116,7 +116,7 @@
    "d": 4,
    "p": 1.3209,
    "ch": -0.2,
-   "asof": "2026-11-13T22:29:33.000Z"
+   "asof": "2026-11-13T22:29:46.000Z"
   },
   {
    "s": "USD/JPY",
@@ -132,7 +132,7 @@
    "d": 4,
    "p": 0.6774,
    "ch": -0.54,
-   "asof": "2026-11-14T10:29:34.000Z"
+   "asof": "2026-11-14T10:27:48.000Z"
   },
   {
    "s": "USD/CAD",
@@ -154,17 +154,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 67189.39,
-   "ch": -1.54,
-   "asof": "2026-11-14T11:29:44.000Z"
+   "p": 65778.55,
+   "ch": -3.6,
+   "asof": "2026-11-14T18:05:22.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 1907.18,
-   "ch": -1.05,
-   "asof": "2026-11-14T11:29:41.000Z"
+   "p": 1836.97,
+   "ch": -4.69,
+   "asof": "2026-11-14T18:05:27.000Z"
   },
   {
    "s": "S&P 500",
@@ -234,17 +234,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 75.73,
-   "ch": -3.03,
-   "asof": "2026-11-14T11:29:39.000Z"
+   "p": 72.59,
+   "ch": -7.05,
+   "asof": "2026-11-14T18:05:24.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 0.9896,
-   "ch": -1.97,
-   "asof": "2026-11-14T11:29:44.000Z"
+   "p": 0.956,
+   "ch": -5.3,
+   "asof": "2026-11-14T18:05:23.000Z"
   },
   {
    "s": "Apple",
@@ -289,52 +289,52 @@
   ],
   [
    "Forex",
-   "high",
-   "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObHdUdHU4THB4UDd4OGVhZDVvVTkyYWZtRzRFNnIxVmE3UmlFdmxMNFh0eWNOd0N2cFVGc1N6TXhGSDh3SmtQdWNrSTBrclFuYlRhUDNBSEozLV82b3lzQ1JiQ2w0b2JMLUhzZzJsZVZGVVF3aU8xNW0xY3d4YzBCM2l6VEpEOGw0SmFFVTk1SFJIRk5DV2xtM2ZTTDR1eFVsb2I0SHVOanR1WUlPX3M5S2R0OE94SWswa1BJ0gHAAUFVX3lxTFBWUnlYVUhxY2hRTmN1RUtBZWs2M3lEc0FiWm91bmxtcDBTSktkYkNVRVBndDB3RTFTXzZ4M19hV3VvY0JQT2xXU0ZVMU1zOTRhUmdFaW1Qa19CYlN5UHBvcFhTMGMyQjFiV1N1cUJXUTQwTkZDT1N3S2JSSzZSREhxcDRTVWVPT3B1MTc5YV9zWTRlbHZiQ2Z3TDVrRGFGOWRWNzU5SENxVnNmVTJUR0c4bUJJaGx5VC1kbFhYcmJWdw?oc=5"
+   "med",
+   "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOalUtSUdFMWVHVW0zRDJBSFBfd2NGMWtyT1I1SzlHbVg2WmxxNjl3eWhrVkRpRjdocUdGNVl3Nnc5ZC05RHNBQTI2aFd5S00yWS1WOVRoQW0xSzZuQXRDNmJzTERVT2E1SGwyYlJ6RC1OQmdaa3ltVU5fb3BwcUM4M1k4Z1N2ZGdvRUpseDZLRjV4dXI0OHVZTUtRTENVYmxzMGJVMjc1ekNLRVNpdG1kZU9OQmZGMFlRazFqUm1ZRTJQVkJNOEJuajM2NkprZVpj?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Will Bitcoin Never Set Another All-Time High? Analysts Debate On X",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMVY5WVlOS0JoUXFOX3EtSmN5RDBNT2x6dGU1S1AxaER5VGdYWDJGU29sT3JJVkhNQXlienVEWXg0N2ZyWWFsVmFCbjBNbDZiVFRGN0pId3hQSzlEQ0FrOXhub09lenhmU0hSZTZUSFQtUkpfclFRNk9aOHF4aG80TFFvT0tiVkV2UWNyOG5TRUZlVUxQWV8waEJQMA?oc=5"
+   "Bitcoin price analysis: BTC continues to decline Saturday, entering 'deep value zone'",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREhQQTJ6T1M4cmdyMzU2SUhaYWszWDZOOWp0TzJ1M240RnY3RjI4OEpCQmlHR0pFbU1FekdXMXE1dzVjVHJlZ2ZMUjdOYXZIem5JY01DQ3JyYnIyUWxnZWNoR25TTG9DdExHNjNGMTdSNzJLZ3pKQ0JJeWxzMjV5cUlid3JkR0czV3ZmWlRnWXZ5QVBaSFJYZmltaU1Caks4NkdPTHo2bjE?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin Slips Below $70,000 as Higher Yields Weigh on Crypto",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDBSRFdONDlCQWdnQTRaTDVQNUVyLVBaak5HWUMyazNza1NndXVxaDYxdHAwdlVhWXpZSXRjSmJmd2p3MVRJSUhCeWljTV9MSVhkb29tejk1Q2QtQzFsZXZ0QzhZZkFjOXdFTGY5SWpGUmRmWlNreG1NbUJOd3l1X3RSRUF1VFRITG5ybVBiR3FYZXFMSXdzM1NHUkYwQ3FrTkFWTy1EbzlsckxsalI4?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Prediction: Nov. 18 Will Be a Massive Day for the Stock Market",
+   "Bitcoin Just Crashed Toward $66,000. History Says the Worst May Not Be Over",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRXlDZ3FNZGJ5SldRNnRBNUtmdG04bDFsWm9YdWh2ZHFWelJ1NDNnWmlqUUc3Ymp0RTFpV1RjblV1T1JYbWlPWFNzVGhGZXFzMkdzSmYtanY4b0VTWXc3dTZNQ2c0RWJaNEJaVGo4VU1KYkEzZGZBY1BqdlpBX3NibXhOS1h2aHppV2ZJWnRLUWRqODF0TVUxcWhn?oc=5"
+   "https://news.google.com/rss/articles/CBMimwFBVV95cUxOenp5c0wxeVNoM3R5Vk5KZERkZVJ1NjhqUllaM3lzUW52c3BVRzRMc0xMbTRIeV9XWGRXc0VfT0szOE1FbkxSOE5wMXJwTlVNQTBxbUQ5aEliQWZqTVJpVXdFc01XRWhWTC1zVHlLRngyUGpUZVQ2REs4U19INFp4ZF9Cd0tEazN4b3dKd2d5ekZtQ2Y4ekZkOU96WQ?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia",
+   "The S&P 500 Has Gone 18 Months Without a 10% Drop. Here's How the Next Year Has Gone After Streaks This Long.",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTTB4LU82WVF5dnJrX0NRZ05lQUtqSEN5VWZFQ2RUcHZONTBYSXVuRzZMRHBBdm9yX1ZxVEQ2cHQxSEdlR3BrU0xuelkwLS1tWGFPem94bURBS0xLODdKdmRzd2VSeDhvdmhMc3FuM1hJeW9uaEFndXpNdnB0cWRJSk9OYmdhYmJwZEZ4bzZ3?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
+   "Before His Ouster, Jensen Huang Belittled the Executive Replacing Him",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3B0dEx6NFJNd3BrRERfNktKdUdWN3U2MWRFc29LNExfVWgxcXhQcHhMQ2otRFV0SVRnVmZRVENUVTR1ai11TzZCaVdfNmM4ay10VFRZOUplOHUzam9jbXJEZzJJRHZOcngwdUNFSHJPelVZaEs3M3NnOXhvQUt1XzVsOA?oc=5"
+   "https://news.google.com/rss/articles/CBMie0FVX3lxTE9maWRVVUJxUEQzbHk2X0hGUE0wYmVRbTRlVVdaRGVYZUhfWVR0ajdIVkp2ZElQRnRlbXNZeks0bFFQX21uYjNJbHduZG43RXhpSFRjZmVaU2hRTkdfakRMdGQyamdld0FjaWx4T2VOUWpmU0ktZmZYeHN5bw?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "U.S. Oil Rig Count Holds at 463 as Crude Output Hits Another Record",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcTdsZVZLTmpfaC1fTXg4WGZyU2c1dUFhWjY5TS1tN3MzUmttcDBlREdXQ3hQYXNJZlk1cVYyY1pVLVh5cUt3VkxsNVJfZ1piOERTdW1RQlR2UmFWcUdCYjJzWndyVDg2c01ILWFxRklrS3lKN0hwRGpwMTZOQ2RfWEV4OXBuZXhWNzlUZUZNMDFVbExzX0pwNThnanZqbG5BYjUxUdIBqgFBVV95cUxQckdWYXdWbzQ5R0EzSDJDcVJUaHdyT3RqRm5SQlVRbGZWbmpLUE1Zb3NFWWlfaDJodUVwVUlEVEo3dk13TzFfcHhGbEtBTlBodWtfa0FvYUNHT2pGZ3lONVRLVGFEVG9sdTRwRE1IakxMRDlsSFpmSmJBY1R3V05yencydzdyeUt2bTBRenlKNFg5cGRJUnh6VnV5T1JFYlFoZ18tTVZMX2ZVZw?oc=5"
+   "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
+   "Kitco",
+   "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Brent and WTI set for losses of about 2.5% in week to Nov 13 as surplus concerns grow",
-   "Nation Thailand",
-   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01LTJ6WHVnYlFGamxyNzd2QmU0SXdKZ25PcG5tdnhQYzd5YkpxMFd6U1lPOUk4cDRfS21ERHBvSDl5MHNkbldNemVfdUJKYThQcmx0LUdfSXJRU2ZBaklR?oc=5"
+   "Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' Maine nonprofit says",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMTQ1NGRLd1VlZDF4a2t5eS1ZbGFkcWtPdGNDR1NhNjJPbkJQWG5IWGVlQmVHM3hCLVZEdmwxVGFKTjhUWElnM09kYlZmRjd3YnJQTmlFWGM4YzFqZnZtenRSNGUtT1FTVzN1RWZ6dHJKUTh2djIxMFNQNjdCTjVSeDl1NjPSAYoBQVVfeXFMT2JSbzV2akh2THVteUh0am1tcWx1UDVOUGxTc19wQkdYUHh5MDh6cTh0NTdFbDQtSHRUOUNRTE45SjBNQzNhaEJfSGZSX2JUVzBZSm1HUkRjT3NTQkpjUV9OOUZWNERuZ2x1REpWUnZCODJGY2dDdmhsYTJEeDIzOGdLejI3cjhjdXdR?oc=5"
   ]
  ]
 }
