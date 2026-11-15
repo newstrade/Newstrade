@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T10:56:57.905Z",
+ "updated": "2026-11-15T17:43:48.146Z",
  "events": [
   {
    "iso": "2026-11-16T08:30:00-05:00",
@@ -291,9 +291,9 @@
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4269,
-   "ch": 0.11,
-   "asof": "2026-11-15T05:21:15.000Z"
+   "p": 1.4267,
+   "ch": 0.09,
+   "asof": "2026-11-15T17:17:27.000Z"
   },
   {
    "s": "USD/CHF",
@@ -307,17 +307,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 65436.13,
-   "ch": 2.05,
-   "asof": "2026-11-15T10:56:46.000Z"
+   "p": 64568.57,
+   "ch": 0.7,
+   "asof": "2026-11-15T17:43:44.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 1827.66,
-   "ch": 3.33,
-   "asof": "2026-11-15T10:56:55.000Z"
+   "p": 1807.26,
+   "ch": 2.18,
+   "asof": "2026-11-15T17:43:42.000Z"
   },
   {
    "s": "S&P 500",
@@ -365,15 +365,15 @@
    "d": 2,
    "p": 129.86,
    "ch": -0.04,
-   "asof": "2026-11-13T22:33:36.000Z"
+   "asof": "2026-11-15T17:17:55.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 16.9233,
+   "p": 16.9231,
    "ch": 1.14,
-   "asof": "2026-11-15T05:21:15.000Z"
+   "asof": "2026-11-15T17:17:27.000Z"
   },
   {
    "s": "USD/NGN",
@@ -381,23 +381,23 @@
    "d": 2,
    "p": 1342.29,
    "ch": -0.02,
-   "asof": "2026-11-13T22:33:36.000Z"
+   "asof": "2026-11-15T17:17:26.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 72.08,
-   "ch": 2.71,
-   "asof": "2026-11-15T10:56:56.000Z"
+   "p": 71.23,
+   "ch": 1.5,
+   "asof": "2026-11-15T17:43:44.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 0.963,
-   "ch": 5.45,
-   "asof": "2026-11-15T10:56:56.000Z"
+   "p": 0.949,
+   "ch": 3.92,
+   "asof": "2026-11-15T17:43:45.000Z"
   },
   {
    "s": "Apple",
@@ -450,30 +450,30 @@
   [
    "Crypto",
    "med",
-   "Bitcoin Tumbles to Three-Month Low as Liquidations Accelerate",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZFN4Yk1qMGk3ejFQc2RuVXlMMWoxUmd6T3NHOGM1WEFCd2E2ZFplM0NXMGRhb3VFS0VtWEtVajlzUS1UV0N6aVpZSlB5Wm5rbWNTUG9nNTNoNUI1LXB1OF9vUWxRNHVSaXBkbmJlbXFYZ1BWWllpY2FoUm5KWXdycXM4VTZXNldjVDJTUHYzRG1IWUt5Ujc3NjFvYWVab1IyUWxQaVVkb2E0NWlLY1hyRHZ3?oc=5"
+   "Bitcoin’s four-year cycle is about to turn bullish — if history repeats: Chart of the Day",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZnJscnVUWk1EM255N01qYlh4M2xtWkFTV0VXdDRZcU9RbWFlOWZ0ekN6MlZESUxjRlUyRUxVQ09UWWVrcTRkZDM2Ykg3d0lueTNXQ0tBOFVEekxpazZ2OVlqVGdyb2xxYnAzSGs2OFF5WXN4Qk0wdDMxNDBnejd6ZmZjOFAyNHZkY0NmS25KcWMzcXlOYTRPRFcwSGw5aTc1NmFwdVQtMDI2ZFcxdFdTZlN6aVcxb2c4azZMQkNhWklNbXZQY2xYNFI2SlowVi0tVUJVNnFNRWdONDhfSjl4UGRFa0M?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin price analysis: BTC continues to decline Saturday, entering 'deep value zone'",
+   "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
    "CoinDesk",
-   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREhQQTJ6T1M4cmdyMzU2SUhaYWszWDZOOWp0TzJ1M240RnY3RjI4OEpCQmlHR0pFbU1FekdXMXE1dzVjVHJlZ2ZMUjdOYXZIem5JY01DQ3JyYnIyUWxnZWNoR25TTG9DdExHNjNGMTdSNzJLZ3pKQ0JJeWxzMjV5cUlid3JkR0czV3ZmWlRnWXZ5QVBaSFJYZmltaU1Caks4NkdPTHo2bjE?oc=5"
+   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSmpaMzEyMUJxT0FVWGdZaDFHQ2NQcGRPOTJkdVowNFZqZmkxS01UZG1MY0RBNm95bXAxQ1BhZXBGanMzcUdOZWxhM3dqSmxITnJUakZ4NEhfTnY3a0FnQjl4WG9OTE5rRXJ1QVJSQlgxOFpqRzRaU3ZXQ3VyVDdUMWZoMlJxcGtoZlF4dmo4eTh4QjY0dlAxVmN6RVBENUpzM1hxQkJ1T2hpWFBpSEVxV204VUhGZTNBTUxkNVBVRnFpTWRyWUtZdg?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "3 Growth Stocks Building Momentum for 2027",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxPejJDNEtUWm5DU29obEhhTUc0SXd2cm5CNG0yU2JtYlZ5X3RXTFVuVXNrNnJjSGg5VU10SWFyWXFWZ2lkbnY0c3kzVko3SERTY2ZxQUx2bWx6N1dWQWlSdzMtUDh2dlQtMGpxZGlFZzNpWWZnZjBXZjVKV3BTOUd0S2VWWHk0RnhHdFhXV19NRVVUZUNOU1BlODAwSktEMms?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "The Individual Investors Who Are Hot on Anthropic’s IPO But Cool on AI",
+   "U.S. Stocks Climb as Investors Regain Confidence",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWEN6Mk43NjhtMVJzaVNhWTRvOUtSZ3NLd1I4UWtRTHI1Vk9RTGRSbFlHZ1g4bTY0MnVqb0ltNEh1NTVqVmpLb2tCTGp2dTBNUHpfWFI1aDB1VjBmcFNseG9KbHNkbXVUV2JIdEI0ZlNPVW13Q0IxTTZWZkxnSHJPRC1oOWlScHJkSVhzZGltSEtzVFdPZzUtMVByU0ZMZExMbXFsREFlclVMbldRRWd1TmoyVQ?oc=5"
+   "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdjlINllmNm02MTZleDF4MVdGX3FVaFAzRGhmckNEbUstLU5iWGFldm8xZ3dVQXNmMjRYdXBmcktTUG43dVE5eHEyZkdyM0NDdzNCdllab2ViVHhuS3JuQ1BfZUExa1ExQ3h5RG5XRWRmZnN6NWFlN29mU18wYld2ZTQ1aGRfUWs3UzFFNDR5Mk9qVGZtVnc?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
+   "Stocks Have Risen a Year After Every Midterm Since 1950. Here’s What That Does and Doesn’t Tell You.",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMingFBVV95cUxPY3ZvNEVCWU04NnZhRFF0S3h6Z2ZSYUl2cHAwT1gtR0ZRQ0lfdC1GQ1N0ek5iaFM0eDRLVWVJcThwUUNHczRXVzBsb2s0eU5mdVF0QzhHOGxSMndzRlhpQTNwUklabVBSbDFZeHh6ZWRGdWVMM25hTlhIVDJFa0NQcmpOSlc0SlJIUkRabjE3RGhCN1BLY2ZGX1JXeGROdw?oc=5"
   ],
   [
    "Commodities",
@@ -485,9 +485,9 @@
   [
    "Commodities",
    "med",
-   "Iran War Accelerates Southeast Asia's Renewable Energy Push",
+   "Electrifying Ambitions Meet Tough Reality in Europe",
    "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYlFYMkktUmF1cVBlZlRKVVRLaU9udXZvZGJLTTFnU0J2TGtUcGtyYzNRUVR5MmhSVDNNeWpLT2pxQ2FiNjRkS1hOcEJoaTg5SHNSOWpnLVN1TTZvb0JvZ1E3cHc1SzdDZEh0U3FETlR5QmtzWnRsTkQ3SmxyQ2JrLUZ4cHFsemVkQUl1NmYwenJMWjV2bE1pT29EMDJLcENFQVJrMTNNOUlNQdIBrwFBVV95cUxNQ1BLYTh4UWZDTGljZHZBa2VPSGlKNDUzbXFsZUJPcEhibFRRRXVoWVcycHYxY21FNTdZU25pRnZKaXR3MTVmdElpZWZiZGM0YXNIV3BVSnhlTGVCc1ZXb0Z3SHkzN3RxU3BIYXprdFBxaVcwR28yZHAyWmR6UUw5Z0dERlNtZS1ELW9OUEVxNHNoWXRuWGJ3N3V4eE4xeWtiUnFCTnZsSXZGRUEyQno4?oc=5"
+   "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOTI3SGdjYXBxc3dlc3ozY1BmZWhfb3NjMUt3NVRTQVliS0hPTGJSZGtic09JcEl5Qi1MMmZ3TjJmQkRIa1lpV0hLUVdDckY0NkRMMEdlOWxrejJ2ajNEcWpWZDRXRU5qbmJsTGNDc3BrOU01eV9ndWdSUXdHYTE3NFRFbjJhM05FME01R0lwci05X0twTmgxNlg1bkJFZFVD0gGmAUFVX3lxTE5oVzFldTlrdmNFVFJwMlpMbWR1T2s1dXR2VDQ1YW5sU2xUcURfdEpCNE1UWm5TelN4UDFHSmYtRHJIa3l0WURKUkRlT2pWNk5jVFY4dF91R0dQVkJyMHJUTWJzRU1JNnY3VnRXNE9RZ0FkN2JCb2dUSXllb05NZ1FySllpS1pid1JEeGxtWnFLQl9pY1dLTjNmeUtRVWNwYzlUcHFxU0E?oc=5"
   ]
  ]
 }
