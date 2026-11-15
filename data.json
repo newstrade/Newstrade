@@ -1,17 +1,233 @@
 {
- "updated": "2026-11-15T02:41:47.442Z",
+ "updated": "2026-11-15T10:56:57.905Z",
  "events": [
   {
-   "iso": "2026-11-09T12:25:00-05:00",
+   "iso": "2026-11-16T08:30:00-05:00",
+   "tag": "CAD",
+   "imp": "high",
+   "name": "CPI m/m",
+   "fc": "0.3%",
+   "prev": "0.1%",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-16T08:30:00-05:00",
+   "tag": "CAD",
+   "imp": "high",
+   "name": "Median CPI y/y",
+   "fc": "2.0%",
+   "prev": "1.9%",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-16T08:30:00-05:00",
+   "tag": "CAD",
+   "imp": "high",
+   "name": "Trimmed CPI y/y",
+   "fc": "1.9%",
+   "prev": "1.8%",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-16T08:30:00-05:00",
+   "tag": "CAD",
+   "imp": "med",
+   "name": "Common CPI y/y",
+   "fc": "2.5%",
+   "prev": "2.4%",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-16T12:00:00-05:00",
+   "tag": "USD",
+   "imp": "high",
+   "name": "Fed Chairman Warsh Speaks",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-16T17:50:00-05:00",
+   "tag": "AUD",
+   "imp": "high",
+   "name": "RBA Gov Bullock Speaks",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-16T21:00:00-05:00",
+   "tag": "NZD",
+   "imp": "high",
+   "name": "Inflation Expectations q/q",
+   "fc": "",
+   "prev": "2.34%",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-17T02:00:00-05:00",
    "tag": "GBP",
    "imp": "med",
+   "name": "Average Earnings Index 3m/y",
+   "fc": "3.5%",
+   "prev": "3.7%",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-17T08:30:00-05:00",
+   "tag": "USD",
+   "imp": "high",
+   "name": "Core Retail Sales m/m",
+   "fc": "0.4%",
+   "prev": "0.9%",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-17T08:30:00-05:00",
+   "tag": "USD",
+   "imp": "high",
+   "name": "Retail Sales m/m",
+   "fc": "0.2%",
+   "prev": "0.8%",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-17T19:30:00-05:00",
+   "tag": "AUD",
+   "imp": "med",
+   "name": "Wage Price Index q/q",
+   "fc": "0.9%",
+   "prev": "0.8%",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-18T02:00:00-05:00",
+   "tag": "GBP",
+   "imp": "high",
+   "name": "CPI y/y",
+   "fc": "3.6%",
+   "prev": "3.5%",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-18T02:30:00-05:00",
+   "tag": "GBP",
+   "imp": "high",
    "name": "BOE Gov Bailey Speaks",
    "fc": "",
    "prev": "",
    "act": ""
   },
   {
-   "iso": "2026-11-10T04:00:00-05:00",
+   "iso": "2026-11-18T04:00:00-05:00",
+   "tag": "EUR",
+   "imp": "med",
+   "name": "ECB Financial Stability Review",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-18T09:25:00-05:00",
+   "tag": "EUR",
+   "imp": "med",
+   "name": "ECB President Lagarde Speaks",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-18T10:00:00-05:00",
+   "tag": "GBP",
+   "imp": "high",
+   "name": "BOE Gov Bailey Speaks",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-18T13:00:00-05:00",
+   "tag": "NZD",
+   "imp": "med",
+   "name": "RBNZ Gov Breman Speaks",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-18T14:00:00-05:00",
+   "tag": "USD",
+   "imp": "high",
+   "name": "FOMC Meeting Minutes",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-18T19:30:00-05:00",
+   "tag": "AUD",
+   "imp": "high",
+   "name": "Employment Change",
+   "fc": "25.2K",
+   "prev": "-39.3K",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-18T19:30:00-05:00",
+   "tag": "AUD",
+   "imp": "high",
+   "name": "Unemployment Rate",
+   "fc": "4.7%",
+   "prev": "4.7%",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-19T08:30:00-05:00",
+   "tag": "EUR",
+   "imp": "med",
+   "name": "ECB President Lagarde Speaks",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-19T08:30:00-05:00",
+   "tag": "USD",
+   "imp": "med",
+   "name": "Philly Fed Manufacturing Index",
+   "fc": "19.2",
+   "prev": "20.9",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-19T08:30:00-05:00",
+   "tag": "USD",
+   "imp": "med",
+   "name": "Unemployment Claims",
+   "fc": "199K",
+   "prev": "200K",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-20T02:00:00-05:00",
+   "tag": "GBP",
+   "imp": "med",
+   "name": "Retail Sales m/m",
+   "fc": "0.0%",
+   "prev": "-0.4%",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-20T03:15:00-05:00",
+   "tag": "EUR",
+   "imp": "med",
+   "name": "ECB President Lagarde Speaks",
+   "fc": "",
+   "prev": "",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-20T08:25:00-05:00",
    "tag": "USD",
    "imp": "med",
    "name": "FOMC Member Waller Speaks",
@@ -20,84 +236,21 @@
    "act": ""
   },
   {
-   "iso": "2026-11-10T08:30:00-05:00",
+   "iso": "2026-11-20T10:00:00-05:00",
    "tag": "USD",
-   "imp": "high",
-   "name": "Core CPI m/m",
-   "fc": "0.2%",
-   "prev": "0.3%",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-10T08:30:00-05:00",
-   "tag": "USD",
-   "imp": "high",
-   "name": "CPI m/m",
-   "fc": "0.3%",
-   "prev": "0.6%",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-11T04:45:00-05:00",
-   "tag": "EUR",
    "imp": "med",
-   "name": "ECB President Lagarde Speaks",
+   "name": "Revised UoM Consumer Sentiment",
+   "fc": "52.1",
+   "prev": "51.0",
+   "act": ""
+  },
+  {
+   "iso": "2026-11-20T10:00:00-05:00",
+   "tag": "USD",
+   "imp": "med",
+   "name": "Revised UoM Inflation Expectations",
    "fc": "",
-   "prev": "",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-12T02:00:00-05:00",
-   "tag": "GBP",
-   "imp": "high",
-   "name": "GDP m/m",
-   "fc": "0.0%",
-   "prev": "0.1%",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-12T02:00:00-05:00",
-   "tag": "GBP",
-   "imp": "med",
-   "name": "Prelim GDP q/q",
-   "fc": "0.7%",
-   "prev": "0.5%",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-12T08:30:00-05:00",
-   "tag": "USD",
-   "imp": "med",
-   "name": "Unemployment Claims",
-   "fc": "194K",
-   "prev": "189K",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-12T14:30:00-05:00",
-   "tag": "EUR",
-   "imp": "med",
-   "name": "ECB President Lagarde Speaks",
-   "fc": "",
-   "prev": "",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-13T08:30:00-05:00",
-   "tag": "USD",
-   "imp": "high",
-   "name": "Core PPI m/m",
-   "fc": "0.3%",
-   "prev": "0.7%",
-   "act": ""
-  },
-  {
-   "iso": "2026-11-13T08:30:00-05:00",
-   "tag": "USD",
-   "imp": "high",
-   "name": "PPI m/m",
-   "fc": "0.4%",
-   "prev": "1.3%",
+   "prev": "4.3%",
    "act": ""
   }
  ],
@@ -132,7 +285,7 @@
    "d": 4,
    "p": 0.6774,
    "ch": -0.54,
-   "asof": "2026-11-14T22:29:45.000Z"
+   "asof": "2026-11-15T05:49:47.000Z"
   },
   {
    "s": "USD/CAD",
@@ -140,7 +293,7 @@
    "d": 4,
    "p": 1.4269,
    "ch": 0.11,
-   "asof": "2026-11-14T22:00:49.000Z"
+   "asof": "2026-11-15T05:21:15.000Z"
   },
   {
    "s": "USD/CHF",
@@ -148,23 +301,23 @@
    "d": 4,
    "p": 0.8382,
    "ch": 0.44,
-   "asof": "2026-11-14T22:00:32.000Z"
+   "asof": "2026-11-15T05:21:15.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 64571.44,
-   "ch": 0.7,
-   "asof": "2026-11-15T02:41:38.000Z"
+   "p": 65436.13,
+   "ch": 2.05,
+   "asof": "2026-11-15T10:56:46.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 1804.17,
-   "ch": 2,
-   "asof": "2026-11-15T02:41:43.000Z"
+   "p": 1827.66,
+   "ch": 3.33,
+   "asof": "2026-11-15T10:56:55.000Z"
   },
   {
    "s": "S&P 500",
@@ -220,7 +373,7 @@
    "d": 3,
    "p": 16.9233,
    "ch": 1.14,
-   "asof": "2026-11-14T22:00:49.000Z"
+   "asof": "2026-11-15T05:21:15.000Z"
   },
   {
    "s": "USD/NGN",
@@ -234,17 +387,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 70.79,
-   "ch": 0.87,
-   "asof": "2026-11-15T02:41:45.000Z"
+   "p": 72.08,
+   "ch": 2.71,
+   "asof": "2026-11-15T10:56:56.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 0.9465,
-   "ch": 3.65,
-   "asof": "2026-11-15T02:41:47.000Z"
+   "p": 0.963,
+   "ch": 5.45,
+   "asof": "2026-11-15T10:56:56.000Z"
   },
   {
    "s": "Apple",
@@ -290,9 +443,16 @@
   [
    "Forex",
    "med",
-   "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOalUtSUdFMWVHVW0zRDJBSFBfd2NGMWtyT1I1SzlHbVg2WmxxNjl3eWhrVkRpRjdocUdGNVl3Nnc5ZC05RHNBQTI2aFd5S00yWS1WOVRoQW0xSzZuQXRDNmJzTERVT2E1SGwyYlJ6RC1OQmdaa3ltVU5fb3BwcUM4M1k4Z1N2ZGdvRUpseDZLRjV4dXI0OHVZTUtRTENVYmxzMGJVMjc1ekNLRVNpdG1kZU9OQmZGMFlRazFqUm1ZRTJQVkJNOEJuajM2NkprZVpj?oc=5"
+   "Thai Central Bank Chairman Rebukes Slow Reform, SME Credit Slump",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNFlDUEJIOGpORzVsWktpLU02NVZFaFJUel9fOTgwRGVOSlFXQXgwLVJFb2NTWmQ5eE9HRE9qNjlXbEJpSE9YSnRwcm1ZbVpXNHN5RUZBZGQ1d3VwWGtaNzlVOTAxT0RnMXZQaGZ2VWZpNWh4MlNzckxHNVQ4Q1VqTmxZM21iUXNPWjh4eUtXa3RrNGw5ZUEzLWlVSXR2SzVQYUdXVUZsbFV4X3RDbmdQb2xMTzk?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "Bitcoin Tumbles to Three-Month Low as Liquidations Accelerate",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZFN4Yk1qMGk3ejFQc2RuVXlMMWoxUmd6T3NHOGM1WEFCd2E2ZFplM0NXMGRhb3VFS0VtWEtVajlzUS1UV0N6aVpZSlB5Wm5rbWNTUG9nNTNoNUI1LXB1OF9vUWxRNHVSaXBkbmJlbXFYZ1BWWllpY2FoUm5KWXdycXM4VTZXNldjVDJTUHYzRG1IWUt5Ujc3NjFvYWVab1IyUWxQaVVkb2E0NWlLY1hyRHZ3?oc=5"
   ],
   [
    "Crypto",
@@ -302,25 +462,25 @@
    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREhQQTJ6T1M4cmdyMzU2SUhaYWszWDZOOWp0TzJ1M240RnY3RjI4OEpCQmlHR0pFbU1FekdXMXE1dzVjVHJlZ2ZMUjdOYXZIem5JY01DQ3JyYnIyUWxnZWNoR25TTG9DdExHNjNGMTdSNzJLZ3pKQ0JJeWxzMjV5cUlid3JkR0czV3ZmWlRnWXZ5QVBaSFJYZmltaU1Caks4NkdPTHo2bjE?oc=5"
   ],
   [
-   "Crypto",
+   "Stocks",
    "med",
-   "Bitcoin Price Prediction: Where Could Bitcoin Be by Year-End?",
+   "3 Growth Stocks Building Momentum for 2027",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiowFBVV95cUxNay1mV0lDVnEzVWZVZEo4MjdfVzVCYXhLQmVTMllibVlpaEE0aUxoQ0E4V3lwV3k0dkNMZzBCY1BGX1p6U2hjSkFpNm5XRDFHZ2ZNV0NXWTZ6QjRrejdRTDZqSVJxZDNGU0pzdGszTzdrelFwQVVtSWVkZWx2b2l0a3pkOHk4XzlVME9OZFJrUEJIR0VEYkRQLXlnUGU3dGdUZU9V?oc=5"
+   "https://news.google.com/rss/articles/CBMinwFBVV95cUxPejJDNEtUWm5DU29obEhhTUc0SXd2cm5CNG0yU2JtYlZ5X3RXTFVuVXNrNnJjSGg5VU10SWFyWXFWZ2lkbnY0c3kzVko3SERTY2ZxQUx2bWx6N1dWQWlSdzMtUDh2dlQtMGpxZGlFZzNpWWZnZjBXZjVKV3BTOUd0S2VWWHk0RnhHdFhXV19NRVVUZUNOU1BlODAwSktEMms?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "He Thinks His $200,000 S&P 500 401(k) Spreads His AI Risk. Two Alphabet Share Classes Put $10,380 in One Company. A 20% Drop Could Cost Him $2,076",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTjBvMllSQlJudFZhTlFkYjQ3ZERqakZkV2I2Sm1iVXhlRnNkZnFSSjdUWTloaVlaMDc5OXNXTFlxV1VxUnl0Q0JqME5iNlZRbk80Q1p3d25nMGJyRVltXzZjdWh6V2R5LVltSHFWTFR6d2VaTklmaHZhOVNDX3pQcHpnT0R4TTZ5N0tZRnNB?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Before His Ouster, Jensen Huang Belittled the Executive Replacing Him",
+   "The Individual Investors Who Are Hot on Anthropic’s IPO But Cool on AI",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMie0FVX3lxTE9maWRVVUJxUEQzbHk2X0hGUE0wYmVRbTRlVVdaRGVYZUhfWVR0ajdIVkp2ZElQRnRlbXNZeks0bFFQX21uYjNJbHduZG43RXhpSFRjZmVaU2hRTkdfakRMdGQyamdld0FjaWx4T2VOUWpmU0ktZmZYeHN5bw?oc=5"
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWEN6Mk43NjhtMVJzaVNhWTRvOUtSZ3NLd1I4UWtRTHI1Vk9RTGRSbFlHZ1g4bTY0MnVqb0ltNEh1NTVqVmpLb2tCTGp2dTBNUHpfWFI1aDB1VjBmcFNseG9KbHNkbXVUV2JIdEI0ZlNPVW13Q0IxTTZWZkxnSHJPRC1oOWlScHJkSVhzZGltSEtzVFdPZzUtMVByU0ZMZExMbXFsREFlclVMbldRRWd1TmoyVQ?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Crude oil futures trying to keep a technical ceiling in place.",
+   "investingLive",
+   "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZU9Uc0VXbjB6b2s1TlEtandvUVdrQ25hb242aEVwQ3dHTDRFRnFScEkyaXp6UmlLb3luSndobWI0cjdKN1ozUHFDSmk4Nzhhdmh4bS1HdkF0VzNveUxOSHYyTUVMVUZzZUdHcGxMYl9BRVphYnpkZDVuWGNiQ3p4SkFJYlhsSjBaMVVxVmtHVmhvZkVZcjA1cGFoTTVRdjRzdXc?oc=5"
   ],
   [
    "Commodities",
@@ -328,13 +488,6 @@
    "Iran War Accelerates Southeast Asia's Renewable Energy Push",
    "Crude Oil Prices Today | OilPrice.com",
    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYlFYMkktUmF1cVBlZlRKVVRLaU9udXZvZGJLTTFnU0J2TGtUcGtyYzNRUVR5MmhSVDNNeWpLT2pxQ2FiNjRkS1hOcEJoaTg5SHNSOWpnLVN1TTZvb0JvZ1E3cHc1SzdDZEh0U3FETlR5QmtzWnRsTkQ3SmxyQ2JrLUZ4cHFsemVkQUl1NmYwenJMWjV2bE1pT29EMDJLcENFQVJrMTNNOUlNQdIBrwFBVV95cUxNQ1BLYTh4UWZDTGljZHZBa2VPSGlKNDUzbXFsZUJPcEhibFRRRXVoWVcycHYxY21FNTdZU25pRnZKaXR3MTVmdElpZWZiZGM0YXNIV3BVSnhlTGVCc1ZXb0Z3SHkzN3RxU3BIYXprdFBxaVcwR28yZHAyWmR6UUw5Z0dERlNtZS1ELW9OUEVxNHNoWXRuWGJ3N3V4eE4xeWtiUnFCTnZsSXZGRUEyQno4?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' Maine nonprofit says",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMTQ1NGRLd1VlZDF4a2t5eS1ZbGFkcWtPdGNDR1NhNjJPbkJQWG5IWGVlQmVHM3hCLVZEdmwxVGFKTjhUWElnM09kYlZmRjd3YnJQTmlFWGM4YzFqZnZtenRSNGUtT1FTVzN1RWZ6dHJKUTh2djIxMFNQNjdCTjVSeDl1NjPSAYoBQVVfeXFMT2JSbzV2akh2THVteUh0am1tcWx1UDVOUGxTc19wQkdYUHh5MDh6cTh0NTdFbDQtSHRUOUNRTE45SjBNQzNhaEJfSGZSX2JUVzBZSm1HUkRjT3NTQkpjUV9OOUZWNERuZ2x1REpWUnZCODJGY2dDdmhsYTJEeDIzOGdLejI3cjhjdXdR?oc=5"
   ]
  ]
 }
