@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T03:31:41.602Z",
+ "updated": "2026-11-19T13:12:35.776Z",
  "events": [
   {
    "iso": "2026-11-16T08:30:00-05:00",
@@ -259,65 +259,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.0961,
-   "ch": -0.15,
-   "asof": "2026-11-19T03:30:45.000Z"
+   "p": 1.0996,
+   "ch": 0.16,
+   "asof": "2026-11-19T13:11:47.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3128,
-   "ch": -0.19,
-   "asof": "2026-11-19T03:30:45.000Z"
+   "p": 1.3153,
+   "ch": 0,
+   "asof": "2026-11-19T13:11:47.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 159.533,
-   "ch": 0.16,
-   "asof": "2026-11-19T03:31:40.000Z"
+   "p": 159.936,
+   "ch": 0.41,
+   "asof": "2026-11-19T13:12:33.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6673,
-   "ch": -0.63,
-   "asof": "2026-11-19T03:29:45.000Z"
+   "p": 0.6713,
+   "ch": -0.03,
+   "asof": "2026-11-19T13:11:47.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4354,
-   "ch": 0.22,
-   "asof": "2026-11-19T03:31:40.000Z"
+   "p": 1.4297,
+   "ch": -0.17,
+   "asof": "2026-11-19T13:12:36.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8441,
-   "ch": 0.14,
-   "asof": "2026-11-19T03:31:40.000Z"
+   "p": 0.8424,
+   "ch": -0.06,
+   "asof": "2026-11-19T13:12:33.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 62899.27,
-   "ch": -0.14,
-   "asof": "2026-11-19T03:31:29.000Z"
+   "p": 63709.84,
+   "ch": 1.15,
+   "asof": "2026-11-19T13:12:34.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 1777.26,
-   "ch": 0.14,
-   "asof": "2026-11-19T03:31:33.000Z"
+   "p": 1804.84,
+   "ch": 1.7,
+   "asof": "2026-11-19T13:12:34.000Z"
   },
   {
    "s": "S&P 500",
@@ -347,17 +347,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3709.5,
-   "ch": -0.87,
-   "asof": "2026-11-19T03:21:42.000Z"
+   "p": 3721.2,
+   "ch": -0.55,
+   "asof": "2026-11-19T13:02:34.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 81.87,
-   "ch": -0.53,
-   "asof": "2026-11-19T03:21:24.000Z"
+   "p": 83.14,
+   "ch": 1.01,
+   "asof": "2026-11-19T13:02:34.000Z"
   },
   {
    "s": "USD/KES",
@@ -365,39 +365,39 @@
    "d": 2,
    "p": 129.93,
    "ch": 0,
-   "asof": "2026-11-18T21:26:09.000Z"
+   "asof": "2026-11-19T06:15:43.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 17.3486,
-   "ch": 0.5,
-   "asof": "2026-11-19T03:31:41.000Z"
+   "p": 17.2756,
+   "ch": 0.07,
+   "asof": "2026-11-19T13:12:36.000Z"
   },
   {
    "s": "USD/NGN",
    "m": "Forex",
    "d": 2,
-   "p": 1352.38,
-   "ch": -0.07,
-   "asof": "2026-11-19T00:12:40.000Z"
+   "p": 1354.34,
+   "ch": 0.07,
+   "asof": "2026-11-19T13:08:08.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 73.54,
-   "ch": -0.11,
-   "asof": "2026-11-19T03:31:38.000Z"
+   "p": 74.6,
+   "ch": 1.33,
+   "asof": "2026-11-19T13:12:33.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 0.9621,
-   "ch": -0.67,
-   "asof": "2026-11-19T03:31:36.000Z"
+   "p": 0.9872,
+   "ch": 1.92,
+   "asof": "2026-11-19T13:12:31.000Z"
   },
   {
    "s": "Apple",
@@ -427,67 +427,67 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 44.685,
-   "ch": -0.83,
-   "asof": "2026-11-19T03:21:42.000Z"
+   "p": 45.02,
+   "ch": -0.09,
+   "asof": "2026-11-19T13:02:35.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "US dollar hovers near 19-month high, Aussie falls after soft jobs data",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ0NIbEViM181TUJsZHFhV2J5d0lLbkVXVlBRYVJlb3YtMC1wVTlyc1NBV0RMQ0dBTXZlcHFvdnkzQm1SUWo3NFl3eGZ0SzgwTXhxTVQ3Y2VYSHg5LXZtRG9vUUp3eVlEQktJMk9JSllaQ1hRRjRuWmx0WGNJSFBLTHRpUS1tTVFoakw2dHlVRExKTU1jWE9McGswRWc5V05CYU4zR3JDdm9Jam4wTDlyNTlXRno0cXc4NVE?oc=5"
+   "Nvidia Is the Central Bank to AI’s Circular Economy. See Where the Money Goes.",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQXJ3dXNSQjEteFV0RHhXOG9BNENrMUtNWEhScTE1U01nQXhqRWlidDFXMGVGeHVaX2cwcEhnOG9jRVc0emxvUzQtZHhGRTJpdklTLXZ1T0M1eW1WU1YydVpCM1MzSXdDYUFUTHJUTVdBTVZhMlJDOGlFMzA3UTZxdHpJT1ItOGFtaXYzUTQwLURndXJrblVIdlVCdkZGcVc1V0ZsNHVBclRtZ3NZSjdZRGRZc0hMQ1JyMDdn?oc=5"
   ],
   [
    "Forex",
    "med",
-   "Meet the European Central Bank’s new squad",
-   "The Economist",
-   "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRTJlbTBuRFJrcDJSdUF5NGthLUtQR2plVzRGdG5COVdYbllud3lReGQyVkpWSjkxWGZzR1lpT1Ewc01NdGwtY2RBaVhEYkZqVzdTcUM0eVhibTZjZjd0Z3QxZlpiaUtka2UxNEwzV09PdGdhU2hjNGM3QmRuc3RGUTRibl9KdUVKcXpGWUtGMVMxMmU5engzMU0xWGE4V0dndEE?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "UAE court orders freeze on crypto tokens stolen from Binance wallets",
+   "Dollar eases after seven-session rally, rates and equities in focus",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVlN6ZktkUTBHWUpjSTdjUmFSZUVMZlBwb05IaVdWX1FzVGlHdnF4cUpYVkNTMHVnYTlLZ0w1M01xTnlVNDV4dWg4SDNtRDJIYjNzOFBiTDBOODhVcDFzY0tQa2d6YV9Oc3BDTXNYLTNSOTNtaEcxZTRESmxfcXdxS0VtZnRPdzBFNW1LYThBdlRsc0ZmYXZtQXRGMlFCdHk2ak1rRml1TUpobFdGNnJwY0pDUGl6dVBXUjBMYThwOA?oc=5"
+   "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ0NIbEViM181TUJsZHFhV2J5d0lLbkVXVlBRYVJlb3YtMC1wVTlyc1NBV0RMQ0dBTXZlcHFvdnkzQm1SUWo3NFl3eGZ0SzgwTXhxTVQ3Y2VYSHg5LXZtRG9vUUp3eVlEQktJMk9JSllaQ1hRRjRuWmx0WGNJSFBLTHRpUS1tTVFoakw2dHlVRExKTU1jWE9McGswRWc5V05CYU4zR3JDdm9Jam4wTDlyNTlXRno0cXc4NVE?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin Dominance Is Falling, But the Money Isn't Going to Altcoins",
+   "Bitcoin Bounces Back Into Green Ahead of Anthropic IPO",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUDhpMy1RYjlZSXlPb0M1UEFMWkQtd1o0S2p3cHByejFleGcyRWg4Tl9sZEpzMFNDaVktei02dUFyZ2dhaGNMUGpVYkZDemZ1MFNtdEFra2hMYnpaWjZjYmhSZG1Hb0VyMUpaaGdkR3F5WEd1N0hiTUtIdzFIaFUtOTd2WTBneUhmU3E2R0MyVkpFRko2YXFHRnIzbTFhZjNSNVRrV01PWlc?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "Current price of Bitcoin for November 19, 2026",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaemM4RjBCT0VwNHVnZkdTTUFBVjJoMkQwOW1VMnlhNHJJVnVlbVlQTW1feFZ3SFotcTc3VDE3MnkwNnFyMmFLUkF6cTdSM2tiOUZvdE1GUnZpQ2RiMWVKemNZV1RvSDQ?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
+   "Nasdaq futures climb on optimism ahead of Anthropic's market debut",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5"
+  ],
+  [
+   "Stocks",
+   "high",
+   "Anthropic IPO Live Updates: Nasdaq Futures Surge Ahead Of Record $81 Billion Trading Debut",
+   "Forbes",
+   "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYkdLY3lId0hwTjFYSF9Da1RtSGxBMTZDdlRNbE1JSzZhM3U4NHVwai1vcF90RE1HWjdyTlZ4VV9WaDJLSVNiSnRWTExpZTdOT2ZFZ0ZTZ0JnWVVlQ1NLbU9vQ1ExLWxwSVBFUFpjbldOcWVkbmRjTmZyYzJKODZ6Y1Bnb0w4aWkwS0cwQ0xHLTZpZDlkZVZZRlM0dkIxdzBMMXRBZFpXOGg2V2szVTNGZU9GSEpsekxldVBScQ?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Gold prices today, Thursday, November 19, 2026: Gold price opened at the lowest level in 14 months",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiowFBVV95cUxNalo5Rm9ONXFhZlAtN2Y4b0R1emdYYUNETUszMEFmSFB6N1MyOU1JdlNOMEl2aGVWMi15R1FVVnVKZjJoVS0xYVVjcllZZDJmNlFwU3ZqNjlUamQ2ZVdxMnRfWEFQVXFhXzdyZWdGd2l5VkVmTHduWjhhXzB5Ty1EbGl1WTJXaVotd21fV1JpMUlxejVOZno0UmNJR0VuOVdZaU5n?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "U.S. Stocks Extend Slide on Nvidia, China Fears",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWFF6T2tpa2JWRXltSGhKSThhb0FaSFJ4OUpfQko5N2IzRFBraDNmdjBtaGxnWkZaMTh3a2hmSm9tcmlHMjRMU0lPcTZScHFWRHo2d0pHZlZKMUhNVGphMURVTzNCRFdTMGt2TmpzRjZBaGdpZ1hLYk14X1RQSVFuV0VPS2dPdVVTWC02VmFlVVZzTTg?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Anthropic’s $83 IPO price puts it on track for a record-breaking debut on Wall Street. Here’s what it means",
-   "CNN",
-   "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaSEpySEJVdkE1YUZTN3FtVFNFU1JIRWVyTnk4QUJ2T0tIVjJTZjl2dUZWSGVBS0RaLWpVeU1jR0ZONG5TR0RPQnpuOGlnZ1JBQmxFb0tzUGc0RUcyN1dDTDNiQTdkMDBLUEZ0ckNlSDZiTVFf?oc=5"
+   "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaG9pRFQ5emN4TkZLd3VWNGIxSFh4cTc4SGM5djlKUF9NelBPdTg0cXhwVVpLZk9NSDI0ZzdnVkl3WUo3SVRvYWM3Qk5Id3gzX2dmSF9UQmdCS2RFQ0s5clhUNFBUX1ZFWFMzdUk0ZVcwX1hpZlBoX1lucjZIYzVCaW14QU1TTGpseFdXc2U5eFF4Um1RYW9Gb056MDhya2xpa25POEtNeXpxRzA5LXhxS213b0I2Y3MwOEw5NUF2MlZpY2ZidXpMa0NyTlN2RWllY2h2d1ZPcEE2VmZwUlZDQWVFNDJDZDRNcDNEcllHYzY4UGo3NzRkYXZjY0lzbFk?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "U.S. Crude Oil Stockpiles Rise for Second Straight Week",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb092MEEzczMxZ19aRDJsQ2ZXblpzUEVNaHhGa1ZmRXFMRWpBYk00bC1pajFhLW9wblJqSF9URHRHZUd3NHg5aEdUSm9WbmJONjBvX2lpTmNXbjhIYmpLWkNKZFNIYjJjamNhY0YzUzlwMThvRHgwN2VEalJ3eXJIU3RpWVZZeFA1ZDUtU0tQSGRKWHRkS3d6WW83RGQ1YjFEMDBncnJ3?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "OPEC speaks up for fossil fuels at COP31 climate talks",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZVVjZjNMU1llNktlY290Ny1WLXp6ZEplN3Ryc29tSHlOQVRNOFk0MVp4LU5tZDBSNFQ3Ym9PR2NFU242UWE0a2lYNE5hamxfcFE0SHlwQS1iZ2o4U3Vma3NpQm5aV2hQMjNjMkptd2Y2N2R0MUR1aEF3eGRnSzg4dG9EUU12QWVqMl9hOTRpZWF4ZExac0dMeHVzeTRBUENx?oc=5"
+   "Crude oil extends losses amid growth concerns but risk of US strikes keeps the downside limited",
+   "investingLive",
+   "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeDFyc3RfeC1iWmVzMkl1QVhZSWdoRnJ2Vm9FdXJXbzl1bHlKOG00eVpZYjFCMnBqT3JBM3hnQ1paMnNhZG5YcldweGRBM0lSaTI3ZVd3emZWVFNROC1ZOHJic2JnRm95emZqS1AyWDhGaERPREp6X3dtaHBHaUx3UDdZRzRJZ0ZSNlh2ejNUM0hfYmF0N3dXZXNSV19KLXZhbWtENms4RHlhMnlQZVd5Q0FxWUV4Z3FuTkJVMm5aQXpvZVVkUlpGbS1qOE5ZYzA?oc=5"
   ]
  ]
 }
