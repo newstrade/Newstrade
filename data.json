@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T12:55:44.582Z",
+ "updated": "2026-11-20T21:07:23.135Z",
  "events": [
   {
    "iso": "2026-11-16T08:30:00-05:00",
@@ -252,6 +252,15 @@
    "fc": "",
    "prev": "4.3%",
    "act": ""
+  },
+  {
+   "iso": "2026-11-20T12:00:00-05:00",
+   "tag": "USD",
+   "imp": "med",
+   "name": "President Trump Speaks",
+   "fc": "",
+   "prev": "",
+   "act": ""
   }
  ],
  "instruments": [
@@ -259,105 +268,105 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.0981,
-   "ch": 0.07,
-   "asof": "2026-11-20T12:55:43.000Z"
+   "p": 1.0965,
+   "ch": -0.07,
+   "asof": "2026-11-20T21:06:45.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3104,
-   "ch": 0.09,
-   "asof": "2026-11-20T12:55:43.000Z"
+   "p": 1.3078,
+   "ch": -0.11,
+   "asof": "2026-11-20T21:06:45.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.805,
-   "ch": -0.5,
-   "asof": "2026-11-20T12:55:44.000Z"
+   "p": 158.551,
+   "ch": -0.66,
+   "asof": "2026-11-20T21:07:22.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6665,
-   "ch": 0.08,
-   "asof": "2026-11-20T12:55:43.000Z"
+   "p": 0.6616,
+   "ch": -0.66,
+   "asof": "2026-11-20T21:05:45.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4307,
-   "ch": -0.21,
-   "asof": "2026-11-20T12:55:44.000Z"
+   "p": 1.4354,
+   "ch": 0.12,
+   "asof": "2026-11-20T21:07:22.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8405,
-   "ch": -0.34,
-   "asof": "2026-11-20T12:55:44.000Z"
+   "p": 0.8401,
+   "ch": -0.39,
+   "asof": "2026-11-20T21:07:22.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 61628.25,
-   "ch": -0.45,
-   "asof": "2026-11-20T12:55:44.000Z"
+   "p": 58332.68,
+   "ch": -5.77,
+   "asof": "2026-11-20T21:07:16.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 1740.5,
-   "ch": -0.84,
-   "asof": "2026-11-20T12:55:35.000Z"
+   "p": 1601.64,
+   "ch": -8.75,
+   "asof": "2026-11-20T21:07:20.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7175.83,
-   "ch": -2.02,
-   "asof": "2026-11-19T21:59:18.000Z"
+   "p": 6910.39,
+   "ch": -3.7,
+   "asof": "2026-11-20T21:07:21.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 23879.2,
-   "ch": -2.25,
-   "asof": "2026-11-19T22:15:59.000Z"
+   "p": 22617.732,
+   "ch": -5.28,
+   "asof": "2026-11-20T21:07:21.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 49097.06,
-   "ch": -2.19,
-   "asof": "2026-11-19T21:59:13.000Z"
+   "p": 48147.33,
+   "ch": -1.93,
+   "asof": "2026-11-20T21:07:16.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3570.9,
-   "ch": -3.11,
-   "asof": "2026-11-20T12:45:42.000Z"
+   "p": 3518.5,
+   "ch": -4.53,
+   "asof": "2026-11-20T20:57:21.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 82.39,
-   "ch": -0.06,
-   "asof": "2026-11-20T12:45:44.000Z"
+   "p": 83.92,
+   "ch": 1.8,
+   "asof": "2026-11-20T20:57:21.000Z"
   },
   {
    "s": "USD/KES",
@@ -365,129 +374,129 @@
    "d": 2,
    "p": 129.93,
    "ch": 0.02,
-   "asof": "2026-11-20T05:08:14.000Z"
+   "asof": "2026-11-20T19:20:54.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 17.462,
-   "ch": -0.05,
-   "asof": "2026-11-20T12:55:45.000Z"
+   "p": 17.5782,
+   "ch": 0.62,
+   "asof": "2026-11-20T21:07:22.000Z"
   },
   {
    "s": "USD/NGN",
    "m": "Forex",
    "d": 2,
-   "p": 1384.68,
-   "ch": 2.56,
-   "asof": "2026-11-20T12:54:39.000Z"
+   "p": 1365,
+   "ch": 1.11,
+   "asof": "2026-11-20T21:07:02.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 71.23,
-   "ch": -2.51,
-   "asof": "2026-11-20T12:55:40.000Z"
+   "p": 67.28,
+   "ch": -7.92,
+   "asof": "2026-11-20T21:07:19.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 0.9474,
-   "ch": -1.29,
-   "asof": "2026-11-20T12:55:42.000Z"
+   "p": 0.8855,
+   "ch": -7.74,
+   "asof": "2026-11-20T21:07:19.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 349.21,
-   "ch": -0.92,
-   "asof": "2026-11-19T21:00:01.000Z"
+   "p": 342.56,
+   "ch": -1.9,
+   "asof": "2026-11-20T21:00:02.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 374.41,
-   "ch": -2.43,
-   "asof": "2026-11-19T21:00:01.000Z"
+   "p": 345.82,
+   "ch": -7.64,
+   "asof": "2026-11-20T21:00:01.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 145.98,
-   "ch": -3.3,
-   "asof": "2026-11-19T21:00:01.000Z"
+   "p": 125.53,
+   "ch": -14.01,
+   "asof": "2026-11-20T21:00:01.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 42.125,
-   "ch": -5.04,
-   "asof": "2026-11-20T12:45:42.000Z"
+   "p": 40.71,
+   "ch": -8.23,
+   "asof": "2026-11-20T20:57:19.000Z"
   }
  ],
  "news": [
   [
    "Forex",
-   "med",
-   "Indian central bank clarifies forex reporting rules for service imports, exports",
+   "high",
+   "Fed's Cook says central bank watching AI industry financing",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTTV1UENZZU9SSTl4RllsS0E0a0JVbXQ1aTh2QndxX1E0WGdHS3RzUk84cVV4WmZFb0R4V29aeHowWlVab2JjblBUcURNQWU0eTVMdEkxb2Fpc1FaNDRYUWNmZzRmVVNXTnJhMnhVdEplZUtTb0tFbWE2RjZ6TVI0QlE2M2VwZW9hS0hXMzFqMlRVaXVXOVR5WG9PTTBHMHZqcmNpRGdocl96Z3pSUUx2TFJVUE1KY1hOLWhUQVpQUmI?oc=5"
+   "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRHI2aWRzcEgxVVM4TVNuQWFOMVpVZ2cwb19XUEo2ZlhhYjJQXzJlMXdZVFlRVFdicHlrYmoxRE9GZ1NZUFF0R09CeFZ4SV80dWh5M0YxUzFyUEVqMXJLUDBGR0Q5NEhNMkhDYWRRVHZMVWZYZ05UczcyT1hvMkdJLW5jSDZyQU9lUloza1hhQ2EzZWl1cldEaXdmUE50aWJZVGoxYmF3?oc=5"
   ],
   [
    "Forex",
    "med",
-   "Paraguay Central Bank Chief Says Warnings Were Ignored Ahead of Ueno Collapse",
+   "AI Selloff Boosts Haven Demand for Yen, Franc as Dollar Slips",
    "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUzRkNVM3dWZQTURyeHhWLWlaZ3plT0RxY244SkQtenhGUzlmemxMdkVNN2tPcnpRTWgwbExETk41dloyQ0M4b0RKYlE5aTFTcDNXMmpEdlRuRjFVWS1FelJFMWhpRk5TQ2FfTnBkOG5xU3AyZTl5dHBHUUJNME9Ld3c5RjgzOURfaDZGQ0ZZVWV6YW5ZcXJydUtYWDl3WndETW5xTzNxX2szUVJWekNQTFRFY2Q4RHFBbkRpeTJmX0YwblZ1TWpV?oc=5"
-  ],
-  [
-   "Crypto",
-   "high",
-   "Gold tanks, BTC under pressure as 'real rates' surge",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObEpseEFwZVVJNExHTzVwMTc5Sk1tRm5LUHNsRXFMUXpZelRqMHFSQTZ6SmgwbXNmTUR4bmp6VVctZFphMVl0NmdaSTlWN21odXhfQy1fZ1czeHp5RC1iak5sallNUnVXOFJCbExuZUVfZ1FhaUFzeUZzTGhnV1dXODJHdjY2Rkw0YzRwcTBycWZQX1dsbElWNmM0SFlJZnFkYzFSNkItcmV0Zw?oc=5"
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMGVIODlldlpGNjhfeGJZQk1jNjEtN0dINDFYNTREQ2hkNmJ2eDd5YmxoTmZsakdfUnhJRnhVUDRYbjF2YmdiZllpTUUwZUUyendZOG5HZFVtQXR1RlRZeFRPeTZfTHJHNjBvWXZHaUszbndhcmNydlBERVdneEdFS1NMa0wxbkVSbWJCTk5fQzBJVnVUaDVrandpek53V3VYWEFwSXpBdkRyRE1PSXNWcA?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K",
+   "Bitcoin falls below $60,000 level",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVEJfUmdFQ0ZvVC1TbUh4dXZxdzlrTVZYenFybjM0RnpESDZ2aFRsMmRsWHpjbEF4cjlCWWJtQnZiWXhINVZhUng3YW9ILWZXejhNY3BJelJKRWw1TDRzaDRtdU92ZlhRUXRMdVpzYXlWaUQ3MUx2aWtEU2VaVlhLOHlqV2Q?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "Bitcoin sell-off: Crypto is failing the 'digital gold' test again as it sinks with stocks",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMid0FVX3lxTE02OVNPeVBBRWFNM0RxSndNZ2NPQnE3amxmMEpmenlKMm9COUdneHlXbUNTaXFwdjVsQnFQbGg1dTctVXZ0cDd4VTZTY1ZWYThiMFZrTGtuY0hSSWlNS1B2b1FlUFJENkZkQzkzTzZGdzFMUXlxTmhr0gF8QVVfeXFMTkVKRDJKTmVUSkU3SW1TejV5aUFtVzA1N0JKSkY0NWNDZmprbnBycGJJOXg0SzV1UjBoNWM4RWwxUDZ6OHV1X0tfY0VMbzlIMmZlVnZLcjdYeUNTWjg1UWxZOW0xTTNHZ25GejJ0SmRIQ1pGREtjbDVKUUJ3Ng?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
+   "Wall St slides on mounting AI selloff, S&P 500, Dow set to confirm corrections",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
+   "Yahoo Finance - Stock Market Live, Quotes, Business & Finance News",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUkdGU0dONFJVbnhoTzdOWW5RYTlwYVFEUlVUUzRuRzZKNGczOU1oMEdfTXZmRmNwS2NnaFM0OUVJX3JWYVBjOGdvNE5vbm1OMlBldW1tMF90Y0FWRW9sN0dld1pmbjEwMG5wX1JqeG16bFItT193cnRfcVNXYzVsdkRRVUVLLWZERTRGZWJRbGRVekhHcnc?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Wall Street's fear gauge touches seven-month high as AI worries mount",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0tVUlFhRmE2OVRlWFJjZS1FUU9iemtCT0RkV0R6OEt5U0VwNFpGQVpJM3hKdDJyQkdMUC1nZ2RKQ1E3cWZmM09Mb0lQWEJDU1RkREp6NG5QN0JnSFU2OUZPczNoRHBYMnE4bTJSZTA1UE1zTmV2Nk1Tck9lcHc1WHk3QnRTWVVTU0NrNERUTDFlUGlaaGVDSGJSM3EyUFFyR1NQck1rMXJ4OTdBN0Mw?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QczVTbUQzdjZ0WHN0QjYwRXJidGl2YmJzeFVVOGhEV0FoZHp3QkJ1dng1REtUS21Qa2lYSGdUejlhbGtfNzlQT1V6Zm45NDltc2hKeEowZ3NtcHdsaUNvN2ttTTJXWUgzNkF3SGZUUjdFX1FiRHc?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Oil prices set for third straight weekly decline on strong Middle East export flows",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3pQREZDSHE2RmNHdDdGdExDUXhYeWljc2VualVoQ09oQV90WnFQQlZkYW1rWnl5ODJ6N2haaVBDVUY4VmFvRmtLSlZKbU5kR1lHNklrUUR3X3JGc181OHZCUHpXalZFUllBZXVEczJPUUdZZUt1MmpsTEN0MkJGSDNCVHhoa25pZFBSb1lldS1US0VJNVNBWWN1U2VwQmd0WmlQR1RKWmgyS2lyUDVfNHdWeWhzaFhmZ1E?oc=5"
+   "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBBTy1pM1poaEROWTVTNDVTYVdvTDZEWmM1VDhGdlUzWW1OUXNvQ3RmZTVZQ3BGVlhvbTlWNFNhUQ?oc=5"
   ],
   [
    "Commodities",
    "high",
-   "Gold price today, Friday, November 20, 2026: Gold prices continue to fall as rate hike expectations crystallize",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMikAJBVV95cUxPTWVucXBjLXNwR3NFaDRBOEtsSTVNUnFfeXRCb3hndUlvT0V4VGpuV0ZLbnI1dzEzZmtOTnNMMlFZdVVkaFFTQ0M2aXY1S3dFOFRja1FwRFpYUFpXM0J4dGxCV0pMcEhoclJfa0NxR1loR2NEalljdjNMZEpVdkNzeS1QWUtZS1laRHYydWRGTFQwNi01MDdaNmhpZzlDTGZtUExVUURYWHJ0bTNiY3R5ZXhhbThvQmtadWtOOGxmc1EzeTdVSl9keGJxdGxvTzZkNHVTQjhZQWtlY0w0M1gtOFd1VlhLRXo0aFNTdEszb0ltQ0NZOXJfVXRqdE43TERBR0U2bWUzb3U4TVRwQ3hOdw?oc=5"
+   "Gold price could drop $300 if $3,500/oz fails, and buyers might hold off until the Fed – Walsh Trading’s Lusk",
+   "Kitco",
+   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1gxakxUOS1VZGh6VUEwdDhhdDAySkdGT3JQU2pUMnVXN2RiNFRHV3g1MEtsaEtfQUVVNGNPRnJTSVJiSGdVTmRFVVVGLTZhcG1jenZPb2JKYWtweUltNi1fLWlFSXVlVWFPNEU2aHlPSkNkUFQyaDEyZlAwVy1waVFZY0dtSGtGTUVUOWw4eUFTRTJ5RENUVUw4Qk9nMFJKbGNTamNHU3F6NDEydHZHU3RLMUhXb2NGd2Jz?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Oil prices set for third straight weekly decline on Middle East export flows",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SV3VLcC1fUXZ3eUN2ckZpSzd3akdsSE55cFRrUEZFNDZtVUFxcDRCWng5dHB3XzBDaUliLUowaGdqdDVkaW5va25nUkx5OVc4UXZoVU9qem1NdWFUNndPWldTeXFhVnVo0gFuQVVfeXFMTXRDbE5XQlFpNEF3ZVBycUpzZXFqQXJOdmVWTWVlX2NWLTNPc2w2TEk5TVdEb3FSZTV3c1JpSEJpUTlaX1g3cVhfY0o1cnFZd2xLZm03ZkJWTjRCelpOU2V5bl9pYlk0RkJsZnQtS1E?oc=5"
   ]
  ]
 }
