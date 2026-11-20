@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T21:37:33.630Z",
+ "updated": "2026-11-20T03:19:09.352Z",
  "events": [
   {
    "iso": "2026-11-16T08:30:00-05:00",
@@ -259,65 +259,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.0972,
-   "ch": -0.05,
-   "asof": "2026-11-19T21:36:44.000Z"
+   "p": 1.0976,
+   "ch": 0.03,
+   "asof": "2026-11-20T03:18:46.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3085,
-   "ch": -0.52,
-   "asof": "2026-11-19T21:36:44.000Z"
+   "p": 1.3097,
+   "ch": 0.04,
+   "asof": "2026-11-20T03:18:46.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 159.671,
-   "ch": 0.25,
-   "asof": "2026-11-19T21:37:32.000Z"
+   "p": 159.181,
+   "ch": -0.26,
+   "asof": "2026-11-20T03:19:08.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6661,
-   "ch": -0.8,
-   "asof": "2026-11-19T21:35:44.000Z"
+   "p": 0.6652,
+   "ch": -0.12,
+   "asof": "2026-11-20T03:17:46.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4348,
-   "ch": 0.18,
-   "asof": "2026-11-19T21:37:32.000Z"
+   "p": 1.4336,
+   "ch": -0.01,
+   "asof": "2026-11-20T03:19:09.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8441,
-   "ch": 0.14,
-   "asof": "2026-11-19T21:37:33.000Z"
+   "p": 0.8427,
+   "ch": -0.08,
+   "asof": "2026-11-20T03:19:09.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 61585.59,
-   "ch": -2.23,
-   "asof": "2026-11-19T21:37:32.000Z"
+   "p": 62130.07,
+   "ch": 0.36,
+   "asof": "2026-11-20T03:19:07.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 1742.12,
-   "ch": -1.84,
-   "asof": "2026-11-19T21:37:30.000Z"
+   "p": 1746.99,
+   "ch": -0.47,
+   "asof": "2026-11-20T03:19:05.000Z"
   },
   {
    "s": "S&P 500",
@@ -325,7 +325,7 @@
    "d": 2,
    "p": 7175.83,
    "ch": -2.02,
-   "asof": "2026-11-19T21:20:01.000Z"
+   "asof": "2026-11-19T21:59:18.000Z"
   },
   {
    "s": "Nasdaq",
@@ -333,7 +333,7 @@
    "d": 2,
    "p": 23879.2,
    "ch": -2.25,
-   "asof": "2026-11-19T21:37:31.000Z"
+   "asof": "2026-11-19T22:15:59.000Z"
   },
   {
    "s": "Dow Jones",
@@ -341,63 +341,63 @@
    "d": 2,
    "p": 49097.06,
    "ch": -2.19,
-   "asof": "2026-11-19T21:20:01.000Z"
+   "asof": "2026-11-19T21:59:13.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3638.5,
-   "ch": -2.76,
-   "asof": "2026-11-19T21:27:33.000Z"
+   "p": 3532.3,
+   "ch": -4.16,
+   "asof": "2026-11-20T03:09:10.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 83.2,
-   "ch": 1.08,
-   "asof": "2026-11-19T21:27:27.000Z"
+   "p": 82.78,
+   "ch": 0.41,
+   "asof": "2026-11-20T03:08:56.000Z"
   },
   {
    "s": "USD/KES",
    "m": "Forex",
    "d": 2,
-   "p": 129.9,
-   "ch": -0.02,
-   "asof": "2026-11-19T20:50:52.000Z"
+   "p": 129.93,
+   "ch": 0.02,
+   "asof": "2026-11-20T00:20:52.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 17.5019,
-   "ch": 1.39,
-   "asof": "2026-11-19T21:37:33.000Z"
+   "p": 17.5317,
+   "ch": 0.35,
+   "asof": "2026-11-20T03:19:10.000Z"
   },
   {
    "s": "USD/NGN",
    "m": "Forex",
    "d": 2,
-   "p": 1351.32,
-   "ch": -0.15,
-   "asof": "2026-11-19T21:33:14.000Z"
+   "p": 1351.04,
+   "ch": 0.07,
+   "asof": "2026-11-20T00:52:09.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 72.23,
-   "ch": -1.89,
-   "asof": "2026-11-19T21:37:30.000Z"
+   "p": 72.91,
+   "ch": -0.22,
+   "asof": "2026-11-20T03:19:08.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 0.9542,
-   "ch": -1.49,
-   "asof": "2026-11-19T21:37:29.000Z"
+   "p": 0.959,
+   "ch": -0.09,
+   "asof": "2026-11-20T03:19:04.000Z"
   },
   {
    "s": "Apple",
@@ -427,18 +427,18 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 43.305,
-   "ch": -3.89,
-   "asof": "2026-11-19T21:27:33.000Z"
+   "p": 41.28,
+   "ch": -6.94,
+   "asof": "2026-11-20T03:09:09.000Z"
   }
  ],
  "news": [
   [
    "Forex",
-   "med",
-   "South Africa central bank keeps key rate on hold in split decision",
+   "high",
+   "BOJ's ambiguity on rate hike path could tempt yen bears",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZWllOU1ZUi1zV3lEQzdpR0c5WDFxWjJ4RFZSX0NrQTRtWHVOdzRDRl9URFpFcFJfMlQ4anRhZnV1VHNZN0o5RjFUdnlQcFhyRHNuQXJnbnJJV0lRd0M3czZhWjIwSTFQTjlDaUE3SzNMVUx0VFJFQmRPOERqWHkyTGtiN1dfRFJCSkF5cmtDdE5FdXdQdWtURnhlSFMyQWI2UU1BVEFmY2Nyam8?oc=5"
+   "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY0J6NDQ5LVFYcXhIRWVSVmstMzNMUldQS2JUai1YNlVKWHVnd09WVzBKVXhNX21jc3pLNGw3R01lT21paGZKWUNiZ1gzUmsxb1h2b3BCX2FjaC1NTzZNYlRiTUxjUUR5TmhlVFIybE1SZm1ZamdwRVhIT3BBV2E4RFpUdGRIOGNuOVpENWcxZFpsTWtUT0NjaWctY2p6aWdReENwNUdfNA?oc=5"
   ],
   [
    "Forex",
@@ -450,44 +450,44 @@
   [
    "Crypto",
    "med",
+   "Crypto Stuck Near Multimonth Lows After Sluggish Weekend",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiogFBVV95cUxNemJKTlE0N1hQT0Z3amttWTkyZmJNMi1rQlZKSkVGeUpvWFlEUl9QY0pZVGVvWjQ2dWZOemtNdjVULUpsNjNWdlBCZHBMUndmZ0pfazNhT2hRZDBqUmkxbEc0VDk2ZVNxYzBLTUhsSEdWMG1GbEZ3a1plN2dDRkx2UnNFdXJhZ1g0blU4YkV5T29FUG80QkE0a3pjc2ZSM29adWc?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
    "Bitcoin Bounces Back Into Green Ahead of Anthropic IPO",
    "Bloomberg.com",
    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUDhpMy1RYjlZSXlPb0M1UEFMWkQtd1o0S2p3cHByejFleGcyRWg4Tl9sZEpzMFNDaVktei02dUFyZ2dhaGNMUGpVYkZDemZ1MFNtdEFra2hMYnpaWjZjYmhSZG1Hb0VyMUpaaGdkR3F5WEd1N0hiTUtIdzFIaFUtOTd2WTBneUhmU3E2R0MyVkpFRko2YXFHRnIzbTFhZjNSNVRrV01PWlc?oc=5"
   ],
   [
-   "Crypto",
+   "Stocks",
    "med",
-   "Kraken parent's acquisition of Tribe Capital flags new chapter in evolution of crypto exchanges",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVGk3eExFVEUydW8yeUMxV3FyU1Q5dFJuUUM3VHhfS0ZNX01CclpDVnY0cTdfVmF3RUZuUEhCaVRuclFiRGYybzlSYmM5clpSclg2UjUtVHVhelR5aDRUQmwtVkFyT0FtN3NXX1pjcmNoWVNacFhfclBZQ19udEZrbW01OWs5YllpMTVlRXE2VG1LVEtQWlNYSkRyQ2JGaU9aZWFnYXJ1eFpsSnYtTHNkZWRzM1VxUE3SAbwBQVVfeXFMTTlKWDNiUUIzMjJ4U3E3UW12YTc3b3JZcFNiOVk3QzZlOFBydW9xYmE1UnZObUVrcWNUX3BJV0wwZEJocmpId3dOdXYtYUIxLTNmenFkQTlYaTFPUG5EamRoclI0LXJTR3VYSFptQW5rY256MjZCREdOdU9oR2huSkVsbGQ4emdzd3duelRWUVNOcld3VVN6VWh0SDVFallKaWxVQ3NQSkdBdmtYdUFqLUpwMUZ5LWNpWUFhMkE?oc=5"
+   "Stock Market Today, Nov. 19: Dow Plunges 1,100 Points as the S&P 500 Suffers Its 6th Straight Day of Losses",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTVh4Wm5XZk1VNWd4YmtfRFp3cW1iR0M2ZURsVWdjc3N5VzQwSlljV3dYdHRxYWFMVmRqay1JV0g0VEZtMElCeU5qdnA1YlVBMFNEMlJ2NTYxYWhJSmlXTUpUbTkyQlFvQzhSNkV1VXhQMV85Sk5NeDVQcks0ZnYxejhQdmhfREEwcVhBYkt1WTlnYzRW?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Anthropic's blockbuster debut tests Wall Street's faith in AI boom",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Exclusive | SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjl2b0tzT1ROT2plV1p5RHhQd3hXOEJKRFhOZ1ItZExOQV9oVGkzTU9tcEEyTXhjNHRKQVExRTNRdEtlY24zUFhmS0h0c21FUVVrVVh0NGF2SXFmdm1wcmVRLUlCcG5CMGRIZklSdVBkVElkS3lwRF9LaGg4YzU5b0dsZXlveWxSNzhGYzJlZmRSRkhvUWZRTHB3?oc=5"
+   "Anthropic IPO value surges in stock market debut",
+   "CNN",
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTHhoTGRKVHhRajRPM2FlYWxxN1ZRWHdVaDBhZWJwdVRSY3c1bFIwdERacFNrbmNPR0lONm5LdGdVSFVub3pWTEctWHV6NEJaMjZnbWZBaHJiTU45WlBuMnI2Mm12VXJrVWpJWFlJTHpmWEdwLXR6b2F6NWpaUko3RmcyOXJJY0w3cEJjRnQxODhZc1JjaHdVQkN1R1E5SGFHMmhNR2h6ckFFRV9nTlJMZQ?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "India's October crude oil imports rise over 4% month-on-month",
+   "Oil prices edge higher as Houthi attacks on Riyadh raise supply concerns",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaC1ES29YSWdoUk4wWEo0X0o5bWgzQlZ4dnpyWi1XaUJCUlZmemFBNi1WUVVsVEIyX25uRlZrODM0R1BYVDlKc3MweWo2LWxEcDlzNWRuVm9sQmNPa2hMNVU3aHhoaHZ1ZktkUDctVnd2QldwalNyZ3NzSGY1OE1ndmo0RWw4aWJUNERPTmhqWUZoZUtHUFo0TXFRSUpjMGRhTTIwcUxyWEw2VE0?oc=5"
+   "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3pQREZDSHE2RmNHdDdGdExDUXhYeWljc2VualVoQ09oQV90WnFQQlZkYW1rWnl5ODJ6N2haaVBDVUY4VmFvRmtLSlZKbU5kR1lHNklrUUR3X3JGc181OHZCUHpXalZFUllBZXVEczJPUUdZZUt1MmpsTEN0MkJGSDNCVHhoa25pZFBSb1lldS1US0VJNVNBWWN1U2VwQmd0WmlQR1RKWmgyS2lyUDVfNHdWeWhzaFhmZ1E?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Carlyle and Orlen Team Up to Hunt for Energy Deals Across Europe",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVF9HSC1JT0ZQVExObHB0UmJfNm1sVDZUUFlOSnZLOG54SlB0eDB4NlZFZzN1MGJRVnFSVmVfTTJXaG9Vd1VGN1NRM2dhTU9HVGpCYXgxTmhuMzczTlFiWjVNb2xDelM3WkVqeVQ3b0JMXy1RZDd3UkZTWjQ5ZzlpekV2a3RfdVVtaTE2eU0yaFBNODZZTm52Vk9wemdabTNTejAyUVFOdWxoalQzdDFuMUV2WTBEWmNMXzN3NdIBwgFBVV95cUxNSzVDTlhDZXo4MjIwR1NjTHdmRVpPYnM4YzVMdEJxTG1TOEx6QnotWVRsZkJPTTFHUXh4b1hfRWY1dS1tTnFzdTEwLUg5cVpCekJETS05bXZKWjRJMmNibmdqNGpnQjV5NHdGTl9RR1FQYS1qcjdFRllhOHl0ejN0Z1BCYkF0Q3NkcHJ1LWRuYm1QcXBaU1BvVzBOemZYWUxOa0N4cGxOZzhTTlpyLTFZQVJ1SGMzTnhDSzMxajdMX3dsQQ?oc=5"
+   "No way back for oil after Hormuz, says IEA’s Birol, but Goldman still sees Brent at $78",
+   "investingLive",
+   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTHV4N2pYbkZ3SXhYbWI1Wm0xS0twanI0cl9lSDNQUGlpYVhJSFNNT29hWU9UVThzbTgxb0E2b0dBT2J5WUg5RzJwckxNN1ZRcUJPdjBZa25SMmRodTRPLU52d1N5VTZvSEVIdVZ0c002OHZ1TnhJNllQZ2lLZWkxLTJQVjM3LTVtcjhhMkNKSHdVdzRvWU9KdkJCal9xbU1EY3luY3A0eDVTYURzMUljcEtMbzZQS3drOGpBSzRqLUc?oc=5"
   ]
  ]
 }
