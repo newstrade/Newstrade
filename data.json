@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T17:58:38.875Z",
+ "updated": "2026-11-21T23:19:35.709Z",
  "events": [
   {
    "iso": "2026-11-16T08:30:00-05:00",
@@ -294,7 +294,7 @@
    "d": 4,
    "p": 0.6619,
    "ch": -0.62,
-   "asof": "2026-11-21T13:13:46.000Z"
+   "asof": "2026-11-21T22:29:45.000Z"
   },
   {
    "s": "USD/CAD",
@@ -302,7 +302,7 @@
    "d": 4,
    "p": 1.434,
    "ch": 0.02,
-   "asof": "2026-11-21T12:44:36.000Z"
+   "asof": "2026-11-21T22:00:31.000Z"
   },
   {
    "s": "USD/CHF",
@@ -316,17 +316,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 59969.66,
-   "ch": 1.98,
-   "asof": "2026-11-21T17:58:37.000Z"
+   "p": 60141.53,
+   "ch": 2.28,
+   "asof": "2026-11-21T23:19:31.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 1679.08,
-   "ch": 3.69,
-   "asof": "2026-11-21T17:58:34.000Z"
+   "p": 1681.08,
+   "ch": 3.81,
+   "asof": "2026-11-21T23:19:30.000Z"
   },
   {
    "s": "S&P 500",
@@ -382,7 +382,7 @@
    "d": 3,
    "p": 17.5858,
    "ch": 0.66,
-   "asof": "2026-11-21T12:44:35.000Z"
+   "asof": "2026-11-21T22:00:31.000Z"
   },
   {
    "s": "USD/NGN",
@@ -396,17 +396,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 70.49,
-   "ch": 2.53,
-   "asof": "2026-11-21T17:58:31.000Z"
+   "p": 70.16,
+   "ch": 2.05,
+   "asof": "2026-11-21T23:19:31.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 0.933,
-   "ch": 2.56,
-   "asof": "2026-11-21T17:58:36.000Z"
+   "p": 0.9303,
+   "ch": 2.26,
+   "asof": "2026-11-21T23:19:31.000Z"
   },
   {
    "s": "Apple",
@@ -445,44 +445,44 @@
   [
    "Forex",
    "med",
-   "Nvidia Is the Central Bank to AI’s Circular Economy. See Where the Money Goes.",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQXJ3dXNSQjEteFV0RHhXOG9BNENrMUtNWEhScTE1U01nQXhqRWlidDFXMGVGeHVaX2cwcEhnOG9jRVc0emxvUzQtZHhGRTJpdklTLXZ1T0M1eW1WU1YydVpCM1MzSXdDYUFUTHJUTVdBTVZhMlJDOGlFMzA3UTZxdHpJT1ItOGFtaXYzUTQwLURndXJrblVIdlVCdkZGcVc1V0ZsNHVBclRtZ3NZSjdZRGRZc0hMQ1JyMDdn?oc=5"
-  ],
-  [
-   "Forex",
-   "med",
    "Goldman favours gold over silver as central bank demand supports prices",
    "Investing.com",
    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdWRicXpBR1p4RGpSLTRJY2pOdDJjRm5rZmFVcW9zQnVCOVAwR3BuWmQ0N1lRbFI2OE5CR2lfdkctb0pJdDJkSTQtNmpTbVp5LXRiM09PNG9sMkVvM0JJTXFrTm5rZlJCR1lKNkF4S1ZyMEZwOWZpNEotWDJnQjJWNXprbThOWU9hVjVYUWIwaldDUWVJeWE3QmNnMEQ5WHZ1UlZiUTJ0VkpPdWJuY1BsSmVrak4wd0pwTFVWQzhXaDVUMDlfOVE?oc=5"
   ],
   [
    "Crypto",
-   "high",
-   "‘Dump It Now’—Panic Suddenly Sweeps Bitcoin As Crypto Braces For Massive $2 Trillion Weekend Price Crash",
-   "Forbes",
-   "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdlBmNjFNYjY0WjVVQXFWb2p3OU1TRHZMSkhaU1gxdVc4eDVJcUpqc293UWU1YnZfRlNtYWwzOTZTa2tiQTg3Y3p1b3RnRzBmZ3ZpYlNBZG1vMzhqOC13UzVhZXROTUhlSnVmQnFPNUVCazAzSUI1TGhCWlhTZ245cnV3MFJ0Y3hNSEo3blVrdTVCRDQyeEtSbzRZd0k1SWNvaUpOS3Mxc1ZmM3ZoWFpMdG4yeXNpa1lnMGU3bzI5YzJZOE4zUGhMMXlZOTlBY3plcXh6Ni16dUZrb3B2RGc?oc=5"
+   "med",
+   "Bitcoin Bounces Off Two-Year Lows. Could Crypto Rescue Stocks on Monday?",
+   "Barron's",
+   "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CdEVWQ1doTGNKcmpDTV83S2lzNi00SUxwcC1VNVVMM091dkJSY2RyZzQxUHB2RmV6US1jSGdUR2JWR1lrb3NsQjc5UEE2V2FtRVVzZHprVm8wNkdsTUQxOTVZRVoxcndRQ2Q5cXlxS3ctQ05R?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin falls to its lowest in two years",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NUk9lTzRodUF5M1QyMkpkS3ViSDhVQ2hHZlV1ZUowRnBQeF9Za3l0WkRFb1BUNzVoS1NxcFFERDAydTVnLVpIMG9hcmRUV3hyb1F1RURKeGF3WV9iNlJScVlrYk95VmRJWWxjcE5GLUR4NUgtYWVj?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Exclusive | SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjl2b0tzT1ROT2plV1p5RHhQd3hXOEJKRFhOZ1ItZExOQV9oVGkzTU9tcEEyTXhjNHRKQVExRTNRdEtlY24zUFhmS0h0c21FUVVrVVh0NGF2SXFmdm1wcmVRLUlCcG5CMGRIZklSdVBkVElkS3lwRF9LaGg4YzU5b0dsZXlveWxSNzhGYzJlZmRSRkhvUWZRTHB3?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Chips suffer worst week since 2001 as the Nasdaq nears a bear market",
+   "Nvidia Falls 48% From Peak as AI Selloff Spreads to Bitcoin and Crypto",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmc2cHN6ZXN3Y1BKcGNfazRTNUNYTWp2enR1RVp4d2VEWnE4NE4yWFhwQkpYSDRMdzU5U3RTQTdtMzFOSGtVYmd4RnZNYWthSGdPUVY2MmRab3FUX0lLQWdZZ19tSmh0NktIWUxLMXVQRVl3dDByUExZbzVENzhiY25vRTl2cnNJcEtkR202Q0tIdlFWWURQTEFDaHVORU1FYkR6MXJQaFpZdTU3Q1hvcjRPdXU3NXI3ekZKclJycmVROU84Q0E?oc=5"
+   "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTGI3Sng2eVpHTHVCWFlFamhHRWxSYXNtMkU1R0Y1amNNMHRNMXdMQ0RNbHBNSXhvdlVIRU42Z0N4V3RWRGdzYnp6UjdkeDZsY2pwU29iRG9GR29NakVMV1FYRjdvWjdhckM1N0dmSVUwYjNXWU5yVVZQZm92U2tzNlpQMlNJZVRGTzNJbm1KLUpfUQ?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
+   "Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QczVTbUQzdjZ0WHN0QjYwRXJidGl2YmJzeFVVOGhEV0FoZHp3QkJ1dng1REtUS21Qa2lYSGdUejlhbGtfNzlQT1V6Zm45NDltc2hKeEowZ3NtcHdsaUNvN2ttTTJXWUgzNkF3SGZUUjdFX1FiRHc?oc=5"
+  ],
+  [
+   "Stocks",
+   "med",
+   "Worried About Black Monday? What Wall Street Says Could Happen.",
+   "Barron's",
+   "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeTVJTGZmWm5BMG1wTFRwSlNabEtmYVYtaTdMZGE2YmJvQTBaYkpudUFvMl9oeG84WW9iVFVRd1ZkR1NVQUkwSHpseGMtSzJzVEh3Wk90VVVaajJCZ2RXREpzSFpUYkt4bWhoajcxbnY3ZFJkdHFlaU8xUjFveDhRMEdOc2xZTExpdjNRMzN3?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
+   "Kitco",
+   "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5"
   ],
   [
    "Commodities",
@@ -490,13 +490,6 @@
    "Goldman is out with its 2027 forecast for Brent oil prices",
    "Investing.com",
    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMGlLOWJkZDAtY0drWGV5MjRhbkVqTDdFeXNGM3RYU0tIMG44M0o4d2JwaVlISHB5Y1FzTnVRQVZONVJGdDZfblh1eVFOQkJMMVQ5SmFNQXpBbzVPVkJEUTFhMk5QTlpna0lJbnlNU3hLclVxV2YweVBES3JSZEo0S2Q2UEItdkNBUDVCekhXaXVWYzlDRldPTkhQUExFbUhFMDlYQXo4QU02cjV4THYyMEdZaDc?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "U.S. Oil Drillers Pick Up the Pace Just as Oil Prices Fall",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbmVscEdxa2JzSzZQUzk0N1RMQi1odzBVTGNkNXNvRUE5XzNqeUhEbU1KOGcwVGJxai15SHNQazAtX0x4YURhNmRCOWpRUjRlWlc5TUkxWkFncWdDeXhqVjZhVmR6R2VrWE54cWxlUDctVlIzY2pRaVo2cS1rZUdkeXU4YUgxWVFyUmdVSnFTREdLUEhVUllwa04tVXU0UF84SlU3Z09OWdIBrAFBVV95cUxOYi03NFNEWVdpeVJzcmRiNXdWQUluamtMX3pzTi1SaXQyTG5lMkwxbXhLNlBDdnBGcmQ1NlZzLVlfVjZDSU9FaVhZamNmb2JDbU0zc1k2TmNqR3I3MVdHOFhEenFhcC1Lb2Jqa0p1Y1lreEwweUM0Q0FRbmZpdHFENnV5SzJkWThrZDdQX0Zod2V0emNFNUU5c0tNSmgyMFBuTlZFc3c5cE1udnAt?oc=5"
   ]
  ]
 }
