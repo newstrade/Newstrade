@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T02:17:49.969Z",
+ "updated": "2026-11-21T11:05:45.583Z",
  "events": [
   {
    "iso": "2026-11-16T08:30:00-05:00",
@@ -294,15 +294,15 @@
    "d": 4,
    "p": 0.6619,
    "ch": -0.62,
-   "asof": "2026-11-20T22:29:46.000Z"
+   "asof": "2026-11-21T10:19:43.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4339,
-   "ch": 0.01,
-   "asof": "2026-11-20T22:36:29.000Z"
+   "p": 1.434,
+   "ch": 0.02,
+   "asof": "2026-11-21T09:51:42.000Z"
   },
   {
    "s": "USD/CHF",
@@ -316,17 +316,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 58870.64,
-   "ch": 0.12,
-   "asof": "2026-11-21T02:17:47.000Z"
+   "p": 57841.19,
+   "ch": -1.63,
+   "asof": "2026-11-21T11:05:42.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 1620.99,
-   "ch": 0.1,
-   "asof": "2026-11-21T02:17:35.000Z"
+   "p": 1638.32,
+   "ch": 1.17,
+   "asof": "2026-11-21T11:05:39.000Z"
   },
   {
    "s": "S&P 500",
@@ -356,16 +356,16 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3539,
-   "ch": -3.98,
+   "p": 3515.4,
+   "ch": -4.62,
    "asof": "2026-11-20T21:59:57.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 83.62,
-   "ch": 1.43,
+   "p": 83.41,
+   "ch": 1.18,
    "asof": "2026-11-20T21:59:59.000Z"
   },
   {
@@ -380,9 +380,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 17.5856,
+   "p": 17.5858,
    "ch": 0.66,
-   "asof": "2026-11-20T22:36:29.000Z"
+   "asof": "2026-11-21T09:51:42.000Z"
   },
   {
    "s": "USD/NGN",
@@ -396,17 +396,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 68.59,
-   "ch": -0.23,
-   "asof": "2026-11-21T02:17:43.000Z"
+   "p": 67.95,
+   "ch": -1.16,
+   "asof": "2026-11-21T11:05:39.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 0.9094,
-   "ch": -0.03,
-   "asof": "2026-11-21T02:17:44.000Z"
+   "p": 0.8952,
+   "ch": -1.59,
+   "asof": "2026-11-21T11:05:39.000Z"
   },
   {
    "s": "Apple",
@@ -436,8 +436,8 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 41.08,
-   "ch": -7.39,
+   "p": 41.07,
+   "ch": -7.41,
    "asof": "2026-11-20T21:59:58.000Z"
   }
  ],
@@ -459,30 +459,30 @@
   [
    "Crypto",
    "med",
-   "Bitcoin plunges below $59,000, on pace for its worst month since June 2022",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRElXRUZRbXlfNVZIY09CRXlMTDV6a1JZeVpKQV9SYVpqX3F5X2RoYWV4YjNkeUJkX2ZXekpMM3ExRFpJYXRSYkk0cHk1aUk3R0U4ZktpTUI4VTNoUkp0ZEhNM1A0NExvNWhFY2RmVThRY0JuV0JyeUdHdGZEOFE4WE1aTFpxUmZqWnM2dHBaLXNQa1JWN0FGOUdEZzhKeUZPQmlKYmFHZmhNLVFLcUVrc2ZId0k2MjBlSHZ6SFZUT2VsT1FxVU93?oc=5"
+   "Bitcoin falls to its lowest in two years",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NUk9lTzRodUF5M1QyMkpkS3ViSDhVQ2hHZlV1ZUowRnBQeF9Za3l0WkRFb1BUNzVoS1NxcFFERDAydTVnLVpIMG9hcmRUV3hyb1F1RURKeGF3WV9iNlJScVlrYk95VmRJWWxjcE5GLUR4NUgtYWVj?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Crypto Stuck Near Multimonth Lows After Sluggish Weekend",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiogFBVV95cUxNemJKTlE0N1hQT0Z3amttWTkyZmJNMi1rQlZKSkVGeUpvWFlEUl9QY0pZVGVvWjQ2dWZOemtNdjVULUpsNjNWdlBCZHBMUndmZ0pfazNhT2hRZDBqUmkxbEc0VDk2ZVNxYzBLTUhsSEdWMG1GbEZ3a1plN2dDRkx2UnNFdXJhZ1g0blU4YkV5T29FUG80QkE0a3pjc2ZSM29adWc?oc=5"
+   "Bitcoin Falls to More Than Two-Year Low as Global Markets Sink",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ3l4RFFsS191QTB1b2VicGdIRlZESmozTURmT2NKbUFiMU5qVUZIcDdFM0ctV3p6Vmgwc2JoYi16WFh2dGxkTERLTHE5aW9jcmRHaF9uVGd4QXJFcHUyVzRndVRQTmZwcFZZbV9pWlFlNGZVNVNhWWp5MmQ3ckh0ZF8wTGRxeHZ0dUs0ZDN4SktpRVBCc1JqWEZsQVVJOXgzbFdBOUx1V011TEJGNENwbDIxNA?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Instant view: Nasdaq plunges 5% a day after Anthropic debut, but investors still believe in AI",
+   "Wall Street ends sharply lower as Anthropic's debut fails to revive AI fervor",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSi1oZG9URHdnSVhJWWs1THZ6b1JBVWJHODR5ZE5fajVzaS1zZGhfdGlfajJkTUpmeUduODNlNTN0bTFSUEZCZHROd1IzSF9DeWxKUmYyT0IyVTh6Zy1ab1ZXd1BfSjFQcC1paFhiS3NTM1NSQUlMNmhDa1pUNl9WMW9xM3NTTzI5aF95NXNaVnI2WXV6TlhxZ3h3WHh2NldhZzhvekxPb1dQczVXcXZYT2tkWjAxNS1uYmhF?oc=5"
+   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves",
-   "CNN",
-   "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mdllsNUVFYnVqeDVsNWpGX1U5ckw2RURWWUc0ZDdaWksyYzF0c3JJUjAxaHRCbFR2a3F6R1RsLVhSRjBoTngtZWNSRHVybWd4cUN0STB2VWhQSDVtZTBIVG9jMFp0WHBrSGpydlhNTWI?oc=5"
+   "Exclusive | SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjl2b0tzT1ROT2plV1p5RHhQd3hXOEJKRFhOZ1ItZExOQV9oVGkzTU9tcEEyTXhjNHRKQVExRTNRdEtlY24zUFhmS0h0c21FUVVrVVh0NGF2SXFmdm1wcmVRLUlCcG5CMGRIZklSdVBkVElkS3lwRF9LaGg4YzU5b0dsZXlveWxSNzhGYzJlZmRSRkhvUWZRTHB3?oc=5"
   ],
   [
    "Commodities",
@@ -494,9 +494,9 @@
   [
    "Commodities",
    "med",
-   "Current price of oil as of November 20, 2026",
-   "Fortune",
-   "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yb0ZXTjFBZUZ0c1NqVGNKcWxQcnIwNXJvRFhZNGRFcGpBNUFYTDdNNEFpTC1lNnpOb3QxTTBEN0I3QVE0MjdnYkNJLXlyU1VmQlpNRDFSOWt3SC1iT29MU1pn?oc=5"
+   "U.S. Oil Drillers Pick Up the Pace Just as Oil Prices Fall",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbmVscEdxa2JzSzZQUzk0N1RMQi1odzBVTGNkNXNvRUE5XzNqeUhEbU1KOGcwVGJxai15SHNQazAtX0x4YURhNmRCOWpRUjRlWlc5TUkxWkFncWdDeXhqVjZhVmR6R2VrWE54cWxlUDctVlIzY2pRaVo2cS1rZUdkeXU4YUgxWVFyUmdVSnFTREdLUEhVUllwa04tVXU0UF84SlU3Z09OWdIBrAFBVV95cUxOYi03NFNEWVdpeVJzcmRiNXdWQUluamtMX3pzTi1SaXQyTG5lMkwxbXhLNlBDdnBGcmQ1NlZzLVlfVjZDSU9FaVhZamNmb2JDbU0zc1k2TmNqR3I3MVdHOFhEenFhcC1Lb2Jqa0p1Y1lreEwweUM0Q0FRbmZpdHFENnV5SzJkWThrZDdQX0Zod2V0emNFNUU5c0tNSmgyMFBuTlZFc3c5cE1udnAt?oc=5"
   ]
  ]
 }
