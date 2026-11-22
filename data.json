@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T06:51:56.774Z",
+ "updated": "2026-11-22T15:20:09.519Z",
  "events": [
   {
    "iso": "2026-11-23T03:15:00-05:00",
@@ -201,9 +201,9 @@
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.434,
-   "ch": 0.02,
-   "asof": "2026-11-21T22:00:31.000Z"
+   "p": 1.4339,
+   "ch": 0.01,
+   "asof": "2026-11-22T14:25:50.000Z"
   },
   {
    "s": "USD/CHF",
@@ -217,17 +217,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 59012.72,
-   "ch": -1.8,
-   "asof": "2026-11-22T06:51:53.000Z"
+   "p": 60742.08,
+   "ch": 1.08,
+   "asof": "2026-11-22T15:20:06.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 1659.53,
-   "ch": -1.35,
-   "asof": "2026-11-22T06:51:54.000Z"
+   "p": 1709.42,
+   "ch": 1.62,
+   "asof": "2026-11-22T15:20:04.000Z"
   },
   {
    "s": "S&P 500",
@@ -275,15 +275,15 @@
    "d": 2,
    "p": 129.93,
    "ch": 0.02,
-   "asof": "2026-11-20T22:36:29.000Z"
+   "asof": "2026-11-22T14:25:50.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 17.5858,
+   "p": 17.5856,
    "ch": 0.66,
-   "asof": "2026-11-21T22:00:31.000Z"
+   "asof": "2026-11-22T14:25:50.000Z"
   },
   {
    "s": "USD/NGN",
@@ -291,23 +291,23 @@
    "d": 2,
    "p": 1382.93,
    "ch": 2.43,
-   "asof": "2026-11-20T22:36:29.000Z"
+   "asof": "2026-11-22T14:25:50.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 69.01,
-   "ch": -1.72,
-   "asof": "2026-11-22T06:51:51.000Z"
+   "p": 70.05,
+   "ch": -0.24,
+   "asof": "2026-11-22T15:19:56.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 0.9145,
-   "ch": -1.81,
-   "asof": "2026-11-22T06:51:51.000Z"
+   "p": 0.9226,
+   "ch": -0.94,
+   "asof": "2026-11-22T15:20:05.000Z"
   },
   {
    "s": "Apple",
@@ -346,44 +346,44 @@
   [
    "Crypto",
    "med",
-   "Bitcoin Bounces Off Two-Year Lows. Could Crypto Rescue Stocks on Monday?",
-   "Barron's",
-   "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CdEVWQ1doTGNKcmpDTV83S2lzNi00SUxwcC1VNVVMM091dkJSY2RyZzQxUHB2RmV6US1jSGdUR2JWR1lrb3NsQjc5UEE2V2FtRVVzZHprVm8wNkdsTUQxOTVZRVoxcndRQ2Q5cXlxS3ctQ05R?oc=5"
+   "Bitcoin: Boom or Bust",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4ydGtxaEdsV2RRYUdSVlBGWWs4ZVlJdkxDNE5OenNrRnFsa3FZWmhvbUtZZUFBWURNRFVVckJyU2d2dEE2TUI2dzZTYVVpaVlnc2ZXeQ?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin rises 9% from two-year low, reclaiming $60,000 as forced selling eases",
+   "Bitcoin’s quantum threat goes beyond code to custodians, bridges, and 6 million coins",
    "CoinDesk",
-   "https://news.google.com/rss/articles/CBMizwFBVV95cUxPazQwdWlpUGFEeW94QjNwc09ZYzFHblczcTFvUEI3SzdwMTE4cWw4T0RlcFhJcE50cWhhcWVaWnVxekgzVWJDWjNpWTJoZnEwcDBmVHA4NUZyVi1rNUU0dkRFZkpOMkZrYlBseEN4WWFFenlSbFJZVXp3REFlaUZ1UjNGTjdELVhDalhvd1lFNGJMUHktUlpDOWtCajF3TmZKYy1XOURObVAySU9yRS1Oclc2QTZaR2J5WGhpcXpoRWowaFJEUnpwUEFXYXNtYWs?oc=5"
+   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnlBOW1KaWlxWXhWTGUzUWg2LTZiT2lRcU1rM3dFSDVTWVpDdGRLejd6dkhaN1pNY3picUtMUFdpTEhmWnRMZWtDbXpraHcxbi10eHRxdFhGYnhKWGd4bkNOZWNfbnA1WEc4ZXJyLUYwRnQ5NzhIc3Z4TFdsaEhLc09rN0FzODdEQWJseXp1c2pnaU5aQkh6c3liMmt1dTBQcXpqRU9wZzYzMU9fZXRIcDlUcnpFUEdINDJQRERmNVhQZVI0RWhXaA?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Classified U.S. Intelligence System Is Down, U.S. Officials Say",
+   "Nasdaq Turns Red For The Year",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT0p2RUJfQVdQZEV0djYteFk3V3BXWjJQeDM0bUlmN0ItTlRZWjBPcHlicnB6a2syYWxoOXctVGJYb01hZTBFTzRjSTQ0NlRoUGFOZnhYNFY3amxwZjV1anc0RHJpa2JYU2d3cWgtQTAwQzJWSWFQeFZHMk5ZS1Y5aWNqY0Y3TmNjWDZGVEhGWThZMjBYX09hR1pmRlVQcTlxUnJ5RnRFandlYm5FeDdfMmZLRl9BLV9XblZzSGlDZU9mUQ?oc=5"
+   "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RaUhWLVdDQi05aHVLU1hiMkdFRnIyYmNObm9fNV93R3Z5ZEt1b0QzTHdUSmVJOWZaNGlheDdnckJWNWNKcW5zNkMtOUJHWmg3Q1hNUkFyTUwxSFNlMUVacV95dGllbkM1MlUxV2FlUVl3YmRMdXpjdWxWemV1Zw?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Worried About Black Monday? What Wall Street Says Could Happen.",
-   "Barron's",
-   "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeTVJTGZmWm5BMG1wTFRwSlNabEtmYVYtaTdMZGE2YmJvQTBaYkpudUFvMl9oeG84WW9iVFVRd1ZkR1NVQUkwSHpseGMtSzJzVEh3Wk90VVVaajJCZ2RXREpzSFpUYkt4bWhoajcxbnY3ZFJkdHFlaU8xUjFveDhRMEdOc2xZTExpdjNRMzN3?oc=5"
+   "Top Wall Street analysts favor these 3 dividend stocks for strong returns",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOEloal8zR3MyUU1YX3VxeWRPTHNUR3B2dmVhZmFRcDAxMXA2YjBDRlcwQkI4djY1MzB4NnBvbUpNRjhiNm83MC02MTlwOFFQRVJYUzNmR0JBQU1CQVlFbXo5VmFxcXNxRmROQzVvbnA2YzgyYWVzZkkyeG81Z1kzS2xvTW84ZUlQU0M0MDNFX0t1MC1jSVpIT0ZuU1ltbFI20gGmAUFVX3lxTFBaNV92d1hjUGxtd0pQNGdJQUhaemFybTV6dXp2cEpGQ3g0bnJfTmRGZUtoU1BYWmNuNXp2OFlkRFpnVi1OSXg1YjRCMndoN2c0TmcxdjNwN3cyRno1S25YSm9aSkRZT1NLTEw1dE9GUmlDUDdhTThiQVVYMHVnZzBubXhyLVQtTEpZZ3VQaXVHVUVrWUhhdVhkZTJ4RVlsT2J0UF8tWHc?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Trump's Coal Revival Is Costing Americans More Than Expected",
+   "AI Boom Forces Massive Investment in Power Grids Worldwide",
    "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxNR1pvaXZoTXdocU1icDR4RE40QVktTG4zcTlJby1GbUg3LWNBRHFuOXVwelV3am1qNmctSXpNWk9SNE9aWGFqVXNZMmJxSlRBLU9hTE5YR0JvYTFQclNQVXkwNVQwbFdJbHdOanJZUDVUUVZWZGo0a1ZQMWxkNkdhVlNmQzVXcEItZnZrV2lQN2xTQWRLWHVlM1hoaFJYQdIBowFBVV95cUxNT3QxLUFKNThLY3kxOUczc2ZmRV9qWk9YaEZaU0JWdUZJeHpOb1IxUXh2T1RkX210ZVN1WWxlM3A4VmdDaUhhQVg5RHdxVDNsWDlJVE5BclBiN0FWLUtMVzZsc2VtekxWODhNYmp0Y2dVMmFzQzF6TUtHZjFLLVg5dDlobWRUUEo4NTBkeWhyMW03TThZUWphRmhVZFJvcER6X0JF?oc=5"
+   "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcXU3b01MbHF5Yy1QV2NEb3docHJoT2pzTGJSNzBVb3lIejRIMmF3NWU3N0JxMTd4S0czXzhqbUhERUViSUxMUFAxZmthOFM0ejJnYU1ZYnRHLWNwRWMxazV1MUdjbGVEendtcU5yNktxSkw3TGFFWWRsdkE2OXhjTzYyZEpTUTVpeDNsQlBVQVJQMUx0M1FobXgxLTJtb3hieWhZ0gGoAUFVX3lxTE9MbTNUd3lDeWxFUDcwNDR4U1hRZGZ0RWxkV09LNHM4Zkh0X0VXbzRwNklsVzU2RV9nVjJpaUFFakVzb3BMTU5RdV8tWlN4a2FxbWpLTklaMjlaWVVHMnEtT1drNndjTmVySWZwNy0tRnRQdG9ST1Y2Nzg4b1FvQXlXQmR6VnlkRmJ0YjE3YmxvMktyUzFHRHM3b2pLSGk3Qk84VC1yZHI5Uw?oc=5"
   ],
   [
    "Commodities",
-   "med",
-   "Goldman is out with its 2027 forecast for Brent oil prices",
-   "Investing.com",
-   "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMGlLOWJkZDAtY0drWGV5MjRhbkVqTDdFeXNGM3RYU0tIMG44M0o4d2JwaVlISHB5Y1FzTnVRQVZONVJGdDZfblh1eVFOQkJMMVQ5SmFNQXpBbzVPVkJEUTFhMk5QTlpna0lJbnlNU3hLclVxV2YweVBES3JSZEo0S2Q2UEItdkNBUDVCekhXaXVWYzlDRldPTkhQUExFbUhFMDlYQXo4QU02cjV4THYyMEdZaDc?oc=5"
+   "high",
+   "Thanksgiving Gas Prices Could Break a Record Despite Recent Plunge",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLWtrY0hLNDhyUnhKekstTHlLczFjUGFoM2pMSThHUnJoZjJYMHhObldvUERKdWlHUDJXRmtsNE02cUhSSmZGMzh2S01ZdHExWWpXQnRFc2QyRnE1dEpXSEVWZU5sSkU0clc0emNIR3BUUTI5aW5aWG9UTU85WGMydVAwdWVSRWFPTUFONDlWX3ljQVpBcHhOV2x3dDYzaUs0Q0JrczdtenVTZzZ1OFZHZzBRYXlWRHUtM3Zmcy00d9IBxAFBVV95cUxPOWgwY0lmbm5qUGxvY2IybF9kYXVGLUlVNzlTeXpaUmoxeEpLX05RY1ZMbW1wVk80ckRic2R2dFZSX3VCQkFxZXRXQnRKZTNGNHpuTndkSnZKbEdpemstdnlLWEtiRFRhVU13akpjVWFUZGUybC1KRHBvbGE5VmY0RmpnQVBoRUpFamlWSmhvNnVJVmVCVGpybWNyOWRhc1ZYNzBJbHp1SlZmODk0XzZBQks5eDRvUF9UUGRpeXlPSDdzTEJR?oc=5"
   ]
  ]
 }
