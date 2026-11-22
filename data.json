@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T15:20:09.519Z",
+ "updated": "2026-11-22T21:47:06.182Z",
  "events": [
   {
    "iso": "2026-11-23T03:15:00-05:00",
@@ -185,25 +185,25 @@
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.512,
-   "ch": -0.68,
-   "asof": "2026-11-20T21:59:58.000Z"
+   "p": 158.597,
+   "ch": -0.63,
+   "asof": "2026-11-22T21:40:31.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6619,
-   "ch": -0.62,
-   "asof": "2026-11-21T22:29:45.000Z"
+   "p": 0.6623,
+   "ch": -0.56,
+   "asof": "2026-11-22T21:45:46.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4339,
-   "ch": 0.01,
-   "asof": "2026-11-22T14:25:50.000Z"
+   "p": 1.4341,
+   "ch": 0.03,
+   "asof": "2026-11-22T18:00:02.000Z"
   },
   {
    "s": "USD/CHF",
@@ -217,17 +217,17 @@
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 60742.08,
-   "ch": 1.08,
-   "asof": "2026-11-22T15:20:06.000Z"
+   "p": 60903.9,
+   "ch": 1.35,
+   "asof": "2026-11-22T21:47:02.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 1709.42,
-   "ch": 1.62,
-   "asof": "2026-11-22T15:20:04.000Z"
+   "p": 1721.07,
+   "ch": 2.31,
+   "asof": "2026-11-22T21:47:01.000Z"
   },
   {
    "s": "S&P 500",
@@ -258,7 +258,7 @@
    "m": "Commodities",
    "d": 2,
    "p": 3515.4,
-   "ch": -4.62,
+   "ch": 0,
    "asof": "2026-11-20T21:59:57.000Z"
   },
   {
@@ -266,7 +266,7 @@
    "m": "Commodities",
    "d": 2,
    "p": 83.41,
-   "ch": 1.18,
+   "ch": 0,
    "asof": "2026-11-20T21:59:59.000Z"
   },
   {
@@ -281,9 +281,9 @@
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 17.5856,
-   "ch": 0.66,
-   "asof": "2026-11-22T14:25:50.000Z"
+   "p": 17.55,
+   "ch": 0.45,
+   "asof": "2026-11-22T21:36:57.000Z"
   },
   {
    "s": "USD/NGN",
@@ -297,17 +297,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 70.05,
-   "ch": -0.24,
-   "asof": "2026-11-22T15:19:56.000Z"
+   "p": 70.34,
+   "ch": 0.18,
+   "asof": "2026-11-22T21:46:58.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 0.9226,
-   "ch": -0.94,
-   "asof": "2026-11-22T15:20:05.000Z"
+   "p": 0.9259,
+   "ch": -0.59,
+   "asof": "2026-11-22T21:46:59.000Z"
   },
   {
    "s": "Apple",
@@ -338,17 +338,24 @@
    "m": "Commodities",
    "d": 3,
    "p": 41.07,
-   "ch": -7.41,
+   "ch": 0,
    "asof": "2026-11-20T21:59:58.000Z"
   }
  ],
  "news": [
   [
-   "Crypto",
+   "Forex",
    "med",
-   "Bitcoin: Boom or Bust",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4ydGtxaEdsV2RRYUdSVlBGWWs4ZVlJdkxDNE5OenNrRnFsa3FZWmhvbUtZZUFBWURNRFVVckJyU2d2dEE2TUI2dzZTYVVpaVlnc2ZXeQ?oc=5"
+   "Chile’s Economic Recovery May Take Longer, Central Bank Chief Tells Newspaper",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMitgFBVV95cUxONEl1RDMta3FDb3VIeWczMlZkWG9ucE9zbEU1enpwWXplTzNNb0RBM1hTN1EzX0VnYXV4MzdvZkhiWmJGR09CTy11Yi1tOVpodTlGVXVUZTVuSUJ5Uld3RlVSX3VhelV1N0RTNzByQU1tcDBmRDFab0VHcDRaTDMxNEpCU3ZjOEF5NExBcmRjZHRqODhwV2paZUZkR0tuRUdnN1Q3UndEbDQzYUI4TE96UG4yLVZ6QQ?oc=5"
+  ],
+  [
+   "Forex",
+   "med",
+   "Gold tests $3,500, Silver targets $40 possibly lower - EUR/USD bearish, Yen pairs tumble [Video]",
+   "FXStreet",
+   "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT1Ixc24weG1hSjF2NGM1d1M3V25Vcnc2NkZ5eS1MUGNMVVdxODVNWGkzeERBVFM0V0UzWlpMTHAtanlNSHFvYlVQbDVQeEdOckpORl92SDk2eXkwWExVbk9GZDV1Rm9NOFJwbHZxLUZqdElPNDhtM0lEVjZncFlaVF9WaTdwT1Rwd3VZN0R2UFpkbTA1WDZrdGZaMGVvRERxNXZ5TW81ZWRkYXpqNWFTTkJISUxQcldNTmZ4a0tWakUyYWJleUk3ZjhVZzkxdVA5?oc=5"
   ],
   [
    "Crypto",
@@ -358,18 +365,25 @@
    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnlBOW1KaWlxWXhWTGUzUWg2LTZiT2lRcU1rM3dFSDVTWVpDdGRLejd6dkhaN1pNY3picUtMUFdpTEhmWnRMZWtDbXpraHcxbi10eHRxdFhGYnhKWGd4bkNOZWNfbnA1WEc4ZXJyLUYwRnQ5NzhIc3Z4TFdsaEhLc09rN0FzODdEQWJseXp1c2pnaU5aQkh6c3liMmt1dTBQcXpqRU9wZzYzMU9fZXRIcDlUcnpFUEdINDJQRERmNVhQZVI0RWhXaA?oc=5"
   ],
   [
-   "Stocks",
+   "Crypto",
    "med",
-   "Nasdaq Turns Red For The Year",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RaUhWLVdDQi05aHVLU1hiMkdFRnIyYmNObm9fNV93R3Z5ZEt1b0QzTHdUSmVJOWZaNGlheDdnckJWNWNKcW5zNkMtOUJHWmg3Q1hNUkFyTUwxSFNlMUVacV95dGllbkM1MlUxV2FlUVl3YmRMdXpjdWxWemV1Zw?oc=5"
+   "What Warren Buffett Has Said About Bitcoin and Whether He Was Right",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMiogFBVV95cUxObllseEZIOGUyZ2tIWndBYnNGZ2d0Uk5kWXJMc0FYTXh1emNvSmMyME01NmxrSFNtX0NFSHozREozQm5jNDBCUUdJS21xdGUyZTZselgzMkNXdHRQT0M3eXJNYVRlbEpOdTZIYTZHMVhqMFVDcDg4OFJJTmtTQUtBUVlZRWJGam9lTy0xY0R6d0FzbnlxZENab2JjSzctMnQxdHc?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Top Wall Street analysts favor these 3 dividend stocks for strong returns",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOEloal8zR3MyUU1YX3VxeWRPTHNUR3B2dmVhZmFRcDAxMXA2YjBDRlcwQkI4djY1MzB4NnBvbUpNRjhiNm83MC02MTlwOFFQRVJYUzNmR0JBQU1CQVlFbXo5VmFxcXNxRmROQzVvbnA2YzgyYWVzZkkyeG81Z1kzS2xvTW84ZUlQU0M0MDNFX0t1MC1jSVpIT0ZuU1ltbFI20gGmAUFVX3lxTFBaNV92d1hjUGxtd0pQNGdJQUhaemFybTV6dXp2cEpGQ3g0bnJfTmRGZUtoU1BYWmNuNXp2OFlkRFpnVi1OSXg1YjRCMndoN2c0TmcxdjNwN3cyRno1S25YSm9aSkRZT1NLTEw1dE9GUmlDUDdhTThiQVVYMHVnZzBubXhyLVQtTEpZZ3VQaXVHVUVrWUhhdVhkZTJ4RVlsT2J0UF8tWHc?oc=5"
+   "Wall Street Strategists See Silver Lining for Stock Market",
+   "Barron's",
+   "https://news.google.com/rss/articles/CBMingFBVV95cUxQVGVBc1ZvVkN3NHA2dnQzbEFQeEtsanRGYWluMXRLamVkZHNRYlZyWnZXMnRHQzk2SWhuSjh6Xy1ySGE5blRiZXA1ck1RM3pyMEZiX1RickFIVzBxa3NGejJNN1RGcFQ3cURNd05pVGNFZjFHM3dHV2RxTVZhWWU3eUhKb1JqM3RUcEQtc3ItN1lHVUh1Smc1dmNvZjJ4QQ?oc=5"
+  ],
+  [
+   "Stocks",
+   "high",
+   "The S&P 500 and Dow Jones Are Dangerously Close to Joining the Nasdaq in a Correction. Here’s the Level That Would Put the Nasdaq in a Bear Market, and What History Says Investors Should Do During a Stock Market Crash.",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbTZ4Z2JvclhkYUdVajFCUnQzVXlKc2ZRUUQwbThYbC1PbGtoa0pFX0hsVVVFUUhpOEc5NUZ2eVhqM3JzZzhiWkNQYktJVFZRT3NaM2VmVjItclFQWW9wZkNnMUVFQnJhWm8tdUJoVDJTbXlFZEtGVlFyQkFpZWFBUmhRa1pFWHdaYjN1aXF1eE5Wazhzak1F?oc=5"
   ],
   [
    "Commodities",
@@ -380,10 +394,10 @@
   ],
   [
    "Commodities",
-   "high",
-   "Thanksgiving Gas Prices Could Break a Record Despite Recent Plunge",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLWtrY0hLNDhyUnhKekstTHlLczFjUGFoM2pMSThHUnJoZjJYMHhObldvUERKdWlHUDJXRmtsNE02cUhSSmZGMzh2S01ZdHExWWpXQnRFc2QyRnE1dEpXSEVWZU5sSkU0clc0emNIR3BUUTI5aW5aWG9UTU85WGMydVAwdWVSRWFPTUFONDlWX3ljQVpBcHhOV2x3dDYzaUs0Q0JrczdtenVTZzZ1OFZHZzBRYXlWRHUtM3Zmcy00d9IBxAFBVV95cUxPOWgwY0lmbm5qUGxvY2IybF9kYXVGLUlVNzlTeXpaUmoxeEpLX05RY1ZMbW1wVk80ckRic2R2dFZSX3VCQkFxZXRXQnRKZTNGNHpuTndkSnZKbEdpemstdnlLWEtiRFRhVU13akpjVWFUZGUybC1KRHBvbGE5VmY0RmpnQVBoRUpFamlWSmhvNnVJVmVCVGpybWNyOWRhc1ZYNzBJbHp1SlZmODk0XzZBQks5eDRvUF9UUGRpeXlPSDdzTEJR?oc=5"
+   "med",
+   "Gold Price Is Moving With the Stock Market, and That’s Bad",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWUsxTHl2cTA0LWs4YnNuYXhMN3pwTm5UOTlUcUk1VG1vSGViN3lTd1hsREhMcW1KdmpKTnVBYmJ6eHQxbzZPU0hFaFpKOU9lcmhJc1NGOTRwTE5CakxzZG5ZVGcwMDBQdjlJX0dZNjZhanhxTEI3c09ORW93cmVOUTZvdndzS1lNdDc1aDlaazFVZkFSRklvQVRKRzJhU3VyeVE?oc=5"
   ]
  ]
 }
