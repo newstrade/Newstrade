@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T21:47:06.182Z",
+ "updated": "2026-11-23T02:46:56.479Z",
  "events": [
   {
    "iso": "2026-11-23T03:15:00-05:00",
@@ -169,65 +169,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.0975,
-   "ch": 0.02,
-   "asof": "2026-11-20T22:29:46.000Z"
+   "p": 1.0989,
+   "ch": 0.13,
+   "asof": "2026-11-23T02:46:47.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3082,
-   "ch": -0.08,
-   "asof": "2026-11-22T00:42:47.000Z"
+   "p": 1.3112,
+   "ch": 0.23,
+   "asof": "2026-11-23T02:46:47.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 158.597,
-   "ch": -0.63,
-   "asof": "2026-11-22T21:40:31.000Z"
+   "p": 158.898,
+   "ch": 0.24,
+   "asof": "2026-11-23T02:46:56.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6623,
-   "ch": -0.56,
-   "asof": "2026-11-22T21:45:46.000Z"
+   "p": 0.6637,
+   "ch": 0.27,
+   "asof": "2026-11-23T02:45:47.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4341,
-   "ch": 0.03,
-   "asof": "2026-11-22T18:00:02.000Z"
+   "p": 1.4327,
+   "ch": -0.08,
+   "asof": "2026-11-23T02:46:56.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
    "p": 0.8396,
-   "ch": -0.45,
-   "asof": "2026-11-20T22:00:00.000Z"
+   "ch": 0,
+   "asof": "2026-11-23T02:46:55.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 60903.9,
-   "ch": 1.35,
-   "asof": "2026-11-22T21:47:02.000Z"
+   "p": 60488.04,
+   "ch": -1.1,
+   "asof": "2026-11-23T02:46:54.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 1721.07,
-   "ch": 2.31,
-   "asof": "2026-11-22T21:47:01.000Z"
+   "p": 1701.98,
+   "ch": -1.11,
+   "asof": "2026-11-23T02:46:51.000Z"
   },
   {
    "s": "S&P 500",
@@ -257,57 +257,57 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3515.4,
-   "ch": 0,
-   "asof": "2026-11-20T21:59:57.000Z"
+   "p": 3577.7,
+   "ch": 1.77,
+   "asof": "2026-11-23T02:36:53.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 83.41,
-   "ch": 0,
-   "asof": "2026-11-20T21:59:59.000Z"
+   "p": 83.08,
+   "ch": -0.4,
+   "asof": "2026-11-23T02:36:32.000Z"
   },
   {
    "s": "USD/KES",
    "m": "Forex",
    "d": 2,
    "p": 129.93,
-   "ch": 0.02,
-   "asof": "2026-11-22T14:25:50.000Z"
+   "ch": 0,
+   "asof": "2026-11-23T02:00:20.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 17.55,
-   "ch": 0.45,
-   "asof": "2026-11-22T21:36:57.000Z"
+   "p": 17.4945,
+   "ch": -0.52,
+   "asof": "2026-11-23T02:46:56.000Z"
   },
   {
    "s": "USD/NGN",
    "m": "Forex",
    "d": 2,
    "p": 1382.93,
-   "ch": 2.43,
-   "asof": "2026-11-22T14:25:50.000Z"
+   "ch": 0,
+   "asof": "2026-11-23T02:01:59.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 70.34,
-   "ch": 0.18,
-   "asof": "2026-11-22T21:46:58.000Z"
+   "p": 70.01,
+   "ch": -0.8,
+   "asof": "2026-11-23T02:46:49.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 0.9259,
-   "ch": -0.59,
-   "asof": "2026-11-22T21:46:59.000Z"
+   "p": 0.915,
+   "ch": -1.34,
+   "asof": "2026-11-23T02:46:52.000Z"
   },
   {
    "s": "Apple",
@@ -337,12 +337,19 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 41.07,
-   "ch": 0,
-   "asof": "2026-11-20T21:59:58.000Z"
+   "p": 41.515,
+   "ch": 1.08,
+   "asof": "2026-11-23T02:36:53.000Z"
   }
  ],
  "news": [
+  [
+   "Forex",
+   "med",
+   "Dollar edges off 19-month high after market rout; yen softens",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVA0aUFSMnFob3ZJdVFvbmlpN0JDRWFRNUJwZ1BIY19KU3RXZjJTRGdLaU00NGJ6dDRvX3VBUDdtcG9XQWRiRFhuUzhMZTNsN2lDSWVKMmI2Vi1EQ3dFUE5mM3dwZGNQWC1zZXhnZTJfVEVuYzVETlV1enJTN0dPZlQ3SlozeklDTzkwck16LW42eWt5aDJEY0w4M0Ytd0ZlRnBSZmZpN0Z5bkxTLXNXcWdtSW0?oc=5"
+  ],
   [
    "Forex",
    "med",
@@ -351,53 +358,46 @@
    "https://news.google.com/rss/articles/CBMitgFBVV95cUxONEl1RDMta3FDb3VIeWczMlZkWG9ucE9zbEU1enpwWXplTzNNb0RBM1hTN1EzX0VnYXV4MzdvZkhiWmJGR09CTy11Yi1tOVpodTlGVXVUZTVuSUJ5Uld3RlVSX3VhelV1N0RTNzByQU1tcDBmRDFab0VHcDRaTDMxNEpCU3ZjOEF5NExBcmRjZHRqODhwV2paZUZkR0tuRUdnN1Q3UndEbDQzYUI4TE96UG4yLVZ6QQ?oc=5"
   ],
   [
-   "Forex",
+   "Crypto",
    "med",
-   "Gold tests $3,500, Silver targets $40 possibly lower - EUR/USD bearish, Yen pairs tumble [Video]",
-   "FXStreet",
-   "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT1Ixc24weG1hSjF2NGM1d1M3V25Vcnc2NkZ5eS1MUGNMVVdxODVNWGkzeERBVFM0V0UzWlpMTHAtanlNSHFvYlVQbDVQeEdOckpORl92SDk2eXkwWExVbk9GZDV1Rm9NOFJwbHZxLUZqdElPNDhtM0lEVjZncFlaVF9WaTdwT1Rwd3VZN0R2UFpkbTA1WDZrdGZaMGVvRERxNXZ5TW81ZWRkYXpqNWFTTkJISUxQcldNTmZ4a0tWakUyYWJleUk3ZjhVZzkxdVA5?oc=5"
+   "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
+   "The Guardian",
+   "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV1RnSFBRaGNTTWk4WUdpekprQ2pUSEViLXEyaUtneWxOSjZFZmxIWVJQZVUyd3hSMV9zdmtERk81UHZkUXZ5VDhFWFdQUi1obEhCbmdMQzg2WWR3Nld2Ni1WNGhHSjRtRWRhV2ZjOXRfMnpfVmVIYno4a3pFOUxHaXZVc2xrUEpZNTVj?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin’s quantum threat goes beyond code to custodians, bridges, and 6 million coins",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnlBOW1KaWlxWXhWTGUzUWg2LTZiT2lRcU1rM3dFSDVTWVpDdGRLejd6dkhaN1pNY3picUtMUFdpTEhmWnRMZWtDbXpraHcxbi10eHRxdFhGYnhKWGd4bkNOZWNfbnA1WEc4ZXJyLUYwRnQ5NzhIc3Z4TFdsaEhLc09rN0FzODdEQWJseXp1c2pnaU5aQkh6c3liMmt1dTBQcXpqRU9wZzYzMU9fZXRIcDlUcnpFUEdINDJQRERmNVhQZVI0RWhXaA?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "What Warren Buffett Has Said About Bitcoin and Whether He Was Right",
+   "Can Bitcoin Still Reach $1 Million by 2035?",
    "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiogFBVV95cUxObllseEZIOGUyZ2tIWndBYnNGZ2d0Uk5kWXJMc0FYTXh1emNvSmMyME01NmxrSFNtX0NFSHozREozQm5jNDBCUUdJS21xdGUyZTZselgzMkNXdHRQT0M3eXJNYVRlbEpOdTZIYTZHMVhqMFVDcDg4OFJJTmtTQUtBUVlZRWJGam9lTy0xY0R6d0FzbnlxZENab2JjSzctMnQxdHc?oc=5"
+   "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWmx3S0dNT1ZLSU1qRk1fVDRLc0xUbW5kVEpHNkRtLU1udkhNMjNMcmJnaDVaNUcxWVhkSUpnZUc4b2taTUU3dFExVDRNYmQtVERZRU5ndi14bklyMFNKaDFnSllEU2dTYkdIbGpQNHNJdVBCaEhVeUhwR3Axa3NEeE1kb3JSQ05lNGJfSm14ZnBTUFItbGJTU253?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Wall Street Strategists See Silver Lining for Stock Market",
-   "Barron's",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxQVGVBc1ZvVkN3NHA2dnQzbEFQeEtsanRGYWluMXRLamVkZHNRYlZyWnZXMnRHQzk2SWhuSjh6Xy1ySGE5blRiZXA1ck1RM3pyMEZiX1RickFIVzBxa3NGejJNN1RGcFQ3cURNd05pVGNFZjFHM3dHV2RxTVZhWWU3eUhKb1JqM3RUcEQtc3ItN1lHVUh1Smc1dmNvZjJ4QQ?oc=5"
+   "Stock market today: Dow futures jump 700 points and Nasdaq soars 3% after entering correction",
+   "Fortune",
+   "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHVtODRCNHpEWlpxVUloeXluS04zZTB3WUFMazNTamtVckExbW9qbWFDaGJObUtCNHZUZkVoRWpYMlk4OXVOYzF4dUhERk4wOXpNWHhZWEZGamR2cGpxdC1mRVpDTVpsLVhDbS1RQmJlYXpRblh4cC0wOUJtalI4WHAzLWVFcHhXYzd2dTNidS0yM0hEX0tXX3pB?oc=5"
   ],
   [
    "Stocks",
-   "high",
-   "The S&P 500 and Dow Jones Are Dangerously Close to Joining the Nasdaq in a Correction. Here’s the Level That Would Put the Nasdaq in a Bear Market, and What History Says Investors Should Do During a Stock Market Crash.",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbTZ4Z2JvclhkYUdVajFCUnQzVXlKc2ZRUUQwbThYbC1PbGtoa0pFX0hsVVVFUUhpOEc5NUZ2eVhqM3JzZzhiWkNQYktJVFZRT3NaM2VmVjItclFQWW9wZkNnMUVFQnJhWm8tdUJoVDJTbXlFZEtGVlFyQkFpZWFBUmhRa1pFWHdaYjN1aXF1eE5Wazhzak1F?oc=5"
+   "med",
+   "US Stock Futures Open Higher After Tech Selloff: Markets Wrap",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFVRM2J2cTZ6eU02Qzk1TF83UmhsSEN3SlpHYjJuc2lDeXBVM0h6WkN2bEJCUlk5RnZNOFMta05FOXFqeTZQQWZnbFl2RG1WTWVNSXYwVWhZRFZxRkx6SDlhTWtUWk92UVBJa2FGWVk3ak9rOUVJYjZ6RDBqcUZCOEpiWmFVWGxvVmM1Y2prdDk2N19EZG0xWjU3aFV5QkJ6MjF4eExGSkd3TWxaWGRBVzhB?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "AI Boom Forces Massive Investment in Power Grids Worldwide",
+   "Oil Edges Lower as Ample Supply Outweighs Middle East Tensions",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMingFBVV95cUxQZldpS0pzSnV4MTFveW5XYzJmeGg5MTIzNm9RVWZka25nb05xbmU0T2s4Sm5vbllUTnZTLVNpUnEyUk01a1otTVpKQ20zU2l5VmhsNkdSWV9EMExoa0VaVWpYUXZVREoxdjk5Mk1wN2Q2QkswQmU5aUY1T2pBUTRyVnVmOHg2b05YNmxSaDdZYzZKbWM5UTFUVndxUGlwQQ?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "U.S. Energy Exports Hit Records as Global Competition Intensifies",
    "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcXU3b01MbHF5Yy1QV2NEb3docHJoT2pzTGJSNzBVb3lIejRIMmF3NWU3N0JxMTd4S0czXzhqbUhERUViSUxMUFAxZmthOFM0ejJnYU1ZYnRHLWNwRWMxazV1MUdjbGVEendtcU5yNktxSkw3TGFFWWRsdkE2OXhjTzYyZEpTUTVpeDNsQlBVQVJQMUx0M1FobXgxLTJtb3hieWhZ0gGoAUFVX3lxTE9MbTNUd3lDeWxFUDcwNDR4U1hRZGZ0RWxkV09LNHM4Zkh0X0VXbzRwNklsVzU2RV9nVjJpaUFFakVzb3BMTU5RdV8tWlN4a2FxbWpLTklaMjlaWVVHMnEtT1drNndjTmVySWZwNy0tRnRQdG9ST1Y2Nzg4b1FvQXlXQmR6VnlkRmJ0YjE3YmxvMktyUzFHRHM3b2pLSGk3Qk84VC1yZHI5Uw?oc=5"
-  ],
-  [
-   "Commodities",
-   "med",
-   "Gold Price Is Moving With the Stock Market, and That’s Bad",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWUsxTHl2cTA0LWs4YnNuYXhMN3pwTm5UOTlUcUk1VG1vSGViN3lTd1hsREhMcW1KdmpKTnVBYmJ6eHQxbzZPU0hFaFpKOU9lcmhJc1NGOTRwTE5CakxzZG5ZVGcwMDBQdjlJX0dZNjZhanhxTEI3c09ORW93cmVOUTZvdndzS1lNdDc1aDlaazFVZkFSRklvQVRKRzJhU3VyeVE?oc=5"
+   "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLV94SkZoRzAwMjMxMW5aMjBYSkJ5VE5aN0NkTXZ3dElvZVB1WWFvS3JfMk4wV092aHdEZkxwMWhMdThxbzFxRmluU1F5bURXQXg1b3h4cHM0S0lKQjVfc2JidFhKNmFKZE93eGJuTnNMWHJFeUV6RHh0U1lpUGZUMzVWSTdvdks4TkZXR2JVR2xQendFUDVVNUpSN3E5NE1JYXdGTjhKVWtZcUIzdjE1UlBFUGlRUdIBtgFBVV95cUxOLV94SkZoRzAwMjMxMW5aMjBYSkJ5VE5aN0NkTXZ3dElvZVB1WWFvS3JfMk4wV092aHdEZkxwMWhMdThxbzFxRmluU1F5bURXQXg1b3h4cHM0S0lKQjVfc2JidFhKNmFKZE93eGJuTnNMWHJFeUV6RHh0U1lpUGZUMzVWSTdvdks4TkZXR2JVR2xQendFUDVVNUpSN3E5NE1JYXdGTjhKVWtZcUIzdjE1UlBFUGlRUQ?oc=5"
   ]
  ]
 }
