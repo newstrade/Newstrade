@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T23:38:37.937Z",
+ "updated": "2026-11-26T08:22:30.418Z",
  "events": [
   {
    "iso": "2026-11-23T03:15:00-05:00",
@@ -169,65 +169,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.0977,
-   "ch": 0.09,
-   "asof": "2026-11-25T23:37:45.000Z"
+   "p": 1.0973,
+   "ch": -0.08,
+   "asof": "2026-11-26T08:21:45.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3116,
-   "ch": 0,
-   "asof": "2026-11-25T23:37:45.000Z"
+   "p": 1.3103,
+   "ch": -0.1,
+   "asof": "2026-11-26T08:21:45.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 159.193,
-   "ch": -0.03,
-   "asof": "2026-11-25T23:38:36.000Z"
+   "p": 159.181,
+   "ch": 0.04,
+   "asof": "2026-11-26T08:22:30.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6629,
-   "ch": -0.24,
-   "asof": "2026-11-25T23:37:45.000Z"
+   "p": 0.6634,
+   "ch": 0.08,
+   "asof": "2026-11-26T08:21:45.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4215,
-   "ch": -0.34,
-   "asof": "2026-11-25T23:38:37.000Z"
+   "p": 1.4226,
+   "ch": 0.11,
+   "asof": "2026-11-26T08:22:29.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8309,
-   "ch": -0.48,
-   "asof": "2026-11-25T23:38:37.000Z"
+   "p": 0.8331,
+   "ch": 0.34,
+   "asof": "2026-11-26T08:22:30.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 60249.52,
-   "ch": 0.84,
-   "asof": "2026-11-25T23:38:33.000Z"
+   "p": 60651.07,
+   "ch": 0.45,
+   "asof": "2026-11-26T08:22:26.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 1690.24,
-   "ch": 0.75,
-   "asof": "2026-11-25T23:38:24.000Z"
+   "p": 1688.56,
+   "ch": -0.13,
+   "asof": "2026-11-26T08:22:27.000Z"
   },
   {
    "s": "S&P 500",
@@ -235,7 +235,7 @@
    "d": 2,
    "p": 7182.78,
    "ch": -0.25,
-   "asof": "2026-11-25T21:32:06.000Z"
+   "asof": "2026-11-25T21:00:00.000Z"
   },
   {
    "s": "Nasdaq",
@@ -249,65 +249,65 @@
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 50182.95,
+   "p": 50182.9,
    "ch": 0.33,
-   "asof": "2026-11-25T21:32:17.000Z"
+   "asof": "2026-11-25T21:00:00.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3601.1,
-   "ch": 1.02,
-   "asof": "2026-11-25T23:28:33.000Z"
+   "p": 3592.2,
+   "ch": 0.77,
+   "asof": "2026-11-26T08:12:28.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 84.04,
-   "ch": 0.43,
-   "asof": "2026-11-25T23:28:25.000Z"
+   "p": 84.03,
+   "ch": 0.42,
+   "asof": "2026-11-26T08:12:24.000Z"
   },
   {
    "s": "USD/KES",
    "m": "Forex",
    "d": 2,
    "p": 130.05,
-   "ch": 0.04,
-   "asof": "2026-11-25T22:30:09.000Z"
+   "ch": 0,
+   "asof": "2026-11-26T06:22:30.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 17.5531,
-   "ch": 0.21,
-   "asof": "2026-11-25T23:38:37.000Z"
+   "p": 17.5402,
+   "ch": -0.11,
+   "asof": "2026-11-26T08:22:30.000Z"
   },
   {
    "s": "USD/NGN",
    "m": "Forex",
    "d": 2,
-   "p": 1359,
-   "ch": 0.24,
-   "asof": "2026-11-25T22:30:18.000Z"
+   "p": 1359.81,
+   "ch": 0.06,
+   "asof": "2026-11-26T07:40:34.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 70.35,
-   "ch": 1.03,
-   "asof": "2026-11-25T23:38:35.000Z"
+   "p": 70.87,
+   "ch": 0.68,
+   "asof": "2026-11-26T08:22:25.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 0.9356,
-   "ch": 1.21,
-   "asof": "2026-11-25T23:38:33.000Z"
+   "p": 0.9526,
+   "ch": 1.67,
+   "asof": "2026-11-26T08:22:28.000Z"
   },
   {
    "s": "Apple",
@@ -337,53 +337,53 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 41.605,
-   "ch": 2.63,
-   "asof": "2026-11-25T23:28:30.000Z"
+   "p": 41.575,
+   "ch": 2.56,
+   "asof": "2026-11-26T08:12:23.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Ex-England soccer player Sterling spared immediate jail sentence for dangerous driving",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYTNVUUNiT0VOZDFaLW9yZEFRU2NwdjZvV0pKWDZrVVNBUm9ZS28wd09xQjhCMlBsajZlUVR3MG9tdE9la2pSV2Ftd2h4emt4NzI5T3NZZFFiSHV1bU9HUUFMR3Ntb3l1RW8yUkIyWlJJSEw4Z2VvTWR4d1pIaDZ4QndaWVVmQmxhTTVEcTB2U2tvcGhSSm9tZ3Fjd19FNlFwYkx1WkdrSEtfQWR6ZGJaTUZOQkMzUDJrT1kw?oc=5"
+   "South Korea’s central bank hikes interest rates, raises GDP growth forecast",
+   "Al Jazeera",
+   "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTW9UQ1JfVnlQTzVzV1lDUEhkZ1VzaVVuNnlGclhleUZPNmJjUEl6aUpiQTB4bDhmdFRxakQ4N0s3NGRWOE1vbjhvTDMwY1dqb0w2NzZTQXBRRDJ1V1ZmaVhiaWM5UGtjQ2hIMjBJWVM1a0d1ZTFlWWdfRlFTRTJaZDA4Yl9sZmVvS213OFdpOWxuMnBKajl5RzF1OHI0NlF4c0s3QnAzMmFLeEEtN3Z2Q0xhWV9ESWFFWUHSAb8BQVVfeXFMTzcxaWxLMDRRY1A3aWNxZFFIdGNtNHEzcGR0aFJjME9Xb2NvTWp4NTd6SlZHOUFreldKQUg2R3hJWmxvS0Rsck1WancydVVSTFpMV0hhUk9xaHplUkd6Q01pRkJlMWlWcWFHYVI0QW9LNll3cUVNMjlIM1RVTzRNdkc5ZlJ0OHA2dTZtSmtEdFhkRkRtdmQxZlBldDRxVWtCRzZPMXIwR2FYeVFoMmp2N1FFMlo0VUxKT0VKUG94TFk?oc=5"
   ],
   [
    "Forex",
-   "high",
-   "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SREI2WkZTZTJWN0daalVYUlBFRVAtcUNzY3BybGN3dnJCUU1OR2dVRkNXMDRMWmtISWZSSkdNeFNGdm4xc2ZveGtVMmtnUFFqanhXbmhhcktZUWRrM1BpVUE0OU5ZNnNTOENfVDhoTmdWQWxNZGlFbXFR0gF_QVVfeXFMTmFSS3ViODJ4VUhoUF9pUHJwRldEZTlzTHoxRWt3djJQZGJLZ2R4dG9MSk9KaEZtbUp1a1ZwZjNMS0VJbDIyTldzcTlTblFKaWZ5LXJ0UXRMZERRbHNUZDdNYzV5UzVSV0pJYUhoVFh2T1psRElLZFlNUEVnUnBMaw?oc=5"
-  ],
-  [
-   "Crypto",
    "med",
-   "Bitcoin Funds Head for Worst Month as Outflows Near $5 Billion",
-   "Bloomberg",
-   "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlZrR3hSRnRhN2p1U3ktUnBnZnc2LWJ4Zk1GdWdCaFpsY3Z5emp6LWJ4bXVEZVl6UVVRN1VZcm90cWQ3Vlo2SkthYTZGT3NxbEJ6ZlJSWWFpNFRvcGgyZ1hNYzhQQkV0UFdnUXhkUy1tZ1QwemJfUjVGbmVqQUZtTnRmaU5HY1JWXzZVY0JJeXdWRFRYNnRfVGRQLVV1QmRIMC15aW5ZWGhXM2pjUE80Mjhn?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "Crypto Market Today, Nov. 25: Bitcoin, Ethereum, and Solana as Short Liquidations Fuel Fragile Rebound",
-   "The Motley Fool",
-   "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMTE1Zzh0cHZjMjR6YlBJSHJ0U0tPa0xKSWVtdWNCSHVsblNKU3RhTFgzQy1hVjBFNkxySTdiaE9GMThZdm1aemVXNjBTU3V1cWxMamlRMTFhenlxN05wd25xZHUzSjN4ZU9Femxfd3BXNkVyLXBZS0xJVW9aNjU5TDBRUWRvVUVYeGt5cWZFVzBWZnR0N2VoekVqQXFYQWxKQzUwN3lnRGhlanpmODdFcURDcmt0Q1ctajdWWUwxV2xrcWdqczlhVUJGdWp0MWt6R293R1lxLWwzdGRIQzBRNmRwUXFnazhFYm5jNlpDQQ?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains",
+   "South Korea's central bank raises rates, upgrades 2027 growth outlook",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5"
+   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSTJjdUdXNzZ0QVUtZS1QMGowZkw1ellJM1ZkZUMzYVQ1OVp5ME5vQnRTMHgyYm9YVFRxcm11TkdSUmJ6RV9nYlY0YnkzZnhuNkNWa0g0MmNQVDhNMTRiYVN0M1lUbERad1Rqb1h0U3BCa2RJam5DVXBXUk8zNy1CNDlVaXQwRE56Ykl6NjhXTy1Bc21Lbm1sc214UlNVLUdOajVQWlprbG1mRnlIQVNyaWpNSDFBa0Fo?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaDBVUUgxQjlSVjEyWmxPcFctNmluc0FSUmVfVk5SZS1NUnp3OEFpMzJ4WG1YaGJuSjlMUmVNR0lPSlZqWTNSNndPVmQydVd3S19CZjZ0SDVldXlmZzRHOUJZc3h1SF9nTF9JdUdTOGlfWWhieEZpR2pQakZVcElZbm9WdURrVkw3Z093NHNuVmlBVjBBbFFsU1hIU1NLaUZFWldYdmVvZ0t3V1N0OC1xajBHakp0bl9naTR4dHEtaXBHMTJROWFmT0hTc1p1VklZa3hXVmRFSjA5MmlY?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "UK plans strict rules for crypto DeFi sector",
+   "Financial Times",
+   "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMkZqdm02aEhpZDFEMlJkb3RvTTU3SjNoTmtzNTF3cjZQNTR0TzV6RDhFSlZEQVl3OHk1OU5pTEwzZk50MlV0YzlnS2Z0cVlTMjM3a0NiNEVzRWNMQ1A1WURQQkJ0WVRNQXcxZDlEdlFqUnJWc0RpQ2pDSVBGRjBmdGFodWM?oc=5"
+  ],
+  [
+   "Stocks",
+   "high",
+   "Worse Than the Dot-Com Crash: What an AI Bust Could Mean for the Economy",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblNwWDM3MlF0WmxWbGJCZFR5RDN1R29oOUdmRkFURTZqdTQ5VnpnVUU1bTNWRi0yMGJ6NFRkcnJmb1Mzc2FiZTd2YlJkeXBYQ1RlNDZZNG1GaWFOa3Z1MWJ0c085TDExQTd2VmVZd28zX3FPRllMa29GS2h4ZFdjSmcyemx2Vm1BNE5IbXBBVDY4TldqQTl1bUw5TFVnaERQVjZUX19zV2JnQzFm?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Don’t Let the Bounce Fool You: The Stock Market’s Pain Could Get Way Worse",
+   "Is the Stock Market Open Today? Here Are the Trading Hours for Thanksgiving.",
    "Barron's",
-   "https://news.google.com/rss/articles/CBMickFVX3lxTE1ReWZPZEprSThyRGplOUZOb1FxVHBzQ0JaMGJaeXlDNFBQaGVZZU0yMW1xTWZmSFJENzlobUlRYlQzMnZZWFhkLVFJX294Q3lxdk05dWt3dHB2M0pncVMxUlJwclNGZkUwNU5kNEEtODUxZw?oc=5"
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzdFdXowaFJjRG1ROEE3WDZiZEtZYnJyQ0txNTVCczFPcldrVmpwUk5qUmFZTU5zV0FBbzhCYmlCYlVna2tQR1pScTJIUjFCTC0yZTZNVEladVoxRjNuQnYtUjlZU042djlBb2FyclFBTXZNRll1UEhyUnhRSWxZM1pCeHVqX3pSU3RrTjItTjdiOTdHMTdiTHJONDNkbFpjZ0w2b2tKMnNRajhLMFE?oc=5"
   ],
   [
    "Commodities",
@@ -394,10 +394,10 @@
   ],
   [
    "Commodities",
-   "med",
-   "U.S. Crude Oil Stockpiles Rise for Third Straight Week",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmNaUEswZFFHWkVEYVY0NUZVU0xoTVdwcEU3cDd1Z1RWRnN0RnRIeExlbEtrNXNUSHhoQ1ZjU0VEWVZ4Um5FSjMtcmNuXzM1ZTRodnJ6Ti1tUFA1U2VRbEJ3UEZ0VHNkVmJoM1psMnF1ZGZScndxa0l6bElITFpoM1k5MV9FSHpCclB1TmtOZ3BPeWt4V3R1SXBkRmFMYU0xbmxHeA?oc=5"
+   "high",
+   "Six killed, including children, in plane crash off Mississippi coast",
+   "Al Jazeera",
+   "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdmJfY2ZnQ1ZvV0t5WkZhU21Sb0Z5Z0d6MHJrRUt5RE9Vc1paMWxXVEZzbng3RWVnazZMaS1lOG4tbjFEZzhaZ3NiUEVrVXlGQXNHUkZpM19JMHJ4LVdyNGxMYjdGMmNjVFVDNWE0X2ZWVUVFYmxGLXJnb1dXcV85SV90eUc2aS1rb1VwNzY5WS01Si02ekFqcDNldjJXU2RxRnBOMnlXSEFqVDVy0gGyAUFVX3lxTE14MnM5eUZ6LU1OVnBOZ0pkX29Sd2RtX2dTX1NZRVVYcENOZ1hPbUdFMWNraF9mMVNFQVBScHhUZDIzaWE5R1FtYy1XMUdqcXlRaC1iaHltb04zLVRFU3JlZm9aN09FLW5IZlBhU09lTlJ2YW03UGw2ZDBoZzM0Zm42S0xwMm1kWl93NXVfQ2Z2aFFIWlFycDR6bFJ5d3FQdnAxNUxoMVlhc0xyXzdsb294U0E?oc=5"
   ]
  ]
 }
