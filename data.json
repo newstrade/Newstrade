@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T08:22:30.418Z",
+ "updated": "2026-11-26T19:02:08.014Z",
  "events": [
   {
    "iso": "2026-11-23T03:15:00-05:00",
@@ -171,63 +171,63 @@
    "d": 4,
    "p": 1.0973,
    "ch": -0.08,
-   "asof": "2026-11-26T08:21:45.000Z"
+   "asof": "2026-11-26T19:01:43.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3103,
-   "ch": -0.1,
-   "asof": "2026-11-26T08:21:45.000Z"
+   "p": 1.3107,
+   "ch": -0.07,
+   "asof": "2026-11-26T19:01:43.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 159.181,
-   "ch": 0.04,
-   "asof": "2026-11-26T08:22:30.000Z"
+   "p": 159.261,
+   "ch": 0.09,
+   "asof": "2026-11-26T19:02:03.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6634,
-   "ch": 0.08,
-   "asof": "2026-11-26T08:21:45.000Z"
+   "p": 0.6633,
+   "ch": 0.06,
+   "asof": "2026-11-26T19:01:43.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4226,
-   "ch": 0.11,
-   "asof": "2026-11-26T08:22:29.000Z"
+   "p": 1.4243,
+   "ch": 0.23,
+   "asof": "2026-11-26T19:02:04.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8331,
-   "ch": 0.34,
-   "asof": "2026-11-26T08:22:30.000Z"
+   "p": 0.8341,
+   "ch": 0.46,
+   "asof": "2026-11-26T19:02:05.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 60651.07,
-   "ch": 0.45,
-   "asof": "2026-11-26T08:22:26.000Z"
+   "p": 60409.86,
+   "ch": 0.05,
+   "asof": "2026-11-26T19:02:05.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 1688.56,
-   "ch": -0.13,
-   "asof": "2026-11-26T08:22:27.000Z"
+   "p": 1698.14,
+   "ch": 0.44,
+   "asof": "2026-11-26T19:02:06.000Z"
   },
   {
    "s": "S&P 500",
@@ -235,7 +235,7 @@
    "d": 2,
    "p": 7182.78,
    "ch": -0.25,
-   "asof": "2026-11-25T21:00:00.000Z"
+   "asof": "2026-11-25T21:32:06.000Z"
   },
   {
    "s": "Nasdaq",
@@ -249,25 +249,25 @@
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 50182.9,
+   "p": 50182.95,
    "ch": 0.33,
-   "asof": "2026-11-25T21:00:00.000Z"
+   "asof": "2026-11-25T21:32:17.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3592.2,
-   "ch": 0.77,
-   "asof": "2026-11-26T08:12:28.000Z"
+   "p": 3595.2,
+   "ch": 0.86,
+   "asof": "2026-11-26T18:51:42.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 84.03,
-   "ch": 0.42,
-   "asof": "2026-11-26T08:12:24.000Z"
+   "p": 84.92,
+   "ch": 1.48,
+   "asof": "2026-11-26T18:51:38.000Z"
   },
   {
    "s": "USD/KES",
@@ -275,31 +275,31 @@
    "d": 2,
    "p": 130.05,
    "ch": 0,
-   "asof": "2026-11-26T06:22:30.000Z"
+   "asof": "2026-11-26T18:25:16.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 17.5402,
-   "ch": -0.11,
-   "asof": "2026-11-26T08:22:30.000Z"
+   "p": 17.5365,
+   "ch": -0.13,
+   "asof": "2026-11-26T19:02:08.000Z"
   },
   {
    "s": "USD/NGN",
    "m": "Forex",
    "d": 2,
-   "p": 1359.81,
-   "ch": 0.06,
-   "asof": "2026-11-26T07:40:34.000Z"
+   "p": 1360,
+   "ch": 0.07,
+   "asof": "2026-11-26T18:44:44.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 70.87,
-   "ch": 0.68,
-   "asof": "2026-11-26T08:22:25.000Z"
+   "p": 71.24,
+   "ch": 1.2,
+   "asof": "2026-11-26T19:02:07.000Z"
   },
   {
    "s": "XRP",
@@ -307,7 +307,7 @@
    "d": 4,
    "p": 0.9526,
    "ch": 1.67,
-   "asof": "2026-11-26T08:22:28.000Z"
+   "asof": "2026-11-26T19:02:01.000Z"
   },
   {
    "s": "Apple",
@@ -337,67 +337,67 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 41.575,
-   "ch": 2.56,
-   "asof": "2026-11-26T08:12:23.000Z"
+   "p": 41.765,
+   "ch": 3.03,
+   "asof": "2026-11-26T18:50:16.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "South Korea’s central bank hikes interest rates, raises GDP growth forecast",
+   "Spanish economist to become new European Central Bank chief",
    "Al Jazeera",
-   "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTW9UQ1JfVnlQTzVzV1lDUEhkZ1VzaVVuNnlGclhleUZPNmJjUEl6aUpiQTB4bDhmdFRxakQ4N0s3NGRWOE1vbjhvTDMwY1dqb0w2NzZTQXBRRDJ1V1ZmaVhiaWM5UGtjQ2hIMjBJWVM1a0d1ZTFlWWdfRlFTRTJaZDA4Yl9sZmVvS213OFdpOWxuMnBKajl5RzF1OHI0NlF4c0s3QnAzMmFLeEEtN3Z2Q0xhWV9ESWFFWUHSAb8BQVVfeXFMTzcxaWxLMDRRY1A3aWNxZFFIdGNtNHEzcGR0aFJjME9Xb2NvTWp4NTd6SlZHOUFreldKQUg2R3hJWmxvS0Rsck1WancydVVSTFpMV0hhUk9xaHplUkd6Q01pRkJlMWlWcWFHYVI0QW9LNll3cUVNMjlIM1RVTzRNdkc5ZlJ0OHA2dTZtSmtEdFhkRkRtdmQxZlBldDRxVWtCRzZPMXIwR2FYeVFoMmp2N1FFMlo0VUxKT0VKUG94TFk?oc=5"
+   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSUpudUw3QkoyTGVqN3hoN3lmcFR3bDNGMFpxSzVsd3JrajNuTHp5dVg3WWVieklUeG1RdlNPbnVCeFVQZEZmeTItU0h2ZDAzRlAxSVdNTUs0TGNybExrVVc3Z2ZneXV1TFp0SHRLS294VWZiQzBMdVdidzY3MUZSMVRrVW5oUDl1ZVI3Tm84RWZZYl8xNVhRMGhrZmNVaS1rbHpB0gGoAUFVX3lxTE55RDFtNjlya2haWHhybjRodGJGcUFJR2tpOFVGc2FqRnJEMGotRXEtdVh0TnNWLVVUcVBiNk10X1pPR2ZnOHY4blYtR05SYWs0WXhNYWdGSjVLNTM4SXlSOURrWXJCajNLaUljYWtwMFNZUzZqb2pPQkZ2QUZtM3FCeVdyYkZ3YnZPYVJ2d3RSSFV4WnZQUmM2Zlo2cS12ZWhEbEJqcTczVw?oc=5"
   ],
   [
    "Forex",
    "med",
-   "South Korea's central bank raises rates, upgrades 2027 growth outlook",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSTJjdUdXNzZ0QVUtZS1QMGowZkw1ellJM1ZkZUMzYVQ1OVp5ME5vQnRTMHgyYm9YVFRxcm11TkdSUmJ6RV9nYlY0YnkzZnhuNkNWa0g0MmNQVDhNMTRiYVN0M1lUbERad1Rqb1h0U3BCa2RJam5DVXBXUk8zNy1CNDlVaXQwRE56Ykl6NjhXTy1Bc21Lbm1sc214UlNVLUdOajVQWlprbG1mRnlIQVNyaWpNSDFBa0Fo?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaDBVUUgxQjlSVjEyWmxPcFctNmluc0FSUmVfVk5SZS1NUnp3OEFpMzJ4WG1YaGJuSjlMUmVNR0lPSlZqWTNSNndPVmQydVd3S19CZjZ0SDVldXlmZzRHOUJZc3h1SF9nTF9JdUdTOGlfWWhieEZpR2pQakZVcElZbm9WdURrVkw3Z093NHNuVmlBVjBBbFFsU1hIU1NLaUZFWldYdmVvZ0t3V1N0OC1xajBHakp0bl9naTR4dHEtaXBHMTJROWFmT0hTc1p1VklZa3hXVmRFSjA5MmlY?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "UK plans strict rules for crypto DeFi sector",
-   "Financial Times",
-   "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMkZqdm02aEhpZDFEMlJkb3RvTTU3SjNoTmtzNTF3cjZQNTR0TzV6RDhFSlZEQVl3OHk1OU5pTEwzZk50MlV0YzlnS2Z0cVlTMjM3a0NiNEVzRWNMQ1A1WURQQkJ0WVRNQXcxZDlEdlFqUnJWc0RpQ2pDSVBGRjBmdGFodWM?oc=5"
-  ],
-  [
-   "Stocks",
-   "high",
-   "Worse Than the Dot-Com Crash: What an AI Bust Could Mean for the Economy",
+   "Europe Has Picked a New Central Bank Chief. He’s in for a Bumpy Ride.",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblNwWDM3MlF0WmxWbGJCZFR5RDN1R29oOUdmRkFURTZqdTQ5VnpnVUU1bTNWRi0yMGJ6NFRkcnJmb1Mzc2FiZTd2YlJkeXBYQ1RlNDZZNG1GaWFOa3Z1MWJ0c085TDExQTd2VmVZd28zX3FPRllMa29GS2h4ZFdjSmcyemx2Vm1BNE5IbXBBVDY4TldqQTl1bUw5TFVnaERQVjZUX19zV2JnQzFm?oc=5"
+   "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNnNpYThBbGJHVXZBUm1KVmZtVHZiYjR6UXppaWdmcER6X2w2WnRjWEw1cTRfMm1vWlQyV3hBMlBvTjN5bDRsSVVzUkktRFg2NUxPNFFBbEZ0UEtJdy0tbnZrVlQ4QVlHN1lTODVmY3owcy1sU0c4OEZpbkNPLUZUUnFUem5GMmhTTTRZTFRoRFNJVDlpaUo1V0gtZkR6MnpxaTI1bVJqb1BuUGhP?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "EXCLUSIVE: StanChart's crypto unit Zodia Custody hit by security breach, some client data exposed",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNGJWWkQ2MFZyZFRTMl9HcGFjU1V0WmZsNGt3MWpJZmNJdUlUNmRtNGpKR3pjRE1YeUx3ZkFKa1NPbFJlUWtOR19yV3FWOG1sY3RrdTFINnhwcnVnZUtrZy1VWmJWa0lQZ1Fla1NSY3dINllTT2FUOGs1MnAzSU03WWtQT2RtUkhrS1M1TFE3bHNKcXBXMXp5OWtxWWFiSGF5dlBOeHJHWGw5Z1ZwclNlSExxUUlNR0FHeTZ0VzhVSmoxQ1p5VUlkdXNydzFTUQ?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "Bitcoin Tops $60,000 as Risk Assets Rise in Holiday Trading",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHp3TUk5RzlaYnd4NWJVek95LXprcjBaOFJXMVFUbWVQSEh0a0pXdWt0UU5qY1FERzZFWUk4dFZ3WGZBVkpHUXphZjlBZDc1a2I0Vk0wNWtBWk01UFRlem9uVjdiLWJrS284ZUxwZ1pwY3U5M0lrOGxrOUpJT0lhVWg0azFFM2xyUUNRSkFlZDdoQWx3X09QTjUyRE5BSGNzQVBXUjA5ZWs2V2xybkE?oc=5"
+  ],
+  [
+   "Stocks",
+   "high",
+   "U.S. Stocks Extend Plunge as AI Boom Turns to Bust",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY1h6VEhXUGRDcE9hX25QQllJOF9uSmhUNERBSVdBNjRkU0gyaGRySGN0MXVXZERzUmhmdXJIUms2cFJJU2ZvdkVjUlB0RjRxSTQ4RFBiYTV0T0MyUFB5cWw0RWtuZzZrQXFwLUJqb3VsZGhacHR0NF9wTVMwc0tYUW1obFhUNHNVX0JEQnFKX2pRc1RWRGsxVw?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Is the Stock Market Open Today? Here Are the Trading Hours for Thanksgiving.",
-   "Barron's",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzdFdXowaFJjRG1ROEE3WDZiZEtZYnJyQ0txNTVCczFPcldrVmpwUk5qUmFZTU5zV0FBbzhCYmlCYlVna2tQR1pScTJIUjFCTC0yZTZNVEladVoxRjNuQnYtUjlZU042djlBb2FyclFBTXZNRll1UEhyUnhRSWxZM1pCeHVqX3pSU3RrTjItTjdiOTdHMTdiTHJONDNkbFpjZ0w2b2tKMnNRajhLMFE?oc=5"
+   "Wall Street Flips From AI Euphoria to Gloom",
+   "Bloomberg.com",
+   "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3dMUTlPVV9IdUJTQ0NWSjV2ZEZLbmNnWWtoMEpQT05KdzZSX0d5cjRtNzBCYTZMdzBVZmQ0QU14a3B3dnRncGxPMmMyR0I3djQycmp0VWtWV0NqY3NQdHdPQlhDZGZuX2MwSHFFRmI2N3NydV9Bb3BRR1ZzUUs5NWNucklfOEZVNzczamJQdEY1OHRzRGdNdGZjb2ZYdw?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "U.S. Rig Count Holds Steady as Oil Production Hits Fifth Straight Record",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc3pmU04tR1N4V3hzOGo3Nm5kTlJQZzE5WEw3UHRESnRNV1pab1d2M3I1RG9GbnF6VE1KY0VqZHkzVVc4RE1QSjBaZVhtbUVxeGFCbE1JeWppZWNmeXVlSnlmRnpRbWRIUFNuXzVYRDF3XzljamlPWmsxYUtvWk9zS2toeHh1RXQzdVZCaEU2ZDUwMEdPbzVLYlRmQmowR3pmenhfQUV3RDRyUE9kVjM5aVNac9IBuAFBVV95cUxOc0oxZ0JsSVZxaEw4Q0F3N1ZBQ2taNkpvanR1NDZRbklLQjVrbUQ3bXhOVEYtSUNGNkQyTk9ESjFEbXFTNmNfalFjZnZNRVFldF96NzBhdU84TGNPcDRWbXpSZEJjSFRVODkwalVrNzBaaUU3dGFKbTZuRlZnLVp0cmxtMjBWbFFoNVhRUFZWdHo1ZFBzRW5sZV92YjNkSEtWZW96MlJqVkdBNEhUUXBqRnZUOUY1QVpn?oc=5"
+   "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
+   "Kitco",
+   "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5"
   ],
   [
    "Commodities",
-   "high",
-   "Six killed, including children, in plane crash off Mississippi coast",
-   "Al Jazeera",
-   "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdmJfY2ZnQ1ZvV0t5WkZhU21Sb0Z5Z0d6MHJrRUt5RE9Vc1paMWxXVEZzbng3RWVnazZMaS1lOG4tbjFEZzhaZ3NiUEVrVXlGQXNHUkZpM19JMHJ4LVdyNGxMYjdGMmNjVFVDNWE0X2ZWVUVFYmxGLXJnb1dXcV85SV90eUc2aS1rb1VwNzY5WS01Si02ekFqcDNldjJXU2RxRnBOMnlXSEFqVDVy0gGyAUFVX3lxTE14MnM5eUZ6LU1OVnBOZ0pkX29Sd2RtX2dTX1NZRVVYcENOZ1hPbUdFMWNraF9mMVNFQVBScHhUZDIzaWE5R1FtYy1XMUdqcXlRaC1iaHltb04zLVRFU3JlZm9aN09FLW5IZlBhU09lTlJ2YW03UGw2ZDBoZzM0Zm42S0xwMm1kWl93NXVfQ2Z2aFFIWlFycDR6bFJ5d3FQdnAxNUxoMVlhc0xyXzdsb294U0E?oc=5"
+   "med",
+   "OPEC, Allies Face Tough Choices as Surplus Builds, Hormuz Risks Persist",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ19ETWdNTkIydlFuaDNsSGNHR3R6VmtyT0J5T3VKa0w3Mm9LLVdsd3UtM3hJT3RkWGdiTWlJS29TQzRxLWxjcDdBb2hCS1B6MG4yMU42c2hNSnprdVkxZmY1cU9VLWFCRDFtUUdRZkhqTTc3Ujd1YlpsQXlCdS04TnA2X2xtTjBYR0xhaVVqR0JIUGdWM3I3clBqcXB1OWlCZE5KcnFXWXp3MFVDZGc1OXhoOTJTdVQxZXc?oc=5"
   ]
  ]
 }
