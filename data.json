@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T19:02:08.014Z",
+ "updated": "2026-11-27T02:12:26.324Z",
  "events": [
   {
    "iso": "2026-11-23T03:15:00-05:00",
@@ -169,65 +169,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.0973,
-   "ch": -0.08,
-   "asof": "2026-11-26T19:01:43.000Z"
+   "p": 1.0981,
+   "ch": 0.05,
+   "asof": "2026-11-27T02:11:46.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3107,
-   "ch": -0.07,
-   "asof": "2026-11-26T19:01:43.000Z"
+   "p": 1.312,
+   "ch": 0.07,
+   "asof": "2026-11-27T02:11:46.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 159.261,
-   "ch": 0.09,
-   "asof": "2026-11-26T19:02:03.000Z"
+   "p": 159.22,
+   "ch": 0,
+   "asof": "2026-11-27T02:12:25.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6633,
-   "ch": 0.06,
-   "asof": "2026-11-26T19:01:43.000Z"
+   "p": 0.6663,
+   "ch": 0.44,
+   "asof": "2026-11-27T02:11:46.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4243,
-   "ch": 0.23,
-   "asof": "2026-11-26T19:02:04.000Z"
+   "p": 1.4231,
+   "ch": -0.07,
+   "asof": "2026-11-27T02:12:25.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8341,
-   "ch": 0.46,
-   "asof": "2026-11-26T19:02:05.000Z"
+   "p": 0.8338,
+   "ch": 0.02,
+   "asof": "2026-11-27T02:12:25.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 60409.86,
-   "ch": 0.05,
-   "asof": "2026-11-26T19:02:05.000Z"
+   "p": 61309.64,
+   "ch": 1.35,
+   "asof": "2026-11-27T02:12:22.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 1698.14,
-   "ch": 0.44,
-   "asof": "2026-11-26T19:02:06.000Z"
+   "p": 1716,
+   "ch": 1.67,
+   "asof": "2026-11-27T02:12:24.000Z"
   },
   {
    "s": "S&P 500",
@@ -257,17 +257,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3595.2,
-   "ch": 0.86,
-   "asof": "2026-11-26T18:51:42.000Z"
+   "p": 3624.2,
+   "ch": 1.67,
+   "asof": "2026-11-27T02:02:25.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 84.92,
-   "ch": 1.48,
-   "asof": "2026-11-26T18:51:38.000Z"
+   "p": 85.65,
+   "ch": 2.35,
+   "asof": "2026-11-27T02:02:26.000Z"
   },
   {
    "s": "USD/KES",
@@ -275,39 +275,39 @@
    "d": 2,
    "p": 130.05,
    "ch": 0,
-   "asof": "2026-11-26T18:25:16.000Z"
+   "asof": "2026-11-26T22:32:45.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 17.5365,
-   "ch": -0.13,
-   "asof": "2026-11-26T19:02:08.000Z"
+   "p": 17.4431,
+   "ch": -0.6,
+   "asof": "2026-11-27T02:12:26.000Z"
   },
   {
    "s": "USD/NGN",
    "m": "Forex",
    "d": 2,
-   "p": 1360,
-   "ch": 0.07,
-   "asof": "2026-11-26T18:44:44.000Z"
+   "p": 1361.63,
+   "ch": 0.19,
+   "asof": "2026-11-27T01:42:19.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 71.24,
-   "ch": 1.2,
-   "asof": "2026-11-26T19:02:07.000Z"
+   "p": 72.2,
+   "ch": 1.79,
+   "asof": "2026-11-27T02:12:20.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 0.9526,
-   "ch": 1.67,
-   "asof": "2026-11-26T19:02:01.000Z"
+   "p": 0.9571,
+   "ch": 1.5,
+   "asof": "2026-11-27T02:12:23.000Z"
   },
   {
    "s": "Apple",
@@ -337,25 +337,32 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 41.765,
-   "ch": 3.03,
-   "asof": "2026-11-26T18:50:16.000Z"
+   "p": 42.87,
+   "ch": 5.75,
+   "asof": "2026-11-27T02:02:25.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Spanish economist to become new European Central Bank chief",
-   "Al Jazeera",
-   "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSUpudUw3QkoyTGVqN3hoN3lmcFR3bDNGMFpxSzVsd3JrajNuTHp5dVg3WWVieklUeG1RdlNPbnVCeFVQZEZmeTItU0h2ZDAzRlAxSVdNTUs0TGNybExrVVc3Z2ZneXV1TFp0SHRLS294VWZiQzBMdVdidzY3MUZSMVRrVW5oUDl1ZVI3Tm84RWZZYl8xNVhRMGhrZmNVaS1rbHpB0gGoAUFVX3lxTE55RDFtNjlya2haWHhybjRodGJGcUFJR2tpOFVGc2FqRnJEMGotRXEtdVh0TnNWLVVUcVBiNk10X1pPR2ZnOHY4blYtR05SYWs0WXhNYWdGSjVLNTM4SXlSOURrWXJCajNLaUljYWtwMFNZUzZqb2pPQkZ2QUZtM3FCeVdyYkZ3YnZPYVJ2d3RSSFV4WnZQUmM2Zlo2cS12ZWhEbEJqcTczVw?oc=5"
+   "Argentina bans its central bank from printing money for the government",
+   "AP News",
+   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTkVQY1JFc2tERmJpZi1UX1ByaEtYMGp2MGlJeDJocHpPLVd2SkhhakxJLXEtek0tSFk3ZHp0N2tBLW9JYng1TW1vN1ZCazkwYVFxMjVuLTVlbm9hQm1PbEMybFZLVC1yNmI1X3V5dTcxbGdWX0tRWmdicjE1elFZdjB3eDBaLXlGdUN2YTRDcXA2a1ROaFB5X2FJeld3SmFObnZibzcwYVZPS3dPeEdiLTVjckZjR1NOVVNLMV9Gbzk?oc=5"
   ],
   [
    "Forex",
    "med",
-   "Europe Has Picked a New Central Bank Chief. He’s in for a Bumpy Ride.",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNnNpYThBbGJHVXZBUm1KVmZtVHZiYjR6UXppaWdmcER6X2w2WnRjWEw1cTRfMm1vWlQyV3hBMlBvTjN5bDRsSVVzUkktRFg2NUxPNFFBbEZ0UEtJdy0tbnZrVlQ4QVlHN1lTODVmY3owcy1sU0c4OEZpbkNPLUZUUnFUem5GMmhTTTRZTFRoRFNJVDlpaUo1V0gtZkR6MnpxaTI1bVJqb1BuUGhP?oc=5"
+   "Argentina bars Central Bank from printing money to fund government spending",
+   "Al Jazeera",
+   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeUdHa0t5NGk1cml3c3d0LTliWjA4MEpRZGhEcE8wV1RmckFfSkIyWGlDZF9ESjNjQ2czRHZfYWpIeFU4eFZpYmZheU5vdHZpZ3I3clVaQnRyMmMxcEV6Rno5T1UzV0xpbDM2NDRXMGYwYU1abnc0X2h3YTJZYmRTVXhiX1o2alhEQmVkY09lUzNNSGluWnFiZ3FwUVNzQ29ISnFrdTJTMnBkM1Nwal94VDRISFNUSXRI0gG-AUFVX3lxTE1xOGRLTGVZdkhEa2hrcWVocmJPT01ZN2p0bjJ0MU9JazRFekRZUGIwUktnWEttd0VmbmFxdXdsZHRndjB5X0FTVldfaTJFQVJHcGhaUmFfeGFQRHpZTTk5clR6Y0xLbjJfTEFYcHVrTkxXSjVNY1U1NXY4Z28zalVCdGxGNVprQ19ZVjZoanc2M3hfRXRoMlpmS2Y3MGFCcEEtcjRkblNpU1RGWTMtckNRY3FSa3o4eWNZM3U3ZHc?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "Bitcoin (BTC) supply dormant for at least a year rises to 68.5%",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWEYwdXdRc3ctQTZhdzRVamdhcU5YMlpLYWZueW5hMjI4SmFqSEFjSHYzV25xZk00TG1BUlJ2M08teHNPM0RhMUdVTjg3eU5tZVFhNnpBYmY4QlNXcS1YV3Nldmk0TjZmMTRYWTFISXVvNjdOOWNvcXNFVkJFZ1JXR1dBMU50WTE4T1VLcTVxOEFSU2JDakpjMGdpTDUxRms4REVsTFE5MjhDRHRIRXVsTUN6SjRVYXlEZ0QwcTQ0WUQwVW9HRXlRV0RDc0dTWHNP?oc=5"
   ],
   [
    "Crypto",
@@ -365,20 +372,6 @@
    "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNGJWWkQ2MFZyZFRTMl9HcGFjU1V0WmZsNGt3MWpJZmNJdUlUNmRtNGpKR3pjRE1YeUx3ZkFKa1NPbFJlUWtOR19yV3FWOG1sY3RrdTFINnhwcnVnZUtrZy1VWmJWa0lQZ1Fla1NSY3dINllTT2FUOGs1MnAzSU03WWtQT2RtUkhrS1M1TFE3bHNKcXBXMXp5OWtxWWFiSGF5dlBOeHJHWGw5Z1ZwclNlSExxUUlNR0FHeTZ0VzhVSmoxQ1p5VUlkdXNydzFTUQ?oc=5"
   ],
   [
-   "Crypto",
-   "med",
-   "Bitcoin Tops $60,000 as Risk Assets Rise in Holiday Trading",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHp3TUk5RzlaYnd4NWJVek95LXprcjBaOFJXMVFUbWVQSEh0a0pXdWt0UU5qY1FERzZFWUk4dFZ3WGZBVkpHUXphZjlBZDc1a2I0Vk0wNWtBWk01UFRlem9uVjdiLWJrS284ZUxwZ1pwY3U5M0lrOGxrOUpJT0lhVWg0azFFM2xyUUNRSkFlZDdoQWx3X09QTjUyRE5BSGNzQVBXUjA5ZWs2V2xybkE?oc=5"
-  ],
-  [
-   "Stocks",
-   "high",
-   "U.S. Stocks Extend Plunge as AI Boom Turns to Bust",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY1h6VEhXUGRDcE9hX25QQllJOF9uSmhUNERBSVdBNjRkU0gyaGRySGN0MXVXZERzUmhmdXJIUms2cFJJU2ZvdkVjUlB0RjRxSTQ4RFBiYTV0T0MyUFB5cWw0RWtuZzZrQXFwLUJqb3VsZGhacHR0NF9wTVMwc0tYUW1obFhUNHNVX0JEQnFKX2pRc1RWRGsxVw?oc=5"
-  ],
-  [
    "Stocks",
    "med",
    "Wall Street Flips From AI Euphoria to Gloom",
@@ -386,18 +379,25 @@
    "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3dMUTlPVV9IdUJTQ0NWSjV2ZEZLbmNnWWtoMEpQT05KdzZSX0d5cjRtNzBCYTZMdzBVZmQ0QU14a3B3dnRncGxPMmMyR0I3djQycmp0VWtWV0NqY3NQdHdPQlhDZGZuX2MwSHFFRmI2N3NydV9Bb3BRR1ZzUUs5NWNucklfOEZVNzczamJQdEY1OHRzRGdNdGZjb2ZYdw?oc=5"
   ],
   [
-   "Commodities",
+   "Stocks",
    "med",
-   "Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart",
-   "Kitco",
-   "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU2dTNUduLWh4WmxVQy1ndS1jN01abVlCeTNTMnFMbFdmS1d6TnFCekxTZVlXNGtKdnNRN3plT00yZm5LQmh6Rg?oc=5"
+   "Prediction: These 3 Consumer Stocks Will Beat the S&P 500 Over the Next 10 Years",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcWRpVG5Kcmg0NWVIMG5xaEEyZ1p3bjMyX3dXOGR1WnJicWpZZWFPcjRUdExaTU5WbFk3MXRwOHVzMXNqZDNkNUM2QVB5VzlFSW95SEtKZmtmSnJrZURPNDRiLUhIUk56TDdpOUh3eVo3aFlpcWN0LVRuSlRVRGxDVTQxODdQbzlFbG9vN3lnZjE0bEQ0dGxkd1ItdnI5VW8?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "OPEC, Allies Face Tough Choices as Surplus Builds, Hormuz Risks Persist",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ19ETWdNTkIydlFuaDNsSGNHR3R6VmtyT0J5T3VKa0w3Mm9LLVdsd3UtM3hJT3RkWGdiTWlJS29TQzRxLWxjcDdBb2hCS1B6MG4yMU42c2hNSnprdVkxZmY1cU9VLWFCRDFtUUdRZkhqTTc3Ujd1YlpsQXlCdS04TnA2X2xtTjBYR0xhaVVqR0JIUGdWM3I3clBqcXB1OWlCZE5KcnFXWXp3MFVDZGc1OXhoOTJTdVQxZXc?oc=5"
+   "Brent trades near month's high as Mideast conflict threatens supply",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTzVQVzE5aGdzbGVhNEUtVl94M0V3RjN5Rks4UDU0U0plazFDcjFnUTBMMHBvdk9BRzFaVHljSXk1ZFdzSjlRTVRXNGZ0cnRyUWRRbFJaRjBsVWNFbDZqSnQ0cHo0TW5fRDlwMWlKWDI3V2ROcnlXczVET1RqSXR6UGtZSTZ0OTQtY1YwaG1yYTRwQnZ6TW43azNGNTFqMmpkNFhtbVJwRnVkVERhR1NnSlFIMzExZw?oc=5"
+  ],
+  [
+   "Commodities",
+   "med",
+   "NASA Wanted a 100-Kilowatt Reactor on the Moon but Is Settling for 20",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZG5mUjlkSjBLYnBQekZjQ0QxQ0p5cnFZcWVxb0N1ZFRlbGtNWlVfQlFDWTNYZWp0eUtJVVRIdzRnZ1p6U2hWa09pT21yeHBmbEpIcGdOMHZfWXE1UFlBOTJ0LW5GUG1vZ3F4UkNBWkJtbVk1SjNxMUE0SkpieDljd0pNVUU5WWJqOTdZX3lCZWVSMDlGSVFkek9IeVowQm1wYlJkY1VHSlZiRmVYbGpJR2RPdmdpTE1XUkllR0JuamwtUV9seEVZ0gHMAUFVX3lxTE5QRk85bGVWWkRLeElSQUk3X1gtVXk0emNtY2Z2RnJvN2VWMmRNTHVtZEhkQWg5UkJ1UXRpODFoakZUeXB3WHJERlRhdEdlaE9PMXg1d2swNHBsRHBPcGFCUW5Oa3haQ1NCR0F1ZEhLUXgyeWtaUkFMTXFGQU15bWx3UHMxR00tdFBBb3NXTVEzb19IMGRUeVFrcEM4MUh6Tnh0ZTNIeHdnbFVscERIUHlNc191Qm9RWkVjM3kwTXkwZExzWU5McE5kMDhpdA?oc=5"
   ]
  ]
 }
