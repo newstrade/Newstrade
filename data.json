@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T02:12:26.324Z",
+ "updated": "2026-11-27T10:54:41.592Z",
  "events": [
   {
    "iso": "2026-11-23T03:15:00-05:00",
@@ -169,65 +169,65 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.0981,
-   "ch": 0.05,
-   "asof": "2026-11-27T02:11:46.000Z"
+   "p": 1.0966,
+   "ch": -0.08,
+   "asof": "2026-11-27T10:53:47.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.312,
-   "ch": 0.07,
-   "asof": "2026-11-27T02:11:46.000Z"
+   "p": 1.3127,
+   "ch": 0.12,
+   "asof": "2026-11-27T10:53:47.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 159.22,
-   "ch": 0,
-   "asof": "2026-11-27T02:12:25.000Z"
+   "p": 159.519,
+   "ch": 0.18,
+   "asof": "2026-11-27T10:54:41.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6663,
-   "ch": 0.44,
-   "asof": "2026-11-27T02:11:46.000Z"
+   "p": 0.6676,
+   "ch": 0.63,
+   "asof": "2026-11-27T10:53:47.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.4231,
-   "ch": -0.07,
-   "asof": "2026-11-27T02:12:25.000Z"
+   "p": 1.424,
+   "ch": -0.01,
+   "asof": "2026-11-27T10:54:41.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8338,
-   "ch": 0.02,
-   "asof": "2026-11-27T02:12:25.000Z"
+   "p": 0.8357,
+   "ch": 0.25,
+   "asof": "2026-11-27T10:54:41.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 61309.64,
-   "ch": 1.35,
-   "asof": "2026-11-27T02:12:22.000Z"
+   "p": 61557.41,
+   "ch": 1.75,
+   "asof": "2026-11-27T10:54:38.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 1716,
-   "ch": 1.67,
-   "asof": "2026-11-27T02:12:24.000Z"
+   "p": 1726.68,
+   "ch": 2.31,
+   "asof": "2026-11-27T10:54:37.000Z"
   },
   {
    "s": "S&P 500",
@@ -257,17 +257,17 @@
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3624.2,
-   "ch": 1.67,
-   "asof": "2026-11-27T02:02:25.000Z"
+   "p": 3704.3,
+   "ch": 3.92,
+   "asof": "2026-11-27T10:44:11.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 85.65,
-   "ch": 2.35,
-   "asof": "2026-11-27T02:02:26.000Z"
+   "p": 85.78,
+   "ch": 2.51,
+   "asof": "2026-11-27T10:44:31.000Z"
   },
   {
    "s": "USD/KES",
@@ -275,39 +275,39 @@
    "d": 2,
    "p": 130.05,
    "ch": 0,
-   "asof": "2026-11-26T22:32:45.000Z"
+   "asof": "2026-11-27T06:10:58.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 17.4431,
-   "ch": -0.6,
-   "asof": "2026-11-27T02:12:26.000Z"
+   "p": 17.3283,
+   "ch": -1.25,
+   "asof": "2026-11-27T10:54:41.000Z"
   },
   {
    "s": "USD/NGN",
    "m": "Forex",
    "d": 2,
-   "p": 1361.63,
-   "ch": 0.19,
-   "asof": "2026-11-27T01:42:19.000Z"
+   "p": 1360.63,
+   "ch": 0.12,
+   "asof": "2026-11-27T10:48:17.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 72.2,
-   "ch": 1.79,
-   "asof": "2026-11-27T02:12:20.000Z"
+   "p": 73.34,
+   "ch": 3.4,
+   "asof": "2026-11-27T10:54:34.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 0.9571,
-   "ch": 1.5,
-   "asof": "2026-11-27T02:12:23.000Z"
+   "p": 0.9791,
+   "ch": 3.84,
+   "asof": "2026-11-27T10:54:32.000Z"
   },
   {
    "s": "Apple",
@@ -337,67 +337,67 @@
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 42.87,
-   "ch": 5.75,
-   "asof": "2026-11-27T02:02:25.000Z"
+   "p": 44.605,
+   "ch": 10.03,
+   "asof": "2026-11-27T10:44:09.000Z"
   }
  ],
  "news": [
   [
    "Forex",
    "med",
-   "Argentina bans its central bank from printing money for the government",
-   "AP News",
-   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTkVQY1JFc2tERmJpZi1UX1ByaEtYMGp2MGlJeDJocHpPLVd2SkhhakxJLXEtek0tSFk3ZHp0N2tBLW9JYng1TW1vN1ZCazkwYVFxMjVuLTVlbm9hQm1PbEMybFZLVC1yNmI1X3V5dTcxbGdWX0tRWmdicjE1elFZdjB3eDBaLXlGdUN2YTRDcXA2a1ROaFB5X2FJeld3SmFObnZibzcwYVZPS3dPeEdiLTVjckZjR1NOVVNLMV9Gbzk?oc=5"
+   "Indian central bank lets rupee rise to break one-way bets on depreciation",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaktQNmpwalZ6MUN4ZFF0OG14aGVqRVh3OWl5MHlLTHNFd3FJNi10U1I1UGI1bjJqRm15NGR3UXJtcFRKcjZtbmlZZF9tVFdub0N0Zl85RTBodGE0OHFyVWM5M1BESkE5Y1JwRV8xaWc2a1owN05TSUw5aGE2UFMta0l3dURQRllvZkM4NUZ5UGI3dWpZeDFxbDB5enJUWWpfMDJnWll6SGczVXpjanVkMFJ3NzVrdw?oc=5"
   ],
   [
    "Forex",
-   "med",
-   "Argentina bars Central Bank from printing money to fund government spending",
-   "Al Jazeera",
-   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeUdHa0t5NGk1cml3c3d0LTliWjA4MEpRZGhEcE8wV1RmckFfSkIyWGlDZF9ESjNjQ2czRHZfYWpIeFU4eFZpYmZheU5vdHZpZ3I3clVaQnRyMmMxcEV6Rno5T1UzV0xpbDM2NDRXMGYwYU1abnc0X2h3YTJZYmRTVXhiX1o2alhEQmVkY09lUzNNSGluWnFiZ3FwUVNzQ29ISnFrdTJTMnBkM1Nwal94VDRISFNUSXRI0gG-AUFVX3lxTE1xOGRLTGVZdkhEa2hrcWVocmJPT01ZN2p0bjJ0MU9JazRFekRZUGIwUktnWEttd0VmbmFxdXdsZHRndjB5X0FTVldfaTJFQVJHcGhaUmFfeGFQRHpZTTk5clR6Y0xLbjJfTEFYcHVrTkxXSjVNY1U1NXY4Z28zalVCdGxGNVprQ19ZVjZoanc2M3hfRXRoMlpmS2Y3MGFCcEEtcjRkblNpU1RGWTMtckNRY3FSa3o4eWNZM3U3ZHc?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "Bitcoin (BTC) supply dormant for at least a year rises to 68.5%",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWEYwdXdRc3ctQTZhdzRVamdhcU5YMlpLYWZueW5hMjI4SmFqSEFjSHYzV25xZk00TG1BUlJ2M08teHNPM0RhMUdVTjg3eU5tZVFhNnpBYmY4QlNXcS1YV3Nldmk0TjZmMTRYWTFISXVvNjdOOWNvcXNFVkJFZ1JXR1dBMU50WTE4T1VLcTVxOEFSU2JDakpjMGdpTDUxRms4REVsTFE5MjhDRHRIRXVsTUN6SjRVYXlEZ0QwcTQ0WUQwVW9HRXlRV0RDc0dTWHNP?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "EXCLUSIVE: StanChart's crypto unit Zodia Custody hit by security breach, some client data exposed",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNGJWWkQ2MFZyZFRTMl9HcGFjU1V0WmZsNGt3MWpJZmNJdUlUNmRtNGpKR3pjRE1YeUx3ZkFKa1NPbFJlUWtOR19yV3FWOG1sY3RrdTFINnhwcnVnZUtrZy1VWmJWa0lQZ1Fla1NSY3dINllTT2FUOGs1MnAzSU03WWtQT2RtUkhrS1M1TFE3bHNKcXBXMXp5OWtxWWFiSGF5dlBOeHJHWGw5Z1ZwclNlSExxUUlNR0FHeTZ0VzhVSmoxQ1p5VUlkdXNydzFTUQ?oc=5"
-  ],
-  [
-   "Stocks",
-   "med",
-   "Wall Street Flips From AI Euphoria to Gloom",
+   "high",
+   "Zambia’s Central Bank Holds Key Rate as Inflation Risk Grows",
    "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3dMUTlPVV9IdUJTQ0NWSjV2ZEZLbmNnWWtoMEpQT05KdzZSX0d5cjRtNzBCYTZMdzBVZmQ0QU14a3B3dnRncGxPMmMyR0I3djQycmp0VWtWV0NqY3NQdHdPQlhDZGZuX2MwSHFFRmI2N3NydV9Bb3BRR1ZzUUs5NWNucklfOEZVNzczamJQdEY1OHRzRGdNdGZjb2ZYdw?oc=5"
+   "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV1JaUE16bkhyYUlHV0xsUWF0Z05aUVZwQno2T2VGcWtpU2ZLS1V4cWw1dkRuaGxGeGcxNU9JN3ZaaXk3bF84WEhxbmRRMmV3YnVWMDRCQUkzSHloZ1RST2xKeXdQeW5naS1YSllsbWRMckIwb09MVno4SUlteHlUcTUzaTNyb2YyN2pYSVlGQmZGMHpPNjg1UGZLZHY4eXBDeml2U0RkV2FSQ01ZaVVF?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "Bitcoin rises 2% as tech futures gain 3% and silver jumps 7%",
+   "CoinDesk",
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3d0UnhtUmlNLVlfbC1TOE5wSWtxZ19KNXdpbkJIaENPc0hGNVhVNlgwZk5tMnRzbWlQcmFNMlNxZHdGTmZVODlRRWtsa2dJeklGdXpPN2s2andDc0FBQ2w5a3d5OElrVWFaWnB3Q0dQb0dlVkRRLXRUNjZ1RTgya19jcVRYYUNXTzJ6Zkw2cXVTS3RkRm1JcENqV05vR21xLWxMeFZCV1hDVmRZM3lWRg?oc=5"
+  ],
+  [
+   "Crypto",
+   "med",
+   "Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15",
+   "The Block",
+   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONXAyVzlGczQydm1aZlZ0UEFrZndNeEdCYjA0aDRLUGVvck84T3hndmMwNGFVMnREZ2dZOU16NG5wdTczem0tVllaa1ZVdVFEbEJkMGJxdndSQWV5TlpTMmM3aE1DVGdQal92VHoyanlDS0w1LXBmMmxQWTlaaWZpclEwYVlpSDVnUW5vdk9IYXJ1Y2ZQXy1xRUZIREtDM0JrMDlCaVhPbTlnUQ?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Prediction: These 3 Consumer Stocks Will Beat the S&P 500 Over the Next 10 Years",
-   "Yahoo Finance",
-   "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcWRpVG5Kcmg0NWVIMG5xaEEyZ1p3bjMyX3dXOGR1WnJicWpZZWFPcjRUdExaTU5WbFk3MXRwOHVzMXNqZDNkNUM2QVB5VzlFSW95SEtKZmtmSnJrZURPNDRiLUhIUk56TDdpOUh3eVo3aFlpcWN0LVRuSlRVRGxDVTQxODdQbzlFbG9vN3lnZjE0bEQ0dGxkd1ItdnI5VW8?oc=5"
+   "Trump Can’t Rescue The Stock Market. Here’s What Can.",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUkpRejhPeEh2RnhWZndBWFpzM0pBNVBpaVVpOVBMaGVPSW9oVlgzU3hNVVBqTnZWejQ3QlpYX3BheFh2M3RwanhvdmZESll0UDI4eHRYUEJIUUtYSDB3ZmxNdDNQSVJsZWgybW1VT0RSSWpUb1drY2ozY2E5VDh0OUxxME5oenctV0lpWE1xYk9kY21Zal9jVA?oc=5"
+  ],
+  [
+   "Stocks",
+   "high",
+   "Nasdaq futures surge as investors pile back into battered AI stocks",
+   "Reuters",
+   "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVGx5dUNYcGtCM2ZGUXB0RDNfNzF5TkNJNEctdjFiak5JRHExWWZVODg2c3hDcDZCUjdpWGpVYUg2bFE4UE5NQVJZUk52UzZGS082TTJiRWN4MTVxQlNXSTlmWnkzXzlyUzJONjlGSkNzVFNFSUlvRTRXQWxpbC1mQ2llcXRWWEIwZlpnVjBDZy1LcXU0MGc?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Brent trades near month's high as Mideast conflict threatens supply",
+   "Oil on track to snap 3-week losing streak over supply fears",
    "Reuters",
    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTzVQVzE5aGdzbGVhNEUtVl94M0V3RjN5Rks4UDU0U0plazFDcjFnUTBMMHBvdk9BRzFaVHljSXk1ZFdzSjlRTVRXNGZ0cnRyUWRRbFJaRjBsVWNFbDZqSnQ0cHo0TW5fRDlwMWlKWDI3V2ROcnlXczVET1RqSXR6UGtZSTZ0OTQtY1YwaG1yYTRwQnZ6TW43azNGNTFqMmpkNFhtbVJwRnVkVERhR1NnSlFIMzExZw?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "NASA Wanted a 100-Kilowatt Reactor on the Moon but Is Settling for 20",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZG5mUjlkSjBLYnBQekZjQ0QxQ0p5cnFZcWVxb0N1ZFRlbGtNWlVfQlFDWTNYZWp0eUtJVVRIdzRnZ1p6U2hWa09pT21yeHBmbEpIcGdOMHZfWXE1UFlBOTJ0LW5GUG1vZ3F4UkNBWkJtbVk1SjNxMUE0SkpieDljd0pNVUU5WWJqOTdZX3lCZWVSMDlGSVFkek9IeVowQm1wYlJkY1VHSlZiRmVYbGpJR2RPdmdpTE1XUkllR0JuamwtUV9seEVZ0gHMAUFVX3lxTE5QRk85bGVWWkRLeElSQUk3X1gtVXk0emNtY2Z2RnJvN2VWMmRNTHVtZEhkQWg5UkJ1UXRpODFoakZUeXB3WHJERlRhdEdlaE9PMXg1d2swNHBsRHBPcGFCUW5Oa3haQ1NCR0F1ZEhLUXgyeWtaUkFMTXFGQU15bWx3UHMxR00tdFBBb3NXTVEzb19IMGRUeVFrcEM4MUh6Tnh0ZTNIeHdnbFVscERIUHlNc191Qm9RWkVjM3kwTXkwZExzWU5McE5kMDhpdA?oc=5"
+   "Brent trades near month's high as Mideast conflict threatens supply",
+   "CNBC",
+   "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kTXJCQkh3RDcyMTRTOVNxdUFGSmZvbVFSRzVFaE0wUkFVVTRPWG9meW11b2pENGhMQzZxa19qcW9nb0FkLUs4N2ZldWptV2ZfcWpEZzFXZTdNWnVQTV9odHFaZW0zRzU4Vm9yMTAzejhLS09SRnAxctIBfkFVX3lxTFBzMEYwNlZnVHRQWjdYX1YxYlVuNTFUYXV6SlJTb0lialVTb1hXbElvMnR6dkFuRjNiVXNpUXRrMTZ2NFpBYUhwUHpRMF9zNnVRODhEZk9JaUZrUF9fNmtKRDl1b3E2M0NzWTFYdVlKN29uUHBncUROcFNONjRmdw?oc=5"
   ]
  ]
 }
