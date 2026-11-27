@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T10:54:41.592Z",
+ "updated": "2026-11-27T19:58:31.051Z",
  "events": [
   {
    "iso": "2026-11-23T03:15:00-05:00",
@@ -169,180 +169,187 @@
    "s": "EUR/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.0966,
-   "ch": -0.08,
-   "asof": "2026-11-27T10:53:47.000Z"
+   "p": 1.0939,
+   "ch": -0.33,
+   "asof": "2026-11-27T19:57:43.000Z"
   },
   {
    "s": "GBP/USD",
    "m": "Forex",
    "d": 4,
-   "p": 1.3127,
-   "ch": 0.12,
-   "asof": "2026-11-27T10:53:47.000Z"
+   "p": 1.3097,
+   "ch": -0.11,
+   "asof": "2026-11-27T19:57:43.000Z"
   },
   {
    "s": "USD/JPY",
    "m": "Forex",
    "d": 2,
-   "p": 159.519,
-   "ch": 0.18,
-   "asof": "2026-11-27T10:54:41.000Z"
+   "p": 159.56,
+   "ch": 0.21,
+   "asof": "2026-11-27T19:58:30.000Z"
   },
   {
    "s": "AUD/USD",
    "m": "Forex",
    "d": 4,
-   "p": 0.6676,
-   "ch": 0.63,
-   "asof": "2026-11-27T10:53:47.000Z"
+   "p": 0.6651,
+   "ch": 0.26,
+   "asof": "2026-11-27T19:57:43.000Z"
   },
   {
    "s": "USD/CAD",
    "m": "Forex",
    "d": 4,
-   "p": 1.424,
-   "ch": -0.01,
-   "asof": "2026-11-27T10:54:41.000Z"
+   "p": 1.4248,
+   "ch": 0.05,
+   "asof": "2026-11-27T19:58:31.000Z"
   },
   {
    "s": "USD/CHF",
    "m": "Forex",
    "d": 4,
-   "p": 0.8357,
-   "ch": 0.25,
-   "asof": "2026-11-27T10:54:41.000Z"
+   "p": 0.8362,
+   "ch": 0.31,
+   "asof": "2026-11-27T19:58:28.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 61557.41,
-   "ch": 1.75,
-   "asof": "2026-11-27T10:54:38.000Z"
+   "p": 59828.37,
+   "ch": -1.1,
+   "asof": "2026-11-27T19:58:22.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 1726.68,
-   "ch": 2.31,
-   "asof": "2026-11-27T10:54:37.000Z"
+   "p": 1669.05,
+   "ch": -1.11,
+   "asof": "2026-11-27T19:58:28.000Z"
   },
   {
    "s": "S&P 500",
    "m": "Stocks",
    "d": 2,
-   "p": 7182.78,
-   "ch": -0.25,
-   "asof": "2026-11-25T21:32:06.000Z"
+   "p": 7297.49,
+   "ch": 1.6,
+   "asof": "2026-11-27T18:38:39.000Z"
   },
   {
    "s": "Nasdaq",
    "m": "Stocks",
    "d": 2,
-   "p": 23585.803,
-   "ch": -0.62,
-   "asof": "2026-11-25T22:15:59.000Z"
+   "p": 24129.5,
+   "ch": 2.31,
+   "asof": "2026-11-27T19:15:59.000Z"
   },
   {
    "s": "Dow Jones",
    "m": "Stocks",
    "d": 2,
-   "p": 50182.95,
-   "ch": 0.33,
-   "asof": "2026-11-25T21:32:17.000Z"
+   "p": 50774.94,
+   "ch": 1.18,
+   "asof": "2026-11-27T18:38:45.000Z"
   },
   {
    "s": "Gold",
    "m": "Commodities",
    "d": 2,
-   "p": 3704.3,
-   "ch": 3.92,
-   "asof": "2026-11-27T10:44:11.000Z"
+   "p": 3668.5,
+   "ch": 2.91,
+   "asof": "2026-11-27T19:44:58.000Z"
   },
   {
    "s": "WTI Oil",
    "m": "Commodities",
    "d": 2,
-   "p": 85.78,
-   "ch": 2.51,
-   "asof": "2026-11-27T10:44:31.000Z"
+   "p": 83.08,
+   "ch": -0.72,
+   "asof": "2026-11-27T19:44:59.000Z"
   },
   {
    "s": "USD/KES",
    "m": "Forex",
    "d": 2,
-   "p": 130.05,
-   "ch": 0,
-   "asof": "2026-11-27T06:10:58.000Z"
+   "p": 130.1,
+   "ch": 0.04,
+   "asof": "2026-11-27T19:51:38.000Z"
   },
   {
    "s": "USD/ZAR",
    "m": "Forex",
    "d": 3,
-   "p": 17.3283,
-   "ch": -1.25,
-   "asof": "2026-11-27T10:54:41.000Z"
+   "p": 17.3746,
+   "ch": -0.99,
+   "asof": "2026-11-27T19:58:31.000Z"
   },
   {
    "s": "USD/NGN",
    "m": "Forex",
    "d": 2,
-   "p": 1360.63,
-   "ch": 0.12,
-   "asof": "2026-11-27T10:48:17.000Z"
+   "p": 1356.63,
+   "ch": -0.17,
+   "asof": "2026-11-27T19:54:08.000Z"
   },
   {
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 73.34,
-   "ch": 3.4,
-   "asof": "2026-11-27T10:54:34.000Z"
+   "p": 71.94,
+   "ch": 1.42,
+   "asof": "2026-11-27T19:58:27.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 0.9791,
-   "ch": 3.84,
-   "asof": "2026-11-27T10:54:32.000Z"
+   "p": 0.9489,
+   "ch": 0.63,
+   "asof": "2026-11-27T19:58:27.000Z"
   },
   {
    "s": "Apple",
    "m": "Stocks",
    "d": 2,
-   "p": 355.58,
-   "ch": 0.43,
-   "asof": "2026-11-25T21:00:02.000Z"
+   "p": 358.54,
+   "ch": 0.83,
+   "asof": "2026-11-27T18:00:01.000Z"
   },
   {
    "s": "Tesla",
    "m": "Stocks",
    "d": 2,
-   "p": 380.14,
-   "ch": -1.18,
-   "asof": "2026-11-25T21:00:02.000Z"
+   "p": 400,
+   "ch": 5.22,
+   "asof": "2026-11-27T18:00:00.000Z"
   },
   {
    "s": "Nvidia",
    "m": "Stocks",
    "d": 2,
-   "p": 149.3,
-   "ch": -3.91,
-   "asof": "2026-11-25T21:00:01.000Z"
+   "p": 150.49,
+   "ch": 0.8,
+   "asof": "2026-11-27T18:00:00.000Z"
   },
   {
    "s": "Silver",
    "m": "Commodities",
    "d": 3,
-   "p": 44.605,
-   "ch": 10.03,
-   "asof": "2026-11-27T10:44:09.000Z"
+   "p": 43.702,
+   "ch": 7.81,
+   "asof": "2026-11-27T19:44:56.000Z"
   }
  ],
  "news": [
+  [
+   "Forex",
+   "med",
+   "World in Brief: Zelensky criticises Trump’s friendliness with Putin; Europe’s next central-bank chief",
+   "The Economist",
+   "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmt0WjN2QlFzQ3RMWUNHQ1Fxc21WYzVrNE5DTWZ6TE90b2MxOFpYR1gyY3p3NVhMdThvdmRwa1hkV1hGT2tkbjlHeng4Z1psMkVzeXZHWjNNMEdsSjFqRVVSY1dmZldvOUxmOWVmY25yMjFydWE4V1lpcW16YWJhWVhhYkJ4YnZFczktbnVaOWNoMURqcmRR?oc=5"
+  ],
   [
    "Forex",
    "med",
@@ -351,53 +358,46 @@
    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaktQNmpwalZ6MUN4ZFF0OG14aGVqRVh3OWl5MHlLTHNFd3FJNi10U1I1UGI1bjJqRm15NGR3UXJtcFRKcjZtbmlZZF9tVFdub0N0Zl85RTBodGE0OHFyVWM5M1BESkE5Y1JwRV8xaWc2a1owN05TSUw5aGE2UFMta0l3dURQRllvZkM4NUZ5UGI3dWpZeDFxbDB5enJUWWpfMDJnWll6SGczVXpjanVkMFJ3NzVrdw?oc=5"
   ],
   [
-   "Forex",
-   "high",
-   "Zambia’s Central Bank Holds Key Rate as Inflation Risk Grows",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV1JaUE16bkhyYUlHV0xsUWF0Z05aUVZwQno2T2VGcWtpU2ZLS1V4cWw1dkRuaGxGeGcxNU9JN3ZaaXk3bF84WEhxbmRRMmV3YnVWMDRCQUkzSHloZ1RST2xKeXdQeW5naS1YSllsbWRMckIwb09MVno4SUlteHlUcTUzaTNyb2YyN2pYSVlGQmZGMHpPNjg1UGZLZHY4eXBDeml2U0RkV2FSQ01ZaVVF?oc=5"
+   "Crypto",
+   "med",
+   "Bitcoin Bounces as Optimism Returns to Markets After Holiday",
+   "Bloomberg",
+   "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYWFrcmFmLV9SaV9CS3VndG9JeHhjek1zVWpxVFNudkFEVE1sQktUZGo1eXhGQ0xYZVpiVk15TkVmVTV1MDFzUkFqOUg1RUFXeDRRLUdxU1JPTl9PRi1jVndVT2d5SXRwNkhlMTU1WjlOb0xWWFZ5aHpCazRNVUE0MklQbjY4WUlGZjJ6SHM2NjJTWGQ5YVUxYlpLeDV1V0thMnBIQTAwVFBscl91ZzA2Zw?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin rises 2% as tech futures gain 3% and silver jumps 7%",
-   "CoinDesk",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3d0UnhtUmlNLVlfbC1TOE5wSWtxZ19KNXdpbkJIaENPc0hGNVhVNlgwZk5tMnRzbWlQcmFNMlNxZHdGTmZVODlRRWtsa2dJeklGdXpPN2s2andDc0FBQ2w5a3d5OElrVWFaWnB3Q0dQb0dlVkRRLXRUNjZ1RTgya19jcVRYYUNXTzJ6Zkw2cXVTS3RkRm1JcENqV05vR21xLWxMeFZCV1hDVmRZM3lWRg?oc=5"
-  ],
-  [
-   "Crypto",
-   "med",
-   "Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15",
-   "The Block",
-   "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONXAyVzlGczQydm1aZlZ0UEFrZndNeEdCYjA0aDRLUGVvck84T3hndmMwNGFVMnREZ2dZOU16NG5wdTczem0tVllaa1ZVdVFEbEJkMGJxdndSQWV5TlpTMmM3aE1DVGdQal92VHoyanlDS0w1LXBmMmxQWTlaaWZpclEwYVlpSDVnUW5vdk9IYXJ1Y2ZQXy1xRUZIREtDM0JrMDlCaVhPbTlnUQ?oc=5"
+   "$7 Billion in Bitcoin Options Just Expired: Here’s What It Means",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbGR2djg0MVB4eHBfTDZuUXpPYVFkSDVBSHhScUNDOXRvei0yeG9ndVNPeVNnang3d3ZDMkhpVEVXclZjYWdIYzFhWERPa2FSa1pxckpqelhIb0EtMG03TXh2MHVmVFFTeDd0RURiR3Q1LThzeWx1S2VyOHlwa0FERVg5T3Nqc1F6eVRCekVHR3cxT1JHdUh6Tno4dEw?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Trump Can’t Rescue The Stock Market. Here’s What Can.",
-   "WSJ",
-   "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUkpRejhPeEh2RnhWZndBWFpzM0pBNVBpaVVpOVBMaGVPSW9oVlgzU3hNVVBqTnZWejQ3QlpYX3BheFh2M3RwanhvdmZESll0UDI4eHRYUEJIUUtYSDB3ZmxNdDNQSVJsZWgybW1VT0RSSWpUb1drY2ozY2E5VDh0OUxxME5oenctV0lpWE1xYk9kY21Zal9jVA?oc=5"
+   "Wall Street ends higher as battered AI stocks gain in volatile week",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWJJc3ROZk0wcEN4cGlsTjNfUmVCcmh6bnZrNXkzVjAwdVMwOC1ZQUM2bUVUMHBSbGVSdEFqNTFIUC1XM3lfYTdaUFNUNWhUdlhVVjNCMEJmaG1LaEEwRDF2TndBbk9fTkRucTJPYkhza0hEMk5tWmV1MHI4YUZ2Z3lIOW01dFJ2SGJHSFJSSUR1ZU9wMThUbDlhNXA?oc=5"
   ],
   [
    "Stocks",
-   "high",
-   "Nasdaq futures surge as investors pile back into battered AI stocks",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVGx5dUNYcGtCM2ZGUXB0RDNfNzF5TkNJNEctdjFiak5JRHExWWZVODg2c3hDcDZCUjdpWGpVYUg2bFE4UE5NQVJZUk52UzZGS082TTJiRWN4MTVxQlNXSTlmWnkzXzlyUzJONjlGSkNzVFNFSUlvRTRXQWxpbC1mQ2llcXRWWEIwZlpnVjBDZy1LcXU0MGc?oc=5"
+   "med",
+   "Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street",
+   "Bloomberg",
+   "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcFBtQzZXcFliTUQ0S3RaX3ZmZ1dIYlZxT3c2SDFHSElpVzdFajZ3TFRSUG80MHRHZURmankyTFdBMGNrRkZUZzZ3NHRUc2pYUGpJNGtRSTVHc0lHNExhaE10WF8yRUpNUVhaUTk1ZW9WaWdLa3RPem5WTDVIT0g1RlY1RldiWm1vd1ZvajQzaWNnSW1ldlF5SjV5VlBsdm91Mkx2UWs3eXh1cDEyRm5MMEl3?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Oil on track to snap 3-week losing streak over supply fears",
+   "Iraq in talks with OPEC for higher oil quota, minister says before OPEC+ meeting",
    "Reuters",
-   "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTzVQVzE5aGdzbGVhNEUtVl94M0V3RjN5Rks4UDU0U0plazFDcjFnUTBMMHBvdk9BRzFaVHljSXk1ZFdzSjlRTVRXNGZ0cnRyUWRRbFJaRjBsVWNFbDZqSnQ0cHo0TW5fRDlwMWlKWDI3V2ROcnlXczVET1RqSXR6UGtZSTZ0OTQtY1YwaG1yYTRwQnZ6TW43azNGNTFqMmpkNFhtbVJwRnVkVERhR1NnSlFIMzExZw?oc=5"
+   "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdndaSmMtcnZ2OU41SkZNYnNtNlU5ZnRWTFlOamJLb0x6eHRhRHJuQkNMY1oybHlpOUFkRWdncURJcUc0eGZvM2JNZUc4SGdvZG0yeTJFY0llZWJUeGtMRzQxaHFZNmZ0OS1YWFloelk4eDBVenhkQlotREpzR2F1cFgxbkZaT18zRWtGbHd2aTZENWFDMmhKaU13WnpSQkhIaUZGTDZtMFkwa2ZxUjdpTkRfTXRZMkNUcW1FM3hn?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Brent trades near month's high as Mideast conflict threatens supply",
-   "CNBC",
-   "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kTXJCQkh3RDcyMTRTOVNxdUFGSmZvbVFSRzVFaE0wUkFVVTRPWG9meW11b2pENGhMQzZxa19qcW9nb0FkLUs4N2ZldWptV2ZfcWpEZzFXZTdNWnVQTV9odHFaZW0zRzU4Vm9yMTAzejhLS09SRnAxctIBfkFVX3lxTFBzMEYwNlZnVHRQWjdYX1YxYlVuNTFUYXV6SlJTb0lialVTb1hXbElvMnR6dkFuRjNiVXNpUXRrMTZ2NFpBYUhwUHpRMF9zNnVRODhEZk9JaUZrUF9fNmtKRDl1b3E2M0NzWTFYdVlKN29uUHBncUROcFNONjRmdw?oc=5"
+   "U.S. Encouraged Iraq and Venezuela to Leave OPEC, Sources Say",
+   "Crude Oil Prices Today | OilPrice.com",
+   "https://news.google.com/rss/articles/CBMivwFBVV95cUxNajhfVmttRkZVVS02V00zX1JYOG9CQUo4azVvMGxYYll6dmdNb0pnaVZJTTVLNE5xeGlQRXZYdDJjSGVZZF9Fc2JnNGpyUnh4Vjh2UWY3NHFHaGcwY3d2X0NSRWZIVXRyQnlFb1ZiaEp3eV9fZ1poOUJnS2RGQVdzX2loVk1xcjBkOG5SUzQ2ZVlBNkIwSnFPRFZpdEI0RGFzVnhHVjV4eVNneXNFZUZqTFVQUjc5cVIyOGlrSjVfWdIBxAFBVV95cUxOU2Y3UHFuNndTczdKUXhIRWxyTW5kTXZiSFhZdWU5bXZVOFFsa1NSdFlqNDBUTWRfaGJRWjB5OGFBVjV5ZG9ETkRWeEhxQy1oY18yZnlRRVQ3SFZ6SXRUMHgzNXZYZmp3M0dCRUpXZFp6S21JVW1nQlJfNUY5TlZWTE9aNnBGaF8tSElNTDI2azU3REZMT1ZGYkFyNUZiYkdReDEycXlScTNVamVRSVR0NHJtY2ZER3E0aldpVzVxTnlXUE5o?oc=5"
   ]
  ]
 }
