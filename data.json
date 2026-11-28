@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T02:42:38.234Z",
+ "updated": "2026-11-28T11:49:28.945Z",
  "events": [
   {
    "iso": "2026-11-23T03:15:00-05:00",
@@ -187,7 +187,7 @@
    "d": 2,
    "p": 159.515,
    "ch": 0.18,
-   "asof": "2026-11-27T22:00:18.000Z"
+   "asof": "2026-11-28T05:20:22.000Z"
   },
   {
    "s": "AUD/USD",
@@ -195,7 +195,7 @@
    "d": 4,
    "p": 0.6651,
    "ch": 0.26,
-   "asof": "2026-11-28T00:29:43.000Z"
+   "asof": "2026-11-28T05:49:43.000Z"
   },
   {
    "s": "USD/CAD",
@@ -203,7 +203,7 @@
    "d": 4,
    "p": 1.4248,
    "ch": 0.05,
-   "asof": "2026-11-28T00:00:01.000Z"
+   "asof": "2026-11-28T05:20:22.000Z"
   },
   {
    "s": "USD/CHF",
@@ -211,23 +211,23 @@
    "d": 4,
    "p": 0.8357,
    "ch": 0.25,
-   "asof": "2026-11-27T22:00:18.000Z"
+   "asof": "2026-11-28T05:20:22.000Z"
   },
   {
    "s": "Bitcoin",
    "m": "Crypto",
    "d": 0,
-   "p": 59950.48,
-   "ch": 0.14,
-   "asof": "2026-11-28T02:42:37.000Z"
+   "p": 59167.88,
+   "ch": -1.17,
+   "asof": "2026-11-28T11:49:20.000Z"
   },
   {
    "s": "Ethereum",
    "m": "Crypto",
    "d": 2,
-   "p": 1662.6,
-   "ch": 0.09,
-   "asof": "2026-11-28T02:42:34.000Z"
+   "p": 1646.52,
+   "ch": -0.87,
+   "asof": "2026-11-28T11:49:21.000Z"
   },
   {
    "s": "S&P 500",
@@ -283,7 +283,7 @@
    "d": 3,
    "p": 17.3695,
    "ch": -1.01,
-   "asof": "2026-11-28T00:00:01.000Z"
+   "asof": "2026-11-28T05:20:22.000Z"
   },
   {
    "s": "USD/NGN",
@@ -297,17 +297,17 @@
    "s": "Solana",
    "m": "Crypto",
    "d": 2,
-   "p": 71.63,
-   "ch": 0.07,
-   "asof": "2026-11-28T02:42:31.000Z"
+   "p": 70.87,
+   "ch": -0.99,
+   "asof": "2026-11-28T11:49:26.000Z"
   },
   {
    "s": "XRP",
    "m": "Crypto",
    "d": 4,
-   "p": 0.9492,
-   "ch": 0.13,
-   "asof": "2026-11-28T02:42:32.000Z"
+   "p": 0.9388,
+   "ch": -0.97,
+   "asof": "2026-11-28T11:49:20.000Z"
   },
   {
    "s": "Apple",
@@ -344,60 +344,46 @@
  ],
  "news": [
   [
-   "Forex",
-   "med",
-   "India central bank cuts reserve ratio maintenance to 90% from 99%",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMTZCVkNFN1hpMXFNenlmV015NDBlOER3VzJidHV4WndKWFVqLWNxQnNFdWl0clZiNFV0RGdsN3YzdjFQYzVISWNtZDJGaU55bFdzYVpVS3RPYk9pMEdHUFdfRVQ5N0hKcWdDYTVZc2F0YnMxUkJVYk02Z09Sa1NMV1FldUo4RDRNd1ZGVWRNQjJKYnZLYlVaR2R4eEdMcTBoMGNRT0tB?oc=5"
-  ],
-  [
-   "Forex",
-   "med",
-   "World in Brief: Zelensky criticises Trump’s friendliness with Putin; Europe’s next central-bank chief",
-   "The Economist",
-   "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmt0WjN2QlFzQ3RMWUNHQ1Fxc21WYzVrNE5DTWZ6TE90b2MxOFpYR1gyY3p3NVhMdThvdmRwa1hkV1hGT2tkbjlHeng4Z1psMkVzeXZHWjNNMEdsSjFqRVVSY1dmZldvOUxmOWVmY25yMjFydWE4V1lpcW16YWJhWVhhYkJ4YnZFczktbnVaOWNoMURqcmRR?oc=5"
-  ],
-  [
    "Crypto",
    "med",
-   "A 'death cross' in the bitcoin (BTC) price is coming: Crypto Daily",
+   "Trump-linked crypto token WLFI plunges 50% to record lows",
    "CoinDesk",
-   "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSTU4ZXNlWnE3bDVJSHl2TXFLVFpXb3NqZXgxblJ0N3haWmtwc2dZVldlMlZuSngxTmtkNllyX3pDOWdqTjV2WmszMFRESnd4T2YxWTJpM0tHOW1oQ0FwZTN2RDF3NFE5dXdSUWhVZWIzZGxuejlpVU1OeDZUVzhzbU5uY0NDdmtfQjdYRk5kYWZOYTBONTQyaXQ2VWhhbWF1Vjk0XzdoMHhXalVlVnlGRUo0NWdZdw?oc=5"
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVDJXelFqU09tbFZlLXlaNXJZSDJ0NjY1NHRCVm04WjBROVJDaFdoRjlXdkl2WWc5UW9DQ3JRVGFHeGVFbG93VTFqMUpnZHl4aWxJRmlXRGNFbTZlYVdEeGRINVRpQk5fQllkRlB4cGRsTEFYX19xaUU0NzZfTF9fd1dFOElmTmVGZzR5OUxaamV0aml0?oc=5"
   ],
   [
    "Crypto",
    "med",
-   "Bitcoin Bounces as Optimism Returns to Markets After Holiday",
-   "Bloomberg.com",
-   "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYWFrcmFmLV9SaV9CS3VndG9JeHhjek1zVWpxVFNudkFEVE1sQktUZGo1eXhGQ0xYZVpiVk15TkVmVTV1MDFzUkFqOUg1RUFXeDRRLUdxU1JPTl9PRi1jVndVT2d5SXRwNkhlMTU1WjlOb0xWWFZ5aHpCazRNVUE0MklQbjY4WUlGZjJ6SHM2NjJTWGQ5YVUxYlpLeDV1V0thMnBIQTAwVFBscl91ZzA2Zw?oc=5"
+   "New Credit Cards Offering 4% Cash Back in Bitcoin Are Coming Soon. Do They Deserve a Place In Your Wallet?",
+   "The Motley Fool",
+   "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNa0NBTFNVU19laWVGNXJBMXJZUHNTRlIwRnI0SWU1dm9DU08zblRaVGNqaXUwVUVGbmN3M2hFdkg1amItVzlpaW9UVFAtcXJaenhJY05JekN2RWpybllMeXpHMVNzeERpMTBjMW52OWY5QnpPc002aDhVcGctbnZFX241UXN1WExoY2c4SFIxb0N2dTVsU1dqLUJkRnJWV0pqY21zc1h6X3lvZ1k3TEZrNWhMcjR0YW9GeEs5SklFSWthejNrQ3EzRy0xQ0k2VnlyS2EyV0xoaVIwUWhCTE9F?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Americans Are More Exposed to the Stock Market Than Ever Before",
+   "Nvidia Tells Partners to Pause Shipments to Southeast Asia",
    "WSJ",
-   "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwajBpX0pHSkQ3RFZLUTFTZlN4Um0xdWFJOEhJd0ZaT2VYQmVpeEEtWVBqdVZ2YnVyNkUzTC1pMm9mSGd2ZGFwQkZWd25iSHZRV1lYZUpFM2tnVTU3VjNsSXctWTRMM2tuT1BIMk1IX1ZHN2tt?oc=5"
+   "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGFER2Vpbl9JMXo5TFF1MFdQemdLcWFENFE0eGhwRS1pWkVyVTJvMFQ3RnRxUURGSjBxbHVMVVlyYzk0N3ZVU0tfb0tJa3NJREFmSzNmbkVWd0xxdDlvLUlqNzQ1bnBmUExWNWxmVTczRG1UNEQzd3NReXh5N2xTU3IwbkRwcDJFT1BXYzExU3NLMVNkZ3RR?oc=5"
   ],
   [
    "Stocks",
    "med",
-   "Wall St Week Ahead Volatile stock market confronts jobs data, rate view as next tests",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQWRTQ0tlUW54X0tjS2R6bWdzblVkUnZ5VnBCa2NjWkd5Q2xIWUh0MUFWVW4weVlRTTBpbDhFWTFsbmYwc2NqOERDdGxTZmpHTzdHRVk2b2o5U0RZYm1WMXZhaEJMRXFrQmxKaUViQXNNdE1XZ3RTT05VbmxqX3BYOXNONGFkMVFTU1VLVVRjTzdfUTloYnhJaVpsWS1YMV9FVGlmeUdYRmk0clkzM3FhQjZuUnRfYXdZRnVHdTE2Smo1V2M?oc=5"
+   "S&P 500 Market Correction: 3 “Safe” Stocks to Buy Now",
+   "Yahoo Finance",
+   "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc1VzclBQbFdGRlFGeVdwdGUtUVJpWjNacEpONWltQlBGR0lGczhJOE1XRmFuTERyeUttb2puZWZHN1hTSFZnZFZQREdWZTAwMnBZdXVoOVVvUVdnS0VnQjBXbHRKZzFxNU9DN2RmTTI4c3BjTW1aT3NiZ0xkU29HWk9kZklKNkczZEh4N1FDbFhlMHRv?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "Iraq in talks with OPEC for higher oil quota, minister says before OPEC+ meeting",
-   "Reuters",
-   "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdndaSmMtcnZ2OU41SkZNYnNtNlU5ZnRWTFlOamJLb0x6eHRhRHJuQkNMY1oybHlpOUFkRWdncURJcUc0eGZvM2JNZUc4SGdvZG0yeTJFY0llZWJUeGtMRzQxaHFZNmZ0OS1YWFloelk4eDBVenhkQlotREpzR2F1cFgxbkZaT18zRWtGbHd2aTZENWFDMmhKaU13WnpSQkhIaUZGTDZtMFkwa2ZxUjdpTkRfTXRZMkNUcW1FM3hn?oc=5"
+   "Oil Futures Settle Lower Ahead of OPEC+ Policy Meeting",
+   "WSJ",
+   "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTlk0cWFXc1dCWFZnYlZPbnBBNGtndk1USE5BM3dhd1RYNzNZdkJiYlNxWmtsLVoxa3FSR0FmNkdKaEVsaVZjYnYwaHl3QjVUbnpLcFpfUDRyenNXMjVFOVNEY083SG9rSTBLeHd4ZENhb1hBc0gtS3kyYzRQUU8xM1duaG51WHZjRFhRcXh5Y1FrdEk3WTIyMXFhdGw3ZzliWjc3RkJDVGZYT252YXRZRTd2Y3RXY2wwbWVVNEREWQ?oc=5"
   ],
   [
    "Commodities",
    "med",
-   "U.S. Encouraged Iraq and Venezuela to Leave OPEC, Sources Say",
-   "Crude Oil Prices Today | OilPrice.com",
-   "https://news.google.com/rss/articles/CBMivwFBVV95cUxNajhfVmttRkZVVS02V00zX1JYOG9CQUo4azVvMGxYYll6dmdNb0pnaVZJTTVLNE5xeGlQRXZYdDJjSGVZZF9Fc2JnNGpyUnh4Vjh2UWY3NHFHaGcwY3d2X0NSRWZIVXRyQnlFb1ZiaEp3eV9fZ1poOUJnS2RGQVdzX2loVk1xcjBkOG5SUzQ2ZVlBNkIwSnFPRFZpdEI0RGFzVnhHVjV4eVNneXNFZUZqTFVQUjc5cVIyOGlrSjVfWdIBxAFBVV95cUxOU2Y3UHFuNndTczdKUXhIRWxyTW5kTXZiSFhZdWU5bXZVOFFsa1NSdFlqNDBUTWRfaGJRWjB5OGFBVjV5ZG9ETkRWeEhxQy1oY18yZnlRRVQ3SFZ6SXRUMHgzNXZYZmp3M0dCRUpXZFp6S21JVW1nQlJfNUY5TlZWTE9aNnBGaF8tSElNTDI2azU3REZMT1ZGYkFyNUZiYkdReDEycXlScTNVamVRSVR0NHJtY2ZER3E0aldpVzVxTnlXUE5o?oc=5"
+   "US urged Venezuela and Iraq to consider leaving OPEC",
+   "Nation Thailand",
+   "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WNEtsQmRaZ2RBZXRPT0hOV1pHTFh3T2NIamtheEFTdUJXT3JiY0RCRjVEYlROYmJBbGxrc1Z5aHZTMkVZS1JQdDJxaE5KeHprVFdOUGcxSVJRREJGTXdn?oc=5"
   ]
  ]
 }
